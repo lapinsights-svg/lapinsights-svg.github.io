@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Lapinsights — SPIRITUALITÉ</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body class="silhouette">
+
+    <header>
+      <div class="header-left">
+        <div class="portrait-flottant">
+          <img src="images/Celeste.png" alt="Portrait de Celeste" />
+        </div>
+
+        <div class="logo-title">
+          <a href="index.html" class="logo-link">
+            <h1>Lapinsights</h1>
+          </a>
+          <p>Terrier des mondes, éclats et correspondances</p>
+        </div>
+      </div>
+
+      <section class="page-header-block">
+        <h2>SPIRITUALITÉ</h2>
+        <p>Cheminer vers l’invisible, écouter ce qui respire derrière le monde.</p>
+      </section>
+
+      <nav class="menu-haut">
+        <div class="menu-archives disabled">
+          <button class="menu-button">Archives</button>
+
+          <div class="menu-archives-dropdown">
+            <a href="archives-2026.html">2026</a>
+            <a href="archives-2025.html">2025</a>
+          </div>
+        </div>
+
+        <button onclick="window.location.href='contact.html'">Contact</button>
+      </nav>
+    </header>
+
+    <!-- ⭐ CORRECTION : un seul <main> -->
+    <main>
+      <div class="contenu-page">
+        <div class="liste-actus">
+
+          <div class="pdf-item">
+            <div class="pdf-header">
+              <span class="tag-date">18/03/2026</span>
+              <h3>Byron Katie2</h3>
+              <button onclick="openPDF('bibliotheque/20260318_ByronK.pdf')">Ouvrir le PDF</button>
+            </div>
+          </div>
+             <div class="pdf-item">
+            <div class="pdf-header">
+              <span class="tag-date">14/05/2024</span>
+              <h3>Byron Katie1</h3>
+              <button onclick="openPDF('bibliotheque/20240514_ByronKatie.pdf')">Ouvrir le PDF</button>
+            </div>
+          </div>
+
+      </div>
+    </main>
+
+    <!-- ⭐ MODAL POUR AFFICHER LES PDF -->
+    <div id="pdfModal" class="modal">
+      <div class="modal-content">
+        <span class="close" onclick="closePDF()">&times;</span>
+        <iframe id="pdfFrame" src="" frameborder="0"></iframe>
+      </div>
+    </div>
+
+    <!-- ⭐ SCRIPT POUR OUVRIR ET FERMER LES PDF -->
+    <script>
+      function openPDF(pdfPath) {
+        const modal = document.getElementById("pdfModal");
+        const frame = document.getElementById("pdfFrame");
+        frame.src = pdfPath;
+        modal.style.display = "block";
+      }
+
+      function closePDF() {
+        const modal = document.getElementById("pdfModal");
+        const frame = document.getElementById("pdfFrame");
+        frame.src = "";
+        modal.style.display = "none";
+      }
+
+      // Fermeture en cliquant hors du modal
+      window.onclick = function(event) {
+        const modal = document.getElementById("pdfModal");
+        if (event.target === modal) {
+          closePDF();
+        }
+      };
+    </script>
+
+    <!-- Statcounter -->
+    <script type="text/javascript">
+      var sc_project=13213092; 
+      var sc_invisible=1; 
+      var sc_security="a6e8d30c"; 
+    </script>
+    <script type="text/javascript"
+    src="https://www.statcounter.com/counter/counter.js"
+    async></script>
+    <noscript><div class="statcounter"><a title="Web Analytics"
+    href="https://statcounter.com/" target="_blank"><img
+    class="statcounter"
+    src="https://c.statcounter.com/13213092/0/a6e8d30c/1/"
+    alt="Web Analytics"
+    referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+
+    <footer>© Céleste R. — CC-BY-NC-ND</footer>
+
+  </body>
+</html>
