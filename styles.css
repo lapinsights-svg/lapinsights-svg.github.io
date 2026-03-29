@@ -749,8 +749,7 @@ header {
    PAGE À PROPOS — STYLES SPÉCIFIQUES
    ----------------------------------------- */
 
-/* Effet double fond : accueil.png en voile
-   (fusion des deux blocs ::before) */
+/* Effet double fond : accueil.png en voile */
 .fond-terrier::before {
   content: "";
   position: fixed;
@@ -759,37 +758,41 @@ header {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed; /* stabilise l'effet */
-  opacity: 0.35; /* tu gardes ton effet actuel */
-  pointer-events: none; /* évite tout conflit de clic */
+  background-attachment: fixed;
+  opacity: 0.35;
+  pointer-events: none;
   z-index: -1;
 }
 
-/* Consolidation structurelle (ne change pas le rendu) */
+/* Consolidation structurelle */
 .fond-terrier {
   position: relative;
-  z-index: 0; /* garantit que le texte reste au-dessus */
+  z-index: 0;
 }
 
-/* Repositionner le titre À propos (uniquement cette page) */
+/* Repositionner le titre À propos */
 .fond-terrier .page-header-block {
-  margin-top: 40px; /* ajuste si tu veux plus haut ou plus bas */
+  margin-top: 40px;
   text-align: left;
 }
 
-/* Harmoniser la police du texte avec celle de "Lapinsights" */
+/* Harmoniser la police ET LA COULEUR avec "Lapinsights" */
+.fond-terrier .page-header-block h2,
+.fond-terrier .page-header-block p,
 .fond-terrier .contenu-page,
-.fond-terrier .contenu-page p {
+.fond-terrier .contenu-page p,
+.fond-terrier .apropos-texte p {
   font-family: "Cormorant Garamond", serif;
   font-size: 1.25rem;
   line-height: 1.6;
-  color: #ffffff; /* pour corriger la couleur que tu signalais */
+  color: #ffffff; /* même couleur que ton titre Lapinsights */
 }
 
 /* Lisibilité douce sur fond double */
 .fond-terrier .apropos-texte p {
   text-shadow: 0 0 8px rgba(0,0,0,0.35);
 }
+
 
 
 
