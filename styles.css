@@ -756,8 +756,7 @@ header {
   font-weight: 300;           /* élégance */
 }
 /* Si tu veux encore plus d’air, tu peux monter à 1.3rem ou 1.35rem */
-
-/* Animation du Lapin sur le titre de la page Index*/
+/* Animation du Lapin sur le titre de la page Index */
 /* Le titre garde sa couleur orangée */
 .titre-terrier a {
   color: var(--accent);
@@ -773,13 +772,15 @@ header {
   gap: 0.8rem;
 }
 
-/* Le lapin */
+/* Le lapin (tourné vers la droite) */
 .lapin {
   position: absolute;
   left: -2rem;               /* point de départ à gauche */
   top: 0.1rem;
   font-size: 1.2rem;
   opacity: 0;
+  transform-origin: center;
+  transform: scaleX(-1);     /* le lapin regarde vers la droite */
   animation: lapinMarche 6s ease-in-out infinite;
 }
 
@@ -796,12 +797,12 @@ header {
 
 /* Animation du lapin */
 @keyframes lapinMarche {
-  0%   { opacity: 0; transform: translateX(0) translateY(0); }
+  0%   { opacity: 0; transform: scaleX(-1) translateX(0) translateY(0); }
   10%  { opacity: 1; }
-  40%  { opacity: 1; transform: translateX(11rem) translateY(-0.15rem); } /* marche */
-  50%  { opacity: 1; transform: translateX(13rem) translateY(-0.4rem); }  /* saut dans le terrier */
-  55%  { opacity: 0; transform: translateX(13.2rem) translateY(0); }      /* disparition */
-  100% { opacity: 0; transform: translateX(0); }
+  40%  { opacity: 1; transform: scaleX(-1) translateX(16rem) translateY(-0.15rem); } /* marche */
+  50%  { opacity: 1; transform: scaleX(-1) translateX(18rem) translateY(-0.4rem); }  /* saut dans le terrier */
+  55%  { opacity: 0; transform: scaleX(-1) translateX(18.2rem) translateY(0); }      /* disparition */
+  100% { opacity: 0; transform: scaleX(-1) translateX(0); }
 }
 
 /* Animation du terrier */
