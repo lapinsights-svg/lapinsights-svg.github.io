@@ -764,25 +764,23 @@ header {
   z-index: -1;
 }
 
-/* Consolidation structurelle */
 .fond-terrier {
   position: relative;
   z-index: 0;
 }
 
-/* Remonter le bloc titre */
+/* Remonter le bloc titre + lui donner le style "bloc gris + liseré orange" */
 .fond-terrier .page-header-block {
-  margin-top: 20px !important;
+  margin-top: 20px;          /* ajuste à 10px si tu le veux plus haut */
   text-align: left;
 
-  /* Style identique aux blocs d’accueil */
-  background-color: #f2f2f2;
+  background-color: #f2f2f2; /* gris comme sur l’accueil */
   border-left: 6px solid #ff7f00;
   padding: 20px;
   color: #333333;
 }
 
-/* Titre À PROPOS */
+/* Titre "À propos" dans ce bloc */
 .fond-terrier .page-header-block h2 {
   margin: 0;
   font-family: "Cormorant Garamond", serif;
@@ -790,7 +788,7 @@ header {
   color: #333333;
 }
 
-/* Sous-titre */
+/* Sous-titre "Un territoire pour penser..." */
 .fond-terrier .page-header-block p {
   margin: 5px 0 0 0;
   font-family: "Cormorant Garamond", serif;
@@ -798,14 +796,8 @@ header {
   color: #333333;
 }
 
-/* Texte du bloc À propos */
-.fond-terrier .apropos-texte p {
-  font-family: "Cormorant Garamond", serif;
-  font-size: 1.25rem;
-  line-height: 1.6;
-  color: #333333;
-  text-shadow: none;
-}
+/* ⚠ On ne touche PAS au reste du texte ici
+   (on laisse tes réglages globaux : couleur, ombre, etc.) */
 
 
 
