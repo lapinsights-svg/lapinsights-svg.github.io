@@ -745,15 +745,17 @@ header {
   cursor: pointer;
   z-index: 10000;
 }
-/* Style du texte long de la page À propos */
+/* Texte long de la page À propos */
 .apropos-texte {
-  max-width: 42rem;            /* largeur élégante, comme un article */
-  margin: 2rem 0 4rem 0;       /* respiration verticale */
-  padding-left: 1rem;          /* léger décalage vers la droite */
-  color: var(--texte-fonce);   /* couleur Lapinsights */
-  font-size: 1.25rem;          /* texte plus grand */
-  line-height: 1.75;           /* aération */
+  max-width: 40rem;              /* largeur élégante, colonne éditoriale */
+  margin: 3rem 0 5rem 0;         /* respiration verticale */
+  padding-left: 1rem;            /* léger retrait pour l’équilibre */
+  color: var(--accent);          /* couleur Lapinsights */
+  font-size: 1.35rem;            /* texte ample */
+  line-height: 1.8;              /* aération */
+  font-weight: 300;              /* élégance, légèreté */
 }
+
 
 /* Si tu veux encore plus d’air, tu peux monter à 1.3rem ou 1.35rem */
 
