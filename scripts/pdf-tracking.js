@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const link = document.createElement("a");
     link.href = pdfPath;
     link.target = "_blank";
-    link.textContent = button.textContent;
+    link.textContent = "Explorer le terrier";
     link.className = "pdf-button"; // pour garder ton style
 
     // Remplacer le bouton par le lien
