@@ -798,9 +798,9 @@ header {
 @keyframes lapinMarche {
   0%   { opacity: 0; transform: translateX(0) translateY(0); }
   10%  { opacity: 1; }
-  40%  { opacity: 1; transform: translateX(-16rem) translateY(-0.15rem); } /* marche */
-  50%  { opacity: 1; transform: translateX(-18rem) translateY(-0.4rem); }  /* saut dans le terrier */
-  55%  { opacity: 0; transform: translateX(-18.2rem) translateY(0); }      /* disparition */
+  40%  { opacity: 1; transform: translateX(-16.5rem) translateY(-0.15rem); } /* +0.5rem */
+  50%  { opacity: 1; transform: translateX(-18.5rem) translateY(-0.4rem); } /* +0.5rem */
+  55%  { opacity: 0; transform: translateX(-18.7rem) translateY(0); }       /* +0.5rem */
   100% { opacity: 0; transform: translateX(0); }
 }
 
