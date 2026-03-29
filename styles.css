@@ -756,6 +756,55 @@ header {
   font-weight: 300;           /* élégance */
 }
 /* Si tu veux encore plus d’air, tu peux monter à 1.3rem ou 1.35rem */
+.entrer-terrier {
+  position: relative;
+  display: inline-block;
+  overflow: visible;
+}
+
+/* Le lapin */
+.entrer-terrier .lapin {
+  position: absolute;
+  left: -1.5rem;          
+  top: 0.1rem;
+  font-size: 1.1rem;
+  opacity: 0;
+  animation: lapinEntre 6s ease-in-out infinite;
+  color: var(--lapin);
+}
+
+/* Le terrier (petit cercle) */
+.entrer-terrier .terrier {
+  position: absolute;
+  left: 5.5rem;            /* position devant le lapin */
+  top: 0.25rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  background: var(--lapin);
+  opacity: 0;
+  transform: scale(0.2);
+  animation: terrierOuverture 6s ease-in-out infinite;
+}
+
+/* Animation du lapin */
+@keyframes lapinEntre {
+  0%   { opacity: 0; transform: translateX(0); }
+  10%  { opacity: 1; }
+  45%  { opacity: 1; transform: translateX(5rem); } /* arrive au terrier */
+  55%  { opacity: 0; transform: translateX(5.2rem); } /* disparaît dedans */
+  100% { opacity: 0; transform: translateX(0); }
+}
+
+/* Animation du terrier */
+@keyframes terrierOuverture {
+  0%   { opacity: 0; transform: scale(0.2); }
+  40%  { opacity: 1; transform: scale(1); }   /* ouverture */
+  60%  { opacity: 1; transform: scale(1); }   /* le lapin entre */
+  80%  { opacity: 0; transform: scale(0.2); } /* fermeture */
+  100% { opacity: 0; transform: scale(0.2); }
+}
+
 
 
 
