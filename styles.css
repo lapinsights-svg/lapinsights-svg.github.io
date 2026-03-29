@@ -523,6 +523,27 @@ footer {
   transform: translateY(-2px);
   color: rgba(35, 70, 140, 0.95);
 }
+.pdf-button {
+  background: rgba(255, 255, 255, 0.22);
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 0.85rem;
+  color: var(--lapin);
+  cursor: pointer;
+  white-space: nowrap;
+  backdrop-filter: blur(4px);
+  transition: 0.3s ease;
+  text-decoration: none; /* important pour enlever le soulignement */
+  display: inline-block; /* pour se comporter comme un bouton */
+}
+
+.pdf-button:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.55);
+  transform: translateY(-2px);
+  color: rgba(35, 70, 140, 0.95);
+}
 
 /* Conteneur global pour aligner tous les contenus à gauche */
 .contenu-page {
