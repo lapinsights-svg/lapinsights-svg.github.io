@@ -778,6 +778,18 @@ header {
 .fond-terrier .apropos-texte p {
   text-shadow: 0 0 8px rgba(0,0,0,0.35);
 }
+/* Consolidation de l'effet double fond pour la page À propos */
+.fond-terrier {
+  position: relative;
+  z-index: 0; /* garantit que le texte reste au-dessus */
+}
+
+.fond-terrier::before {
+  pointer-events: none; /* évite tout conflit de clic */
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* stabilise l'effet */
+}
+
 
 
 
