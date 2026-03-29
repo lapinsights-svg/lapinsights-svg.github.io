@@ -769,36 +769,33 @@ header {
   z-index: 0;
 }
 
-/* Remonter tout le contenu de la page À propos */
+/* 1. Remonter le contenu de la page À propos */
 body.silhouette.fond-terrier main.contenu-page {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
+  margin-top: 0;
+  padding-top: 0;
 }
 
-/* Remonter le bloc titre + style "bloc gris + liseré orange" */
-body.silhouette.fond-terrier .page-header-block {
-  margin-top: 10px !important;      /* joue entre 0, 10, 20 pour l’alignement */
-  text-align: left;
+/* 2. Changer police + couleur pour cette page uniquement */
+body.silhouette.fond-terrier {
+  font-family: "Cormorant Garamond", serif;
+  color: #333333;
+}
 
-  background-color: #f2f2f2;        /* gris comme sur l’accueil */
+/* 3. Bloc titre À PROPOS : style + position */
+body.silhouette.fond-terrier .page-header-block {
+  margin-top: 10px;              /* baisse à 0 si tu le veux collé au header */
+  text-align: left;
+  background-color: #f2f2f2;
   border-left: 6px solid #ff7f00;
   padding: 20px;
 }
 
-/* Titre "À propos" dans ce bloc */
-body.silhouette.fond-terrier .page-header-block h2 {
-  margin: 0;
-  font-family: "Cormorant Garamond", serif !important;
-  font-size: 2rem;
-  color: #333333 !important;        /* foncé, pas blanc */
-}
-
-/* Sous-titre "Un territoire pour penser..." */
+/* 4. Titre + sous-titre dans ce bloc */
+body.silhouette.fond-terrier .page-header-block h2,
 body.silhouette.fond-terrier .page-header-block p {
-  margin: 5px 0 0 0;
-  font-family: "Cormorant Garamond", serif !important;
-  font-size: 1.2rem;
-  color: #333333 !important;
+  margin: 0;
+  font-family: "Cormorant Garamond", serif;
+  color: #333333;
 }
 
 
