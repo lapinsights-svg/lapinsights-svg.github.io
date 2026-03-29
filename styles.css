@@ -749,6 +749,10 @@ header {
    PAGE À PROPOS — STYLES SPÉCIFIQUES
    ----------------------------------------- */
 
+/* -----------------------------------------
+   PAGE À PROPOS — STYLES SPÉCIFIQUES
+   ----------------------------------------- */
+
 /* Effet double fond : accueil.png en voile */
 .fond-terrier::before {
   content: "";
@@ -769,35 +773,40 @@ header {
   z-index: 0;
 }
 
-/* 1. Remonter le contenu de la page À propos */
+/* 🔥 1. Neutraliser l’espace sous le header */
+body.silhouette.fond-terrier header {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* 🔥 2. Remonter le contenu de la page */
 body.silhouette.fond-terrier main.contenu-page {
-  margin-top: 0;
-  padding-top: 0;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }
 
-/* 2. Changer police + couleur pour cette page uniquement */
+/* 🔥 3. Forcer la police + couleur pour cette page uniquement */
 body.silhouette.fond-terrier {
-  font-family: "Cormorant Garamond", serif;
-  color: #333333;
+  font-family: "Cormorant Garamond", serif !important;
+  color: #333333 !important;
 }
 
-/* 3. Bloc titre À PROPOS : style + position */
+/* 🔥 4. Bloc titre À PROPOS */
 body.silhouette.fond-terrier .page-header-block {
-  margin-top: 10px;              /* baisse à 0 si tu le veux collé au header */
-  text-align: left;
+  margin-top: 10px !important;   /* ajuste à 0 si tu veux encore plus haut */
   background-color: #f2f2f2;
   border-left: 6px solid #ff7f00;
   padding: 20px;
+  text-align: left;
 }
 
-/* 4. Titre + sous-titre dans ce bloc */
+/* 🔥 5. Titre + sous-titre */
 body.silhouette.fond-terrier .page-header-block h2,
 body.silhouette.fond-terrier .page-header-block p {
   margin: 0;
-  font-family: "Cormorant Garamond", serif;
-  color: #333333;
+  font-family: "Cormorant Garamond", serif !important;
+  color: #333333 !important;
 }
-
 
 
 
