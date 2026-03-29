@@ -757,12 +757,12 @@ body.silhouette.fond-terrier header {
   padding-top: 0.5rem !important;
   padding-bottom: 0 !important;
   margin-bottom: 0 !important;
-  align-items: flex-start !important; /* empêche le header de s'étirer */
+  align-items: flex-start !important; /* évite l'étirement vertical */
 }
 
 /* 2. Réduire la hauteur du portrait */
 body.silhouette.fond-terrier .portrait-flottant {
-  height: 60px !important;   /* ajuste si besoin */
+  height: 60px !important;
   width: 60px !important;
   margin-bottom: 0.2rem !important;
 }
@@ -782,6 +782,7 @@ body.silhouette.fond-terrier .logo-title p {
 /* 5. Réduire l'espace autour du menu */
 body.silhouette.fond-terrier .menu-haut {
   margin-top: 0 !important;
+  margin-bottom: 0 !important;
 }
 
 /* 6. Bloc À PROPOS — position + style */
@@ -810,7 +811,6 @@ body.silhouette.fond-terrier {
 body.silhouette.fond-terrier main.contenu-page {
   padding-bottom: 3rem !important;
 }
-
 
 
 
