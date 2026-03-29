@@ -745,6 +745,11 @@ header {
   cursor: pointer;
   z-index: 10000;
 }
+/* -----------------------------------------
+   PAGE À PROPOS — STYLES SPÉCIFIQUES
+   ----------------------------------------- */
+
+/* Tu gardes EXACTEMENT ton effet actuel : accueil.png en voile */
 .fond-terrier::before {
   content: "";
   position: fixed;
@@ -752,21 +757,28 @@ header {
   background-image: url("images/accueil.png");
   background-size: cover;
   background-position: center;
-  opacity: 0.35;
+  opacity: 0.35; /* tu gardes ton effet actuel */
   z-index: -1;
 }
-/* Ajuste le titre uniquement sur la page À propos */
+/* Repositionner le titre À propos (uniquement cette page) */
 .fond-terrier .page-header-block {
-  margin-top: 40px; /* ajuste selon ton goût */
+  margin-top: 40px; /* ajuste si tu veux plus haut ou plus bas */
   text-align: left;
 }
-/* Police du texte uniquement sur la page À propos */
+
+/* Harmoniser la police du texte avec celle de "Lapinsights" */
 .fond-terrier .contenu-page,
 .fond-terrier .contenu-page p {
-  font-family: "Cormorant Garamond", serif; /* remplace si ta police est différente */
+  font-family: "Cormorant Garamond", serif; /* même police que ton titre */
   font-size: 1.25rem;
   line-height: 1.6;
 }
+
+/* Optionnel mais conseillé : lisibilité sur fond double */
+.fond-terrier .apropos-texte p {
+  text-shadow: 0 0 8px rgba(0,0,0,0.35);
+}
+
 
 
 
