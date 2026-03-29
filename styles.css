@@ -749,8 +749,16 @@ header {
    PAGE À PROPOS — STYLES SPÉCIFIQUES
    ----------------------------------------- */
 
+/* 1. Réduire la hauteur du header */
+body.silhouette.fond-terrier header {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
 /* Réduire l'espace autour du titre Lapinsights */
 body.silhouette.fond-terrier header h1 {
+  margin-top: 0 !important;
   margin-bottom: 0.2rem !important;
 }
 
@@ -770,16 +778,17 @@ body.silhouette.fond-terrier header nav {
   margin-top: 0 !important;
 }
 
-/* Neutraliser padding global du header */
-body.silhouette.fond-terrier header {
-  padding-top: 0.5rem !important;
-  padding-bottom: 0 !important;
-  margin-bottom: 0 !important;
-}
-
-/* Remonter le bloc À PROPOS */
+/* 2. Remonter le bloc À PROPOS */
 body.silhouette.fond-terrier .page-header-block {
   margin-top: 0.2rem !important;
+}
+
+/* 3. Police + couleur du bloc */
+body.silhouette.fond-terrier .page-header-block h2,
+body.silhouette.fond-terrier .page-header-block p {
+  margin: 0;
+  font-family: "Cormorant Garamond", serif !important;
+  color: #333333 !important;
 }
 
 
