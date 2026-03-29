@@ -749,7 +749,8 @@ header {
    PAGE À PROPOS — STYLES SPÉCIFIQUES
    ----------------------------------------- */
 
-/* Tu gardes EXACTEMENT ton effet actuel : accueil.png en voile */
+/* Effet double fond : accueil.png en voile
+   (fusion des deux blocs ::before) */
 .fond-terrier::before {
   content: "";
   position: fixed;
@@ -757,9 +758,19 @@ header {
   background-image: url("images/accueil.png");
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* stabilise l'effet */
   opacity: 0.35; /* tu gardes ton effet actuel */
+  pointer-events: none; /* évite tout conflit de clic */
   z-index: -1;
 }
+
+/* Consolidation structurelle (ne change pas le rendu) */
+.fond-terrier {
+  position: relative;
+  z-index: 0; /* garantit que le texte reste au-dessus */
+}
+
 /* Repositionner le titre À propos (uniquement cette page) */
 .fond-terrier .page-header-block {
   margin-top: 40px; /* ajuste si tu veux plus haut ou plus bas */
@@ -769,26 +780,17 @@ header {
 /* Harmoniser la police du texte avec celle de "Lapinsights" */
 .fond-terrier .contenu-page,
 .fond-terrier .contenu-page p {
-  font-family: "Cormorant Garamond", serif; /* même police que ton titre */
+  font-family: "Cormorant Garamond", serif;
   font-size: 1.25rem;
   line-height: 1.6;
+  color: #ffffff; /* pour corriger la couleur que tu signalais */
 }
 
-/* Optionnel mais conseillé : lisibilité sur fond double */
+/* Lisibilité douce sur fond double */
 .fond-terrier .apropos-texte p {
   text-shadow: 0 0 8px rgba(0,0,0,0.35);
 }
-/* Consolidation de l'effet double fond pour la page À propos */
-.fond-terrier {
-  position: relative;
-  z-index: 0; /* garantit que le texte reste au-dessus */
-}
 
-.fond-terrier::before {
-  pointer-events: none; /* évite tout conflit de clic */
-  background-repeat: no-repeat;
-  background-attachment: fixed; /* stabilise l'effet */
-}
 
 
 
