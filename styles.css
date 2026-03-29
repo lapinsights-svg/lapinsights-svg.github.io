@@ -758,34 +758,32 @@ header {
 /* Si tu veux encore plus d’air, tu peux monter à 1.3rem ou 1.35rem */
 
 /* Animation du Lapin sur le titre de la page Index*/
-
-/* Empêche le titre de changer de couleur */
+/* Le titre garde sa couleur orangée */
 .titre-terrier a {
-  color: var(--accent); /* ta couleur orangée */
+  color: var(--accent);
   text-decoration: none;
   position: relative;
 }
 
-/* Positionnement global du titre + lapin + terrier */
+/* Conteneur du titre + lapin + terrier */
 .titre-terrier {
   position: relative;
   display: inline-flex;
   align-items: center;
-  gap: 0.8rem; /* espace entre le texte et le terrier */
+  gap: 0.8rem;
 }
 
-/* Le lapin qui marche et saute */
+/* Le lapin */
 .lapin {
   position: absolute;
-  left: -2rem;          /* point de départ */
+  left: -2rem;               /* point de départ à gauche */
   top: 0.1rem;
   font-size: 1.2rem;
   opacity: 0;
   animation: lapinMarche 6s ease-in-out infinite;
-  color: var(--lapin);  /* couleur Lapinsights */
 }
 
-/* Le terrier (plus grand, visible, après le titre) */
+/* Le terrier */
 .terrier {
   width: 1.2rem;
   height: 1.2rem;
@@ -800,9 +798,9 @@ header {
 @keyframes lapinMarche {
   0%   { opacity: 0; transform: translateX(0) translateY(0); }
   10%  { opacity: 1; }
-  40%  { opacity: 1; transform: translateX(6rem) translateY(-0.15rem); } /* marche */
-  50%  { opacity: 1; transform: translateX(7rem) translateY(-0.4rem); }  /* petit saut */
-  55%  { opacity: 0; transform: translateX(7.2rem) translateY(0); }      /* disparaît dans le terrier */
+  40%  { opacity: 1; transform: translateX(11rem) translateY(-0.15rem); } /* marche */
+  50%  { opacity: 1; transform: translateX(13rem) translateY(-0.4rem); }  /* saut dans le terrier */
+  55%  { opacity: 0; transform: translateX(13.2rem) translateY(0); }      /* disparition */
   100% { opacity: 0; transform: translateX(0); }
 }
 
