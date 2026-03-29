@@ -749,8 +749,8 @@ header {
    PAGE À PROPOS — STYLES SPÉCIFIQUES
    ----------------------------------------- */
 
-/* Effet double fond : accueil.png en voile */
-.fond-terrier::before {
+/* Effet double fond */
+body.silhouette.fond-terrier::before {
   content: "";
   position: fixed;
   inset: 0;
@@ -764,82 +764,35 @@ header {
   z-index: -1;
 }
 
-.fond-terrier {
+body.silhouette.fond-terrier {
   position: relative;
   z-index: 0;
 }
 
-/* 🔥 1. Neutraliser l’espace sous le header */
+/* 1. Réduire la hauteur du header (cause principale du problème) */
 body.silhouette.fond-terrier header {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
 }
 
-/* 🔥 2. Remonter le contenu de la page */
+/* 2. Neutraliser le margin-top du main */
 body.silhouette.fond-terrier main.contenu-page {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
 
-/* 🔥 3. Forcer la police + couleur pour cette page uniquement */
-body.silhouette.fond-terrier {
-  font-family: "Cormorant Garamond", serif !important;
-  color: #333333 !important;
-}
-
-/* 🔥 4. Bloc titre À PROPOS */
+/* 3. Bloc titre À PROPOS */
 body.silhouette.fond-terrier .page-header-block {
-  margin-top: 10px !important;   /* ajuste à 0 si tu veux encore plus haut */
+  margin-top: 0.25rem !important; /* ajuste entre 0rem et 1rem */
   background-color: #f2f2f2;
   border-left: 6px solid #ff7f00;
   padding: 20px;
   text-align: left;
 }
 
-/* 🔥 5. Titre + sous-titre */
+/* 4. Police + couleur du titre et sous-titre */
 body.silhouette.fond-terrier .page-header-block h2,
-body.silhouette.fond-terrier .page-header-block p {
-  margin: 0;
-  font-family: "Cormorant Garamond", serif !important;
-  color: #333333 !important;
-}
-/* -----------------------------------------
-   PAGE À PROPOS — AJUSTEMENT FIN
-   ----------------------------------------- */
-
-/* 1. Police du titre et du sous-titre */
-body.silhouette.fond-terrier .page-header-block h2,
-body.silhouette.fond-terrier .page-header-block p {
-  font-family: "Cormorant Garamond", serif !important;
-}
-
-/* 2. Hauteur du bloc À PROPOS */
-body.silhouette.fond-terrier .page-header-block {
-  margin-top: 0.5rem !important; /* teste 0rem, puis 0.25rem, puis 1rem */
-}
-/* -----------------------------------------
-   PAGE À PROPOS — CORRECTION DU HEADER
-   ----------------------------------------- */
-
-/* 1. Neutraliser l'espace sous le header uniquement sur À propos */
-body.silhouette.fond-terrier header {
-  padding-bottom: 0 !important;
-  margin-bottom: 0 !important;
-}
-
-/* 2. Remonter le bloc À PROPOS */
-body.silhouette.fond-terrier .page-header-block {
-  margin-top: 0.5rem !important; /* ajuste entre 0rem et 1rem */
-}
-
-/* 3. Police du titre et sous-titre */
-body.silhouette.fond-terrier .page-header-block h2,
-body.silhouette.fond-terrier .page-header-block p {
-  font-family: "Cormorant Garamond", serif !important;
-  color: #333333 !important;
-}
-
-
+body.silhouette.fond-terrier .page-header
 
 
 
