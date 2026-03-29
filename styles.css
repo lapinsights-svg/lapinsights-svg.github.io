@@ -770,36 +770,42 @@ header {
   z-index: 0;
 }
 
-/* 1. Remonter le bloc titre (plus fort que les styles globaux) */
-.fond-terrier .contenu-page {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
+/* Remonter le bloc titre */
 .fond-terrier .page-header-block {
-  margin-top: 10px !important; /* remonte vraiment le bloc */
+  margin-top: 20px !important;
   text-align: left;
+
+  /* Style identique aux blocs d’accueil */
+  background-color: #f2f2f2;
+  border-left: 6px solid #ff7f00;
+  padding: 20px;
+  color: #333333;
 }
 
-/* 2. Appliquer la couleur EXACTE du titre Lapinsights */
-.fond-terrier .page-header-block h2,
-.fond-terrier .page-header-block p,
+/* Titre À PROPOS */
+.fond-terrier .page-header-block h2 {
+  margin: 0;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 2rem;
+  color: #333333;
+}
+
+/* Sous-titre */
+.fond-terrier .page-header-block p {
+  margin: 5px 0 0 0;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.2rem;
+  color: #333333;
+}
+
+/* Texte du bloc À propos */
 .fond-terrier .apropos-texte p {
   font-family: "Cormorant Garamond", serif;
-  color: inherit !important; /* hérite de la couleur du h1 Lapinsights */
+  font-size: 1.25rem;
+  line-height: 1.6;
+  color: #333333;
+  text-shadow: none;
 }
-
-/* 3. Forcer la couleur du body si nécessaire */
-.fond-terrier {
-  color: #ffffff !important; /* même couleur que Lapinsights */
-}
-
-/* 4. Lisibilité douce sur fond double */
-.fond-terrier .apropos-texte p {
-  text-shadow: 0 0 8px rgba(0,0,0,0.35);
-}
-
-
 
 
 
