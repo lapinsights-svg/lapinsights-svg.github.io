@@ -107,7 +107,7 @@
 </div>
 <script>
 function openPDF(url, event) {
-  if (event) event.preventDefault(); // empêche l'ouverture dans un nouvel onglet
+  if (event) event.preventDefault();
 
   const frame = document.getElementById("pdf-frame");
   frame.src = url + "#toolbar=0&navpanes=0&scrollbar=0&view=FitH";
@@ -119,9 +119,19 @@ function closePDF() {
   const modal = document.getElementById("pdfModal");
   const frame = document.getElementById("pdf-frame");
 
-  frame.src = ""; // vide le PDF
+  frame.src = "";
   modal.classList.remove("open");
 }
+</script>
+
+<!-- SCRIPT QUI CHANGE LE TEXTE DU BOUTON -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const links = document.querySelectorAll(".open-pdf-button");
+  links.forEach(link => {
+    link.textContent = "Explorer le terrier";
+  });
+});
 </script>
 
 
