@@ -389,14 +389,12 @@ footer {
 /* ================================
    LECTEUR PDF FLOTTANT (95% PAGE)
    ================================ */
+
 /* Fond du modal : occupe toute la fenêtre */
 #pdfModal {
   display: none;
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
+  inset: 0; /* top:0; left:0; width:100vw; height:100vh */
   backdrop-filter: blur(10px);
   background: rgba(0, 0, 0, 0.35);
   z-index: 9999;
@@ -454,177 +452,6 @@ footer {
   transform: scale(1.05);
 }
 
-/* ================================
-   ACTUALITÉS — LISTE DES PDF (compact)
-   ================================ */
-
-/* Bloc PDF individuel */
-.pdf-item {
-  width: 100%;
-  max-width: 650px;
-  margin-left: 2rem;
-  margin-right: auto;
-
-  margin-bottom: 18px;          /* ↓ réduit l’espace entre les PDF */
-  padding-bottom: 10px;         /* ↓ plus compact */
-  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
-
-  text-align: left;
-}
-
-/* Étiquette de date */
-.tag-date {
-  background: rgba(255, 255, 255, 0.22);
-  border: 1px solid rgba(255, 255, 255, 0.35);
-  padding: 3px 8px;             /* ↓ plus petit */
-  border-radius: 6px;
-  font-size: 0.78rem;           /* ↓ plus discret */
-  color: var(--lapin);
-  display: inline-block;
-  margin-bottom: 4px;           /* ↓ rapproche du titre */
-  letter-spacing: 0.03em;
-  transition: 0.3s ease;
-}
-
-/* Ligne titre + bouton */
-.pdf-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 0.5rem;                  /* ↓ rapproche bouton et titre */
-  margin-top: 0;
-}
-
-/* Titre du PDF */
-.pdf-header h3 {
-  flex: 1;
-  min-width: 0;
-  margin: 0;                    /* ↓ supprime l’espace vertical */
-  font-size: 1.15rem;           /* ↓ légèrement plus petit */
-  font-weight: 500;
-  color: var(--lapin);
-  letter-spacing: 0.03em;
-  text-shadow: 0 0 10px rgba(0,0,0,0.35);
-}
-
-/* Bouton d’ouverture */
-.pdf-header button {
-  background: rgba(255, 255, 255, 0.22);
-  border: 1px solid var(--accent);
-  border-radius: 8px;
-  padding: 6px 12px;            /* ↓ plus compact */
-  font-size: 0.85rem;           /* ↓ plus petit */
-  color: var(--lapin);
-  cursor: pointer;
-  white-space: nowrap;
-  backdrop-filter: blur(4px);
-  transition: 0.3s ease;
-}
-
-.pdf-header button:hover {
-  background: rgba(255, 255, 255, 0.12);
-  border-color: rgba(255, 255, 255, 0.55);
-  transform: translateY(-2px);
-  color: rgba(35, 70, 140, 0.95);
-}
-.pdf-button {
-  background: rgba(255, 255, 255, 0.22);
-  border: 1px solid var(--accent);
-  border-radius: 8px;
-  padding: 6px 12px;
-  font-size: 0.85rem;
-  color: var(--lapin);
-  cursor: pointer;
-  white-space: nowrap;
-  backdrop-filter: blur(4px);
-  transition: 0.3s ease;
-  text-decoration: none; /* important pour enlever le soulignement */
-  display: inline-block; /* pour se comporter comme un bouton */
-}
-
-.pdf-button:hover {
-  background: rgba(255, 255, 255, 0.12);
-  border-color: rgba(255, 255, 255, 0.55);
-  transform: translateY(-2px);
-  color: rgba(35, 70, 140, 0.95);
-}
-
-/* Conteneur global pour aligner tous les contenus à gauche */
-.contenu-page {
-  max-width: 650px;   /* largeur éditoriale */
-  margin-left: 2rem;  /* rapproche du bord gauche */
-  margin-right: auto; /* empêche le centrage */
-  text-align: left;   /* garantit l’alignement du texte */
-}
-
-/* AJUSTEMENTS SPÉCIFIQUES À LA PAGE ACTUALITÉS */
-.page-actus .page-header-block {
-  margin-top: -10rem;
-  margin-left: auto;
-  margin-right: auto;
-  transform: translateX(130px);
-}
-.page-actus .liste-actus {
-  margin-top: 3rem;         /* ⭐ descend toute la liste des PDF */
-}
-/* PDF MODAL  */
-/* Fond du modal : occupe toute la fenêtre */
-#pdfModal {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  backdrop-filter: blur(10px);
-  background: rgba(0, 0, 0, 0.35);
-  z-index: 9999;
-}
-
-/* Quand le modal est ouvert */
-#pdfModal.open {
-  display: block;
-}
-
-/* Fenêtre interne : 97% de la largeur et hauteur */
-.pdf-modal-content {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 97vw;
-  height: 97vh;
-  background: rgba(80, 90, 105, 0.35);
-  border: 1px solid rgba(220, 230, 245, 0.35);
-  backdrop-filter: blur(22px);
-  border-radius: 1rem;
-  padding: 0.5rem;
-  box-shadow:
-    0 0 60px rgba(0, 0, 0, 0.25),
-    0 0 120px rgba(180, 210, 255, 0.15);
-}
-
-/* Le PDF occupe tout l’espace interne */
-#pdf-frame {
-  width: 100%;
-  height: 100%;
-  border: none;
-  border-radius: 0.6rem;
-}
-/* Empêche les conteneurs de masquer la modale */
-main,
-.contenu-page,
-.liste-actus,
-.pdf-item,
-.pdf-header {
-  position: static !important;
-  overflow: visible !important;
-  z-index: auto !important;
-}
-#pdfModal {
-  position: fixed !important;
-  z-index: 99999 !important;
-}
 
 /* Menu déroulant archives */
 .menu-archives {
