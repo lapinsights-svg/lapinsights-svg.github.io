@@ -390,8 +390,7 @@ footer {
    LECTEUR PDF FLOTTANT (90% PAGE)
    ================================ */
 
-/* L’overlay correspond maintenant à #pdf-modal */
-#pdf-modal {
+#pdfModal {
   display: none;
   position: fixed;
   top: 0;
@@ -403,12 +402,10 @@ footer {
   z-index: 999;
 }
 
-/* Quand le JS ajoute .open → le modal apparaît */
-#pdf-modal.open {
+#pdfModal.open {
   display: block;
 }
 
-/* La fenêtre interne correspond à .pdf-window */
 .pdf-modal-content {
   position: absolute;
   top: 50%;
