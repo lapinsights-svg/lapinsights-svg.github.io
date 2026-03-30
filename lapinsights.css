@@ -137,7 +137,7 @@ header {
 
 /* MAIN — version restaurée */
 main {
-  padding: 2.5rem 0 3rem;
+  padding: 1.5rem 0 3rem;
   min-height: 60vh;
   display: block; 
 }
@@ -773,6 +773,7 @@ header {
 .liste-idees * {
   text-align: left !important;
 }
+
 
 
 
