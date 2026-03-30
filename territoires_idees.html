@@ -215,6 +215,22 @@
       };
     </script>
 
+    <script>
+function openPDF(url, event) {
+  if (event) event.preventDefault();
+  const frame = document.getElementById("pdf-frame");
+  frame.src = url + "#toolbar=0&navpanes=0&scrollbar=0&view=FitH";
+  document.getElementById("pdf-modal").classList.add("open");
+}
+
+function closePDF() {
+  const modal = document.getElementById("pdf-modal");
+  const frame = document.getElementById("pdf-frame");
+  frame.src = "";
+  modal.classList.remove("open");
+}
+</script>
+
     <!-- Statcounter -->
     <script type="text/javascript">
       var sc_project=13213092; 
