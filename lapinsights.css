@@ -138,9 +138,8 @@ header {
 
 /* MAIN — version restaurée */
 main {
-  padding: 0.5rem 0 3rem;
+  padding: 2.5rem 0 3rem;
   min-height: 60vh;
-
   display: block; 
 }
 
@@ -236,8 +235,8 @@ footer {
 
 /* PAGE HEADER BLOCK — version restaurée */
 .page-header-block {
-  margin-top: 0;        /* remonte le titre */
-  padding-top: 0.5rem;  /* espace léger sous le header */
+  margin-top: 0;
+  padding-top: 0.5rem;
   width: auto;
   max-width: 480px;
 
@@ -256,6 +255,7 @@ footer {
   box-shadow: 0 0 60px rgba(0, 0, 0, 0.25),
               0 0 120px rgba(180, 210, 255, 0.15);
 }
+
 .page-header-block h2 {
   font-size: 1.15rem;
   letter-spacing: 0.16em;
@@ -664,10 +664,12 @@ header {
    ================================ */
 /* On déplace la colonne entière, pas chaque item */
 .liste-actus {
-  max-width: 760px;
-  margin: 2rem auto 0; /* auto = centre horizontalement */
-  padding: 0;
- position: static;
+  position: static;          /* ne décale plus rien */
+  max-width: 760px;          /* largeur contrôlée */
+  width: 100%;               /* évite les compressions étranges */
+  margin: 2rem auto 0;       /* centre horizontalement */
+  padding: 0;                /* propre */
+  text-align: left;          /* cohérent avec tes PDF */
 }
 
 /* Chaque PDF redevient normal dans le flux */
