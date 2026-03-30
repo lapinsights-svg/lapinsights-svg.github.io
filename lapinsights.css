@@ -680,9 +680,9 @@ header {
 
 /* Date */
 .tag-date {
-  color: var(--accent);
+  color: #b48a6e;
+  font-weight: 600;
   font-size: 0.95rem;
-  white-space: nowrap;
 }
 
 /* Titre PDF — même police que Lapinsights */
