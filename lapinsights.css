@@ -147,16 +147,13 @@ main {
 .intro-block {
   margin-top: 1rem;
 
-  /* On remet le bloc dans le flux normal */
-  position: static;
+  /* Positionnement latéral contrôlé */
+  position: relative;
+  left: -12vw;   /* valeur idéale pour être entre bord et silhouette */
 
-  /* Largeur élégante et centrée */
   width: 100%;
   max-width: 760px;
-  margin-left: auto;
-  margin-right: auto;
 
-  /* Style visuel intact */
   padding: 2rem 2.2rem;
   border-radius: 1.2rem;
 
