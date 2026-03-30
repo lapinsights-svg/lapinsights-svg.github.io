@@ -664,6 +664,9 @@ header {
    ================================ */
 /* On déplace la colonne entière, pas chaque item */
 .liste-actus {
+  max-width: 760px;
+  margin: 2rem auto 0; /* auto = centre horizontalement */
+  padding: 0;
  position: static;
 }
 
