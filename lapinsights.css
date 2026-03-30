@@ -149,7 +149,7 @@ main {
 
   /* Positionnement latéral contrôlé */
   position: relative;
-  left: -6vw;   /* valeur idéale pour être entre bord et silhouette */
+  left: -1vw;   /* valeur idéale pour être entre bord et silhouette */
 
   width: 100%;
   max-width: 760px;
