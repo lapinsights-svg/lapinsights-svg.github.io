@@ -802,6 +802,73 @@ header {
   100% { opacity: 0; transform: scale(0.2); }
 }
 
+footer {
+  margin-top: 3rem;
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.newsletter-footer {
+  padding: 1.5rem;
+  background: rgba(80, 90, 105, 0.25);
+  border: 1px solid rgba(220, 230, 245, 0.25);
+  backdrop-filter: blur(14px);
+  border-radius: 1rem;
+  max-width: 360px;
+}
+
+.newsletter-footer h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.2rem;
+}
+
+.newsletter-desc {
+  margin: 0 0 1rem 0;
+  opacity: 0.8;
+}
+
+.embeddable-buttondown-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.embeddable-buttondown-form input[type="email"] {
+  padding: 0.6rem 0.8rem;
+  border-radius: 0.6rem;
+  border: 1px solid rgba(220, 230, 245, 0.35);
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(12px);
+}
+
+.embeddable-buttondown-form input[type="submit"] {
+  padding: 0.6rem 0.8rem;
+  border-radius: 0.6rem;
+  border: none;
+  background: rgba(80, 90, 105, 0.55);
+  color: white;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.embeddable-buttondown-form input[type="submit"]:hover {
+  background: rgba(80, 90, 105, 0.75);
+}
+
+.bd-credit {
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  opacity: 0.5;
+}
+
+.footer-signature {
+  opacity: 0.7;
+  font-size: 0.9rem;
+}
+
 
 
 
