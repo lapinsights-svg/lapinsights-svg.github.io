@@ -234,7 +234,8 @@ footer {
 
 /* PAGE HEADER BLOCK — version restaurée */
 .page-header-block {
-  margin-top: 0.5rem;
+  margin-top: 0;        /* remonte le titre */
+  padding-top: 0.5rem;  /* espace léger sous le header */
   width: auto;
   max-width: 480px;
 
@@ -253,7 +254,6 @@ footer {
   box-shadow: 0 0 60px rgba(0, 0, 0, 0.25),
               0 0 120px rgba(180, 210, 255, 0.15);
 }
-
 .page-header-block h2 {
   font-size: 1.15rem;
   letter-spacing: 0.16em;
@@ -665,10 +665,8 @@ header {
   margin: 1.2rem 0;
   padding: 0;
   max-width: 760px;
-
-  /* décalage pour libérer la silhouette */
   position: relative;
-  left: -25vw; /* ajuste selon ton œil */
+  left: -25vw;
 }
 
 .pdf-header {
