@@ -738,6 +738,52 @@ header {
   padding-right: 2rem;
   text-align: left;
 }
+/* Neutralisation du style global du header de page */
+.page-header-block {
+  align-items: flex-start !important;
+  text-align: left !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+/* Ajustement spécifique à la page Actualités */
+.page-actus main {
+  padding-top: 1rem;
+}
+
+/* Centrer le bloc titre dans Actualités */
+.page-actus .page-header-block {
+  margin: 1.5rem auto 2rem;
+  text-align: center;
+  align-items: center;
+}
+/* MARGE HAUTE pour Poésie et Territoires d’idées */
+.page-poesie .page-header-block,
+.page-idees .page-header-block {
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  text-align: left;
+  align-items: flex-start;
+}
+/* Alignement des listes PDF */
+.liste-actus,
+.liste-poesie,
+.liste-idees {
+  text-align: left !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  max-width: 760px;
+  width: 100%;
+}
+
+.liste-actus *,
+.liste-poesie *,
+.liste-idees * {
+  text-align: left !important;
+}
+
 
 
 
