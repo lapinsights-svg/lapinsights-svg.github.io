@@ -289,6 +289,22 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 <script src="scripts/pdf-tracking.js"></script>
 
+  <script>
+function openPDF(url, event) {
+  if (event) event.preventDefault();
+  const frame = document.getElementById("pdf-frame");
+  frame.src = url + "#toolbar=0&navpanes=0&scrollbar=0&view=FitH";
+  document.getElementById("pdf-modal").classList.add("open");
+}
+
+function closePDF() {
+  const modal = document.getElementById("pdf-modal");
+  const frame = document.getElementById("pdf-frame");
+  frame.src = "";
+  modal.classList.remove("open");
+}
+</script>
+
 </body>
 </html>
 
