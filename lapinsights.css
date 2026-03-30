@@ -658,50 +658,52 @@ header {
   background: rgba(80, 90, 105, 0.75);
 }
 /* ================================
-   BLOCS PDF — version minimaliste
+   BLOCS PDF — version ultra-légère
    ================================ */
 
 .pdf-item {
-  margin: 0.6rem 0;
-  padding: 0; /* plus de cadre */
+  margin: 1.2rem 0;
+  padding: 0;
   max-width: 760px;
 
-  /* décalage vers la gauche */
+  /* décalage pour libérer la silhouette */
   position: relative;
-  left: -20vw; /* ajuste si tu veux plus ou moins */
+  left: -18vw; /* ajuste selon ton œil */
 }
 
 .pdf-header {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  align-items: baseline;
+  gap: 1rem;
+  line-height: 1.5; /* espacement entre les lignes */
 }
 
+/* Date */
 .tag-date {
   color: var(--accent);
-  font-size: 0.9rem;
-  margin-right: 1rem;
+  font-size: 0.95rem;
+  white-space: nowrap;
 }
 
-.pdf-header h3 {
-  color: var(--accent);
+/* Titre PDF — même police que Lapinsights */
+.pdf-titre {
   margin: 0;
-  font-weight: 600;
+  font-size: 1.05rem;
+  font-weight: 500; /* même densité que les titres Lapinsights */
+  font-family: inherit; /* hérite EXACTEMENT de la police du site */
 }
 
-.open-pdf-button {
-  background: none;
-  border: none;
+/* Lien cliquable */
+.pdf-titre a {
   color: var(--lapin);
-  cursor: pointer;
-  font-size: 0.9rem;
-  text-decoration: underline;
-  padding: 0;
+  text-decoration: none;
+  transition: opacity 0.25s ease;
 }
 
-.open-pdf-button:hover {
-  opacity: 0.7;
+.pdf-titre a:hover {
+  opacity: 0.6;
 }
+
 
 
 
