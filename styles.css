@@ -611,6 +611,20 @@ footer {
   border: none;
   border-radius: 0.6rem;
 }
+/* Empêche les conteneurs de masquer la modale */
+main,
+.contenu-page,
+.liste-actus,
+.pdf-item,
+.pdf-header {
+  position: static !important;
+  overflow: visible !important;
+  z-index: auto !important;
+}
+#pdfModal {
+  position: fixed !important;
+  z-index: 99999 !important;
+}
 
 /* Menu déroulant archives */
 .menu-archives {
