@@ -248,28 +248,32 @@
 
   <footer>© Céleste R. — CC-BY-NC-ND</footer>
 
- <!-- MODALE PDF -->
+<!-- MODALE PDF -->
 <div id="pdfModal" class="pdf-modal">
   <div class="pdf-modal-content">
     <button class="pdf-close" onclick="closePDF()">✕</button>
     <iframe id="pdf-frame" src="" frameborder="0"></iframe>
   </div>
 </div>
-
 <script>
-function openPDF(url) {
+function openPDF(url, event) {
+  if (event) event.preventDefault(); // empêche l'ouverture dans un nouvel onglet
+
   const frame = document.getElementById("pdf-frame");
   frame.src = url + "#toolbar=0&navpanes=0&scrollbar=0&view=FitH";
-  document.getElementById("pdf-modal").classList.add("open");
+
+  document.getElementById("pdfModal").classList.add("open");
 }
 
 function closePDF() {
-  const modal = document.getElementById("pdf-modal");
+  const modal = document.getElementById("pdfModal");
   const frame = document.getElementById("pdf-frame");
-  frame.src = "";
+
+  frame.src = ""; // vide le PDF
   modal.classList.remove("open");
 }
 </script>
+
 
 <!-- Statcounter -->
 <script type="text/javascript">
@@ -289,21 +293,6 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 <script src="scripts/pdf-tracking.js"></script>
 
-  <script>
-function openPDF(url, event) {
-  if (event) event.preventDefault();
-  const frame = document.getElementById("pdf-frame");
-  frame.src = url + "#toolbar=0&navpanes=0&scrollbar=0&view=FitH";
-  document.getElementById("pdfmodal").classList.add("open");
-}
-
-function closePDF() {
-  const modal = document.getElementById("pdfmodal");
-  const frame = document.getElementById("pdf-frame");
-  frame.src = "";
-  modal.classList.remove("open");
-}
-</script>
 
 </body>
 </html>
