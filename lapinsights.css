@@ -11,7 +11,7 @@
   padding: 0;
   box-sizing: border-box;
 }
- 
+
 /* BODY — brume fixe et stable */
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
@@ -19,32 +19,52 @@ body {
 
   background-image: url("images/brume.png");
   background-size: cover;
-  background-position: top center;
+  background-position: center 35%;
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-color: #05060a;
-  /* Remonte la silhouette */
-background-position: center 35%;
+ /* background-attachment: fixed; */
+   background-color: var(--fond);
 
   color: var(--texte);
   min-height: 100vh;
 }
 
-/* HEADER — version stabilisée */
+/* LAYOUT GLOBAL */
+main {
+  padding: 1.5rem 0 3rem;
+  min-height: 60vh;
+  display: block;
+}
+
+.contenu-page {
+  max-width: 760px;
+  margin: 0;            /* ← plus de centrage automatique */
+  margin-left: 2rem;    /* ← ancre la colonne à gauche */
+  padding-left: 0;      /* ← évite le décalage supplémentaire */
+  padding-right: 2rem;
+  text-align: left;
+}
+
+.liste-actus,
+.liste-poesie,
+.liste-idees {
+  position: static;
+  max-width: 760px;
+  width: 100%;
+  margin: 2rem 0 0;
+  padding: 0;
+  text-align: left;
+}
+
+/* HEADER */
 header {
   position: relative;
   z-index: 20;
   width: 100%;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 2rem;
-
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  padding: 0.2rem 2rem;
 }
 
 .header-left {
@@ -92,7 +112,7 @@ header {
               0 0 25px rgba(224, 179, 122, 0.25);
 }
 
-/* TITRE */
+/* TITRE SITE */
 .logo-title h1 {
   font-size: 2.4rem;
   letter-spacing: 0.12em;
@@ -115,6 +135,8 @@ header {
 .menu-haut {
   display: flex;
   gap: 1rem;
+  position: relative;
+  z-index: 20;
 }
 
 .menu-haut button {
@@ -135,132 +157,74 @@ header {
   transform: translateY(-1px);
 }
 
-/* MAIN — version restaurée */
-main {
-  padding: 1.5rem 0 3rem;
-  min-height: 60vh;
-  display: block; 
-}
-/* Ajustement spécifique à la page Actualités */
-.page-actus main {
-  padding-top: 1rem;
-}
-/* Centrer le bloc titre dans Actualités */
-.page-actus .page-header-block {
-  margin-left: auto;
-  margin-right: auto;
-}
-/* MARGE HAUTE pour Poésie et Territoires d’idées */
-.page-poesie .page-header-block,
-.page-idees .page-header-block {
-  margin-top: 2rem;
-}
-
-/* INTRO BLOCK */
-.intro-block {
-  margin-top: 1rem;
-
-  /* Positionnement latéral contrôlé */
+/* MENU ARCHIVES */
+.menu-archives {
   position: relative;
-  left: 1vw;   /* valeur idéale pour être entre bord et silhouette */
-
-  width: 100%;
-  max-width: 760px;
-
-  padding: 2rem 2.2rem;
-  border-radius: 1.2rem;
-
-  background: rgba(80, 90, 105, 0.35);
-  border: 1px solid rgba(220, 230, 245, 0.35);
-  backdrop-filter: blur(22px);
-
-  box-shadow:
-    0 0 60px rgba(0, 0, 0, 0.25),
-    0 0 120px rgba(180, 210, 255, 0.15);
+  display: inline-block;
+  z-index: 30;
 }
 
-.intro-block h2 {
-  font-size: 1.1rem;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  margin-bottom: 1rem;
-  color: var(--accent);
-}
-
-.intro-block p {
-  line-height: 1.6;
-  margin-bottom: 1rem;
-  color: var(--lapin);
-  text-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
-}
-.titre-terrier {
+.menu-button {
+  background: none;
+  border: none;
   color: inherit;
-  text-decoration: none;
-  transition: opacity 0.3s ease;
-}
-
-.titre-terrier:hover {
-  opacity: 0.7;
-}
-
-/* MENU RUBRIQUES */
-.menu-rubriques {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 14px;
-  margin-top: 2rem;
-}
-
-.menu-rubriques button {
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-
-  width: 220px;
-  padding: 12px 16px;
-
-  background: rgba(255, 255, 255, 0.15);
-  border: 1px solid var(--accent);
-  border-radius: 12px;
-
-  color: var(--lapin);
-  font-size: 1rem;
-  letter-spacing: 1px;
+  font: inherit;
   cursor: pointer;
-
-  backdrop-filter: blur(4px);
-  transition: 0.3s ease;
+  padding: 0.3rem 0.7rem;
 }
 
-.menu-rubriques button:hover {
-  background: rgba(255, 255, 255, 0.25);
-  border-color: rgba(255, 255, 255, 0.55);
-  transform: translateY(-2px);
-  color: rgba(35, 70, 140, 0.95);
+.menu-archives-dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #7c93b3;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 0.5rem;
+  padding: 0.5rem 0;
+  min-width: 90px;
+  z-index: 40;
 }
 
-/* FOOTER */
-footer {
-  padding: 1rem 2rem;
-  text-align: right;
-  opacity: 0.7;
-  position: relative;
-  z-index: 10;
-  color: rgba(5, 12, 25, 0.92);
+.menu-archives-dropdown a {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #f4d35e;
+  text-decoration: none;
+  white-space: nowrap;
+  font-weight: 500;
 }
 
+.menu-archives-dropdown a:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.menu-archives:hover .menu-archives-dropdown {
+  display: block;
+}
+
+.menu-archives.disabled .menu-archives-dropdown {
+  display: none !important;
+}
+
+.menu-archives.disabled .menu-button {
+  cursor: default;
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+/* BLOC TITRE DE PAGE */
 .page-header-block {
-  margin-top: -0.8rem; /* remonte le bloc */
-  padding-top: 0.2rem; /* réduit l’espace interne */
+  margin: 1.5rem auto 1.5rem;
   width: auto;
   max-width: 480px;
-
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
 
-  padding: 1.2rem 2rem; /* padding global réduit */
+  padding: 1.2rem 2rem;
   border-radius: 1.2rem;
 
   background: rgba(80, 90, 105, 0.35);
@@ -286,6 +250,61 @@ footer {
   text-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
 }
 
+/* Ajustement page Actualités */
+.page-actus main {
+  padding-top: 0 !important; /* remonte le contenu sous le header */
+}
+
+.page-actus .page-header-block {
+  margin: 0.5rem 0 2rem; /* marge haute correcte */
+  text-align: center;
+  align-items: center;
+}
+
+/* Poésie & Idées */
+.page-poesie .page-header-block,
+.page-idees .page-header-block {
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  text-align: left;
+  align-items: flex-start;
+}
+
+/* ARTICLE BLOCK */
+.article-block {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  max-width: 760px;
+
+  background: rgba(80, 90, 105, 0.35);
+  border: 1px solid rgba(220, 230, 245, 0.35);
+  backdrop-filter: blur(22px);
+
+  padding: 2rem 2.4rem;
+  border-radius: 1.2rem;
+
+  box-shadow: 0 0 60px rgba(0, 0, 0, 0.25),
+              0 0 120px rgba(180, 210, 255, 0.15);
+
+  text-align: left;
+}
+
+.article-block h2,
+.article-block h3 {
+  color: var(--accent);
+  margin-bottom: 1rem;
+  letter-spacing: 0.05em;
+  text-align: left;
+}
+
+.article-block p,
+.article-block li {
+  color: var(--lapin);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  text-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
+  text-align: left;
+}
 
 /* CONTACT FORM */
 .contact-container {
@@ -361,276 +380,25 @@ footer {
   color: rgba(35, 70, 140, 0.95);
 }
 
-/* ARTICLE BLOCK */
-.article-block {
-  margin-top: 2rem;
-  margin-left: 2rem;
-  max-width: 760px;
-
-  background: rgba(80, 90, 105, 0.35);
-  border: 1px solid rgba(220, 230, 245, 0.35);
-  backdrop-filter: blur(22px);
-
-  padding: 2rem 2.4rem;
-  border-radius: 1.2rem;
-
-  box-shadow: 0 0 60px rgba(0, 0, 0, 0.25),
-              0 0 120px rgba(180, 210, 255, 0.15);
-
-  /* ⭐ Ajout essentiel : tout aligner à gauche */
-  text-align: left;
-}
-
-/* TITRES DU BLOC */
-.article-block h2,
-.article-block h3 {
-  color: var(--accent);
-  margin-bottom: 1rem;
-  letter-spacing: 0.05em;
-
-  /* ⭐ On force aussi l’alignement ici */
-  text-align: left;
-}
-
-.article-block p,
-.article-block li {
-  color: var(--lapin);
-  line-height: 1.6;
-  margin-bottom: 1rem;
-  text-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
-
-  /* ⭐ Et ici aussi */
-  text-align: left;
-}
-
-/* ================================
-   LECTEUR PDF FLOTTANT (95% PAGE)
-   ================================ */
-
-/* Fond du modal : occupe toute la fenêtre */
-#pdfModal {
-  display: none;
-  position: fixed;
-  inset: 0; /* top:0; left:0; width:100vw; height:100vh */
-  backdrop-filter: blur(10px);
-  background: rgba(0, 0, 0, 0.35);
-  z-index: 9999;
-}
-
-/* Quand le modal est ouvert */
-#pdfModal.open {
-  display: block;
-}
-
-/* Fenêtre interne : 95% de la largeur et hauteur */
-.pdf-modal-content {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 95vw;
-  height: 95vh;
-  background: rgba(80, 90, 105, 0.35);
-  border: 1px solid rgba(220, 230, 245, 0.35);
-  backdrop-filter: blur(22px);
-  border-radius: 1.2rem;
-  padding: 1rem;
-  box-shadow:
-    0 0 60px rgba(0, 0, 0, 0.25),
-    0 0 120px rgba(180, 210, 255, 0.15);
-}
-
-/* Le PDF occupe tout l’espace interne */
-#pdf-frame {
-  width: 100%;
-  height: 100%;
-  border: none;
-  border-radius: 0.8rem;
-}
-
-/* La croix */
-.pdf-close {
-  position: absolute;
-  top: 0.6rem;
-  right: 0.8rem;
-  background: rgba(255, 255, 255, 0.35);
-  border: 1px solid rgba(220, 230, 245, 0.35);
-  border-radius: 0.4rem;
-  font-size: 1.3rem;
-  padding: 0.2rem 0.6rem;
-  cursor: pointer;
-  color: var(--lapin);
-  backdrop-filter: blur(6px);
-  transition: 0.25s ease;
-}
-
-.pdf-close:hover {
-  background: rgba(255, 255, 255, 0.55);
-  transform: scale(1.05);
-}
-
-
-/* Menu déroulant archives */
-.menu-archives {
-  position: relative;
-  display: inline-block;
-}
-
-/* Bouton Archives */
-.menu-button {
-  background: none;
-  border: none;
-  color: inherit;
-  font: inherit;
-  cursor: pointer;
-  padding: 0.3rem 0.7rem;
-}
-
-/* Fond du menu déroulant : bleu-gris comme POÉSIE */
-.menu-archives-dropdown {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background: #7c93b3; /* bleu-gris doux */
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.25);
-  border-radius: 0.5rem;
-  padding: 0.5rem 0;
-  min-width: 90px;
-  z-index: 999;
-}
-
-/* Liens du menu : jaune doré comme POÉSIE */
-.menu-archives-dropdown a {
-  display: block;
-  padding: 0.5rem 1rem;
-  color: #f4d35e; /* jaune doré */
-  text-decoration: none;
-  white-space: nowrap;
-  font-weight: 500;
-}
-
-/* Survol : léger voile blanc */
-.menu-archives-dropdown a:hover {
-  background: rgba(255, 255, 255, 0.15);
-}
-/* Le menu apparaît au survol */
-.menu-archives:hover .menu-archives-dropdown {
-  display: block;
-}
-
-/* Le header passe devant la brume */
-header {
+/* FOOTER */
+footer {
+  padding: 1rem 2rem;
+  text-align: right;
+  opacity: 0.7;
   position: relative;
   z-index: 10;
+  color: rgba(5, 12, 25, 0.92);
 }
 
-/* Le conteneur du menu */
-.menu-haut {
-  position: relative;
-  z-index: 20;
-}
-
-/* Le bouton Archives */
-.menu-archives {
-  position: relative;
-  z-index: 30;
-}
-
-/* Le menu déroulant */
-.menu-archives-dropdown {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  z-index: 40;
-  display: none;
-}
-.menu-archives.disabled .menu-archives-dropdown {
-  display: none !important;
-}
-
-.menu-archives.disabled .menu-button {
-  cursor: default;
-  opacity: 0.5;
-  pointer-events: none;
-}
-/* Texte long de la page À propos */
-.apropos-texte {
-  max-width: 40rem;          /* colonne élégante */
-  margin: -1rem 0 5rem 0;    /* remonte légèrement le bloc + respiration en bas */
-  padding-left: 1rem;        /* léger retrait */
-  color: var(--lapin);        /* couleur du titre Lapinsights */
-  font-size: 1.08rem;         /* taille plus contenue */
-  line-height: 1.65;          /* aération maîtrisée */
-  font-weight: 300;           /* élégance */
-}
-/* Si tu veux encore plus d’air, tu peux monter à 1.3rem ou 1.35rem */
-
-/* Animation du Lapin sur le titre de la page Index */
-/* Titre : couleur orangée conservée */
-.titre-terrier a {
-  color: var(--accent);
-  text-decoration: none;
-  position: relative;
-}
-
-/* Conteneur titre + terrier + lapin */
-.titre-terrier {
-  position: relative;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.8rem;
-}
-
-/* Terrier placé AVANT le titre */
-.terrier {
-  width: 1.2rem;
-  height: 1.2rem;
-  background: var(--lapin);
-  border-radius: 50%;
-  opacity: 0;
-  transform: scale(0.2);
-  animation: terrierOuverture 6s ease-in-out infinite;
-}
-
-/* Lapin entier, marche vers la GAUCHE */
-.lapin {
-  position: absolute;
-  right: -2rem;              /* départ à droite */
-  top: 0.1rem;
-  font-size: 1.2rem;
-  opacity: 0;
-  animation: lapinMarche 6s ease-in-out infinite;
-}
-
-/* Animation du lapin : avance vers la gauche */
-@keyframes lapinMarche {
-  0%   { opacity: 0; transform: translateX(0) translateY(0); }
-  10%  { opacity: 1; }
-  40%  { opacity: 1; transform: translateX(-18.5rem) translateY(-0.15rem); } /* marche plus loin */
-  50%  { opacity: 1; transform: translateX(-20.5rem) translateY(-0.4rem); }  /* saut dans le trou */
-  55%  { opacity: 0; transform: translateX(-20.7rem) translateY(0); }       /* disparition */
-  100% { opacity: 0; transform: translateX(0); }
-}
-/* Terrier : ouverture / fermeture */
-@keyframes terrierOuverture {
-  0%   { opacity: 0; transform: scale(0.2); }
-  35%  { opacity: 1; transform: scale(1); }
-  55%  { opacity: 1; transform: scale(1); }
-  75%  { opacity: 0; transform: scale(0.2); }
-  100% { opacity: 0; transform: scale(0.2); }
-}
-
-/* Footer avec newsletter */
+/* FOOTER — newsletter */
 .footer-flex {
   margin-top: 2rem;
   padding: 1rem;
   display: flex;
-  justify-content: space-between; /* signature à gauche, newsletter à droite */
-  align-items: center; /* alignement vertical parfait */
+  justify-content: space-between;
+  align-items: center;
   gap: 1rem;
-  flex-wrap: wrap; /* évite les bugs sur mobile */
+  flex-wrap: wrap;
 }
 
 .footer-signature {
@@ -638,13 +406,12 @@ header {
   font-size: 0.9rem;
 }
 
-/* Mini newsletter */
 .newsletter-mini {
   display: flex;
   flex-direction: column;
   gap: 0.3rem;
   font-size: 0.85rem;
-  text-align: right; /* cohérent avec position à droite */
+  text-align: right;
 }
 
 .newsletter-mini-row {
@@ -674,30 +441,141 @@ header {
 .newsletter-mini button:hover {
   background: rgba(80, 90, 105, 0.75);
 }
-/* ================================
-   BLOCS PDF — version stabilisée
-   ================================ */
 
-/* Colonne des PDF : alignée à gauche, jamais centrée */
-.liste-actus {
-  position: static;
-  max-width: 760px;
-  width: 100%;
-  margin: 2rem 0 0;      /* plus de centrage automatique */
-  padding: 0;
-  text-align: left;
+/* TEXTE LONG À PROPOS */
+.apropos-texte {
+  max-width: 40rem;
+  margin: -1rem 0 5rem 0;
+  padding-left: 1rem;
+  color: var(--lapin);
+  font-size: 1.08rem;
+  line-height: 1.65;
+  font-weight: 300;
 }
 
-/* Chaque PDF redevient normal dans le flux */
+/* TITRE TERRIER + LAPIN */
+.titre-terrier a {
+  color: var(--accent);
+  text-decoration: none;
+  position: relative;
+}
+
+.titre-terrier {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.terrier {
+  width: 1.2rem;
+  height: 1.2rem;
+  background: var(--lapin);
+  border-radius: 50%;
+  opacity: 0;
+  transform: scale(0.2);
+  animation: terrierOuverture 6s ease-in-out infinite;
+}
+
+.lapin {
+  position: absolute;
+  right: -2rem;
+  top: 0.1rem;
+  font-size: 1.2rem;
+  opacity: 0;
+  animation: lapinMarche 6s ease-in-out infinite;
+}
+
+@keyframes lapinMarche {
+  0%   { opacity: 0; transform: translateX(0) translateY(0); }
+  10%  { opacity: 1; }
+  40%  { opacity: 1; transform: translateX(-18.5rem) translateY(-0.15rem); }
+  50%  { opacity: 1; transform: translateX(-20.5rem) translateY(-0.4rem); }
+  55%  { opacity: 0; transform: translateX(-20.7rem) translateY(0); }
+  100% { opacity: 0; transform: translateX(0); }
+}
+
+@keyframes terrierOuverture {
+  0%   { opacity: 0; transform: scale(0.2); }
+  35%  { opacity: 1; transform: scale(1); }
+  55%  { opacity: 1; transform: scale(1); }
+  75%  { opacity: 0; transform: scale(0.2); }
+  100% { opacity: 0; transform: scale(0.2); }
+}
+
+/* ================================
+   LECTEUR PDF FLOTTANT — corrigé
+   ================================ */
+
+#pdfModal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  backdrop-filter: blur(10px);
+  background: rgba(0, 0, 0, 0.35);
+  z-index: 9999;
+}
+
+#pdfModal.open {
+  display: block;
+}
+
+.pdf-modal-content {
+  position: absolute;
+  top: 5vh !important;
+  left: 50%;
+  transform: translateX(-50%) !important;
+  width: 90vw;
+  height: 90vh;
+
+  background: rgba(80, 90, 105, 0.35);
+  border: 1px solid rgba(220, 230, 245, 0.35);
+  backdrop-filter: blur(22px);
+  border-radius: 1.2rem;
+  padding: 1rem;
+
+  box-shadow:
+    0 0 60px rgba(0, 0, 0, 0.25),
+    0 0 120px rgba(180, 210, 255, 0.15);
+}
+
+#pdf-frame {
+  width: 100%;
+  height: 100%;
+  border: none;
+  border-radius: 0.8rem;
+}
+
+.pdf-close {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.8rem;
+  background: rgba(255, 255, 255, 0.35);
+  border: 1px solid rgba(220, 230, 245, 0.35);
+  border-radius: 0.4rem;
+  font-size: 1.3rem;
+  padding: 0.2rem 0.6rem;
+  cursor: pointer;
+  color: var(--lapin);
+  backdrop-filter: blur(6px);
+  transition: 0.25s ease;
+  z-index: 10000;
+}
+
+.pdf-close:hover {
+  background: rgba(255, 255, 255, 0.55);
+  transform: scale(1.05);
+}
+
+/* BLOCS PDF — version stabilisée */
 .pdf-item {
   margin: 1.2rem 0;
   padding: 0;
   max-width: 760px;
   position: relative;
-  left: 0;               /* annule tout décalage résiduel */
+  left: 0;
 }
 
-/* En-tête du PDF */
 .pdf-header {
   display: flex;
   align-items: baseline;
@@ -705,22 +583,19 @@ header {
   line-height: 1.5;
 }
 
-/* Date */
 .tag-date {
   color: #d8c4a3;
   font-weight: 600;
   font-size: 0.95rem;
 }
 
-/* Titre PDF — même police que Lapinsights */
 .pdf-titre {
   margin: 0;
   font-size: 1.05rem;
-  font-weight: 500; /* même densité que les titres Lapinsights */
-  font-family: inherit; /* hérite EXACTEMENT de la police du site */
+  font-weight: 500;
+  font-family: inherit;
 }
 
-/* Lien cliquable */
 .pdf-titre a {
   color: var(--lapin);
   text-decoration: none;
@@ -730,63 +605,75 @@ header {
 .pdf-titre a:hover {
   opacity: 0.6;
 }
-/* CONTENEUR GLOBAL DES PAGES PDF */
-.contenu-page {
-  max-width: 760px;
-  margin: 0 auto;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  text-align: left;
-}
-/* Ajustement spécifique à la page Actualités */
-.page-actus main {
-  padding-top: 1rem;
+
+/* MENU RUBRIQUES (page d’accueil) */
+.menu-rubriques {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 2rem;
 }
 
-/* Centrer le bloc titre dans Actualités */
-.page-actus .page-header-block {
-  margin: 1.5rem auto 2rem;
-  text-align: center;
+.menu-rubriques button {
+  display: inline-flex;
+  justify-content: center;
   align-items: center;
+
+  width: 220px;
+  padding: 12px 16px;
+
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid var(--accent);
+  border-radius: 12px;
+
+  color: var(--lapin);
+  font-size: 1rem;
+  letter-spacing: 1px;
+  cursor: pointer;
+
+  backdrop-filter: blur(4px);
+  transition: 0.3s ease;
 }
-/* MARGE HAUTE pour Poésie et Territoires d’idées */
-.page-poesie .page-header-block,
-.page-idees .page-header-block {
-  margin-top: 2.5rem;
-  margin-bottom: 1.5rem;
-  text-align: left;
-  align-items: flex-start;
+
+.menu-rubriques button:hover {
+  background: rgba(255, 255, 255, 0.25);
+  border-color: rgba(255, 255, 255, 0.55);
+  transform: translateY(-2px);
+  color: rgba(35, 70, 140, 0.95);
 }
-/* Alignement des listes PDF */
-.liste-actus,
-.liste-poesie,
-.liste-idees {
-  text-align: left !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  max-width: 760px;
+
+/* BLOC INTRO (index) */
+.intro-block {
+  margin-top: 1rem;
+  position: relative;
+  left: 1vw;
+
   width: 100%;
+  max-width: 760px;
+
+  padding: 2rem 2.2rem;
+  border-radius: 1.2rem;
+
+  background: rgba(80, 90, 105, 0.35);
+  border: 1px solid rgba(220, 230, 245, 0.35);
+  backdrop-filter: blur(22px);
+
+  box-shadow:
+    0 0 60px rgba(0, 0, 0, 0.25),
+    0 0 120px rgba(180, 210, 255, 0.15);
 }
 
-.liste-actus *,
-.liste-poesie *,
-.liste-idees * {
-  text-align: left !important;
+.intro-block h2 {
+  font-size: 1.1rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+  color: var(--accent);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.intro-block p {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  color: var(--lapin);
+  text-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
+}
