@@ -379,6 +379,10 @@ header {
   transform: translateY(-2px);
   color: rgba(35, 70, 140, 0.95);
 }
+.page-actus header,
+.page-idees header {
+  padding-top: 2.5rem;
+}
 
 /* FOOTER */
 footer {
