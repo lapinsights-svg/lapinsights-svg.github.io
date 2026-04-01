@@ -78,7 +78,7 @@ header {
   padding: 0.5rem 2rem;
 
   /* Fond opaque mais éclairci pour rester léger */
-  background: #d6d8dd; /* un ton légèrement plus clair que ton fond */
+  background: #bfc5d0; /* un ton légèrement plus clair que ton fond */
   color: var(--fond); /* contraste parfait */
 }
 
