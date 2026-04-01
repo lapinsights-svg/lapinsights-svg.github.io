@@ -3,6 +3,7 @@ layout: default
 title: Spiritualité
 description: Cheminer vers l’invisible, écouter ce qui respire derrière le monde.
 rubrique: true
+permalink: /spiritualite/
 ---
 
 <section class="rubrique-header section-header">
