@@ -545,6 +545,10 @@ footer {
   font-size: 0.85rem;
   text-align: right;
 }
+.newsletter-mini-title {
+  color: var(--lapin);
+  font-weight: 600;
+}
 
 /* Ligne du formulaire */
 .newsletter-mini-row {
