@@ -512,44 +512,47 @@ header {
 
 footer {
   padding: 1rem 2rem;
-  text-align: right;
   opacity: 0.8;
-  position: fixed;      /* ← changement essentiel */
-  left: 0;              /* ← pour qu’il prenne toute la largeur */
-  right: 0;             /* ← idem */
-  bottom: 1cm;          /* ← distance du bas de l’écran */
-  z-index: 100;         /* ← pour passer au-dessus du contenu */
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 1cm;
+  z-index: 100;
   color: var(--texte);
 }
 
+/* Le conteneur interne du footer : signature + newsletter */
 .footer-flex {
-  margin-top: 2rem;
-  padding: 1rem;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: space-between;   /* gauche / droite */
+  align-items: flex-start;           /* pour que le titre reste au-dessus */
   gap: 1rem;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;                 /* évite que tout se casse en plusieurs lignes */
 }
 
+/* Signature à gauche */
 .footer-signature {
   opacity: 0.7;
   font-size: 0.9rem;
+  text-align: left;
 }
 
+/* Newsletter à droite */
 .newsletter-mini {
   display: flex;
-  flex-direction: column;
-  gap: 0.3rem;
+  flex-direction: column;            /* titre au-dessus du formulaire */
+  gap: 0.4rem;
   font-size: 0.85rem;
   text-align: right;
 }
 
+/* Ligne du formulaire */
 .newsletter-mini-row {
   display: flex;
   gap: 0.4rem;
 }
 
+/* Champ email */
 .newsletter-mini input[type="email"] {
   padding: 0.4rem 0.6rem;
   border-radius: 0.4rem;
@@ -559,6 +562,7 @@ footer {
   width: 160px;
 }
 
+/* Bouton */
 .newsletter-mini button {
   padding: 0.4rem 0.8rem;
   border-radius: 0.4rem;
