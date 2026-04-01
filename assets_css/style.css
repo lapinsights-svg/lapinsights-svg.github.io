@@ -546,7 +546,7 @@ footer {
   text-align: right;
 }
 .newsletter-mini-title {
-  color: var(--lapin);
+  color: var(--accent);
   font-weight: 600;
 }
 
