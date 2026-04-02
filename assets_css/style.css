@@ -808,13 +808,22 @@ main.contenu-scroll > *:first-child {
   font-size: 26px;
   cursor: pointer;
   opacity: 0.7;
-  transition: transform 0.3s ease, opacity 0.3s ease;
+  transition: opacity 0.3s ease;
 }
 
 #backToTop:hover {
   opacity: 1;
-  transform: translateY(-6px);
+  animation: doubleHop 0.6s ease-out;
 }
+
+@keyframes doubleHop {
+  0%   { transform: translateY(0); }
+  20%  { transform: translateY(-6px); }
+  40%  { transform: translateY(0); }
+  60%  { transform: translateY(-4px); }
+  100% { transform: translateY(0); }
+}
+
 
 
 
