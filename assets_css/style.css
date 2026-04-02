@@ -800,7 +800,7 @@ main.contenu-scroll > *:first-child {
 #backToTop {
   display: none;
   position: fixed;
-  bottom: 50px;
+  bottom: 80px;
   right: 30px;
   z-index: 1000;
   background: none;
