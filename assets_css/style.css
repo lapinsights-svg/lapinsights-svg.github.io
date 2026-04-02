@@ -823,6 +823,9 @@ main.contenu-scroll > *:first-child {
   75%  { transform: translateY(-6px); }   /* petit saut */
   100% { transform: translateY(0); }
 }
+#backToTop {
+  animation: petitHop 1.6s infinite ease-in-out;
+}
 
 
 
