@@ -41,6 +41,7 @@ social_image: "/images/social-default.png"
 # Fichiers à inclure
 include:
   - assets_css
+  - robots.txt
 
 keep_files:
   - assets_css
