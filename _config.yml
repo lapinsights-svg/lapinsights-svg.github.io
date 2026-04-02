@@ -13,7 +13,7 @@ plugins:
 collections:
   actualites:
     output: true
-  arts:
+  creations:
     output: true
   idees:
     output: true
