@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Arts
+title: creations
 description: Explorer les formes, les gestes, les sons, les images qui ouvrent des passages.
 rubrique: true
 ---
