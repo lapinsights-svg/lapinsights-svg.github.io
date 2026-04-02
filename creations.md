@@ -18,7 +18,7 @@ rubrique: true
 </section>
 
 <div class="liste-pdf">
-  {% assign pdfs = site.arts | sort: "date" | reverse %}
+  {% assign pdfs = site.creations | sort: "date" | reverse %}
   {% for pdf in pdfs %}
     <div class="pdf-item">
       <span class="tag-date">{{ pdf.date | date: "%d/%m/%Y" }}</span>
