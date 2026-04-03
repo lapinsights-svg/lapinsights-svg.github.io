@@ -50,10 +50,10 @@ title: Mémoire du terrier
 }
 
   // Ajouter les tags aux entrées existantes
-  journal = journal.map(e => {
-    e.rubrique = detecterRubriqueURL(e.page);
-    return e;
-  });
+journal = journal.map(e => {
+  e.rubrique = rubriqueDepuisURL(e.page);  // ✔ CORRECT
+  return e;
+});
 
   // Affichage brut
   document.getElementById("journal").textContent = JSON.stringify(journal, null, 2);
