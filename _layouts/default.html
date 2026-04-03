@@ -154,56 +154,5 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
-<!-- JOURNAL PRIVÉ AVEC MODE FANTÔME -->
-<script>
-(function() {
-
-  // MODE FANTÔME : ignorer les visites du propriétaire
-  if (localStorage.getItem("lapinsights_ignore") === "true") {
-    console.log("Visite ignorée (mode fantôme activé)");
-    return;
-  }
-
-  // Charger le journal existant ou créer un nouveau
-  let journal = JSON.parse(localStorage.getItem("lapinsights_journal") || "[]");
-
-  // Générer un identifiant anonyme pour le visiteur (une seule fois)
-  if (!localStorage.getItem("lapinsights_id")) {
-    localStorage.setItem("lapinsights_id", "visiteur-" + Math.random().toString(36).substring(2, 10));
-  }
-
-  let visiteurID = localStorage.getItem("lapinsights_id");
-
-  // Début de la visite (pour calculer la durée)
-  let debut = Date.now();
-
-  // Quand la personne quitte la page
-  window.addEventListener("beforeunload", function() {
-
-    let duree = Math.round((Date.now() - debut) / 1000); // en secondes
-
-    let entree = {
-      visiteur: visiteurID,
-      page: window.location.pathname,
-      date: new Date().toISOString(),
-      duree: duree,
-      navigateur: navigator.userAgent,
-      langue: navigator.language,
-      resolution: window.innerWidth + "x" + window.innerHeight,
-      referer: document.referrer || "direct"
-    };
-
-    journal.push(entree);
-
-    // Sauvegarder
-    localStorage.setItem("lapinsights_journal", JSON.stringify(journal));
-
-    // Affichage privé dans la console
-    console.log("Journal privé Lapinsights :", journal);
-  });
-
-})();
-</script>
-
 </body>
 </html>
