@@ -30,8 +30,8 @@ title: Mémoire du terrier
   let journal = JSON.parse(localStorage.getItem("lapinsights_journal") || "[]");
 
   // Détection automatique des rubriques
-function rubriqueDepuisURL(path) {
-  const segment = path.split("/")[1] || "";
+  function rubriqueDepuisURL(path) {
+    const segment = path.split("/")[1] || "";
 
   const mapping = {
     "": "Accueil",
