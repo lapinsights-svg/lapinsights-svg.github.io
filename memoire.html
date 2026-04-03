@@ -7,8 +7,11 @@ title: Mémoire du terrier
   <h2>Mémoire du terrier</h2>
   <p>Journal privé — stocké uniquement dans ton navigateur.</p>
 
+  <p id="compteur" style="font-weight:bold;"></p>
+
   <button id="exporter">Exporter le journal</button>
   <button id="effacer">Effacer la mémoire locale</button>
+  <button id="resetTimeline">Réinitialiser la timeline</button>
 
   <h3>Timeline des passages</h3>
   <div id="timeline" style="border-left: 3px solid #333; padding-left: 1em;"></div>
@@ -29,31 +32,54 @@ title: Mémoire du terrier
   // Charger le journal
   let journal = JSON.parse(localStorage.getItem("lapinsights_journal") || "[]");
 
+  // Exclure la page mémoire elle-même
+  journal = journal.filter(e => !e.page.startsWith("/memoire"));
+
+  // Tri chronologique inversé (du plus récent au plus ancien)
+  journal.sort((a, b) => new Date(b.date) - new Date(a.date));
+
   // Détection automatique des rubriques
   function rubriqueDepuisURL(path) {
     const segment = path.split("/")[1] || "";
 
-  const mapping = {
-    "": "Accueil",
-    "index.html": "Accueil",
-    "index.md": "Accueil",
-    "actualites": "Actualités",
-    "creations": "Créations",
-    "idees": "Territoires d’idées",
-    "passe": "Dans le passé",
-    "spiritualite": "Spiritualité",
-    "contact": "Contact",
-    "archives": "Archives"
+    const mapping = {
+      "": "Accueil",
+      "index.html": "Accueil",
+      "index.md": "Accueil",
+      "actualites": "Actualités",
+      "creations": "Créations",
+      "idees": "Territoires d’idées",
+      "passe": "Dans le passé",
+      "spiritualite": "Spiritualité",
+      "contact": "Contact",
+      "archives": "Archives"
+    };
+
+    return mapping[segment] || "Autre";
+  }
+
+  // Couleurs par rubrique
+  const couleursRubriques = {
+    "Accueil": "#6c757d",
+    "Actualités": "#007bff",
+    "Créations": "#28a745",
+    "Territoires d’idées": "#17a2b8",
+    "Dans le passé": "#ffc107",
+    "Spiritualité": "#e83e8c",
+    "Contact": "#6610f2",
+    "Archives": "#fd7e14",
+    "Autre": "#343a40"
   };
 
-  return mapping[segment] || "Autre";
-}
+  // Ajouter les rubriques
+  journal = journal.map(e => {
+    e.rubrique = rubriqueDepuisURL(e.page);
+    return e;
+  });
 
-  // Ajouter les tags aux entrées existantes
-journal = journal.map(e => {
-  e.rubrique = rubriqueDepuisURL(e.page);  // ✔ CORRECT
-  return e;
-});
+  // Compteur en direct
+  document.getElementById("compteur").textContent =
+    "Nombre total de passages enregistrés : " + journal.length;
 
   // Affichage brut
   document.getElementById("journal").textContent = JSON.stringify(journal, null, 2);
@@ -67,12 +93,23 @@ journal = journal.map(e => {
       let bloc = document.createElement("div");
       bloc.style.marginBottom = "1em";
 
+      let dateLisible = new Date(entry.date).toLocaleDateString("fr-FR", {
+        weekday: "long",
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+        hour: "2-digit",
+        minute: "2-digit"
+      });
+
       bloc.innerHTML = `
         <div style="margin-left:0.5em;">
           <strong>${entry.page}</strong><br>
-          <small>${new Date(entry.date).toLocaleString()}</small><br>
+          <small>${dateLisible}</small><br>
           <small>Durée : ${entry.duree}s</small><br>
-          <span style="background:#eee; padding:2px 6px; border-radius:4px;">${entry.rubrique}</span>
+          <span style="background:${couleursRubriques[entry.rubrique]}; color:white; padding:2px 6px; border-radius:4px;">
+            ${entry.rubrique}
+          </span>
         </div>
       `;
 
@@ -82,7 +119,7 @@ journal = journal.map(e => {
 
   afficherTimeline();
 
-  // Diagramme des rubriques
+  // Diagramme circulaire poétique
   function afficherDiagramme() {
     let ctx = document.getElementById("diagramme").getContext("2d");
 
@@ -95,19 +132,14 @@ journal = journal.map(e => {
     let valeurs = Object.values(stats);
 
     new Chart(ctx, {
-      type: 'bar',
+      type: 'pie',
       data: {
         labels: labels,
         datasets: [{
-          label: "Pages visitées",
           data: valeurs,
-          backgroundColor: "rgba(100, 100, 255, 0.5)",
-          borderColor: "rgba(100, 100, 255, 1)",
-          borderWidth: 1
+          backgroundColor: labels.map(l => couleursRubriques[l]),
+          borderWidth: 0
         }]
-      },
-      options: {
-        scales: { y: { beginAtZero: true } }
       }
     });
   }
@@ -115,7 +147,6 @@ journal = journal.map(e => {
   // Graphe des chemins parcourus
   function afficherGraphe() {
 
-    // Construire les transitions
     let transitions = {};
 
     for (let i = 1; i < journal.length; i++) {
@@ -126,7 +157,6 @@ journal = journal.map(e => {
       transitions[cle] = (transitions[cle] || 0) + 1;
     }
 
-    // Extraire les nœuds
     let nodes = {};
     Object.keys(transitions).forEach(cle => {
       let [from, to] = cle.split("→");
@@ -139,7 +169,6 @@ journal = journal.map(e => {
       label: n
     }));
 
-    // Construire les liens
     let links = Object.keys(transitions).map(cle => {
       let [from, to] = cle.split("→");
       return {
@@ -149,7 +178,6 @@ journal = journal.map(e => {
       };
     });
 
-    // Dessiner le graphe
     new Chart(document.getElementById("graphe"), {
       type: 'graph',
       data: {
@@ -157,12 +185,8 @@ journal = journal.map(e => {
         links: links
       },
       options: {
-        layout: {
-          improvedLayout: true
-        },
-        plugins: {
-          legend: { display: false }
-        }
+        layout: { improvedLayout: true },
+        plugins: { legend: { display: false } }
       }
     });
   }
@@ -190,11 +214,18 @@ journal = journal.map(e => {
     a.click();
   });
 
-  // Effacer la mémoire
+  // Effacer la mémoire complète
   document.getElementById("effacer").addEventListener("click", function() {
     if (confirm("Effacer toute la mémoire locale du terrier ?")) {
       localStorage.removeItem("lapinsights_journal");
       location.reload();
+    }
+  });
+
+  // Réinitialiser uniquement la timeline
+  document.getElementById("resetTimeline").addEventListener("click", function() {
+    if (confirm("Effacer uniquement la timeline ?")) {
+      document.getElementById("timeline").innerHTML = "";
     }
   });
 
