@@ -828,7 +828,62 @@ main.contenu-scroll > *:first-child {
 }
 
 
-/* page mémoire*/
+/* ----------------------------------------------------
+   CONTENEUR GLOBAL DE LA PAGE MÉMOIRE
+---------------------------------------------------- */
+.memoire-terrier {
+  background: linear-gradient(to bottom, #eef4ff, #ffffff);
+  padding: 2em;
+  border-radius: 12px;
+}
+
+/* Mode compact */
+.memoire-terrier.compact .carte {
+  padding: 0.8em;
+  margin-bottom: 1em;
+}
+
+.memoire-terrier.compact h3 {
+  font-size: 1em;
+}
+
+/* ----------------------------------------------------
+   BANDEAU TABLEAU DE BORD
+---------------------------------------------------- */
+.memoire-terrier .bandeau-dashboard {
+  background: #dce7ff;
+  padding: 0.8em 1.2em;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-bottom: 1.5em;
+  color: #2a3f7a;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* ----------------------------------------------------
+   CARTES
+---------------------------------------------------- */
+.memoire-terrier .carte {
+  background: white;
+  padding: 1.5em;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  margin-bottom: 2em;
+}
+
+/* ----------------------------------------------------
+   SYNTHÈSE
+---------------------------------------------------- */
+.memoire-terrier .synthese-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em;
+  font-size: 1.1em;
+}
+
+/* ----------------------------------------------------
+   BLOCS VIDES (timeline, diagramme, graphe)
+---------------------------------------------------- */
 .memoire-terrier #timeline,
 .memoire-terrier #diagramme,
 .memoire-terrier #graphe {
@@ -843,23 +898,17 @@ main.contenu-scroll > *:first-child {
   color: #999;
   font-style: italic;
 }
-.memoire-terrier {
-  background: linear-gradient(to bottom, #eef4ff, #ffffff);
-  padding: 2em;
-  border-radius: 12px;
-}
-.memoire-terrier .carte {
-  background: white;
-  padding: 1.5em;
-  border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-  margin-bottom: 2em;
-}
-.memoire-terrier .synthese-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1em;
-  font-size: 1.1em;
+
+/* ----------------------------------------------------
+   PRÉFORMATTAGE DES DONNÉES BRUTES
+---------------------------------------------------- */
+.memoire-terrier #journal {
+  background: #f7f7f7;
+  border-radius: 6px;
+  padding: 1em;
+  max-height: 300px;
+  overflow: auto;
+  font-size: 0.9em;
 }
 
 
