@@ -879,6 +879,7 @@ main.contenu-scroll > *:first-child {
   grid-template-columns: repeat(3, 1fr);
   gap: 1em;
   font-size: 1.1em;
+color: #2a3f7a !important; /* bleu profond lisible */
 }
 
 /* ----------------------------------------------------
