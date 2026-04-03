@@ -5,52 +5,57 @@ title: Mémoire du terrier
 
 <div class="contenu-page">
   <h2>Mémoire du terrier</h2>
-  <p>Journal privé des passages — stocké uniquement dans ton navigateur.</p>
+  <p>Journal privé — stocké uniquement dans ton navigateur.</p>
 
+  <button id="exporter">Exporter le journal</button>
   <button id="effacer">Effacer la mémoire locale</button>
 
-  <pre id="journal" style="white-space: pre-wrap; background:#f7f7f7; padding:1em; border-radius:6px; margin-top:1em;">
-Chargement du journal…
-  </pre>
+  <h3>Timeline des passages</h3>
+  <div id="timeline" style="border-left: 3px solid #333; padding-left: 1em;"></div>
+
+  <h3>Diagramme des rubriques visitées</h3>
+  <canvas id="diagramme" width="400" height="200"></canvas>
+
+  <h3>Données brutes</h3>
+  <pre id="journal" style="white-space: pre-wrap; background:#f7f7f7; padding:1em; border-radius:6px;"></pre>
 </div>
 
 <script>
 (function() {
 
-  function afficherJournal() {
-    let journal = JSON.parse(localStorage.getItem("lapinsights_journal") || "[]");
+  // Charger le journal
+  let journal = JSON.parse(localStorage.getItem("lapinsights_journal") || "[]");
 
-    if (journal.length === 0) {
-      document.getElementById("journal").textContent = "Aucune trace pour l’instant.";
-      return;
-    }
-
-    // Formatage lisible
-    let texte = journal.map(entry => {
-      return (
-        "• Page : " + entry.page + "\n" +
-        "  Date : " + entry.date + "\n" +
-        "  Durée : " + entry.duree + " sec\n" +
-        "  Navigateur : " + entry.navigateur + "\n" +
-        "  Langue : " + entry.langue + "\n" +
-        "  Résolution : " + entry.resolution + "\n" +
-        "  Référent : " + entry.referer + "\n"
-      );
-    }).join("\n");
-
-    document.getElementById("journal").textContent = texte;
+  // Détection automatique des rubriques
+  function detecterRubrique(page) {
+    if (page.startsWith("/actualites")) return "Actualités";
+    if (page.startsWith("/creations")) return "Créations";
+    if (page.startsWith("/idees")) return "Idées";
+    if (page.startsWith("/spiritualite")) return "Spiritualité";
+    if (page.startsWith("/contact")) return "Contact";
+    return "Autre";
   }
 
-  // Bouton pour effacer la mémoire locale
-  document.getElementById("effacer").addEventListener("click", function() {
-    if (confirm("Effacer toute la mémoire locale du terrier ?")) {
-      localStorage.removeItem("lapinsights_journal");
-      afficherJournal();
-    }
+  // Ajouter les tags aux entrées existantes
+  journal = journal.map(e => {
+    e.rubrique = detecterRubrique(e.page);
+    return e;
   });
 
-  // Afficher au chargement
-  afficherJournal();
+  // Affichage brut
+  document.getElementById("journal").textContent = JSON.stringify(journal, null, 2);
 
-})();
-</script>
+  // Timeline visuelle
+  function afficherTimeline() {
+    let container = document.getElementById("timeline");
+    container.innerHTML = "";
+
+    journal.forEach(entry => {
+      let bloc = document.createElement("div");
+      bloc.style.marginBottom = "1em";
+
+      bloc.innerHTML = `
+        <div style="margin-left:0.5em;">
+          <strong>${entry.page}</strong><br>
+          <small>${new Date(entry.date).toLocaleString()}</small><br>
+          <small>Durée : ${entry.duree}s</small><br>
