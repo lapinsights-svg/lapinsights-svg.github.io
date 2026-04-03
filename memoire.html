@@ -1,0 +1,56 @@
+---
+layout: default
+title: Mémoire du terrier
+---
+
+<div class="contenu-page">
+  <h2>Mémoire du terrier</h2>
+  <p>Journal privé des passages — stocké uniquement dans ton navigateur.</p>
+
+  <button id="effacer">Effacer la mémoire locale</button>
+
+  <pre id="journal" style="white-space: pre-wrap; background:#f7f7f7; padding:1em; border-radius:6px; margin-top:1em;">
+Chargement du journal…
+  </pre>
+</div>
+
+<script>
+(function() {
+
+  function afficherJournal() {
+    let journal = JSON.parse(localStorage.getItem("lapinsights_journal") || "[]");
+
+    if (journal.length === 0) {
+      document.getElementById("journal").textContent = "Aucune trace pour l’instant.";
+      return;
+    }
+
+    // Formatage lisible
+    let texte = journal.map(entry => {
+      return (
+        "• Page : " + entry.page + "\n" +
+        "  Date : " + entry.date + "\n" +
+        "  Durée : " + entry.duree + " sec\n" +
+        "  Navigateur : " + entry.navigateur + "\n" +
+        "  Langue : " + entry.langue + "\n" +
+        "  Résolution : " + entry.resolution + "\n" +
+        "  Référent : " + entry.referer + "\n"
+      );
+    }).join("\n");
+
+    document.getElementById("journal").textContent = texte;
+  }
+
+  // Bouton pour effacer la mémoire locale
+  document.getElementById("effacer").addEventListener("click", function() {
+    if (confirm("Effacer toute la mémoire locale du terrier ?")) {
+      localStorage.removeItem("lapinsights_journal");
+      afficherJournal();
+    }
+  });
+
+  // Afficher au chargement
+  afficherJournal();
+
+})();
+</script>
