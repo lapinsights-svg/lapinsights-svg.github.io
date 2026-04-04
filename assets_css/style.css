@@ -729,16 +729,9 @@ footer {
 .pdf-item {
   margin: 1.2rem 0;
   max-width: 760px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-
-.pdf-header {
-  display: flex;
-  align-items: baseline;
-  gap: 1rem;
-  line-height: 1.5;
+  display: block;        /* 🔥 On sort du flex */
+  text-align: left;      /* 🔥 Alignement éditorial */
+  padding-left: 0.2rem;  /* petite respiration élégante */
 }
 
 .tag-date {
@@ -748,26 +741,37 @@ footer {
 }
 
 .pdf-titre {
-  margin: 0;
+  margin: 0.1rem 0 0.4rem 0;   /* respiration élégante */
   font-size: 1.05rem;
   font-weight: 500;
+  line-height: 1.35;           /* plus lisible pour les titres longs */
+  text-align: left;            /* sécurité anti-centrage */
 }
 
 .pdf-titre a {
   color: var(--lapin);
   text-decoration: none;
   transition: opacity 0.25s ease;
+  font-weight: 600;            /* un peu plus affirmé */
 }
 
 .pdf-titre a:hover {
   opacity: 0.6;
 }
 
+.pdf-resume {
+  font-weight: 400;
+  opacity: 0.8;
+  font-size: 0.95rem;
+  margin-left: 0.2rem;         /* espace subtil après le tiret */
+}
+
+
 .liste-pdf {
-  max-width: 720px;       /* largeur éditoriale élégante */
-  margin-left: 2.5rem;    /* douce marge à gauche */
+  max-width: 760px;       /* harmonisé avec .pdf-item */
+  margin-left: 2.2rem;    /* marge douce, un peu plus subtile */
   margin-top: 2rem;
-  text-align: left;       /* empêche tout centrage hérité */
+  text-align: left;
 }
 
 main.contenu-scroll > *:first-child {
