@@ -530,26 +530,32 @@ footer {
   color: var(--texte);
 }
 
-/* Conteneur interne : signature + recherche + newsletter */
+/* Conteneur interne : bloc gauche (signature + recherche) + newsletter */
 .footer-flex {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  gap: 2rem;                  /* plus d’air entre les blocs */
+  align-items: center;        /* aligne verticalement les deux colonnes */
+  gap: 2rem;
   flex-wrap: nowrap;
 }
 
-/* Signature à gauche */
+/* Bloc gauche regroupé */
+.footer-left {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;                /* espace entre signature et recherche */
+}
+
+/* Signature */
 .footer-signature {
   opacity: 0.7;
   font-size: 0.9rem;
   text-align: left;
-  line-height: 1.4;           /* meilleure lisibilité */
+  line-height: 1.4;
 }
 
-/* 🔍 Barre de recherche sous la signature */
+/* 🔍 Barre de recherche */
 .footer-search {
-  margin-top: 1.2em;          /* espace sous les droits d’auteur */
   display: flex;
   flex-direction: column;
   align-items: flex-start;
