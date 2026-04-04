@@ -42,6 +42,10 @@ social_image: "/images/social-default.png"
 include:
   - assets_css
   - robots.txt
+  - search.json
 
 keep_files:
   - assets_css
+
+
+
