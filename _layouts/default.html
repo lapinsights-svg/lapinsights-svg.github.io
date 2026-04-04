@@ -8,12 +8,6 @@
 
   {% include header.html %}
 
-  <!-- 🔍 Barre de recherche globale -->
-  <div class="search-zone" style="padding: 1.5em; max-width: 900px; margin: 0 auto;">
-    <input type="text" id="search-input" placeholder="Rechercher..." style="width: 100%; padding: 0.6em;">
-    <ul id="results-container" style="margin-top: 1em;"></ul>
-  </div>
-
   <main class="contenu-scroll">
     {{ content }}
   </main>
@@ -158,20 +152,6 @@ document.addEventListener("DOMContentLoaded", function() {
     zone.insertBefore(bouton, zone.children[2]);
   }
 });
-</script>
-
-<!-- 🔍 Script de recherche -->
-<script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
-
-<script>
-  SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: '/search.json',
-    searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-    noResultsText: 'Aucun résultat',
-    limit: 20
-  })
 </script>
 
 <script data-goatcounter="https://celeste52.goatcounter.com/count"
