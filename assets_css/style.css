@@ -519,25 +519,24 @@ header {
 /* ================================
    FOOTER
 ================================ */
-
 footer {
   padding: 1rem 2rem;
-  opacity: 0.8;
+  opacity: 0.85;
   position: fixed;
   left: 0;
   right: 0;
-  bottom: 1cm;
+  bottom: 0.6cm;              /* plus léger et plus élégant que 1cm */
   z-index: 100;
   color: var(--texte);
 }
 
-/* Le conteneur interne du footer : signature + newsletter */
+/* Conteneur interne : signature + recherche + newsletter */
 .footer-flex {
   display: flex;
-  justify-content: space-between;   /* gauche / droite */
-  align-items: flex-start;           /* pour que le titre reste au-dessus */
-  gap: 1rem;
-  flex-wrap: nowrap;                 /* évite que tout se casse en plusieurs lignes */
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;                  /* plus d’air entre les blocs */
+  flex-wrap: nowrap;
 }
 
 /* Signature à gauche */
@@ -545,16 +544,65 @@ footer {
   opacity: 0.7;
   font-size: 0.9rem;
   text-align: left;
+  line-height: 1.4;           /* meilleure lisibilité */
+}
+
+/* 🔍 Barre de recherche sous la signature */
+.footer-search {
+  margin-top: 1.2em;          /* espace sous les droits d’auteur */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+#search-input {
+  width: 130px;               /* petit et discret */
+  padding: 4px 8px;
+  font-size: 0.8rem;
+  border-radius: 4px;
+  border: 1px solid #bbb;
+  background: #fafafa;
+  color: #222;
+}
+
+#search-input::placeholder {
+  color: #888;
+}
+
+#results-container {
+  margin-top: 0.4em;
+  list-style: none;
+  padding-left: 0;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 180px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  z-index: 200;
+}
+
+#results-container li {
+  padding: 4px 8px;
+}
+
+#results-container li a {
+  text-decoration: none;
+  color: #222;
+}
+
+#results-container li a:hover {
+  text-decoration: underline;
 }
 
 /* Newsletter à droite */
 .newsletter-mini {
   display: flex;
-  flex-direction: column;            /* titre au-dessus du formulaire */
+  flex-direction: column;
   gap: 0.4rem;
   font-size: 0.85rem;
   text-align: right;
 }
+
 .newsletter-mini-title {
   color: var(--lapin);
   font-weight: 600;
