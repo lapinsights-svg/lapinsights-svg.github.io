@@ -2,30 +2,34 @@
 
   <div class="footer-content">
 
-    <!-- Bloc gauche : signature + recherche -->
-    <div class="footer-left">
-      <div class="footer-signature">
-        © Céleste R. — CC BY‑NC‑ND
+    <!-- Bloc gauche : VIDE -->
+    <div class="footer-left"></div>
+
+    <!-- Bloc droit : newsletter + recherche + signature empilés -->
+    <div class="footer-right">
+
+      <div class="newsletter-mini">
+        <div class="newsletter-mini-title">Recevoir les nouvelles</div>
+
+        <form
+          action="https://buttondown.com/api/emails/embed-subscribe/dig_it"
+          method="post"
+          class="embeddable-buttondown-form"
+        >
+          <input type="email" name="email" id="bd-email" placeholder="Votre adresse e-mail" required>
+          <button type="submit">S’abonner</button>
+        </form>
       </div>
 
       <div class="footer-search">
         <input type="text" id="search-input" placeholder="Rechercher...">
         <ul id="results-container"></ul>
       </div>
-    </div>
 
-    <!-- Bloc droit : newsletter -->
-    <div class="newsletter-mini">
-      <div class="newsletter-mini-title">Recevoir les nouvelles</div>
+      <div class="footer-signature">
+        © Céleste R. — CC BY‑NC‑ND
+      </div>
 
-      <form
-        action="https://buttondown.com/api/emails/embed-subscribe/dig_it"
-        method="post"
-        class="embeddable-buttondown-form"
-      >
-        <input type="email" name="email" id="bd-email" placeholder="Votre adresse e-mail" required>
-        <button type="submit">S’abonner</button>
-      </form>
     </div>
 
   </div>
