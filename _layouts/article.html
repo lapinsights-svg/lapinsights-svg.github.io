@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<main class="article-wrapper">
+
+  {% if page.pdf %}
+    <div class="pdf-container">
+      <iframe src="{{ page.pdf }}" class="pdf-frame"></iframe>
+    </div>
+  {% endif %}
+
+  <article class="article-content">
+    {{ content }}
+  </article>
+
+</main>
