@@ -8,6 +8,12 @@
 
   {% include header.html %}
 
+  <!-- 🔍 Barre de recherche globale -->
+  <div class="search-zone" style="padding: 1.5em; max-width: 900px; margin: 0 auto;">
+    <input type="text" id="search-input" placeholder="Rechercher..." style="width: 100%; padding: 0.6em;">
+    <ul id="results-container" style="margin-top: 1em;"></ul>
+  </div>
+
   <main class="contenu-scroll">
     {{ content }}
   </main>
@@ -116,7 +122,7 @@ alt="free web stats"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End Statcounter -->
 
-<!-- MODE FANTÔME : bouton affiché uniquement sur /memoire -->
+<!-- MODE FANTÔME -->
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   if (window.location.pathname.includes("memoire")) {
@@ -149,29 +155,27 @@ document.addEventListener("DOMContentLoaded", function() {
     };
 
     majBouton();
-    zone.insertBefore(bouton, zone.children[2]); // juste sous les deux premiers boutons
+    zone.insertBefore(bouton, zone.children[2]);
   }
 });
 </script>
 
-  <script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
+<!-- 🔍 Script de recherche -->
+<script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
 
-<!-- barre de recherche dans le site -->
 <script>
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
     json: '/search.json',
     searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-    noResultsText: '',
+    noResultsText: 'Aucun résultat',
     limit: 20
   })
 </script>
 
-  
-  <script data-goatcounter="https://celeste52.goatcounter.com/count"
+<script data-goatcounter="https://celeste52.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
-  
 </body>
 </html>
