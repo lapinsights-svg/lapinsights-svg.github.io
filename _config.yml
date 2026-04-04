@@ -9,7 +9,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Collections éditoriales (PDF)
+# Collections éditoriales
 collections:
   actualites:
     output: true
@@ -24,16 +24,53 @@ collections:
   archives:
     output: true
 
-# Newsletter (Buttondown)
-newsletter_url: "https://buttondown.email/dig_it"
-
-# Réglages des posts (si tu en utilises)
+# Layouts par défaut pour CHAQUE collection
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: actualites
     values:
-      layout: "post"
+      layout: article
+
+  - scope:
+      path: ""
+      type: creations
+    values:
+      layout: article
+
+  - scope:
+      path: ""
+      type: idees
+    values:
+      layout: article
+
+  - scope:
+      path: ""
+      type: spiritualite
+    values:
+      layout: article
+
+  - scope:
+      path: ""
+      type: passe
+    values:
+      layout: article
+
+  - scope:
+      path: ""
+      type: archives
+    values:
+      layout: article
+
+  # Si un jour tu utilises _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+# Newsletter (Buttondown)
+newsletter_url: "https://buttondown.email/dig_it"
 
 # Open Graph / Partage
 social_image: "/images/social-default.png"
@@ -46,6 +83,3 @@ include:
 
 keep_files:
   - assets_css
-
-
-
