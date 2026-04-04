@@ -544,7 +544,7 @@ footer {
   display: flex;
   flex-direction: column;
   gap: 0.8rem;                /* espace entre signature et recherche */
-  padding-top: 0.3rem;
+  padding-top: 0.5rem;
 }
 
 /* Signature */
