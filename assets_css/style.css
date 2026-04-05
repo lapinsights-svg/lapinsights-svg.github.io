@@ -849,7 +849,7 @@ main.contenu-scroll > *:first-child {
 ---------------------------------------------------- */
 .search-zone {
   position: absolute;      /* on sort la zone du flux */
-  top: 140px;              /* ajuste la hauteur selon la silhouette */
+  top: 80px;              /* ajuste la hauteur selon la silhouette */
   right: 60px;             /* distance élégante du bord droit */
   display: flex;
   flex-direction: column;
@@ -860,7 +860,7 @@ main.contenu-scroll > *:first-child {
 
 .search-zone input {
   width: 220px;            /* largeur contrôlée */
-  background-color: #94bbe3;
+  background-color: #f0ce90;
   color: #000;
   border: 1px solid #94bbe3;
   padding: 6px 10px;
