@@ -33,6 +33,18 @@
         });
       </script>
 
+ <script>
+  document.addEventListener("click", function (e) {
+    const searchZone = document.querySelector(".search-zone");
+    const results = document.getElementById("results-container");
+
+    // Si on clique en dehors de la zone de recherche → on ferme les résultats
+    if (!searchZone.contains(e.target)) {
+      results.innerHTML = "";
+    }
+  });
+</script>
+
       <section class="intro-block">
         <h2>Entrer dans le terrier</h2>
 
