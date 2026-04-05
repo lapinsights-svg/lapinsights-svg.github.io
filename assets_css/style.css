@@ -848,44 +848,43 @@ main.contenu-scroll > *:first-child {
   barre de recherche
 ---------------------------------------------------- */
 .search-zone {
-  position: relative;          /* référence pour le positionnement absolu */
-  width: 100%;
+  position: absolute;      /* on sort la zone du flux */
+  top: 140px;              /* ajuste la hauteur selon la silhouette */
+  right: 60px;             /* distance élégante du bord droit */
   display: flex;
   flex-direction: column;
-  align-items: center;
-  margin-top: 0.5em;
-  margin-bottom: 2em;
-  text-align: center;
+  align-items: flex-end;   /* aligne la barre et les résultats à droite */
+  text-align: right;
+  z-index: 300;
 }
 
 .search-zone input {
-  width: 100%;
-  max-width: 250px;           /* ta largeur choisie */
-  margin: 0 auto;
-  display: block;
+  width: 220px;            /* largeur contrôlée */
   background-color: #94bbe3;
   color: #000;
   border: 1px solid #94bbe3;
+  padding: 6px 10px;
+  border-radius: 4px;
 }
 
-/* La liste des résultats ne pousse plus le reste : elle flotte sous la barre */
+/* Résultats : sous la barre, alignés à droite, sans pousser le contenu */
 .search-zone ul {
   position: absolute;
-  top: 100%;                  /* juste sous l’input */
-  left: 50%;
-  transform: translateX(-50%);
+  top: 100%;               /* juste sous l’input */
+  right: 0;                /* aligné à droite */
+  transform: none;         /* on enlève le centrage */
   list-style: none;
   padding: 0.5em 0;
   margin: 0.3em 0 0;
   background: rgba(255, 255, 255, 0.95);
   border-radius: 4px;
-  min-width: 250px;
+  min-width: 220px;
   max-width: 320px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.12);
-  z-index: 200;
+  z-index: 400;
 }
 
-/* Quand il n’y a pas de résultats, on cache le bloc */
+/* Cache quand vide */
 .search-zone ul:empty {
   display: none;
 }
