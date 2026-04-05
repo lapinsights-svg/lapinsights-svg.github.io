@@ -848,12 +848,11 @@ main.contenu-scroll > *:first-child {
 /* ----------------------------------------------------
   couleur de la licence auteur
 ---------------------------------------------------- */
-.site-footer .auteur,
-.footer-author,
-.licence,
-.copyright {
-  color: #353538;   /* gris profond, élégant */
+footer .copyright {
+  color: inherit !important;
+  font-family: inherit;
 }
+
 
 
 /* ----------------------------------------------------
