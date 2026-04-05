@@ -849,7 +849,7 @@ main.contenu-scroll > *:first-child {
 ---------------------------------------------------- */
 .search-zone {
   position: absolute;      /* on sort la zone du flux */
-  top: 80px;              /* ajuste la hauteur selon la silhouette */
+  top: 100px;              /* ajuste la hauteur selon la silhouette */
   right: 60px;             /* distance élégante du bord droit */
   display: flex;
   flex-direction: column;
