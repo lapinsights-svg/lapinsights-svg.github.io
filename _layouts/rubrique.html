@@ -16,33 +16,9 @@ layout: default
 
 <div class="liste-pdf">
 
-  {%- assign items = "" | split: "" -%}
+  {%- assign collection_name = page.collection -%}
+{%- assign items = site[collection_name] | sort: "date" | reverse -%}
 
-  {%- if site.actualites and site.actualites.docs -%}
-    {%- assign items = items | concat: site.actualites.docs -%}
-  {%- endif -%}
-
-  {%- if site.creations and site.creations.docs -%}
-    {%- assign items = items | concat: site.creations.docs -%}
-  {%- endif -%}
-
-  {%- if site.idees and site.idees.docs -%}
-    {%- assign items = items | concat: site.idees.docs -%}
-  {%- endif -%}
-
-  {%- if site.spiritualite and site.spiritualite.docs -%}
-    {%- assign items = items | concat: site.spiritualite.docs -%}
-  {%- endif -%}
-
-  {%- if site.passe and site.passe.docs -%}
-    {%- assign items = items | concat: site.passe.docs -%}
-  {%- endif -%}
-
-  {%- if site.archives and site.archives.docs -%}
-    {%- assign items = items | concat: site.archives.docs -%}
-  {%- endif -%}
-
-  {%- assign items = items | sort: "date" | reverse -%}
 
   {%- for item in items -%}
     <div class="pdf-item">
