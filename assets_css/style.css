@@ -1,0 +1,950 @@
+/* ----------------------------------------------------
+   VARIABLES
+---------------------------------------------------- */
+:root {
+  --fond: #05060a;
+  --texte: #f5f1ea;
+  --accent: #e0b37a;
+  --lapin: rgba(20, 40, 80, 0.85);
+}
+
+/* ----------------------------------------------------
+   RESET
+---------------------------------------------------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ----------------------------------------------------
+   BODY — BRUME
+---------------------------------------------------- */
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+    "Helvetica Neue", Arial, sans-serif;
+
+  background: url("/images/brume.png") center 35% / cover no-repeat fixed;
+  background-color: var(--fond);
+  color: var(--texte);
+
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* ----------------------------------------------------
+   MAIN
+---------------------------------------------------- */
+main.contenu-scroll {
+  flex: 1 0 auto;
+  overflow-y: visible;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  padding: 0;
+  min-height: auto;
+  display: block;
+}
+
+.contenu-page {
+  max-width: 760px;
+  margin-left: 2rem;
+  padding-right: 2rem;
+  text-align: left;
+}
+
+/* ----------------------------------------------------
+   HEADER
+---------------------------------------------------- */
+header {
+  position: sticky;
+  top: 0;
+  z-index: 3000;
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+
+  padding: 0.5rem 2rem;
+
+  background: rgba(245, 236, 225, 0.88); /* beige clair semi-opaque */
+  backdrop-filter: blur(6px);            /* flou subtil, cohérent avec l’article */
+
+  color: var(--fond);
+
+  overflow: visible;
+}
+
+/* Partie gauche : portrait + titre */
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  flex-shrink: 0;
+}
+
+/* Portrait flottant */
+.portrait-flottant {
+  position: relative;
+  animation: haloRespire 6s ease-in-out infinite,
+             flottement 5.5s ease-in-out infinite;
+}
+
+.portrait-flottant img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid rgba(224, 179, 122, 0.45);
+  box-shadow:
+    0 0 18px rgba(0, 0, 0, 0.45),
+    0 0 25px rgba(224, 179, 122, 0.25);
+}
+
+/* Titre du site */
+.logo-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  line-height: 1.1;
+}
+
+.logo-title h1 {
+  font-size: 2.4rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--lapin);
+  margin: 0;
+}
+
+.logo-title h1 a {
+  color: var(--lapin);
+  text-decoration: none;
+}
+
+.logo-title p {
+  font-size: 1.2rem;
+  opacity: 0.75;
+  color: rgba(70, 75, 85, 0.9);
+  margin: 0.2rem 0 0;
+}
+
+/* ----------------------------------------------------
+   MENU HAUT
+---------------------------------------------------- */
+.menu-haut {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  position: relative;
+  z-index: 20;
+  overflow: visible;
+  flex-grow: 1;
+}
+
+.menu-haut button {
+  background: transparent;
+  border: none;
+  color: var(--lapin);
+  cursor: pointer;
+
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+
+  transition: 0.25s ease;
+}
+
+.menu-haut button:hover {
+  color: rgba(35, 70, 140, 0.95);
+  text-shadow: 0 0 6px rgba(120, 150, 200, 0.45);
+  transform: translateY(-1px);
+}
+
+/* ----------------------------------------------------
+   ARCHIVES — DROPDOWN AU SURVOL
+---------------------------------------------------- */
+.menu-archives {
+  position: relative;
+  overflow: visible;
+}
+
+.menu-archives .menu-button {
+  background: none;
+  border: none;
+  color: var(--lapin);
+  font-family: inherit;
+
+  /* même style que les autres boutons */
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+
+  cursor: pointer;
+}
+
+/* Dropdown */
+.menu-archives-dropdown {
+  position: absolute;
+   top: 100%;
+  right: 0;
+  z-index: 5000;
+
+  display: none;
+
+  background: rgba(80, 100, 130, 0.28);
+  border: 1px solid rgba(200, 220, 255, 0.25);
+  backdrop-filter: blur(14px);
+  border-radius: 0.6rem;
+
+  padding: 0.6rem 0;
+  list-style: none;
+
+  z-index: 5000;
+}
+
+/* Liens du dropdown */
+.menu-archives-dropdown a {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: var(--lapin);
+  text-decoration: none;
+}
+
+.menu-archives-dropdown a:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+/* Ouverture au survol */
+.menu-archives:hover .menu-archives-dropdown {
+  display: block;
+}
+
+/* “Dans le passé” reste inactif */
+.menu-archives.disabled:hover .menu-archives-dropdown {
+  display: none;
+}
+
+/* ----------------------------------------------------
+   BANDEAU DE RUBRIQUE
+---------------------------------------------------- */
+.rubrique-header {
+  position: relative;
+  top: 0;
+  z-index: 2500;
+
+  margin: 1.5rem auto 2rem;
+  padding: 0.6rem 2rem;
+
+  background: rgba(80, 90, 105, 0.35);
+  border: 1px solid rgba(220, 230, 245, 0.35);
+  backdrop-filter: blur(18px);
+  border-radius: 1rem;
+
+  max-width: 760px;
+
+  box-shadow:
+    0 0 40px rgba(0, 0, 0, 0.20),
+    0 0 80px rgba(180, 210, 255, 0.12);
+
+  text-align: center;
+}
+
+.rubrique-header h2 {
+  font-size: 1rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.3rem;
+}
+
+.rubrique-header p {
+  font-size: 0.95rem;
+  line-height: 1.45;
+  color: var(--lapin);
+  opacity: 0.9;
+}
+.menu-passe {
+  position: relative;
+  overflow: visible;
+}
+
+.menu-passe-dropdown {
+  display: none;
+}
+
+/* ----------------------------------------------------
+   LISTE D’ARTICLES
+---------------------------------------------------- */
+.liste-articles {
+  max-width: 760px;
+  margin: 2rem 4rem;
+  padding: 0rem;
+}
+
+.article-item {
+  margin-bottom: 2.2rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.tag-date {
+  display: inline-block;
+  font-size: 0.8rem;
+  opacity: 0.6;
+  margin-bottom: 0.3rem;
+}
+
+.article-titre {
+  font-size: 1.15rem;
+  margin-bottom: 0.4rem;
+}
+
+.article-titre a {
+  color: var(--texte);
+  text-decoration: none;
+}
+
+.article-titre a:hover {
+  text-decoration: underline;
+}
+
+.article-resume {
+  font-size: 0.95rem;
+  line-height: 1.45;
+  opacity: 0.85;
+  margin-top: 0.3rem;
+}
+
+/* ----------------------------------------------------
+   PAGE ARTICLE
+---------------------------------------------------- */
+.article-wrapper {
+  max-width: 760px;
+  margin: 2rem auto 4rem;
+  padding: 2rem; /* respiration interne */
+  background: rgba(245, 236, 225, 0.88); /* opacité douce */
+  backdrop-filter: blur(6px); /* flou subtil derrière */
+  border-radius: 0.6rem; /* optionnel mais élégant */
+}
+
+.article-content {
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.article-content h1,
+.article-content h2,
+.article-content h3 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.8rem;
+  line-height: 1.3;
+}
+
+.article-content p {
+  margin-bottom: 1.2rem;
+}
+
+.article-content a {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.article-content a:hover {
+  opacity: 0.8;
+}
+
+.article-content blockquote {
+  margin: 1.5rem 0;
+  padding-left: 1rem;
+  border-left: 3px solid rgba(255, 255, 255, 0.25);
+  opacity: 0.9;
+}
+
+.article-content img {
+  max-width: 100%;
+  margin: 1.5rem 0;
+  border-radius: 0.4rem;
+}
+
+/* ----------------------------------------------------
+   PAGE CONTACT
+---------------------------------------------------- */
+.contact-wrapper {
+  max-width: 760px;
+  margin: 2rem auto 4rem;
+
+  margin-right: 3rem;
+  margin-left: 1rem;
+
+  padding: 0 2rem;
+
+  color: var(--lapin);
+  font-family: inherit;
+}
+
+.page-contact-intro {
+  font-size: 1.05rem;
+  line-height: 1.55;
+  opacity: 0.9;
+  margin-bottom: 1.5rem;
+}
+
+.form-contact {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  background: rgba(80, 100, 130, 0.28);
+  border: 1px solid rgba(200, 220, 255, 0.25);
+  backdrop-filter: blur(14px);
+  border-radius: 1rem;
+
+  padding: 2rem 2.2rem;
+
+  margin-right: 1.5rem;
+}
+
+.form-contact label {
+  font-size: 0.95rem;
+  opacity: 0.85;
+  color: var(--lapin);
+}
+
+.form-contact input,
+.form-contact textarea {
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(200, 220, 255, 0.25);
+  border-radius: 0.4rem;
+
+  color: var(--lapin);
+  font-family: inherit;
+  font-size: 1rem;
+
+  outline: none;
+  transition: border-color 0.2s ease,
+              background 0.2s ease;
+}
+
+.form-contact input::placeholder,
+.form-contact textarea::placeholder {
+  color: rgba(255, 255, 255, 0.45);
+  font-family: inherit;
+}
+
+.form-contact input:focus,
+.form-contact textarea:focus {
+  border-color: rgba(224, 179, 122, 0.55);
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.form-contact button {
+  align-self: flex-start;
+  padding: 0.6rem 1.2rem;
+
+  background: #E0B37A;
+  color: #111;
+  border: none;
+  border-radius: 0.4rem;
+
+  cursor: pointer;
+  font-size: 1rem;
+  font-family: inherit;
+
+  transition: background 0.2s ease;
+}
+
+.form-contact button:hover {
+  background: #e8c79a;
+}
+
+/* ----------------------------------------------------
+   FOOTER
+---------------------------------------------------- */
+footer.footer-fixed {
+  width: 100%;
+  padding: 1.2rem 2.8rem;
+  margin-top: 1rem;
+
+  background: transparent;
+  border-top: none;
+  backdrop-filter: none;
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer-content {
+  width: 100%;
+  max-width: 1100px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 2rem;
+}
+
+.footer-left {
+  flex: 0;
+}
+
+.footer-right {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  align-items: flex-end;
+}
+
+.footer-signature {
+  font-size: 0.85rem;
+  opacity: 0.8;
+  margin-top: 0;
+  color: var(--texte);
+  text-align: right;
+}
+
+/* ----------------------------------------------------
+   NEWSLETTER MINI
+---------------------------------------------------- */
+.newsletter-mini {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.4rem;
+}
+
+.newsletter-mini-title {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.newsletter-mini input[type="email"] {
+  padding: 0.4rem 0.6rem;
+  border-radius: 0.3rem;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--texte);
+  width: 220px;
+}
+
+.newsletter-mini button {
+  margin-top: 0.3rem;
+  padding: 0.4rem 0.8rem;
+  background: var(--accent);
+  color: var(--fond);
+  border: none;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.newsletter-mini button:hover {
+  opacity: 0.85;
+}
+
+/* ----------------------------------------------------
+   ANIMATIONS
+---------------------------------------------------- */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.contenu-page,
+.article-wrapper,
+.contact-wrapper,
+.liste-articles,
+.rubrique-header {
+  animation: fadeIn 0.6s ease both;
+}
+
+a {
+  transition: opacity 0.2s ease;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+button,
+input,
+textarea {
+  transition: background 0.2s ease,
+              border-color 0.2s ease,
+              opacity 0.2s ease;
+}
+
+/* ----------------------------------------------------
+   BARRE DE RECHERCHE — SOUS LE HEADER
+---------------------------------------------------- */
+.search-bar-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.8rem 2rem 0.5rem;
+  background: transparent;
+  position: relative;
+  z-index: 1;
+}
+
+.search-bar-wrapper input {
+  width: 260px;
+  padding: 0.6rem 0.9rem;
+
+  background: #E0B37A;
+  color: #111;
+  font-family: inherit;
+  font-size: 0.95rem;
+
+  border: none;
+  border-radius: 0.4rem;
+
+  outline: none;
+  transition: background 0.2s ease;
+}
+
+.search-bar-wrapper input::placeholder {
+  color: rgba(0, 0, 0, 0.55);
+  font-family: inherit;
+}
+
+.search-bar-wrapper input:focus {
+  background: #e8c79a;
+}
+
+/* ----------------------------------------------------
+   BLOC D’INTRO — PAGE D’ACCUEIL
+---------------------------------------------------- */
+.intro-block {
+  max-width: 620px;
+  margin-right: 2.5rem;
+  margin-left: 2rem;
+  margin-top: 2rem;
+
+  padding: 2rem 2.2rem;
+
+  background: rgba(80, 100, 130, 0.28);
+  border: 1px solid rgba(200, 220, 255, 0.25);
+  backdrop-filter: blur(14px);
+  border-radius: 1rem;
+
+  color: var(--lapin);
+  line-height: 1.55;
+  animation: fadeIn 0.6s ease both;
+}
+
+.intro-block h2 {
+  font-size: 1.1rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 1rem;
+}
+
+.intro-block p {
+  margin-bottom: 1rem;
+  opacity: 0.95;
+  color: var(--lapin);
+}
+
+/* Animation du titre */
+@keyframes tresaillement {
+  0%   { transform: translateX(0); }
+  20%  { transform: translateX(-1px); }
+  40%  { transform: translateX(1px); }
+  60%  { transform: translateX(-1px); }
+  80%  { transform: translateX(1px); }
+  100% { transform: translateX(0); }
+}
+
+.site-title {
+  color: var(--lapin);
+  text-decoration: none;
+  display: inline-block;
+}
+
+.site-title:hover {
+  animation: tresaillement 0.25s ease-in-out;
+}
+
+@keyframes flottement {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-4px); }
+  100% { transform: translateY(0); }
+}
+
+
+.search-bar-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end; /* pousse la barre à droite */
+  margin-top: 0.5rem; /* espace sous le header */
+  padding-right: 2rem; /* espace du bord droit */
+}
+
+#search-input {
+  width: 260px;
+  padding: 0.6rem 1rem;
+  border-radius: 0.6rem;
+  border: 1px solid rgba(200, 220, 255, 0.25);
+  background: rgba(80, 100, 130, 0.28);
+  backdrop-filter: blur(14px);
+  color: var(--lapin);
+}
+/* Positionnement du select Archives sous le header */
+.archives-select-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end; /* pousse à droite */
+  margin-top: 0.5rem; /* espace sous le header */
+  padding-right: 2rem; /* espace du bord droit */
+}
+
+/* Style du select identique à la barre de recherche */
+.archives-select select {
+  width: 260px;
+  padding: 0.6rem 1rem;
+  border-radius: 0.6rem;
+  border: 1px solid rgba(200, 220, 255, 0.25);
+  background: rgba(80, 100, 130, 0.28);
+  backdrop-filter: blur(14px);
+  color: var(--lapin);
+}
+
+/* On masque le label */
+.archives-select label {
+  display: none;
+}
+
+/* Couleur + taille uniquement pour le corps de la rubrique Archives */
+.section-content.archives-liste .archive-annee,
+.section-content.archives-liste .archive-mois,
+.section-content.archives-liste .archive-mois-bloc,
+.section-content.archives-liste .article-item,
+.section-content.archives-liste .article-item *,
+.section-content.archives-liste .tag-date {
+  color: #010a12 !important;   /* ocre terne */
+  font-size: 14px !important;
+}
+
+/* Rétablir la couleur orangée EXACTE des autres rubriques */
+.rubrique-header h2,
+.rubrique-header p {
+  color: var(--accent) !important;   /* ta couleur orangée du thème */
+  font-size: inherit !important;
+}
+
+/* Décalage du texte du corps de la page Archives vers la droite */
+.section-content.archives-liste {
+  padding-left: 3rem;
+  padding-right: 2rem;
+}
+
+/* Couleur du texte dans toutes les rubriques ET dans les articles */
+.section-content,
+.section-content * {
+  color: var(--lapin) !important;
+}
+
+/* Pousser le texte vers la droite dans toutes les rubriques (sauf Archives) */
+.section-content:not(.archives-liste) {
+  padding-left: 3rem;
+  padding-right: 2rem;
+  box-sizing: border-box;
+}
+/* LIGNE D’ARTICLE DANS LA PAGE LISTE */
+.article-line {
+  display: grid;
+  grid-template-columns: 7rem 1fr; /* colonne date | colonne titre */
+  grid-template-rows: auto auto;   /* ligne 1 : date + titre / ligne 2 : sous-titre */
+  grid-template-areas:
+    "date title"
+    ".    teaser";
+  column-gap: 0.5rem;
+  row-gap: 0.2rem;
+
+  padding: 0.5rem 0.5rem 0.5rem 0;
+  color: var(--lapin);
+  box-sizing: border-box;
+}
+
+/* Date */
+.article-line .article-date {
+  grid-area: date;
+  color: var(--accent);
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+/* Titre */
+.article-line .article-title {
+  grid-area: title;
+}
+
+.article-line .article-title a {
+  color: var(--lapin);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* Sous-titre : automatiquement aligné sous le titre */
+.article-line .article-teaser {
+  grid-area: teaser;
+  color: var(--lapin);
+  opacity: 0.8;
+  font-style: italic;
+  max-width: 100ch;
+}
+
+.article-body img {
+  max-width: 500px;   /* largeur maximale éditoriale */
+  width: 100%;        /* responsive */
+  height: auto;       /* proportions respectées */
+  display: block;
+  margin: 2em auto;   /* centrage + respiration */
+}
+
+/* Lapin scroll-to-top : style minimal et sans halo */
+#backToTop {
+  position: fixed;
+  bottom: 30px;          /* position temporaire pour le retrouver */
+  right: 900px;          /* position temporaire pour le retrouver */
+  font-size: 1.7rem;     /* taille réduite */
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+  filter: none !important;
+  cursor: pointer;
+
+  /* invisible par défaut */
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+
+  /* saut */
+  animation: lapin-saut 0.8s infinite ease-in-out;
+
+  /* AU-DESSUS de tout, y compris du footer */
+  z-index: 999999999 !important;
+
+  /* supprime halo bleu mobile */
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Quand visible */
+#backToTop.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Animation du saut */
+@keyframes lapin-saut {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-6px); }
+  100% { transform: translateY(0); }
+}
+
+/* Suppression du carré bleu */
+#backToTop:focus,
+#backToTop:focus-visible,
+#backToTop::-moz-focus-inner {
+  outline: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+/* UNIQUEMENT pour les pages article */
+.article-page .article-header-top {
+  display: grid;
+  grid-template-columns: 7rem 1fr;   /* date | titre */
+  grid-template-areas: "date title";
+  column-gap: 0.5rem;
+  align-items: baseline;
+}
+
+/* Date */
+.article-page .article-date {
+  grid-area: date;
+  white-space: nowrap;
+  color: var(--accent);
+  font-weight: 500;
+}
+
+/* Titre */
+.article-page .article-title {
+  grid-area: title;
+  font-weight: 600;
+  color: var(--lapin);
+}
+
+/* Sous‑titre : aligné sous le titre */
+.article-page .article-teaser {
+  display: block;
+  margin-left: 7.6rem;          /* ⭐ alignement parfait sous le titre */
+  max-width: 65ch;            /* ⭐ retour à la ligne naturel */
+  white-space: normal !important;
+  font-style: italic;
+  opacity: 0.8;
+  line-height: 1.4;
+  color: var(--lapin);
+}
+/* Dates dans toutes les rubriques (Spiritualité, Créations, etc.) */
+.section-content .article-line .article-date {
+  color: var(--accent) !important;
+}
+.article-body > *:first-child {
+  margin-top: 3rem; /* ajuste selon ton esthétique */
+}
+
+/* Désactivation visuelle et fonctionnelle de la page Archives */
+/* Empêche le clic sur le lien Archives sans modifier son contenu */
+a[href="/archives"],
+a[href="/archives/"],
+a[href$="/archives"],
+a[href$="/archives/"] {
+  pointer-events: none !important;
+  cursor: default !important;
+  opacity: 0.5; /* optionnel */
+}
+
+.menu-archives-dropdown a {
+  display: none !important;
+}
+.menu-archives .menu-button {
+  pointer-events: none !important;
+  opacity: 0.5;
+  cursor: default;
+}
+header .menu-archives-dropdown a {
+  display: none !important;
+}
+body {
+  outline: 5px solid red !important;
+}
+.menu-passe {
+  opacity: 0.5;
+}
+
+
+
+
+
+
+
