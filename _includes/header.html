@@ -34,7 +34,7 @@
           {% assign id = article.date | date: "%Y-%m" %}
           {% assign label = month | capitalize | append: " " | append: year %}
           {% unless seen_archives contains id %}
-            <a href="/archives/#{{ id }}">{{ label }}</a>
+           <a href="{{ '/archives/#' | append: id | relative_url }}">{{ label }}</a>
             {% assign seen_archives = seen_archives | append: id | append: "," %}
           {% endunless %}
         {% endfor %}
