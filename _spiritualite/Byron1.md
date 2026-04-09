@@ -5,7 +5,6 @@ collection: articles
 resume: "Analyse critique de la méthode « The Work » de Byron Katie et de ses dérives philosophiques, psychologiques et spirituelles."
 ---
 
-<!-- IMAGE À INSÉRER -->
 ![Byron Katie](/images/spiritualite/byron1.png)
 
 # Byron Katie et « Le Travail »
