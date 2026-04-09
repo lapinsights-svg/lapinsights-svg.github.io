@@ -1,8 +1,0 @@
----
-title: "Là où la forêt se souvient"
-date: 2026-04-05
-pdf: "/pdfs/20260405_foret.pdf"
-tags: [spiritualité, forêt, création, conscience]
-resume: "L'homme et la nature"
----
-.
