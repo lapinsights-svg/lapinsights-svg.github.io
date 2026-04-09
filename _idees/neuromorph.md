@@ -7,7 +7,6 @@ layout: article
 
 ![La faillite de l'eau](/images/idees/neuromorph.png)
 
-# L’adaptation n’est pas l’intelligence : plaidoyer pour le vivant
 
 Avant même de réfléchir au mot “intelligence”, j’ai voulu comprendre ce que sont réellement ces machines neuromorphiques dont on parle tant. Et très vite, j’ai remarqué que même les images qu’on utilise pour les représenter créent déjà une confusion. On montre souvent des réseaux lumineux, des filaments qui s’illuminent comme un cerveau stylisé. Cette image est séduisante, mais trompeuse : elle suggère une vie intérieure, une pensée, une proximité avec le vivant. D’autres images montrent une simple puce noire, froide, géométrique, honnête mais muette : elle ne dit rien de la dynamique interne. La seule image juste serait celle d’impulsions brèves, de seuils franchis, de signaux qui se propagent sans jamais rien ressentir. Une mécanique subtile, dynamique, mais sans intériorité. C’est cette image-là que je retiens : un système qui bouge, mais qui ne vit pas.
 
