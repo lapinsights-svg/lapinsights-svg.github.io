@@ -2,7 +2,7 @@
 title: "Éthique de l’attention : trier l’information à l’ère de l’IA"
 date: 2026-02-22
 resume: "Distinguer le vrai du fabriqué, discipline essentielle dans un monde saturé d’informations"
-author: © Céleste R. — CC BY-NC-ND
+image: "/images/accueil.png"
 collection: articles
 ---
 
