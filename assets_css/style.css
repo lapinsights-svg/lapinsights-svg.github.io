@@ -535,7 +535,11 @@ footer.footer-fixed {
   padding: 0.4rem 0.6rem;
   border-radius: 0.3rem;
   border: 1px solid rgba(255, 255, 255, 0.25);
-  background: rgba(255, 255, 255, 0.08);
+
+  /* 🔶 Nouvelle opacité : plus lisible, plus douce */
+  background: rgba(255, 255, 255, 0.55);
+
+  /* Tu peux monter jusqu’à 0.70 ou 0.80 si tu veux encore plus opaque */
   color: var(--texte);
   width: 220px;
 }
@@ -554,7 +558,6 @@ footer.footer-fixed {
 .newsletter-mini button:hover {
   opacity: 0.85;
 }
-
 /* ----------------------------------------------------
    ANIMATIONS
 ---------------------------------------------------- */
