@@ -27,6 +27,28 @@ layout: default
   <article class="article-content">
     <div class="article-body">
       {{ content }}
+      <div class="share-block">
+  <p>Partager cet article :</p>
+
+  <a class="share-link"
+     href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
+     target="_blank" rel="noopener">
+     Facebook
+  </a>
+
+  <a class="share-link"
+     href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title | uri_escape }}"
+     target="_blank" rel="noopener">
+     X / Twitter
+  </a>
+
+  <a class="share-link"
+     href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.url }}{{ page.url }}"
+     target="_blank" rel="noopener">
+     LinkedIn
+  </a>
+</div>
+
     </div>
   </article>
 
