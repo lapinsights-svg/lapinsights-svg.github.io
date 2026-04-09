@@ -5,7 +5,7 @@ collection: articles
 resume: "Analyse critique de la méthode « The Work » de Byron Katie et de ses dérives philosophiques, psychologiques et spirituelles."
 ---
 
-![Byron Katie](/images/spiritualite/byron1.png)
+![Byron](/images/spiritualite/byron1.png)
 
 
 « Méfiez-vous des faux prophètes, qui viennent à vous en vêtements de brebis, mais qui, au fond, sont des loups ravisseurs. » (Matthieu 7:15)
