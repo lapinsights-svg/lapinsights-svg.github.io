@@ -6,7 +6,7 @@ resume: "Analyse des mécanismes psychologiques, rhétoriques et idéologiques d
 ---
 
 <!-- IMAGE À INSÉRER -->
-![Byron Katie essai](/images/spiritualite/byron.png)
+![Byron](/images/spiritualite/Byron.png)
 
 
 Il existe, dans le paysage spirituel contemporain, des méthodes qui se présentent comme des voies de libération, mais qui opèrent en réalité une reconfiguration profonde du rapport au réel, à la souffrance et à la responsabilité.
