@@ -3,7 +3,7 @@ title: "Jeff Bezos : Le vide en orbite"
 date: 2026-03-24
 resume: "Bezos et la Défense Planétaire en carton pâte"
 layout: article
-category: actualites
+categories: actualites
 ---
 ![Bezos](/images/actualites/Bezos.png)
 
