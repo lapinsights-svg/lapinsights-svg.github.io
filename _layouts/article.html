@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% if page.date <= site.time %}
+
 <main class="section-content article-wrapper article-page">
 
   <div class="article-header-line">
@@ -26,30 +28,26 @@ layout: default
     <div class="article-body">
       {{ content }}
 
-      {% if page.date > site.time %}
-  {% exit %}
-{% endif %}
-
       <!-- BLOC : À LIRE AUSSI -->
-   {% assign current_collection = page.collection %}
+      {% assign current_collection = page.collection %}
 
-{% assign related_posts = "" | split: "" %}
-{% for post in site[current_collection] %}
-  {% if post.url != page.url %}
-    {% assign related_posts = related_posts | push: post %}
-  {% endif %}
-{% endfor %}
+      {% assign related_posts = "" | split: "" %}
+      {% for post in site[current_collection] %}
+        {% if post.url != page.url %}
+          {% assign related_posts = related_posts | push: post %}
+        {% endif %}
+      {% endfor %}
 
-{% if related_posts.size > 0 %}
-  <div class="related-article">
-    <h3>À lire aussi</h3>
+      {% if related_posts.size > 0 %}
+        <div class="related-article">
+          <h3>À lire aussi</h3>
 
-    {% assign sorted = related_posts | sort: "date" %}
-    {% assign suggestion = sorted | last %}
+          {% assign sorted = related_posts | sort: "date" %}
+          {% assign suggestion = sorted | last %}
 
-    <a href="{{ suggestion.url }}">{{ suggestion.title }}</a>
-  </div>
-{% endif %}
+          <a href="{{ suggestion.url }}">{{ suggestion.title }}</a>
+        </div>
+      {% endif %}
       <!-- FIN DU BLOC -->
 
       <div class="share-block">
@@ -78,3 +76,11 @@ layout: default
   </article>
 
 </main>
+
+{% else %}
+
+<!-- PAGE MASQUÉE AVANT SA DATE -->
+<!-- Tu peux laisser vide ou afficher un message -->
+<!-- <p>Ce contenu sera disponible le {{ page.date | date: "%d.%m.%Y" }}.</p> -->
+
+{% endif %}
