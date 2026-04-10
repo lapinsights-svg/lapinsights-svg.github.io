@@ -2,7 +2,7 @@
 title: "Le Terrier des Origines"
 layout: article
 date: 2026-03-30
-category: creations
+categories: creations
 resume: "Descente visionnaire dans les profondeurs minérales."
 ---
 
