@@ -1,7 +1,7 @@
 ---
 title: "Maître Brusa contre Macron ?"
 date: 2026-01-28
-rubrique: "Société"
+category: actualites
 collection: "articles"
 resume: "Analyse juridique des déclarations de Maître Brusa affirmant vouloir attaquer Emmanuel Macron en justice."
 ---
