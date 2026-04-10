@@ -1,7 +1,7 @@
 ---
 title: "Anthropic et le pouvoir américain"
 date: 2026-03-01
-category: actualites
+categories: actualites
 resume: "L’affaire Anthropic révèle la nature profonde du pouvoir technopolitique américain"
 ---
 
