@@ -1,7 +1,7 @@
 ---
 title: "Europe électrique : Souveraineté, nations et enjeux énergétiques"
 date: 2026-03-13
-category: idees
+categories: idees
 resume: "Pourquoi l’Europe ne peut pas planifier son énergie et pourquoi les solutions restent nationales."
 ---
 
