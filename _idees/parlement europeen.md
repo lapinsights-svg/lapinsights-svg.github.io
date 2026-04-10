@@ -1,8 +1,7 @@
 ---
 title: "Pourquoi le Parlement européen manque d’initiative : analyse des limites démocratiques de l’UE"
 date: 2026-02-23
-rubrique: "Europe"
-collection: "articles"
+category: idees
 resume: "Analyse du déficit d’initiative législative du Parlement européen et des limites structurelles de la démocratie européenne."
 ---
 
