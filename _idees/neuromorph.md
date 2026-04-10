@@ -1,7 +1,7 @@
 ---
 title: "L’adaptation n’est pas l’intelligence : plaidoyer pour le vivant"
 date: 2026-04-09
-category: idees
+categories: idees
 layout: article
 ---
 
