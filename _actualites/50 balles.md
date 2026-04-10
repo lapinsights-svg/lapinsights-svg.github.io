@@ -3,7 +3,7 @@ title: "50 balles ou l'effondrement du droit"
 date: 2026-03-03
 resume: "ou comment l'argent prend le pas sur l'égalité"
 layout: article
-category: actualites
+categories: actualites
 ---
 
 
