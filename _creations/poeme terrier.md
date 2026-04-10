@@ -5,7 +5,7 @@ date: 2026-03-30
 resume: "Descente visionnaire dans les profondeurs minérales."
 ---
 
-![Lapin_chamanique](/images/creations/Lapin_chamanique.png)
+![lapin](/images/creations/lapin.png)
 
 Il avance dans la nuit, sombre oracle,  
 pelage traversé d'éclats de basalte.
