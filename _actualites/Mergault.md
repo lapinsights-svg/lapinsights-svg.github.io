@@ -1,8 +1,8 @@
 ---
 title: "Isabelle Mergault"
 date: 2026-03-20
-rubrique: "Hommages"
-collection: "articles"
+category: actualites
+layout: articles
 resume: "Un souvenir tendre et lumineux d’Isabelle Mergault, entre rire, poésie involontaire et grâce bancale."
 ---
 
