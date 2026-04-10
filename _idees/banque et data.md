@@ -1,7 +1,7 @@
 ---
 title: "Banques et données personnelles"
 date: 2026-02-16
-collection: articles
+category: idees
 resume: "Les banques analysent nos transactions pour profiler nos vies — un enjeu démocratique majeur."
 ---
 
