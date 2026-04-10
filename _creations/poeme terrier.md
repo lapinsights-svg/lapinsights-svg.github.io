@@ -6,6 +6,8 @@ date: 2026-03-30
 resume: "Descente visionnaire dans les profondeurs minérales où le lapin-oracle porte la mémoire des mondes enfouis."
 ---
 
+![Lapin](/images/creations/Lapin chamanique.png)
+
 Il avance dans la nuit, sombre oracle,  
 pelage traversé d'éclats de basalte.
 
