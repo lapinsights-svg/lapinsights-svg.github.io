@@ -77,8 +77,8 @@ defaults:
     values:
       layout: post
 
-
-
+# Publication différée
+future: false
 
 # Newsletter (Buttondown)
 newsletter_url: "https://buttondown.email/dig_it"
@@ -92,7 +92,6 @@ include:
   - robots.txt
   - search.json
   - images
-
 
 keep_files:
   - assets_css
