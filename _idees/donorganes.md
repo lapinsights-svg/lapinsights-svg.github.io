@@ -1,7 +1,7 @@
 ---
 title: "Don d’organes : le temps d’un vrai choix"
 date: 2026-02-22
-category: idees
+categories: idees
 resume: "Un choix intime qui demande lenteur, silence et liberté intérieure."
 ---
 
