@@ -1,8 +1,7 @@
 ---
 title: "Réforme des retraites et service militaire en Belgique"
 date: 2026-02-16
-rubrique: "Société"
-collection: "articles"
+category: actualites
 resume: "Analyse du projet de réforme supprimant le service militaire du calcul de la retraite anticipée et des inégalités qu’elle crée."
 ---
 
