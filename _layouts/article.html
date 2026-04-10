@@ -26,6 +26,10 @@ layout: default
     <div class="article-body">
       {{ content }}
 
+      {% if page.date > site.time %}
+  {% exit %}
+{% endif %}
+
       <!-- BLOC : À LIRE AUSSI -->
    {% assign current_collection = page.collection %}
 
