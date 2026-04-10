@@ -1,10 +1,9 @@
 ---
 title: "Mojtaba Khamenei : pouvoir et récit médiatique"
 date: 2026-03-12
-rubrique: "Géopolitique"
-collection: "articles"
+layout: article
+category: actualites
 resume: "Analyse des récits médiatiques autour de Mojtaba Khamenei, des montages financiers et des incohérences géopolitiques."
-author: "© Céleste R. — CC BY-NC-ND"
 ---
 
 # Mojtaba Khamenei : pouvoir et récit médiatique
