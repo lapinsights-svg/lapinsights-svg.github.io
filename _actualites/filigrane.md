@@ -1,7 +1,7 @@
 ---
 title: "Les heures sombres en filigrane : Ce que cache le règlement européen sur le retour"
 date: 2026-03-10
-collection: articles
+category: actualites
 resume: "Analyse critique du projet de règlement européen sur le retour et de ses implications juridiques et humaines."
 ---
 
