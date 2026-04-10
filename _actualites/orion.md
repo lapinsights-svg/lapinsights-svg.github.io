@@ -1,7 +1,7 @@
 ---
 title: "ORION 2026"
 date: 2026-01-26
-category: actualites
+categories: actualites
 resume: "Analyse critique de l’exercice militaire ORION 2026, de son coût, de ses objectifs et de son rôle dans la narration stratégique française."
 ---
 
