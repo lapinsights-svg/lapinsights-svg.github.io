@@ -27,11 +27,11 @@ layout: default
       {{ content }}
 
       <!-- BLOC : À LIRE AUSSI -->
-    {% assign current_category = page.categories | first %}
+   {% assign current_collection = page.collection %}
 
 {% assign related_posts = "" | split: "" %}
-{% for post in site.posts %}
-  {% if post.url != page.url and post.categories contains current_category %}
+{% for post in site[current_collection] %}
+  {% if post.url != page.url %}
     {% assign related_posts = related_posts | push: post %}
   {% endif %}
 {% endfor %}
