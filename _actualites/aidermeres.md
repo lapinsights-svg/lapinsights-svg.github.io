@@ -1,7 +1,7 @@
 ---
 title: "Aider les mères"
 date: 2026-02-02
-category: actualites
+categories: actualites
 resume: "Réflexion sur les contradictions imposées aux mères et les besoins réels des bébés."
 ---
 
