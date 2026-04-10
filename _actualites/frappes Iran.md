@@ -1,7 +1,7 @@
 ---
 title: "Frappes en Iran : une guerre impossible"
 date: 2026-02-28
-collection: articles
+category: actualites
 resume: "Ce que ces textes prétendent décrire n'est pas une crise : c'est un scénario qui s'effondre dès qu'on le lit comme un événement possible."
 ---
 
