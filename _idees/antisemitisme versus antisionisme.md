@@ -1,7 +1,7 @@
 ---
 title: "Antisémitisme versus Antisionisme"
 date: 2026-02-14
-category: idees
+categories: idees
 resume: "Clarifier deux notions souvent confondues pour des raisons politiques."
 ---
 
