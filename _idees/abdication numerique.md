@@ -3,7 +3,7 @@ title: "Abdication numérique de la France"
 date: 2026-04-02
 resume: "Le moment où l’État reconnaît enfin la perte de souveraineté numérique."
 layout: article
-category: idees
+categories: idees
 ---
 
 ![Abdication numérique](/images/idees/abdication-numerique.png)
