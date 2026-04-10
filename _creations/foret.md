@@ -4,6 +4,7 @@ date: 2026-04-05
 tags: [spiritualité, forêt, création, conscience]
 resume: "Un chant ancien où la forêt révèle la mémoire du monde"
 layout: article
+category: creations
 ---
 
 
