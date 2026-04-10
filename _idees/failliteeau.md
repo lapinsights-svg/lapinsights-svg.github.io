@@ -1,7 +1,7 @@
 ---
 title: "La faillite de l’eau ?"
 date: 2026-03-28
-category: idees
+categories: idees
 resume: "Pourquoi la rhétorique de la « faillite hydrique » ne correspond pas à la réalité physique du cycle de l’eau."
 ---
 
