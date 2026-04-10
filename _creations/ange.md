@@ -96,7 +96,7 @@ portant dans sa gorge
 le tremblement de la voie.  
 Et parfois —  
 dans un silence plus profond que la nuit —  
-elle sent une chaleur,  
+elle sent une aile,  
 une présence,  
 une main qui n’est plus une main  
 mais un souffle posé sur son souffle.
