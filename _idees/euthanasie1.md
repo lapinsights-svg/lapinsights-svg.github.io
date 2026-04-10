@@ -1,7 +1,7 @@
 ---
 title: "L’Euthanasie et la décohérence du droit"
 date: 2026-02-16
-collection: articles
+category: idees
 resume: "Analyse du Dr Amine Umlil sur les contradictions juridiques du projet de loi sur l’aide à mourir."
 ---
 
