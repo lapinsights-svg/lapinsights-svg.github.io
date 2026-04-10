@@ -1,9 +1,8 @@
 ---
 title: "Le Terrier des Origines"
-collection: poesie
 layout: article
 date: 2026-03-30
-resume: "Descente visionnaire dans les profondeurs minérales où le lapin-oracle porte la mémoire des mondes enfouis."
+resume: "Descente visionnaire dans les profondeurs minérales."
 ---
 
 ![Lapin chamanique](/images/creations/Lapin chamanique.png)
