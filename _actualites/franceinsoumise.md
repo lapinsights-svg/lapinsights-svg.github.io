@@ -1,7 +1,7 @@
 ---
 title: "La France Insoumise est-elle d'extrême gauche ?"
 date: 2026-02-11
-collection: articles
+category: actualites
 resume: "Analyse du reclassement politique de LFI et distinction entre gauche radicale et extrême gauche."
 ---
 
