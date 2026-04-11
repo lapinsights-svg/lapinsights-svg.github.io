@@ -1,14 +1,13 @@
 ---
-layout: page
-title: "Restaurer le sens : ce que l’on voit, ce que l’on tait"
+layout: article
+title: "Restaurer le sens dans les métiers du lien"
+resume: Ce que Mme Rist voit, ce qu’elle ne voit pas, et ce qu’il faudrait enfin dire
 category: actualites
-date: 2026-04-11 12:00:00
+date: 2026-04-11
 ---
 
-# ⟡ Restaurer le sens  
-*Ce que Mme Rist voit, ce qu’elle ne voit pas, et ce qu’il faudrait enfin dire*  
+![metiersens](/images/actualites/metiersens.png)
 
----
 
 ## 1. Le constat partagé : un système qui se fissure
 
