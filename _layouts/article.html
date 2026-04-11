@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% if page.date <= site.time %}
-
 <main class="section-content article-wrapper article-page">
 
   <div class="article-header-line">
@@ -76,11 +74,3 @@ layout: default
   </article>
 
 </main>
-
-{% else %}
-
-<!-- PAGE MASQUÉE AVANT SA DATE -->
-<!-- Tu peux laisser vide ou afficher un message -->
-<!-- <p>Ce contenu sera disponible le {{ page.date | date: "%d.%m.%Y" }}.</p> -->
-
-{% endif %}
