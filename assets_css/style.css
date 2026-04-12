@@ -976,6 +976,37 @@ body {
   text-decoration: underline;
 }
 
+/* barre de recherche */
+#search-results {
+  max-width: 600px;        /* même largeur que ton contenu */
+  margin: 1.5em auto 0;    /* centré, avec respiration */
+  padding: 0;
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+
+#search-results div {
+  margin-bottom: 1em;
+  padding-bottom: 0.8em;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+#search-results a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#search-results strong {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.2em;
+}
+
+#search-results span {
+  opacity: 0.6;
+  font-size: 0.85em;
+}
+
 
 
 
