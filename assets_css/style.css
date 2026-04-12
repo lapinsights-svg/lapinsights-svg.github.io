@@ -1038,7 +1038,7 @@ body {
 #search-results:empty {
   display: none;
 }
-background: #e8eef5;   /* exemple */
+background: rgba(245, 236, 225, 0.88); /* beige clair semi-opaque */
 
 
 
