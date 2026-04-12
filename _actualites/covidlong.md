@@ -2,7 +2,7 @@
 title: "Sortir du réflexe de disqualification"
 date: 2026-04-12
 categories: actualites
-resume: "dénoncer la tendance médiatique à caricaturer les pratiques complémentaires explorées par les malades du COVID long."
+resume: "Pour un débat honnête autour du COVID long et des pratiques complémentaires"
 ---
 
 
