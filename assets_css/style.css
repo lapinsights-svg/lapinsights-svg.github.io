@@ -1046,6 +1046,7 @@ body {
   display: flex;
   justify-content: center;
   padding: 3rem 1rem;
+ padding-top: 4rem; /* augmente l’espace au-dessus */
 }
 
 /* Conteneur de la vidéo */
