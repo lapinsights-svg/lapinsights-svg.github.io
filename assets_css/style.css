@@ -999,7 +999,7 @@ body {
   top: 110%;                 /* Juste en dessous du champ */
   right: 0;                  /* Aligné à droite */
   width: 100%;               /* Même largeur que la barre */
-  background: white;
+  background: rgba(245, 236, 225, 0.88); /* beige clair semi-opaque */
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 0.5em 0.8em;
@@ -1035,63 +1035,9 @@ body {
   opacity: 0.6;
   font-size: 0.85em;
 }
+
 #search-results:empty {
   display: none;
-}
-background: rgba(245, 236, 225, 0.88); /* beige clair semi-opaque */
-
-/* Modal sur page d'accueil*/
-
-/* --- MODAL : invisible au chargement --- */
-.modal {
-  display: none; /* ESSENTIEL : empêche l'affichage automatique */
-  position: fixed;
-  z-index: 9999;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0,0,0,0.85); /* voile sombre */
-  justify-content: center;
-  align-items: center;
-}
-
-/* --- Conteneur du modal --- */
-.modal-content {
-  position: relative;
-  width: 90%;
-  max-width: 1000px;
-  background: transparent;
-}
-
-/* --- Vidéo responsive --- */
-.modal-content video {
-  width: 100%;
-  height: auto;
-  border-radius: 6px;
-}
-
-/* --- Bouton X pour fermer --- */
-.close-modal {
-  position: absolute;
-  top: -20px;
-  right: -10px;
-  font-size: 40px;
-  color: white;
-  cursor: pointer;
-  font-weight: 300;
-}
-.modal {
-  display: none !important;
-  position: fixed !important;
-z-index: 2147483647; /* valeur max pratique */
- left: 0 !important;
-  top: 0 !important;
-  width: 100% !important;
-  height: 100% !important;
-  background: rgba(0,0,0,0.85) !important;
-  justify-content: center !important;
-  align-items: center !important;
 }
 
 
