@@ -4,24 +4,24 @@
   {% include head.html %}
 </head>
 
-<body>
+<body class="{{ page.class }}">
 
   {% include header.html %}
 
   <main class="contenu-scroll">
 
   {% if page.date %}
-  {% assign page_ts = page.date | date: "%s" %}
-  {% assign now_ts = site.time | date: "%s" %}
+    {% assign page_ts = page.date | date: "%s" %}
+    {% assign now_ts = site.time | date: "%s" %}
 
-  {% if page_ts > now_ts %}
-    {% assign hide_future = true %}
+    {% if page_ts > now_ts %}
+      {% assign hide_future = true %}
+    {% endif %}
   {% endif %}
-{% endif %}
 
-{% unless hide_future %}
-  {{ content }}
-{% endunless %}
+  {% unless hide_future %}
+    {{ content }}
+  {% endunless %}
 
   </main>
 
@@ -145,19 +145,3 @@
   <script async src="https://www.statcounter.com/counter/counter.js"></script>
   <noscript>
     <div class="statcounter">
-      <a href="https://statcounter.com/" target="_blank">
-        <img class="statcounter"
-             src="https://c.statcounter.com/13213092/0/a6e8d30c/1/"
-             alt="free web stats"
-             referrerPolicy="no-referrer-when-downgrade">
-      </a>
-    </div>
-  </noscript>
-
-  <!-- GoatCounter -->
-  <script data-goatcounter="https://celeste52.goatcounter.com/count"
-          async src="//gc.zgo.at/count.js"></script>
-
-  <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
-</body>
-</html>
