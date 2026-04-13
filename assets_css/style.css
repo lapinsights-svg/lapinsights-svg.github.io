@@ -1041,15 +1041,27 @@ body {
 }
 
 /* page vidéo accueil  */
+/* Page vidéo du terrier */
+.page-video-terrier {
+  display: flex;
+  justify-content: center;
+  padding: 3rem 1rem;
+}
+
+/* Conteneur de la vidéo */
 .page-video-terrier .video-wrapper {
-  max-width: 960px;
+  max-width: 960px;   /* largeur agrandie de 20% */
+  width: 100%;
   margin: 0 auto;
   padding: 2rem 1rem;
 }
 
+/* Vidéo elle-même */
 .page-video-terrier video {
-  width: 100%;
-  height: auto;
+  width: 100%;        /* s'adapte au conteneur */
+  height: auto;       /* garde les proportions */
+  border-radius: 8px; /* douceur optionnelle */
+  display: block;
 }
 
 
