@@ -2,6 +2,7 @@
 layout: default
 title: Présentation du terrier
 permalink: /presentation-terrier/
+class: presentation-terrier
 ---
 
 <div class="page-video-terrier">
