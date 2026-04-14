@@ -5,6 +5,8 @@ resume: "Une critique des récits évolutionnistes et un appel à une science hu
 layout: article
 ---
 
+![fossiles](/images/idees/fossiles.png)
+
 # La vie, au‑delà des récits
 
 La vie déborde nos récits. Ni la science, ni les mythes ne suffisent. J’explore ce qui résiste, ce qui apparaît soudain, ce qui demeure irréductible.
