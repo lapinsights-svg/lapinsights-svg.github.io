@@ -136,6 +136,24 @@
     });
   </script>
 
+  <!-- Header flottant : disparaît en descendant, réapparaît en remontant -->
+  <script>
+    let lastScroll = 0;
+    const header = document.querySelector("header");
+
+    window.addEventListener("scroll", () => {
+      const current = window.scrollY;
+
+      if (current > lastScroll && current > 80) {
+        header.classList.add("header-hidden");
+      } else {
+        header.classList.remove("header-hidden");
+      }
+
+      lastScroll = current;
+    });
+  </script>
+
   <!-- Statcounter -->
   <script>
     var sc_project = 13213092;
@@ -145,3 +163,7 @@
   <script async src="https://www.statcounter.com/counter/counter.js"></script>
   <noscript>
     <div class="statcounter">
+  </noscript>
+
+</body>
+</html>
