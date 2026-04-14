@@ -1160,7 +1160,7 @@ body {
   display: block;
 }
 
-/* Fond de la page */
+/* Fond de la page vidéo */
 body.presentation-terrier {
   background-image: url('/images/fond-terrier-basalte.png');
   background-size: cover;
@@ -1171,56 +1171,14 @@ body.presentation-terrier {
 
 /* ————————————————————————————————
    ESPACE GLOBAL SOUS LE HEADER FIXED
-   (pour éviter que le header recouvre tout)
 ——————————————————————————————— */
 
-/* Desktop */
+/* Par défaut : aucune marge (pour l’accueil) */
 main.contenu-scroll {
-  margin-top: 120px; /* ajuste si ton header est plus haut */
+  margin-top: 0;
 }
 
-/* Mobile */
-@media (max-width: 768px) {
-  main.contenu-scroll {
-    margin-top: 140px; /* header mobile plus haut */
-  }
-}
-
-/* ————————————————————————————————
-   HEADER MASQUÉ — valable desktop + mobile
-——————————————————————————————— */
-header.header-hidden {
-  transform: translateY(-100%);
-}
-
-/* ————————————————————————————————
-   VERSION MOBILE — vidéo + header
-——————————————————————————————— */
-@media (max-width: 768px) {
-
-  .page-video-terrier .video-wrapper::before {
-    padding-bottom: 55%;
-  }
-
-  /* Le header mobile reste fixed mais peut se cacher */
-  header {
-    transform: translateY(0);
-  }
-
-  header.header-hidden {
-    transform: translateY(-100%);
-  }
-}
-
-/* ————————————————————————————————
-   VERSION DESKTOP — espace vidéo
-——————————————————————————————— */
-@media (min-width: 769px) {
-  .page-video-terrier {
-    margin-top: 0; /* l’espace est géré par main.contenu-scroll */
-  }
-}
-/* Espace sous le header fixed — uniquement pour les pages qui en ont besoin */
+/* Pages qui ont besoin d’espace sous le header */
 body:not(.accueil) main.contenu-scroll {
   margin-top: 120px;
 }
@@ -1231,6 +1189,55 @@ body:not(.accueil) main.contenu-scroll {
   }
 }
 
+/* ————————————————————————————————
+   HEADER MASQUÉ — desktop + mobile
+——————————————————————————————— */
+header.header-hidden {
+  transform: translateY(-100%);
+}
+
+/* ————————————————————————————————
+   VERSION MOBILE — header + vidéo
+——————————————————————————————— */
+@media (max-width: 768px) {
+
+  /* Ratio vidéo légèrement ajusté */
+  .page-video-terrier .video-wrapper::before {
+    padding-bottom: 55%;
+  }
+
+  /* Header mobile : on réduit la hauteur */
+  header {
+    padding: 0.5rem 1rem;
+    height: auto;
+  }
+
+  header img {
+    width: 48px;
+    height: 48px;
+  }
+
+  .menu-haut {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    white-space: nowrap;
+    gap: 0.5rem;
+  }
+
+  .menu-haut button {
+    font-size: 0.9rem;
+    padding: 0.3rem 0.6rem;
+  }
+}
+
+/* ————————————————————————————————
+   VERSION DESKTOP — vidéo
+——————————————————————————————— */
+@media (min-width: 769px) {
+  .page-video-terrier {
+    margin-top: 0;
+  }
+}
 
 
 
