@@ -69,7 +69,7 @@ main {
   left: 0;
   width: 100%;
   height: 90px;             /* hauteur explicite */
-  z-index: 999;             /* au-dessus du contenu, mais pas trop */
+  z-index: 999;             /* au-dessus du contenu */
 
   display: flex;
   justify-content: space-between;
@@ -157,6 +157,28 @@ body.flex,
   opacity: 0.75;
   color: rgba(70, 75, 85, 0.9);
   margin: 0.2rem 0 0;
+}
+
+/* ----------------------------------------------------
+   BARRE DE RECHERCHE (corrigée)
+---------------------------------------------------- */
+
+.search-bar-wrapper {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 260px;
+  margin-left: auto;
+}
+
+#search-input {
+  width: 260px;
+  padding: 0.6rem 1rem;
+  border-radius: 0.6rem;
+  border: 1px solid rgba(200, 220, 255, 0.25);
+  background: rgba(80, 100, 130, 0.28);
+  backdrop-filter: blur(14px);
+  color: var(--lapin);
 }
 
 /* ————————————————————————————————
