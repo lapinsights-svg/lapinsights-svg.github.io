@@ -7,178 +7,80 @@
 <body class="{{ page.class }}">
 
   <!-- Header desktop -->
-  {% include header.html %}
+  <header class="site-header">
+    {% include header.html %}
+  </header>
 
   <!-- Header mobile -->
   <header class="mobile-header">
-  <div class="mobile-header-top">
-    <img src="/images/celeste.png" alt="Portrait" class="portrait-mobile">
- <h1>
-  <a href="/" class="mobile-title-link">LAPINSIGHTS</a>
-</h1>
-  </div>
+    <div class="mobile-header-top">
+      <img src="/images/celeste.png" alt="Portrait" class="portrait-mobile">
+      <h1>
+        <a href="/" class="mobile-title-link">LAPINSIGHTS</a>
+      </h1>
+    </div>
 
-  <nav class="menu-mobile">
-  <a href="/actualites">Actualités</a>
-  <a href="/creations">Créations</a>
-  <a href="/idees/">Territoires d’idées</a>
-  <a href="/contact">Contact</a>
-
-  <a href="/spiritualite/">Spirimental</a>
-  <a class="disabled">Vibrations</a>
-  <a class="disabled">Archives</a>
-  <a class="disabled">Dans le passé</a>
-</nav>
+    <nav class="menu-mobile">
+      <a href="/actualites">Actualités</a>
+      <a href="/creations">Créations</a>
+      <a href="/idees/">Territoires d’idées</a>
+      <a href="/contact">Contact</a>
+      <a href="/spiritualite/">Spirimental</a>
+      <a class="disabled">Vibrations</a>
+      <a class="disabled">Archives</a>
+      <a class="disabled">Dans le passé</a>
+    </nav>
   </header>
 
   <main class="contenu-scroll">
 
-  {% if page.date %}
-    {% assign page_ts = page.date | date: "%s" %}
-    {% assign now_ts = site.time | date: "%s" %}
-
-    {% if page_ts > now_ts %}
-      {% assign hide_future = true %}
+    {% if page.date %}
+      {% assign page_ts = page.date | date: "%s" %}
+      {% assign now_ts = site.time | date: "%s" %}
+      {% if page_ts > now_ts %}
+        {% assign hide_future = true %}
+      {% endif %}
     {% endif %}
-  {% endif %}
 
-  {% unless hide_future %}
-    {{ content }}
-  {% endunless %}
+    {% unless hide_future %}
+      {{ content }}
+    {% endunless %}
 
   </main>
 
   {% include footer.html %}
 
-  <!-- Bouton retour haut -->
   <button id="backToTop" title="Remonter le terrier">🐇↟</button>
 
+  <!-- Scripts -->
   <script>
     const btn = document.getElementById("backToTop");
-
     window.addEventListener("scroll", () => {
-      if (window.scrollY > 200) {
-        btn.classList.add("visible");
-      } else {
-        btn.classList.remove("visible");
-      }
+      if (window.scrollY > 200) btn.classList.add("visible");
+      else btn.classList.remove("visible");
     });
-
     btn.addEventListener("click", () => {
       document.documentElement.scrollTo({ top: 0, behavior: "smooth" });
       document.body.scrollTo({ top: 0, behavior: "smooth" });
-
-      document.querySelectorAll("*").forEach(el => {
-        if (el.scrollTop > 0) {
-          el.scrollTo({ top: 0, behavior: "smooth" });
-        }
-      });
-    });
-  </script>
-
-  <!-- Partage d’articles -->
-  <script>
-    function shareArticle(title, url, network = null) {
-      if (network === "facebook") {
-        window.open(
-          "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(url),
-          "_blank", "noopener"
-        );
-        return;
-      }
-
-      if (network === "twitter") {
-        window.open(
-          "https://twitter.com/intent/tweet?text=" + encodeURIComponent(title) +
-          "&url=" + encodeURIComponent(url),
-          "_blank", "noopener"
-        );
-        return;
-      }
-
-      if (network === "whatsapp") {
-        window.open(
-          "https://api.whatsapp.com/send?text=" +
-          encodeURIComponent(title + " " + url),
-          "_blank", "noopener"
-        );
-        return;
-      }
-
-      if (network === "email") {
-        window.location.href =
-          "mailto:?subject=" + encodeURIComponent(title) +
-          "&body=" + encodeURIComponent(url);
-        return;
-      }
-
-      if (navigator.share) {
-        navigator.share({ title: title, url: url });
-        return;
-      }
-
-      navigator.clipboard.writeText(url);
-      alert("Lien copié !");
-    }
-  </script>
-
-  <!-- Mode fantôme -->
-  <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      if (window.location.pathname.includes("memoire")) {
-
-        const zone = document.querySelector(".contenu-page");
-        const bouton = document.createElement("button");
-        bouton.id = "toggleFantome";
-        bouton.style.marginBottom = "1em";
-
-        function majBouton() {
-          if (localStorage.getItem("lapinsights_ignore") === "true") {
-            bouton.textContent = "👻 Mode fantôme : ACTIVÉ";
-            bouton.style.background = "#333";
-            bouton.style.color = "white";
-          } else {
-            bouton.textContent = "👻 Activer le mode fantôme";
-            bouton.style.background = "";
-            bouton.style.color = "";
-          }
-        }
-
-        bouton.onclick = function() {
-          if (localStorage.getItem("lapinsights_ignore") === "true") {
-            localStorage.removeItem("lapinsights_ignore");
-          } else {
-            localStorage.setItem("lapinsights_ignore", "true");
-          }
-          majBouton();
-        };
-
-        majBouton();
-        zone.insertBefore(bouton, zone.children[2]);
-      }
     });
   </script>
 
   <!-- Header flottant -->
   <script>
-  document.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener("DOMContentLoaded", function() {
+      let lastScroll = 0;
+      const header = document.querySelector("header.site-header");
 
-    let lastScroll = 0;
-    const header = document.querySelector("header.site-header");
-
-    window.addEventListener("scroll", () => {
-      const current = window.scrollY;
-
-      if (current > lastScroll && current > 80) {
-        header.classList.add("header-hidden");
-      } else {
-        header.classList.remove("header-hidden");
-      }
-
-      lastScroll = current;
+      window.addEventListener("scroll", () => {
+        const current = window.scrollY;
+        if (current > lastScroll && current > 80) {
+          header.classList.add("header-hidden");
+        } else {
+          header.classList.remove("header-hidden");
+        }
+        lastScroll = current;
+      });
     });
-
-  });
   </script>
 
   <!-- Statcounter -->
@@ -188,9 +90,7 @@
     var sc_security = "a6e8d30c";
   </script>
   <script async src="https://www.statcounter.com/counter/counter.js"></script>
-  <noscript>
-    <div class="statcounter"></div>
-  </noscript>
+  <noscript><div class="statcounter"></div></noscript>
 
 </body>
 </html>
