@@ -1174,7 +1174,7 @@ body.presentation-terrier {
   }
 
   .page-video-terrier {
-    margin-top: 60px; /* évite que la vidéo passe sous le header mobile */
+    margin-top: 100px; /* évite que la vidéo passe sous le header mobile */
   }
 }
 
