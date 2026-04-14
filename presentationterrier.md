@@ -9,9 +9,10 @@ class: presentation-terrier
 
   <div class="video-wrapper">
     <video controls>
-    <source src="/presentationterrier.mp4?v=3" type="video/mp4">
+      <source src="/presentationterrier.mp4?v=3" type="video/mp4">
       Votre navigateur ne supporte pas la vidéo.
     </video>
   </div>
 
 </div>
+
