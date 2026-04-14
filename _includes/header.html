@@ -49,15 +49,10 @@
 
     <button onclick="window.location='{{ '/contact/' | relative_url }}'">Contact</button>
 
-    <!-- 🔍 Champ de recherche du header desktop -->
-    <form class="search-form-header" action="/search/">
-      <input type="search" name="q" placeholder="Rechercher…">
-    </form>
-
   </nav>
 </header>
 
-<!-- 🔍 Barre de recherche de la page d’accueil -->
+<!-- 🔍 Barre de recherche SOUS le header (desktop uniquement) -->
 {% if page.url == "/" or page.url == "/index.html" or page.url == "/index/" %}
   <div class="search-bar-wrapper">
     <input type="text" id="search-input" placeholder="Rechercher..." />
