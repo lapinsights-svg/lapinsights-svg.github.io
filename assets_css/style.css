@@ -167,8 +167,6 @@ header.header-hidden {
   header.header-hidden {
     transform: translateY(-100%);
   }
-}
-
 
   /* Portrait centré */
   .header-left {
@@ -189,7 +187,7 @@ header.header-hidden {
   }
 
   .logo-title p {
-    display: none; /* allège le header mobile */
+    display: none;
   }
 
   /* MENU SUR DEUX LIGNES HORIZONTALES */
@@ -199,7 +197,7 @@ header.header-hidden {
     justify-content: center;
     gap: 0.5rem;
     width: 100%;
-    max-width: 360px; /* limite la largeur pour 2 lignes harmonieuses */
+    max-width: 360px;
   }
 
   .menu-haut button,
@@ -214,7 +212,9 @@ header.header-hidden {
     left: 50%;
     transform: translateX(-50%);
   }
-}
+
+} /* ← ACCOLADE FINALE ESSENTIELLE */
+
 
 /* ----------------------------------------------------
    MENU HAUT
