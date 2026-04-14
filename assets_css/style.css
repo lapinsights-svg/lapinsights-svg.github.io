@@ -133,6 +133,58 @@ header {
   color: rgba(70, 75, 85, 0.9);
   margin: 0.2rem 0 0;
 }
+@media (max-width: 768px) {
+
+  header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .header-left {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+  }
+
+  .portrait-flottant img {
+    width: 70px;
+    height: 70px;
+  }
+
+  .logo-title h1 {
+    font-size: 1.8rem;
+    letter-spacing: 0.08em;
+  }
+
+  .logo-title p {
+    font-size: 1rem;
+  }
+
+  /* Menu vertical */
+  .menu-haut {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 0.6rem;
+  }
+
+  .menu-haut button,
+  .menu-archives .menu-button {
+    width: 90%;
+    max-width: 320px;
+  }
+
+  /* Dropdown archives centré */
+  .menu-archives-dropdown {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+
 
 /* ----------------------------------------------------
    MENU HAUT
