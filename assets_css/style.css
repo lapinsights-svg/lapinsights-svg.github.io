@@ -1212,6 +1212,7 @@ header.header-hidden {
     gap: 0.4rem;
     padding: 0.6rem 1rem;
     max-width: 100vw;
+   position: static !important;
   }
 
   /* Conteneur du titre + portrait */
