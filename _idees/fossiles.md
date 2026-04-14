@@ -1,5 +1,5 @@
 ---
-title: "La vie, au‑delà des récits"
+title: "La vie au‑delà des récits"
 date: 2026-04-14
 resume: "Une critique des récits évolutionnistes et un appel à une science humble"
 categories: idees
