@@ -1201,9 +1201,25 @@ header.header-hidden {
 ——————————————————————————————— */
 @media (max-width: 768px) {
 
-  /* Empêcher le zoom automatique du navigateur mobile */
-  html {
+  /* Empêcher le zoom automatique du navigateur mobile (Chrome, Firefox, Safari) */
+  html, body {
     -webkit-text-size-adjust: none;
+    text-size-adjust: none;
+  }
+
+  /* Empêcher le zoom dû au débordement du menu */
+  .menu-haut {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    white-space: nowrap;
+    max-width: 100%;
+    gap: 0.4rem;
+  }
+
+  /* Empêcher les éléments du menu de s'étirer (cause principale du zoom) */
+  .menu-haut * {
+    flex-shrink: 0;
   }
 
   /* Header mobile compact */
@@ -1222,20 +1238,12 @@ header.header-hidden {
     line-height: 1.1;
     margin: 0;
   }
-  /* Menu mobile : une seule ligne, pas de zoom */
-  .menu-haut {
-    display: flex;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    white-space: nowrap;
-    gap: 0.4rem;
-  }
 
+  /* Menu mobile : une seule ligne, pas de zoom */
   .menu-haut a,
   .menu-haut button {
     font-size: 0.8rem;
     padding: 0.25rem 0.45rem;
-    flex-shrink: 0;
   }
 
   /* Vidéo : ratio légèrement ajusté */
