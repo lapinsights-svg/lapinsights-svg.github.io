@@ -154,9 +154,8 @@ header.header-hidden {
 
 @media (min-width: 769px) {
   main.contenu-scroll {
-    margin-top: 2px; /* hauteur réelle du header */
+    margin-top: 20px; /* hauteur réelle du header */
   }
-}
 
 /* ————————————————————————————————
    VERSION MOBILE — COMPACTE + HEADER FLOTTANT
