@@ -146,11 +146,16 @@ header.header-hidden {
 /* ————————————————————————————————
    VERSION MOBILE — COMPACTE + HEADER FLOTTANT
 ——————————————————————————————— */
-
 @media (max-width: 768px) {
 
-  /* Header compact */
+  /* Le header doit être FIXED sur mobile */
   header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 3000;
+
     flex-direction: column;
     align-items: center;
     text-align: center;
@@ -158,9 +163,11 @@ header.header-hidden {
     gap: 0.8rem;
     transition: transform 0.25s ease;
   }
-   /* Cache le header quand on scrolle */
-header.header-hidden {
-  transform: translateY(-100%);
+
+  /* Cache le header quand on scrolle */
+  header.header-hidden {
+    transform: translateY(-100%);
+  }
 }
 
   /* Portrait centré */
