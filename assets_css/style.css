@@ -1286,6 +1286,15 @@ header.header-hidden {
   body.presentation-terrier main.contenu-scroll {
     margin-top: 120px;
   }
+   .mobile-title-link {
+  text-decoration: none;
+  color: inherit;          /* garde la couleur du h1 */
+}
+
+.mobile-title-link:active,
+.mobile-title-link:visited {
+  color: inherit;
+}
 }
 
 /* ————————————————————————————————
