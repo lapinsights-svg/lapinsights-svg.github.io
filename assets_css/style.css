@@ -154,7 +154,7 @@ header.header-hidden {
 
 @media (min-width: 769px) {
   main.contenu-scroll {
-    margin-top: 100px; /* hauteur réelle du header */
+    margin-top: 80px; /* hauteur réelle du header */
   }
 }
 
