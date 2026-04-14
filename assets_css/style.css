@@ -1113,32 +1113,43 @@ body {
   display: none;
 }
 
-/* page vidéo accueil  */
 /* Page vidéo du terrier */
 .page-video-terrier {
   display: flex;
   justify-content: center;
-  padding: 3rem 1rem;
- padding-top: 4rem; /* augmente l’espace au-dessus */
+  padding: 4rem 1rem 3rem;
 }
 
-/* Conteneur de la vidéo */
+/* Conteneur responsive */
 .page-video-terrier .video-wrapper {
-  max-width: 1000px;   /* largeur agrandie de 20% */
+  position: relative;
   width: 100%;
+  max-width: 900px; /* largeur idéale, légèrement réduite pour plus de lisibilité */
   margin: 0 auto;
-  padding: 2rem 1rem;
- overflow: visible;
+  padding: 0;
+  overflow: hidden;
 }
 
-/* Vidéo elle-même */
-.page-video-terrier video {
-  width: 100%;        /* s'adapte au conteneur */
-  height: auto;       /* garde les proportions */
-  border-radius: 8px; /* douceur optionnelle */
+/* Ratio 16:9 fluid-responsive */
+.page-video-terrier .video-wrapper::before {
+  content: "";
   display: block;
- object-fit: contain;
+  padding-bottom: 56.25%; /* ratio 16:9 */
 }
+
+/* Vidéo */
+.page-video-terrier video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* ou contain si tu préfères */
+  border-radius: 8px;
+  display: block;
+}
+
+/* Fond de la page */
 body.presentation-terrier {
   background-image: url('/images/fond-terrier-basalte.png');
   background-size: cover;
@@ -1146,6 +1157,14 @@ body.presentation-terrier {
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
+
+/* Version mobile : vidéo plus haute pour meilleure lisibilité */
+@media (max-width: 768px) {
+  .page-video-terrier .video-wrapper::before {
+    padding-bottom: 65%; /* augmente la hauteur pour un meilleur confort visuel */
+  }
+}
+
 
 
 
