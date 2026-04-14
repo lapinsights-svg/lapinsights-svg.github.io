@@ -1184,6 +1184,17 @@ body.presentation-terrier {
     margin-top: 125px; /* ajuste selon la hauteur de ton header desktop */
   }
 }
+/* Header mobile : comportement de masquage */
+@media (max-width: 768px) {
+  header {
+    transform: translateY(0);
+  }
+
+  header.header-hidden {
+    transform: translateY(-100%);
+  }
+}
+
 
 
 
