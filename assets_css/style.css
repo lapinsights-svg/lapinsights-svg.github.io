@@ -1173,11 +1173,6 @@ body.presentation-terrier {
     padding-bottom: 55%; /* hauteur plus confortable */
   }
 
-  .page-video-terrier {
-    margin-top: 100px; /* évite que la vidéo passe sous le header mobile */
-  }
-}
-
 /* Version desktop : espace sous le header fixed */
 @media (min-width: 769px) {
   .page-video-terrier {
