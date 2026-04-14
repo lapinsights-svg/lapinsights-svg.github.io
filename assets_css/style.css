@@ -1261,22 +1261,22 @@ header.header-hidden {
     margin-top: 120px;
   }
    
-   .menu-mobile a.disabled {
-  background: #e6e2db;          /* beige plus mat */
-  color: #9a958c;               /* gris minéral */
-  border: 1px solid #d8d3cb;    /* contour doux */
-  cursor: not-allowed;          /* indique que ce n'est pas cliquable */
-  pointer-events: none;         /* empêche tout clic */
-  opacity: 0.7;                 /* léger effet désactivé */
+.menu-mobile a.disabled {
+  background: #d9d4cc;          /* beige-gris plus sombre */
+  color: #8a847b;               /* gris minéral plus marqué */
+  border: 1px solid #c8c2b9;    /* contour plus visible */
+  cursor: not-allowed;
+  pointer-events: none;
+  opacity: 0.9;                 /* presque opaque, mais moins lumineuse */
+  filter: grayscale(40%);       /* effet “désactivé” très clair */
 }
 
 .menu-mobile a.disabled:hover {
+  background: #d9d4cc;
   transform: none;
   box-shadow: none;
-  background: #e6e2db;
 }
 }
-
 /* ————————————————————————————————
    VERSION DESKTOP : masquer le header mobile
 ——————————————————————————————— */
