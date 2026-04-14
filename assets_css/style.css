@@ -160,6 +160,10 @@ header.header-hidden {
     gap: 0.8rem;
     transition: transform 0.25s ease;
   }
+   /* Cache le header quand on scrolle */
+header.header-hidden {
+  transform: translateY(-100%);
+}
 
   /* Portrait centré */
   .header-left {
