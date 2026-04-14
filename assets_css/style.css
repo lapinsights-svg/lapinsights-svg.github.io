@@ -1075,37 +1075,59 @@ body {
   text-decoration: underline;
 }
 
-/* barre de recherche */
-/* Conteneur de la barre de recherche */
+/* ----------------------------------------------------
+   BARRE DE RECHERCHE — SOUS LE HEADER (DESKTOP)
+---------------------------------------------------- */
+
+/* Conteneur global : occupe toute la largeur, aligne la barre à droite */
 .search-bar-wrapper {
-  position: relative;        /* Permet de positionner les résultats par rapport à elle */
-  width: 260px;              /* Ajuste selon ta largeur souhaitée */
-  margin-left: auto;         /* Pousse vers la droite */
-  margin-right: 2rem;        /* Espace avec le bord droit */
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.8rem 2rem 0.5rem;
+  position: relative;          /* Permet de positionner les résultats */
+  z-index: 10;                 /* Passe au-dessus du contenu */
 }
 
-/* Style du champ de recherche */
+/* Champ de recherche */
 #search-input {
-  width: 100%;
+  width: 260px;
   padding: 0.6em 0.8em;
   border: 1px solid #ccc;
   border-radius: 4px;
+  background: #E0B37A;
+  color: #111;
+  font-family: inherit;
+  font-size: 0.95rem;
+  outline: none;
+  transition: background 0.2s ease;
 }
 
-/* Résultats de recherche */
+#search-input::placeholder {
+  color: rgba(0, 0, 0, 0.55);
+}
+
+#search-input:focus {
+  background: #e8c79a;
+}
+
+/* ----------------------------------------------------
+   RÉSULTATS DE RECHERCHE — SOUS LA BARRE
+---------------------------------------------------- */
+
 #search-results {
-  position: absolute;        /* Se place sous la barre, sans déplacer le reste */
-  top: 110%;                 /* Juste en dessous du champ */
-  right: 0;                  /* Aligné à droite */
-  width: 100%;               /* Même largeur que la barre */
-  background: rgba(245, 236, 225, 0.88); /* beige clair semi-opaque */
+  position: absolute;
+  top: calc(100% + 0.4rem);    /* Juste sous la barre */
+  right: 2rem;                 /* Aligné avec la barre */
+  width: 260px;                /* Même largeur que le champ */
+  background: rgba(245, 236, 225, 0.88);
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 0.5em 0.8em;
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-  z-index: 999;              /* Passe devant le reste */
-  max-height: 300px;         /* Pour éviter les listes infinies */
-  overflow-y: auto;          /* Scroll interne si trop long */
+  z-index: 999;
+  max-height: 300px;
+  overflow-y: auto;
 }
 
 /* Chaque résultat */
@@ -1135,9 +1157,29 @@ body {
   font-size: 0.85em;
 }
 
+/* ----------------------------------------------------
+   INVISIBLE SI AUCUN RÉSULTAT
+---------------------------------------------------- */
+
 #search-results:empty {
-  display: none;
+  display: none !important;
+  padding: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  height: 0 !important;
 }
+
+/* ----------------------------------------------------
+   MASQUAGE COMPLET SUR GSM
+---------------------------------------------------- */
+
+@media (max-width: 768px) {
+  .search-bar-wrapper,
+  #search-results {
+    display: none !important;
+  }
+}
+
 /* ————————————————————————————————
    PAGE VIDÉO DU TERRIER
 ——————————————————————————————— */
