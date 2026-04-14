@@ -7,6 +7,7 @@ layout: article
 
 ![fossiles](/images/idees/fossiles.png)
 
+
 # La vie, au‑delà des récits
 
 La vie déborde nos récits. Ni la science, ni les mythes ne suffisent. J’explore ce qui résiste, ce qui apparaît soudain, ce qui demeure irréductible.
@@ -75,4 +76,45 @@ Mais la réalité est plus humble : nous ne savons pas comment les grandes forme
 
 ## 4. Le hasard comme refuge : une métaphysique déguisée
 
-Le hasard est devenu un anti‑Dieu culturel, une manière d’éviter toute profondeur métaphysique. Une fuite. Je refuse de remplacer un
+Le hasard est devenu un anti‑Dieu culturel, une manière d’éviter toute profondeur métaphysique. Une fuite. Je refuse de remplacer un dogme par un autre.
+
+## 5. Les explications qui déplacent le mystère ne m’intéressent pas
+
+Hasard, sélection, auto‑organisation, sauts évolutifs…  
+Autant de formulations qui déplacent le mystère sans le résoudre.
+
+Elles ne répondent pas à la question fondamentale : **Pourquoi y a‑t‑il des formes ?**
+
+## 6. L’évolution n’explique ni la conscience, ni la pensée, ni l’âme
+
+Aucune théorie évolutionniste — darwinienne, néo‑darwinienne ou autre — n’explique :
+
+- l’apparition de la conscience,
+- la naissance de la pensée,
+- la profondeur intérieure,
+- l’expérience subjective,
+- la sensation d’exister,
+- l’élan créateur,
+- ce que les traditions appellent l’âme.
+
+On peut raconter des scénarios, mais la conscience demeure un mystère radical.
+
+## 7. Ma position n’est pas un refus : c’est une exigence
+
+Je ne rejette pas la science. Je rejette la prétention de savoir ce que nous ne savons pas.  
+Je rejette les récits totalisants, les simplifications, les dogmes.
+
+## 8. Une science humble serait une science plus vraie
+
+Je crois en une science qui reconnaît ses limites.  
+Une science qui dit : « Nous ne savons pas encore. »  
+Une science qui laisse respirer la profondeur.
+
+## Conclusion
+
+Je rejette l’évolution comme modèle explicatif de la vie, parce qu’elle n’explique pas ce qui est : l’origine, la forme, la structure, la conscience, l’âme. Le registre fossile ne correspond pas au récit graduel attendu. Les justifications proposées ne résolvent rien.
+
+Je refuse les récits totalisants, qu’ils soient scientifiques ou religieux.  
+Ma position est une exigence de vérité, d’humilité et de profondeur.
+
+© Céleste R. — CC BY‑NC‑ND
