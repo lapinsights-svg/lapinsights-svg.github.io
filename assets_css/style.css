@@ -1200,7 +1200,7 @@ body:not(.accueil) main.contenu-scroll {
 
 @media (max-width: 768px) {
   body:not(.accueil) main.contenu-scroll {
-    margin-top: 140px;
+    margin-top: 90px;
   }
 }
 
