@@ -691,7 +691,7 @@ textarea {
 /* ----------------------------------------------------
    BARRE DE RECHERCHE — SOUS LE HEADER
 ---------------------------------------------------- */
-.search-bar-wrapper {
+.search_bar-wrapper {
   width: 100%;
   display: flex;
   justify-content: flex-end;
@@ -701,7 +701,7 @@ textarea {
   z-index: 1;
 }
 
-.search-bar-wrapper input {
+.search_bar-wrapper input {
   width: 260px;
   padding: 0.6rem 0.9rem;
 
@@ -717,23 +717,23 @@ textarea {
   transition: background 0.2s ease;
 }
 
-.search-bar-wrapper input::placeholder {
+.search_bar-wrapper input::placeholder {
   color: rgba(0, 0, 0, 0.55);
   font-family: inherit;
 }
 
-.search-bar-wrapper input:focus {
+.search_bar-wrapper input:focus {
   background: #e8c79a;
 }
 /* Assurer que la barre de recherche passe au-dessus du header mobile */
-.search-bar-wrapper {
+.search_bar-wrapper {
   position: relative;
   z-index: 10;
 }
 
 /* Masquer la barre de recherche de la page d'accueil sur GSM */
 @media (max-width: 768px) {
-  .search-bar-wrapper {
+  .search_bar-wrapper {
     display: none !important;
   }
 }
@@ -800,7 +800,7 @@ textarea {
 }
 
 
-.search-bar-wrapper {
+.search_bar-wrapper {
   width: 100%;
   display: flex;
   justify-content: flex-end; /* pousse la barre à droite */
@@ -1080,7 +1080,7 @@ body {
 ---------------------------------------------------- */
 
 /* Conteneur global : occupe toute la largeur, aligne la barre à droite */
-.search-bar-wrapper {
+.search_bar-wrapper {
   width: 100%;
   display: flex;
   justify-content: flex-end;
@@ -1174,7 +1174,7 @@ body {
 ---------------------------------------------------- */
 
 @media (max-width: 768px) {
-  .search-bar-wrapper,
+  .search_bar-wrapper,
   #search-results {
     display: none !important;
   }
