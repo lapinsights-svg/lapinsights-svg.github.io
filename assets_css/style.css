@@ -1127,6 +1127,7 @@ body {
   display: flex;
   justify-content: center;
   padding: 0rem 1rem 3rem;
+  position: relative;
 }
 
 /* Conteneur responsive */
@@ -1175,6 +1176,7 @@ body.presentation-terrier {
 
   .page-video-terrier {
     margin-top: 100px;
+    z-index: 1;
   }
 
   /* Header mobile : comportement de masquage */
