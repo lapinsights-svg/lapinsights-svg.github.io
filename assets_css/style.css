@@ -725,6 +725,18 @@ textarea {
 .search-bar-wrapper input:focus {
   background: #e8c79a;
 }
+/* Assurer que la barre de recherche passe au-dessus du header mobile */
+.search-bar-wrapper {
+  position: relative;
+  z-index: 10;
+}
+
+/* Masquer la barre de recherche de la page d'accueil sur GSM */
+@media (max-width: 768px) {
+  .search-bar-wrapper {
+    display: none !important;
+  }
+}
 
 /* ----------------------------------------------------
    BLOC D’INTRO — PAGE D’ACCUEIL
