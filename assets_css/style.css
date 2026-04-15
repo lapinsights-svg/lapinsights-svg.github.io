@@ -55,57 +55,9 @@ main {
   padding-right: 2rem;
   text-align: left;
 }
-
 /* ----------------------------------------------------
-   HEADER
+   HEADER — PARTIE GAUCHE
 ---------------------------------------------------- */
-/* ----------------------------------------------------
-   HEADER DESKTOP — VERSION FIXE ET PROPRE
----------------------------------------------------- */
-
-.site-header {
-  position: fixed;          /* fixé en haut */
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 90px;             /* hauteur explicite */
-  z-index: 999;             /* au-dessus du contenu */
-
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 2rem;
-
-  padding: 0.5rem 2rem;
-
-  background: rgba(245, 236, 225, 0.88);
-  backdrop-filter: blur(6px);
-
-  color: var(--fond);
-
-  overflow: visible;
-
-  transition: transform 0.25s ease; /* pour le mode masqué */
-}
-
-/* Header masqué (scroll down) */
-header.header-hidden {
-  transform: translateY(-100%);
-}
-
-/* ----------------------------------------------------
-   ESPACE SOUS LE HEADER POUR NE PAS CACHER LE CONTENU
----------------------------------------------------- */
-
-body.flex,
-.contenu-scroll {
-  padding-top: 90px; /* même valeur que la hauteur du header */
-}
-
-/* ----------------------------------------------------
-   PARTIE GAUCHE : PORTRAIT + TITRE
----------------------------------------------------- */
-
 .header-left {
   display: flex;
   align-items: center;
@@ -113,7 +65,6 @@ body.flex,
   flex-shrink: 0;
 }
 
-/* Portrait flottant */
 .portrait-flottant {
   position: relative;
   animation: haloRespire 6s ease-in-out infinite,
@@ -131,7 +82,6 @@ body.flex,
     0 0 25px rgba(224, 179, 122, 0.25);
 }
 
-/* Titre du site */
 .logo-title {
   display: flex;
   flex-direction: column;
@@ -144,7 +94,6 @@ body.flex,
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--lapin);
-  margin: 0;
 }
 
 .logo-title h1 a {
@@ -156,103 +105,7 @@ body.flex,
   font-size: 1.2rem;
   opacity: 0.75;
   color: rgba(70, 75, 85, 0.9);
-  margin: 0.2rem 0 0;
 }
-
-/* ----------------------------------------------------
-   BARRE DE RECHERCHE (corrigée)
----------------------------------------------------- */
-
-.search-bar-wrapper {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  width: 260px;
-  margin-left: auto;
-}
-
-#search-input {
-  width: 260px;
-  padding: 0.6rem 1rem;
-  border-radius: 0.6rem;
-  border: 1px solid rgba(200, 220, 255, 0.25);
-  background: rgba(80, 100, 130, 0.28);
-  backdrop-filter: blur(14px);
-  color: var(--lapin);
-}
-
-/* ————————————————————————————————
-   VERSION MOBILE — COMPACTE + HEADER FLOTTANT
-——————————————————————————————— */
-@media (max-width: 768px) {
-
-  /* Le header devient FIXED uniquement sur mobile */
-  header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 3000;
-
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding: 0.6rem 1rem;
-    gap: 0.8rem;
-  }
-
-  /* Cache le header quand on scrolle */
-  header.header-hidden {
-    transform: translateY(-100%);
-  }
-
-  /* Portrait centré */
-  .header-left {
-    flex-direction: column;
-    align-items: center;
-    gap: 0.4rem;
-  }
-
-  .portrait-flottant img {
-    width: 60px;
-    height: 60px;
-  }
-
-  /* Titre centré */
-  .logo-title h1 {
-    font-size: 1.5rem;
-    letter-spacing: 0.08em;
-  }
-
-  .logo-title p {
-    display: none;
-  }
-
-  /* MENU SUR DEUX LIGNES HORIZONTALES */
-  .menu-haut {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 0.5rem;
-    width: 100%;
-    max-width: 360px;
-  }
-
-  .menu-haut button,
-  .menu-archives .menu-button {
-    padding: 0.35rem 0.7rem;
-    font-size: 0.85rem;
-    white-space: nowrap;
-  }
-
-  /* Dropdown archives centré */
-  .menu-archives-dropdown {
-    left: 50%;
-    transform: translateX(-50%);
-  }
-
-} /* ← ACCOLADE FINALE ESSENTIELLE */
-
 
 /* ----------------------------------------------------
    MENU HAUT
@@ -261,7 +114,6 @@ body.flex,
   display: flex;
   align-items: center;
   gap: 1rem;
-
   position: relative;
   z-index: 20;
   overflow: visible;
@@ -287,14 +139,14 @@ body.flex,
   text-shadow: 0 0 6px rgba(120, 150, 200, 0.45);
   transform: translateY(-1px);
 }
+
 button.disabled {
   opacity: 0.4;
   cursor: not-allowed;
   pointer-events: none;
 }
-
 /* ----------------------------------------------------
-   ARCHIVES — DROPDOWN AU SURVOL
+   ARCHIVES — DROPDOWN
 ---------------------------------------------------- */
 .menu-archives {
   position: relative;
@@ -306,23 +158,17 @@ button.disabled {
   border: none;
   color: var(--lapin);
   font-family: inherit;
-
-  /* même style que les autres boutons */
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   font-weight: 500;
-
   cursor: pointer;
 }
 
-/* Dropdown */
 .menu-archives-dropdown {
   position: absolute;
-   top: 100%;
+  top: 100%;
   right: 0;
-  z-index: 5000;
-
   display: none;
 
   background: rgba(80, 100, 130, 0.28);
@@ -332,11 +178,9 @@ button.disabled {
 
   padding: 0.6rem 0;
   list-style: none;
-
   z-index: 5000;
 }
 
-/* Liens du dropdown */
 .menu-archives-dropdown a {
   display: block;
   padding: 0.5rem 1rem;
@@ -348,12 +192,10 @@ button.disabled {
   background: rgba(255, 255, 255, 0.08);
 }
 
-/* Ouverture au survol */
 .menu-archives:hover .menu-archives-dropdown {
   display: block;
 }
 
-/* “Dans le passé” reste inactif */
 .menu-archives.disabled:hover .menu-archives-dropdown {
   display: none;
 }
@@ -363,9 +205,6 @@ button.disabled {
 ---------------------------------------------------- */
 .rubrique-header {
   position: relative;
-  top: 0;
-  z-index: 2500;
-
   margin: 1.5rem auto 2rem;
   padding: 0.6rem 2rem;
 
@@ -388,7 +227,6 @@ button.disabled {
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--accent);
-  margin-bottom: 0.3rem;
 }
 
 .rubrique-header p {
@@ -397,22 +235,12 @@ button.disabled {
   color: var(--lapin);
   opacity: 0.9;
 }
-.menu-passe {
-  position: relative;
-  overflow: visible;
-}
-
-.menu-passe-dropdown {
-  display: none;
-}
-
 /* ----------------------------------------------------
    LISTE D’ARTICLES
 ---------------------------------------------------- */
 .liste-articles {
   max-width: 760px;
   margin: 2rem 4rem;
-  padding: 0rem;
 }
 
 .article-item {
@@ -422,15 +250,12 @@ button.disabled {
 }
 
 .tag-date {
-  display: inline-block;
   font-size: 0.8rem;
   opacity: 0.6;
-  margin-bottom: 0.3rem;
 }
 
 .article-titre {
   font-size: 1.15rem;
-  margin-bottom: 0.4rem;
 }
 
 .article-titre a {
@@ -446,7 +271,6 @@ button.disabled {
   font-size: 0.95rem;
   line-height: 1.45;
   opacity: 0.85;
-  margin-top: 0.3rem;
 }
 
 /* ----------------------------------------------------
@@ -455,10 +279,10 @@ button.disabled {
 .article-wrapper {
   max-width: 760px;
   margin: 2rem auto 4rem;
-  padding: 2rem; /* respiration interne */
-  background: rgba(245, 236, 225, 0.88); /* opacité douce */
-  backdrop-filter: blur(6px); /* flou subtil derrière */
-  border-radius: 0.6rem; /* optionnel mais élégant */
+  padding: 2rem;
+  background: rgba(245, 236, 225, 0.88);
+  backdrop-filter: blur(6px);
+  border-radius: 0.6rem;
 }
 
 .article-content {
@@ -471,7 +295,6 @@ button.disabled {
 .article-content h3 {
   margin-top: 1.8rem;
   margin-bottom: 0.8rem;
-  line-height: 1.3;
 }
 
 .article-content p {
@@ -499,24 +322,14 @@ button.disabled {
   margin: 1.5rem 0;
   border-radius: 0.4rem;
 }
-.article-title {
-  font-size: 16px;
-}
-
 /* ----------------------------------------------------
    PAGE CONTACT
 ---------------------------------------------------- */
 .contact-wrapper {
   max-width: 760px;
   margin: 2rem auto 4rem;
-
-  margin-right: 3rem;
-  margin-left: 1rem;
-
   padding: 0 2rem;
-
   color: var(--lapin);
-  font-family: inherit;
 }
 
 .page-contact-intro {
@@ -537,8 +350,6 @@ button.disabled {
   border-radius: 1rem;
 
   padding: 2rem 2.2rem;
-
-  margin-right: 1.5rem;
 }
 
 .form-contact label {
@@ -568,7 +379,6 @@ button.disabled {
 .form-contact input::placeholder,
 .form-contact textarea::placeholder {
   color: rgba(255, 255, 255, 0.45);
-  font-family: inherit;
 }
 
 .form-contact input:focus,
@@ -596,7 +406,6 @@ button.disabled {
 .form-contact button:hover {
   background: #e8c79a;
 }
-
 /* ----------------------------------------------------
    FOOTER
 ---------------------------------------------------- */
@@ -622,10 +431,6 @@ footer.footer-fixed {
   gap: 2rem;
 }
 
-.footer-left {
-  flex: 0;
-}
-
 .footer-right {
   display: flex;
   flex-direction: column;
@@ -636,7 +441,6 @@ footer.footer-fixed {
 .footer-signature {
   font-size: 0.85rem;
   opacity: 0.8;
-  margin-top: 0;
   color: var(--texte);
   text-align: right;
 }
@@ -660,11 +464,7 @@ footer.footer-fixed {
   padding: 0.4rem 0.6rem;
   border-radius: 0.3rem;
   border: 1px solid rgba(255, 255, 255, 0.25);
-
-  /* 🔶 Nouvelle opacité : plus lisible, plus douce */
   background: rgba(255, 255, 255, 0.55);
-
-  /* Tu peux monter jusqu’à 0.70 ou 0.80 si tu veux encore plus opaque */
   color: var(--texte);
   width: 220px;
 }
@@ -683,6 +483,7 @@ footer.footer-fixed {
 .newsletter-mini button:hover {
   opacity: 0.85;
 }
+
 /* ----------------------------------------------------
    ANIMATIONS
 ---------------------------------------------------- */
@@ -720,66 +521,12 @@ textarea {
               border-color 0.2s ease,
               opacity 0.2s ease;
 }
-
 /* ----------------------------------------------------
-   BARRE DE RECHERCHE — SOUS LE HEADER
----------------------------------------------------- */
-.search_bar-wrapper {
-  width: 100%;
-  display: flex;
-  justify-content: flex-end;
-  padding: 0.8rem 2rem 0.5rem;
-  background: transparent;
-  position: relative;
-  z-index: 1;
-}
-
-.search_bar-wrapper input {
-  width: 260px;
-  padding: 0.6rem 0.9rem;
-
-  background: #E0B37A;
-  color: #111;
-  font-family: inherit;
-  font-size: 0.95rem;
-
-  border: none;
-  border-radius: 0.4rem;
-
-  outline: none;
-  transition: background 0.2s ease;
-}
-
-.search_bar-wrapper input::placeholder {
-  color: rgba(0, 0, 0, 0.55);
-  font-family: inherit;
-}
-
-.search_bar-wrapper input:focus {
-  background: #e8c79a;
-}
-/* Assurer que la barre de recherche passe au-dessus du header mobile */
-.search_bar-wrapper {
-  position: relative;
-  z-index: 10;
-}
-
-/* Masquer la barre de recherche de la page d'accueil sur GSM */
-@media (max-width: 768px) {
-  .search_bar-wrapper {
-    display: none !important;
-  }
-}
-
-/* ----------------------------------------------------
-   BLOC D’INTRO — PAGE D’ACCUEIL
+   INTRO — PAGE D’ACCUEIL
 ---------------------------------------------------- */
 .intro-block {
   max-width: 600px;
-  margin-right: 2.5rem;
-  margin-left: 2.5rem;
-  margin-top: 10px;
-
+  margin: 10px 2.5rem;
   padding: 2rem 2.2rem;
 
   background: rgba(80, 100, 130, 0.28);
@@ -797,7 +544,6 @@ textarea {
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--accent);
-  margin-bottom: 1rem;
 }
 
 .intro-block p {
@@ -806,7 +552,9 @@ textarea {
   color: var(--lapin);
 }
 
-/* Animation du titre */
+/* ----------------------------------------------------
+   ANIMATIONS SPÉCIFIQUES
+---------------------------------------------------- */
 @keyframes tresaillement {
   0%   { transform: translateX(0); }
   20%  { transform: translateX(-1px); }
@@ -831,91 +579,51 @@ textarea {
   50%  { transform: translateY(-4px); }
   100% { transform: translateY(0); }
 }
-
-
-.search_bar-wrapper {
-  width: 100%;
-  display: flex;
-  justify-content: flex-end; /* pousse la barre à droite */
-  margin-top: 0.5rem; /* espace sous le header */
-  padding-right: 2rem; /* espace du bord droit */
+/* ----------------------------------------------------
+   ARCHIVES — LISTE
+---------------------------------------------------- */
+.section-content.archives-liste {
+  padding-left: 3rem;
+  padding-right: 2rem;
 }
 
-#search-input {
-  width: 260px;
-  padding: 0.6rem 1rem;
-  border-radius: 0.6rem;
-  border: 1px solid rgba(200, 220, 255, 0.25);
-  background: rgba(80, 100, 130, 0.28);
-  backdrop-filter: blur(14px);
-  color: var(--lapin);
-}
-/* Positionnement du select Archives sous le header */
-.archives-select-wrapper {
-  width: 100%;
-  display: flex;
-  justify-content: flex-end; /* pousse à droite */
-  margin-top: 0.5rem; /* espace sous le header */
-  padding-right: 2rem; /* espace du bord droit */
-}
-
-/* Style du select identique à la barre de recherche */
-.archives-select select {
-  width: 260px;
-  padding: 0.6rem 1rem;
-  border-radius: 0.6rem;
-  border: 1px solid rgba(200, 220, 255, 0.25);
-  background: rgba(80, 100, 130, 0.28);
-  backdrop-filter: blur(14px);
-  color: var(--lapin);
-}
-
-/* On masque le label */
-.archives-select label {
-  display: none;
-}
-
-/* Couleur + taille uniquement pour le corps de la rubrique Archives */
 .section-content.archives-liste .archive-annee,
 .section-content.archives-liste .archive-mois,
 .section-content.archives-liste .archive-mois-bloc,
 .section-content.archives-liste .article-item,
 .section-content.archives-liste .article-item *,
 .section-content.archives-liste .tag-date {
-  color: #010a12 !important;   /* ocre terne */
+  color: #010a12 !important;
   font-size: 14px !important;
 }
 
-/* Rétablir la couleur orangée EXACTE des autres rubriques */
+/* Couleur orangée exacte pour les titres de rubrique */
 .rubrique-header h2,
 .rubrique-header p {
-  color: var(--accent) !important;   /* ta couleur orangée du thème */
-  font-size: inherit !important;
+  color: var(--accent) !important;
 }
 
-/* Décalage du texte du corps de la page Archives vers la droite */
-.section-content.archives-liste {
-  padding-left: 3rem;
-  padding-right: 2rem;
-}
-
-/* Couleur du texte dans toutes les rubriques ET dans les articles */
+/* ----------------------------------------------------
+   SECTION CONTENT — GÉNÉRAL
+---------------------------------------------------- */
 .section-content,
 .section-content * {
   color: var(--lapin) !important;
 }
 
-/* Pousser le texte vers la droite dans toutes les rubriques (sauf Archives) */
 .section-content:not(.archives-liste) {
   padding-left: 3rem;
   padding-right: 2rem;
   box-sizing: border-box;
 }
-/* LIGNE D’ARTICLE DANS LA PAGE LISTE */
+
+/* ----------------------------------------------------
+   LIGNE D’ARTICLE — PAGE LISTE
+---------------------------------------------------- */
 .article-line {
   display: grid;
-  grid-template-columns: 7rem 1fr; /* colonne date | colonne titre */
-  grid-template-rows: auto auto;   /* ligne 1 : date + titre / ligne 2 : sous-titre */
+  grid-template-columns: 7rem 1fr;
+  grid-template-rows: auto auto;
   grid-template-areas:
     "date title"
     ".    teaser";
@@ -927,7 +635,6 @@ textarea {
   box-sizing: border-box;
 }
 
-/* Date */
 .article-line .article-date {
   grid-area: date;
   color: var(--accent);
@@ -935,7 +642,6 @@ textarea {
   white-space: nowrap;
 }
 
-/* Titre */
 .article-line .article-title {
   grid-area: title;
 }
@@ -946,7 +652,6 @@ textarea {
   text-decoration: none;
 }
 
-/* Sous-titre : automatiquement aligné sous le titre */
 .article-line .article-teaser {
   grid-area: teaser;
   color: var(--lapin);
@@ -955,56 +660,55 @@ textarea {
   max-width: 100ch;
 }
 
+/* ----------------------------------------------------
+   IMAGES DANS LES ARTICLES
+---------------------------------------------------- */
 .article-body img {
-  max-width: 500px;   /* largeur maximale éditoriale */
-  width: 100%;        /* responsive */
-  height: auto;       /* proportions respectées */
+  max-width: 500px;
+  width: 100%;
+  height: auto;
   display: block;
-  margin: 2em auto;   /* centrage + respiration */
+  margin: 2em auto;
 }
-
-/* Lapin scroll-to-top : style minimal et sans halo */
+/* ----------------------------------------------------
+   LAPIN SCROLL-TO-TOP
+---------------------------------------------------- */
 #backToTop {
   position: fixed;
-  bottom: 30px;          /* position temporaire pour le retrouver */
-  right: 350px;          /* position temporaire pour le retrouver */
-  font-size: 1.7rem;     /* taille réduite */
+  bottom: 30px;
+  right: 350px;
+  font-size: 1.7rem;
+
   background: none !important;
   border: none !important;
   box-shadow: none !important;
   outline: none !important;
   filter: none !important;
+
   cursor: pointer;
 
-  /* invisible par défaut */
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.3s ease;
 
-  /* saut */
   animation: lapin-saut 0.8s infinite ease-in-out;
 
-  /* AU-DESSUS de tout, y compris du footer */
   z-index: 999999999 !important;
 
-  /* supprime halo bleu mobile */
   -webkit-tap-highlight-color: transparent;
 }
 
-/* Quand visible */
 #backToTop.visible {
   opacity: 1;
   pointer-events: auto;
 }
 
-/* Animation du saut */
 @keyframes lapin-saut {
   0%   { transform: translateY(0); }
   50%  { transform: translateY(-6px); }
   100% { transform: translateY(0); }
 }
 
-/* Suppression du carré bleu */
 #backToTop:focus,
 #backToTop:focus-visible,
 #backToTop::-moz-focus-inner {
@@ -1013,16 +717,17 @@ textarea {
   border: none !important;
 }
 
-/* UNIQUEMENT pour les pages article */
+/* ----------------------------------------------------
+   PAGE ARTICLE — HEADER TOP
+---------------------------------------------------- */
 .article-page .article-header-top {
   display: grid;
-  grid-template-columns: 7rem 1fr;   /* date | titre */
+  grid-template-columns: 7rem 1fr;
   grid-template-areas: "date title";
   column-gap: 0.5rem;
   align-items: baseline;
 }
 
-/* Date */
 .article-page .article-date {
   grid-area: date;
   white-space: nowrap;
@@ -1030,62 +735,90 @@ textarea {
   font-weight: 500;
 }
 
-/* Titre */
 .article-page .article-title {
   grid-area: title;
   font-weight: 600;
   color: var(--lapin);
 }
 
-/* Sous‑titre : aligné sous le titre */
 .article-page .article-teaser {
   display: block;
-  margin-left: 7.6rem;          /* ⭐ alignement parfait sous le titre */
-  max-width: 65ch;            /* ⭐ retour à la ligne naturel */
+  margin-left: 7.6rem;
+  max-width: 65ch;
   white-space: normal !important;
   font-style: italic;
   opacity: 0.8;
   line-height: 1.4;
   color: var(--lapin);
 }
-/* Dates dans toutes les rubriques (Spiritualité, Créations, etc.) */
+
+/* Dates dans toutes les rubriques */
 .section-content .article-line .article-date {
   color: var(--accent) !important;
 }
-.article-body > *:first-child {
-  margin-top: 3rem; /* ajuste selon ton esthétique */
-}
 
-/* Désactivation visuelle et fonctionnelle de la page Archives */
-/* Empêche le clic sur le lien Archives sans modifier son contenu */
+.article-body > *:first-child {
+  margin-top: 3rem;
+}
+/* ----------------------------------------------------
+   DÉSACTIVATION VISUELLE ET FONCTIONNELLE DE LA PAGE ARCHIVES
+---------------------------------------------------- */
 a[href="/archives"],
 a[href="/archives/"],
 a[href$="/archives"],
 a[href$="/archives/"] {
   pointer-events: none !important;
   cursor: default !important;
-  opacity: 0.5; /* optionnel */
+  opacity: 0.5;
 }
 
 .menu-archives-dropdown a {
   display: none !important;
 }
+
 .menu-archives .menu-button {
   pointer-events: none !important;
   opacity: 0.5;
   cursor: default;
 }
+
 header .menu-archives-dropdown a {
   display: none !important;
 }
-body {
-  outline: 5px solid red !important;
-}
-.menu-passe {
-  opacity: 0.5;
+
+/* ----------------------------------------------------
+   PASTILLE TERRIER
+---------------------------------------------------- */
+.pastille-terrier {
+  display: block;
+  width: fit-content;
+  margin: 1.4rem auto 0 auto;
+
+  padding: 0.55rem 1.2rem;
+  background: transparent;
+  border: 1px solid var(--lapin);
+  border-radius: 12px;
+
+  color: var(--lapin) !important;
+  font-weight: 600;
+  font-size: 0.9rem;
+  letter-spacing: 0.3px;
+  text-decoration: none;
+  text-align: center;
+
+  transition: all 0.2s ease;
 }
 
-/* lien partage d'articles */
+.pastille-terrier:hover {
+  background: var(--lapin);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+/* ----------------------------------------------------
+   PARTAGE D’ARTICLES
+---------------------------------------------------- */
 .share-block {
   margin-top: 3rem;
   padding-top: 2rem;
@@ -1100,122 +833,16 @@ body {
 
 .share-link {
   margin-right: 1rem;
-  color: #c45a00; /* ton orangé signature */
+  color: #c45a00;
   text-decoration: none;
 }
 
 .share-link:hover {
   text-decoration: underline;
 }
-
 /* ----------------------------------------------------
-   BARRE DE RECHERCHE — SOUS LE HEADER (DESKTOP)
----------------------------------------------------- */
-
-/* Conteneur global : occupe toute la largeur, aligne la barre à droite */
-.search_bar-wrapper {
-  width: 100%;
-  display: flex;
-  justify-content: flex-end;
-  padding: 0.8rem 2rem 0.5rem;
-  position: relative;          /* Permet de positionner les résultats */
-  z-index: 10;                 /* Passe au-dessus du contenu */
-}
-
-/* Champ de recherche */
-#search-input {
-  width: 260px;
-  padding: 0.6em 0.8em;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  background: #E0B37A;
-  color: #111;
-  font-family: inherit;
-  font-size: 0.95rem;
-  outline: none;
-  transition: background 0.2s ease;
-}
-
-#search-input::placeholder {
-  color: rgba(0, 0, 0, 0.55);
-}
-
-#search-input:focus {
-  background: #e8c79a;
-}
-
-/* ----------------------------------------------------
-   RÉSULTATS DE RECHERCHE — SOUS LA BARRE
----------------------------------------------------- */
-
-#search-results {
-  position: absolute;
-  top: calc(100% + 0.4rem);    /* Juste sous la barre */
-  right: 2rem;                 /* Aligné avec la barre */
-  width: 260px;                /* Même largeur que le champ */
-  background: rgba(245, 236, 225, 0.88);
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 0.5em 0.8em;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-  z-index: 999;
-  max-height: 300px;
-  overflow-y: auto;
-}
-
-/* Chaque résultat */
-#search-results div {
-  margin-bottom: 0.8em;
-  padding-bottom: 0.6em;
-  border-bottom: 1px solid #eee;
-}
-
-#search-results div:last-child {
-  border-bottom: none;
-}
-
-#search-results a {
-  text-decoration: none;
-  color: #333;
-}
-
-#search-results strong {
-  display: block;
-  margin-bottom: 0.2em;
-  font-weight: 600;
-}
-
-#search-results span {
-  opacity: 0.6;
-  font-size: 0.85em;
-}
-
-/* ----------------------------------------------------
-   INVISIBLE SI AUCUN RÉSULTAT
----------------------------------------------------- */
-
-#search-results:empty {
-  display: none !important;
-  padding: 0 !important;
-  border: none !important;
-  box-shadow: none !important;
-  height: 0 !important;
-}
-
-/* ----------------------------------------------------
-   MASQUAGE COMPLET SUR GSM
----------------------------------------------------- */
-
-@media (max-width: 768px) {
-  .search_bar-wrapper,
-  #search-results {
-    display: none !important;
-  }
-}
-
-/* ————————————————————————————————
    PAGE VIDÉO DU TERRIER
-——————————————————————————————— */
+---------------------------------------------------- */
 .page-video-terrier {
   display: flex;
   justify-content: center;
@@ -1249,7 +876,7 @@ body {
   display: block;
 }
 
-/* Fond */
+/* Fond spécifique Terrier */
 body.presentation-terrier {
   background-image: url('/images/fond-terrier-basalte.png');
   background-size: cover;
@@ -1258,9 +885,9 @@ body.presentation-terrier {
   background-repeat: no-repeat;
 }
 
-/* ————————————————————————————————
+/* ----------------------------------------------------
    ESPACE GLOBAL SOUS LE HEADER FIXED
-——————————————————————————————— */
+---------------------------------------------------- */
 main.contenu-scroll {
   margin-top: 0;
 }
@@ -1269,16 +896,15 @@ body:not(.accueil) main.contenu-scroll {
   margin-top: 120px;
 }
 
-/* ————————————————————————————————
+/* ----------------------------------------------------
    HEADER MASQUÉ — desktop + mobile
-——————————————————————————————— */
+---------------------------------------------------- */
 header.header-hidden {
   transform: translateY(-100%);
 }
-
-/* ————————————————————————————————
+/* ----------------------------------------------------
    VERSION MOBILE
-——————————————————————————————— */
+---------------------------------------------------- */
 
 /* Par défaut : le header mobile est masqué */
 .mobile-header {
@@ -1287,7 +913,7 @@ header.header-hidden {
 
 @media (max-width: 768px) {
 
-  /* Masquer le header desktop UNIQUEMENT */
+  /* Masquer le header desktop */
   header.site-header {
     display: none !important;
   }
@@ -1302,14 +928,13 @@ header.header-hidden {
     position: static !important;
   }
 
-  /* Conteneur du titre + portrait */
+  /* Titre + portrait */
   .mobile-header-top {
     display: flex;
     align-items: center;
     gap: 0.5rem;
   }
 
-  /* Portrait miniature */
   .portrait-mobile {
     width: 34px;
     height: 34px;
@@ -1326,6 +951,7 @@ header.header-hidden {
     letter-spacing: 0.5px;
   }
 
+  /* Menu mobile */
   .menu-mobile {
     display: flex;
     flex-wrap: wrap;
@@ -1337,12 +963,16 @@ header.header-hidden {
     font-weight: 600;
     letter-spacing: 0.3px;
     padding: 0.35rem 0.65rem;
+
     background: #f4efe7;
     color: #1d2a49;
+
     border-radius: 8px;
     border: 1px solid #e3ded4;
+
     text-decoration: none;
     display: inline-block;
+
     box-shadow: 0 1px 2px rgba(0,0,0,0.06);
     transition: all 0.2s ease;
   }
@@ -1370,12 +1000,12 @@ header.header-hidden {
     box-shadow: none;
   }
 
-  /* Page du Terrier : marge-top pour descendre la vidéo */
+  /* Page du Terrier : marge-top spécifique */
   body.presentation-terrier main.contenu-scroll {
     margin-top: 100px !important;
   }
 
-  /* Toutes les autres pages : aucune marge-top */
+  /* Autres pages : pas de marge-top */
   body:not(.presentation-terrier) main.contenu-scroll {
     margin-top: 0 !important;
   }
@@ -1389,49 +1019,13 @@ header.header-hidden {
   .mobile-title-link:visited {
     color: inherit;
   }
+}
 
-} /* ← FIN de la media query mobile */
-
-/* ————————————————————————————————
+/* ----------------------------------------------------
    VERSION DESKTOP : masquer le header mobile
-——————————————————————————————— */
+---------------------------------------------------- */
 @media (min-width: 769px) {
   .mobile-header {
     display: none !important;
   }
 }
-.pastille-terrier {
-  display: inline-block;
-  padding: 0.55rem 1.2rem;
-  margin: 1.4rem auto 0 auto;
-  background: transparent;
-  border: 1px solid var(--lapin);
-  border-radius: 12px;
-  color: var(--lapin) !important; 
-  font-weight: 600;
-  text-decoration: none;
-  text-align: center;
-  font-size: 0.9rem;
-  letter-spacing: 0.3px;
-  transition: all 0.2s ease;
-}
-
-/* Centrage garanti même dans un bloc non centré */
-.pastille-terrier {
-  display: block;
-  width: fit-content;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* Effet hover (désactivé sur GSM mais utile sur desktop) */
-.pastille-terrier:hover {
-  background: var(--lapin);
-  color: white;
-  transform: translateY(-2px);
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-}
-
-
-
-
