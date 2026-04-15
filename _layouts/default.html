@@ -7,14 +7,14 @@
 <body class="{{ page.class }}">
 
   <!-- Header desktop (masqué pour la Salle des Échos) -->
-  {% unless page.class == "salle-echos" %}
+  {% unless page.class == "echos" %}
   <header class="site-header">
     {% include header.html %}
   </header>
   {% endunless %}
 
   <!-- Header mobile (masqué pour la Salle des Échos) -->
-  {% unless page.class == "salle-echos" %}
+  {% unless page.class == "echos" %}
   <header class="mobile-header">
     <div class="mobile-header-top">
       <img src="/images/celeste.png" alt="Portrait" class="portrait-mobile">
@@ -36,9 +36,9 @@
   </header>
   {% endunless %}
 
-  <!-- Bouton retour à l'accueil (option B) -->
-  {% if page.class == "salle-echos" %}
-<a href="/" class="retour-accueil-echos" title="Retour à l’accueil">🐇</a>
+  <!-- Bouton retour à l'accueil (visible uniquement dans la Salle des Échos) -->
+  {% if page.class == "echos" %}
+  <a href="/" class="retour-accueil-echos" title="Retour à l’accueil">🐇</a>
   {% endif %}
 
   <main class="contenu-scroll">
@@ -58,13 +58,13 @@
   </main>
 
   <!-- Footer masqué pour la Salle des Échos -->
-  {% unless page.class == "salle-echos" %}
+  {% unless page.class == "echos" %}
     {% include footer.html %}
   {% endunless %}
 
   <button id="backToTop" title="Remonter le terrier">🐇↟</button>
 
-  <!-- Scripts -->
+  <!-- Script bouton retour haut -->
   <script>
     const btn = document.getElementById("backToTop");
     window.addEventListener("scroll", () => {
