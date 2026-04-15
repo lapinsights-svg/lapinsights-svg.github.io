@@ -1187,27 +1187,26 @@ header.header-hidden {
 }
 
 /* ----------------------------------------------------
-   SALLE D’ARCHIVES PRIVÉE — SALLE DES ÉCHOS
+   SALLE DES ÉCHOS — FOND IMMERSIF
 ---------------------------------------------------- */
 .salle-echos-privee {
   position: relative;
   width: 100%;
-  height: 100vh;
+  min-height: 100vh; /* important : pas height fixe */
   overflow: hidden;
 
   /* Image de fond nocturne */
-  background-image: url('images/fond_archives.png'); /* adapte le chemin */
+  background-image: url('/images/fond_archives.png'); /* chemin corrigé */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
 
-  /* Ambiance générale */
+  /* Ambiance */
   filter: brightness(0.85) contrast(1.05);
   animation: respiration-terrier 18s ease-in-out infinite;
 }
 
-/* Voile léger pour détacher les points lumineux */
+/* Voile léger */
 .salle-echos-privee::before {
   content: "";
   position: absolute;
@@ -1217,19 +1216,20 @@ header.header-hidden {
   z-index: 1;
 }
 
-/* Contenu de la salle (points, textes, lapin, etc.) */
+/* Contenu interne */
 .salle-echos-contenu {
   position: relative;
   z-index: 2;
+  width: 100%;
+  min-height: 100vh; /* garantit que le fond reste visible */
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100%;
   color: var(--texte);
 }
 
-/* Animation de respiration du fond */
+/* Animation respiration */
 @keyframes respiration-terrier {
   0% { filter: brightness(0.85) contrast(1.05); }
   50% { filter: brightness(0.95) contrast(1.1); }
@@ -1237,7 +1237,7 @@ header.header-hidden {
 }
 
 /* ----------------------------------------------------
-   POINTS LUMINEUX — ÉCHOS DES ARTICLES
+   POINTS LUMINEUX — ÉCHOS
 ---------------------------------------------------- */
 .point-echo {
   position: absolute;
@@ -1252,7 +1252,6 @@ header.header-hidden {
   z-index: 3;
 }
 
-/* Variation selon l’âge de l’article */
 .point-echo.recent {
   background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,0.2) 70%);
   animation-duration: 2.2s;
@@ -1264,21 +1263,18 @@ header.header-hidden {
   opacity: 0.7;
 }
 
-/* Effet au survol : onde lumineuse */
 .point-echo:hover {
   transform: scale(1.6);
   opacity: 1;
   box-shadow: 0 0 20px rgba(255,255,255,0.9);
 }
 
-/* Animation de pulsation organique */
 @keyframes pulsation-echo {
   0% { transform: scale(1); opacity: 0.85; }
   50% { transform: scale(1.3); opacity: 1; }
   100% { transform: scale(1); opacity: 0.85; }
 }
 
-/* Onde de résonance au clic */
 .point-echo::after {
   content: "";
   position: absolute;
@@ -1296,11 +1292,15 @@ header.header-hidden {
   0% { transform: translate(-50%, -50%) scale(1); opacity: 0.8; }
   100% { transform: translate(-50%, -50%) scale(6); opacity: 0; }
 }
-/* Les sons ne sont pas visibles, mais on peut prévoir une classe d’état */
+
 .point-echo.son-actif {
   box-shadow: 0 0 25px rgba(255,255,255,1);
   transform: scale(1.8);
 }
+
+/* ----------------------------------------------------
+   BOUTON RETOUR ↟
+---------------------------------------------------- */
 .retour-accueil-echos {
   position: fixed;
   top: 20px;
@@ -1316,10 +1316,12 @@ header.header-hidden {
 .retour-accueil-echos:hover {
   opacity: 1;
 }
-body.salle-echos {
-  background-image: none !important;
-  background-color: black; /* ou transparent selon ton choix */
-}
 
+/* ----------------------------------------------------
+   NEUTRALISATION DU FOND GLOBAL
+---------------------------------------------------- */
+body.salle-echos {
+  background: black !important;
+}
 
 
