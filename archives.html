@@ -41,14 +41,14 @@ class: echos
 
 <script>
 /* ----------------------------------------------------
-   ÉCHOS — CONSTELLATION + SONS + RECHERCHE
+   ÉCHOS — CONSTELLATION + SONS + RÉVÉLATION POÉTIQUE
 ---------------------------------------------------- */
 
 document.addEventListener("DOMContentLoaded", () => {
 
-  // ----------------------------------------------------
-  // 1. Récupération des contenus depuis Jekyll
-  // ----------------------------------------------------
+  /* ----------------------------------------------------
+     1. Récupération des contenus depuis Jekyll
+  ---------------------------------------------------- */
 
   const echos = [
     {% assign echos = site.actualites 
@@ -70,17 +70,16 @@ document.addEventListener("DOMContentLoaded", () => {
     {% endfor %}
   ];
 
-  // ----------------------------------------------------
-  // 2. Conteneurs
-  // ----------------------------------------------------
+  /* ----------------------------------------------------
+     2. Conteneurs
+  ---------------------------------------------------- */
 
   const constellation = document.getElementById("constellation-echos");
-  const barreFiltres = document.querySelector(".barre-filtres");
   const messageEchos = document.getElementById("message-echos");
 
-  // ----------------------------------------------------
-  // 3. Fonctions utilitaires
-  // ----------------------------------------------------
+  /* ----------------------------------------------------
+     3. Fonctions utilitaires
+  ---------------------------------------------------- */
 
   function cacher(selector) {
     document.querySelector(selector).classList.add("hidden");
@@ -95,17 +94,17 @@ document.addEventListener("DOMContentLoaded", () => {
     constellation.classList.remove("visible");
   }
 
-  // ----------------------------------------------------
-  // 4. État initial
-  // ----------------------------------------------------
+  /* ----------------------------------------------------
+     4. État initial
+  ---------------------------------------------------- */
 
   cacher(".barre-filtres");
   viderConstellation();
   messageEchos.classList.add("hidden");
 
-  // ----------------------------------------------------
-  // 5. REMPLISSAGE DES MENUS ANNÉE / MOIS
-  // ----------------------------------------------------
+  /* ----------------------------------------------------
+     5. Menus Année / Mois
+  ---------------------------------------------------- */
 
   function remplirMenus() {
     const selectAnnee = document.getElementById("annee");
@@ -149,9 +148,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
   remplirMenus();
 
-  // ----------------------------------------------------
-  // 6. FILTRAGE TEMPOREL
-  // ----------------------------------------------------
+  /* ----------------------------------------------------
+     6. Filtrage temporel
+  ---------------------------------------------------- */
 
   function filtrerParDate(annee, mois) {
     return echos.filter(echo => {
@@ -160,9 +159,9 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // ----------------------------------------------------
-  // 7. Écoute des changements Année/Mois
-  // ----------------------------------------------------
+  /* ----------------------------------------------------
+     7. Écoute des changements Année/Mois
+  ---------------------------------------------------- */
 
   function onChangeAnneeOuMois(callback) {
     document.getElementById("annee").addEventListener("change", callback);
@@ -203,9 +202,9 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  // ----------------------------------------------------
-  // 8. Affichage de la constellation
-  // ----------------------------------------------------
+  /* ----------------------------------------------------
+     8. Affichage de la constellation
+  ---------------------------------------------------- */
 
   function afficherConstellation(liste) {
     viderConstellation();
@@ -218,7 +217,7 @@ document.addEventListener("DOMContentLoaded", () => {
       point.style.left = Math.random() * 90 + "%";
 
       point.dataset.slug = echo.slug;
-      point.dataset.title = echo.title; // AJOUT : nécessaire pour révélation poétique
+      point.dataset.title = echo.title; // essentiel pour révélation poétique
 
       point.addEventListener("click", () => {
         window.location.href = echo.url;
@@ -232,9 +231,9 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // ----------------------------------------------------
-  // 9. Sons
-  // ----------------------------------------------------
+  /* ----------------------------------------------------
+     9. Sons
+  ---------------------------------------------------- */
 
   function jouerSon(slug) {
     const audio = document.getElementById("son-" + slug);
@@ -244,48 +243,9 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  // ----------------------------------------------------
-  // 10. Recherche (ancienne logique sonore)
-  // ----------------------------------------------------
-
-  function filtrerEchos(terme) {
-    const points = document.querySelectorAll(".point-echo");
-
-    points.forEach(point => {
-      const slug = point.dataset.slug;
-      const echo = echos.find(e => e.slug === slug);
-
-      if (!terme) {
-        point.classList.remove("son-actif");
-        return;
-      }
-
-      const match =
-        echo.title.toLowerCase().includes(terme.toLowerCase()) ||
-        echo.excerpt.toLowerCase().includes(terme.toLowerCase());
-
-      if (match) {
-        point.classList.add("son-actif");
-        jouerSon(echo.slug);
-      } else {
-        point.classList.remove("son-actif");
-      }
-    });
-  }
-
-  // ----------------------------------------------------
-  // 11. Connexion aux champs de recherche (ancienne logique)
-  // ----------------------------------------------------
-
-  document.querySelector(".champ-resonance")
-    .addEventListener("input", e => filtrerEchos(e.target.value));
-
-  document.querySelector(".champ-appel")
-    .addEventListener("input", e => filtrerEchos(e.target.value));
-
-  // ----------------------------------------------------
-  // 12. AJOUT — Bouton Reset
-  // ----------------------------------------------------
+  /* ----------------------------------------------------
+     10. Bouton Reset (normal)
+  ---------------------------------------------------- */
 
   const boutonReset = document.getElementById("reset-echos");
 
@@ -295,18 +255,39 @@ document.addEventListener("DOMContentLoaded", () => {
 
     document.querySelectorAll(".point-echo").forEach(point => {
       point.classList.remove("revelation");
-      point.classList.remove("son-actif");
     });
   });
 
-  // ----------------------------------------------------
-  // 13. AJOUT — Révélation poétique (Option C)
-  // ----------------------------------------------------
+  /* ----------------------------------------------------
+     11. Révélation poétique — Champ Résonance
+  ---------------------------------------------------- */
 
   const champResonance = document.getElementById("champ-resonance");
 
   champResonance.addEventListener("input", () => {
     const mot = champResonance.value.trim().toLowerCase();
+
+    document.querySelectorAll(".point-echo").forEach(point => {
+      const titre = point.dataset.title.toLowerCase();
+
+      if (mot === "") {
+        point.classList.remove("revelation");
+      } else if (titre.includes(mot)) {
+        point.classList.add("revelation");
+      } else {
+        point.classList.remove("revelation");
+      }
+    });
+  });
+
+  /* ----------------------------------------------------
+     12. Révélation poétique — Champ Appel d’écho
+  ---------------------------------------------------- */
+
+  const champEcho = document.getElementById("champ-echo");
+
+  champEcho.addEventListener("input", () => {
+    const mot = champEcho.value.trim().toLowerCase();
 
     document.querySelectorAll(".point-echo").forEach(point => {
       const titre = point.dataset.title.toLowerCase();
