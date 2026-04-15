@@ -1199,7 +1199,7 @@ header.header-hidden {
   background: none;
 }
 
-/* Fond fixe universel (fonctionne mobile + desktop) */
+/* Fond fixe universel (mobile + desktop) */
 .salle-echos-privee::before {
   content: "";
   position: fixed;
@@ -1227,7 +1227,10 @@ header.header-hidden {
   z-index: 0;
 }
 
-/* Contenu interne */
+/* ----------------------------------------------------
+   CONTENU INTERNE
+---------------------------------------------------- */
+
 .salle-echos-contenu {
   position: relative;
   z-index: 2;
@@ -1237,8 +1240,8 @@ header.header-hidden {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-
+  justify-content: flex-start; /* ✔ La constellation commence en haut */
+  padding-top: 10rem;          /* ✔ Laisse la place pour les barres */
   color: var(--texte);
 }
 
@@ -1340,7 +1343,6 @@ header.header-hidden {
   transform: scale(1.2);
 }
 
-/* Tooltip “Retour à l’accueil” */
 .retour-accueil-echos:hover::after {
   content: "Retour en surface";
   position: absolute;
@@ -1366,22 +1368,31 @@ body.salle-echos {
 }
 
 /* ----------------------------------------------------
-   BARRE CÉLESTE (Année / Mois)
-   Toujours visible, fixée en haut
+   BLOC GLOBAL DE RECHERCHE — FIXÉ EN HAUT
 ---------------------------------------------------- */
 
-.barre-celeste {
-  position: sticky;
+.barre-recherche {
+  position: fixed;
   top: 0;
-  z-index: 20;
+  left: 0;
+  width: 100%;
+  z-index: 50;
 
+  background: #050505;
+  padding: 1rem 0 0.5rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+/* Ligne Année/Mois */
+.barre-celeste {
   display: flex;
   gap: 1rem;
   align-items: center;
-
-  padding: 1rem 0;
-  background: #050505; /* couleur de fond de la Salle des Échos */
-  border-bottom: 1px solid rgba(255,255,255,0.1);
 }
 
 .barre-celeste label {
@@ -1397,41 +1408,20 @@ body.salle-echos {
   border-radius: 4px;
 }
 
-
-/* ----------------------------------------------------
-   BARRE DES RÉSONANCES
-   Fixe sous la barre céleste, mais cachée au départ
----------------------------------------------------- */
-
-.recherches-echos {
-  position: sticky;
-  top: 3.5rem; /* juste sous la barre céleste */
-  z-index: 19;
-
+/* Ligne Résonnance/Appel */
+.barre-filtres {
   display: flex;
   gap: 1rem;
-
-  padding: 0.8rem 0;
-  background: #050505;
-  border-bottom: 1px solid rgba(255,255,255,0.1);
 }
 
-.recherches-echos input {
+.barre-filtres input {
   background: #111;
   color: #fff;
   border: 1px solid #444;
   padding: 0.4rem 0.6rem;
   border-radius: 4px;
   width: 200px;
-}
-
-
-/* ----------------------------------------------------
-   UTILITAIRE : cacher un élément
----------------------------------------------------- */
-
-.hidden {
-  display: none;
+  text-align: center;
 }
 
 /* ----------------------------------------------------
@@ -1471,7 +1461,4 @@ body.salle-echos {
 .hidden {
   display: none;
 }
-
-
-
 
