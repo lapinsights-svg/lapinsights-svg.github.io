@@ -1366,8 +1366,10 @@ body.salle-echos {
 }
 
 /* ----------------------------------------------------
-  Barre de recherche celeste
+   BARRE CÉLESTE (Année / Mois)
+   Toujours visible, fixée en haut
 ---------------------------------------------------- */
+
 .barre-celeste {
   position: sticky;
   top: 0;
@@ -1378,11 +1380,8 @@ body.salle-echos {
   align-items: center;
 
   padding: 1rem 0;
-  background: #050505; /* ou la couleur de fond de la Salle des Échos */
+  background: #050505; /* couleur de fond de la Salle des Échos */
   border-bottom: 1px solid rgba(255,255,255,0.1);
-
-  /* On supprime le margin-bottom pour éviter un saut visuel */
-  margin-bottom: 0;
 }
 
 .barre-celeste label {
@@ -1397,6 +1396,44 @@ body.salle-echos {
   padding: 0.4rem 0.6rem;
   border-radius: 4px;
 }
+
+
+/* ----------------------------------------------------
+   BARRE DES RÉSONANCES
+   Fixe sous la barre céleste, mais cachée au départ
+---------------------------------------------------- */
+
+.recherches-echos {
+  position: sticky;
+  top: 3.5rem; /* juste sous la barre céleste */
+  z-index: 19;
+
+  display: flex;
+  gap: 1rem;
+
+  padding: 0.8rem 0;
+  background: #050505;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.recherches-echos input {
+  background: #111;
+  color: #fff;
+  border: 1px solid #444;
+  padding: 0.4rem 0.6rem;
+  border-radius: 4px;
+  width: 200px;
+}
+
+
+/* ----------------------------------------------------
+   UTILITAIRE : cacher un élément
+---------------------------------------------------- */
+
+.hidden {
+  display: none;
+}
+
 
 
 
