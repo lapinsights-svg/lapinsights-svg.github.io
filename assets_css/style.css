@@ -1187,20 +1187,20 @@ header.header-hidden {
 }
 
 /* ----------------------------------------------------
-   SALLE DES ÉCHOS — FOND IMMERSIF FIXE
+   ÉCHOS — FOND IMMERSIF FIXE
 ---------------------------------------------------- */
 
 /* Conteneur principal */
-.salle-echos-privee {
+.echos-privee {
   position: relative;
   width: 100%;
   min-height: 100vh;
   background: none;
-  overflow: visible; /* utile, mais non critique maintenant */
+  overflow: visible;
 }
 
 /* Fond fixe universel */
-.salle-echos-privee::before {
+.echos-privee::before {
   content: "";
   position: fixed;
   inset: 0;
@@ -1213,7 +1213,7 @@ header.header-hidden {
 }
 
 /* Voile léger */
-.salle-echos-privee::after {
+.echos-privee::after {
   content: "";
   position: fixed;
   inset: 0;
@@ -1226,7 +1226,7 @@ header.header-hidden {
    CONTENU INTERNE
 ---------------------------------------------------- */
 
-.salle-echos-contenu {
+.echos-contenu {
   position: relative;
   z-index: 2;
   width: 100%;
@@ -1237,7 +1237,7 @@ header.header-hidden {
   align-items: center;
   justify-content: flex-start;
 
-  padding-top: 10rem; /* espace pour la barre */
+  padding-top: 10rem;
   color: var(--texte);
 }
 
@@ -1344,7 +1344,7 @@ header.header-hidden {
    NEUTRALISATION DU FOND GLOBAL
 ---------------------------------------------------- */
 
-body.salle-echos {
+body.echos {
   background: black !important;
 }
 
@@ -1387,7 +1387,6 @@ body.salle-echos {
   border: 1px solid #444;
   padding: 0.4rem 0.6rem;
   border-radius: 4px;
-  /* z-index inutile maintenant */
 }
 
 /* Ligne Résonance/Appel */
