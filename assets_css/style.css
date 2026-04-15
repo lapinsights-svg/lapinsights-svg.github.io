@@ -1474,6 +1474,27 @@ body.echos {
 }
 
 /* ----------------------------------------------------
+  BOUTON DE RESET POUR LA RECHERCHE
+---------------------------------------------------- */
+
+.btn-reset {
+  background: none;
+  border: 1px solid rgba(255,255,255,0.4);
+  color: rgba(255,255,255,0.8);
+  padding: 4px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  transition: all 0.3s ease;
+}
+
+.btn-reset:hover {
+  border-color: rgba(255,255,255,0.8);
+  color: #fff;
+  background: rgba(255,255,255,0.1);
+}
+
+/* ----------------------------------------------------
    UTILITAIRE
 ---------------------------------------------------- */
 
