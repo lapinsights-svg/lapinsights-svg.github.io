@@ -1,3 +1,4 @@
+<script>
 /* ----------------------------------------------------
    ÉCHOS — CONSTELLATION + SONS + RECHERCHE
 ---------------------------------------------------- */
@@ -241,3 +242,4 @@ document.addEventListener("DOMContentLoaded", () => {
     .addEventListener("input", e => filtrerEchos(e.target.value));
 
 });
+</script>
