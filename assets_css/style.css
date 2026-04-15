@@ -1196,7 +1196,7 @@ header.header-hidden {
   overflow: hidden;
 
   /* Image de fond nocturne */
-  background-image: url('images/salle-echos-nocturne.jpg'); /* adapte le chemin */
+  background-image: url('images/fond_archives.png'); /* adapte le chemin */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
