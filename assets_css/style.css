@@ -1195,7 +1195,7 @@ header.header-hidden {
   position: relative;
   width: 100%;
   min-height: 100vh;
-  overflow: hidden;
+  overflow: visible; /* ✔ laisse les menus déroulants s’ouvrir */
   background: none;
 }
 
