@@ -1434,6 +1434,44 @@ body.salle-echos {
   display: none;
 }
 
+/* ----------------------------------------------------
+   FONDU D’APPARITION / DISPARITION
+---------------------------------------------------- */
+
+#constellation-echos {
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
+
+#constellation-echos.visible {
+  opacity: 1;
+}
+
+/* ----------------------------------------------------
+   MESSAGE POUR LES PÉRIODES VIDES
+---------------------------------------------------- */
+
+.message-echos {
+  text-align: center;
+  margin-top: 2rem;
+  opacity: 0;
+  transition: opacity 0.6s ease;
+  color: rgba(255,255,255,0.6);
+  font-style: italic;
+}
+
+.message-echos.visible {
+  opacity: 1;
+}
+
+/* ----------------------------------------------------
+   UTILITAIRE
+---------------------------------------------------- */
+
+.hidden {
+  display: none;
+}
+
 
 
 
