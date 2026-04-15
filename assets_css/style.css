@@ -1243,7 +1243,7 @@ header.header-hidden {
 }
 
 /* ----------------------------------------------------
-   POINTS LUMINEUX — ÉCHOS (version corrigée)
+   POINTS LUMINEUX — ÉCHOS (version blanche)
 ---------------------------------------------------- */
 
 .point-echo {
@@ -1251,22 +1251,22 @@ header.header-hidden {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: #fff;
+  background: #ffffff;
   opacity: 0.9;
   z-index: 3;
 
-  /* Halo minéral orange profond */
+  /* Halo blanc lunaire renforcé */
   box-shadow:
-    0 0 10px rgba(255, 140, 0, 0.9),
-    0 0 18px rgba(255, 140, 0, 0.5);
+    0 0 10px rgba(255, 255, 255, 0.9),
+    0 0 18px rgba(255, 255, 255, 0.5);
 
-  /* Pulsation nocturne subtile */
+  /* Pulsation subtile nocturne */
   animation: pulse-echo 2.8s ease-in-out infinite;
 
   transition: transform 0.4s ease, opacity 0.4s ease;
 }
 
-/* Variantes (conservent le halo orange) */
+/* Variantes (conservent le halo blanc) */
 .point-echo.recent {
   animation-duration: 2.2s;
 }
@@ -1276,13 +1276,13 @@ header.header-hidden {
   animation-duration: 4.5s;
 }
 
-/* Survol : intensification du halo */
+/* Survol : intensification du halo blanc */
 .point-echo:hover {
   transform: scale(1.6);
   opacity: 1;
   box-shadow:
-    0 0 18px rgba(255, 140, 0, 1),
-    0 0 28px rgba(255, 140, 0, 0.7);
+    0 0 18px rgba(255, 255, 255, 1),
+    0 0 28px rgba(255, 255, 255, 0.8);
 }
 
 /* Pulsation nocturne */
@@ -1292,7 +1292,7 @@ header.header-hidden {
   100% { transform: scale(1);   opacity: 0.85; }
 }
 
-/* Onde de résonance (conservée, mais légèrement réchauffée) */
+/* Onde de résonance — blanche, légère, atmosphérique */
 .point-echo::after {
   content: "";
   position: absolute;
@@ -1302,7 +1302,7 @@ header.header-hidden {
   height: 10px;
   border-radius: 50%;
   transform: translate(-50%, -50%);
-  background: rgba(255, 140, 0, 0.25);
+  background: rgba(255, 255, 255, 0.25);
   animation: onde-resonance 1.2s ease-out;
 }
 
@@ -1311,12 +1311,12 @@ header.header-hidden {
   100% { transform: translate(-50%, -50%) scale(6); opacity: 0; }
 }
 
-/* Activation sonore : halo renforcé */
+/* Activation sonore : halo blanc amplifié */
 .point-echo.son-actif {
   transform: scale(1.8);
   box-shadow:
-    0 0 25px rgba(255, 140, 0, 1),
-    0 0 35px rgba(255, 140, 0, 0.8);
+    0 0 25px rgba(255, 255, 255, 1),
+    0 0 35px rgba(255, 255, 255, 0.9);
 }
 
 /* ----------------------------------------------------
