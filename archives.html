@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     {% for item in echos %}
       {
-        title: "{{ item.title | escape }}",
+        title: "{{ item.title }}",
         url: "{{ item.url | relative_url }}",
         slug: "{{ item.slug }}",
         excerpt: "{{ item.excerpt | strip_newlines | escape }}",
