@@ -1243,7 +1243,7 @@ header.header-hidden {
 }
 
 /* ----------------------------------------------------
-   POINTS LUMINEUX — ÉCHOS
+   POINTS LUMINEUX — ÉCHOS (version corrigée)
 ---------------------------------------------------- */
 
 .point-echo {
@@ -1251,37 +1251,48 @@ header.header-hidden {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(255,255,255,0.9) 0%, rgba(255,255,255,0.1) 70%);
-  box-shadow: 0 0 12px rgba(255,255,255,0.6);
-  opacity: 0.85;
-  animation: pulsation-echo 3.5s ease-in-out infinite;
-  transition: transform 0.4s ease, opacity 0.4s ease;
+  background: #fff;
+  opacity: 0.9;
   z-index: 3;
+
+  /* Halo minéral orange profond */
+  box-shadow:
+    0 0 10px rgba(255, 140, 0, 0.9),
+    0 0 18px rgba(255, 140, 0, 0.5);
+
+  /* Pulsation nocturne subtile */
+  animation: pulse-echo 2.8s ease-in-out infinite;
+
+  transition: transform 0.4s ease, opacity 0.4s ease;
 }
 
+/* Variantes (conservent le halo orange) */
 .point-echo.recent {
-  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,0.2) 70%);
   animation-duration: 2.2s;
 }
 
 .point-echo.ancien {
-  background: radial-gradient(circle, rgba(180,200,255,0.8) 0%, rgba(180,200,255,0.1) 70%);
-  animation-duration: 4.5s;
   opacity: 0.7;
+  animation-duration: 4.5s;
 }
 
+/* Survol : intensification du halo */
 .point-echo:hover {
   transform: scale(1.6);
   opacity: 1;
-  box-shadow: 0 0 20px rgba(255,255,255,0.9);
+  box-shadow:
+    0 0 18px rgba(255, 140, 0, 1),
+    0 0 28px rgba(255, 140, 0, 0.7);
 }
 
-@keyframes pulsation-echo {
-  0% { transform: scale(1); opacity: 0.85; }
-  50% { transform: scale(1.3); opacity: 1; }
-  100% { transform: scale(1); opacity: 0.85; }
+/* Pulsation nocturne */
+@keyframes pulse-echo {
+  0%   { transform: scale(1);   opacity: 0.85; }
+  50%  { transform: scale(1.25); opacity: 1; }
+  100% { transform: scale(1);   opacity: 0.85; }
 }
 
+/* Onde de résonance (conservée, mais légèrement réchauffée) */
 .point-echo::after {
   content: "";
   position: absolute;
@@ -1291,18 +1302,21 @@ header.header-hidden {
   height: 10px;
   border-radius: 50%;
   transform: translate(-50%, -50%);
-  background: rgba(255,255,255,0.2);
+  background: rgba(255, 140, 0, 0.25);
   animation: onde-resonance 1.2s ease-out;
 }
 
 @keyframes onde-resonance {
-  0% { transform: translate(-50%, -50%) scale(1); opacity: 0.8; }
+  0%   { transform: translate(-50%, -50%) scale(1); opacity: 0.8; }
   100% { transform: translate(-50%, -50%) scale(6); opacity: 0; }
 }
 
+/* Activation sonore : halo renforcé */
 .point-echo.son-actif {
-  box-shadow: 0 0 25px rgba(255,255,255,1);
   transform: scale(1.8);
+  box-shadow:
+    0 0 25px rgba(255, 140, 0, 1),
+    0 0 35px rgba(255, 140, 0, 0.8);
 }
 
 /* ----------------------------------------------------
