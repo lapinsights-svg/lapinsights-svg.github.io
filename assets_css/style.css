@@ -1316,5 +1316,10 @@ header.header-hidden {
 .retour-accueil-echos:hover {
   opacity: 1;
 }
+body.salle-echos {
+  background-image: none !important;
+  background-color: black; /* ou transparent selon ton choix */
+}
+
 
 
