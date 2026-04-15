@@ -1376,7 +1376,7 @@ body.salle-echos {
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 200;
+  z-index: 1000;
   overflow: visible;
 
   background: #050505;
@@ -1408,7 +1408,7 @@ body.salle-echos {
   padding: 0.4rem 0.6rem;
   border-radius: 4px;
   position: relative;
-  z-index: 500;          /* au-dessus de la barre */
+  z-index: 1100;          /* au-dessus de la barre */
 }
 
 /* Ligne Résonnance/Appel */
