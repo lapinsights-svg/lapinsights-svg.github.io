@@ -1365,5 +1365,30 @@ body.salle-echos {
   background: black !important;
 }
 
+/* ----------------------------------------------------
+  Barre de recherche celeste
+---------------------------------------------------- */
+.barre-celeste {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  padding: 1rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  margin-bottom: 1.5rem;
+}
+
+.barre-celeste label {
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+.barre-celeste select {
+  background: #111;
+  color: #fff;
+  border: 1px solid #444;
+  padding: 0.4rem 0.6rem;
+  border-radius: 4px;
+}
+
 
 
