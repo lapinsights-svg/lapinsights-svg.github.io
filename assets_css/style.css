@@ -1317,6 +1317,29 @@ header.header-hidden {
   box-shadow:
     0 0 25px rgba(255, 255, 255, 1),
     0 0 35px rgba(255, 255, 255, 0.9);
+
+   /* écriture des titres des articles */
+}
+.point-echo::before {
+  content: attr(data-title);
+  position: absolute;
+  top: 120%;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+
+  font-size: 0.75rem;
+  font-weight: 300;
+  color: rgba(255,255,255,0.9);
+
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  text-shadow: 0 0 6px rgba(0,0,0,0.8);
+}
+
+.point-echo:hover::before {
+  opacity: 1;
 }
 
 /* ----------------------------------------------------
