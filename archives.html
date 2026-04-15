@@ -11,28 +11,35 @@ class: salle-echos
 
   <div class="salle-echos-contenu">
 
-    <!-- Barre de dates (visible dès le début) -->
-    <div class="barre-celeste">
-      <label for="annee">Année</label>
-      <select id="annee"></select>
+    <!-- BLOC DE RECHERCHE GLOBAL (fixé en haut) -->
+    <div class="barre-recherche">
 
-      <label for="mois">Mois</label>
-      <select id="mois"></select>
-    </div>
+      <!-- Année + Mois (toujours visibles) -->
+      <div class="barre-celeste">
+        <label for="annee">Année</label>
+        <select id="annee"></select>
 
-    <!-- Barre de résonances (affichée seulement après choix valide) -->
-    <div class="recherches-echos hidden">
-      <input type="text" placeholder="Chercher une résonance…" class="champ-resonance">
-      <input type="text" placeholder="Appeler un écho…" class="champ-appel">
+        <label for="mois">Mois</label>
+        <select id="mois"></select>
+      </div>
+
+      <!-- Résonnance + Appeler un écho (affichés après filtrage) -->
+      <div class="barre-filtres hidden">
+        <input type="text" placeholder="Chercher une résonance…" class="champ-resonance">
+        <input type="text" placeholder="Appeler un écho…" class="champ-appel">
+      </div>
+
     </div>
 
     <!-- Constellation (points lumineux générés par JS) -->
     <div id="constellation-echos"></div>
 
+    <!-- Message pour les périodes vides -->
+    <div id="message-echos" class="hidden message-echos">
+      Aucun écho n’a encore traversé cette période.
+    </div>
+
   </div>
-<div id="message-echos" class="hidden message-echos">
-  Aucun écho n’a encore traversé cette période.
-</div>
 
 </div>
 
