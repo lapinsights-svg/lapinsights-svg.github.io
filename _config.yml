@@ -3,6 +3,8 @@ description: "Territoire éditorial souverain"
 baseurl: ""
 url: "https://lapinsights-svg.github.io"
 
+  theme: null
+
 markdown: kramdown
 
 excerpt_separator: "<!--NOEXCERPT-->"
@@ -88,5 +90,5 @@ include:
 keep_files:
   - assets_css
 
-  theme: null
+
 
