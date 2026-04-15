@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spiritualité
+title: Spirimental
 description: Cheminer vers l’invisible, écouter ce qui respire derrière le monde.
 rubrique: true
 collection: spiritualite
