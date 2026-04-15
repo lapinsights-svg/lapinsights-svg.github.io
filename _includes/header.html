@@ -22,24 +22,11 @@
     <button onclick="window.location='{{ '/spiritualite/' | relative_url }}'">Spirimental</button>
     <button class="disabled" disabled>Vibrations</button>
 
-    <!-- ARCHIVES — dropdown -->
+    <!-- ARCHIVES — bouton simple vers la Salle des Échos -->
     <div class="menu-archives">
-      <button class="menu-button">Archives</button>
-
-      <div class="menu-archives-dropdown">
-        {% assign sorted_archives = site.archives | sort: "date" | reverse %}
-        {% assign seen_archives = "" %}
-        {% for article in sorted_archives %}
-          {% assign year = article.date | date: "%Y" %}
-          {% assign month = article.date | date: "%B" %}
-          {% assign id = article.date | date: "%Y-%m" %}
-          {% assign label = month | capitalize | append: " " | append: year %}
-          {% unless seen_archives contains id %}
-           <a href="{{ '/archives/#' | append: id | relative_url }}">{{ label }}</a>
-            {% assign seen_archives = seen_archives | append: id | append: "," %}
-          {% endunless %}
-        {% endfor %}
-      </div>
+      <button onclick="window.location='{{ '/archives/' | relative_url }}'" class="menu-button">
+        Archives
+      </button>
     </div>
 
     <div class="menu-passe disabled">
@@ -51,4 +38,3 @@
 
   </nav>
 </header>
-
