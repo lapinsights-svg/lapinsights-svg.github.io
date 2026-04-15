@@ -1,7 +1,9 @@
 title: "Lapinsights"
 description: "Territoire éditorial souverain"
-baseurl: "/lapinsights"
+
+# Ancienne configuration (site principal)
 url: "https://lapinsights-svg.github.io"
+baseurl: ""
 
 theme: null
 
