@@ -18,26 +18,127 @@ class: echos
       <select id="mois"></select>
     </div>
 
-   <div class="barre-filtres hidden">
-  <input type="text" placeholder="Chercher une résonance…" class="champ-resonance" id="champ-resonance">
-  <input type="text" placeholder="Appeler un écho…" class="champ-appel" id="champ-echo">
-
-  <button id="reset-echos" class="btn-reset">Reset</button>
-</div>
+    <div class="barre-filtres hidden">
+      <input type="text" placeholder="Chercher une résonance…" class="champ-resonance" id="champ-resonance">
+      <input type="text" placeholder="Appeler un écho…" class="champ-appel" id="champ-echo">
+      <button id="reset-echos" class="btn-reset">Reset</button>
+    </div>
 
   </div>
 
   <div class="echos-contenu">
-    <div id="constellation-echos"></div>
+
+    <!-- ✦✦✦ SVG COMPLET DES 5 CONSTELLATIONS + LAPIN ✦✦✦ -->
+    <div id="constellation-echos">
+
+      <svg id="fond-constellations"
+           viewBox="0 0 100 100"
+           preserveAspectRatio="none"
+           class="fond-constellations">
+
+        <!-- LAPIN NOIR À GAUCHE -->
+        <image href="/images/lapin-noir.svg"
+               x="2" y="40" width="18" height="20" />
+
+        <!-- ORION — actualites -->
+        <g class="constellation orion">
+          <polyline points="30,30 40,40 50,50 60,50 70,40"
+                    fill="none" stroke="white" stroke-width="0.2" />
+          <circle cx="30" cy="30" r="0.9" class="etoile-fixe"
+                  data-col="actualites" data-index="0" />
+          <circle cx="40" cy="40" r="0.9" class="etoile-fixe"
+                  data-col="actualites" data-index="1" />
+          <circle cx="50" cy="50" r="0.9" class="etoile-fixe"
+                  data-col="actualites" data-index="2" />
+          <circle cx="60" cy="50" r="0.9" class="etoile-fixe"
+                  data-col="actualites" data-index="3" />
+          <circle cx="70" cy="40" r="0.9" class="etoile-fixe"
+                  data-col="actualites" data-index="4" />
+        </g>
+
+        <!-- CASSIOPEIA — creations -->
+        <g class="constellation cassiopeia">
+          <polyline points="30,15 40,25 50,15 60,25 70,15"
+                    fill="none" stroke="white" stroke-width="0.2" />
+          <circle cx="30" cy="15" r="0.9" class="etoile-fixe"
+                  data-col="creations" data-index="0" />
+          <circle cx="40" cy="25" r="0.9" class="etoile-fixe"
+                  data-col="creations" data-index="1" />
+          <circle cx="50" cy="15" r="0.9" class="etoile-fixe"
+                  data-col="creations" data-index="2" />
+          <circle cx="60" cy="25" r="0.9" class="etoile-fixe"
+                  data-col="creations" data-index="3" />
+          <circle cx="70" cy="15" r="0.9" class="etoile-fixe"
+                  data-col="creations" data-index="4" />
+        </g>
+
+        <!-- LEPUS (LIÈVRE) — idees -->
+        <g class="constellation lepus">
+          <polyline points="35,60 45,70 55,65 65,72 58,58"
+                    fill="none" stroke="white" stroke-width="0.2" />
+          <circle cx="35" cy="60" r="0.9" class="etoile-fixe"
+                  data-col="idees" data-index="0" />
+          <circle cx="45" cy="70" r="0.9" class="etoile-fixe"
+                  data-col="idees" data-index="1" />
+          <circle cx="55" cy="65" r="0.9" class="etoile-fixe"
+                  data-col="idees" data-index="2" />
+          <circle cx="65" cy="72" r="0.9" class="etoile-fixe"
+                  data-col="idees" data-index="3" />
+          <circle cx="58" cy="58" r="0.9" class="etoile-fixe"
+                  data-col="idees" data-index="4" />
+        </g>
+
+        <!-- ANDROMEDA — spiritualite -->
+        <g class="constellation andromeda">
+          <polyline points="60,30 68,38 76,46 84,54 92,62"
+                    fill="none" stroke="white" stroke-width="0.2" />
+          <circle cx="60" cy="30" r="0.9" class="etoile-fixe"
+                  data-col="spiritualite" data-index="0" />
+          <circle cx="68" cy="38" r="0.9" class="etoile-fixe"
+                  data-col="spiritualite" data-index="1" />
+          <circle cx="76" cy="46" r="0.9" class="etoile-fixe"
+                  data-col="spiritualite" data-index="2" />
+          <circle cx="84" cy="54" r="0.9" class="etoile-fixe"
+                  data-col="spiritualite" data-index="3" />
+          <circle cx="92" cy="62" r="0.9" class="etoile-fixe"
+                  data-col="spiritualite" data-index="4" />
+        </g>
+
+        <!-- CORONA BOREALIS — passe -->
+        <g class="constellation corona">
+          <polyline points="35,80 40,75 45,72 50,71 55,72 60,75 65,80"
+                    fill="none" stroke="white" stroke-width="0.2" />
+          <circle cx="35" cy="80" r="0.9" class="etoile-fixe"
+                  data-col="passe" data-index="0" />
+          <circle cx="40" cy="75" r="0.9" class="etoile-fixe"
+                  data-col="passe" data-index="1" />
+          <circle cx="45" cy="72" r="0.9" class="etoile-fixe"
+                  data-col="passe" data-index="2" />
+          <circle cx="50" cy="71" r="0.9" class="etoile-fixe"
+                  data-col="passe" data-index="3" />
+          <circle cx="55" cy="72" r="0.9" class="etoile-fixe"
+                  data-col="passe" data-index="4" />
+          <circle cx="60" cy="75" r="0.9" class="etoile-fixe"
+                  data-col="passe" data-index="5" />
+          <circle cx="65" cy="80" r="0.9" class="etoile-fixe"
+                  data-col="passe" data-index="6" />
+        </g>
+
+      </svg>
+
+    </div>
+    <!-- ✦✦✦ FIN DU SVG ✦✦✦ -->
 
     <div id="message-echos" class="hidden message-echos">
       Aucun écho n’a encore traversé cette période.
     </div>
+
   </div>
 
 </div>
 
 {% include sons-echos.html %}
+
 
 <script>
 /* ----------------------------------------------------
