@@ -1,7 +1,7 @@
 title: "Lapinsights"
 description: "Territoire éditorial souverain"
-baseurl: ""
-url: "https://lapinsights-svg.github.io/lapinsights/"
+baseurl: "/lapinsights"
+url: "https://lapinsights-svg.github.io"
 
 theme: null
 
@@ -13,7 +13,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Collections éditoriales
 collections:
   actualites:
     output: true
@@ -31,7 +30,6 @@ collections:
     output: true
     permalink: /passe/:title/
 
-# Layouts par défaut pour les items de chaque collection
 defaults:
   - scope:
       path: ""
@@ -63,23 +61,18 @@ defaults:
     values:
       layout: article
 
-  # Si un jour tu utilises _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: post
 
-# Publication différée
 future: false
 
-# Newsletter (Buttondown)
 newsletter_url: "https://buttondown.email/dig_it"
 
-# Open Graph / Partage
 social_image: "/images/social-default.png"
 
-# Fichiers à inclure
 include:
   - assets_css
   - robots.txt
@@ -89,6 +82,3 @@ include:
 
 keep_files:
   - assets_css
-
-
-
