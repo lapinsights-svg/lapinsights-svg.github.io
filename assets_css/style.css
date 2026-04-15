@@ -115,8 +115,8 @@ body.flex,
 }
 
 .portrait-flottant img {
-  width: 90px;
-  height: 90px;
+  width: 85px;
+  height: 85px;
   border-radius: 50%;
   object-fit: cover;
   border: 2px solid rgba(224, 179, 122, 0.45);
