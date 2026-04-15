@@ -217,8 +217,8 @@ document.addEventListener("DOMContentLoaded", () => {
       point.style.top = Math.random() * 90 + "%";
       point.style.left = Math.random() * 90 + "%";
 
-     point.dataset.slug = echo.slug;
-     point.dataset.title = echo.title;
+      point.dataset.slug = echo.slug;
+      point.dataset.title = echo.title; // AJOUT : nécessaire pour révélation poétique
 
       point.addEventListener("click", () => {
         window.location.href = echo.url;
@@ -245,7 +245,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // ----------------------------------------------------
-  // 10. Recherche
+  // 10. Recherche (ancienne logique sonore)
   // ----------------------------------------------------
 
   function filtrerEchos(terme) {
@@ -274,7 +274,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // ----------------------------------------------------
-  // 11. Connexion aux champs de recherche
+  // 11. Connexion aux champs de recherche (ancienne logique)
   // ----------------------------------------------------
 
   document.querySelector(".champ-resonance")
@@ -283,5 +283,44 @@ document.addEventListener("DOMContentLoaded", () => {
   document.querySelector(".champ-appel")
     .addEventListener("input", e => filtrerEchos(e.target.value));
 
+  // ----------------------------------------------------
+  // 12. AJOUT — Bouton Reset
+  // ----------------------------------------------------
+
+  const boutonReset = document.getElementById("reset-echos");
+
+  boutonReset.addEventListener("click", () => {
+    document.getElementById("champ-resonance").value = "";
+    document.getElementById("champ-echo").value = "";
+
+    document.querySelectorAll(".point-echo").forEach(point => {
+      point.classList.remove("revelation");
+      point.classList.remove("son-actif");
+    });
+  });
+
+  // ----------------------------------------------------
+  // 13. AJOUT — Révélation poétique (Option C)
+  // ----------------------------------------------------
+
+  const champResonance = document.getElementById("champ-resonance");
+
+  champResonance.addEventListener("input", () => {
+    const mot = champResonance.value.trim().toLowerCase();
+
+    document.querySelectorAll(".point-echo").forEach(point => {
+      const titre = point.dataset.title.toLowerCase();
+
+      if (mot === "") {
+        point.classList.remove("revelation");
+      } else if (titre.includes(mot)) {
+        point.classList.add("revelation");
+      } else {
+        point.classList.remove("revelation");
+      }
+    });
+  });
+
 });
 </script>
+
