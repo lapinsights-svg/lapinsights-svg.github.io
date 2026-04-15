@@ -16,40 +16,129 @@ const echos = [
       url: "{{ item.url | relative_url }}",
       slug: "{{ item.slug }}",
       excerpt: "{{ item.excerpt | strip_newlines | escape }}",
-      sound: "/sons/{{ item.slug }}.mp3"
+      sound: "/sons/{{ item.slug }}.mp3",
+      date: "{{ item.date | date: '%Y-%m-%d' }}",
+      collection: "{{ item.collection }}"
     },
   {% endfor %}
 ];
 
-// 2. Conteneur de la constellation
+// 2. Conteneurs
 const constellation = document.getElementById("constellation-echos");
+const barreResonances = document.querySelector(".recherches-echos");
 
-// 3. Génération des points lumineux
-echos.forEach((echo, index) => {
-  const point = document.createElement("div");
-  point.classList.add("point-echo");
+// 3. Fonctions utilitaires
+function cacher(selector) {
+  document.querySelector(selector).classList.add("hidden");
+}
 
-  // Position aléatoire dans la salle
-  point.style.top = Math.random() * 90 + "%";
-  point.style.left = Math.random() * 90 + "%";
+function montrer(selector) {
+  document.querySelector(selector).classList.remove("hidden");
+}
 
-  // Identifiant interne
-  point.dataset.slug = echo.slug;
+function viderConstellation() {
+  constellation.innerHTML = "";
+}
 
-  // Clic → aller vers l’article
-  point.addEventListener("click", () => {
-    window.location.href = echo.url;
+// 4. État initial
+cacher(".recherches-echos");
+viderConstellation();
+
+// ----------------------------------------------------
+// 5. FILTRAGE TEMPOREL
+// ----------------------------------------------------
+
+// Vérifie si un article a plus de 3 mois
+function estEligibleTroisMois(dateStr) {
+  const dateArticle = new Date(dateStr);
+  const maintenant = new Date();
+
+  const diffMs = maintenant - dateArticle;
+  const diffMois = diffMs / (1000 * 60 * 60 * 24 * 30);
+
+  return diffMois >= 3;
+}
+
+// Filtre par année + mois + règle des 3 mois
+function filtrerParDate(annee, mois) {
+  return echos.filter(echo => {
+    if (!estEligibleTroisMois(echo.date)) return false;
+
+    const d = new Date(echo.date);
+    const echoAnnee = d.getFullYear();
+    const echoMois = d.getMonth() + 1; // 0 → janvier
+
+    return echoAnnee == annee && echoMois == mois;
   });
+}
 
-  // Survol → jouer le son
-  point.addEventListener("mouseenter", () => {
-    jouerSon(echo.slug);
-  });
+// ----------------------------------------------------
+// 6. Écoute des changements Année/Mois
+// ----------------------------------------------------
 
-  constellation.appendChild(point);
+function onChangeAnneeOuMois(callback) {
+  const annee = document.getElementById("annee");
+  const mois = document.getElementById("mois");
+
+  annee.addEventListener("change", callback);
+  mois.addEventListener("change", callback);
+}
+
+onChangeAnneeOuMois(() => {
+  const anneeChoisie = document.getElementById("annee").value;
+  const moisChoisi = document.getElementById("mois").value;
+
+  // Si l’un des deux n’est pas choisi → on ne fait rien
+  if (!anneeChoisie || !moisChoisi) {
+    viderConstellation();
+    cacher(".recherches-echos");
+    return;
+  }
+
+  const articlesFiltres = filtrerParDate(anneeChoisie, moisChoisi);
+
+  if (articlesFiltres.length > 0) {
+    afficherConstellation(articlesFiltres);
+    montrer(".recherches-echos");
+  } else {
+    viderConstellation();
+    cacher(".recherches-echos");
+  }
 });
 
-// 4. Fonction pour jouer un son
+// ----------------------------------------------------
+// 7. Affichage de la constellation (temporaire)
+// ----------------------------------------------------
+
+function afficherConstellation(liste) {
+  viderConstellation();
+
+  liste.forEach(echo => {
+    const point = document.createElement("div");
+    point.classList.add("point-echo");
+
+    // Position aléatoire (sera remplacée par les constellations)
+    point.style.top = Math.random() * 90 + "%";
+    point.style.left = Math.random() * 90 + "%";
+
+    point.dataset.slug = echo.slug;
+
+    point.addEventListener("click", () => {
+      window.location.href = echo.url;
+    });
+
+    point.addEventListener("mouseenter", () => {
+      jouerSon(echo.slug);
+    });
+
+    constellation.appendChild(point);
+  });
+}
+
+// ----------------------------------------------------
+// 8. Sons
+// ----------------------------------------------------
+
 function jouerSon(slug) {
   const audio = document.getElementById("son-" + slug);
   if (audio) {
@@ -58,7 +147,10 @@ function jouerSon(slug) {
   }
 }
 
-// 5. Recherche : activer les points correspondants
+// ----------------------------------------------------
+// 9. Recherche
+// ----------------------------------------------------
+
 function filtrerEchos(terme) {
   const points = document.querySelectorAll(".point-echo");
 
@@ -84,7 +176,10 @@ function filtrerEchos(terme) {
   });
 }
 
-// 6. Connexion aux champs de recherche
+// ----------------------------------------------------
+// 10. Connexion aux champs de recherche
+// ----------------------------------------------------
+
 const champResonance = document.querySelector(".champ-resonance");
 const champAppel = document.querySelector(".champ-appel");
 
