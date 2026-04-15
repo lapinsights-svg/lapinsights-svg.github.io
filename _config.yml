@@ -1,9 +1,9 @@
 title: "Lapinsights"
 description: "Territoire éditorial souverain"
 baseurl: ""
-url: "https://lapinsights-svg.github.io"
+url: "https://lapinsights-svg.github.io/lapinsights/"
 
-  theme: null
+theme: null
 
 markdown: kramdown
 
