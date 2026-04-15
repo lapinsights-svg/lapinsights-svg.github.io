@@ -55,16 +55,18 @@ main {
   padding-right: 2rem;
   text-align: left;
 }
-/* ----------------------------------------------------
-   HEADER — DESKTOP (fixe)
----------------------------------------------------- */
 
+---------------------------------------------------- */
+/* ----------------------------------------------------
+   HEADER — FIXE, TOUJOURS VISIBLE
+---------------------------------------------------- */
 .site-header {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 90px;
+
   z-index: 999;
 
   display: flex;
@@ -80,15 +82,17 @@ main {
   color: var(--fond);
   overflow: visible;
 
-  transition: transform 0.25s ease;
+  /* On supprime l’animation de glissement */
+  transform: none !important;
+  transition: none !important;
 }
 
-/* Header masqué (scroll down) */
+/* Désactivation complète du masquage au scroll */
 header.header-hidden {
-  transform: translateY(-100%);
+  transform: none !important;
 }
 
-/* Espace sous le header */
+/* Espace sous le header pour éviter que le contenu passe dessous */
 body.flex,
 .contenu-scroll {
   padding-top: 90px;
