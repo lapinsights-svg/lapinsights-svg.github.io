@@ -248,6 +248,16 @@ document.addEventListener("DOMContentLoaded", () => {
   const sonMedium = new Audio("assets/sons/lap_medium.wav");
   const sonAigu = new Audio("assets/sons/lap_aigu.wav");
 
+  // Débloquer l'audio au premier clic utilisateur
+document.addEventListener("click", () => {
+  [sonGrave, sonMedium, sonAigu].forEach(son => {
+    son.play().catch(() => {});
+    son.pause();
+    son.currentTime = 0;
+  });
+  document.removeEventListener("click", arguments.callee);
+});
+
   function jouerGrave() {
     sonGrave.currentTime = 0;
     sonGrave.play();
