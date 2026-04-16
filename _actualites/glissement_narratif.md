@@ -36,3 +36,7 @@ De vulnérabilité énergétique, pas de discipline imposée.
 Dans le vacarme des récits anxiogènes, il reste essentiel de revenir au texte, au contexte, au factuel.  
 Là où la peur cherche à s’installer, la clarté reprend sa place.  
 Et le paysage retrouve sa respiration
+
+---
+
+© Céleste R. — CC BY-NC-ND
