@@ -1469,6 +1469,36 @@ body.echos {
   z-index: 0;
 }
 
+/* Titres latéraux */
+.titre-echos,
+.titre-archives {
+  color: var(--texte);
+  font-size: 0.85rem;
+  font-weight: 300;
+  opacity: 0.85;
+  white-space: nowrap;
+}
+
+/* ----------------------------------------------------
+  ALIGNEMENT DES TITRES
+---------------------------------------------------- */
+/* Alignement horizontal */
+.barre-filtres {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8rem;
+}
+
+/* Décalages subtils pour correspondre à ta capture */
+.titre-echos {
+  margin-right: 2rem;
+}
+
+.titre-archives {
+  margin-left: 2rem;
+}
+
 /* ----------------------------------------------------
   BOUTON DE RESET POUR LA RECHERCHE
 ---------------------------------------------------- */
