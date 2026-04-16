@@ -1513,8 +1513,8 @@ body.echos {
 
 /* Taille plus subtile des étoiles sur PC */
 .etoile {
-  width: 1.5px;
-  height: 1.5px;
+  width: 1.5px; !important;
+  height: 1.5px; !important;
 }
 
 /* Adaptation mobile (GSM) */
@@ -1522,25 +1522,25 @@ body.echos {
 
   /* Étoiles encore plus fines pour éviter l’effet “gros points” */
   .etoile {
-    width: 1px;
-    height: 1px;
+    width: 1px; !important;
+    height: 1px; !important;
   }
 
   /* Ciel plus compact + recentrage pour garder le lapin visible */
   #constellation-echos {
-    height: 500px;
-    background-position: left center;
+    height: 500px; !important;
+    background-position: left center; !important;
   }
 
   /* Barre de recherche plus légère */
   .barre-recherche {
-    padding: 0.5rem;
+    padding: 0.5rem; !important;
   }
 
   /* Champ de recherche adapté au petit écran */
   #champ-recherche {
-    width: 80%;
-    font-size: 0.9rem;
+    width: 80%; !important;
+    font-size: 0.9rem; !important;
   }
 }
 
