@@ -1505,5 +1505,44 @@ body.echos {
   display: none;
 }
 
+/* --------------------------------------------------------------
+   Ajustements visuels complémentaires
+   — étoiles plus fines + adaptation mobile du ciel et de la barre
+   — ne modifie pas le système existant, le complète seulement
+   -------------------------------------------------------------- */
+
+/* Taille plus subtile des étoiles sur PC */
+.etoile {
+  width: 1.5px;
+  height: 1.5px;
+}
+
+/* Adaptation mobile (GSM) */
+@media (max-width: 600px) {
+
+  /* Étoiles encore plus fines pour éviter l’effet “gros points” */
+  .etoile {
+    width: 1px;
+    height: 1px;
+  }
+
+  /* Ciel plus compact + recentrage pour garder le lapin visible */
+  #constellation-echos {
+    height: 500px;
+    background-position: left center;
+  }
+
+  /* Barre de recherche plus légère */
+  .barre-recherche {
+    padding: 0.5rem;
+  }
+
+  /* Champ de recherche adapté au petit écran */
+  #champ-recherche {
+    width: 80%;
+    font-size: 0.9rem;
+  }
+}
+
 
 
