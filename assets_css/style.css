@@ -1508,5 +1508,54 @@ body.echos {
   display: none;
 }
 
+/* --------------------------------------------------------------
+   AJUSTEMENTS GSM — Points-Échos miniatures
+   Base : 2px — Pulsation : 3px — Survol : 4px — Son actif : 5px
+   Halo + onde recalibrés pour correspondre aux tailles réduites
+-------------------------------------------------------------- */
+
+@media (max-width: 600px) {
+
+  /* Taille de base : 2px */
+  .point-echo {
+    width: 2px;
+    height: 2px;
+
+    /* Halo adapté à 2px */
+    box-shadow:
+      0 0 3px rgba(255, 255, 255, 0.9),
+      0 0 6px rgba(255, 255, 255, 0.5);
+  }
+
+  /* Pulsation : 2px → 3px (scale 1.5) */
+  @keyframes pulse-echo {
+    0%   { transform: scale(1);   opacity: 0.85; } /* 2px */
+    50%  { transform: scale(1.5); opacity: 1;    } /* 3px */
+    100% { transform: scale(1);   opacity: 0.85; }
+  }
+
+  /* Onde recalibrée : 2px */
+  .point-echo::after {
+    width: 2px;
+    height: 2px;
+  }
+
+  /* Survol : 4px (scale 2) */
+  .point-echo:hover {
+    transform: scale(2); /* 2px → 4px */
+    box-shadow:
+      0 0 6px rgba(255, 255, 255, 1),
+      0 0 10px rgba(255, 255, 255, 0.8);
+  }
+
+  /* Son actif : 5px (scale 2.5) */
+  .point-echo.son-actif {
+    transform: scale(2.5); /* 2px → 5px */
+    box-shadow:
+      0 0 8px rgba(255, 255, 255, 1),
+      0 0 12px rgba(255, 255, 255, 0.9);
+  }
+}
+
 
 
