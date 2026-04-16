@@ -97,10 +97,15 @@
   <script async src="https://www.statcounter.com/counter/counter.js"></script>
   <noscript><div class="statcounter"></div></noscript>
 
-  <script>
+<script>
   const hour = new Date().getHours();
   const fond = hour < 12 ? 'brume2.png' : 'brume.png';
-  document.body.style.backgroundImage = `url('/images/${fond}')`;
+  const body = document.body;
+
+  // ✅ N'applique le fond global que si la page n'est PAS "presentation-terrier"
+  if (!body.classList.contains('presentation-terrier')) {
+    body.style.backgroundImage = `url('/images/${fond}')`;
+  }
 </script>
 
 </body>
