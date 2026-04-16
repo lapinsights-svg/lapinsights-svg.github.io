@@ -19,21 +19,28 @@ class: echos
     </div>
 
     <!-- BARRE RÉSONANCE / ÉCHO — visible dans la Salle des Échos -->
-    <div class="barre-filtres">
-      <input type="text" placeholder="Chercher une résonance…" class="champ-resonance" id="champ-resonance">
-      <input type="text" placeholder="Appeler un écho…" class="champ-appel" id="champ-echo">
-      <button id="reset-echos" class="btn-reset">Reset</button>
-    </div>
+<div class="barre-filtres">
 
+  <div class="titre-echos">Salle des Échos</div>
+
+  <input type="text" placeholder="Chercher une résonance…" class="champ-resonance" id="champ-resonance">
+  <input type="text" placeholder="Appeler un écho…" class="champ-appel" id="champ-echo">
+
+  <button id="reset-echos" class="btn-reset">Reset</button>
+
+  <div class="titre-archives">Archives</div>
+
+</div>
+
+</div>
+
+<div class="echos-contenu">
+  <div id="constellation-echos"></div>
+
+  <div id="message-echos" class="hidden message-echos">
+    Aucun écho n’a encore traversé cette période.
   </div>
-
-  <div class="echos-contenu">
-    <div id="constellation-echos"></div>
-
-    <div id="message-echos" class="hidden message-echos">
-      Aucun écho n’a encore traversé cette période.
-    </div>
-  </div>
+</div>
 
 </div>
 
