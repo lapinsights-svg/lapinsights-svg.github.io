@@ -280,8 +280,6 @@ document.addEventListener("DOMContentLoaded", () => {
    11. Révélation poétique — Champ Résonance
 ---------------------------------------------------- */
 
-const champResonance = document.getElementById("champ-resonance");
-
 champResonance.addEventListener("input", () => {
   const mot = champResonance.value.trim().toLowerCase();
 
@@ -289,31 +287,26 @@ champResonance.addEventListener("input", () => {
     const titre = point.dataset.title.toLowerCase();
 
     if (mot === "") {
-      point.classList.remove("revelation");
+      return; // ne jamais retirer la révélation
+    }
 
-    } else if (titre.includes(mot)) {
-
+    if (titre.includes(mot)) {
       const etaitDejaRevele = point.classList.contains("revelation");
 
-      // 1. Si le point correspond au mot → résonance + scintillement
       if (!etaitDejaRevele) {
-        jouerGrave();   // résonance profonde
-        jouerAigu();    // scintillement du point
+        jouerGrave();
+        jouerAigu();
       }
 
       point.classList.add("revelation");
-
-    } else {
-      point.classList.remove("revelation");
     }
   });
 });
 
+
   /* ----------------------------------------------------
    12. Révélation poétique — Champ Appel d’écho
 ---------------------------------------------------- */
-
-const champEcho = document.getElementById("champ-echo");
 
 champEcho.addEventListener("input", () => {
   const mot = champEcho.value.trim().toLowerCase();
@@ -322,26 +315,21 @@ champEcho.addEventListener("input", () => {
     const titre = point.dataset.title.toLowerCase();
 
     if (mot === "") {
-      point.classList.remove("revelation");
+      return; // ne jamais retirer la révélation
+    }
 
-    } else if (titre.includes(mot)) {
-
+    if (titre.includes(mot)) {
       const etaitDejaRevele = point.classList.contains("revelation");
 
-      // 1. Si le point correspond au mot → résonance + scintillement
       if (!etaitDejaRevele) {
-        jouerGrave();   // résonance profonde
-        jouerAigu();    // scintillement du point
+        jouerGrave();
+        jouerAigu();
       }
 
       point.classList.add("revelation");
-
-    } else {
-      point.classList.remove("revelation");
     }
   });
 });
-
 
 }); // ← FIN DU DOMContentLoaded
 </script>
