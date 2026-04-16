@@ -244,34 +244,28 @@ document.addEventListener("DOMContentLoaded", () => {
      9. Sons
   ---------------------------------------------------- */
 
-  const sonGrave = new Audio("assets/sons/lap_grave.wav");
-  const sonMedium = new Audio("assets/sons/lap_medium.wav");
-  const sonAigu = new Audio("assets/sons/lap_aigu.wav");
+// On récupère les <audio> déjà présents dans le HTML
+const sonGrave  = document.getElementById("son-grave");
+const sonMedium = document.getElementById("son-medium");
+const sonAigu   = document.getElementById("son-aigu");
 
-  // Débloquer l'audio au premier clic utilisateur
-document.addEventListener("click", () => {
-  [sonGrave, sonMedium, sonAigu].forEach(son => {
-    son.play().catch(() => {});
-    son.pause();
-    son.currentTime = 0;
-  });
-  document.removeEventListener("click", arguments.callee);
-});
+function jouerGrave() {
+  if (!sonGrave) return;
+  sonGrave.currentTime = 0;
+  sonGrave.play();
+}
 
-  function jouerGrave() {
-    sonGrave.currentTime = 0;
-    sonGrave.play();
-  }
+function jouerMedium() {
+  if (!sonMedium) return;
+  sonMedium.currentTime = 0;
+  sonMedium.play();
+}
 
-  function jouerMedium() {
-    sonMedium.currentTime = 0;
-    sonMedium.play();
-  }
-
-  function jouerAigu() {
-    sonAigu.currentTime = 0;
-    sonAigu.play();
-  }
+function jouerAigu() {
+  if (!sonAigu) return;
+  sonAigu.currentTime = 0;
+  sonAigu.play();
+}
 
   /* ----------------------------------------------------
      10. Bouton Reset (normal)
