@@ -11,28 +11,40 @@ class: echos
   <div class="barre-recherche">
 
     <div class="barre-celeste">
-      <label for="annee">Année</label>
-      <select id="annee"></select>
 
-      <label for="mois">Mois</label>
-      <select id="mois"></select>
+      <div class="titre-echos">Salle des Échos</div>
+
+      <div class="bloc-date">
+        <label for="annee">Année</label>
+        <select id="annee"></select>
+
+        <label for="mois">Mois</label>
+        <select id="mois"></select>
+      </div>
+
+      <div class="titre-archives">Archives</div>
+
     </div>
 
-    <!-- BARRE RÉSONANCE / ÉCHO — visible dans la Salle des Échos -->
-<div class="barre-filtres">
+    <!-- BARRE RÉSONANCE / ÉCHO — visible après sélection -->
+    <div class="barre-filtres">
+      <input type="text" placeholder="Chercher une résonance…" class="champ-resonance" id="champ-resonance">
+      <input type="text" placeholder="Appeler un écho…" class="champ-appel" id="champ-echo">
+      <button id="reset-echos" class="btn-reset">Reset</button>
+    </div>
 
-  <div class="titre-echos">Salle des Échos</div>
+  </div>
 
-  <input type="text" placeholder="Chercher une résonance…" class="champ-resonance" id="champ-resonance">
-  <input type="text" placeholder="Appeler un écho…" class="champ-appel" id="champ-echo">
+  <div class="echos-contenu">
+    <div id="constellation-echos"></div>
 
-  <button id="reset-echos" class="btn-reset">Reset</button>
-
-  <div class="titre-archives">Archives</div>
+    <div id="message-echos" class="hidden message-echos">
+      Aucun écho n’a encore traversé cette période.
+    </div>
+  </div>
 
 </div>
 
-</div>
 
 <div class="echos-contenu">
   <div id="constellation-echos"></div>
