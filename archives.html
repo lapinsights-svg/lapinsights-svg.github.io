@@ -236,45 +236,45 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /* ----------------------------------------------------
-     9. Sons
-  ---------------------------------------------------- */
+   9. Sons
+---------------------------------------------------- */
 
-  const sonGrave  = document.getElementById("son-grave");
-  const sonMedium = document.getElementById("son-medium");
-  const sonAigu   = document.getElementById("son-aigu");
+const sonGrave  = document.getElementById("son-grave");
+const sonMedium = document.getElementById("son-medium");
+const sonAigu   = document.getElementById("son-aigu");
 
-  function jouerGrave() {
-    if (!sonGrave) return;
-    sonGrave.currentTime = 0;
-    sonGrave.play();
-  }
+function jouerGrave() {
+  if (!sonGrave) return;
+  sonGrave.currentTime = 0;
+  sonGrave.play();
+}
 
-  function jouerMedium() {
-    if (!sonMedium) return;
-    sonMedium.currentTime = 0;
-    sonMedium.play();
-  }
+function jouerMedium() {
+  if (!sonMedium) return;
+  sonMedium.currentTime = 0;
+  sonMedium.play();
+}
 
-  function jouerAigu() {
-    if (!sonAigu) return;
-    sonAigu.currentTime = 0;
-    sonAigu.play();
-  }
+function jouerAigu() {
+  if (!sonAigu) return;
+  sonAigu.currentTime = 0;
+  sonAigu.play();
+}
 
-  /* ----------------------------------------------------
-     10. Bouton Reset
-  ---------------------------------------------------- */
+/* ----------------------------------------------------
+   10. Bouton Reset
+---------------------------------------------------- */
 
-  const boutonReset = document.getElementById("reset-echos");
+const boutonReset = document.getElementById("reset-echos");
 
-  boutonReset.addEventListener("click", () => {
-    document.getElementById("champ-resonance").value = "";
-    document.getElementById("champ-echo").value = "";
+boutonReset.addEventListener("click", () => {
+  document.getElementById("champ-resonance").value = "";
+  document.getElementById("champ-echo").value = "";
 
-    document.querySelectorAll(".point-echo").forEach(point => {
-      point.classList.remove("revelation");
-    });
+  document.querySelectorAll(".point-echo").forEach(point => {
+    point.classList.remove("revelation");
   });
+});
 
 /* ----------------------------------------------------
    11. Révélation poétique — Champ Résonance
@@ -287,24 +287,27 @@ champResonance.addEventListener("input", () => {
     const titre = point.dataset.title.toLowerCase();
 
     if (mot === "") {
-      return; // ne jamais retirer la révélation
+      point.classList.remove("revelation");
+      return;
     }
 
     if (titre.includes(mot)) {
       const etaitDejaRevele = point.classList.contains("revelation");
 
       if (!etaitDejaRevele) {
-        jouerGrave();
-        jouerAigu();
+        jouerGrave();   // résonance profonde
+        jouerAigu();    // scintillement du point
       }
 
       point.classList.add("revelation");
+
+    } else {
+      point.classList.remove("revelation");
     }
   });
 });
 
-
-  /* ----------------------------------------------------
+/* ----------------------------------------------------
    12. Révélation poétique — Champ Appel d’écho
 ---------------------------------------------------- */
 
@@ -315,23 +318,28 @@ champEcho.addEventListener("input", () => {
     const titre = point.dataset.title.toLowerCase();
 
     if (mot === "") {
-      return; // ne jamais retirer la révélation
+      point.classList.remove("revelation");
+      return;
     }
 
     if (titre.includes(mot)) {
       const etaitDejaRevele = point.classList.contains("revelation");
 
       if (!etaitDejaRevele) {
-        jouerGrave();
-        jouerAigu();
+        jouerGrave();   // résonance profonde
+        jouerAigu();    // scintillement du point
       }
 
       point.classList.add("revelation");
+
+    } else {
+      point.classList.remove("revelation");
     }
   });
 });
 
-}); // ← FIN DU DOMContentLoaded
+  }); // ← FIN DU DOMContentLoaded
 </script>
 
 {% include sons-echos.html %}
+
