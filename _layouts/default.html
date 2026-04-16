@@ -8,20 +8,19 @@
 
 <body class="{{ page.class }}">
 
-  <header class="site-header">
-    {% include header.html %}
-  </header>
-  {%- endunless -%}
-
   {%- unless page.class == "echos" -%}
-  <header class="mobile-header">
-    <div class="mobile-header-top">
-      <img src="/images/celeste.png" alt="Portrait" class="portrait-mobile">
-      <h1>
-        <a href="/" class="mobile-title-link">LAPINSIGHTS</a>
-      </h1>
-    </div>
+    <header class="site-header">
+      {% include header.html %}
+    </header>
 
+    <header class="mobile-header">
+      <div class="mobile-header-top">
+        <img src="/images/celeste.png" alt="Portrait" class="portrait-mobile">
+        <h1>
+          <a href="/" class="mobile-title-link">LAPINSIGHTS</a>
+        </h1>
+      </div>
+      
     <nav class="menu-mobile">
       <a href="/actualites">Actualités</a>
       <a href="/creations">Créations</a>
