@@ -917,7 +917,7 @@ textarea {
 }
 
 /* ----------------------------------------------------
-   DÉSACTIVATION VISUELLE ET FONCTIONNELLE DE LA PAGE ARCHIVES
+   DÉSACTIVATION VISUELLE ET FONCTIONNELLE DE LA PAGE PASSE
 ---------------------------------------------------- */
 
 .menu-passe {
@@ -1596,6 +1596,28 @@ body.echos {
       0 0 8px rgba(255, 255, 255, 1),
       0 0 12px rgba(255, 255, 255, 0.9);
   }
+}
+
+/* ----------------------------------------------------
+   Centrage parfait du champ Écho dans la barre
+---------------------------------------------------- */
+
+.barre-filtres {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 0;
+}
+
+#champ-echo {
+  text-align: center;
+  width: 280px;
+  max-width: 60%;
+}
+
+#reset-echos {
+  cursor: pointer;
 }
 
 
