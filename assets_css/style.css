@@ -1016,7 +1016,7 @@ textarea {
 
 /* Fond spécifique Terrier */
 body.presentation-terrier {
-  background-image: url('/images/fond-terrier-basalte.png');
+  background-image: url('/images/fond_basalte_bleu.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
