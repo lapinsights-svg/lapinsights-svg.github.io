@@ -64,14 +64,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
     {% for item in echos %}
       {
-  title: "{{ item.title | strip_newlines | escape }}",
-  resume: "{{ item.resume | strip_newlines | escape }}",
-  search: "{{ item.title | strip_newlines | escape }} {{ item.resume | strip_newlines | escape }}",
-  url: "{{ item.url | relative_url }}",
-  slug: "{{ item.slug }}",
-  date: "{{ item.date | date: '%Y-%m-%d' }}",
-  collection: "{{ item.collection }}"
-},
+        title: "{{ item.title | strip_newlines | escape }}",
+        resume: "{{ item.resume | strip_newlines | escape }}",
+        search: "{{ item.title | strip_newlines | escape }} {{ item.resume | strip_newlines | escape }}",
+        url: "{{ item.url | relative_url }}",
+        slug: "{{ item.slug }}",
+        date: "{{ item.date | date: '%Y-%m-%d' }}",
+        collection: "{{ item.collection }}"
+      },
     {% endfor %}
   ];
 
@@ -83,7 +83,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const messageEchos = document.getElementById("message-echos");
   const champEcho = document.getElementById("champ-echo");
   const boutonReset = document.getElementById("reset-echos");
-  const compteur = document.getElementById("compteur-echo"); // peut être null
 
   /* ----------------------------------------------------
      3. Utilitaires
@@ -245,9 +244,10 @@ document.addEventListener("DOMContentLoaded", () => {
       point.style.top = (minTop + Math.random() * (maxTop - minTop)) + "%";
       point.style.left = Math.random() * 90 + "%";
 
-      point.dataset.slug = echo.slug;
-      point.dataset.title = "{{ item.title | escape }}";
-
+      // Données propres
+      point.dataset.title = echo.title;
+      point.dataset.resume = echo.resume;
+      point.dataset.search = echo.search;
 
       point.addEventListener("click", () => {
         window.location.href = echo.url;
@@ -283,7 +283,6 @@ document.addEventListener("DOMContentLoaded", () => {
   if (boutonReset) {
     boutonReset.addEventListener("click", () => {
       if (champEcho) champEcho.value = "";
-      if (compteur) compteur.classList.remove("ok");
 
       document.querySelectorAll(".point-echo").forEach(point => {
         point.classList.remove("revelation");
@@ -298,15 +297,6 @@ document.addEventListener("DOMContentLoaded", () => {
   if (champEcho) {
     champEcho.addEventListener("input", () => {
       const mot = nettoyer(champEcho.value);
-
-      // Compteur (optionnel)
-      if (compteur) {
-        if (mot.length < 3) {
-          compteur.classList.remove("ok");
-        } else {
-          compteur.classList.add("ok");
-        }
-      }
 
       if (mot.length < 3) {
         document.querySelectorAll(".point-echo").forEach(point => {
@@ -323,9 +313,9 @@ document.addEventListener("DOMContentLoaded", () => {
       }
 
       document.querySelectorAll(".point-echo").forEach(point => {
-        const titre = nettoyer(point.dataset.title);
+        const champRecherche = nettoyer(point.dataset.search);
 
-        if (titre.includes(mot)) {
+        if (champRecherche.includes(mot)) {
           const etaitDejaRevele = point.classList.contains("revelation");
           if (!etaitDejaRevele) jouerAigu();
           point.classList.add("revelation");
@@ -336,6 +326,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
 }); // FIN DOMContentLoaded
 </script>
-
 
 {% include sons-echos.html %}
