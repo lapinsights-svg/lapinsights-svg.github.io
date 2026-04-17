@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     {% for item in echos %}
       {
-        title: "{{ item.title | escape }}",
+        title: "{{ item.title }}",
         url: "{{ item.url | relative_url }}",
         slug: "{{ item.slug }}",
         excerpt: "{{ item.excerpt | strip_newlines | escape }}",
@@ -82,10 +82,10 @@ document.addEventListener("DOMContentLoaded", () => {
   const messageEchos = document.getElementById("message-echos");
   const champEcho = document.getElementById("champ-echo");
   const boutonReset = document.getElementById("reset-echos");
-  const compteur = document.getElementById("compteur-echo");
+  const compteur = document.getElementById("compteur-echo"); // peut être null
 
   /* ----------------------------------------------------
-     3. Fonctions utilitaires
+     3. Utilitaires
   ---------------------------------------------------- */
 
   function cacher(selector) {
@@ -103,18 +103,17 @@ document.addEventListener("DOMContentLoaded", () => {
     constellation.classList.remove("visible");
   }
 
-  // Nettoyage complet des titres (accents, HTML, espaces, caractères invisibles)
   function nettoyer(str) {
-    return str
+    return String(str || "")
       .normalize("NFD")
-      .replace(/[\u0300-\u036f]/g, "")        // accents
-      .replace(/&nbsp;/g, " ")                // espaces insécables
-      .replace(/&#39;|&apos;/g, "'")          // apostrophes HTML
-      .replace(/&quot;/g, '"')                // guillemets HTML
-      .replace(/[’‘]/g, "'")                  // apostrophes typographiques
-      .replace(/[“”]/g, '"')                  // guillemets typographiques
-      .replace(/[\u200B-\u200D\uFEFF]/g, "")  // caractères invisibles
-      .replace(/\s+/g, " ")                   // espaces multiples
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/&nbsp;/g, " ")
+      .replace(/&#39;|&apos;/g, "'")
+      .replace(/&quot;/g, '"')
+      .replace(/[’‘]/g, "'")
+      .replace(/[“”]/g, '"')
+      .replace(/[\u200B-\u200D\uFEFF]/g, "")
+      .replace(/\s+/g, " ")
       .trim()
       .toLowerCase();
   }
@@ -185,7 +184,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /* ----------------------------------------------------
-     7. Réaction aux changements Année / Mois
+     7. Réaction Année / Mois
   ---------------------------------------------------- */
 
   function onChangeAnneeOuMois(callback) {
@@ -229,7 +228,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   /* ----------------------------------------------------
-     8. Affichage de la constellation
+     8. Constellation
   ---------------------------------------------------- */
 
   function afficherConstellation(liste) {
@@ -239,7 +238,6 @@ document.addEventListener("DOMContentLoaded", () => {
       const point = document.createElement("div");
       point.classList.add("point-echo");
 
-      // Zone haute interdite
       const minTop = 15;
       const maxTop = 90;
 
@@ -277,61 +275,65 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /* ----------------------------------------------------
-     10. Bouton Reset
+     10. Reset
   ---------------------------------------------------- */
 
-  boutonReset.addEventListener("click", () => {
-    champEcho.value = "";
-    compteur.classList.remove("ok");
+  if (boutonReset) {
+    boutonReset.addEventListener("click", () => {
+      if (champEcho) champEcho.value = "";
+      if (compteur) compteur.classList.remove("ok");
 
-    document.querySelectorAll(".point-echo").forEach(point => {
-      point.classList.remove("revelation");
-    });
-  });
-
-  /* ----------------------------------------------------
-     11. Révélation poétique — seuil 3 lettres
-  ---------------------------------------------------- */
-
-  champEcho.addEventListener("input", () => {
-    const mot = nettoyer(champEcho.value);
-
-    // Compteur
-    if (mot.length < 3) {
-      compteur.classList.remove("ok");
-    } else {
-      compteur.classList.add("ok");
-    }
-
-    // Effacement si < 3 lettres
-    if (mot.length < 3) {
       document.querySelectorAll(".point-echo").forEach(point => {
         point.classList.remove("revelation");
       });
-      return;
-    }
-
-    // Pré‑résonance
-    if (mot.length === 3) {
-      document.querySelectorAll(".point-echo").forEach(point => {
-        point.classList.add("pre-resonance");
-        setTimeout(() => point.classList.remove("pre-resonance"), 600);
-      });
-    }
-
-    // Révélation
-    document.querySelectorAll(".point-echo").forEach(point => {
-      const titre = nettoyer(point.dataset.title);
-
-      if (titre.includes(mot)) {
-        const etaitDejaRevele = point.classList.contains("revelation");
-        if (!etaitDejaRevele) jouerAigu();
-        point.classList.add("revelation");
-      }
     });
-  });
+  }
+
+  /* ----------------------------------------------------
+     11. Révélation poétique
+  ---------------------------------------------------- */
+
+  if (champEcho) {
+    champEcho.addEventListener("input", () => {
+      const mot = nettoyer(champEcho.value);
+
+      // Compteur (optionnel)
+      if (compteur) {
+        if (mot.length < 3) {
+          compteur.classList.remove("ok");
+        } else {
+          compteur.classList.add("ok");
+        }
+      }
+
+      if (mot.length < 3) {
+        document.querySelectorAll(".point-echo").forEach(point => {
+          point.classList.remove("revelation");
+        });
+        return;
+      }
+
+      if (mot.length === 3) {
+        document.querySelectorAll(".point-echo").forEach(point => {
+          point.classList.add("pre-resonance");
+          setTimeout(() => point.classList.remove("pre-resonance"), 600);
+        });
+      }
+
+      document.querySelectorAll(".point-echo").forEach(point => {
+        const titre = nettoyer(point.dataset.title);
+
+        if (titre.includes(mot)) {
+          const etaitDejaRevele = point.classList.contains("revelation");
+          if (!etaitDejaRevele) jouerAigu();
+          point.classList.add("revelation");
+        }
+      });
+    });
+  }
 
 }); // FIN DOMContentLoaded
 </script>
+
 
 {% include sons-echos.html %}
