@@ -1477,4 +1477,25 @@ header.header-hidden {
 }
 
 
+/* ----------------------------------------------------
+Lapin retour salle echo
+---------------------------------------------------- */
+.lapin-retour {
+  position: absolute;
+  left: 1.2rem;
+  top: 0.4rem;
+  z-index: 10;
+}
+
+.icone-lapin {
+  width: 42px;
+  height: auto;
+  opacity: 0.9;
+  transition: opacity 0.3s ease;
+}
+
+.icone-lapin:hover {
+  opacity: 1;
+}
+
 
