@@ -46,8 +46,7 @@ celle d’un retour à un régime parlementaire cohérent.
 
 Cette idée n’est plus marginale.  
 Elle circule dans les milieux académiques, dans les analyses institutionnelles, dans les travaux des constitutionnalistes.  
-Le professeur Olivier Beaud défend explicitement la nécessité de sortir du présidentialisme :  
-[https://www.u-paris2.fr/portraits/olivier-beaud](https://www.u-paris2.fr/portraits/olivier-beaud)
+Le professeur Olivier Beaud défend explicitement la nécessité de sortir du présidentialisme.
 
 Le CEVIPOF analyse la crise de légitimité du modèle présidentiel et la montée des propositions de réforme parlementaire :  
 [https://www.sciencespo.fr/cevipof/](https://www.sciencespo.fr/cevipof/)
