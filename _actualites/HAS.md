@@ -38,7 +38,7 @@ Le « name and shame » devient alors un rideau sonore : on parle fort pour évi
 
 ---
 
-# ⟡ Les zones d’influence
+# Les zones d’influence
 
 On nous parle aujourd’hui de pressions. De récits émotionnels glissés dans les interstices. De courriers qui remontent jusqu’aux plus hautes strates de l’État, comme des nappes souterraines cherchant une fissure dans la roche.
 
