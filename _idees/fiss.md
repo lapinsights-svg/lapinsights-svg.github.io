@@ -69,7 +69,7 @@ Une manière de redonner à la démocratie française une architecture qui respi
 
 La Cinquième République n’est pas en train de tomber.  
 Elle arrive simplement au bout de sa forme.  
-Et l’idée qui revient aujourd’hui — celle d’un régime où le président n’est plus un chef mais un garant, où le gouvernement gouverne, où le Parlement contrôle — n’est pas une utopie.  
+Et l’idée qui revient aujourd’hui, celle d’un régime où le président n’est plus un chef mais un garant, où le gouvernement gouverne, où le Parlement contrôle, n’est pas une utopie.  
 C’est une sortie logique d’un système devenu contradictoire avec lui-même.
 
 ---
