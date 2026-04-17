@@ -5,7 +5,6 @@ categories: actualites
 resume: "L’affaire Anthropic révèle la nature profonde du pouvoir technopolitique américain"
 ---
 
-<!-- IMAGE À INSÉRER -->
 ![Anthropic](/images/actualites/anthropic.png)
 
 
