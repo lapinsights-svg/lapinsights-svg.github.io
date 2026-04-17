@@ -70,3 +70,6 @@ Le territoire s’interroge pour comprendre et pour éviter que le passé ne se 
 Parce qu’une autorité scientifique n’est pas un oracle. Parce qu’un avis n’est pas un absolu. Parce qu’une institution peut vaciller, même sans le dire.
 
 Et parce qu’en matière de santé publique, **ce que l’on ne voit pas finit toujours par peser plus lourd que ce que l’on montre**.
+
+---
+© Céleste R. — CC BY-NC-ND
