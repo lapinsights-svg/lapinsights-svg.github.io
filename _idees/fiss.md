@@ -34,7 +34,8 @@ L’École de droit de Sciences Po analyse la concentration du pouvoir présiden
 
 
 Le Conseil d’État souligne la nécessité de rééquilibrer les pouvoirs au profit du Parlement :  
-[https://www.conseil-etat.fr/publications/rapports-publics](https://www.conseil-etat.fr/publications/rapports-publics)
+[https://www.conseil-etat.fr/publications](https://www.conseil-etat.fr/publications)
+
 
 Depuis, la verticalité s’est imposée comme unique architecture.  
 La centralisation des décisions, l’usage intensif des outils constitutionnels, l’effacement du Parlement et la personnalisation extrême du pouvoir ont transformé la fonction présidentielle en un point de commande unique.  
