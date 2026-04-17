@@ -1,7 +1,7 @@
 ---
-title: "La Cinquième République arrive au bout de sa forme"
+title: "La 5eme République arrive au bout de sa forme"
 date: 2026-04-17
-resume: "Pourquoi l’idée d’un retour au parlementarisme revient dans le débat institutionnel"
+resume: "Retour au parlementarisme"
 ---
 
 ![fiss](/images/idees/fiss.png)
