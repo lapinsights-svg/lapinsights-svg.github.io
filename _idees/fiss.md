@@ -2,6 +2,7 @@
 title: "La 5eme République arrive au bout de sa forme"
 date: 2026-04-17
 resume: "Retour au parlementarisme"
+categories: idees
 ---
 
 ![fiss](/images/idees/fiss.png)
