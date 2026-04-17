@@ -245,7 +245,8 @@ document.addEventListener("DOMContentLoaded", () => {
       point.style.left = Math.random() * 90 + "%";
 
       point.dataset.slug = echo.slug;
-      point.dataset.title = echo.title;
+      point.dataset.title = "{{ item.title | escape }}";
+
 
       point.addEventListener("click", () => {
         window.location.href = echo.url;
