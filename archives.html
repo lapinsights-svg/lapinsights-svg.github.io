@@ -82,6 +82,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const messageEchos = document.getElementById("message-echos");
   const champEcho = document.getElementById("champ-echo");
   const boutonReset = document.getElementById("reset-echos");
+  const compteur = document.getElementById("compteur-echo");
 
   /* ----------------------------------------------------
      3. Fonctions utilitaires
@@ -102,11 +103,13 @@ document.addEventListener("DOMContentLoaded", () => {
     constellation.classList.remove("visible");
   }
 
+  // Supprime les accents (é → e)
+  function sansAccents(str) {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  }
+
   /* ----------------------------------------------------
-     4. État initial de la Salle
-     - Barre Écho cachée
-     - Constellation vide
-     - Message caché
+     4. État initial
   ---------------------------------------------------- */
 
   cacher(".barre-filtres");
@@ -114,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
   messageEchos.classList.add("hidden");
 
   /* ----------------------------------------------------
-     5. Remplissage des menus Année / Mois
+     5. Menus Année / Mois
   ---------------------------------------------------- */
 
   function remplirMenus() {
@@ -133,7 +136,6 @@ document.addEventListener("DOMContentLoaded", () => {
       selectAnnee.appendChild(opt);
     });
 
-    /* --- Mise à jour des mois selon l'année choisie --- */
     selectAnnee.addEventListener("change", () => {
       const anneeChoisie = selectAnnee.value;
 
@@ -161,7 +163,7 @@ document.addEventListener("DOMContentLoaded", () => {
   remplirMenus();
 
   /* ----------------------------------------------------
-     6. Filtrage temporel (année + mois)
+     6. Filtrage temporel
   ---------------------------------------------------- */
 
   function filtrerParDate(annee, mois) {
@@ -184,7 +186,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const anneeChoisie = document.getElementById("annee").value;
     const moisChoisi = document.getElementById("mois").value;
 
-    /* --- Si la date n'est pas complète --- */
     if (!anneeChoisie || !moisChoisi) {
       viderConstellation();
       cacher(".barre-filtres");
@@ -194,20 +195,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const articlesFiltres = filtrerParDate(anneeChoisie, moisChoisi);
 
-    /* --- Si des articles existent pour cette période --- */
     if (articlesFiltres.length > 0) {
       afficherConstellation(articlesFiltres);
 
       setTimeout(() => {
         constellation.classList.add("visible");
-        jouerMedium(); // Son d’apparition
+        jouerMedium();
       }, 10);
 
       montrer(".barre-filtres");
       messageEchos.classList.add("hidden");
 
     } else {
-      /* --- Aucun écho pour cette période --- */
       viderConstellation();
       cacher(".barre-filtres");
 
@@ -219,7 +218,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   /* ----------------------------------------------------
-     8. Affichage de la constellation (points aléatoires)
+     8. Affichage de la constellation
   ---------------------------------------------------- */
 
   function afficherConstellation(liste) {
@@ -229,15 +228,16 @@ document.addEventListener("DOMContentLoaded", () => {
       const point = document.createElement("div");
       point.classList.add("point-echo");
 
-      /* --- Position aléatoire --- */
-      point.style.top = Math.random() * 90 + "%";
+      // Zone haute interdite (évite le bandeau)
+      const minTop = 15;
+      const maxTop = 90;
+
+      point.style.top = (minTop + Math.random() * (maxTop - minTop)) + "%";
       point.style.left = Math.random() * 90 + "%";
 
-      /* --- Métadonnées --- */
       point.dataset.slug = echo.slug;
       point.dataset.title = echo.title;
 
-      /* --- Navigation --- */
       point.addEventListener("click", () => {
         window.location.href = echo.url;
       });
@@ -247,7 +247,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /* ----------------------------------------------------
-     9. Sons (Medium = apparition / Aigu = révélation)
+     9. Sons
   ---------------------------------------------------- */
 
   const sonMedium = document.getElementById("son-medium");
@@ -266,24 +266,33 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /* ----------------------------------------------------
-     10. Bouton Reset (efface les révélations)
+     10. Bouton Reset
   ---------------------------------------------------- */
 
   boutonReset.addEventListener("click", () => {
     champEcho.value = "";
+    compteur.classList.remove("ok");
+
     document.querySelectorAll(".point-echo").forEach(point => {
       point.classList.remove("revelation");
     });
   });
 
   /* ----------------------------------------------------
-     11. Révélation poétique (seuil = 3 lettres)
+     11. Révélation poétique — seuil 3 lettres
   ---------------------------------------------------- */
 
   champEcho.addEventListener("input", () => {
-    const mot = champEcho.value.trim().toLowerCase();
+    const mot = sansAccents(champEcho.value.trim().toLowerCase());
 
-    /* --- Si moins de 3 lettres : on efface tout --- */
+    // Compteur discret
+    if (mot.length < 3) {
+      compteur.classList.remove("ok");
+    } else {
+      compteur.classList.add("ok");
+    }
+
+    // Effacement si < 3 lettres
     if (mot.length < 3) {
       document.querySelectorAll(".point-echo").forEach(point => {
         point.classList.remove("revelation");
@@ -291,25 +300,27 @@ document.addEventListener("DOMContentLoaded", () => {
       return;
     }
 
-    /* --- Révélation des points dont le titre contient le mot --- */
+    // Pré‑résonance exactement à 3 lettres
+    if (mot.length === 3) {
+      document.querySelectorAll(".point-echo").forEach(point => {
+        point.classList.add("pre-resonance");
+        setTimeout(() => point.classList.remove("pre-resonance"), 600);
+      });
+    }
+
+    // Révélation
     document.querySelectorAll(".point-echo").forEach(point => {
-      const titre = point.dataset.title.toLowerCase();
+      const titre = sansAccents(point.dataset.title.toLowerCase());
 
       if (titre.includes(mot)) {
         const etaitDejaRevele = point.classList.contains("revelation");
 
-        if (!etaitDejaRevele) {
-          jouerAigu(); // Son de scintillement
-        }
+        if (!etaitDejaRevele) jouerAigu();
 
         point.classList.add("revelation");
       }
     });
   });
-
-}); // FIN DOMContentLoaded
-</script>
-
 
 }); // FIN DOMContentLoaded
 </script>
