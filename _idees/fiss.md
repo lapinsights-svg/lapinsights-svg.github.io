@@ -29,8 +29,9 @@ Le Parlement a perdu son autonomie. Le Premier ministre a perdu son rôle.
 Le président est devenu chef de l’exécutif de fait, alors que la Constitution ne le prévoit pas.
 
 Cette dérive est aujourd’hui largement documentée.  
-L’École de droit de Sciences Po analyse la concentration du pouvoir présidentiel comme un problème structurel contemporain :  
-[https://www.sciencespo.fr/ecole-de-droit/](https://www.sciencespo.fr/ecole-de-droit/)
+L’Université de droit analyse la concentration du pouvoir présidentiel comme un problème structurel contemporain :  
+[https://univ-droit.fr/recherche/actualites-de-la-recherche/manifestations/48774-personnalisation-et-concentration-du-pouvoir-dans-les-regimes-democratiques-contemporains](https://univ-droit.fr/recherche/actualites-de-la-recherche/manifestations/48774-personnalisation-et-concentration-du-pouvoir-dans-les-regimes-democratiques-contemporains)
+
 
 
 Le Conseil d’État souligne la nécessité de rééquilibrer les pouvoirs au profit du Parlement :  
