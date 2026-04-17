@@ -5,7 +5,7 @@ resume: "Une zone grise au cœur de l’autorité scientifique."
 categories: actualites
 ---
 
-![presin](/images/presin.png)
+![presin](/images/actualites/presin.png)
 
 
 # Pressions, conflits, silences : ce que révèle vraiment l’affaire de la HAS
