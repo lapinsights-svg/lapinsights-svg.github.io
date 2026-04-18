@@ -22,5 +22,8 @@ Et la cigale, hilare, observe ce petit théâtre humain qui tourne en rond.
 Comme Sue Ellen Ewing noyée dans son verre,  ce cirque finit par nous lasser profondément.  
 Dallas virologique, interminable, artificiel, et surtout… terriblement prévisible.
 
+[Lire l’article scientifique](https://www.science-et-vie.com/article-exemple)
+
+
 ---
 © Céleste R. — CC BY‑NC‑ND
