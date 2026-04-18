@@ -92,4 +92,4 @@ Mais aucune de ces conditions n’est réalisable dans le cadre actuel de l’Un
 
 Les nations doivent d’abord **retrouver la capacité d’agir par elles‑mêmes**.
 
-© Céleste R. — CC BY-NC-ND
+Céleste R.
