@@ -758,49 +758,52 @@ textarea {
 /* Couleur du texte générale */
 .page-territoire {
   color: var(--lapin);
+  padding-left: 2rem;   /* éloigne le texte du bord gauche */
+  padding-right: 2rem;
 }
 
 /* Mise en page : texte à gauche, image à droite */
 .newsletter-layout {
   display: flex;
   flex-wrap: nowrap;        /* empêche l’image de passer en dessous */
-  gap: 1.5rem;
-  align-items: stretch;     /* les deux blocs auront la même hauteur */
+  gap: 2rem;                /* espace plus large entre texte et image */
+  align-items: stretch;     /* même hauteur pour les deux blocs */
   margin-top: 2rem;
+  justify-content: center;  /* recentre l’ensemble dans la page */
 }
 
 /* Colonne texte — même largeur que l’image */
 .newsletter-texte {
-  flex: 0 0 600px;          /* largeur FIXE pour égaliser avec l’image */
-  background: rgba(120, 150, 190, 0.28); /* bleu clair translucide */
-  padding: 2rem;
+  flex: 0 0 620px;          /* largeur FIXE, plus large qu’avant */
+  background: rgba(120, 150, 190, 0.25); /* bleu clair translucide */
+  padding: 2.2rem;
   border-radius: 1rem;
   backdrop-filter: blur(12px);
   color: var(--lapin);
   display: flex;
   flex-direction: column;
-  justify-content: center;  /* centre verticalement le texte */
+  justify-content: center;
 }
 
 /* Aération du texte */
 .newsletter-texte p {
   line-height: 1.7;
   margin-bottom: 1.4rem;
-  font-size: 1.05rem;
+  font-size: 1.08rem;
 }
 
 /* Colonne image — même largeur que le texte */
 .newsletter-image {
-  flex: 0 0 600px;          /* largeur FIXE identique */
+  flex: 0 0 620px;          /* largeur identique */
   display: flex;
-  align-items: center;      /* centre verticalement l’image */
+  align-items: center;
   justify-content: center;
 }
 
 /* Image newsletter — plus grande */
 .visuel-newsletter {
   width: 100%;
-  max-width: 600px;         /* même largeur que le bloc texte */
+  max-width: 620px;         /* image plus grande */
   border-radius: 6px;
   display: block;
 }
