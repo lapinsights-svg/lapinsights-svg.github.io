@@ -783,6 +783,13 @@ textarea {
   display: block;
 }
 
+.newsletter-texte {
+  background: rgba(20, 30, 50, 0.35);
+  padding: 1.5rem 1.8rem;
+  border-radius: 0.8rem;
+  backdrop-filter: blur(6px);
+}
+
 /* Animation du titre */
 @keyframes tresaillement {
   0%   { transform: translateX(0); }
