@@ -155,5 +155,5 @@ Et il suffit d’une seule phrase pour le faire redescendre sur Terre :
 
 ---
 
-© Céleste R. — CC BY-NC-ND
+Céleste R. 
 
