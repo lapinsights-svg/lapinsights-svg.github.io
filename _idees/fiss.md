@@ -74,4 +74,4 @@ Et l’idée qui revient aujourd’hui, celle d’un régime où le président n
 C’est une sortie logique d’un système devenu contradictoire avec lui-même.
 
 ---
-© Céleste R. — CC BY‑NC‑ND
+ Céleste R.
