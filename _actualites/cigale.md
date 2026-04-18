@@ -1,6 +1,7 @@
 ---
 title: "75 nuances de cigale"
 date: "2026-04-18"
+resume: "encore un variant"
 tags: ["satire", "science", "médias", "covid", "mutation"]
 categories: actualites
 ---
