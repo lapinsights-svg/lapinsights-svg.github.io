@@ -807,7 +807,7 @@ textarea {
   border-radius: 6px;
   display: block;
   object-fit: cover;
-  object-position: center 15%;
+  object-position: center 85%;
 }
 
 /* Animation du titre */
