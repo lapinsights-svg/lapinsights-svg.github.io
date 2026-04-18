@@ -2,7 +2,7 @@
 title: "Byron Katie et « Le Travail »"
 date: 2024-05-14
 collection: articles
-resume: "Analyse critique de la méthode « The Work » de Byron Katie et de ses dérives philosophiques, psychologiques et spirituelles."
+resume: "Analyse critique de la méthode et de ses dérives philosophiques, psychologiques et spirituelles."
 ---
 
 ![byron](/images/spiritualite/Byron1.png)
