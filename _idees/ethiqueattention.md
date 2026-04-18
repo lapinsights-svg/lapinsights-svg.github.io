@@ -249,4 +249,4 @@ Il faut distinguer :
 
 ---
 
-© Céleste R. — CC BY-NC-ND
+Céleste R. 
