@@ -752,7 +752,7 @@ textarea {
 }
 
 /* ----------------------------------------------------
-   PAGE NEWSLETTER
+   PAGE NEWSLETTER — VERSION HARMONISÉE
 ---------------------------------------------------- */
 
 /* Couleur du texte générale */
@@ -764,19 +764,22 @@ textarea {
 .newsletter-layout {
   display: flex;
   flex-wrap: nowrap;        /* empêche l’image de passer en dessous */
-  gap: 1.2rem;
-  align-items: flex-start;
+  gap: 1.5rem;
+  align-items: stretch;     /* les deux blocs auront la même hauteur */
   margin-top: 2rem;
 }
 
-/* Colonne texte — plus large */
+/* Colonne texte — largeur fixe et fond bleuté */
 .newsletter-texte {
-  flex: 1 1 500px;
-  background: rgba(255, 255, 255, 0.45); /* fond clair translucide */
+  flex: 1 1 520px;          /* même largeur que l’image */
+  background: rgba(120, 150, 190, 0.32); /* bleu clair translucide */
   padding: 2rem;
   border-radius: 1rem;
   backdrop-filter: blur(12px);
   color: var(--lapin);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  /* centre verticalement le texte */
 }
 
 /* Aération du texte */
@@ -786,15 +789,17 @@ textarea {
   font-size: 1.05rem;
 }
 
-/* Colonne image — largeur fixe */
+/* Colonne image — même largeur que le texte */
 .newsletter-image {
-  flex: 0 0 520px;
+  flex: 1 1 520px;
+  display: flex;
+  align-items: center;      /* centre verticalement l’image */
 }
 
 /* Image newsletter */
 .visuel-newsletter {
   width: 100%;
-  max-width: 520px;  /* taille équilibrée */
+  max-width: 520px;         /* même largeur que le bloc texte */
   border-radius: 6px;
   display: block;
 }
