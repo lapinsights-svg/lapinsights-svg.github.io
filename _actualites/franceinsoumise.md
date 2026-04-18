@@ -81,4 +81,4 @@ Probablement un calcul politique avant les elections :
 - affaiblir la gauche,  
 - sanctionner un comportement juge trop conflictuel.
 
-© Celeste R. — CC BY-NC-ND
+Celeste R. 
