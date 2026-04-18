@@ -40,4 +40,4 @@ RIP
 
 ---
 
-© Céleste R. — CC BY-NC-ND
+Céleste R. 
