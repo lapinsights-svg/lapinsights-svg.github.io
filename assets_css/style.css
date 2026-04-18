@@ -806,6 +806,8 @@ textarea {
   max-width: 620px;
   border-radius: 6px;
   display: block;
+  padding-bottom: 12px; /* espace pour la barre */
+  background: black; /* évite un trou visuel */
 }
 
 /* Animation du titre */
