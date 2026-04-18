@@ -2,7 +2,7 @@
 title: "Les PFAS : Pollution invisible, risques et défaillances institutionnelles"
 date: 2026-03-06
 categories: idees
-resume: "Analyse de la pollution aux PFAS en France, de ses risques sanitaires et des insuffisances structurelles de la réponse publique."
+resume: "Analyse de la pollution aux PFAS en France et des insuffisances structurelles de la réponse publique."
 ---
 
 
