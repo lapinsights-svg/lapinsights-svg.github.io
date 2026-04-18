@@ -757,13 +757,30 @@ textarea {
   color: var(--lapin);
 }
 
-/* ✦ Correction taille image newsletter */
+/* ✦ Mise en page newsletter : image + texte côte à côte */
+.newsletter-layout {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-top: 2rem;
+  flex-wrap: wrap; /* pour mobile */
+}
+
+.newsletter-image {
+  flex: 1 1 350px;
+}
+
+.newsletter-texte {
+  flex: 1 1 350px;
+  color: var(--lapin);
+}
+
+/* ✦ Limiter la taille de l’image */
 .visuel-newsletter {
   width: 100%;
-  max-width: 900px;
-  margin: 2rem auto;
+  max-width: 450px; /* réduit pour laisser la place au texte */
+  border-radius: 6px;
   display: block;
-  border-radius: 4px;
 }
 
 /* Animation du titre */
