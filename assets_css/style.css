@@ -752,6 +752,20 @@ textarea {
   white-space: nowrap;
 }
 
+/* ✦ Correction couleur texte page newsletter */
+.page-territoire {
+  color: var(--lapin);
+}
+
+/* ✦ Correction taille image newsletter */
+.visuel-newsletter {
+  width: 100%;
+  max-width: 900px;
+  margin: 2rem auto;
+  display: block;
+  border-radius: 4px;
+}
+
 /* Animation du titre */
 @keyframes tresaillement {
   0%   { transform: translateX(0); }
