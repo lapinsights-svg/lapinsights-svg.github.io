@@ -26,4 +26,4 @@ Dallas virologique, interminable, artificiel, et surtout… terriblement prévis
 
 
 ---
-© Céleste R. — CC BY‑NC‑ND
+Céleste R
