@@ -78,4 +78,4 @@ Et c’est cela, la vraie liberté.
 
 ---
 
-© Céleste R. — CC BY-NC-ND
+Céleste R. 
