@@ -99,4 +99,4 @@ Et dans ce silence, une question demeure :
 
 ---
 
-© Céleste R. — CC BY-NC-ND
+Céleste R. 
