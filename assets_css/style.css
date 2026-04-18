@@ -808,6 +808,8 @@ textarea {
   display: block;
   padding-bottom: 18px; /* espace interne pour la barre */
   background: black; /* évite un trou visuel */
+  object-fit: cover;
+  object-position: center 10%;
 }
 
 /* Animation du titre */
