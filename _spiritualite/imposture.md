@@ -1,7 +1,7 @@
 ---
 title: "L’imposture des spiritualités pacifiantes"
 categories: spiritualite
-resume: « Critique des spiritualités qui endorment la pensée et neutralisent la souveraineté individuelle. »
+resume: "Critique des spiritualités qui endorment la pensée et neutralisent la souveraineté individuelle."
 date: 2026-04-19
 layout: default
 ---
