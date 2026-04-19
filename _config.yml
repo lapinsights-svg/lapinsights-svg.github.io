@@ -1,20 +1,19 @@
 title: "Lapinsights"
 description: "Territoire éditorial souverain"
 
-# Ancienne configuration (site principal)
+# Configuration du site
 url: "https://lapinsights-svg.github.io"
 baseurl: ""
 
 theme: null
-
 markdown: kramdown
-
 excerpt_separator: "<!--NOEXCERPT-->"
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# Collections éditoriales
 collections:
   actualites:
     output: true
@@ -32,6 +31,7 @@ collections:
     output: true
     permalink: /passe/:title/
 
+# Layouts par défaut
 defaults:
   - scope:
       path: ""
@@ -69,12 +69,17 @@ defaults:
     values:
       layout: post
 
+# Gestion des dates futures
 future: false
 
+# Newsletter
 newsletter_url: "https://buttondown.email/dig_it"
 
-social_image: "/images/social-default.png"
+# Image sociale par défaut (Open Graph + Twitter)
+social_image: "/images/lapinsights-og.png"
+og_image: "/images/lapinsights-og.png"
 
+# Fichiers à inclure dans la build
 include:
   - assets_css
   - robots.txt
@@ -82,5 +87,6 @@ include:
   - images
   - assets/sons
 
+# Fichiers à conserver
 keep_files:
   - assets_css
