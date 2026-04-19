@@ -166,10 +166,11 @@ function remplirMenus() {
      6. Filtrage temporel — VERSION ROBUSTE
   ---------------------------------------------------- */
 
-  function filtrerParDate(annee, mois) {
-    const prefix = `${annee}-${String(mois).padStart(2, "0")}`;
-    return echos.filter(e => e.date.startsWith(prefix));
-  }
+ function filtrerParDate(annee, mois) {
+  const moisStr = String(mois).padStart(2, "0");
+  const prefix = `${annee}-${moisStr}`;
+  return echos.filter(echo => echo.date.startsWith(prefix));
+}
 
   /* ----------------------------------------------------
      7. Réaction Année / Mois
