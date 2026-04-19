@@ -30,38 +30,53 @@ collections:
   passe:
     output: true
     permalink: /passe/:title/
+  vibrations:
+    output: true
+    permalink: /vibrations/:title/
 
-# Layouts par défaut
+# Layouts + Images OG par défaut
 defaults:
   - scope:
       path: ""
       type: actualites
     values:
       layout: article
+      og_image: /images/og-actualites.png
 
   - scope:
       path: ""
       type: creations
     values:
       layout: article
+      og_image: /images/og-creations.png
 
   - scope:
       path: ""
       type: idees
     values:
       layout: article
+      og_image: /images/og-idees.png
 
   - scope:
       path: ""
       type: spiritualite
     values:
       layout: article
+      og_image: /images/og-spiritualite.png
 
   - scope:
       path: ""
       type: passe
     values:
       layout: article
+      og_image: /images/og-passe.png
+
+  - scope:
+      path: ""
+      type: vibrations
+    values:
+      layout: article
+      og_image: /images/og-vibrations.png
 
   - scope:
       path: ""
