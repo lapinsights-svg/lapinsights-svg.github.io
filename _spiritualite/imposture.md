@@ -72,6 +72,8 @@ C’est exactement ce que Bezmenov identifie comme un outil de démoralisation.
 
 ## 3. Ramana Maharshi : l’idéal du détachement total
 
+![Ramana](/images/spiritualite/Ramana.png)
+
 Ramana Maharshi est devenu l’icône d’une vision du monde où l’objectif ultime serait la dissolution du soi, la disparition de l’ego, l’entrée dans un état de paix transcendantale.
 
 Ce modèle repose sur une idée simple :  
