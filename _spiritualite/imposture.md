@@ -6,6 +6,7 @@ date: 2026-04-19
 layout: default
 ---
 
+
 ![pacification](/images/spiritualite/pacification.png)
 
 # L’imposture des spiritualités pacifiantes
