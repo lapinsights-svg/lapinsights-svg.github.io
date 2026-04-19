@@ -10,28 +10,28 @@ class: echos
 
   <div class="barre-recherche">
 
-<div class="barre-celeste">
+    <div class="barre-celeste">
 
-  <!-- LAPIN TOUT À GAUCHE -->
-  <div class="lapin-retour">
-    <a href="/" title="Retour à l’accueil" class="lapin-icone">
-      🐇
-    </a>
-  </div>
+      <!-- LAPIN TOUT À GAUCHE -->
+      <div class="lapin-retour">
+        <a href="/" title="Retour à l’accueil" class="lapin-icone">
+          🐇
+        </a>
+      </div>
 
-  <div class="titre-echos">Archives</div>
+      <div class="titre-echos">Archives</div>
 
-  <div class="bloc-date">
-    <label for="annee">Année</label>
-    <select id="annee"></select>
+      <div class="bloc-date">
+        <label for="annee">Année</label>
+        <select id="annee"></select>
 
-    <label for="mois">Mois</label>
-    <select id="mois"></select>
-  </div>
+        <label for="mois">Mois</label>
+        <select id="mois"></select>
+      </div>
 
-  <div class="titre-archives">Salle des Échos</div>
+      <div class="titre-archives">Salle des Échos</div>
 
-</div>
+    </div>
 
     <!-- BARRE ÉCHO — visible après sélection -->
     <div class="barre-filtres hidden">
@@ -52,10 +52,6 @@ class: echos
 </div>
 
 <script>
-/* ----------------------------------------------------
-   ÉCHOS — CONSTELLATION + SON + RÉVÉLATION POÉTIQUE
----------------------------------------------------- */
-
 document.addEventListener("DOMContentLoaded", () => {
 
   /* ----------------------------------------------------
@@ -83,7 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
   ];
 
   /* ----------------------------------------------------
-     2. Conteneurs principaux
+     2. Conteneurs
   ---------------------------------------------------- */
 
   const constellation = document.getElementById("constellation-echos");
@@ -95,15 +91,8 @@ document.addEventListener("DOMContentLoaded", () => {
      3. Utilitaires
   ---------------------------------------------------- */
 
-  function cacher(selector) {
-    const el = document.querySelector(selector);
-    if (el) el.classList.add("hidden");
-  }
-
-  function montrer(selector) {
-    const el = document.querySelector(selector);
-    if (el) el.classList.remove("hidden");
-  }
+  function cacher(sel) { document.querySelector(sel)?.classList.add("hidden"); }
+  function montrer(sel) { document.querySelector(sel)?.classList.remove("hidden"); }
 
   function viderConstellation() {
     constellation.innerHTML = "";
@@ -114,11 +103,6 @@ document.addEventListener("DOMContentLoaded", () => {
     return String(str || "")
       .normalize("NFD")
       .replace(/[\u0300-\u036f]/g, "")
-      .replace(/&nbsp;/g, " ")
-      .replace(/&#39;|&apos;/g, "'")
-      .replace(/&quot;/g, '"')
-      .replace(/[’‘]/g, "'")
-      .replace(/[“”]/g, '"')
       .replace(/[\u200B-\u200D\uFEFF]/g, "")
       .replace(/\s+/g, " ")
       .trim()
@@ -134,7 +118,7 @@ document.addEventListener("DOMContentLoaded", () => {
   messageEchos.classList.add("hidden");
 
   /* ----------------------------------------------------
-     5. Menus Année / Mois
+     5. Menus Année / Mois — VERSION ROBUSTE
   ---------------------------------------------------- */
 
   function remplirMenus() {
@@ -142,7 +126,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const selectMois = document.getElementById("mois");
 
     const annees = [...new Set(
-      echos.map(e => new Date(e.date).getFullYear())
+      echos.map(e => e.date.substring(0, 4))
     )].sort((a, b) => b - a);
 
     selectAnnee.innerHTML = '<option value="">—</option>';
@@ -163,8 +147,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const moisDisponibles = [...new Set(
         echos
-          .filter(e => new Date(e.date).getFullYear() == anneeChoisie)
-          .map(e => new Date(e.date).getMonth() + 1)
+          .filter(e => e.date.startsWith(anneeChoisie + "-"))
+          .map(e => parseInt(e.date.substring(5, 7), 10))
       )].sort((a, b) => b - a);
 
       selectMois.innerHTML = '<option value="">—</option>';
@@ -180,14 +164,12 @@ document.addEventListener("DOMContentLoaded", () => {
   remplirMenus();
 
   /* ----------------------------------------------------
-     6. Filtrage temporel
+     6. Filtrage temporel — VERSION ROBUSTE
   ---------------------------------------------------- */
 
   function filtrerParDate(annee, mois) {
-    return echos.filter(echo => {
-      const d = new Date(echo.date);
-      return d.getFullYear() == annee && (d.getMonth() + 1) == mois;
-    });
+    const prefix = `${annee}-${String(mois).padStart(2, "0")}`;
+    return echos.filter(e => e.date.startsWith(prefix));
   }
 
   /* ----------------------------------------------------
@@ -228,9 +210,7 @@ document.addEventListener("DOMContentLoaded", () => {
       cacher(".barre-filtres");
 
       messageEchos.classList.remove("hidden");
-      setTimeout(() => {
-        messageEchos.classList.add("visible");
-      }, 10);
+      setTimeout(() => messageEchos.classList.add("visible"), 10);
     }
   });
 
@@ -245,13 +225,9 @@ document.addEventListener("DOMContentLoaded", () => {
       const point = document.createElement("div");
       point.classList.add("point-echo");
 
-      const minTop = 15;
-      const maxTop = 90;
-
-      point.style.top = (minTop + Math.random() * (maxTop - minTop)) + "%";
+      point.style.top = (15 + Math.random() * 75) + "%";
       point.style.left = Math.random() * 90 + "%";
 
-      // Données propres
       point.dataset.title = echo.title;
       point.dataset.resume = echo.resume;
       point.dataset.search = echo.search;
@@ -290,10 +266,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (boutonReset) {
     boutonReset.addEventListener("click", () => {
       if (champEcho) champEcho.value = "";
-
-      document.querySelectorAll(".point-echo").forEach(point => {
-        point.classList.remove("revelation");
-      });
+      document.querySelectorAll(".point-echo").forEach(p => p.classList.remove("revelation"));
     });
   }
 
@@ -306,25 +279,22 @@ document.addEventListener("DOMContentLoaded", () => {
       const mot = nettoyer(champEcho.value);
 
       if (mot.length < 3) {
-        document.querySelectorAll(".point-echo").forEach(point => {
-          point.classList.remove("revelation");
-        });
+        document.querySelectorAll(".point-echo").forEach(p => p.classList.remove("revelation"));
         return;
       }
 
       if (mot.length === 3) {
-        document.querySelectorAll(".point-echo").forEach(point => {
-          point.classList.add("pre-resonance");
-          setTimeout(() => point.classList.remove("pre-resonance"), 600);
+        document.querySelectorAll(".point-echo").forEach(p => {
+          p.classList.add("pre-resonance");
+          setTimeout(() => p.classList.remove("pre-resonance"), 600);
         });
       }
 
       document.querySelectorAll(".point-echo").forEach(point => {
         const champRecherche = nettoyer(point.dataset.search);
-
         if (champRecherche.includes(mot)) {
-          const etaitDejaRevele = point.classList.contains("revelation");
-          if (!etaitDejaRevele) jouerAigu();
+          const deja = point.classList.contains("revelation");
+          if (!deja) jouerAigu();
           point.classList.add("revelation");
         }
       });
