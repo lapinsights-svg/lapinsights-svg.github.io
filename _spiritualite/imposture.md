@@ -186,6 +186,8 @@ Il parle de pardon, de dissolution, de renoncement.
 
 ## 8. Le bouddhisme modernisé : la version édulcorée
 
+![lama](/images/spiritualite/lama.png)
+
 Le bouddhisme contemporain, tel qu’il est diffusé en Occident, est devenu une version édulcorée, pacifiante, dépolitisée.  
 Il ne parle plus de connaissance, de discernement, de lucidité.  
 Il parle de respiration, de douceur, de non‑résistance.
