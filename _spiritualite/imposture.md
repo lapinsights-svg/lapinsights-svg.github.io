@@ -209,5 +209,4 @@ Le problème est la manière dont certaines doctrines sont utilisées pour :
 L’univers n’est pas un coussin.  
 Il est fait de **sagesse**, **connaissance**, **action**, **volonté**, **pouvoir**.
 
-Une civilisation qui médite pendant que d’autres planifient  
-devient une civilisation qui se laisse effacer.
+Une civilisation qui médite pendant que d’autres planifient devient une civilisation qui se laisse effacer.
