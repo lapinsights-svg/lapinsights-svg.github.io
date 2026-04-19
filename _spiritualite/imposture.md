@@ -150,6 +150,8 @@ Un indicateur puissant :
 Eckhart Tolle, Jack Kornfield, le Dalaï‑Lama, Ram Dass…  
 Tous ont été invités, amplifiés, mis en scène.
 
+![ramdass](/images/spiritualite/ramdass.png)
+
 Ce n’est pas un hasard.  
 Les doctrines qui encouragent la passivité sont celles qui circulent le mieux.
 
