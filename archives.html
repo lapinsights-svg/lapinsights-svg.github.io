@@ -120,46 +120,45 @@ document.addEventListener("DOMContentLoaded", () => {
   /* ----------------------------------------------------
      5. Menus Année / Mois — VERSION ROBUSTE
   ---------------------------------------------------- */
+function remplirMenus() {
+  const selectAnnee = document.getElementById("annee");
+  const selectMois = document.getElementById("mois");
 
-  function remplirMenus() {
-    const selectAnnee = document.getElementById("annee");
-    const selectMois = document.getElementById("mois");
+  const annees = [...new Set(
+    echos.map(e => e.date.substring(0, 4))
+  )].sort((a, b) => b - a);
 
-    const annees = [...new Set(
-      echos.map(e => e.date.substring(0, 4))
+  selectAnnee.innerHTML = '<option value="">—</option>';
+  annees.forEach(annee => {
+    const opt = document.createElement("option");
+    opt.value = annee;
+    opt.textContent = annee;
+    selectAnnee.appendChild(opt);
+  });
+
+  selectAnnee.addEventListener("change", () => {
+    const anneeChoisie = selectAnnee.value;
+
+    if (!anneeChoisie) {
+      selectMois.innerHTML = '<option value="">—</option>';
+      return;
+    }
+
+    const moisDisponibles = [...new Set(
+      echos
+        .filter(e => e.date.substring(0, 4) == anneeChoisie)
+        .map(e => parseInt(e.date.substring(5, 7), 10))
     )].sort((a, b) => b - a);
 
-    selectAnnee.innerHTML = '<option value="">—</option>';
-    annees.forEach(annee => {
+    selectMois.innerHTML = '<option value="">—</option>';
+    moisDisponibles.forEach(mois => {
       const opt = document.createElement("option");
-      opt.value = annee;
-      opt.textContent = annee;
-      selectAnnee.appendChild(opt);
+      opt.value = mois;
+      opt.textContent = mois.toString().padStart(2, "0");
+      selectMois.appendChild(opt);
     });
-
-    selectAnnee.addEventListener("change", () => {
-      const anneeChoisie = selectAnnee.value;
-
-      if (!anneeChoisie) {
-        selectMois.innerHTML = '<option value="">—</option>';
-        return;
-      }
-
-      const moisDisponibles = [...new Set(
-        echos
-          .filter(e => e.date.startsWith(anneeChoisie + "-"))
-          .map(e => parseInt(e.date.substring(5, 7), 10))
-      )].sort((a, b) => b - a);
-
-      selectMois.innerHTML = '<option value="">—</option>';
-      moisDisponibles.forEach(mois => {
-        const opt = document.createElement("option");
-        opt.value = mois;
-        opt.textContent = mois.toString().padStart(2, "0");
-        selectMois.appendChild(opt);
-      });
-    });
-  }
+  });
+}
 
   remplirMenus();
 
