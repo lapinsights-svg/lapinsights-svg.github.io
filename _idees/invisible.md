@@ -176,7 +176,7 @@ Le RGPD impose déjà :
 
 [CNIL – RGPD, Chapitre II : Principes](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2)
 
-
+Face à un règlement européen, la CNIL ne peut pas dire “non”.
 Ces garde‑fous n’empêchent pas le dispositif d’exister,  
 mais ils empêchent qu’il devienne un outil de surveillance généralisée.
 
