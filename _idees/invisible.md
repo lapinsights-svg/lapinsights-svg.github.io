@@ -17,7 +17,7 @@ Une nouvelle couche de contrôle, présentée comme technique, neutre, protectri
 
 ---
 
-# Quand l’actualité confirme la théorie
+# La vérification d'âge
 
 L’Union européenne a dévoilé une application de **vérification d’âge**, testée en France et appelée à devenir obligatoire d’ici fin 2026 pour accéder à certains services en ligne.
 
