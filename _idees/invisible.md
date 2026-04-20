@@ -40,7 +40,7 @@ C'est un glissement subtil vers la fin de l’anonymat.
 
 # Ce que l’on nous a dit et ce que les textes prévoient réellement
 
-La communication politique et médiatique a présenté ce dispositif comme une mesure destinée **uniquement aux réseaux sociaux**, pour “protéger les mineurs”.
+La communication politique et médiatique a présenté ce dispositif comme une mesure destinée **uniquement aux réseaux sociaux**, pour “protéger les mineurs” ou "les moins de 15 ans".
 
 Mais les documents européens ne parlent pas de réseaux sociaux.  
 Ils parlent de **services numériques**, de **plateformes en ligne**, de **contenus soumis à restriction d’âge**, et d’une intégration future dans le **portefeuille d’identité numérique européen**.
