@@ -8,10 +8,11 @@ resume: "Suite de l’article «Identité numérique et réseaux sociaux » — 
 
 **Après l’invisibilité : la fin des passages libres**
 
-En janvier dernier, dans *Identité numérique et réseaux sociaux*, j'analisais le projet de loi et j'explorais la longue histoire d’une asymétrie : celle qui impose la visibilité aux uns et garantit l’opacité aux autres.  
+En janvier, dans *Identité numérique et réseaux sociaux*, j’explorais une asymétrie ancienne :  
+celle qui impose la visibilité aux uns et garantit l’opacité aux autres.  
 **Lire l’article précédent :** [Identité numérique et réseaux sociaux](https://lapinsights-svg.github.io/idees/idreseaux/)
 
-L’Union européenne vient d’annoncer une application de vérification d’âge inspirée du certificat Covid, destinée à devenir un passage obligé pour accéder à une partie du numérique.  
+L’Union européenne annonce désormais une application de vérification d’âge inspirée du certificat Covid.  
 Une preuve d’identité pour franchir des seuils autrefois libres.  
 Une nouvelle couche de contrôle, présentée comme technique, neutre, protectrice.
 
@@ -19,203 +20,144 @@ Une nouvelle couche de contrôle, présentée comme technique, neutre, protectri
 
 # La vérification d'âge
 
-L’Union européenne a dévoilé une application de **vérification d’âge**, testée en France et appelée à devenir obligatoire d’ici fin 2026 pour accéder à certains services en ligne.
+L’application européenne de **vérification d’âge**, testée en France, deviendra obligatoire d’ici fin 2026 pour accéder à certains services en ligne.
 
-**Lien vers l’article RTL :**  
-[Union européenne : l’application de vérification d’âge inspirée du certificat Covid](https://www.rtl.fr/actu/sciences-tech/l-union-europeenne-presente-son-application-de-verification-d-age-inspiree-du-certificat-covid-a-quoi-ressemble-cette-solution-bientot-testee-en-france-qui-doit-etre-generalisee-fin-2026-7900624267)
+**Lien RTL :**  
+[Application de vérification d’âge](https://www.rtl.fr/actu/sciences-tech/l-union-europeenne-presente-son-application-de-verification-d-age-inspiree-du-certificat-covid-a-quoi-ressemble-cette-solution-bientot-testee-en-france-qui-doit-etre-generalisee-fin-2026-7900624267)
 
-Le principe : prouver que l’on a l’âge requis en utilisant une identité officielle (carte d’identité, passeport), puis générer une preuve cryptographique censée préserver la vie privée.
+Le principe : utiliser une identité officielle pour générer une preuve cryptographique censée préserver la vie privée.
 
-Sur le papier, l’idée semble rassurante :  
-la plateforme ne verrait pas ton nom, seulement “oui, cette personne a plus de 15 ans”.
+Sur le papier, la plateforme ne verrait que “oui, cette personne a plus de 15 ans”.  
+Dans les faits, c’est une rupture :  
+**l’accès à des espaces autrefois libres devient conditionné à une preuve d’identité préalable.**
 
-Mais dans les faits, ce dispositif marque une étape décisive :  
-**l’accès à des espaces autrefois libres devient conditionné à une preuve d’identité préalable**.
-
-C'est un glissement subtil vers la fin de l’anonymat.  
+Un glissement discret vers la fin de l’anonymat.
 
 ---
 
-# Ce que l’on nous a dit et ce que les textes prévoient réellement
+# Ce que disent réellement les textes
 
-La communication politique et médiatique a présenté ce dispositif comme une mesure destinée **uniquement aux réseaux sociaux**, pour “protéger les mineurs” ou "les moins de 15 ans".
-
-Mais les documents européens ne parlent pas de réseaux sociaux.  
-Ils parlent de **services numériques**, de **plateformes en ligne**, de **contenus soumis à restriction d’âge**, et d’une intégration future dans le **portefeuille d’identité numérique européen**.
+La communication publique évoque les réseaux sociaux.  
+Les textes européens, eux, parlent de **services numériques**, de **plateformes**, de **contenus soumis à restriction d’âge**, et d’une intégration au **portefeuille d’identité numérique européen**.
 
 Autrement dit :  
 **le dispositif n’est pas limité aux réseaux sociaux.**  
-Il est conçu pour être **généralisé** à l’ensemble des services numériques où une restriction d’âge peut être invoquée.
-
-Ce n’est donc pas une simple mesure de protection.  
-C’est une **infrastructure d’identification préalable**, appelée à devenir un passage obligé pour accéder à une partie croissante du numérique.
+Il prépare une **infrastructure d’identification préalable** pour une part croissante du numérique.
 
 ---
 
 # Quand la “protection” devient un prétexte structurel
 
+La logique est constante :  
+promettre plus de sécurité — souvent théorique —  
+en échange de moins de liberté — toujours réelle.
 
-Lorsqu’on examine les textes européens, l’architecture technique et les obligations imposées aux plateformes, 
-la logique est toujours la même :  
-**promettre plus de sécurité** — une sécurité souvent théorique, partielle, ou contournable —  
-en échange de **moins de liberté**, une réduction bien réelle, mesurable, et inscrite dans l’infrastructure.
+Chaque nouvelle couche de “protection” ajoute un geste d’identification, un point de contrôle, une contrainte supplémentaire.  
+L’exception devient la norme.
 
-Ce glissement n’est pas nouveau.  
-Mais il s’intensifie : chaque nouvelle couche de “protection” introduit une nouvelle contrainte, un nouveau point de contrôle, un nouveau geste d’identification préalable.  
-Et, progressivement, l’exception devient la norme.
+La sécurité reste incertaine ; la perte de liberté, elle, est certaine.
 
-Le résultat est clair :  
-**on resserre les vis sur les libertés individuelles**, non pas par une décision brutale, mais par une succession de dispositifs techniques présentés comme neutres, nécessaires, inoffensifs.  
-La sécurité promise reste incertaine ; la perte de liberté, elle, est certaine.
+---
+
+## 🔥 Même les infrastructures “sécurisées” cèdent
+
+L’actualité l’a rappelé :  
+l’**Agence nationale des titres sécurisés (ANTS)** — cartes d’identité, passeports, permis — a subi une fuite de données sensibles.  
+Un organisme réputé “sécurisé”, compromis par une faille simple.
+
+**Source :**  
+[Usine Digitale – Fuite de données à l’ANTS](https://www.usine-digitale.fr/cybersecurite/cybersecurite-lagence-nationale-des-titres-securises-ants-qui-gere-la-delivrance-des-cartes-didentite-passeports-et-permis-de-conduire-a-ete-victime-dune-fuite-de-donnees.GUWKYNAALFE2DA3J5UN3P2LNVA.html)
+
+Le risque zéro n’existe pas.  
+Plus on centralise, plus on expose.  
+Plus on exige, plus on fragilise.
+
+---
+
+# Le précédent du pass sanitaire
+
+Le dispositif de vérification d’âge reprend l’architecture du **certificat Covid** :  
+preuve à présenter, délégation du contrôle, dépendance à une identité officielle, possibilité d’extension.
+
+Le pass sanitaire n’était pas seulement un outil sanitaire.  
+C’était un **prototype**.
 
 ---
 
 # Encadré : Ce que fait réellement une “zero‑knowledge proof”
 
-Une *zero‑knowledge proof* permet de prouver une information sans révéler les données brutes qui la fondent.
+Une *zero‑knowledge proof* prouve une information sans révéler les données brutes.
 
 En théorie :  
-- on prouve “j’ai plus de 18 ans”  
-- sans montrer de date de naissance  
-- ni de nom  
-- ni de numéro de document
+- prouver “j’ai plus de 18 ans”  
+- sans date de naissance  
+- sans nom  
+- sans numéro de document
 
-Mais cette technologie **ne garantit pas l’anonymat réel**, pour plusieurs raisons :
+Mais l’anonymat réel n’est pas garanti :
 
-### 1. Il faut s’identifier pour générer la preuve  
-L’anonymat est préservé *après*, mais pas *avant*.  
-Le lien entre identité civile et identité numérique existe bel et bien.
-
-### 2. L’infrastructure peut tracer ce que la cryptographie ne voit pas  
-Adresses IP, appareils, cookies, identifiants publicitaires :  
-le profilage reste possible.
-
-### 3. Le cadre légal peut évoluer  
-Une technologie conçue pour “vérifier l’âge” peut, demain, servir à vérifier autre chose.
-
-### 4. L’obligation de prouver crée un précédent  
-Même si la preuve est mathématiquement propre,  
-le geste de devoir prouver son identité transforme la nature même de l’espace numérique.
-
----
-
-# Le précédent du pass sanitaire : une infrastructure réutilisable
-
-Le dispositif de vérification d’âge est explicitement inspiré du **certificat Covid**.
-
-### Ce que le pass sanitaire a montré :
-- une infrastructure de contrôle peut être déployée très vite  
-- elle peut être déléguée à des acteurs privés  
-- elle peut devenir une habitude sociale  
-- elle peut être étendue ou réutilisée
-
-Le pass sanitaire n’était pas seulement un outil sanitaire.  
-C’était un **prototype**.
-
-### Ce que la vérification d’âge reprend :
-- même logique de “preuve à présenter”  
-- même délégation du contrôle  
-- même dépendance à une identité officielle  
-- même risque d’extension progressive
-
-Ce n’est pas un retour du pass sanitaire.  
-C’est son **héritage structurel**.
+1. Il faut s’identifier pour générer la preuve.  
+2. L’infrastructure peut tracer ce que la cryptographie ignore.  
+3. Le cadre légal peut évoluer.  
+4. Le geste de prouver transforme l’espace numérique.
 
 ---
 
 # Le risque d’une orwellisation douce
 
 Nous ne basculons pas dans un totalitarisme brutal.  
-Nous glissons vers une **orwellisation par couches**, par “fonctionnalités”, par “sécurisation”.
+Nous glissons vers une **orwellisation par couches**, par fonctionnalités, par sécurisation.
 
-### Les risques :
-- **normalisation de l’identification préalable**  
-- **disparition des espaces réellement anonymes**  
-- **asymétrie renforcée** entre citoyens et grandes structures  
-- **auto‑censure** induite par la traçabilité potentielle
+Les risques :  
+- normalisation de l’identification préalable  
+- disparition des espaces anonymes  
+- asymétrie renforcée  
+- auto‑censure induite par la traçabilité
 
-La fracture n’est pas dans le mécanisme — ancien —  
-mais dans sa **capacité nouvelle à devenir totalisant**.
+La nouveauté n’est pas le mécanisme, mais sa capacité à devenir totalisant.
 
 ---
 
-# Que peuvent faire les citoyens ? Les réponses possibles face à cette dérive
+# Que peuvent faire les citoyens ?
 
-Un système technique peut être légal, conforme, même “protecteur” dans son intention, tout en produisant un effet inquiétant : la réduction progressive de la liberté de circuler anonymement.  
-Face à cette dérive structurelle, les citoyens ne sont pas démunis.  
-Ils disposent de leviers démocratiques, juridiques, sociaux et culturels pour encadrer, limiter ou réorienter ce dispositif.
+Un dispositif peut être légal et protecteur dans son intention, tout en réduisant la liberté de circuler anonymement.
 
-## 1. Les actions citoyennes : refuser la normalisation silencieuse
-Les glissements les plus profonds ne se produisent pas par décret, mais par habitude.  
-Les citoyens peuvent :
-- questionner publiquement la proportionnalité du dispositif,  
-- soutenir des services qui respectent la vie privée,  
-- réduire volontairement leur exposition aux plateformes les plus intrusives,  
-- participer au débat public pour empêcher que l’identification préalable devienne une évidence.
+## 1. Refuser la normalisation silencieuse
+Les glissements profonds naissent de l’habitude.  
+Les citoyens peuvent questionner la proportionnalité, soutenir des services respectueux de la vie privée, réduire leur exposition, participer au débat.
 
-La résistance commence par la lucidité : refuser que l’exception devienne la norme.
+## 2. Les actions collectives
+Associations et experts jouent un rôle essentiel : documenter, saisir les autorités, lancer des recours, mobiliser.
 
-## 2. Les actions collectives : associations, experts, coalitions
-Les associations de défense des libertés numériques jouent un rôle essentiel.  
-Elles peuvent documenter les risques, saisir les autorités de protection des données, lancer des recours juridiques et mobiliser l’opinion publique.
+## 3. Le RGPD : un bouclier, pas un mur
+Le RGPD ne peut pas bloquer un règlement européen, mais il encadre strictement son application.
 
-Ce sont souvent elles qui parviennent à freiner ou corriger les dispositifs trop intrusifs.
-
-## 3. Le rôle du RGPD : un bouclier, pas un mur
-Le RGPD ne peut pas bloquer la loi elle‑même — un règlement européen ne peut pas en annuler un autre.  
-Mais il peut **encadrer strictement** son application et empêcher les dérives les plus graves.
-
-Le RGPD impose déjà :
-- la **minimisation** : aucune donnée inutile ne peut être collectée,  
-- la **finalité** : une preuve d’âge ne peut servir qu’à prouver l’âge,  
-- l’**interdiction de centralisation** : pas de base de données unique,  
-- l’**interdiction d’un identifiant transversal**,  
-- la **limitation de conservation**,  
-- la **transparence** et le **contrôle citoyen**.
+Il impose :  
+- minimisation  
+- finalité  
+- absence de centralisation  
+- absence d’identifiant transversal  
+- limitation de conservation  
+- transparence et contrôle citoyen
 
 [CNIL – RGPD, Chapitre II : Principes](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2)
 
-Face à un règlement européen, la CNIL ne peut pas dire “non”.
-Ces garde‑fous n’empêchent pas le dispositif d’exister,  
-mais ils empêchent qu’il devienne un outil de surveillance généralisée.
-
 ## 4. Le rôle des autorités de protection des données
-Les CNIL européennes peuvent bloquer une pratique disproportionnée, sanctionner une plateforme, exiger des modifications techniques,  
-et imposer des garanties supplémentaires.
+Les CNIL peuvent bloquer une pratique disproportionnée, sanctionner, exiger des garanties.  
+Mais il n’existe **aucune autorité européenne indépendante** capable de freiner un règlement européen.
 
-Elles constituent un contre‑pouvoir institutionnel essentiel. MAIS attention...<br>
-
-L’Union européenne n’a jamais voulu d’une véritable autorité indépendante : elle s’est contentée du CEPD, un organe de coordination sans dents, sans sanction, sans pouvoir d’arrêt.  
-Les États membres gardent jalousement ce territoire, car la protection des données touche au cœur de leurs prérogatives régaliennes.  
-Ainsi, le RGPD agit comme un rempart contre entreprises et administrations nationales, mais aucun contre‑pouvoir autonome n’existe pour freiner un règlement européen lorsqu’il dérape.
-
-
-## 5. Le rôle de la culture : défendre l’invisibilité comme droit fondamental
-Et de surcroit, la loi peut protéger les données, mais elle ne protège pas la **culture de la liberté**.  
-C’est aux citoyens, aux créateurs, aux penseurs, aux collectifs de rappeler que :
-- l’anonymat n’est pas un danger,  
-- la liberté de circuler sans prouver son identité est un droit ancien,  
-- la protection ne doit jamais devenir un prétexte pour réduire l’espace intérieur.
-
-C’est ici que se joue l’essentiel : dans la capacité d’une société à refuser la transparence obligatoire comme horizon.
+## 5. Défendre l’invisibilité comme droit fondamental
+La loi protège les données, pas la **culture de la liberté**.  
+L’anonymat n’est pas un danger : c’est un espace intérieur, un droit ancien, une respiration.
 
 ---
 
 # Reprendre l’invisibilité comme espace de liberté
 
-L’enjeu n’est pas de refuser toute technologie.  
-L’enjeu est de préserver un espace intérieur, un espace de respiration,  
-où l’on peut penser, chercher, errer, créer  
-sans être réduit à une donnée vérifiable.
+L’enjeu n’est pas de refuser la technologie, mais de préserver un espace où l’on peut penser, chercher, errer, créer sans être réduit à une donnée vérifiable.
 
 L’invisibilité n’est pas un effacement.  
 C’est une condition de la liberté.
-
-Et peut‑être que notre époque se joue là :  
-dans la défense de ce territoire fragile,  
-dans la reconquête de ce droit ancien,  
-dans la résistance à cette transparence obligatoire  
-qui avance masquée sous les traits de la protection.
 
 ---
 
