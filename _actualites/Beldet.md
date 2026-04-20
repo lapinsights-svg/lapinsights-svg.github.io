@@ -31,15 +31,16 @@ Selon les institutions économiques belges et européennes :
 Depuis dix ans, la Belgique a mené **toutes les réformes sociales possibles** : pensions, chômage, activation, économies ciblées.  
 Elles ont été nombreuses, parfois rudes, souvent difficiles.  
 Mais elles ne suffisent plus.  
+
+Et dernièrement la Belgique a vu sa note financière se dégrader 
+[Voir la vidéo](https://www.youtube.com/watch?v=t-d_ux3SVnQ)
+
 Ce qui manque aujourd’hui, ce sont **les réformes structurelles**, celles qui touchent aux fondations mêmes de l’État, à la duplication administrative, à la dispersion des compétences.  
 Ce sont elles qui pourraient réellement changer la trajectoire.  
 Et ce sont précisément celles qui n’arrivent pas.
 
 La pression sismique augmente.  
 Le sol reste immobile en surface.
-
-Et dernièrement la Belgique a vu sa note financière se dégrader 
-[Voir la vidéo](https://www.youtube.com/watch?v=t-d_ux3SVnQ)
 
 ---
 
