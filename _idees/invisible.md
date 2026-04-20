@@ -1,10 +1,12 @@
 ---
-title: "Après l’invisibilité : la fin des passages libres"
+title: "Apres l'invisibilite : la fin des passages libres"
 date: 2026-04-20
 categories: idees
 resume: "Suite de l’article «Identité numérique et réseaux sociaux » — quand l’actualité confirme la théorie."
 ---
 ![orwel](/images/idees/orwel.png)
+
+**Après l’invisibilité : la fin des passages libres**
 
 En janvier dernier, dans *Identité numérique et réseaux sociaux*, j'explorais la longue histoire d’une asymétrie : celle qui impose la visibilité aux uns et garantit l’opacité aux autres.  
 **Lire l’article précédent :** [Identité numérique et réseaux sociaux](https://lapinsights-svg.github.io/idees/idreseaux/)
