@@ -8,10 +8,8 @@ resume: "Suite de l’article «Identité numérique et réseaux sociaux » — 
 
 **Après l’invisibilité : la fin des passages libres**
 
-En janvier dernier, dans *Identité numérique et réseaux sociaux*, j'explorais la longue histoire d’une asymétrie : celle qui impose la visibilité aux uns et garantit l’opacité aux autres.  
+En janvier dernier, dans *Identité numérique et réseaux sociaux*, j'analisais le projet de loi et j'explorais la longue histoire d’une asymétrie : celle qui impose la visibilité aux uns et garantit l’opacité aux autres.  
 **Lire l’article précédent :** [Identité numérique et réseaux sociaux](https://lapinsights-svg.github.io/idees/idreseaux/)
-
-Puis l’actualité s’est invitée. Et ce qui n’était qu’une intuition s’est matérialisé.
 
 L’Union européenne vient d’annoncer une application de vérification d’âge inspirée du certificat Covid, destinée à devenir un passage obligé pour accéder à une partie du numérique.  
 Une preuve d’identité pour franchir des seuils autrefois libres.  
