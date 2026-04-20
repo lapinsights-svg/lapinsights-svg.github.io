@@ -1,9 +1,8 @@
 ---
 title: "La politique devrait anticiper. Les institutions belges attendent la contrainte."
-date: 2026-04-17
-layout: post
-categories: [analyse, belgique, institutions]
-resume: "La Belgique avance vers la contrainte sans anticiper. Une mécanique institutionnelle où les secousses profondes s’accumulent sans jamais être libérées."
+date: 2026-04-20
+categories: actualites
+resume: "La Belgique avance vers la contrainte sans anticiper."
 ---
 
 # La politique devrait anticiper.  
@@ -17,7 +16,7 @@ C’est la rationalité élémentaire : agir avant que la secousse ne devienne s
 
 ---
 
-## Encadré — Le déficit belge : une onde qui se propage  
+## Encadré — Le déficit belge est une onde qui se propage  
 
 La Belgique porte aujourd’hui **l’un des déficits structurels les plus élevés de l’Union européenne**.  
 Selon les institutions économiques belges et européennes :
@@ -41,7 +40,7 @@ Le sol reste immobile en surface.
 
 ---
 
-## 2. La mécanique institutionnelle : un système de failles profondes  
+## 2. La mécanique institutionnelle est un système de failles profondes  
 La Belgique n’est pas un édifice unifié.  
 C’est un réseau de failles superposées — fédéral, Régions, Communautés, communes — chacune avec sa propre profondeur, sa propre direction, sa propre tension interne.
 
@@ -77,7 +76,7 @@ C’est structurel.
 
 ---
 
-## 4. Le faux calcul du statu quo : la tension qu’on croit contenir  
+## 4. Le faux calcul du statu quo  
 Dans la logique humaine, on sait qu’il vaut mieux renforcer avant la secousse que reconstruire après l’effondrement.  
 Mais dans la logique institutionnelle belge, le statu quo paraît stable, la réforme semble risquée, les bénéfices paraissent lointains.
 
@@ -105,7 +104,7 @@ C’était de la survie.
 
 ---
 
-## 6. Conclusion — Le point de rupture  
+## 6. Conclusion 
 
 La contrainte approche, mais la Belgique peut encore choisir de bouger avant qu’elle ne s’impose.  
 Les réformes structurelles viendront de toute façon : la seule inconnue est le prix à payer pour les déclencher.  
