@@ -185,7 +185,12 @@ Les CNIL européennes peuvent bloquer une pratique disproportionnée, sanctionne
 et imposer des garanties supplémentaires.
 
 Elles constituent un contre‑pouvoir institutionnel essentiel. MAIS attention....
-L’Union européenne n’a jamais créé de “CNIL européenne” : elle a préféré un simple organe de coordination, le CEPD, sans pouvoir de sanction ni de blocage. Les États membres refusent de céder ce contrôle à Bruxelles, car la protection des données touche directement leurs prérogatives régaliennes. Résultat : le RGPD protège contre les entreprises et les États, mais aucun contre‑pouvoir indépendant ne peut s’opposer à un règlement européen lui‑même.
+L’Union européenne n’a jamais créé de “CNIL européenne” : 
+elle a préféré un simple organe de coordination, le CEPD, sans pouvoir de sanction ni de blocage. 
+Les États membres refusent de céder ce contrôle à Bruxelles, car la protection des données touche 
+directement leurs prérogatives régaliennes. Résultat : 
+le RGPD protège contre les entreprises et les États, 
+mais aucun contre‑pouvoir indépendant ne peut s’opposer à un règlement européen lui‑même.
 
 ## 5. Le rôle de la culture : défendre l’invisibilité comme droit fondamental
 Et de surcroit, la loi peut protéger les données, mais elle ne protège pas la **culture de la liberté**.  
