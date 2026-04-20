@@ -144,6 +144,7 @@ immédiatement disqualifiée comme signe d’aveuglement ou de résistance inté
 structure transforme la soumission en sagesse et la pensée critique en faute existentielle.
 
 **4. Marchandisation du spirituel**  
+
 Ateliers, retraites, certifications : la souffrance devient marché, la guérison devient produit.
 
 Quand la souffrance devient un produit, elle doit être entretenue pour que le marché
@@ -174,6 +175,7 @@ mécanismes internes et de ses implications psychologiques et éthiques. Cette �
 complète est disponible pour celles et ceux qui souhaitent approfondir la réflexion.
 
 **Bibliographie**  
+
 **Byron Katie**  
 • Loving What Is: Four Questions That Can Change Your Life, Harmony Books, 2002.  
 • A Thousand Names for Joy: Living in Harmony with the Way Things Are, Harmony
