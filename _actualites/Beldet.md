@@ -38,6 +38,9 @@ Et ce sont précisément celles qui n’arrivent pas.
 La pression sismique augmente.  
 Le sol reste immobile en surface.
 
+Et dernièrement la Belgique a vu sa note financière se dégrader 
+[Voir la vidéo](https://www.youtube.com/watch?v=t-d_ux3SVnQ)
+
 ---
 
 ## 3. La mécanique institutionnelle est un système de failles profondes  
