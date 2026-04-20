@@ -180,6 +180,9 @@ Le RGPD impose déjà :
 - la **limitation de conservation**,  
 - la **transparence** et le **contrôle citoyen**.
 
+[CNIL – RGPD, Chapitre II : Principes](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2)
+
+
 Ces garde‑fous n’empêchent pas le dispositif d’exister,  
 mais ils empêchent qu’il devienne un outil de surveillance généralisée.
 
