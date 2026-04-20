@@ -6,7 +6,7 @@ resume: "Suite de l’article «Identité numérique et réseaux sociaux » — 
 ---
 ![orwel](/images/idees/orwel.png)
 
-Dans *Identité numérique et réseaux sociaux*, j'explorais la longue histoire d’une asymétrie : celle qui impose la visibilité aux uns et garantit l’opacité aux autres.  
+En janvier dernier, dans *Identité numérique et réseaux sociaux*, j'explorais la longue histoire d’une asymétrie : celle qui impose la visibilité aux uns et garantit l’opacité aux autres.  
 **Lire l’article précédent :** [Identité numérique et réseaux sociaux](https://lapinsights-svg.github.io/idees/idreseaux/)
 
 Puis l’actualité s’est invitée. Et ce qui n’était qu’une intuition s’est matérialisé.
@@ -217,3 +217,7 @@ dans la défense de ce territoire fragile,
 dans la reconquête de ce droit ancien,  
 dans la résistance à cette transparence obligatoire  
 qui avance masquée sous les traits de la protection.
+
+---
+
+Céleste R.
