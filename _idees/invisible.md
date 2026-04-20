@@ -56,10 +56,9 @@ C’est une **infrastructure d’identification préalable**, appelée à deveni
 
 # Quand la “protection” devient un prétexte structurel
 
-Depuis le début, la communication publique a présenté ce dispositif comme une mesure de “protection des mineurs”.  
-Mais lorsqu’on examine les textes européens, l’architecture technique et les obligations imposées aux plateformes, une autre dynamique apparaît.
 
-La logique est toujours la même :  
+Lorsqu’on examine les textes européens, l’architecture technique et les obligations imposées aux plateformes, 
+la logique est toujours la même :  
 **promettre plus de sécurité** — une sécurité souvent théorique, partielle, ou contournable —  
 en échange de **moins de liberté**, une réduction bien réelle, mesurable, et inscrite dans l’infrastructure.
 
@@ -78,10 +77,10 @@ La sécurité promise reste incertaine ; la perte de liberté, elle, est certain
 Une *zero‑knowledge proof* permet de prouver une information sans révéler les données brutes qui la fondent.
 
 En théorie :  
-- tu prouves “j’ai plus de 18 ans”  
-- sans montrer ta date de naissance  
-- ni ton nom  
-- ni ton numéro de document
+- on prouves “j’ai plus de 18 ans”  
+- sans montrer de date de naissance  
+- ni de nom  
+- ni de numéro de document
 
 Mais cette technologie **ne garantit pas l’anonymat réel**, pour plusieurs raisons :
 
