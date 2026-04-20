@@ -36,7 +36,7 @@ C'est un glissement subtil vers la fin de l’anonymat.
 
 ---
 
-# Ce que l’on nous a dit — et ce que les textes prévoient réellement
+# Ce que l’on nous a dit et ce que les textes prévoient réellement
 
 La communication politique et médiatique a présenté ce dispositif comme une mesure destinée **uniquement aux réseaux sociaux**, pour “protéger les mineurs”.
 
@@ -71,7 +71,7 @@ La sécurité promise reste incertaine ; la perte de liberté, elle, est certain
 
 ---
 
-# Encadré — Ce que fait réellement une “zero‑knowledge proof”
+# Encadré : Ce que fait réellement une “zero‑knowledge proof”
 
 Une *zero‑knowledge proof* permet de prouver une information sans révéler les données brutes qui la fondent.
 
