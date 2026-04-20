@@ -2,12 +2,12 @@
 title: "Après l’invisibilité : la fin des passages libres"
 date: 2026-04-20
 categories: idees
-resume: "Suite de l’article « À qui appartient le droit d’être invisible ? » — quand l’actualité confirme la théorie."
+resume: "Suite de l’article «Identité numérique et réseaux sociaux » — quand l’actualité confirme la théorie."
 ---
 ![orwel](/images/idees/orwel.png)
 
-Dans *À qui appartient le droit d’être invisible ?*, j'explorais la longue histoire d’une asymétrie : celle qui impose la visibilité aux uns et garantit l’opacité aux autres.  
-**Lire l’article précédent :** [À qui appartient le droit d’être invisible ?](https://lapinsights-svg.github.io/idees/idreseaux/)
+Dans *Identité numérique et réseaux sociaux*, j'explorais la longue histoire d’une asymétrie : celle qui impose la visibilité aux uns et garantit l’opacité aux autres.  
+**Lire l’article précédent :** [Identité numérique et réseaux sociaux](https://lapinsights-svg.github.io/idees/idreseaux/)
 
 Puis l’actualité s’est invitée. Et ce qui n’était qu’une intuition s’est matérialisé.
 
