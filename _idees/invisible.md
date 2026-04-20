@@ -77,7 +77,7 @@ La sécurité promise reste incertaine ; la perte de liberté, elle, est certain
 Une *zero‑knowledge proof* permet de prouver une information sans révéler les données brutes qui la fondent.
 
 En théorie :  
-- on prouves “j’ai plus de 18 ans”  
+- on prouve “j’ai plus de 18 ans”  
 - sans montrer de date de naissance  
 - ni de nom  
 - ni de numéro de document
