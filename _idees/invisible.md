@@ -59,7 +59,7 @@ La sécurité reste incertaine ; la perte de liberté, elle, est certaine.
 
 ---
 
-## 🔥 Même les infrastructures “sécurisées” cèdent
+## Même les infrastructures “sécurisées” cèdent
 
 L’actualité l’a rappelé :  
 l’**Agence nationale des titres sécurisés (ANTS)** — cartes d’identité, passeports, permis — a subi une fuite de données sensibles.  
