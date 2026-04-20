@@ -194,8 +194,7 @@ Le bouddhisme contemporain, tel qu’il est diffusé en Occident, est devenu une
 Il ne parle plus de connaissance, de discernement, de lucidité.  
 Il parle de respiration, de douceur, de non‑résistance.
 
-Pendant ce temps, l’histoire montre que les peuples qui méditent pendant que d’autres avancent  
-finissent absorbés, effacés, dissous.
+Pendant ce temps, l’histoire montre que les peuples qui méditent pendant que d’autres avancent finissent absorbés, effacés, dissous.
 
 ---
 
