@@ -159,7 +159,7 @@ La résistance commence par la lucidité : refuser que l’exception devienne la
 
 ## 2. Les actions collectives : associations, experts, coalitions
 Les associations de défense des libertés numériques jouent un rôle essentiel.  
-Elles peuvent documenter les risques,saisir les autorités de protection des données,lancer des recours juridiques,  
+Elles peuvent documenter les risques, saisir les autorités de protection des données, lancer des recours juridiques  
 et mobiliser l’opinion publique.
 
 Ce sont souvent elles qui parviennent à freiner ou corriger les dispositifs trop intrusifs.
@@ -183,16 +183,13 @@ Ces garde‑fous n’empêchent pas le dispositif d’exister,
 mais ils empêchent qu’il devienne un outil de surveillance généralisée.
 
 ## 4. Le rôle des autorités de protection des données
-Les CNIL européennes peuvent :
-- bloquer une pratique disproportionnée,  
-- sanctionner une plateforme,  
-- exiger des modifications techniques,  
-- imposer des garanties supplémentaires.
+Les CNIL européennes peuvent bloquer une pratique disproportionnée, sanctionner une plateforme, exiger des modifications techniques,  
+et imposer des garanties supplémentaires.
 
 Elles constituent un contre‑pouvoir institutionnel essentiel.
 
 ## 5. Le rôle de la culture : défendre l’invisibilité comme droit fondamental
-La loi peut protéger les données, mais elle ne protège pas la **culture de la liberté**.  
+Oui, la loi peut protéger les données, mais elle ne protège pas la **culture de la liberté**.  
 C’est aux citoyens, aux créateurs, aux penseurs, aux collectifs de rappeler que :
 - l’anonymat n’est pas un danger,  
 - la liberté de circuler sans prouver son identité est un droit ancien,  
