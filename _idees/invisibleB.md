@@ -2,7 +2,7 @@
 title: "Apres l'invisibilite : la fin des passages libres"
 date: 2026-04-20
 categories: idees
-resume: "Suite de l’article «Identité numérique et réseaux sociaux »
+resume: "Suite de l’article «Identité numérique et réseaux sociaux"
 ---
 ![orwel](/images/idees/orwel.png)
 
