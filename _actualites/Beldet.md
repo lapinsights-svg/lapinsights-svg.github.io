@@ -16,7 +16,7 @@ C’est la rationalité élémentaire : agir avant que la secousse ne devienne s
 
 ---
 
-## Le déficit belge est une onde qui se propage  
+## 2. Le déficit belge est une onde qui se propage  
 
 La Belgique porte aujourd’hui **l’un des déficits structurels les plus élevés de l’Union européenne**.  
 Selon les institutions économiques belges et européennes :
@@ -40,7 +40,7 @@ Le sol reste immobile en surface.
 
 ---
 
-## 2. La mécanique institutionnelle est un système de failles profondes  
+## 3. La mécanique institutionnelle est un système de failles profondes  
 La Belgique n’est pas un édifice unifié.  
 C’est un réseau de failles superposées — fédéral, Régions, Communautés, communes — chacune avec sa propre profondeur, sa propre direction, sa propre tension interne.
 
@@ -57,7 +57,7 @@ C’est une propriété du sous‑sol politique : un pays où rien ne bouge tant
 
 ---
 
-## 3. Le paradoxe belge : une tension record, mais aucune libération  
+## 4. Le paradoxe belge : une tension record, mais aucune libération  
 Les signaux sont là.  
 Ils vibrent.  
 Ils s’accumulent.  
@@ -76,7 +76,7 @@ C’est structurel.
 
 ---
 
-## 4. Le faux calcul du statu quo  
+## 5. Le faux calcul du statu quo  
 Dans la logique humaine, on sait qu’il vaut mieux renforcer avant la secousse que reconstruire après l’effondrement.  
 Mais dans la logique institutionnelle belge, le statu quo paraît stable, la réforme semble risquée, les bénéfices paraissent lointains.
 
@@ -85,7 +85,7 @@ Pendant ce temps, les failles continuent de se charger.
 
 ---
 
-## 5. L’histoire le montre : les réformes n’arrivent qu’après la secousse  
+## 6. L’histoire le montre : les réformes n’arrivent qu’après la secousse  
 Ce phénomène n’est pas propre à la Belgique.  
 D’autres pays fragmentés ont attendu la rupture avant d’agir.
 
