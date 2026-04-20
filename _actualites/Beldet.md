@@ -16,7 +16,7 @@ C’est la rationalité élémentaire : agir avant que la secousse ne devienne s
 
 ---
 
-## Encadré — Le déficit belge est une onde qui se propage  
+## Le déficit belge est une onde qui se propage  
 
 La Belgique porte aujourd’hui **l’un des déficits structurels les plus élevés de l’Union européenne**.  
 Selon les institutions économiques belges et européennes :
