@@ -5,7 +5,7 @@ layout: article
 category: idees
 resume: "Une lecture critique du manifeste *La République technologique*"
 ---
-
+![natechno](/images/idees/natechno.png)
 # Présentation du manifeste
 
 Ce texte propose une lecture critique du manifeste **La République technologique : Pouvoir dur, croyances douces et avenir de l’Occident**, attribué à Alexander C. Karp et Nicholas W. Zamiska.
