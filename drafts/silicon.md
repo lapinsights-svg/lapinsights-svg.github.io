@@ -25,13 +25,11 @@ Le texte articule :
 
 C’est un manifeste civilisationnel, qui cherche à redessiner les contours du monde en s’appuyant sur l’infrastructure numérique.
 
-# Extraits cités (courts passages autorisés)
+# Extraits cités 
 
 > « La question n’est pas de savoir si des armes dotées d’intelligence artificielle seront construites, mais qui les construira et dans quel but. »
 
 > « Certaines cultures ont accompli des progrès essentiels ; d’autres demeurent dysfonctionnelles et régressives. »
-
-Ces extraits suffisent à révéler la structure idéologique du texte sans en reproduire l’intégralité.
 
 ---
 
@@ -97,7 +95,7 @@ De ce récit émerge une entité collective supérieure :
 
 ---
 
-# 4. Les dangers démocratiques d’une sur-nation technologique
+# 4. Les dangers démocratiques d’un tel projet
 
 Le manifeste esquisse une réorganisation profonde du rapport entre État, technologie et société.  
 Les conséquences pour les libertés démocratiques seraient considérables.
@@ -152,11 +150,11 @@ Si les principes du manifeste étaient appliqués :
 - les décisions seraient centralisées.
 
 Ce n’est pas un autoritarisme classique :  
-c’est un **autoritarisme computationnel**, propre au XXIe siècle.
+c’est un **autoritarisme computationnel**, propre au 21ème siècle.
 
 ---
 
-# Interprétation critique : la voix du territoire
+# Interprétation critique : la voix du territoire souverain
 
 Dans ce manifeste, quelque chose glisse.  
 On croit d’abord lire une profession de foi technologique, un hymne à l’innovation.  
