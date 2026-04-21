@@ -27,24 +27,30 @@ feed:
 collections:
   actualites:
     output: true
+    feed: true
     permalink: /actualites/:title/
   creations:
     output: true
+    feed: true
     permalink: /creations/:title/
   idees:
     output: true
+    feed: true
     permalink: /idees/:title/
   spiritualite:
     output: true
+    feed: true
     permalink: /spiritualite/:title/
   passe:
     output: true
+    feed: true
     permalink: /passe/:title/
   vibrations:
     output: true
+    feed: true
     permalink: /vibrations/:title/
 
-# Layouts + Images OG par défaut (via path, sans modifier les fichiers .md)
+# Layouts + Images OG par défaut
 defaults:
   - scope:
       path: "_actualites"
