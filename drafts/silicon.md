@@ -33,14 +33,14 @@ C’est un manifeste civilisationnel, qui cherche à redessiner les contours du 
 
 ---
 
-# Mutation idéologique : du sur-homme à la sur-nation technologique
-
-Ici, le terme sur‑homme ne renvoie pas à Nietzsche, mais à sa récupération et déformation par l’idéologie nazie — une figure de puissance biologique, hiérarchique, racialiste, dont le manifeste transpose aujourd’hui la structure dans l’ordre technologique.
+# Mutation idéologique : du sur-homme nazi à la sur-nation technologique
 
 ## 1. Cartographie de la mutation
 
-| Élément | Version historique (sur-homme) | Version du manifeste (sur-nation technologique) |
-|--------|--------------------------------|--------------------------------------------------|
+Ici, le terme *sur-homme* ne renvoie pas à Nietzsche, mais à sa récupération et déformation par l’idéologie nazie : une figure de puissance biologique, hiérarchique, racialiste, dont le manifeste transpose aujourd’hui la structure dans l’ordre technologique.
+
+| Élément | Version historique (sur-homme nazi) | Version du manifeste (sur-nation technologique) |
+|--------|--------------------------------------|--------------------------------------------------|
 | Fondement | Biologie, vitalité | Technologie, IA, puissance numérique |
 | Sujet | Individu supérieur | Civilisation occidentale supérieure |
 | Légitimité | Force physique | Supériorité technologique |
@@ -163,11 +163,12 @@ On croit d’abord lire une profession de foi technologique, un hymne à l’inn
 Mais sous la surface, un autre mouvement affleure :  
 le retour d’un vieux mythe, transfiguré par le silicium.
 
-Le sur-homme n’est plus un corps.  
-Il devient une nation.  
-Une sur-nation technologique, persuadée d’être l’ultime rempart d’une civilisation menacée.  
-La puissance ne se mesure plus en muscles, mais en infrastructures, en IA, en architectures invisibles.
+Le sur-homme s’est dissous dans la machine.  
+Et de cette dissolution naît une nouvelle figure :  
+**la sur-nation technologique**,  
+convaincue d’être l’ultime rempart d’une civilisation menacée.
 
+La puissance ne se mesure plus en muscles, mais en infrastructures, en IA, en architectures invisibles.  
 Le récit est ancien : un âge d’or, une décadence, une renaissance par la force.  
 Mais la force, désormais, n’est plus physique.  
 Elle est computationnelle.
@@ -176,10 +177,23 @@ Ce texte ne parle pas seulement de technologie.
 Il parle d’un désir de verticalité, d’un besoin de hiérarchie, d’une nostalgie de la puissance.  
 Il rêve d’une civilisation qui se redresse, qui se durcit, qui se rassemble autour d’un mythe de supériorité — non plus raciale, mais algorithmique.
 
-Le sur-homme s’est dissous dans la machine.  
-Et de cette dissolution naît une nouvelle figure :  
-**la sur-nation technologique**,  
-convaincue d’être la seule à pouvoir sauver le monde en le dominant.
+---
+
+## Complot, secret et continuité
+
+Le manifeste ne parle jamais de « complot ».  
+Il ne revendique aucune opération clandestine.  
+Mais il s’inscrit dans une histoire où les États ont déjà mené, nié, puis reconnu des actions secrètes — coups d’État, programmes de surveillance, opérations d’influence.
+
+Ce texte ne dit pas : « cela n’existe plus ».  
+Il fait autre chose, plus subtil :  
+il installe un cadre où l’opacité, la raison d’État et la coordination discrète entre acteurs publics et privés deviennent des instruments normaux de la puissance occidentale.
+
+Dans ce contexte, la frontière entre ce qui relevait hier du secret et ce qui pourrait demain être présenté comme doctrine stratégique s’amincit.  
+Non parce que tout serait complot,  
+mais parce que les mêmes logiques — opacité, verticalité, intérêt supérieur — se prolongent, se recomposent, se légitiment.
+
+---
 
 # Conclusion
 
