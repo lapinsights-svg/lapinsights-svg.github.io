@@ -36,6 +36,8 @@ C’est un manifeste civilisationnel, qui cherche à redessiner les contours du 
 
 # Mutation idéologique : du sur-homme nazi à la sur-nation technologique
 
+Voici mon interprétation du texte, une lecture critique de la manière dont le manifeste réactive et transforme une structure idéologique héritée.
+
 ## 1. Cartographie de la mutation
 
 Ici, le terme *sur-homme* ne renvoie pas à Nietzsche, mais à sa récupération et déformation par l’idéologie nazie : une figure de puissance biologique, hiérarchique, racialiste, dont le manifeste transpose aujourd’hui la structure dans l’ordre technologique.
