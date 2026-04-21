@@ -9,7 +9,8 @@ resume: "Une lecture critique du manifeste *La République technologique"
 Ce texte propose une lecture critique du manifeste **La République technologique : Pouvoir dur, croyances douces et avenir de l’Occident**, attribué à Alexander C. Karp et Nicholas W. Zamiska.
 
 Le livre est présenté par son éditeur américain ici :  
-[Page officielle Penguin Random House](https://www.penguinrandomhouse.com/books/)
+[Page officielle du livre — *The Technological Republic* (Penguin Random House)](https://www.penguinrandomhouse.com/books/760945/the-technological-republic-by-alexander-c-karp-and-nicholas-w-zamiska/)
+
 
 Dès ses premières lignes, le manifeste installe une vision du monde dense, verticale, presque tellurique :  
 une civilisation menacée, un Occident à réarmer, une Silicon Valley investie d’un devoir moral.  
