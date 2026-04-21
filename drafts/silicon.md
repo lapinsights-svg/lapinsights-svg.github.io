@@ -1,15 +1,16 @@
 ---
-title: "La tentation autoritaire de l’Occident technologique*"
+title: "La tentation autoritaire de l’Occident technologique"
 date: 2026-04-21
 categories: idees
-resume: "Une lecture critique du manifeste *La République technologique*"
+resume: "Une lecture critique du manifeste *La République technologique"
 ---
 ![natechno](/images/idees/natechno.png)
 
 Ce texte propose une lecture critique du manifeste **La République technologique : Pouvoir dur, croyances douces et avenir de l’Occident**, attribué à Alexander C. Karp et Nicholas W. Zamiska.
 
 Le livre est présenté par son éditeur américain ici :  
-[Page officielle Penguin Random House](https://www.penguinrandomhouse.com/books/)
+[Page officielle du livre — *The Technological Republic* (Penguin Random House)](https://www.penguinrandomhouse.com/books/760945/the-technological-republic-by-alexander-c-karp-and-nicholas-w-zamiska/)
+
 
 Dès ses premières lignes, le manifeste installe une vision du monde dense, verticale, presque tellurique :  
 une civilisation menacée, un Occident à réarmer, une Silicon Valley investie d’un devoir moral.  
@@ -34,6 +35,8 @@ C’est un manifeste civilisationnel, qui cherche à redessiner les contours du 
 ---
 
 # Mutation idéologique : du sur-homme nazi à la sur-nation technologique
+
+Voici mon interprétation du texte, une lecture critique de la manière dont le manifeste réactive et transforme une structure idéologique héritée.
 
 ## 1. Cartographie de la mutation
 
