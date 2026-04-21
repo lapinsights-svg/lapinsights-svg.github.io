@@ -13,6 +13,16 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# Flux RSS incluant toutes les collections
+feed:
+  collections:
+    - actualites
+    - creations
+    - idees
+    - spiritualite
+    - passe
+    - vibrations
+
 # Collections éditoriales
 collections:
   actualites:
