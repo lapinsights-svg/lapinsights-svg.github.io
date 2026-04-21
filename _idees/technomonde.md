@@ -2,7 +2,7 @@
 title: "La tentation autoritaire de l’Occident technologique"
 date: 2026-04-21
 categories: idees
-resume: "Une lecture critique du manifeste *La République technologique*"
+resume: "Une lecture critique du manifeste *La République technologique"
 ---
 ![natechno](/images/idees/natechno.png)
 
