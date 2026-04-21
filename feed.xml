@@ -1,0 +1,27 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <link>{{ site.url }}{{ site.baseurl }}</link>
+    <description>{{ site.description | xml_escape }}</description>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+
+    {% assign all_items = site.actualites | concat: site.idees | concat: site.creations | concat: site.spiritualite | concat: site.vibrations | concat: site.passe %}
+    {% assign sorted_items = all_items | sort: "date" | reverse %}
+
+    {% for item in sorted_items %}
+    <item>
+      <title>{{ item.title | xml_escape }}</title>
+      <link>{{ site.url }}{{ item.url }}</link>
+      <guid>{{ site.url }}{{ item.url }}</guid>
+      <pubDate>{{ item.date | date_to_rfc822 }}</pubDate>
+      <description>{{ item.excerpt | xml_escape }}</description>
+    </item>
+    {% endfor %}
+
+  </channel>
+</rss>
