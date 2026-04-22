@@ -89,7 +89,7 @@ La douceur du chat.
 La chaleur du poney.  
 Le frisson de l’oiseau.
 Le clapotement du canard.
-Le calme du capibara.  
+Le calme du capybara.  
 L’ombre chaude du loup.  
 La lumière du renard.
 
