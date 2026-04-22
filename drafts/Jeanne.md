@@ -33,8 +33,8 @@ Elle porte la fidélité.
 Et contre sa poitrine,  
 elle serre une croix façonnée à la hâte,  
 deux morceaux de bois liés par un souffle,  
-un signe fragile  
-qui la relie à l'invisible.
+un signe fervent
+qui la relie à l'insaisissable.
 
 Dans la vallée de la mort,  
 les voix se taisent.  
