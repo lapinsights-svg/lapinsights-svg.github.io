@@ -16,7 +16,7 @@ tags:
 ## I. Communion des souffles
 Dans la Nef du vivant, les souffles se reconnaissent avant les corps.  
 Ils se frôlent, se mêlent,  
-comme des animaux anciens  
+tels des animaux anciens  
 qui se souviennent d’avoir déjà marché ensemble  
 dans une autre nuit du monde.
 
@@ -30,7 +30,7 @@ Ils portent encore la poussière des routes,
 les cicatrices des jours trop lourds,  
 les tremblements qu’on cache sous la peau.
 
-Ici, rien n’est jugé.  
+Ici, rien n’est attendu.  
 La prière n’est pas un devoir :  
 c’est un élan,  
 un battement qui en cherche une cadence 
@@ -53,7 +53,7 @@ non plus pour convaincre,
 mais pour exulter.
 
 Elles murmurent des psaumes de chair,  
-des hymnes de peau frémissante,  
+des hymnes de terre frémissante,  
 des prières qui montent du ventre  
 et s’élèvent comme une clarté vive.
 
@@ -67,13 +67,13 @@ un regard peut bénir,
 un regard peut guérir,  
 un regard peut ouvrir un ciel.
 
-## VI. Ferveur du vent éclairant le ciel
+## VI. Ferveur du vent 
 Et lorsque le vent se lève,  
 il devient liturgie.  
 Il traverse les êtres,  
 soulève les paupières,  
-embrase les ombres,  
-et éclaire le ciel comme un vitrail mouvant.
+défait les ombres,  
+et embrase le ciel comme un vitrail mouvant.
 
 Alors les vivants se rassemblent,  
 non pour adorer,  
@@ -83,8 +83,8 @@ Ils forment une nef de corps et de souffles,
 une procession de braises humaines,  
 une constellation de chairs vibrantes,  
 une Nef sans murs,  
-où la seule doctrine est la présence,  
-où la seule loi est la clarté,  
+où la présence est la seule doctrine,  
+où la douceur est une loi divine,  
 où la seule éternité est le vivant qui circule  
 de coeurs en mains,  
 de souffle en souffle,  
