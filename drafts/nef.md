@@ -3,13 +3,13 @@ title: "Chant liturgique de la Nef du Vivant"
 date: 2026-04-22
 categories: creations
 resume: "Un chant mystique et charnel pour la Nef du vivant, entre communion des souffles et ferveur du vent."
-cover: ""
 tags:
   - poésie
   - liturgie
   - mystique
   - vivant
 ---
+![nef5](/images/creations/nef5.png)
 
 # Chant liturgique de la Nef du Vivant
 
