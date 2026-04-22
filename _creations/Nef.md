@@ -9,7 +9,7 @@ tags:
   - mystique
   - vivant
 ---
-![nef5](/images/creations/nef5.png)
+![nef6](/images/creations/nef6.png)
 
 # Chant liturgique : la Nef du Vivant
 
