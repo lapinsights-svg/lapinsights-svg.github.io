@@ -90,7 +90,7 @@ comme on s’engouffre dans un passage,
 non pour s’effacer,  
 mais pour rejoindre les voix prophétiques.
 
-Un feu de cristal.
-Un souffle poussiéreux.  
+Un feu de cristal jaillit.
+Puis, un souffle poussiéreux :  
 Un secret d’obsidienne
 se répand sur le monde.
