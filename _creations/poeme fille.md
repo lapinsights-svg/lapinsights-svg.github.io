@@ -2,7 +2,7 @@
 title: "Poème pour ma fille"
 date: 2026-03-19
 categories: creations
-resume: "Un poème sensoriel et intime sur la manière dont une enfant ressent le monde."
+resume: "Un poème sensoriel et intime sur la manière dont cette enfant ressent le monde."
 ---
 
 ![Poney](/images/creations/Poney.png)
