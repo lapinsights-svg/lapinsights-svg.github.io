@@ -92,5 +92,5 @@ mais pour rejoindre les voix prophétiques.
 
 Un feu de cristal.
 Un souffle poussiéreux.  
-Un secret nocturne
+Un secret d’obsidienne
 se répand sur le monde.
