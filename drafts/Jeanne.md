@@ -19,7 +19,7 @@ Elle écoute.
 
 Les troncs se penchent,  
 les branches frémissent,  
-les mousses retiennent la brume.  
+les mousses absorbent la brume.  
 Quelque chose reconnaît en elle  
 une sœur d’autrefois,  
 une enfant du feu et de la forêt,  
