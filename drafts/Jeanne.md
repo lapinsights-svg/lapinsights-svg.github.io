@@ -94,3 +94,7 @@ Un feu de cristal jaillit.
 Puis, un souffle poussiéreux :  
 Un secret d’obsidienne
 se répand sur le monde.
+
+Et depuis le jour où le cygne blanc fut immolé,
+nul n’a pu percer le bouclier
+qui en retient la vérité.
