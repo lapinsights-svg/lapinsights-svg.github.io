@@ -181,9 +181,9 @@ faute, où la réalité devient un dogme.
 -------------  
 Pour une analyse plus détaillée des mécanismes du Travail et de ses implications
 psychologiques, éthiques et métaphysiques, cliquer sur ce lien :  
-➡️ **[Analyse critique du Travail de Byron Katie — PDF](https://lapinsights-svg.github.io/spiritualite/Byron1/)**
+➡️ **[Analyse critique du Travail de Byron Katie](https://lapinsights-svg.github.io/spiritualite/Byron1/)**
 
-J’ai rassemblé dans ce PDF une analyse détaillée du Travail de Byron Katie, de ses
+J'ai réalisé une analyse détaillée du Travail de Byron Katie, de ses
 mécanismes internes et de ses implications psychologiques et éthiques. Cette étude
 complète est disponible pour celles et ceux qui souhaitent approfondir la réflexion.
 
