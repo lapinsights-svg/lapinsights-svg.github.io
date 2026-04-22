@@ -73,6 +73,11 @@ Une chaleur profonde,
 comme un manteau posé sur moi.  
 Un silence qui protège.
 
+Le canard, je le sens dans mes jambes,
+quand je rentre dans l'eau
+je barbote avec lui 
+dans ses ailes soyeuses.
+
 Le capibara,  
 c’est la douceur qui flotte.  
 Sa peau chaude,  
