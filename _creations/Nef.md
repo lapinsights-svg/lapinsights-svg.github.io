@@ -33,7 +33,7 @@ les tremblements qu’on cache sous la peau.
 Ici, rien n’est attendu.  
 La prière n’est pas un devoir :  
 c’est un élan,  
-un battement qui en cherche une cadence 
+un battement qui cherche une cadence 
 pour entrer dans la danse.
 
 ## III. Divagation de l’être
