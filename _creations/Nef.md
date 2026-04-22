@@ -14,7 +14,13 @@ tags:
 # Chant liturgique : la Nef du Vivant
 
 ## I. Communion des souffles
-Dans la Nef du vivant, les souffles se reconnaissent avant les corps.  
+Dans la Nef du vivant,  
+les souffles se reconnaissent avant les corps.  
+Ils se frôlent, se mêlent,  
+tels des animaux anciens  
+qui se souviennent d’avoir déjà marché ensemble  
+dans une autre nuit du monde.
+
 Ils se frôlent, se mêlent,  
 tels des animaux anciens  
 qui se souviennent d’avoir déjà marché ensemble  
