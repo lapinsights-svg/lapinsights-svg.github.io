@@ -86,6 +86,6 @@ une Nef sans murs,
 où la présence est la seule doctrine,  
 où la douceur est une loi divine,  
 où la seule éternité est le vivant qui circule  
-de coeurs en mains,  
+de coeur en main,  
 de souffle en souffle,  
 de monde en univers.
