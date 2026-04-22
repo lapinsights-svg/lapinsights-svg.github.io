@@ -17,25 +17,38 @@ réalité devient un dogme.
 Le Travail de Byron Katie appartient à cette catégorie de dispositifs. Derrière la simplicité
 apparente des quatre questions se déploie une technologie de l’esprit qui reconfigure la
 manière même dont un individu peut percevoir, interpréter, juger, souffrir, résister.
+# 1. Généalogie des gourous modernes
 
-**1. Généalogie des gourous modernes**  
-Les figures spirituelles contemporaines émergent dans un contexte où la quête de sens se
-conjugue avec la désinstitutionnalisation du religieux, la montée du psychologisme et la
-marchandisation du bien-être.
-Le récit fondateur de Byron Katie — illumination soudaine, fin instantanée de la souffrance
-— reprend les motifs classiques de la révélation moderne.
-« I discovered that when I believed my thoughts, I suffered, but when I
-didn’t believe them, I didn’t suffer. »
-Traduction : « J’ai découvert que lorsque je croyais mes pensées, je souffrais,
-mais lorsque je ne les croyais pas, je ne souffrais plus. » (Loving What Is, 2002)
-Ce type de récit installe une asymétrie radicale : celui qui a vu / ceux qui ne voient pas.
-Celui qui a transcendé la pensée / ceux qui y sont encore prisonniers. C’est dans cette
-asymétrie que se loge la possibilité d’une docilité spirituelle.
-En effet, quand quelqu’un se présente comme celui qui voit ce que les autres ne voient pas,
-il crée une hiérarchie implicite où son expérience devient la mesure de la vérité. Dans cette
-hiérarchie, ceux qui doutent ou questionnent se retrouvent en position d’infériorité, ce qui
-ouvre la voie à une docilité spirituelle : ils doivent s’aligner, s’ajuster, se corriger pour
-“rattraper” celui qui sait.
+Les figures spirituelles contemporaines émergent dans un contexte où la quête de sens  
+se conjugue avec la désinstitutionnalisation du religieux,  
+la montée du psychologisme  
+et la marchandisation du bien-être.
+
+Le récit fondateur de Byron Katie — illumination soudaine, fin instantanée de la souffrance —  
+reprend les motifs classiques de la révélation moderne.
+
+« I discovered that when I believed my thoughts, I suffered,  
+but when I didn’t believe them, I didn’t suffer. »
+
+Traduction :  
+« J’ai découvert que lorsque je croyais mes pensées, je souffrais,  
+mais lorsque je ne les croyais pas, je ne souffrais plus. »  
+*(Loving What Is, 2002)*
+
+Ce type de récit installe une asymétrie radicale :  
+celui qui a vu / ceux qui ne voient pas.  
+Celui qui a transcendé la pensée / ceux qui y sont encore prisonniers.
+
+C’est dans cette asymétrie que se loge la possibilité d’une docilité spirituelle.
+
+En effet, quand quelqu’un se présente comme celui qui voit ce que les autres ne voient pas,  
+il crée une hiérarchie implicite où son expérience devient la mesure de la vérité.
+
+Dans cette hiérarchie, ceux qui doutent ou questionnent  
+se retrouvent en position d’infériorité,  
+ce qui ouvre la voie à une docilité spirituelle :  
+ils doivent s’aligner, s’ajuster, se corriger  
+pour “rattraper” celui qui sait.
 
 **2. Le Travail comme dispositif rhétorique**  
 
