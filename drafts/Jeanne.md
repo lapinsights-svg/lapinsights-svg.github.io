@@ -52,7 +52,7 @@ Un frisson, et le monde consent.
 Les soldats qui l’entourent  
 ne voient qu’une captive.  
 La forêt voit un cygne.  
-Et un signe qui ne brûle  
+Et un signe qui ne vit  
 que pour révéler.
 
 Quand elle atteint le lieu du feu,  
