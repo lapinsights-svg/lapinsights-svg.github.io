@@ -97,4 +97,4 @@ se répand sur le monde.
 
 Et depuis le jour où le cygne blanc fut immolé,
 nul n’a pu percer le bouclier
-qui en retient la vérité.
+qui en recèle la vérité.
