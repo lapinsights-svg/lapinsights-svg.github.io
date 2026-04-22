@@ -21,7 +21,7 @@ les branches frémissent,
 les mousses absorbent la brume.  
 Quelque chose reconnaît en elle  
 une sœur d’autrefois,  
-une enfant du feu et de la forêt,  
+une enfant du chant et des semences,
 une âme qui marche sans détour  
 vers ce qui l’appelle.
 
