@@ -63,7 +63,7 @@ Même la mort retient son geste.
 Jeanne lève les yeux.  
 Elle ne cherche pas le ciel.  
 Elle cherche la source.  
-La source qui brûle en elle  
+La source qui brille en elle  
 depuis Domrémy,  
 depuis toujours,  
 bien avant sa naissance.
