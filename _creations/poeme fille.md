@@ -87,7 +87,8 @@ son calme qui coule dans mon ventre.
 Je suis un peu tout ça.  
 La douceur du chat.  
 La chaleur du poney.  
-Le frisson de l’oiseau.  
+Le frisson de l’oiseau.
+Le clapotement du canard.
 Le calme du capibara.  
 L’ombre chaude du loup.  
 La lumière du renard.
