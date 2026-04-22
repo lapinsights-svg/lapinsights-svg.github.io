@@ -5,7 +5,6 @@ category: "creations"
 ---
 ![Jeanne](/images/creations/Jeanne.png)
 
-
 Dans la vallée où les arbres retiennent leur souffle,  
 où la terre humide palpite comme un animal blessé,  
 Jeanne avance.  
@@ -32,8 +31,7 @@ Elle porte la peur.
 Elle porte la fidélité.  
 Et contre sa poitrine,  
 elle serre une croix façonnée à la hâte,  
-deux morceaux de bois liés par un souffle,  
-un signe fervent
+un signe fervent  
 qui la relie à l'insaisissable.
 
 Dans la vallée de la mort,  
@@ -56,8 +54,8 @@ Et un signe qui ne vit
 que pour révéler.
 
 Quand elle atteint le lieu du feu,  
-la vallée se resserre autour d’elle  
-comme des bras invisibles.  
+la vallée se resserre autour d’elle,  
+bras invisibles.  
 Le vent s'immobilise.  
 La lumière hésite.  
 Même la mort retient son geste.
@@ -71,9 +69,9 @@ depuis toujours,
 bien avant sa naissance.
 
 Elle presse la croix contre son cœur,  
-comme on étreint un trésor ancien,  
-et blafarde mais verticale, elle murmure  
-comme on parle à la nuit :  
+trésor ancien,  
+et blafarde mais verticale, elle murmure,  
+parole adressée à la nuit :  
 « Je viens.  
 Je n’ai plus rien que ma vérité.  
 Reçois-la. »
@@ -82,11 +80,11 @@ Alors la vallée s’ouvre.
 Les ombres se penchent.  
 Les pierres vacillent.  
 Les arbres inclinent leurs branches.  
-La brume miroite autour d’elle  
-comme une tenture minérale.
+La brume miroite autour d’elle,  
+tenture minérale.
 
-Et la jeune femme disparaît dans le feu  
-comme on s’engouffre dans un passage,  
+Et la jeune femme disparaît dans le feu,  
+s’engouffrant dans un passage,  
 non pour s’effacer,  
 mais pour rejoindre les voix prophétiques.
 
