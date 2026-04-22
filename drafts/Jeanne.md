@@ -1,16 +1,16 @@
 ---
 title: "Jeanne dans la vallée de la mort"
-date: 
-category: "Spiritualité"
-layout: post
+date: 2026-04-23
+category: "creations"
 ---
 ![Jeanne](/images/creations/Jeanne.png)
+
 
 Dans la vallée où les arbres retiennent leur souffle,  
 où la terre humide palpite comme un animal blessé,  
 Jeanne avance.  
 Ses pas soulèvent une poussière d’humus mouillé,  
-une poudre brune qui connaît le nom des défunts
+une poudre brune qui connaît le nom des défunts  
 et le secret des vivants.
 
 La nuit n’est pas obscure.  
@@ -51,8 +51,8 @@ Un frisson, et le monde consent.
 
 Les soldats qui l’entourent  
 ne voient qu’une captive.  
-La forêt voit un cygne.
-Et un signe qui ne brûle
+La forêt voit un cygne.  
+Et un signe qui ne brûle  
 que pour révéler.
 
 Quand elle atteint le lieu du feu,  
@@ -90,11 +90,11 @@ comme on s’engouffre dans un passage,
 non pour s’effacer,  
 mais pour rejoindre les voix prophétiques.
 
-Un feu de cristal jaillit.
+Un feu de cristal jaillit.  
 Puis, un souffle poussiéreux :  
-Un secret d’obsidienne
+Un secret d’obsidienne  
 se répand sur le monde.
 
-Et depuis le jour où le cygne blanc fut immolé,
-nul n’a pu percer le bouclier
+Et depuis le jour où le cygne blanc fut immolé,  
+nul n’a pu percer le bouclier  
 qui en recèle la vérité.
