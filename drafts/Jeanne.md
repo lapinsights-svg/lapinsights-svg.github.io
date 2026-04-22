@@ -4,6 +4,7 @@ date:
 category: "Spiritualité"
 layout: post
 ---
+![Jeanne](/images/creations/Jeanne.png)
 
 Dans la vallée où les arbres retiennent leur souffle,  
 où la terre humide palpite comme un animal blessé,  
