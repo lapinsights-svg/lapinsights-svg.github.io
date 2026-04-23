@@ -88,6 +88,11 @@ comme s’engouffrant dans un passage,
 non pour s’effacer,  
 mais pour rejoindre les voix prophétiques.
 
+ Saint Michel,  
+ Sainte Catherine,  
+ Sainte Marguerite.
+ Les voix, les voix...
+
 Un feu de cristal jaillit.  
 Puis, un souffle poussiéreux :  
 Un secret d’obsidienne  
