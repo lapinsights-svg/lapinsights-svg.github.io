@@ -36,7 +36,7 @@ qui la relie à l'insaisissable.
 
 Dans la vallée de la mort,  
 les voix se taisent.  
-Mais les arbres bruissent,  
+Mais les arbres bruissent  
 dans un ruissellement de feuilles :  
 « Continue.  
 Tu n’es pas seule.  
