@@ -16,7 +16,7 @@ La nuit n’est pas obscure.
 Elle est profonde.  
 Elle écoute.
 
-Les troncs se penchent,  
+Les troncs se courbent,  
 les branches frémissent,  
 les mousses absorbent la brume.  
 Quelque chose reconnaît en elle  
