@@ -94,7 +94,7 @@ Un secret d’obsidienne
 se répand sur le monde.
 
 Et depuis le jour où le cygne blanc fut immolé,  
-nul n’a pu percer le bouclier  
+nul ne put percer le bouclier  
 qui en recèle la vérité.
 
 ---
