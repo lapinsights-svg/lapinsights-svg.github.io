@@ -90,7 +90,7 @@ mais pour rejoindre les voix prophétiques.
 
  Saint Michel,  
  Sainte Catherine,  
- Sainte Marguerite.
+ Sainte Marguerite,  
  Les voix, les voix...
 
 Un feu de cristal jaillit.  
