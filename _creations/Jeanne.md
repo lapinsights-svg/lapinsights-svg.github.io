@@ -1,5 +1,5 @@
 ---
-title: "Jeanne dans la vallée de la mort"
+title: "Jeanne, dans la vallée de la mort"
 date: 2026-04-23
 categories: creations
 ---
