@@ -84,7 +84,7 @@ La brume miroite autour d’elle,
 tenture minérale.
 
 Et la jeune femme disparaît dans le feu,  
-s’engouffrant dans un passage,  
+comme s’engouffrant dans un passage,  
 non pour s’effacer,  
 mais pour rejoindre les voix prophétiques.
 
