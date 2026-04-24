@@ -21,7 +21,7 @@ Et la création ne fonctionne plus comme à l’époque de Vivaldi.
 
 ---
 
-# Le violon : un objet inerte
+# Le violon est un objet inerte
 
 Le violon ne génère rien. Il ne propose rien. Il ne combine rien.
 
@@ -31,7 +31,7 @@ Le violon n’est jamais co‑auteur.
 
 ---
 
-# L’IA : un système génératif
+# L’IA est un système génératif
 
 L’IA produit, explore, agence, varie.  
 Elle propose des formes avant même que l’humain n’y pense.
