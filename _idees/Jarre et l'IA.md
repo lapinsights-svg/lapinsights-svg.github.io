@@ -23,15 +23,9 @@ Et la création ne fonctionne plus comme à l’époque de Vivaldi.
 
 # Le violon : un objet inerte
 
-Le violon ne génère rien.  
-Il ne propose rien.  
-Il ne combine rien.
+Le violon ne génère rien. Il ne propose rien. Il ne combine rien.
 
-Dans la relation Vivaldi–violon :
-
-- l’humain est **source**,  
-- l’instrument est **vecteur**,  
-- la forme naît d’une intention humaine.
+Dans la relation Vivaldi–violon, l’humain est **source**, l’instrument est **vecteur**, la forme naît d’une intention humaine.  
 
 Le violon n’est jamais co‑auteur.
 
