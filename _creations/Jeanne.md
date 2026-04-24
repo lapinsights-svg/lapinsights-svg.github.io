@@ -91,7 +91,7 @@ mais pour rejoindre les voix prophétiques.
  Saint Michel,  
  Sainte Catherine,  
  Sainte Marguerite,  
- Ô,les voix, les voix...
+ Ô, les voix, les voix...
 
 Un feu de cristal jaillit.  
 Puis, un souffle poussiéreux :  
