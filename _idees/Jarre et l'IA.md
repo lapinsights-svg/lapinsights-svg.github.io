@@ -52,9 +52,7 @@ Il **déclare une volonté**, un désir de forme.
 Le système génératif réalise ce que l’artiste ne fabrique plus.  
 Ce n’est pas une nuance : c’est un changement de régime.
 
----
-
-# Une métaphore plus juste
+Si on veut une métaphore plus juste alors,    
 
 L’IA n’est pas un violon.  
 Elle est une **chambre d’échos générative**, un climat algorithmique où les formes émergent.
