@@ -69,7 +69,7 @@ Il s’agit de savoir **ce qu’elle fait** — produire, varier, générer —
 et **ce qu’elle ne fait pas** — sentir, incarner, transformer l’expérience humaine en forme.
 
 Répondre à Jarre, ce n’est pas contester son rôle de pionnier.  
-C’est refuser une métaphore qui adoucit la rupture.  
+C’est refuser sa métaphore qui adoucit la rupture.  
 L’artiste ne crée plus la forme : il **déclare la volonté de forme**, et laisse un système produire ce qu’il ne fait plus.
 
 Nommer ce déplacement, c’est préserver la clarté sur ce que nous déléguons, ce que nous transformons, et ce que nous risquons de perdre du véritable art humain.
