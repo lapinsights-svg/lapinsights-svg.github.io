@@ -5,7 +5,7 @@ categories: creations
 ---
 ![Jeanne](/images/creations/Jeanne.png)
 
-Dans la vallée où les arbres retiennent leur souffle,  
+Dans la vallée, où les arbres retiennent leur souffle,  
 où la terre humide palpite comme un animal blessé,  
 Jeanne avance.  
 Ses pas soulèvent une poussière d’humus mouillé,  
