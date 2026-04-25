@@ -1604,31 +1604,34 @@ Lapin retour salle echo
   opacity: 1;
 }
 
-/* ——— LIENS RITUELS SOUS L’ARTICLE (fond clair) ——— */
+/* ——— LIENS RITUELS SOUS L’ARTICLE ——— */
 
 .liens-territoires {
-  margin-top: 2.5rem;
-  padding-top: 1.5rem;
+  margin-top: 2.2rem; /* espace entre "A lire aussi" et les liens rituels */
+  padding-top: 1.2rem;
   border-top: 1px solid rgba(0, 0, 0, 0.12);
-  opacity: 0.95;
 }
 
 .liens-territoires p {
-  margin: 0.4rem 0;
+  margin: 0.55rem 0;
 }
 
 .liens-territoires .lien-territoire {
-  color: #3a2f2a; /* brun-gris minéral */
+  color: #c46a2b; /* orange var-lapin */
   text-decoration: none;
-  font-size: 0.95rem;
-  letter-spacing: 0.3px;
-  transition: opacity 0.25s ease, color 0.25s ease;
+  font-size: 0.97rem;
+  font-variant: small-caps; /* contraste typographique fort */
+  letter-spacing: 0.7px;
+  font-weight: 600;
+  opacity: 0.92;
+  transition: color 0.25s ease, opacity 0.25s ease;
 }
 
 .liens-territoires .lien-territoire:hover {
-  color: #a65e2e; /* ton ocre/orangé minéral pour le hover */
+  color: #e98a47; /* var-lapin lumineux */
   opacity: 1;
 }
+
 
 
 
