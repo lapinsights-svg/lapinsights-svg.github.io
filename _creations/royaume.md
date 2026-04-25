@@ -82,6 +82,3 @@ présence douce dans l'immensité.
 Je suis la brume, la lumière, la matière noire,  
 je suis mon royaume,  
 et mon royaume, un cosmos en mouvement.
----
-
-© Céleste R. — CC BY-NC-ND
