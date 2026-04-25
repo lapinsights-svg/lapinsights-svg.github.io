@@ -1,11 +1,10 @@
+---
 title: "50 balles ou l'effondrement du droit"
 date: 2026-03-03
 resume: "ou comment l'argent prend le pas sur l'égalité"
 layout: article
 categories: actualites
-
-
-
+---
 
 « Dès ce dimanche, lorsque vous saisirez la justice,  
 vous devrez payer 50 euros… »
