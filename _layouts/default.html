@@ -66,14 +66,14 @@
     {%- endunless -%}
 
     {%- comment -%}
-      ✦ BLOC SIGNATURE + LIENS
-      On l’affiche UNIQUEMENT si :
-      - la page a une date (donc c’est un article)
+      BLOC SIGNATURE + LIENS
+      Affiché uniquement si :
+      - la page a une date (article)
       - ce n’est pas une page spéciale
       - ce n’est pas une page future
     {%- endcomment -%}
 
-    {%- if page.date and page.class != "presentation-terrier" and page.class != "echos" and not hide_future -%}
+    {%- if page.date and page.class != "presentation-terrier" and page.class != "echos" and hide_future != true -%}
 
       <div class="fin-article"></div>
 
