@@ -5,14 +5,12 @@
 <head>
   {% include head.html %}
 
-  <!-- Open Graph global pour tous les articles -->
   <meta property="og:title" content="{{ page.title | escape }}">
   <meta property="og:description" content="{{ page.resume | escape }}">
   <meta property="og:image" content="{{ page.og_image | absolute_url }}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:type" content="article">
 
-  <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
   <meta name="twitter:description" content="{{ page.resume | default: site.description | escape }}">
@@ -29,9 +27,7 @@
     <header class="mobile-header">
       <div class="mobile-header-top">
         <img src="/images/celeste.png" alt="Portrait" class="portrait-mobile">
-        <h1>
-          <a href="/" class="mobile-title-link">LAPINSIGHTS</a>
-        </h1>
+        <h1><a href="/" class="mobile-title-link">LAPINSIGHTS</a></h1>
       </div>
       
       <nav class="menu-mobile">
@@ -66,9 +62,9 @@
     {%- endunless -%}
 
     {%- comment -%}
-      BLOC SIGNATURE + LIENS
+      ✦ SIGNATURE + LIENS
       Affiché uniquement si :
-      - la page a une date (article)
+      - la page a une date (donc c’est un article)
       - ce n’est pas une page spéciale
       - ce n’est pas une page future
     {%- endcomment -%}
