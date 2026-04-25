@@ -66,9 +66,17 @@
     {%- endunless -%}
 
     {%- unless page.class == "presentation-terrier" or page.class == "echos" or hide_future -%}
+
+      <div class="fin-article"></div>
+
+      <div class="signature-article">
+        Céleste R.
+      </div>
+
       <div class="apres-article">
         {% include liens-territoires.html %}
       </div>
+
     {%- endunless -%}
 
   </main>
