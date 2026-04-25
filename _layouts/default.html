@@ -5,14 +5,14 @@
 <head>
   {% include head.html %}
 
- <!-- Open Graph global pour tous les articles -->
-<meta property="og:title" content="{{ page.title | escape }}">
-<meta property="og:description" content="{{ page.resume | escape }}">
-<meta property="og:image" content="{{ page.og_image | absolute_url }}">
-<meta property="og:url" content="{{ page.url | absolute_url }}">
-<meta property="og:type" content="article">
+  <!-- Open Graph global pour tous les articles -->
+  <meta property="og:title" content="{{ page.title | escape }}">
+  <meta property="og:description" content="{{ page.resume | escape }}">
+  <meta property="og:image" content="{{ page.og_image | absolute_url }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="article">
 
-  <!-- Twitter Cards (optionnel mais recommandé) -->
+  <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
   <meta name="twitter:description" content="{{ page.resume | default: site.description | escape }}">
@@ -34,21 +34,21 @@
         </h1>
       </div>
       
-    <nav class="menu-mobile">
-      <a href="/actualites">Actualités</a>
-      <a href="/creations">Créations</a>
-      <a href="/idees/">Territoires d’idées</a>
-      <a href="/contact">Contact</a>
-      <a href="/spiritualite/">Spirimental</a>
-      <a class="disabled">Vibrations</a>
-      <a href="/archives/">Archives</a>
-      <a class="disabled">Dans le passé</a>
-    </nav>
-  </header>
+      <nav class="menu-mobile">
+        <a href="/actualites">Actualités</a>
+        <a href="/creations">Créations</a>
+        <a href="/idees/">Territoires d’idées</a>
+        <a href="/contact">Contact</a>
+        <a href="/spiritualite/">Spirimental</a>
+        <a class="disabled">Vibrations</a>
+        <a href="/archives/">Archives</a>
+        <a class="disabled">Dans le passé</a>
+      </nav>
+    </header>
   {%- endunless -%}
 
   {%- if page.class == "echos" -%}
-  <a href="/" class="retour-accueil-echos" title="Retour à l’accueil">🐇</a>
+    <a href="/" class="retour-accueil-echos" title="Retour à l’accueil">🐇</a>
   {%- endif -%}
 
   <main class="contenu-scroll">
@@ -60,14 +60,16 @@
         {%- assign hide_future = true -%}
       {%- endif -%}
     {%- endif -%}
-{%- unless hide_future -%}
-  {{ content }}
 
-  {%- unless page.class == "presentation-terrier" or page.class == "echos" -%}
-    {% include liens-territoires.html %}
-  {%- endunless -%}
+    {%- unless hide_future -%}
+      {{ content }}
+    {%- endunless -%}
 
-{%- endunless -%}
+    {%- unless page.class == "presentation-terrier" or page.class == "echos" or hide_future -%}
+      <div class="apres-article">
+        {% include liens-territoires.html %}
+      </div>
+    {%- endunless -%}
 
   </main>
 
@@ -114,16 +116,15 @@
   <script async src="https://www.statcounter.com/counter/counter.js"></script>
   <noscript><div class="statcounter"></div></noscript>
 
-<script>
-  const hour = new Date().getHours();
-  const fond = hour < 12 ? 'brume2.png' : 'brume.png';
-  const body = document.body;
+  <script>
+    const hour = new Date().getHours();
+    const fond = hour < 12 ? 'brume2.png' : 'brume.png';
+    const body = document.body;
 
-  // ✅ N'applique le fond global que si la page n'est PAS "presentation-terrier"
-  if (!body.classList.contains('presentation-terrier')) {
-    body.style.backgroundImage = `url('/images/${fond}')`;
-  }
-</script>
+    if (!body.classList.contains('presentation-terrier')) {
+      body.style.backgroundImage = `url('/images/${fond}')`;
+    }
+  </script>
 
 </body>
 </html>
