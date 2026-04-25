@@ -134,7 +134,7 @@ Ces liens confirment l’existence du nouveau formulaire, son caractère expéri
 
 ---
 
-# ⚔️ Encadré — Comment réagir face au nouveau formulaire ?
+# ⚔️ Encadré : Comment réagir face au nouveau formulaire ?
 
 ## 1. Saisir le Défenseur des droits  
 
