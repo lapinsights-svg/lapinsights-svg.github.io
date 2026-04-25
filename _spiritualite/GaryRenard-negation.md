@@ -1,4 +1,4 @@
-----
+---
 title: "Gary Renard et la négation de la réalité"
 date: 2023-10-15
 resume: "Analyse des contradictions internes du discours de Gary Renard"
