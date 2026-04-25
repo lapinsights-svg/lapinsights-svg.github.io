@@ -60,10 +60,14 @@
         {%- assign hide_future = true -%}
       {%- endif -%}
     {%- endif -%}
+{%- unless hide_future -%}
+  {{ content }}
 
-    {%- unless hide_future -%}
-      {{ content }}
-    {%- endunless -%}
+  {%- unless page.class == "presentation-terrier" or page.class == "echos" -%}
+    {% include liens-territoires.html %}
+  {%- endunless -%}
+
+{%- endunless -%}
 
   </main>
 
