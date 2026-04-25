@@ -1,3 +1,4 @@
+---
 title: "La Nef du Vivant"
 date: 2026-04-22
 categories: creations
@@ -7,6 +8,7 @@ tags:
   - liturgie
   - mystique
   - vivant
+---
 ![nef6](/images/creations/nef6.png)
 
 # Chant liturgique : la Nef du Vivant
