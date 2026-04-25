@@ -1604,43 +1604,5 @@ Lapin retour salle echo
   opacity: 1;
 }
 
-/* ----------------------------------------------------
-Liens vers présentation terrier et newsletter sous article
----------------------------------------------------- */
-.liens-territoires {
-  margin-top: 3rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid rgba(255,255,255,0.08);
-}
-
-.lien-territoire {
-  display: inline-block;
-  margin-bottom: 0.5rem;
-  color: #ddd;
-  text-decoration: none;
-  font-size: 0.95rem;
-  letter-spacing: 0.3px;
-}
-
-.lien-territoire:hover {
-  color: #fff;
-  text-decoration: underline;
-}
-/* ----------------------------------------------------
-CSS signature sous articles
----------------------------------------------------- */
-.fin-article {
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-  border-top: 1px solid rgba(255,255,255,0.08);
-}
-
-.signature-article {
-  margin-top: 1rem;
-  margin-bottom: 2rem;
-  font-style: italic;
-  opacity: 0.85;
-  letter-spacing: 0.3px;
-}
 
 
