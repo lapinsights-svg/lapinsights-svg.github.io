@@ -1604,5 +1604,31 @@ Lapin retour salle echo
   opacity: 1;
 }
 
+/* ——— LIENS RITUELS SOUS L’ARTICLE (fond clair) ——— */
+
+.liens-territoires {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+  opacity: 0.95;
+}
+
+.liens-territoires p {
+  margin: 0.4rem 0;
+}
+
+.liens-territoires .lien-territoire {
+  color: #3a2f2a; /* brun-gris minéral */
+  text-decoration: none;
+  font-size: 0.95rem;
+  letter-spacing: 0.3px;
+  transition: opacity 0.25s ease, color 0.25s ease;
+}
+
+.liens-territoires .lien-territoire:hover {
+  color: #a65e2e; /* ton ocre/orangé minéral pour le hover */
+  opacity: 1;
+}
+
 
 
