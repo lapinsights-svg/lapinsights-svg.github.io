@@ -1,11 +1,8 @@
 ----
 title: "Gary Renard et la négation de la réalité"
 date: 2023-10-15
-collection: articles
 resume: "Analyse des contradictions internes du discours de Gary Renard"
 ---
-
-
 Dans un récent article, Gary Renard affirme que « nous projetons notre culpabilité inconsciente et infondée sur ce monde surréaliste »(1).
 
 Dès la première phrase, le paradoxe apparaît : comment un monde peut‑il être surréaliste s’il est censé ne pas exister ? Et comment une culpabilité peut‑elle être inconsciente si elle est invoquée comme explication universelle ?
@@ -100,6 +97,6 @@ là où l’on ose regarder le monde tel qu’il est.
 (6) *Un Cours en Miracles*, Leçon 5  
 (7) *Un Cours en Miracles*, Leçon 34  
 (8) *Un Cours en Miracles*, Leçon 6  
-(9) *The Disappearance of the Universe*
+(9) *The Disappearance of the Universe*  
 
-© Céleste R. — CC BY-NC-ND
+Céleste R.
