@@ -1,7 +1,7 @@
 ---
 title: "Le socle et le vertige"
 date: 2026-04-21
-categories :idees
+categories: idees
 resume: "Pourquoi les catégories humaines ont besoin de repères matériels pour ne pas se dissoudre dans des récits incompatibles."
 ---
 
