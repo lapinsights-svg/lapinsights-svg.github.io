@@ -71,6 +71,3 @@ Et ensemble, ils se remirent à marcher. Non plus pour chercher. Mais pour accom
 
 Dans le silence immense du monde, ils savaient qu’ils venaient d’entendre le premier mot du mystère.
 
----
-
-© Céleste R. — CC BY-NC-ND
