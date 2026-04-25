@@ -1,8 +1,9 @@
+---
 title: "La politique devrait anticiper. Les institutions belges attendent la contrainte."
 date: 2026-04-20
 categories: actualites
 resume: "La Belgique avance vers la contrainte sans anticiper."
-
+---
 # La politique devrait anticiper.  
 Les institutions belges, elles, attendent la contrainte —  
 et cette attente est profondément irrationnelle
