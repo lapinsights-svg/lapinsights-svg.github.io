@@ -65,22 +65,27 @@
       {{ content }}
     {%- endunless -%}
 
-    {%- unless page.class == "presentation-terrier" or page.class == "echos" or hide_future -%}
+    {%- comment -%}
+      ✦ BLOC SIGNATURE + LIENS
+      On l’affiche UNIQUEMENT si :
+      - la page a une date (donc c’est un article)
+      - ce n’est pas une page spéciale
+      - ce n’est pas une page future
+    {%- endcomment -%}
 
-      <!-- Séparateur doux à la place de --- -->
+    {%- if page.date and page.class != "presentation-terrier" and page.class != "echos" and not hide_future -%}
+
       <div class="fin-article"></div>
 
-      <!-- Signature automatique -->
       <div class="signature-article">
         Céleste R.
       </div>
 
-      <!-- Liens rituels automatiques -->
       <div class="apres-article">
         {% include liens-territoires.html %}
       </div>
 
-    {%- endunless -%}
+    {%- endif -%}
 
   </main>
 
