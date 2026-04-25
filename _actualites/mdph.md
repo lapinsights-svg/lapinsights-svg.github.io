@@ -28,7 +28,7 @@ C’est un changement de régime.
 
 ---
 
-## La simplification est une stratégie d’effacement
+## La simplification: une stratégie d’effacement
 
 Le formulaire officiel en vigueur laisse encore un espace d’expression libre, un lieu fragile où raconter les fluctuations, les adaptations invisibles, les réalités qui échappent aux grilles.
 
@@ -42,7 +42,7 @@ c’est une **réduction de surface**, une manière de rendre les existences plu
 
 ---
 
-## Le langage déshumanisant
+## Un langage déshumanisant
 
 L’ancien formulaire disait : *« Vous souhaitez… »*  
 Le nouveau dit : *« La personne… »*
