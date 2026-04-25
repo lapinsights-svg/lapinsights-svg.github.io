@@ -1606,18 +1606,18 @@ Lapin retour salle echo
 
 /* ——— LIENS RITUELS SOUS L’ARTICLE ——— */
 
-.liens-territoires {
+.section-content.article-wrapper.article-page .liens-territoires {
   margin-top: 2.2rem; /* espace entre "A lire aussi" et les liens rituels */
   padding-top: 1.2rem;
   border-top: 1px solid rgba(0, 0, 0, 0.12);
 }
 
-.liens-territoires p {
+.section-content.article-wrapper.article-page .liens-territoires p {
   margin: 0.55rem 0;
 }
 
-.liens-territoires .lien-territoire {
-  color: #c46a2b; /* orange var-lapin */
+.section-content.article-wrapper.article-page .liens-territoires .lien-territoire {
+  color: #c46a2b !important; /* orange var-lapin */
   text-decoration: none;
   font-size: 0.97rem;
   font-variant: small-caps; /* contraste typographique fort */
@@ -1627,8 +1627,8 @@ Lapin retour salle echo
   transition: color 0.25s ease, opacity 0.25s ease;
 }
 
-.liens-territoires .lien-territoire:hover {
-  color: #e98a47; /* var-lapin lumineux */
+.section-content.article-wrapper.article-page .liens-territoires .lien-territoire:hover {
+  color: #e98a47 !important; /* var-lapin lumineux */
   opacity: 1;
 }
 
