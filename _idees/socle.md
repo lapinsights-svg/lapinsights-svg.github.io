@@ -50,9 +50,7 @@ Dans un monde saturé de récits, il reste nécessaire de distinguer :
 - l’expérience de la structure  
 
 Non pour réduire, mais pour clarifier.  
-Non pour exclure, mais pour éviter que les mots eux‑mêmes ne se déchirent sous le poids de contradictions impossibles à porter.
-
----  
+Non pour exclure, mais pour éviter que les mots eux‑mêmes ne se déchirent sous le poids de contradictions impossibles à porter.  
 
 Le socle n’est pas une prison.  
 Il est ce qui empêche le vertige.  
