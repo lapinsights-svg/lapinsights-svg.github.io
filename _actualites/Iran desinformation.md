@@ -1,9 +1,7 @@
----
 title: "Iran et désinformation de guerre"
 date: 2026-03-05
 resume: "fausses images, fausses vidéos"
 categories: actualites
----
 
 # IRAN : une guerre de désinformation
 
@@ -175,7 +173,6 @@ Ainsi, en plus du faux avant/après, la vidéo manque de localisation, mélange 
 **« Y'a un problème, patron… »  
 De la désinformation, et une guerre de propagande.**
 
----
 
 
 ## Mise à jour du 8 mars 2026
@@ -212,7 +209,6 @@ Les incendies saoudiens sont souvent réutilisés car visuellement spectaculaire
 Sans date, sans source, sans contexte, cette vidéo ne vaut rien comme information.  
 Et dans ce cas précis, tout indique qu’on est face à un recyclage d’images anciennes.
 
----
 
 ### Le problème, c’est quand *Le Figaro* relaie aussi l’intox
 
@@ -238,7 +234,6 @@ Le style du message est typique d’un faux « fact-check » généré pour donn
 Le compte « Grok » est sans doute aussi un faux.  
 Il est souvent utilisé dans des montages.
 
----
 
 ## Mise à jour du 9 mars 2026
 
@@ -251,7 +246,6 @@ Ce type de scène correspond exactement aux images de l’incendie de la raffine
 
 Et pour finir, il n’existe actuellement aucune image ni vidéo fiable montrant un Iran bombardé par les forces occidentales.
 
----
 
 ## Mise à jour du 10 mars 2026
 
@@ -342,7 +336,6 @@ On entend un bruit de missile :
 
 Le son est probablement ajouté.
 
----
 
 ## Conclusion
 
@@ -351,7 +344,6 @@ En combinant tous ces éléments — absence de débris, voitures intactes, faç
 **La vidéo ne montre pas un événement réel continu.  
 Elle est composée de plusieurs séquences sans lien, ou d’effets ajoutés.**
 
----
 
 ## Mise à jour
 
@@ -374,6 +366,3 @@ Pour accompagner cela, des agents sont placés sur Internet et à la télévisio
 
 Alors, achetez des armes (mais déclarez-les), des chips, de la bière,  
 et n’oubliez pas de soutenir Macron qui tient la barre en jubilant.
-
-Céleste R. 
-

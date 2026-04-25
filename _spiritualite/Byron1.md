@@ -1,9 +1,7 @@
----
 title: "Byron Katie et « Le Travail »"
 date: 2024-05-14
 collection: articles
 resume: "Analyse critique de la méthode et de ses dérives philosophiques, psychologiques et spirituelles."
----
 
 ![byron](/images/spiritualite/Byron1.png)
 
@@ -60,7 +58,6 @@ Voici son site web si vous voulez rire.
 
 Allons à présent au cœur du sujet.
 
----
 
 # La méthode thérapeutique : un mélange de catharsis et de pensée positive
 
@@ -98,7 +95,6 @@ Il n'y a pas de méditation impliquée.
 
 Le problème : lorsque la conclusion est donnée à l'avance, les quatre questions deviennent des **questions rhétoriques**, posées pour produire un effet, non pour obtenir une réponse.
 
----
 
 # Une technique de retournement dangereuse
 
@@ -121,7 +117,6 @@ si vous êtes critique, c’est que vous avez un problème de résistance et dev
 
 Et Byron Katie gagne beaucoup d’argent…
 
----
 
 # Le nihilisme spirituel : « Le monde n’existe pas »
 
@@ -138,7 +133,6 @@ une fois tout déconstruit, il faut déconstruire le soi.
 
 On n’aboutit pas à l’illumination, mais au **vide**.
 
----
 
 # Le passage sur les nazis : un délire dangereux
 
@@ -168,7 +162,6 @@ Un délire absolu.
 
 Selon Byron Katie, les nazis qui brûlent des bébés accomplissent « l’œuvre aimante de Dieu ».
 
----
 
 # Le blog « Your Abuser is your Guru ? »
 
@@ -185,7 +178,6 @@ Le blogueur cite un message Facebook de Byron Katie (15 juin 2012) :
 
 Les commentaires célèbrent cette « sagesse », sans voir les conséquences catastrophiques.
 
----
 
 ## Six points caractéristiques des « nouvelles » théories du New Age
 
@@ -240,7 +232,6 @@ Dans l'industrie du développement personnel, l'objectif devient :
 Une idéologie sert à avancer dans le monde, pas à découvrir la vérité.  
 La spiritualité, elle, relève de la philosophie : elle cherche des moyens de découvrir la vérité.
 
----
 
 ## Le Travail : une thérapie simplifiée et biaisée
 
@@ -264,7 +255,6 @@ La liberté serait donc le fait de **nier** et de **se faire croire l’inverse*
 Mais dans la vie, il existe de nombreuses causes et facteurs qui peuvent conduire une personne à chercher un traitement.  
 Les problèmes de chaque personne sont uniques.
 
----
 
 ## Conclusion
 
@@ -283,5 +273,3 @@ Byron Katie est en plein dans ce mouvement, comme *Un Cours en Miracles* et tant
 
 
 <br><br>
-
-<p class="signature">© Céleste R. – CC BY-NC-ND</p>

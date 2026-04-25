@@ -1,10 +1,8 @@
----
 title: "Abdication numérique de la France"
 date: 2026-04-02
 resume: "Le moment où l’État reconnaît enfin la perte de souveraineté numérique."
 layout: article
 categories: idees
----
 
 ![Abdication numérique](/images/idees/abdication-numerique.png)
 
@@ -91,5 +89,3 @@ Retrouver une souveraineté numérique exige une rupture profonde :
 Mais aucune de ces conditions n’est réalisable dans le cadre actuel de l’Union européenne, qui a privé les États de leurs instruments d’action.
 
 Les nations doivent d’abord **retrouver la capacité d’agir par elles‑mêmes**.
-
-Céleste R.

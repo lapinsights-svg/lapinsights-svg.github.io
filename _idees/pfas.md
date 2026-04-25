@@ -1,9 +1,7 @@
----
 title: "Les PFAS : Pollution invisible, risques et défaillances institutionnelles"
 date: 2026-03-06
 categories: idees
 resume: "Analyse de la pollution aux PFAS en France et des insuffisances structurelles de la réponse publique."
----
 
 
 ![PFAS](/images/idees/PFAS.png)
@@ -19,7 +17,6 @@ Elles s'accumulent dans le sang, les sols, les générations.
 Elles traversent les placentas, les frontières, les décennies.  
 Et pourtant, l'État continue d'agir comme si la lenteur pouvait être une stratégie face à un poison qui, lui, ne ralentit jamais.
 
----
 
 L'Autorité européenne de sécurité des aliments a alerté dès 2020 :  
 ces substances affaiblissent la réponse immunitaire et augmentent le cholestérol, même à très faibles doses.  
@@ -34,7 +31,6 @@ On peut les ignorer sans être inquiété.
 
 Pendant ce temps, des communes entières — dans les Vosges, la Meuse, les Ardennes — ne peuvent plus boire l'eau du robinet, tandis que les autorités parlent encore de « surveillance renforcée ».
 
----
 
 Les PFAS ne sont pas des accidents.  
 Ils ne tombent pas du ciel.  
@@ -53,7 +49,6 @@ Pendant ce temps, certaines entreprises continuent leurs activités en toute lé
 Il ne suffit plus d'identifier la pollution.  
 Il faut la combattre.
 
----
 
 Promettre une réduction progressive des émissions ne vaut rien sans interdire les usages superflus, comme l'ont fait le Danemark ou les Pays-Bas.
 
@@ -70,7 +65,6 @@ La belle affaire !
 Il est temps que l'État cesse de traiter cette pollution comme un dossier administratif et reconnaisse sa vraie nature :  
 une crise sanitaire lente, profonde, mais évitable.
 
----
 
 Il est temps que les industriels cessent de se cacher derrière la technicité et assument leur responsabilité.  
 Et que la population cesse d'en payer le prix fort.
@@ -91,7 +85,3 @@ Alors oui, le plan est large, technique et semble rassurant.
 Mais c'est une barrière fragile face à une pollution chimique massive.  
 Un plan qui décrit la menace au lieu de la neutraliser.  
 Un plan qui sait tout, sauf comment protéger.
-
----
-
-© Céleste R. — CC BY-NC-ND

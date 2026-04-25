@@ -1,9 +1,7 @@
----
 title: "Le socle et le vertige"
 date: 2026-04-25
 categories: idees
 resume: "Pourquoi les catégories humaines ont besoin de repères matériels."
----
   
 On redéfinit sans cesse ce qu’est une femme, comme si cette catégorie devait être justifiée à chaque époque.  
 Curieusement, personne n’applique ces mêmes contorsions conceptuelles au mot *homme*.  
@@ -54,7 +52,3 @@ Non pour exclure, mais pour éviter que les mots eux‑mêmes ne se déchirent s
 
 Le socle n’est pas une prison.  
 Il est ce qui empêche le vertige.  
-
----  
-
-Céleste R.

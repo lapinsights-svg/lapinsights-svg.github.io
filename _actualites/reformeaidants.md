@@ -1,9 +1,7 @@
----
 title: "Réforme du chômage et aidants proches en Belgique"
 date: 2026-02-27
 categories: actualites
 resume: "Analyse de la réforme du chômage en Belgique et de ses conséquences pour plus d’un million d’aidants proches."
----
 
 
 ![mergault](/images/actualites/aidants.png)
@@ -18,7 +16,6 @@ Cependant, cette solution est loin d'être idéale.
 La modification des règles du chômage, qui débute le 1er mars (avec transition en juillet 2025), établit une approche rigide, qui ne tient pas compte des diverses situations humaines.  
 Elle impose une disponibilité complète et une recherche d'emploi constante, comme si chaque personne pouvait s'adapter à un modèle unique.
 
----
 
 Cette approche administrative suppose une vie simple, prévisible et axée sur la recherche d'un emploi.  
 La réalité est bien différente, avec des proches malades, des parents âgés et des enfants nécessitant une attention particulière, ainsi que des nuits blanches, des rendez-vous médicaux et des responsabilités personnelles.  
@@ -34,7 +31,6 @@ Les aidants familiaux en sont un bon exemple. Depuis janvier, certains ont perdu
 
 L'administration traite ces situations comme si elles étaient identiques, alors que chaque famille vit une situation unique.
 
----
 
 Face aux protestations des associations et à l'urgence sociale, le gouvernement a mis en place une mesure temporaire :  
 une dispense rétroactive, une allocation augmentée à environ 760 euros et un délai jusqu'à fin mars pour se faire connaître.
@@ -54,7 +50,6 @@ Elle exige des aidants qu'ils justifient leur incapacité à être ailleurs, alo
 
 Cette situation absurde laisse penser que le législateur avance sans se soucier de la réalité humaine qu'il prétend encadrer.
 
----
 
 Une politique juste commencerait par reconnaître l'aide aux proches comme un travail social indispensable.  
 Elle offrirait un statut stable, une protection pluriannuelle et adapterait les obligations en fonction des besoins réels.  
@@ -62,7 +57,6 @@ Elle autoriserait une disponibilité partielle ou alternée et harmoniserait les
 Elle garantirait qu'aucun aidant ne soit exclu pour avoir pris soin d'un proche.  
 Il ne s'agit pas d'une faveur, mais d'une reconnaissance de la réalité humaine.
 
----
 
 ## Alors, quelle est la différence avec la France ?
 
@@ -85,7 +79,3 @@ Rien, dans ces moments-là, ne ressemble à la ligne droite que ces cowboys trac
 
 Une réforme qui ignore les vies qu'elle prétend encadrer ne peut être juste.  
 Reconnaître les aidants, c'est reconnaître la société dans sa fragilité et sa dignité.
-
----
-
-© Céleste R. — CC BY-NC-ND

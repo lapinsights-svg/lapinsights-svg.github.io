@@ -1,10 +1,8 @@
----
 title: "Là où le souffle tremble"
 date: 2026-04-10
 layout: article
 resume: "Elle avance entre ombre et lumière, guidée par un ange intérieur"
 categories: creations
----
 
 ![lumiere](/images/creations/lumiere.png)
 
@@ -118,7 +116,3 @@ dans ce lieu où le corps
 apprend à relâcher,  
 et où l’amour  
 devient lumière à travers l’ombre.
-
----
-
-Céleste R. 

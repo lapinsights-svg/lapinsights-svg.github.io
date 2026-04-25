@@ -1,9 +1,7 @@
----
 title: "Frappes en Iran : une guerre impossible"
 date: 2026-02-28
 categories: actualites
 resume: "Ce que ces textes prétendent décrire n'est pas une crise : c'est un scénario qui s'effondre dès qu'on le lit comme un événement possible."
----
 
 <!-- IMAGE À INSÉRER -->
 ![Frappes en Iran](/images/actualites/iranimpossible.png)
@@ -184,5 +182,3 @@ L'ensemble du récit médiatique ne correspond ni au temps militaire, ni au temp
 temps social. Il relève davantage d'un montage narratif que d'un événement réel.
 
 <br><br>
-
-<p class="signature">© Céleste R. 

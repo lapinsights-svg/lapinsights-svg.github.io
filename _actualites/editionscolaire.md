@@ -1,9 +1,7 @@
----
 title: "Édition scolaire et idéologie : Analyse de la concentration autour de Vincent Bolloré"
 date: 2026-03-05
 categories: actualites
 resume: "La concentration de l’édition scolaire française autour du groupe Bolloré et ses implications idéologiques."
----
 
 
 ![Édition scolaire et idéologie](/images/actualites/edition.png)
@@ -96,7 +94,3 @@ Mais elle pourrait le devenir sans que l’on s’en rende compte.
 Et dans ce silence, une question demeure :
 
 **Comment garder la liberté de penser quand les outils qui la façonnent sont contrôlés par un seul pouvoir ?**
-
----
-
-Céleste R. 

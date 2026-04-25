@@ -1,4 +1,3 @@
----
 title: "Simplifier pour effacer : quand un formulaire redessine la frontière du vivant"
 date: 2026-04-25
 categories: actualites
@@ -8,7 +7,6 @@ keywords:
   - droits des personnes handicapées
   - violence administrative
   - validisme institutionnel
----
 
 # Simplifier pour effacer : quand un formulaire redessine la frontière du vivant
 
@@ -26,7 +24,6 @@ Le site officiel Service-Public confirme l’expérimentation du **Cerfa 15692\*
 Ce n’est pas un détail administratif.  
 C’est un changement de régime.
 
----
 
 ## La simplification: une stratégie d’effacement
 
@@ -40,7 +37,6 @@ Un droit, un silence.
 Ce n’est pas une simplification :  
 c’est une **réduction de surface**, une manière de rendre les existences plus faciles à trier, moins coûteuses à examiner, plus simples à écarter.
 
----
 
 ## Un langage déshumanisant
 
@@ -56,7 +52,6 @@ On ne les interroge plus : on les constate.
 C’est ainsi que commence la déshumanisation :  
 par un pronom, par une distance, par une froideur devenue norme.
 
----
 
 ## La violence sociale sous le vernis de façade  
 
@@ -77,7 +72,6 @@ En supprimant les repères, les listes, les formulations explicites, le nouveau 
 Il facilite la vie de celles et ceux qui savent déjà naviguer dans le système.  
 Il abandonne les autres.
 
----
 
 ## Du droit, on passe au contrôle  
 
@@ -88,7 +82,6 @@ C’est celui de la normalisation.
 Une personne jugée « à problème » peut être perçue comme une charge, voire un risque.  
 Et dans un système où les aides sont vitales, ce glissement lexical devient un glissement politique.
 
----
 
 ## Quand la mort devient plus accessible que les droits
 
@@ -101,7 +94,6 @@ Quand une société rend l’accès aux aides plus difficile que l’accès à l
 ce n’est pas un hasard.  
 C’est un système.
 
----
 
 ## La suspicion érigée en système
 
@@ -115,7 +107,6 @@ Elles savent ce qu’elles vivent, ce qu’elles risquent, ce qu’elles perdent
 Ce qu’elles demandent n’est ni charité ni compassion.  
 C’est la possibilité de vivre, avant que quiconque ne leur parle de mourir.
 
----
 
 # 📎 Sources gouvernementales  
 
@@ -132,7 +123,6 @@ Pour étayer cette analyse, voici les documents et procédures officielles publi
 
 Ces liens confirment l’existence du nouveau formulaire, son caractère expérimental, et les modifications structurelles qu’il introduit.
 
----
 
 # ⚔️ Encadré : Comment réagir face au nouveau formulaire ?
 
@@ -147,7 +137,6 @@ Pour signaler :
 Saisine en ligne :  
 [https://formulaire.defenseurdesdroits.fr/](https://formulaire.defenseurdesdroits.fr/)
 
----
 
 ## 2. Alerter la CNSA (structure qui pilote les MDPH)  
 
@@ -159,7 +148,6 @@ Pour demander :
 Contact :  
 [https://www.cnsa.fr/contact](https://www.cnsa.fr/contact)  
 
----
 
 ## 3. Déposer une plainte formelle auprès de sa MDPH  
 
@@ -168,7 +156,6 @@ Pour exiger :
 - un entretien avec l’équipe pluridisciplinaire,  
 - la consignation officielle des difficultés rencontrées.  
 
----
 
 ## 4. Renforcer les associations qui portent la contestation  
 
@@ -182,7 +169,6 @@ Envoyer son témoignage à :
 
 Ces structures participent aux concertations nationales et peuvent peser sur la réforme.  
 
----
 
 ## 5. Documenter pour se protéger  
 
@@ -190,7 +176,6 @@ Ces structures participent aux concertations nationales et peuvent peser sur la 
 - conserver captures d’écran, dates, échanges,  
 - noter l’impact sur la santé, le quotidien, l’accès aux droits.  
 
----
 
 ## 6. Contourner les limites du formulaire  
 
@@ -199,7 +184,6 @@ Même si l’espace d’expression disparaît :
 - un entretien peut être demandé,  
 - tout élément écrit doit être ajouté au dossier.  
 
----
 
 ### Formulation prête à joindre à un dossier MDPH  
 
@@ -210,7 +194,6 @@ Même si l’espace d’expression disparaît :
 
 > « Le formulaire MDPH expérimental (Cerfa 15692\*02) réduit ma capacité à exprimer ma situation et compromet mon accès aux droits fondamentaux. Je sollicite votre intervention. »
 
----
 
 # Conclusion  
 
@@ -226,7 +209,3 @@ Il montre comment une société peut, sous couvert de modernisation,
 Il montre que la technique n’est jamais neutre.  
 Qu’un formulaire peut être une arme.  
 Et que la simplification peut être une manière élégante de faire disparaître ce qu’on ne veut plus voir.  
-
----
-
-Céleste R.

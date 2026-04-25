@@ -1,9 +1,7 @@
----
 title: "Sortir du réflexe de disqualification"
 date: 2026-04-12
 categories: actualites
 resume: "Pour un débat honnête autour du COVID long et des pratiques complémentaires"
----
 
 
 ![covidlong](/images/actualites/covidlong.png)
@@ -15,7 +13,6 @@ resume: "Pour un débat honnête autour du COVID long et des pratiques compléme
 Comment se fait-il que la reconnaissance du Covid long arrive souvent accompagnée d’un autre réflexe : 
 associer toute pratique non médicalisée à une dérive sectaire, sans nuance ni analyse ?
 
----
 
 ## 1. Le COVID long est un terrain infectieux et immunitaire complexe
 
@@ -33,7 +30,6 @@ et cherchent légitimement des pistes complémentaires.
 **Ce n’est pas un signe de dérive.  
 C’est un signe d’abandon.**
 
----
 
 ## 2. L’exposition au froid : une pratique caricaturée, jamais expliquée
 
@@ -51,7 +47,6 @@ Elles l’intègrent dans une approche globale, graduelle, adaptée, prudente.
 
 Réduire cela à « on m’a proposé de me guérir par le froid » est une caricature qui empêche toute compréhension réelle.
 
----
 
 ## 3. Le réflexe médiatique : disqualifier ce qui est gratuit, autonome, non médicalisé
 
@@ -68,7 +63,6 @@ Le mot « sectaire » est alors utilisé comme un outil rhétorique, non comme u
 Ce réflexe ne protège pas les patients.  
 Il protège un cadre de pensée.
 
----
 
 ## 4. Les témoignages de rémission existent, mais ils dérangent la narration dominante
 
@@ -86,7 +80,6 @@ Parce qu’ils ne cadrent pas avec la narration institutionnelle :
 
 > « Il n’y a rien à faire, attendez. »
 
----
 
 ## 5. Simplifier un sujet complexe conduit forcément à l’absurdité
 
@@ -107,7 +100,6 @@ On caricature pour mieux disqualifier.
 On disqualifie pour éviter d’expliquer.  
 On évite d’expliquer pour ne pas remettre en question un modèle.
 
----
 
 # Conclusion : ce débat mérite mieux que des raccourcis
 

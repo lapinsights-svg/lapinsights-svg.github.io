@@ -1,9 +1,7 @@
----
 title: "Byron Katie : Essai sur les technologies contemporaines de l’esprit"
 date: 2026-03-18
 collection: articles
 resume: "Analyse des mécanismes psychologiques, rhétoriques et idéologiques du Travail de Byron Katie."
----
 
 ![Byron](/images/spiritualite/Byron.png)
 
@@ -199,7 +197,3 @@ Arendt, Foucault, Merleau-Ponty, Wittgenstein, Frankfurt.
 
 **Psychologie & critique du New Age**  
 Illouz, Lasch, Herman, Welwood.
-
----
-
-Céleste R.

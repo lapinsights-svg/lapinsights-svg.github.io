@@ -1,9 +1,7 @@
----
 title: "Éthique de l’attention : trier l’information à l’ère de l’IA"
 date: 2026-02-22
 resume: "Distinguer le vrai du fabriqué, discipline essentielle dans un monde saturé d’informations"
 categories: idees
----
 
 À présent que l'information abonde, un flot incessant de données, d'analyses et de récits déferle
 chaque seconde et nous les consommons. Mais comment devons-nous les consommer ? L'enjeu
@@ -25,7 +23,6 @@ Cependant, un bouleversement récent nous pousse à reconsidérer l’ensemble d
 **l'arrivée de l'intelligence artificielle générative**, qui est capable non seulement de transmettre
 l'information, mais aussi de la créer, de la modifier, voire de l'inventer de toutes pièces.
 
----
 
 ## Repenser les catégories traditionnelles
 
@@ -39,7 +36,6 @@ Le tri de l'information devient une compétence nouvelle, qui relève à la fois
 - de la technique,  
 - et même de la philosophie.
 
----
 
 # A. Actualités : distinguer l’essentiel et le crédible
 
@@ -71,7 +67,6 @@ nous devons désormais y ajouter une vigilance accrue : **la traçabilité**.
 
 > Dans un monde saturé d'informations, savoir se retirer du flot est un acte de liberté intellectuelle.
 
----
 
 # B. Recherche historique : protéger les témoignages contre la réécriture
 
@@ -98,7 +93,6 @@ Une source n'est fiable que si elle est :
 L’histoire devient aussi une **défense des témoignages** face à la multiplication des faux.
 
 
----
 
 # C. Politique sociétale : résister aux récits simplifiés
 
@@ -120,7 +114,6 @@ Notre tri doit intégrer :
 
 > La maîtrise de ses émotions devient une compétence politique essentielle.
 
----
 
 # D. Géopolitique : comprendre les rapports de force dans un monde saturé de faux
 
@@ -152,7 +145,6 @@ Le tri géopolitique doit intégrer :
 
 > La géopolitique devient autant un repérage des récits artificiels qu’une analyse des rapports de force.
 
----
 
 # Conclusion 
 
@@ -168,7 +160,6 @@ Elle nous oblige à :
 - nous baser sur des faits concrets plutôt que sur la crédibilité apparente.
 
 
----
 
 # Annexe 1 — Comment se positionner par rapport à l’émotionnel ?
 
@@ -203,7 +194,6 @@ Un ton neutre n’est pas une garantie de vérité.
 Une émotion n’est pas un signe de mensonge.  
 Ce qui compte : **la qualité des preuves**.
 
----
 
 # Annexe 2 — Application à l’affaire Epstein
 
@@ -246,7 +236,3 @@ Il faut distinguer :
 - ce qui est probable,  
 - ce qui est interprété,  
 - ce qui est inventé.
-
----
-
-Céleste R. 

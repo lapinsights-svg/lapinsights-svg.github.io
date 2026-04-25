@@ -1,11 +1,9 @@
----
 title: "L'éveil dans la neige"
 date: 2026-04-04
 tags: [spiritualité, création, conscience]
 resume: "Une marche dans la neige où la vie invisible se révèle."
 categories: creations
 layout: article
----
 
 
 ![Eveil dans la neige](/images/creations/eveil-neige.png)
@@ -70,4 +68,3 @@ Elle se leva. Il se leva aussi. Elle lui tendit la main. Il la prit.
 Et ensemble, ils se remirent à marcher. Non plus pour chercher. Mais pour accompagner la vie qui brûlait en eux.
 
 Dans le silence immense du monde, ils savaient qu’ils venaient d’entendre le premier mot du mystère.
-

@@ -1,9 +1,7 @@
----
 title: "Identité numérique et réseaux sociaux"
 date: 2026-01-27
 categories: idees
 resume: "Analyse des lois sur la vérification d’âge, l’identité numérique et les risques structurels de contrôle social."
----
 
 <!-- IMAGE À INSÉRER -->
 ![Identité numérique](/images/idees/IDnum.png)
@@ -33,7 +31,6 @@ présentent cette loi comme :
 
 Ces arguments sont populaires et difficiles à contester.
 
----
 
 Et que font les jeunes sur les réseaux ? Ils s'informent différemment, des mouvements
 spontanés émergent, des contestations se propagent rapidement.
@@ -82,7 +79,6 @@ Ou :
 > "Le vaccin n'est pas obligatoire ... mais sans vaccin, vous ne pouvez pas aller au restaurant,
 au cinéma, au magasin", etc.
 
----
 
 Donc, ne rêvons pas : à terme, **l'EUDI Wallet est le candidat le plus probable pour la
 vérification d'âge**. Ce n'est pas écrit dans la loi française, mais c'est la direction logique des
@@ -115,7 +111,6 @@ communs.
 Pris séparément, ce sont des mesures de régulation.  
 Mais assemblés différemment, ce sont **des briques techniques d'un système de contrôle social**.
 
----
 
 Ceux qui dirigent ce monde ne sont pas dans l'explicite, mais ils avancent comme dans un
 jeu d'échec et nous voyons un risque structurel se dessiner :
@@ -134,7 +129,6 @@ Ainsi la liberté n'est plus automatique : elle devient **conditionnelle**.
 Elle dépend d'infrastructures techniques.  
 Elle dépend de la confiance dans les institutions.
 
----
 
 Alors, l'autre question est : peut-on faire autrement ?  
 Ou quelle serait la forme de régulation qui protègerait la liberté ?
@@ -165,7 +159,6 @@ Sans transparence, il n'y a pas de liberté.
 
 Il n'y a que de la confiance aveugle — et ça, ce n'est pas une base démocratique.
 
----
 
 Une régulation qui protège la liberté doit être contrôlée par les citoyens, pas par les
 plateformes ni par l'État seul.
@@ -187,5 +180,3 @@ entreprise n'est pas une liberté.
 C'est une permission.
 
 <br><br>
-
-<p class="signature">© Céleste R. — CC BY-NC-ND</p>

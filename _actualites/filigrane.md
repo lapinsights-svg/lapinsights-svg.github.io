@@ -1,9 +1,7 @@
----
 title: "Les heures sombres en filigrane : Ce que cache le règlement européen sur le retour"
 date: 2026-03-10
 categories: actualites
 resume: "Analyse critique du projet de règlement européen sur le retour et de ses implications juridiques et humaines."
----
 
 ![Règlement européen sur le retour](/images/actualites/filigrane.png)
 
@@ -122,7 +120,3 @@ Il faut regarder ce texte en face :
 - pour déjouer la mise en scène politique.
 
 Une démocratie se mesure à sa capacité à reconnaître les illusions et à défendre ses principes.
-
----
-
-Céleste R. 

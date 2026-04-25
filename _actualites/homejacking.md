@@ -1,9 +1,7 @@
----
 title: "Un violent home-jacking"
 date: 2026-02-06
 categories: actualites
 resume: "Analyse critique d’un récit médiatique incohérent autour d’un prétendu home-jacking visant un membre du Conseil d’État."
----
 
 ## Ivry-sur-Seine : un membre du Conseil d’État visé par un home-jacking
 
@@ -111,5 +109,3 @@ Le récit :
 - sert un climat émotionnel plutôt qu’une information.
 
 Il ne tient pas.
-
-© Céleste R. — CC BY-NC-ND

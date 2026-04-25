@@ -1,9 +1,7 @@
----
 title: "Maître Brusa contre Macron ?"
 date: 2026-01-28
 categories: actualites
 resume: "Analyse juridique des déclarations de Maître Brusa affirmant vouloir attaquer Emmanuel Macron en justice."
----
 
 # Maitre Brusa contre Macron ?
 
@@ -25,7 +23,6 @@ Sur le plan juridique, un président en exercice bénéficie d'une immunité pé
 
 Une action visant à « lever son immunité » pour des propos tenus durant son mandat est juridiquement très improbable et nécessiterait des procédures constitutionnelles lourdes, non mentionnées dans les sources.
 
----
 
 Et Macron ne peut pas être visé personnellement, tandis qu'on peut aller à une audience de procédure liée à une action collective où l'État est visé, et où les avocats du président représentent l'institution, pas la personne.
 
@@ -57,7 +54,6 @@ Le président n'est pas la personne juridique assignée.
 
 Ainsi, une assignation déposée « contre Macron » serait automatiquement requalifiée ou rejetée.
 
----
 
 Alors à quoi joue Maitre Brusa ?
 
@@ -81,7 +77,6 @@ C'est une mise en scène rhétorique, pas une réalité juridique.
 
 Ses propos relèvent davantage de la communication politique que de l'information juridique.
 
----
 
 Dans une autre vidéo :  
 [https://www.youtube.com/watch?v=B0ZyAHtBydA](https://www.youtube.com/watch?v=B0ZyAHtBydA) (min 38:29)  
@@ -111,8 +106,3 @@ Et il laisse entendre que l'un équivaut à l'autre.
 Il laisse croire qu'une action civile peut viser le président, alors que le droit constitutionnel rend cela impossible, et transforme une audience technique en événement politique.
 
 Encore une fois, c'est une stratégie de communication, pas une réalité juridique.
-
----
-
-
-Céleste R. 

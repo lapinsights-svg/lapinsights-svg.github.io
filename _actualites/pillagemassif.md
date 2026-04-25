@@ -1,9 +1,7 @@
----
 title: "Pillage massif"
 date: 2025-01-25
 categories: actualites
 resume: "Réflexion sur l’ampleur du pillage financier par les secteurs militaires et bancaires, et sur la manipulation de l’opinion publique."
----
 
 ![VTP](/images/actualites/VTP.png)
 
@@ -25,7 +23,6 @@ Les estimations varient entre **5 000 et 10 000 milliards de dollars** d'actifs 
 
 On sait qu'une partie des très riches ont vu leur fortune multipliée par 20 au cours des deux dernières décennies, tandis que le reste d'entre nous s'est considérablement appauvri.
 
----
 
 Les loyers ont presque doublé (30 ou 40 %) depuis la pandémie de Covid dans la plupart des villes, tout comme les prix des denrées alimentaires, tandis que les revenus de la classe moyenne restent stagnants.  
 Et cela ne concerne que ceux qui ont encore un emploi.
@@ -40,7 +37,6 @@ on obtient environ **500 000 à 550 000 personnes** en France qui n'ont pas de l
 
 Tout cela dans un pays dit « riche ».
 
----
 
 Et notre situation est en réalité meilleure que celle de nombreux pays qui ont été pillés par la marine phénicienne jusqu'à être complètement dévastés.  
 On l'a vu récemment avec le Venezuela, où l'on admet qu'un quart de la population a fui le pays en raison du vol systématique (**7 millions** de Vénézuéliens ont quitté le pays depuis 2015).  
@@ -49,7 +45,6 @@ Et même le Venezuela n'est pas le pire.
 
 De nombreux pays africains et asiatiques ont été pillés jusqu'à la famine, pour nourrir les fourneaux et les milliardaires du monde.
 
----
 
 Vous allez dire : « Mais qu'est-ce que je peux y faire ? »
 
@@ -69,7 +64,6 @@ C'est à cela que sert Internet, pas aux jeux, aux achats, au porno et aux paris
 
 Si ce n'est pas crédible, refusez d'y croire.
 
----
 
 Au-delà de cela, refusez d'être bluffé.  
 90 % du monde est un bluff, alors refusez de faire partie des 99 % qui croient au mensonge et tombent dans le piège du bluff.
@@ -80,7 +74,3 @@ Vous n'êtes pas né pour être le jouet des menteurs et des tricheurs.
 Une fois que vous commencerez à dire non au lieu de oui, cela deviendra une belle habitude et vous finirez par devenir une personne authentique.  
 Une personne authentique qui ne songerait pas à dire :  
 « Eh bien, que puis-je y faire ? »
-
----
-
-© Céleste R. — CC BY-NC-ND

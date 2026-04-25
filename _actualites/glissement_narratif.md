@@ -1,10 +1,8 @@
----
 title: "confinement ou glissement narratif"
 date: 2026-04-16
 resume: "Déformer l’énergie pour fabriquer la peur."
 layout: article
 categories: actualites
----
 
 # Quand une vidéo transforme une réunion technique en apocalypse : anatomie d’un glissement narratif
 
@@ -36,7 +34,3 @@ De vulnérabilité énergétique, pas de discipline imposée.
 Dans le vacarme des récits anxiogènes, il reste essentiel de revenir au texte, au contexte, au factuel.  
 Là où la peur cherche à s’installer, la clarté reprend sa place.  
 Et le paysage retrouve sa respiration
-
----
-
-Céleste R. — 

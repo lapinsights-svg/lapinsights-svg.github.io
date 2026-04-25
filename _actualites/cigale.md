@@ -1,10 +1,8 @@
----
 title: "75 nuances de cigale"
 date: "2026-04-18"
 resume: "encore un variant"
 tags: ["satire", "science", "médias", "covid", "mutation"]
 categories: actualites
----
 
 ![cigale](/images/actualites/cigale.png)
 
@@ -26,5 +24,4 @@ Dallas virologique, interminable, artificiel, et surtout… terriblement prévis
 [Lire l’article de Science et vie](https://www.science-et-vie.com/article-exemple)
 
 
----
 Céleste R

@@ -1,9 +1,7 @@
----
 title: "Europe électrique : Souveraineté, nations et enjeux énergétiques"
 date: 2026-03-13
 categories: idees
 resume: "Pourquoi l’Europe ne peut pas planifier son énergie et pourquoi les solutions restent nationales."
----
 
 
 Tout commence par une décision politique qui, en apparence, semble technique :  
@@ -133,7 +131,3 @@ Elle n’a ni les outils, ni le mandat, ni la structure.
 La solution ne peut donc être qu’au niveau national.
 
 C’est comme si l’Europe avait construit un orchestre, mais que chaque musicien jouait sa propre partition, tandis que le chef d’orchestre n’avait qu’un seul pouvoir : fixer le prix des billets.
-
----
-
-© Céleste R. — CC BY-NC-ND

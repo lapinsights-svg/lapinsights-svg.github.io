@@ -1,9 +1,7 @@
----
 title: "La 5eme République arrive au bout de sa forme"
 date: 2026-04-17
 resume: "Retour au parlementarisme"
 categories: idees
----
 
 ![fiss](/images/idees/fiss.png)
 
@@ -72,6 +70,3 @@ La Cinquième République n’est pas en train de tomber.
 Elle arrive simplement au bout de sa forme.  
 Et l’idée qui revient aujourd’hui, celle d’un régime où le président n’est plus un chef mais un garant, où le gouvernement gouverne, où le Parlement contrôle, n’est pas une utopie.  
 C’est une sortie logique d’un système devenu contradictoire avec lui-même.
-
----
- Céleste R.

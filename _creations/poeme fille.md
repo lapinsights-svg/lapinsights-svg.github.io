@@ -1,9 +1,7 @@
----
 title: "Poème pour ma fille"
 date: 2026-03-19
 categories: creations
 resume: "Un poème sensoriel et intime sur la manière dont cette enfant ressent le monde."
----
 
 ![Poney](/images/creations/Poney.png)
 
@@ -144,8 +142,3 @@ Quand quelque chose touche ton cœur,
 même très doucement,  
 écoute avec ta peau.  
 Là où la vérité arrive en premier.
-
----
-
-
-© Céleste R. — CC BY-NC-ND

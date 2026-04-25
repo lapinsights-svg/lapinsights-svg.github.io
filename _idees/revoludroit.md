@@ -1,9 +1,7 @@
----
 title: "La charte et le mur : Ce que révèle le projet Révoludroit de Valérie Bugault"
 date: 2026-03-08
 categories: idees
 resume: "Entre refondation institutionnelle, effondrement systémique et reconstruction civique."
----
 
 ![Revoludroit](/images/idees/Revoludroit.png)
 
@@ -115,7 +113,3 @@ Les communes libres et les villes autonomes d'Italie et de Flandre peuvent être
 Pour les effondrements systémiques, les analyses de Joseph Tainter (The Collapse of Complex Societies), de Fernand Braudel (Civilisation matérielle, économie et capitalisme), ou de Karl Polanyi (La Grande Transformation) offrent un cadre conceptuel solide. Les exemples contemporains - Argentine 2001, Islande 2008 - peuvent être documentés à partir de travaux en économie politique, de rapports d'organisations internationales et d'études sur les monnaies locales et les assemblées citoyennes.
 
 Enfin, pour comprendre la reproduction des élites et la capture des révolutions, les apports de Charles Tilly, Pierre Bourdieu, Eric Hobsbawm ou François Furet permettent de situer le projet Révoludroit dans une perspective sociologique et historiographique plus large.
-
----
-
-© Céleste R. — CC BY-NC-ND

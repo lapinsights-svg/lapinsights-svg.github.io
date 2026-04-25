@@ -1,9 +1,7 @@
----
 title: "L’Euthanasie et la décohérence du droit"
 date: 2026-02-16
 categories: idees
 resume: "Analyse du Dr Amine Umlil sur les contradictions juridiques du projet de loi sur l’aide à mourir."
----
 
 
 Je voudrais synthétiser l’excellente analyse du Dr Umlil sur la décohérence du droit face au projet de loi sur l’aide à mourir.
@@ -86,7 +84,3 @@ L’entretien se termine sur des questions fondamentales :
 - Comment éviter que la loi ne devienne un outil de gestion sociale de la souffrance ?
 
 Il appelle à un débat public approfondi, loin des slogans.
-
----
-
-© Céleste R. — CC BY-NC-ND

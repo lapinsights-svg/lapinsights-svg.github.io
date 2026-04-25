@@ -1,9 +1,7 @@
----
 title: "La faillite de l’eau ?"
 date: 2026-03-28
 categories: idees
 resume: "Pourquoi la rhétorique de la « faillite hydrique » ne correspond pas à la réalité physique du cycle de l’eau."
----
 
 ![La faillite de l'eau](/images/idees/faillite-eau.png)
 
@@ -100,7 +98,3 @@ Elle est politique, agricole, industrielle, urbaine.
 
 L’eau continue de circuler.  
 C’est à nous de réapprendre à vivre avec elle — sans céder au récit apocalyptique qui confond urgence et fatalité.
-
----
-
-© Céleste R. — CC BY-NC-ND

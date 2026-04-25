@@ -1,9 +1,7 @@
----
 title: "Un Cours en Miracles : l'examen souterrain"
 date: 2026-03-30
 resume: "Une exploration méthodique des zones d’emprise et de clarté dans Un Cours en Miracles."
 layout: article
----
 .
 ![Grotte 1](/images/creations/grotte1.png)
 
@@ -36,6 +34,3 @@ Je n'en dirai pas davantage pour l'instant.
 Le livre se construit à son rythme, au fil de cette descente nécessaire.  
 Et je continue.  
 Pas à pas.
-
-
-

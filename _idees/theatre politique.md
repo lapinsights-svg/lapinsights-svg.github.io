@@ -1,9 +1,7 @@
----
 title: "Le théâtre de la politique française"
 date: 2026-03-05
 categories: idees
 resume: "Entre affrontements chorégraphiés et électeurs oubliés"
----
 
 ![Theatre](/images/idees/Theatrepolitique.png)
 
@@ -27,7 +25,6 @@ Mais cette mise en scène détourne l'attention des vrais problèmes.
 Les électeurs ne sont ni écoutés, ni compris.  
 Les débats politiques se focalisent sur des symboles, pas sur le quotidien.
 
----
 
 Les Français ne se reconnaissent plus dans les discussions télévisées.  
 L'abstention augmente.  
@@ -64,5 +61,3 @@ Et surtout, quand les Français parlent de « pouvoir d'achat », « fatigue »,
 ils expriment souvent une perte de sens.
 
 Une dimension plus silencieuse, plus profonde, qui échappe aux enquêtes mais façonne le réel.
-
-Céleste R. 

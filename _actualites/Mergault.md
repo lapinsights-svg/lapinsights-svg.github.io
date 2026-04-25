@@ -1,9 +1,7 @@
----
 title: "Isabelle Mergault"
 date: 2026-03-20
 categories: actualites
 resume: "Un souvenir tendre et lumineux d’Isabelle Mergault, entre rire, poésie involontaire et grâce bancale."
----
 
 ![mergault](/images/actualites/mergault.png)
 
@@ -37,7 +35,3 @@ Elle avançait dans l'existence avec une grâce bancale qui me touchait profond�
 Elle laisse en moi un souvenir qui continue de sourire.  
 Morte à 67 ans, c'est jeune, d'un cancer, en quelques mois...  
 RIP
-
----
-
-Céleste R. 

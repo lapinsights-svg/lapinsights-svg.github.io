@@ -1,9 +1,7 @@
----
 title: "Antisémitisme versus Antisionisme"
 date: 2026-02-14
 categories: idees
 resume: "Clarifier deux notions souvent confondues pour des raisons politiques."
----
 
 
 « L'antisémitisme prend les visages de l'antisionisme, de la haine d'Israël, de l'islamisme, du complotisme », met en garde Yonathan Arfi dans un entretien avec l’AFP.
@@ -83,8 +81,3 @@ Les juristes sont clairs :
 - l’antisionisme n’est pas un crime.
 
 Élargir la définition est un **choix politique**, pas juridique.
-
----
-
-
-Céleste R. 

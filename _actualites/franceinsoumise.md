@@ -1,9 +1,7 @@
----
 title: "La France Insoumise est elle d extreme gauche"
 date: 2026-02-11
 categories: actualites
 resume: "Analyse du reclassement politique de LFI et distinction entre gauche radicale et extreme gauche."
----
 
 ![LFI extreme gauche](/images/actualites/insoumise.png)
 

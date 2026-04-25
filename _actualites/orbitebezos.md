@@ -1,10 +1,8 @@
----
 title: "Jeff Bezos : Le vide en orbite"
 date: 2026-03-24
 resume: "Bezos et la Défense Planétaire en carton pâte"
 layout: article
 categories: actualites
----
 ![Bezos](/images/actualites/Bezos.png)
 
 
@@ -26,7 +24,6 @@ Un récit cosmique calibré pour les titres accrocheurs.
 Mais derrière la narration, un silence suspect : aucune date, aucun prototype, aucune preuve.  
 Juste une promesse suspendue dans le vide, comme un décor de théâtre sans coulisses.
 
----
 
 ## 2. Le risque est quasi nul
 
@@ -44,7 +41,6 @@ Il faudra dire à Jeff que les astéroïdes qui « menacent la Terre » sont sur
 Les probabilités réelles d’impact majeur sont proches du néant.  
 Mais je suppose qu’il le sait déjà…
 
----
 
 ## 3. Le futur en images, le présent en apesanteur
 
@@ -71,7 +67,6 @@ C’est de la science‑fiction présentée comme ingénierie
   ([Source](https://www.numerama.com/sciences/2216517-blue-origin-se-lance-dans-la-guerre-contre-les-asteroides-avec-la-mission-neo-hunter.html))
 
 
----
 
 ## 4. Ce clownisme technologique est un numéro coûteux
 
@@ -88,7 +83,6 @@ Un clownisme high‑tech où le maquillage coûte des milliards.
 
 Et dans un monde où les États occidentaux s’enfoncent dans une dette abyssale, ce spectacle a quelque chose d’indécent.
 
----
 
 ## 5. Bezos : géant narratif, nain technologique
 
@@ -105,7 +99,6 @@ Il n’a pas les technologies qu’il prétend avoir, mais il a :
 C’est un géant narratif, pas un géant industriel.  
 On voit beaucoup d’affirmations, très peu de preuves, mais un mégaphone planétaire.
 
----
 
 ## 6. Les politiciens : complices structurels, pas victimes naïves
 
@@ -125,7 +118,6 @@ Mais ils ne le font pas, parce que le système récompense le symbole, la promes
 Ils ne sont pas dupes.  
 Ils sont incités à fermer les yeux.
 
----
 
 ## 7. Le citoyen lucide : la seule force gravitationnelle réelle
 
@@ -142,7 +134,6 @@ En quelques minutes, n’importe qui peut identifier :
 
 C’est exactement ce que le système redoute : **des citoyens lucides**.
 
----
 
 ## Conclusion : un récit cosmique pour masquer un vide terrestre
 
@@ -152,8 +143,3 @@ C’est un mythe spatial, une fiction technologique, un effet d’annonce gonfl�
 Et il suffit d’une seule phrase pour le faire redescendre sur Terre :
 
 **« Montrez‑moi ce qui existe vraiment. »**
-
----
-
-Céleste R. 
-

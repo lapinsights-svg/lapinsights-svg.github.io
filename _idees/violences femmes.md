@@ -1,9 +1,7 @@
----
 title: "Violences faites aux femmes"
 date: 2026-03-21
 categories: idees
 resume: "Une justice qui demande aux victimes d’aller plus vite que leurs blessures"
----
 
 
 # Chroniques d’un pays qui demande aux victimes d’aller plus vite que leurs blessures.
@@ -22,7 +20,6 @@ Le texte est tombé à la veille du 8 mars 2026, comme un contre-chant dissonant
 À l’heure où l’on prépare les discours sur l’égalité, l’État demande aux victimes de se dépêcher.
 
 
----
 
 Officiellement, la mesure concerne toutes les affaires.  
 Officieusement, chacun sait que les CCD jugent presque exclusivement des viols.  
@@ -45,7 +42,6 @@ Leur position, à la fois juridique, éthique et institutionnelle, révèle ce q
 Voir la vidéo ici :  
 [https://www.facebook.com/watch/?v=1286104256714268](https://www.facebook.com/watch/?v=1286104256714268)
 
----
 
 ## Pendant que l’État accélère, l’Europe condamne
 
@@ -64,7 +60,6 @@ L’avocate Caroline Mecary l’a résumé d’une phrase :
 Et dans ce contexte, l’État voudrait… aller plus vite.
 
 
----
 
 ## La France, pays où les injustices sexuelles s’accumulent comme des strates géologiques
 
@@ -99,7 +94,6 @@ Isabelle Steyer :
 « Une victime de viol vit dans un couloir d’attente judiciaire. »
 
 
----
 
 Et l’État voudrait que le seul moment où elle est enfin entendue… dure moins longtemps.
 
@@ -118,7 +112,6 @@ Quand l’État manque de moyens, il compense par des injonctions.
 Quand il manque de courage, il compense par des effets d’annonce.  
 Quand il manque de vision, il compense par la vitesse.
 
----
 
 ## Conclusion : la justice n’a pas besoin d’aller plus vite.  
 Elle a besoin d’aller mieux.
@@ -133,7 +126,3 @@ Comme le rappelle Nathalie Tomasini :
 « Si on veut vraiment protéger les victimes, il faut du temps, des moyens, et du respect. »
 
 Le reste n’est que bruit administratif.
-
----
-
-Céleste R. 

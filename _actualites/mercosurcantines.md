@@ -1,9 +1,7 @@
----
 title: "Les départements peuvent-ils refuser le Mercosur dans les cantines ?"
 date: 2026-01-27
 categories: actualites
 resume: "Analyse juridique : jusqu’où un département peut-il exclure la viande du Mercosur des cantines scolaires."
----
 
 # Les départements peuvent-ils refuser le Mercosur dans les cantines ?
 
@@ -32,7 +30,6 @@ De même, un marché public ne peut pas exiger :
 
 Ces formulations sont illégales.
 
----
 
 ## La clé juridique : la délibération de février
 
@@ -50,7 +47,6 @@ La différence est majeure.
 
 Pour rester dans le cadre du droit européen, les collectivités doivent viser **les caractéristiques du produit**, jamais **son origine**.
 
----
 
 ## Ce que dit le droit européen
 
@@ -71,7 +67,6 @@ La stratégie consiste donc à exiger des standards très élevés :
 Ces exigences sont légales, objectives, et difficiles à satisfaire pour certaines productions du Mercosur.  
 Elles permettent d’atteindre l’objectif **sans violer le droit européen**.
 
----
 
 ## Conclusion
 
@@ -79,7 +74,3 @@ Les départements ne peuvent pas boycotter officiellement les produits du Mercos
 Mais ils peuvent exiger des critères tellement élevés que seules les productions les plus vertueuses pourront répondre.
 
 C’est la seule voie juridique solide.
-
----
-
-Céleste R. 

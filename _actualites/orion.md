@@ -1,9 +1,7 @@
----
 title: "ORION 2026"
 date: 2026-01-26
 categories: actualites
 resume: "Analyse critique de l’exercice militaire ORION 2026, de son coût, de ses objectifs et de son rôle dans la narration stratégique française."
----
 
 ![Orion](/images/actualites/Orion.png)
 
@@ -17,7 +15,6 @@ Scénario retenu : un pays fictif tente de déstabiliser un voisin pour l'empêc
 
 Le scénario s'inspire des "tensions actuelles en Europe de l'Est", mais sans nommer explicitement la Russie.
 
----
 
 « C'est l'un des plus grands exercices militaires français depuis des décennies. »
 
@@ -39,7 +36,6 @@ Il y a cependant un cas où il n'y a pratiquement pas de morts, ni de destructio
 
 Dans les deux cas, il y a le maintien de la population par la peur, et on continue le pillage de grande ampleur dans tous les secteurs.
 
----
 
 En parlant du coût, combien cette petite sauterie va coûter aux Français ?  
 « Orion »-nous un chiffre ? Non, aucun média n'en parle, nulle part.  
@@ -52,7 +48,6 @@ Comme c'est étrange.
 
 C'était un coût supporté par la France. Orion 23 était un exercice français, organisé sur le territoire français, par les armées françaises.
 
----
 
 Or, Orion 26 est nettement plus vaste :
 
@@ -72,7 +67,6 @@ Les manœuvres terrestres mobilisent des milliers de soldats pendant plusieurs s
 Attendez-vous à une vraie razzia sur le Trésor public français.  
 L'argent-dette, vous connaissez ?
 
----
 
 Cette fois-ci on peut estimer le coût d'une telle opération pour la France à **350 à 590 millions d'euros**.  
 Allez, j'essaie en partant de quelques hypothèses en matériel, coût, distance, etc :
@@ -83,7 +77,6 @@ Allez, j'essaie en partant de quelques hypothèses en matériel, coût, distance
 - Cyber / spatial : **10–20 M€**  
 - Logistique : **30–50 M€**  
 
----
 
 Et attendez, qu'en est-il du coût / bilan carbone ?
 
@@ -92,7 +85,6 @@ Parce que pour ce genre d'exercice, tout le monde oublie les ZFE, n'est-ce pas ?
 
 Même en jouant sur les hypothèses, on reste dans la centaine de milliers de tonnes de CO₂, pas dans le million, pas dans les quelques milliers.
 
----
 
 Et bien sûr on veut vous faire croire que tout cela est **NÉCESSAIRE**.
 
@@ -106,14 +98,9 @@ Et pour cet exercice, on multiplie par 24 pays, dont les États-Unis...
 
 C'est plus d'argent volé et d'énergie dépensée que pour tous les plus grands voleurs au monde de tous les temps.
 
----
 
 Tout cela signifie que la diplomatie France / États-Unis est encore bonne malgré tout ce qu'on raconte avec Trump.
 
 La participation américaine signifie leur soutien à la France qui organise, la démonstration de solidarité OTAN...
 
 Autre hypothèse : tout cet exercice international est du pipeau, dans le sens qu'ils ne feraient pas tout ce qu'ils annoncent, mais il servirait à maintenir la peur (comme un nouveau virus), à détourner l'attention et l'argent public.
-
----
-
-© Céleste R. — CC BY-NC-ND

@@ -1,9 +1,7 @@
----
 title: "Imposture des spiritualites pacifiantes"
 categories: spiritualite
 resume: "Critique des spiritualites qui neutralisent la souverainete individuelle."
 date: 2024-06-19
----
 ![pacification](/images/spiritualite/pacification.png)
 
 # L’imposture des spiritualités pacifiantes
@@ -21,7 +19,6 @@ Mais derrière cette douceur se cache une mécanique précise :
 Ce texte n’est pas une attaque contre la quête intérieure.  
 C’est une analyse des **spiritualités qui endorment**, de leurs **vecteurs**, de leurs **preuves historiques**, de leurs **effets psychologiques**, et de la manière dont elles servent — volontairement ou non — à **désarmer les individus**.
 
----
 
 ## 1. Preuve historique : Yuri Bezmenov et la spiritualité comme outil de démoralisation
 
@@ -46,7 +43,6 @@ Il parle de **stratégie de démoralisation**, de **désactivation civique**, de
 Cette archive constitue une **preuve structurelle** :  
 la spiritualité peut devenir un instrument politique lorsqu’elle détourne l’attention des dynamiques réelles.
 
----
 
 ## 2. Maharishi Mahesh : la pacification comme produit d’exportation
 
@@ -68,7 +64,6 @@ une spiritualité qui dit :
 
 C’est exactement ce que Bezmenov identifie comme un outil de démoralisation.
 
----
 
 ## 3. Ramana Maharshi : l’idéal du détachement total
 
@@ -91,7 +86,6 @@ Son enseignement repose sur une question :
 Mais dans un monde où les individus sont coupés de leurs repères, cette question tourne en boucle sans jamais produire de réponse.  
 Elle devient un labyrinthe intérieur.
 
----
 
 ## 4. Les promoteurs occidentaux : la diffusion organisée de la pacification
 
@@ -110,7 +104,6 @@ Ils ont importé en Occident une vision du monde où :
 Ce type de doctrine ne produit pas des individus souverains.  
 Il produit des individus **désactivés**.
 
----
 
 ## 5. Eckhart Tolle : la pacification psychologique sous forme de best‑seller
 
@@ -142,7 +135,6 @@ Il ne parle jamais de structures de pouvoir, de dynamiques historiques, de souve
 
 Il parle de présence, de douceur, de renoncement.
 
----
 
 ## 6. La médiatisation sélective : Oprah comme baromètre
 
@@ -160,7 +152,6 @@ Les doctrines qui encouragent la passivité sont celles qui circulent le mieux.
 La question devient alors :  
 **Pourquoi les systèmes de pouvoir amplifient-ils précisément les discours qui invitent à ne pas regarder le système ?**
 
----
 
 ## 7. Un Cours en Miracles : la déréalisation comme méthode
 
@@ -184,7 +175,6 @@ UCEM ne parle jamais de :
 
 Il parle de pardon, de dissolution, de renoncement.
 
----
 
 ## 8. Le bouddhisme modernisé : la version édulcorée
 
@@ -196,7 +186,6 @@ Il parle de respiration, de douceur, de non‑résistance.
 
 Pendant ce temps, l’histoire montre que les peuples qui méditent pendant que d’autres avancent finissent absorbés, effacés, dissous.
 
----
 
 ## Conclusion
 
@@ -213,7 +202,3 @@ L’univers n’est pas un coussin.
 Il est fait de **sagesse**, **connaissance**, **action**, **volonté**, **pouvoir**.
 
 Une civilisation qui médite pendant que d’autres planifient devient une civilisation qui se laisse effacer.
-
----
-
-Céleste R.

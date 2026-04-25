@@ -1,9 +1,7 @@
----
 title: "Banques et données personnelles"
 date: 2026-02-16
 categories: idees
 resume: "Les banques analysent nos transactions pour profiler nos vies — un enjeu démocratique majeur."
----
 
 Les banques ne se contentent plus de stocker nos données : **elles les interprètent**.
 
@@ -57,7 +55,3 @@ Parce que si nous ne fixons pas de limites maintenant, ce seront les entreprises
 - **Droit au refus** : un vrai choix, pas un faux consentement.
 
 C’est une revendication simple, raisonnable, profondément démocratique.
-
----
-
-© Céleste R. — CC BY-NC-ND

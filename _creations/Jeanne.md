@@ -1,8 +1,6 @@
----
 title: "Jeanne, dans la vallée de la mort"
 date: 2026-04-23
 categories: creations
----
 ![Jeanne](/images/creations/Jeanne.png)
 
 Dans la vallée, où les arbres retiennent leur souffle,  
@@ -101,7 +99,3 @@ se répand sur le monde.
 Et depuis le jour où le cygne blanc fut immolé,  
 nul ne put percer le bouclier  
 qui en recélait la vérité.
-
----
-
-Céleste R.

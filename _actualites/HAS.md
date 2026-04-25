@@ -1,9 +1,7 @@
----
 title: "Pressions, conflits, silences : ce que révèle vraiment l’affaire de la HAS"
 date: 2026-04-17
 resume: "Une zone grise au cœur de l’autorité scientifique."
 categories: actualites
----
 
 ![presin](/images/actualites/presin.png)
 
@@ -25,7 +23,6 @@ Les faits sont là. Les pressions existent. Les conflits d’intérêts ont exis
 
 Alors, que reste‑t‑il ? Une zone grise. Un espace où les influences se croisent, se superposent, se neutralisent — sans jamais être éclairées.
 
----
 
 # Le « name and shame » : une poudre sonore
 
@@ -39,7 +36,6 @@ Car si la HAS reconnaît aujourd’hui des pressions, c’est qu’elle dispose 
 
 Le « name and shame » devient alors un rideau sonore : on parle fort pour éviter de parler juste.
 
----
 
 # Les zones d’influence
 
@@ -64,7 +60,6 @@ Les deux à la fois, tressés dans la même corde ?
 
 Aucune trace écrite. Aucune enquête indépendante. Aucun geste de l’État. Juste un « name and shame » suspendu dans l’air, qui ne cache rien mais n’éclaire rien non plus.
 
----
 
 # Ce que l’on ne voit pas
 
@@ -73,6 +68,3 @@ Le territoire s’interroge pour comprendre et pour éviter que le passé ne se 
 Parce qu’une autorité scientifique n’est pas un oracle. Parce qu’un avis n’est pas un absolu. Parce qu’une institution peut vaciller, sans crier gare.
 
 Et parce qu’en matière de santé publique, **ce que l’on ne voit pas finit toujours par peser plus lourd que ce que l’on montre**.
-
----
-Céleste R.

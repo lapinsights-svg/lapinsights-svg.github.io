@@ -1,9 +1,7 @@
----
 title: "Don d’organes : le temps d’un vrai choix"
 date: 2026-02-22
 categories: idees
 resume: "Un choix intime qui demande lenteur, silence et liberté intérieure."
----
 
 
 Il y a des décisions qui ne se prennent pas dans le bruit du monde, mais dans le silence d’une chambre intérieure.
@@ -75,7 +73,3 @@ Ou peut‑être pas.
 
 Mais ce jour‑là, ce sera mon choix.  
 Et c’est cela, la vraie liberté.
-
----
-
-Céleste R. 

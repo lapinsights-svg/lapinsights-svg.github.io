@@ -1,9 +1,7 @@
----
 title: "Anthropic et le pouvoir américain"
 date: 2026-03-01
 categories: actualites
 resume: "L’affaire Anthropic révèle la nature profonde du pouvoir technopolitique américain"
----
 
 ![Anthropic](/images/actualites/anthropic.png)
 
@@ -143,9 +141,3 @@ C’est un avertissement.
 - WSWS :  
 
 [https://www.wsws.org/fr/articles/2022/02/14/amer-f14.html](https://www.wsws.org/fr/articles/2022/02/14/amer-f14.html)
-
-
-
-  ---
-
-Céleste R.

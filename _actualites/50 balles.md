@@ -1,10 +1,8 @@
----
 title: "50 balles ou l'effondrement du droit"
 date: 2026-03-03
 resume: "ou comment l'argent prend le pas sur l'égalité"
 layout: article
 categories: actualites
----
 
 
 
@@ -16,7 +14,6 @@ vous devrez payer 50 euros… »
 Tout est parti de cette loi — présentée par CNews — qui fait payer l’accès au juge.  
 En cherchant comment nous en étions arrivés là, j’ai déroulé le fil d’une dérive républicaine et constitutionnelle bien plus ancienne et inquiétante.
 
----
 
 ## L’accès au juge devient une prestation
 
@@ -31,7 +28,6 @@ Cette contribution n’est pas un accident : elle est le symptôme d’un mouvem
 
 On l’a vu en 2020, lorsque l’ensemble des libertés — circuler, travailler, étudier, se réunir, même accéder à certains soins — a été subordonné à la présentation d’un pass sanitaire.
 
----
 
 ## L’article 16 : un principe vidé de sa substance
 
@@ -48,7 +44,6 @@ Mais le fond s’effondre.
 
 L’accès au juge est un droit fondamental **vidé de sa substance**.
 
----
 
 ## Que devient la devise républicaine ?
 
@@ -74,7 +69,6 @@ Aujourd’hui, elle est réduite à une simple liberté d’aider autrui, essent
 
 Elle ne protège plus l’équité, ni même le droit élémentaire d’un citoyen de récupérer son propre domicile lorsqu’il est victime d’un squatteur.
 
----
 
 ## L’état d’urgence : de l’exception à la norme
 
@@ -86,7 +80,6 @@ Ce basculement — **l’exception absorbée par la normalité** — est l’un 
 Les analyses d’Olivier Beaud, Paul Cassia et Dominique Rousseau convergent :  
 la France a connu une banalisation de l’exception, un affaiblissement de la séparation des pouvoirs, et une marginalisation du juge.
 
----
 
 ## Le Conseil constitutionnel : gardien de la forme, pas de l’esprit
 
@@ -103,7 +96,6 @@ La Constitution devient alors un décor : un texte que l’on cite mais que l’
 Or une Constitution n’existe que par **son esprit**, ses valeurs.
 
 
----
 
 ## Une République qui vacille
 
@@ -131,7 +123,6 @@ La question n’est plus :
 mais :  
 **« Qui, aujourd’hui, est encore prêt à défendre son esprit, et pas seulement ses mots ? »**
 
----
 
 ## Quelques auteurs essentiels
 
@@ -163,8 +154,3 @@ Elle analyse la capture du droit par des logiques oligarchiques et la perte de s
 - Site officiel : https://valeriebugault.fr  
 - Chaîne YouTube : https://www.youtube.com/@ValerieBugaultOfficiel  
 - Biographie : https://www.babelio.com/auteur/Valerie-Bugault/532424
-
----
-
-Céleste R. 
-

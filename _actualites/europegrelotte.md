@@ -1,9 +1,7 @@
----
 title: "L’Europe qui grelotte"
 date: 2026-03-16
 categories: actualites
 resume: "Pourquoi l’Europe ne peut pas protéger uniformément ses citoyens face à la crise énergétique."
----
 
 
 ## 1. La crise énergétique
@@ -121,7 +119,3 @@ La diversité n’est pas un problème : c’est la condition même de la libert
 
 Mais une question demeure :  
 **Quand l’énergie cessera‑t‑elle d’être une menace pour devenir un bien commun ?**
-
----
-
-Céleste R.

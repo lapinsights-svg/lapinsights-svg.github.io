@@ -1,9 +1,7 @@
----
 title: "Menace du PDG de Pfizer sur la France"
 date: 2026-01-25
 categories: actualites
 resume: "Analyse des déclarations du PDG de Pfizer évoquant la possibilité de cesser d’approvisionner la France si les prix des médicaments ne sont pas relevés."
----
 
 
 Le PDG de Pfizer, Bourla, a explicitement évoqué l'idée de cesser d'approvisionner la France en médicaments si les prix ne sont pas relevés.
@@ -20,7 +18,6 @@ D'ailleurs, Bourla assume que les profits doivent rester très élevés, pour fi
 
 En clair : la rentabilité passe avant la modération des prix.
 
----
 
 C'est clairement la menace suivante :  
 « Si vous voulez des innovations, vous devez accepter que nous fassions beaucoup de profits. »
@@ -51,8 +48,3 @@ Et que va faire la France, que va faire l'UE d'après vous ? Renoncer, ou vous v
 
 Honnêtement, on se fout de leurs innovations en termes de médicaments.  
 La santé ne passe pas par leur médication.
-
-
----
-
-© Céleste R. — CC BY-NC-ND

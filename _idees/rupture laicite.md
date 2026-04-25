@@ -1,9 +1,7 @@
----
 title: "Une rupture du principe de laïcité"
 date: 2026-02-17
 categories: idees
 resume: "Réflexion sur l’évolution de la laïcité française, de la loi de 1905 aux tensions contemporaines entre liberté, visibilité et contrôle."
----
 
 # Une rupture du principe de laïcité
 
@@ -27,7 +25,6 @@ Cette façon de voir les choses a rendu floue la différence entre la laïcité 
 Dans cette situation, les chefs religieux ont aussi un rôle à jouer.  
 Ils ne doivent pas cacher leur religion, car chacun est libre de pratiquer son culte.
 
----
 
 Mais ils peuvent expliquer clairement ce qui fait partie de leur religion, faire la différence entre religion et culture, et dénoncer les excès qui n'ont rien à voir avec leur foi.  
 Cela peut aider à éviter les malentendus et empêcher que les actes de quelques personnes soient vus comme des règles de toute une communauté.
@@ -37,7 +34,6 @@ On se dispute sur certaines pratiques religieuses, pas parce qu'elles sont dange
 
 Pour revenir à l'idée de 1905 — celle sur laquelle les institutions prétendent encore s'appuyer — il faudrait se rappeler que l'État doit être neutre, que les citoyens sont libres et que les religions peuvent aider à calmer les choses sans être tenues responsables de tout.
 
----
 
 Je vais faire une digression.  
 C'est frappant de voir que la France a assoupli les règles pour certaines identités (comme les identités sexuelles), mais a rendu plus strictes celles concernant les religions.
@@ -53,13 +49,8 @@ Du coup, il y a un paradoxe : on encourage certaines personnes à s'exprimer, ma
 
 Et c'est précisément cette manœuvre politique et idéologique qui a déclenché l'effondrement de la hiérarchie des normes.
 
----
 
 Cela montre encore une fois qu'une société ne tient pas seulement par des lois, mais par une verticalité morale dont sont issues les normes.
 
 Au final, on se retrouve avec des morales qui se contredisent — certaines sont très ouvertes, d'autres plus strictes.  
 Cela mine la cohérence des règles et l'autorité dont le droit a besoin pour rester stable.
-
----
-
-© Céleste R. — CC BY-NC-ND

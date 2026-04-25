@@ -1,9 +1,7 @@
----
 title: "L’adaptation n’est pas l’intelligence : plaidoyer pour le vivant"
 date: 2026-04-09
 categories: idees
 layout: article
----
 
 ![La faillite de l'eau](/images/idees/neuromorph.png)
 
@@ -32,5 +30,3 @@ Je préfère d’ailleurs parler de systèmes adaptatifs même lorsqu’il s’a
 Et dans cette clarté, je vois que l’intelligence humaine n’a pas besoin d’être défendue : elle est d’une autre nature, par essence et par définition. Les machines n’ont pas d’intelligence vivante. Elles n’ont que des comportements. Et je refuse de confondre des comportements aussi sophistiqués puissent-ils être avec un monde vivant.
 
 <br><br>
-
-<p class="signature">© Céleste R. 

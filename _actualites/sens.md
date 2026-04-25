@@ -1,10 +1,8 @@
----
 layout: article
 title: "Restaurer le sens"
 categories: actualites
 resume: "les métiers du lien en crise"
 date: 2026-04-11
----
 
 ![metiersens](/images/actualites/metiersens.png)
 
@@ -27,7 +25,6 @@ Elle parle de flux, de pilotage, de continuité du service.
 Elle dit ce que tout le monde voit.  
 Mais elle ne dit pas **ce qui s’est brisé**.
 
----
 
 ## 2. Ce qu’elle ne dit pas : l’infantilisation, la dépossession, la casse du pouvoir d’agir
 
@@ -53,7 +50,6 @@ Elle ne dit pas que la perte de sens n’est pas un concept abstrait, mais une *
 
 Et pourtant, les témoignages existent, nombreux, précis, bouleversants.
 
----
 
 ## 3. Ce que disent vraiment les professionnels : le terrain parle autrement
 
@@ -89,7 +85,6 @@ Ils disent :
 Ces témoignages disent ce que Mme Rist ne dit pas :  
 **la déshumanisation, la bureaucratisation, la perte d’autonomie, la casse du sens.**
 
----
 
 ## 4. Le cœur du problème : la logique comptable appliquée au vivant
 
@@ -105,7 +100,6 @@ Ils produisent du **vivant**.
 
 Et le vivant ne rentre pas dans un tableau Excel.
 
----
 
 ## 5. Le numérique comme mirage politique
 
@@ -138,7 +132,6 @@ Le numérique est devenu un **cache‑misère politique**,
 un mot‑paravent qui permet d’éviter la seule question qui compte :  
 **comment redonner aux professionnels leur pouvoir d’agir, leur autonomie, leur dignité ?**
 
----
 
 ## 6. Ce qu’il faudrait dire : la vérité structurelle
 
@@ -155,7 +148,6 @@ Il faudrait dire que :
 Il faudrait dire que la première réforme nécessaire n’est pas budgétaire.  
 Elle est **philosophique**.
 
----
 
 ## 7. Ce qu'il faudrait faire : un vrai plan d’action pour restaurer le sens
 
@@ -193,7 +185,6 @@ Voici ce qu’un gouvernement qui comprendrait réellement les métiers du lien 
 - écouter les corps ;  
 - écouter les signaux faibles.
 
----
 
 
 Les métiers du lien ne sont pas en crise parce qu’ils coûtent trop cher.  
@@ -207,7 +198,3 @@ Ce que Mme Rist voit est réel.
 Mais,ce qu’elle ne voit pas est essentiel.  
 Et ce qu’il faudrait faire est simple :  
 **remettre le vivant au centre.**
-
----
-
-© Céleste R. — CC BY‑NC‑ND

@@ -1,9 +1,7 @@
----
 title: "Jean‑Michel Jarre et l IA"
 date: 2026-04-24
 categories: idees
 resume: "Analyse critique de l’analogie proposée par Jean‑Michel Jarre"
----
 
 ![Jarre](/images/idees/Jarre.png)
 
@@ -19,7 +17,6 @@ C’est une métaphore de continuité : un nouvel outil, un prolongement de la m
 Mais l’IA n’est pas un instrument.  
 Et la création ne fonctionne plus comme à l’époque de Vivaldi.
 
----
 
 # Le violon est un objet inerte
 
@@ -29,7 +26,6 @@ Dans la relation Vivaldi–violon, l’humain est **source**, l’instrument est
 
 Le violon n’est jamais co‑auteur.
 
----
 
 # L’IA est un système génératif
 
@@ -42,7 +38,6 @@ Il devient **sélectionneur**, **filtre**, **orchestrateur**.
 La source se déplace.  
 La souveraineté créative se redistribue.
 
----
 
 # Le point crucial : l’artiste ne crée plus, il déclare
 
@@ -60,7 +55,6 @@ Elle est une **chambre d’échos générative**, un climat algorithmique où le
 Le violon déléguait la vibration.  
 L’IA délègue la variation.
 
----
 
 Il ne s’agit pas d’être contre l’IA.  
 Il s’agit de savoir **ce qu’elle fait** — produire, varier, générer —  
@@ -71,7 +65,3 @@ Je refuse sa métaphore qui adoucit la rupture.
 L’artiste ne crée plus la forme : il **déclare la volonté de forme**, et laisse un système produire ce qu’il ne fait plus.
 
 Nommer ce déplacement, c’est préserver la clarté sur ce que nous déléguons, ce que nous transformons, et ce que nous risquons de perdre du véritable art humain.
-
----
-
-Céleste R.

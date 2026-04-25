@@ -1,9 +1,7 @@
----
 title: "BREXIT : le biais des sondages"
 date: 2026-01-28
 categories: actualites
 resume: "Pourquoi les sondages sur le Brexit donnent une illusion de polarisation."
----
 
 # BREXIT : LE BIAIS DES SONDAGES
 
@@ -20,7 +18,6 @@ Le biais principal, c’est **l’apparente symétrie** du graphique.
 
 ![Brexit sondages](/images/actualites/brexit-opinion1.png)
 
----
 
 ## Que mesurent vraiment ces sondages ?
 
@@ -36,7 +33,6 @@ Les proportions réelles sont plutôt :
 
 Ce dernier groupe est massif et change complètement la lecture.
 
----
 
 ## La symétrie est un artefact statistique
 
@@ -53,7 +49,6 @@ Si l’on réintégrait les indécis dans le graphique, la symétrie disparaîtr
 
 ![Brexit sondages](/images/actualites/brexit-opinion2.png)
 
----
 
 ## Le Brexit n’est pas la cause principale des difficultés économiques
 
@@ -68,7 +63,6 @@ Les trajectoires France / Royaume-Uni sont quasi identiques.
 
 Le Brexit n’a pas provoqué un effondrement économique, mais il n’a pas amélioré la situation non plus.
 
----
 
 ## Les biais cognitifs influencent l’opinion
 
@@ -88,7 +82,6 @@ La suppression des indécis amplifie :
 - la perception publique,  
 - les stratégies des partis.
 
----
 
 ## La présentation influence l’opinion
 
@@ -106,7 +99,6 @@ Quand un graphique affiche :
 La présentation influence la perception, qui influence l’opinion, qui influence la politique.  
 C’est un cercle vicieux.
 
----
 
 ## Conclusion
 
@@ -116,6 +108,3 @@ Les indécis représentent un bloc essentiel.
 L’opinion publique est influencée autant par des biais cognitifs que par des faits économiques.
 
 Le Brexit n’est ni la cause principale des difficultés britanniques, ni un remède.
-
----
-Céleste R. 

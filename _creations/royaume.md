@@ -1,9 +1,7 @@
----
 title: "Le Royaume que je suis"
 date: 2026-03-27
 categories: creations
 resume: "Un voyage intérieur cosmique, où le corps devient royaume, lumière et matière en mouvement."
----
 
 ![Royaume](/images/creations/Royaume.png)
 

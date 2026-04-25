@@ -1,11 +1,9 @@
----
 title: "Là où la forêt se souvient"
 date: 2026-04-05
 tags: [spiritualité, forêt, création, conscience]
 resume: "Un chant ancien où la forêt révèle la mémoire du monde"
 layout: article
 categories: creations
----
 
 
 ![Foret se souvient](/images/creations/foret-souvient.png)
@@ -99,8 +97,3 @@ marcherait avec eux.
 Et l’humanité, délivrée de sa solitude,  
 sentirait de nouveau  
 le monde battre sous ses pas.
-
----
-
-© Céleste R. — CC BY-NC-ND
-

@@ -1,9 +1,7 @@
----
 title: "Manifestation des policiers français"
 date: 2026-01-30
 categories: actualites
 resume: "Analyse des causes structurelles de la crise au sein de la police française et des pistes de réforme inspirées d’autres modèles européens."
----
 
 # Manifestation des policiers français
 
@@ -50,7 +48,6 @@ Cela réduirait la défiance.
 
 Cette refonte du modèle mènerait à une police plus moderne, plus humaine, plus efficace, mais demande une volonté politique forte.
 
----
 
 Au **Pays-Bas**, le policier est formé pour désamorcer, pas pour intervenir en force.  
 Les policiers passent plus de temps dehors que derrière un écran.  
@@ -82,7 +79,3 @@ Il y a moins de défiance, moins de stress, moins de burn-out.
 
 Autre point important : les responsables politiques n'interviennent pas dans les affaires courantes.  
 Le ministre fixe des orientations générales, pas des objectifs chiffrés ou des consignes ponctuelles.
-
----
-
-© Céleste R. — CC BY-NC-ND

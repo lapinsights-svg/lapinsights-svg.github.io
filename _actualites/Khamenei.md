@@ -1,10 +1,8 @@
----
 title: "Mojtaba Khamenei : pouvoir et récit médiatique"
 date: 2026-03-12
 layout: article
 categories: actualites
 resume: "Analyse des récits médiatiques autour de Mojtaba Khamenei, des montages financiers et des incohérences géopolitiques."
----
 
 # Mojtaba Khamenei : pouvoir et récit médiatique
 
@@ -28,7 +26,6 @@ Ce n'est pas un simple scandale.
 C'est un révélateur.  
 Un révélateur d'un système que les États occidentaux ont eux-mêmes façonné, protégé, sanctuarisé, puis feignent de découvrir lorsque cela devient politiquement utile.
 
----
 
 Et la preuve la plus éclatante de cette tolérance structurelle apparaît en octobre 2025, lorsque le Royaume-Uni annonce geler les actifs d'Ali Ansari.  
 Pour geler des actifs, il faut d'abord les connaître. Les tracer. Les enregistrer.  
@@ -57,7 +54,6 @@ On pourrait aussi évoquer la possibilité d'une disparition discrète, d'un eff
 
 Dans un récit où les faits matériels manquent, où les images sont floues, où les déclarations politiques deviennent des accessoires dramatiques, cette ambiguïté supplémentaire rappelle que, dans ce théâtre géopolitique, les morts ne meurent pas toujours, et les vivants n'apparaissent pas toujours.
 
----
 
 Et Mojtaba Khamenei n'est qu'un nom parmi d'autres dans ce paysage.  
 Les Panama Papers de 2016 exposent les propriétés londoniennes de Roman Abramovitch, acquises via des sociétés offshore tolérées pendant des années.
@@ -78,7 +74,6 @@ En 2018, Transparency International révèle les achats immobiliers massifs de f
 Ces cas ne sont pas présentés comme des anomalies.  
 Ils sont la preuve répétée que les lois ont été écrites pour permettre ces montages.
 
----
 
 Mais un autre élément fissure encore davantage le décor : ce n'est pas seulement le récit financier qui est irréel, c'est le récit géopolitique.
 
@@ -108,7 +103,6 @@ Une image de Gaza peut être associée à un titre sur l'Iran dans un article qu
 
 Les récits officiels ne sont jamais accompagnés de preuves matérielles.
 
----
 
 Et dans ce vide, les déclarations politiques deviennent encore plus étranges.  
 On nous dit qu'une frappe aurait "raté" l'Ayatollah Ali Khamenei, puis qu'elle l'aurait "touché".
@@ -135,7 +129,6 @@ Un espace où la dramaturgie supplante la réalité observable.
 
 En conclusion, étant donné l'absence totale d'images vérifiables, les incohérences médiatiques et politiques, et ma méfiance profonde envers les gouvernements, tout cela ressemble à une mise en scène.
 
----
 
 ## Sources :
 
@@ -191,7 +184,3 @@ OCCRP — Enquêtes sur les élites politiques
 · Reuters  
 · BBC  
 · Al Jazeera
-
----
-
-Céleste R. 
