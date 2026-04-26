@@ -63,4 +63,6 @@ L’indignation est devenue rentable, la nuance coûteuse.
 Le CDJ rappelle une évidence :  
 **le journalisme n’est pas un art du soupçon, mais un art de la vérification.**
 
-Et lorsqu’un média transforme un groupe fragile en groupe suspect, il ne révèle rien : il fabrique.
+Et lorsqu’un média transforme un groupe fragile en groupe suspect, il ne révèle rien : il fabrique.  
+  
+Céleste R.
