@@ -64,35 +64,47 @@ layout: default
       </div>
       <!-- FIN BLOC LIENS RITUELS -->
       
+      <!-- BLOC : PARTAGE -->
       <div class="share-block">
         <p>Partager cet article :</p>
 
+        <!-- Facebook -->
         <a class="share-link"
            href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
            target="_blank" rel="noopener">
            Facebook
         </a>
 
+        <!-- X / Twitter -->
         <a class="share-link"
            href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title | uri_escape }}"
            target="_blank" rel="noopener">
            X / Twitter
         </a>
 
+        <!-- LinkedIn -->
         <a class="share-link"
            href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.url }}{{ page.url }}"
            target="_blank" rel="noopener">
            LinkedIn
         </a>
 
-        <!-- 🔵 MASTODON -->
+        <!-- Mastodon -->
         <a class="share-link"
            href="https://mastodonshare.com/?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
            target="_blank" rel="noopener">
            Mastodon
         </a>
 
+        <!-- Instagram -->
+        <a class="share-link"
+           href="#"
+           onclick="navigator.clipboard.writeText('{{ page.url | absolute_url }}'); alert('Lien copié ! Ouvrez Instagram pour le coller.');">
+           Instagram
+        </a>
+
       </div>
+      <!-- FIN BLOC PARTAGE -->
 
     </div>
   </article>
