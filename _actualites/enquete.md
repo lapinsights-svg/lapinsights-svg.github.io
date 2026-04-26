@@ -51,7 +51,7 @@ Le CDJ rappelle qu’on ne construit pas une vérité sociale à coups de cas is
 
 ## La défense : un aveu  
 
-“**La déontologie doit accompagner et non entraver**”, dit le journaliste.  
+“**La déontologie doit accompagner et non entraver**”, dit le journaliste pour sa défense.
 Phrase révélatrice : si les règles gênent, c’est qu’elles protègent ce que le dispositif met en danger — la vérification, la loyauté, la nuance.  
 La déontologie n’est pas un frein à la créativité : elle est ce qui empêche le spectacle de se faire passer pour de l’information.
 
