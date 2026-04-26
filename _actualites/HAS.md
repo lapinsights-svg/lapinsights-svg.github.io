@@ -149,10 +149,6 @@ La dissonance n’est plus visible : elle est absorbée par l’unité du messag
 
 Les pressions ne s’éteignent pas — **elles deviennent simplement invisibles**.
 
----
-
-# Un risque structurel : l’invisibilisation des tensions
-
 Dans un système où la parole est unifiée, les divergences ne disparaissent pas :  
 elles deviennent invisibles. Ce n’est pas une hypothèse, mais une mécanique institutionnelle classique.
 
