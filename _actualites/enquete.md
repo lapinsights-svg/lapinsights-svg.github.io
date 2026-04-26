@@ -40,7 +40,7 @@ Le mot *indirecte* dit tout : la manipulation n’est pas frontale, elle est n
 ## Le groupe fraudeur comme fiction  
 
 Dans ce dispositif, les bénéficiaires d’aides ne sont plus des personnes : ils deviennent des figures.  
-Le “profiteur”, la “fraudeuse”, le “sans boulot qui s’arrange”.  
+Le “profiteur”, la “fraudeuse”, le “sans  boulot  qui  s’arrange”.  
 La complexité disparaît, la précarité devient décor.  
 L’aide sociale n’est plus un droit, mais un privilège suspect.
 
