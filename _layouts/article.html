@@ -48,6 +48,7 @@ layout: default
         {% endif %}
       {% endif %}
       <!-- FIN DU BLOC -->
+
       <!-- BLOC : LIENS RITUELS -->
       <div class="liens-territoires">
         <p>
@@ -83,6 +84,14 @@ layout: default
            target="_blank" rel="noopener">
            LinkedIn
         </a>
+
+        <!-- 🔵 MASTODON -->
+        <a class="share-link"
+           href="https://mastodonshare.com/?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
+           target="_blank" rel="noopener">
+           Mastodon
+        </a>
+
       </div>
 
     </div>
