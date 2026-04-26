@@ -151,6 +151,41 @@ Les pressions ne s’éteignent pas — **elles deviennent simplement invisibles
 
 ---
 
+# Un risque structurel : l’invisibilisation des tensions
+
+Dans un système où la parole est unifiée, les divergences ne disparaissent pas :  
+elles deviennent invisibles. Ce n’est pas une hypothèse, mais une mécanique institutionnelle classique.
+
+Quand la communication est centralisée, les pressions ne sont plus des scandales :  
+elles deviennent des arbitrages internes, absorbés par la chaîne hiérarchique,  
+et donc **non observables** depuis l’extérieur.
+
+---
+
+# Ce que perd le citoyen : l’accès aux débats et aux tensions internes
+
+Quand la parole est unifiée, le citoyen ne voit plus rien de ce qui se joue en amont.  
+Les débats internes disparaissent.  
+Les désaccords ne s’expriment plus.  
+Les alertes ne sortent plus.  
+Les plaintes ne deviennent plus publiques.
+
+Ce qui relevait autrefois d’un débat institutionnel — parfois conflictuel, parfois salutaire — devient un mouvement interne, silencieux, inaccessible.
+
+Le citoyen n’a plus accès :
+
+- ni aux tensions,  
+- ni aux hésitations,  
+- ni aux désaccords entre experts,  
+- ni aux pressions subies,  
+- ni aux signaux faibles qui permettent de comprendre la fabrique de la décision.
+
+La démocratie sanitaire perd alors son espace de friction :  
+elle ne montre plus comment elle pense, comment elle doute, comment elle arbitre.  
+Elle ne montre plus que le résultat final — **un récit lissé, sans aspérités, sans traces du réel**.
+
+---
+
 # Le tournant silencieux
 
 Dans ce modèle émergent :
