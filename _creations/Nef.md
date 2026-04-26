@@ -3,6 +3,7 @@ title: "La Nef du Vivant"
 date: 2026-04-22
 categories: creations
 resume: "Un chant pour la Nef du vivant, entre communion des souffles et ferveur du vent."
+og_image: /images/creations/nef6.png
 tags:
   - poésie
   - liturgie
