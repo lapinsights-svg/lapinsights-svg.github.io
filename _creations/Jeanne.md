@@ -2,7 +2,7 @@
 title: "Jeanne, dans la vallée de la mort"
 date: 2026-04-23
 categories: creations
-og_image: /images/Jeanne.png
+og_image: /images/creations/Jeanne.png
 ---
 ![Jeanne](/images/creations/Jeanne.png)
 
