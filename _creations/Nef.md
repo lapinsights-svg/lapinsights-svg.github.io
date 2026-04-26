@@ -91,4 +91,6 @@ où la douceur est une loi divine,
 où la seule éternité est le vivant qui circule  
 de coeur en main,  
 de souffle en souffle,  
-de monde en univers.
+de monde en univers.  
+  
+Céleste R.
