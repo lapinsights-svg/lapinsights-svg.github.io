@@ -1,14 +1,14 @@
 ---
-title: "Pressions, conflits, silences : ce que révèle vraiment l’affaire de la HAS"
+title: "Quand la science est pressée et que l’État parle : l’autre crise sanitaire"
 date: 2026-04-17
-resume: "Une zone grise au cœur de l’autorité scientifique."
+resume: "Entre pressions sur la HAS et contrôle accru de la communication sanitaire, l’indépendance vacille."
 categories: actualites
 og_image: /images/actualites/presin.png
 ---
 
 ![presin](/images/actualites/presin.png)
 
-> **Article mis à jour le 26 avril 2026**, à la lumière de nouvelles informations concernant la lettre ouverte de la HAS et la réforme de la communication sanitaire annoncée par le ministère de la Santé.
+> **Article mis à jour le 26 avril 2026** à la lumière de nouvelles informations concernant la lettre ouverte de la HAS et la réforme de la communication sanitaire annoncée par le ministère de la Santé.
 
 # Pressions, conflits, silences : ce que révèle vraiment l’affaire de la HAS
 
