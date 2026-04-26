@@ -203,6 +203,8 @@ Et la transparence se dissout dans l’unité du message.
 
 L’affaire de la HAS n’est plus un incident isolé : elle révèle un système où l’expertise est pressée d’un côté, recentrée de l’autre, et où la parole scientifique se retrouve prise en étau.  
 
+Les agences produisent.L’exécutif parle. Entre les deux, la transparence se dissout.
+
 Dans un tel paysage, l’indépendance n’est plus un principe : c’est une ligne de crête.  
 Et en santé publique, **ce qui disparaît du champ finit toujours par peser plus lourd que ce qui s’y montre.**
 
