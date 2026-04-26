@@ -8,7 +8,7 @@ og_image: /images/actualites/presin.png
 
 ![presin](/images/actualites/presin.png)
 
-> **Article mis à jour en avril 2026**, à la lumière de nouvelles informations concernant la lettre ouverte de la HAS et la réforme de la communication sanitaire annoncée par le ministère de la Santé.
+> **Article mis à jour le 26 avril 2026**, à la lumière de nouvelles informations concernant la lettre ouverte de la HAS et la réforme de la communication sanitaire annoncée par le ministère de la Santé.
 
 # Indépendance sous pression : ce que révèle le nouveau paysage sanitaire
 
