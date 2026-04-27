@@ -7,15 +7,15 @@ keywords: ["hirondelle", "migration", "fidélité", "poésie", "symboles"]
 ![Jeanne](/images/creations/hirondelle.png)
 
 
-Vingt grammes seulement, mais son vol est empire,  
+Vingt grammes seulement, mais son vol est impérial.  
 Un trait de lumière où s’énonce une foi.  
 Elle fend le désert, la mer, les siècles et leurs effrois
-Comme un chant ténu dans le fil vertical
+Comme un chant ténu sur un fil vertical.
 
-Chaque année, elle revient au seuil qui la réclame,  
-Au même clou vibrant d’un antique dessein.  
-La fidélité n’est pas instinct mais chemin,  
-Un ordre ténébreux gravé plus tôt que l’âme.  
+Chaque année, elle revient au seuil qui la réclame,
+Au même point vibrant d’un dessein ancestral.
+La fidélité n’est pas instinct mais signal,
+Un ordre souterrain gravé plus tôt que l’âme.
 
 Le lieu qui l’accueillit devient royaume scellé,  
 Où la boue, l’insecte et la patience s’allient.  
