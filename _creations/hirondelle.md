@@ -3,13 +3,15 @@ title: "L’hirondelle, charpente du vent et mémoire des mondes"
 date: 2026-04-27
 categories: creations
 keywords: ["hirondelle", "migration", "fidélité", "poésie", "symboles"]
+og_image: /images/creations/hirondelle.png
+---
 ---
 ![Jeanne](/images/creations/hirondelle.png)
 
 
 Vingt grammes seulement, mais son vol est impérial.  
 Un trait de lumière où s’énonce une foi.  
-Elle fend le désert, la mer, les siècles et leurs effrois
+Elle fend le désert, la mer, les siècles et leurs effrois  
 Comme un chant ténu sur un fil vertical.
 
 Chaque année, elle revient au seuil qui la réclame,
@@ -32,7 +34,7 @@ Serment d’un monde obscur qui n’a pas renoncé.
 Dans son retour brûlant veille une antique clarté,  
 Un éclat de granit que la nuit nous ramène.  
 
-Elle est passage et pierre, demeure et loi,  
+Elle est passage et flux, demeure et loi,  
 La preuve que la vie, parfois, se maintient. 
 Dans son vol se renouent les mondes et leur lien,  
 Et le ciel retrouve un instant son déploi.  
