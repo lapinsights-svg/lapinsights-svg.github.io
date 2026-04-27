@@ -1,16 +1,16 @@
 ---
 title: "L’hirondelle, charpente du vent et mémoire des mondes"
-date: 2026-04-26
+date: 2026-04-27
 categories: creations
 keywords: ["hirondelle", "migration", "fidélité", "poésie", "symboles"]
 ---
+![Jeanne](/images/creations/hirondelle.png)
 
-# L’hirondelle, charpente du vent et mémoire des mondes  
 
 Vingt grammes seulement, mais son vol est empire,  
-Un fardeau de lumière où s’énonce une foi.  
+Un trait de lumière où s’énonce une foi.  
 Elle fend le désert, la mer, les siècles et leurs effrois
-Braise que nul oubli ne parvient à détruire.  
+Comme un chant ténu dans le fil vertical
 
 Chaque année, elle revient au seuil qui la réclame,  
 Au même clou vibrant d’un antique dessein.  
