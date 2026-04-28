@@ -137,7 +137,7 @@ L’Unité n’a pas besoin d’être expliquée, compressée ou réduite.
 Elle n’a pas besoin d’être ramenée à une équation unique.
 
 Ce que nous percevons — couches, lois, régimes — n’est que la **division apparente** de l’Unité dans notre perception limitée.  
-Nous ne voyons jamais l’Unité elle‑même : seulement ses projections fragmentées.
+Nous ne voyons jamais l’Unité elle‑même : seulement ses projections jugées fragmentées.
 
 Chercher une « théorie de tout » revient souvent à chercher une **uniformité mathématique**, non une compréhension de l’Unité.
 
