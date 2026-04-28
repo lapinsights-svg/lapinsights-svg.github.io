@@ -193,6 +193,8 @@ Elle n’a pas besoin d’être compressée dans une équation.
 Elle n’a pas besoin d’être réduite à une seule mathématique.
 
 Elle Est.  
-Et le monde, dans sa pluralité, n’est que son apparition fragmentée.
+Et le monde, dans sa pluralité, n’est que son apparition fragmentée aux yeux de l’homme.  
+Ce qui revient à dire que la fragmentation est un effet de perspective, un effet de perception humaine,   
+un effet de limitation cognitive — pas une propriété du réel.
 
 Céleste R.
