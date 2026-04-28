@@ -191,6 +191,7 @@ Autrement dit, la frontière expérimentale exprime la frontière ontologique.
 Et peut‑être est‑ce là la véritable leçon :
 
 **Le temps est réel.**  
+
 Non pas réel comme une substance ou un flux absolu,  
 mais réel comme une dimension effective du monde,  
 vécue par chaque objet massif selon sa propre ligne d’univers.  
