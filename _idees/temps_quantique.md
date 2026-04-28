@@ -194,7 +194,7 @@ Ce qui revient à dire que la fragmentation est un effet de perspective, un effe
 un effet de limitation cognitive — pas une propriété du réel.  
 
   
-**Alors, pourquoi nous vend-on du temps quantique à longueur de temps ? **  
+**Alors, pourquoi nous vend-on du temps quantique à longueur de temps ?**  
 
 Si l’idée d’un “temps quantique” persiste, c’est d’abord parce qu’elle est devenue un effet de mode — un mot‑clé qui rassure et qui séduit —   
 et ensuite parce que la gravité quantique, en impasse depuis cinquante ans, cherche encore une porte d’entrée :  
