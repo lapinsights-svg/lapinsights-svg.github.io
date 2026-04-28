@@ -183,7 +183,7 @@ La frontière expérimentale exprime la frontière ontologique.
 
 Et c’est là que tout converge :
 
-**Le temps est réel.**  
+**Le temps est réel.**  (Cela renvoie à ce que j'avais déjà écrit dans un autre article.)  
 Non pas réel comme une substance ou un absolu,  
 mais réel comme une dimension effective du monde,  
 vécue par chaque objet massif selon sa ligne d’univers.  
