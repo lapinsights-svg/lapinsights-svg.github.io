@@ -13,6 +13,9 @@ og_image: /images/idees/horloge_quantique.png
 > Article scientifique sur les horloges atomiques et les fluctuations quantiques du temps, publié par le *Stevens Institute of Technology* et le *National Institute of Standards and Technology (NIST)*.  
 > [Lire l’article original sur Phys.org](https://phys.org/news/2024-04-quantum-fluctuations-atomic-clocks.html)
 
+[Étude vulgarisée sur TrustMyScience](https://trustmyscience.com/etude-suggere-que-horloges-atomiques-pourraient-sonder-nature-quantique-temps/?fbclid=IwY2xjawRdgiJleHRuA2FlbQIxMABicmlkETAyY29xeUNQclIxbWlBOGFic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoyDVwqh1cGQy6b0vY7fXWrm-DtN83BN-eore6aihupB1iaYExB8dIXlIYZC_aem_E9zo_zErjovl8JwPHzSCbw)
+
+
 Ce qui suit ne vient pas d’un raisonnement abstrait.  
 Cela vient d’une **intuition profonde** : le réel n’est pas réductible, l’Unité n’a pas besoin d’être compressée, et le temps n’a jamais montré la moindre trace de quanticité.
 
