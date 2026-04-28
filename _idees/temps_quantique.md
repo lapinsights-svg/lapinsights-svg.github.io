@@ -58,7 +58,7 @@ Ce raisonnement confond trois niveaux distincts :
 Le quantique interne ne transforme pas l’objet entier en système quantique.  
 Dire le contraire reviendrait à affirmer :  
 « les cordes d’un violon vibrent quantiquement, donc le violon peut être en superposition sur deux chaises ».  
-L’analogie suffit à montrer l’erreur.
+Cette analogie suffit à montrer l’erreur.
 
 ---
 
