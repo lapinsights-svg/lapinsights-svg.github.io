@@ -86,8 +86,10 @@ En relativité, tout objet massif transporte sa propre horloge interne : son tem
 
 ---  
   
-La courbure de l’espace‑temps impacte le temps propre, mais elle le fait de manière classique. Rien, dans les observations, n’indique que cette courbure puisse être en superposition ou quantifiée. La relativité générale reste la seule description vérifiée du lien entre gravité et temps. La courbure modifie le temps, mais elle ne le quantifie pas.  
-  
+La courbure de l’espace‑temps influence bien le temps propre, mais uniquement de façon classique.  
+Aucune observation ne montre une courbure en superposition ou quantifiée.  
+La relativité générale reste la seule théorie vérifiée qui relie gravité et temps : la courbure change la vitesse du temps, mais elle ne le rend pas quantique.  
+
 
 ## 3. La superposition macroscopique n’a jamais été observée — et ce n’est pas un hasard
 
