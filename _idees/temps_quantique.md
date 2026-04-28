@@ -81,15 +81,16 @@ Parce que :
 Son mouvement est donc **déterminé**, non quantique.
 
 ### À quoi cela sert‑il ?  
-À calculer **la durée que l’horloge va réellement mesurer**.
-
+À calculer **la durée que l’horloge va réellement mesurer**.  
+En relativité, tout objet massif mesure son propre temps (Einstein) 
+  
 Dans la relativité, le temps propre dépend de la trajectoire.  
-Donc pour savoir ce qu’une horloge affichera, il faut connaître **son chemin exact** dans l’espace‑temps.
+Donc pour savoir ce qu’une horloge affichera, il faut connaître **son chemin exact** dans l’espace‑temps.  
 
 C’est pour cela que les physiciens parlent de “trajectoire classique” :  
 c’est la base même du calcul du temps mesuré.
 
-En relativité, tout objet massif mesure son propre temps (Einstein)  
+ 
 
 ---
 
