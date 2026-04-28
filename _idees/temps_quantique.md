@@ -1,7 +1,7 @@
 ---
 title: "Le temps n’est pas quantique et l’Unité n’est pas une équation"
-category: "idees"
-summary: "Une exploration des confusions contemporaines autour du temps quantique"
+categories: "idees"
+resume: "Une exploration des confusions contemporaines autour du temps quantique"
 date: 2026-04-28
 layout: default
 og_image: /images/idees/horloge_quantique.png
