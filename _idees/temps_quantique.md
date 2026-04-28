@@ -59,7 +59,7 @@ C’est comme dire : « les cordes d’un violon vibrent quantiquement, donc l
 Dans la physique moderne, une horloge — même atomique — n’est pas seulement un mécanisme interne.  
 C’est aussi **un objet massif qui se déplace dans l’espace‑temps**.
 
-### 🌕 Pourquoi parle‑t‑on de “trajectoire” ?
+### Pourquoi parle‑t‑on de “trajectoire” ?  
 Parce que le temps qu’une horloge mesure dépend de **son mouvement** :
 
 - sa vitesse,  
@@ -70,7 +70,7 @@ Parce que le temps qu’une horloge mesure dépend de **son mouvement** :
 Une horloge ne mesure pas “le temps” en général :  
 elle mesure **son propre temps**, appelé *temps propre*, qui dépend du chemin qu’elle suit.
 
-### 🌖 Pourquoi dit‑on que cette trajectoire est “classique” ?
+### Pourquoi dit‑on que cette trajectoire est “classique” ?  
 Parce que :
 
 - l’horloge est un objet massif,  
@@ -80,7 +80,7 @@ Parce que :
 
 Son mouvement est donc **déterminé**, non quantique.
 
-### 🌘 À quoi cela sert‑il ?
+### À quoi cela sert‑il ?  
 À calculer **la durée que l’horloge va réellement mesurer**.
 
 Dans la relativité, le temps propre dépend de la trajectoire.  
