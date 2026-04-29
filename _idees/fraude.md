@@ -127,4 +127,4 @@ La fraude fiscale est un silence institutionnel.
 Au fond, tout se joue dans cette phrase :  
 **la fraude sociale, on la montre ; la fraude fiscale, on la connaît.**  
 La différence, c’est la proximité.  
-Et dans cette proximité, quelque chose se tait — non par ignorance, mais par choix.
+Et dans cette proximité, quelque chose se tait, non par ignorance, mais par choix.
