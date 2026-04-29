@@ -93,7 +93,7 @@ C’est une décision institutionnelle.
 La fraude sociale est un phénomène administratif.  
 La fraude fiscale est un phénomène structurel.  
 L’une se contrôle par algorithmes.  
-L’autre exige de s’attaquer à des montages transnationaux.
+L’autre impose d’ouvrir les montages transnationaux, et ces architectures nationales que personne ne nomme mais que tout le monde connaît.  
 
 ---
 
