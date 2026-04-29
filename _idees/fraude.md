@@ -76,7 +76,7 @@ Elle est dans **la lumière politique**.
 ---
 
 ## MYTHE 2 — “On ne peut pas estimer la fraude fiscale.”  
-**FAIT — On peut. On le fait. L’État choisit simplement de ne pas consolider.**  
+**FAIT — On peut. On le fait. L’État choisit simplement de ne pas publier un chiffre unique.**  
 Les institutions produisent des chiffres :  
 - Cour des comptes : **50–100 milliards**  
 - Rapports parlementaires : **60–80 milliards**  
