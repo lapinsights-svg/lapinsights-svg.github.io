@@ -3,7 +3,7 @@ title: "Fraude sociale, fraude fiscale : ce que la lumière choisit d’éclaire
 date: 2026-04-29
 categories: idees
 resume: "Pourquoi la fraude sociale est rendue visible tandis que la fraude fiscale demeure dans l’ombre."
-description: "Une exploration Lapinsights des asymétries politiques entre fraude sociale et fraude fiscale : chiffres, cadrages, mythes, faits et architecture du silence institutionnel."
+description: "Une exploration des asymétries politiques entre fraude sociale et fraude fiscale : chiffres, cadrages, mythes, faits et architecture du silence institutionnel."
 layout: article
 og_image: /images/idees/fraudesf.png
 ---
