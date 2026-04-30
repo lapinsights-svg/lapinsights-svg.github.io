@@ -4,17 +4,6 @@
 <html lang="fr">
 <head>
   {% include head.html %}
-
-  <meta property="og:title" content="{{ page.title | escape }}">
-  <meta property="og:description" content="{{ page.resume | escape }}">
-  <meta property="og:image" content="{{ page.og_image | absolute_url }}">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
-  <meta property="og:type" content="article">
-
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
-  <meta name="twitter:description" content="{{ page.resume | default: site.description | escape }}">
-  <meta name="twitter:image" content="{{ page.og_image | default: site.og_image | absolute_url }}">
 </head>
 
 <body class="{{ page.class }}">
@@ -60,8 +49,6 @@
     {%- unless hide_future -%}
       {{ content }}
     {%- endunless -%}
-
-    <!-- ✦ Le bloc signature + liens a été retiré ici -->
 
   </main>
 
