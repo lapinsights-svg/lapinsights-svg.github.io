@@ -125,7 +125,7 @@ alors je me retire avant d’être touché.
 Je ne veux plus être envahi,  
 alors je construis des murs autour de mon propre ressenti.
 
-Et ces murs deviennent ma prison.  
+Et ces murs deviennent ma tour d'ivoire.  
 La limite devient le souvenir fossilisé du rapport de force.  
 Une architecture de peur,  
 sculptée dans la lumière.
