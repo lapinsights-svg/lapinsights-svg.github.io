@@ -1,6 +1,6 @@
 ---
 title: "La géométrie de la peur"
-description: "Version nocturne, archétypale — retrait, fuite, douceur qui étouffe"
+description: "Retrait, fuite, douceur qui étouffe"
 resume: "Une exploration du retrait et de la fuite comme architecture intérieure de l’évitement."
 date: 2026-04-30
 categories: idees
