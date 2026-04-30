@@ -5,6 +5,10 @@
 </head>
 
 <body class="{{ page.class }}">
+  <header class="site-header">
+    {% include header.html %}
+  </header>
+
   <main class="contenu-scroll">
     {{ content }}
   </main>
@@ -12,7 +16,4 @@
   {% include footer.html %}
 </body>
 </html>
-
-
-
 
