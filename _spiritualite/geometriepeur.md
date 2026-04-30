@@ -149,7 +149,10 @@ Une langue qui flotte pour ne jamais toucher la terre.
 Celui qui a quitté ces clartés factices voit ce que d’autres ne voient plus :
 
 Des êtres sensibles, vibrants,  
-mais qui ont appris à ne plus se laisser traverser.
+mais qui ont appris à ne plus se laisser traverser.  
+Des êtres qui ne parlent plus d’eux,  
+mais d’un personnage qu’ils croient être —  
+une silhouette apaisée, construite pour ne pas sentir.
 
 Des êtres vivants,  
 mais qui se retirent pour se croire indemnes —  
@@ -160,7 +163,7 @@ pensant échapper à la secousse,
 alors que la secousse les suit.
 
 Des êtres entourés d’amis bienveillants,  
-mais dont la bienveillance renforce l’évitement.  
+mais dont la bienveillance renforce l’évitement.
 
 Je les reconnais, car j’ai été l’un d’eux.
 
