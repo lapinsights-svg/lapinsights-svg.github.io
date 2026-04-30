@@ -44,6 +44,11 @@ main.contenu-scroll {
   padding: 0;
 }
 
+/* Correction : rétablir l’espace sous le header pour la home */
+body.accueil main.contenu-scroll {
+  margin-top: 120px; /* ajuste la valeur si nécessaire */
+}
+
 main {
   padding: 0;
   min-height: auto;
