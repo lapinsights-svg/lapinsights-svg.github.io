@@ -1,10 +1,14 @@
 ---
 title: "La géométrie de la peur"
-description: "Version nocturne, tellurique, archétypale — retrait, fuite, douceur qui étouffe, et géométrie de la peur"
+description: "Version nocturne, archétypale — retrait, fuite, douceur qui étouffe"
+resume: "Une exploration du retrait et de la fuite comme architecture intérieure de l’évitement."
 date: 2026-04-30
 categories: idees
 tags: ["spiritualité", "évitement", "psychologie", "nocturne", "tellurique", "rapport de force"]
+og_image: /images/spiritualite/geometrie.png
 ---
+
+![geometrie](/images/spiritualite/geometrie.png)
 
 # **La géométrie de la peur**  
 ### *Là où le retrait devient fuite, et la fuite devient oubli de soi*
@@ -101,9 +105,9 @@ Une communauté qui préfère la paix morte
 
 ---
 
-Je dis que je veux plus de rapport de force.  
+Je dis que je ne veux plus vivre de conflit.  
 Mais j'en parle sans cesse.  
-Je les ai connus, je les redoute, je les rejoue.
+Je l'ai connu, je le redoute, je le rejoue.
 
 Chaque limite que je pose est une réplique du conflit que je fuis.  
 Je crois me libérer du rapport de force,  
@@ -116,7 +120,7 @@ mais aussi du vivant.
 
 ---  
 
-Je ne veux plus être dominé,  
+Je ne veux plus être atteint,  
 alors je me retire avant d’être touché.  
 Je ne veux plus être envahi,  
 alors je construis des murs autour de mon propre ressenti.
