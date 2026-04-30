@@ -6,13 +6,90 @@
 
 <body class="{{ page.class }}">
 
-  {% include header.html %}
+  {%- unless page.class == "echos" -%}
+    <header class="site-header">
+      {% include header.html %}
+    </header>
+
+    <header class="mobile-header">
+      <div class="mobile-header-top">
+        <img src="/images/celeste.png" alt="Portrait" class="portrait-mobile">
+        <h1><a href="/" class="mobile-title-link">LAPINSIGHTS</a></h1>
+      </div>
+      
+      <nav class="menu-mobile">
+        <a href="/actualites">Actualités</a>
+        <a href="/creations">Créations</a>
+        <a href="/idees/">Territoires d’idées</a>
+        <a href="/contact">Contact</a>
+        <a href="/spiritualite/">Spirimental</a>
+        <a class="disabled">Vibrations</a>
+        <a href="/archives/">Archives</a>
+        <a class="disabled">Dans le passé</a>
+      </nav>
+    </header>
+  {%- endunless -%}
+
+  {%- if page.class == "echos" -%}
+    <a href="/" class="retour-accueil-echos" title="Retour à l’accueil">🐇</a>
+  {%- endif -%}
 
   <main class="contenu-scroll">
     {{ content }}
   </main>
 
-  {% include footer.html %}
+  {%- unless page.class == "echos" -%}
+    {% include footer.html %}
+  {%- endunless -%}
+
+  <button id="backToTop" title="Remonter le terrier">🐇↟</button>
+
+  <script>
+    const btn = document.getElementById("backToTop");
+    window.addEventListener("scroll", () => {
+      if (window.scrollY > 200) btn.classList.add("visible");
+      else btn.classList.remove("visible");
+    });
+    btn.addEventListener("click", () => {
+      document.documentElement.scrollTo({ top: 0, behavior: "smooth" });
+      document.body.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  </script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      let lastScroll = 0;
+      const header = document.querySelector("header.site-header");
+
+      window.addEventListener("scroll", () => {
+        const current = window.scrollY;
+        if (current > lastScroll && current > 80) {
+          header.classList.add("header-hidden");
+        } else {
+          header.classList.remove("header-hidden");
+        }
+        lastScroll = current;
+      });
+    });
+  </script>
+
+  <script>
+    var sc_project = 13213092;
+    var sc_invisible = 1;
+    var sc_security = "a6e8d30c";
+  </script>
+  <script async src="https://www.statcounter.com/counter/counter.js"></script>
+  <noscript><div class="statcounter"></div></noscript>
+
+  <script>
+    const hour = new Date().getHours();
+    const fond = hour < 12 ? 'brume2.png' : 'brume.png';
+    const body = document.body;
+
+    if (!body.classList.contains('presentation-terrier')) {
+      body.style.backgroundImage = `url('/images/${fond}')`;
+    }
+  </script>
 
 </body>
 </html>
