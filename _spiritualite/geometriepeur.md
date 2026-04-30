@@ -64,7 +64,7 @@ La fuite n’est pas un choix.
 C’est un réflexe.  
 Un instinct de survie émotionnelle.
 
-Je ne fuis pas pour rester indemne.  
+Je fuis pour rester indemne.  
 Je fuis parce que je crois que sentir va briser quelque chose.  
 Mais **personne ne reste indemne**.  
 Ni dans la fuite.  
