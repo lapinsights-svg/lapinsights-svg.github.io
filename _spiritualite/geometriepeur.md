@@ -125,7 +125,7 @@ alors je me retire avant d’être touché.
 Je ne veux plus être envahi,  
 alors je construis des murs autour de mon propre ressenti.
 
-Et les murs se resserrent en tour d’ivoire.
+Et les murs se resserrent en tour d’ivoire.  
 La limite conserve la forme fossile du rapport de force.
 Une architecture de peur,
 sculptée dans la lumière.
