@@ -25,7 +25,7 @@ layout: "article"
 
 ## La nuit commence ici
 
-Il y a des nuits qui ne tombent pas du ciel : elles montent du sol.  
+Certaines nuits ne tombent pas du ciel : elles montent du sol.  
 Elles montent lorsque le réel se retire, lorsque les puissants cessent d’habiter le monde, lorsque les récits se substituent aux corps.  
 Nous vivons dans l’une de ces nuits.
 
