@@ -183,7 +183,7 @@ Et elle t’attend.
 
 ---
 
-## Sources complémentaires
+## En complément:  
 
 - **Lapinsights — Géométrie de la peur**  
 🔗 <https://lapinsights-svg.github.io/spiritualite/geometriepeur/>
