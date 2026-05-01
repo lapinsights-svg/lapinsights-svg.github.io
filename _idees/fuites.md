@@ -18,7 +18,7 @@ sources:
 og_image: "/images/idees/fuitedureel.png"
 layout: "article"
 ---
-
+![fuitedureel](/images/idees/fuitedureel.png)
 
 # Les fuites hors du réel  
 ### *Silicon Valley, spiritualités anesthésiantes et retour de la matière*
@@ -65,8 +65,6 @@ la survie dépend de sols vivants, d’eau, de calories, de cycles biologiques.
 
 **Source :** *Futura Sciences* — *Si une catastrophe mondiale frappait, voici ce qu’il faudrait cultiver pour survivre*  
 🔗 <https://www.futura-sciences.com/planete/actualites/planete-si-catastrophe-mondiale-frappait-voici-ce-quil-faudrait-cultiver-survivre-w2t8-134009/>  
-*(version complète incluant les paramètres :)*  
-🔗 <https://www.futura-sciences.com/planete/actualites/planete-si-catastrophe-mondiale-frappait-voici-ce-quil-faudrait-cultiver-survivre-w2t8-134009/?at_source=nonli&at_content=photo&at_term=futura.planete.fr&at_campaign=facebook&at_medium=social>
 
 Le réel n’a pas besoin d’être cru.  
 Il a besoin d’être assumé.
