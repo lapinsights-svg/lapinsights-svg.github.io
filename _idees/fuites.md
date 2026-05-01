@@ -179,7 +179,10 @@ Un geste de courage.
 
 Le monde n’est pas une matrice.  
 Il est une pierre.  
-Et elle t’attend.
+Et elle t’attend.  
+
+  
+Céleste R.
 
 ---
 
