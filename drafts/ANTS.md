@@ -1,5 +1,5 @@
 ---
-title: "La coïncidence comme outil politique"
+title: "Le hasard n'existe pas"
 date: 2026-05-02
 resume: "ou comment un récit opportun justifie la loi"
 layout: article
