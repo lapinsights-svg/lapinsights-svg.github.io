@@ -1,5 +1,5 @@
 ---
-title: "Choisir sa stratégie IEF : légalité, désobéissance, exil éducatif et souveraineté"
+title: "Choisir sa stratégie IEF"
 date: 2026-05-02
 categories: idees
 resume: "Trois voies se dessinent pour les familles IEF. Une cartographie des choix possibles face à un État qui resserre la liberté éducative."
