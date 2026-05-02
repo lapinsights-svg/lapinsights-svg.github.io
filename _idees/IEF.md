@@ -118,7 +118,7 @@ Il n’y a que des trajectoires assumées.
 - **La légalité** protège, mais elle enferme.  
 - **La désobéissance** libère, mais elle expose.  
 - **L’exil** ouvre, mais il déracine.  
-
+  
 L’avocat rappelle le prix de la désobéissance dans le cadre actuel.  
 L’association rappelle le prix de l’obéissance à une loi jugée injuste.  
 Les familles, elles, paient en temps réel le prix de chaque choix.  
