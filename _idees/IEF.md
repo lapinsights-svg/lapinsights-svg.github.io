@@ -4,12 +4,14 @@ date: 2026-05-02
 categories: idees
 resume: "Trois voies se dessinent pour les familles IEF. Une cartographie des choix possibles face à un État qui resserre la liberté éducative."
 keywords: ["IEF", "instruction en famille", "désobéissance civile", "exil éducatif", "liberté d'instruction", "souveraineté parentale"]
+og_image: /images/idees/IEF.png
 ---
 
+![IEF](/images/idees/IEF.png)
 # Choisir sa stratégie IEF : trois voies pour rester souverain
 
 Depuis 2022, la France a déplacé l’IEF du champ des libertés vers celui des exceptions. 
-Elle devient un révélateur.  
+L'IEF devient un révélateur.  
 Un test de résistance.  
 Une ligne de fracture entre ce que l’État exige et ce que les parents considèrent comme juste.  
 
