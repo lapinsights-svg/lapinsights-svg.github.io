@@ -59,6 +59,8 @@ Et l’on comprend que le problème n’est pas qu’ils soient faux.
 Le problème, c’est qu’ils soient **crédibles**.
 
 Le réel, aujourd’hui, n’a plus besoin d’exister pour être cru.  
-Il lui suffit d’être **bien éclairé**.
+Il lui suffit d’être **bien éclairé**.  
+
+  Céleste R.
 
 
