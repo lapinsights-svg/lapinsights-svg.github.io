@@ -27,8 +27,8 @@ Même lumière.
 Même fond noir.  
 Même peau sans pores, sans fatigue, sans histoire.  
 On dirait une promotion de série Netflix sur des espionnes glamours, pas des photos judiciaires prises dans un État autoritaire.  
-Le contraste est si parfait qu’il en devient comique : la tragédie annoncée repose sur des visages qui n’ont même pas la décence d’être réels.
-
+Le contraste est si parfait qu’il en devient comique : la tragédie annoncée repose sur des visages qui n’ont même pas la décence d’être réels.  
+  
 Et au milieu de cette scénographie, un récit se déploie :  
 selon les articles de presse, Donald Trump s’est présenté comme celui qui aurait « sauvé » ces huit femmes.  
 Un rôle héroïque, sculpté dans la lumière, comme si l’histoire elle-même devait se plier au storyboard.  
