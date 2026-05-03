@@ -14,9 +14,7 @@ Huit femmes censées sortir d’un couloir de la mort iranien, mais qui semblent
 
   **Source :**  
 [Article de *The Independent*](https://www.independent.co.uk/bulletin/news/trump-iranian-women-execution-protesters-spared-b2963047.html)
-
   
-Le réel, décidément, ne fait pas d'efforts...
 
 Les médias rapportent que ces portraits auraient été présentés comme ceux de femmes promises à l’exécution.  
 L’Iran dément.  
