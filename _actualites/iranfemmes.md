@@ -1,6 +1,6 @@
 ---
 title: "Les huit visages qui n’existaient pas"
-date: 2026-05-02
+date: 2026-05-03
 categories: actualites
 resume: "Satire sur l’affaire des huit Iraniennes présentées comme sauvées, et sur la fabrique du faux."
 og_image: /images/actualites/iranfemmes.png
