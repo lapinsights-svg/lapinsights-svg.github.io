@@ -15,4 +15,6 @@ Le récit s’écrit tout seul.
 La loi se justifie.  
 Le hasard, lui, n’existe pas.  
 
-C'est tout.
+C'est tout.  
+
+[→ Lire l’article précédent sur les réseaux](https://lapinsights-svg.github.io/idees/idreseaux/)
