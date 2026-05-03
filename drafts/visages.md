@@ -34,7 +34,7 @@ Le contraste est si parfait qu’il en devient comique : la tragédie annoncée 
 Et au milieu de cette scénographie, un récit se déploie :  
 selon les articles de presse, Donald Trump s’est présenté comme celui qui aurait « sauvé » ces huit femmes.  
 Un rôle héroïque, sculpté dans la lumière, comme si l’histoire elle-même devait se plier au storyboard.  
-Le sauveur, les victimes, le drame, la délivrance — tout y est, sauf la réalité.
+Le sauveur, les victimes, le drame, la délivrance : tout y est, sauf la réalité.
 
 On pourrait presque jouer au jeu des ressemblances.  
 Un œil emprunté à une actrice hollywoodienne.  
