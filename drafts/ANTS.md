@@ -6,7 +6,6 @@ layout: article
 categories: actualites
 og_image: /images/actualites/ANTS.png
 ---
-
 ![ANTS(/images/actualites/ANTS.png)
 
 La France veut interdire les réseaux sociaux aux moins de 15 ans.  
