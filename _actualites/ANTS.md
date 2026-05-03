@@ -1,6 +1,6 @@
 ---
 title: "Le hasard n'existe pas"
-date: 2026-05-02
+date: 2026-05-03
 resume: "ou comment un récit opportun justifie la loi"
 layout: article
 categories: actualites
