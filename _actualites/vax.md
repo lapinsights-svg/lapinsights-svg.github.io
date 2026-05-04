@@ -4,16 +4,18 @@ date: 2026-05-04
 categories: actualites
 og_image: /images/actualites/vax.png
 ---
+
 ![vax](/images/actualites/vax.png)
 
 # Vaccination : pourquoi la confiance s’effrite
 
-Selon une enquête rapportée par *Le Parisien* (avril 2026), **la part de Français très favorables à la vaccination a nettement reculé depuis la crise du COVID‑19**. 
+Selon une enquête rapportée par *Le Parisien* (avril 2026), **la part de Français très favorables à la vaccination a nettement reculé depuis la crise du COVID‑19**.
 
-source: 
-  - [Enquête rapportée par *Le Parisien* (26 avril 2026)](https://www.leparisien.fr/societe/sante/vaccination-le-cri-dalarme-contre-des-ideologies-qui-manipulent-les-peurs-26-04-2026-KFPTRB2NXFA4RG6EIM6IROHV64.php)
-  - [Baromètre Santé publique France — Perception et adhésion à la vaccination](https://professionnels.vaccination-info-service.fr/Aspects-sociologiques/Perception-et-adhesion-a-la-vaccination/Perception-et-adhesion-a-la-vaccination-en-France)
-  
+## Sources
+
+- [Enquête rapportée par *Le Parisien* (26 avril 2026)](https://www.leparisien.fr/societe/sante/vaccination-le-cri-dalarme-contre-des-ideologies-qui-manipulent-les-peurs-26-04-2026-KFPTRB2NXFA4RG6EIM6IROHV64.php)
+- [Baromètre Santé publique France — Perception et adhésion à la vaccination](https://professionnels.vaccination-info-service.fr/Aspects-sociologiques/Perception-et-adhesion-a-la-vaccination/Perception-et-adhesion-a-la-vaccination-en-France)
+
 Le chiffre circule, surprend certains, conforte d’autres. Mais surtout, il interroge : comment un pays historiquement attaché à la vaccination a-t-il pu basculer dans une défiance durable ?
 
 À force de contradictions.  
@@ -48,6 +50,6 @@ Les questions reviennent.
 Les doutes respirent.  
 Et quelque chose, dans le pays, réclame à nouveau le droit d’être éclairé plutôt que dirigé.
 
-**L’actualité n’est pas seulement un fait : c’est une fissure qui parle.**  
+**L’actualité n’est pas seulement un fait : c’est une fissure qui parle.**
 
-    Céleste R.
+— Céleste R.
