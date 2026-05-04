@@ -9,8 +9,6 @@ og_image: /images/spiritualite/vabien.png
 
 ![vabien](/images/spiritualite/vabien.png)
 
-# Un fragment du Florilège de pseudo‑sagesses ratiboisées.  
-  
 # Tout va bien, c’est juste ta pensée
 
 Il existe des phrases qui se veulent lumineuses et qui ne sont que des anesthésies.  
