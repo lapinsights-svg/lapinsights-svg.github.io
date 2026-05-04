@@ -17,6 +17,7 @@ Il existe des phrases qui se veulent lumineuses et qui ne sont que des anesthés
 Dire à quelqu’un en pleine tempête que “tout va bien, c’est juste ta pensée”, c’est refuser de voir la pluie, le vent, la violence du réel.  
 C’est une manière élégante de ne pas être touché.
 
-La pseudo‑sagesse protège celui qui la prononce,  jamais celui qui souffre.
+La pseudo‑sagesse protège celui qui la prononce,  jamais celui qui souffre.  
+  
 
 Céleste R. 
