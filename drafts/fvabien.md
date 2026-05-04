@@ -4,7 +4,10 @@ date: 2026-05-02
 categories: spiritualite
 resume: "Un fragment du Florilège de pseudo‑sagesses ratiboisées."
 tags: [florilege, pseudo-sagesses]
+og_image: /images/spiritualite/vabien.png
 ---
+
+![vabien](/images/spiritualite/vabien.png)
 
 # Un fragment du Florilège de pseudo‑sagesses ratiboisées.  
   
