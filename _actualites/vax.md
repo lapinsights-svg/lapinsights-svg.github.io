@@ -48,4 +48,6 @@ Les questions reviennent.
 Les doutes respirent.  
 Et quelque chose, dans le pays, réclame à nouveau le droit d’être éclairé plutôt que dirigé.
 
-**L’actualité n’est pas seulement un fait : c’est une fissure qui parle.**
+**L’actualité n’est pas seulement un fait : c’est une fissure qui parle.**  
+
+    Céleste R.
