@@ -19,4 +19,4 @@ C’est une manière élégante de ne pas être touché.
 
 La pseudo‑sagesse protège celui qui la prononce,  jamais celui qui souffre.
 
-© Céleste R. — CC BY‑NC‑ND
+Céleste R. 
