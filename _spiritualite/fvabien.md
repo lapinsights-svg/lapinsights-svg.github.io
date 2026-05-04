@@ -1,6 +1,6 @@
 ---
 title: "Tout va bien, c’est juste ta pensée"
-date: 2026-05-02
+date: 2026-05-04
 categories: spiritualite
 resume: "Un fragment du Florilège de pseudo‑sagesses ratiboisées."
 tags: [florilege, pseudo-sagesses]
