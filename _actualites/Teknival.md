@@ -27,7 +27,7 @@ Non pas l’impossibilité d’encadrer, mais **la volonté de ne pas ouvrir**.
 
 ---
 
-## Causes — quand l’État ne cherche pas la solution mais la sanction
+## Causes: l’État ne cherche pas la solution mais la sanction
 
 Depuis des années, les collectifs demandent des autorisations.  
 Elles sont refusées. Systématiquement.
@@ -44,7 +44,7 @@ et qui finit par ne plus voir ce qu’elle produit.
 
 ---
 
-## Conséquences — plus l’État durcit, plus le réel se dérobe
+## Conséquences: plus l’État durcit, plus le réel se dérobe
 
 Le paradoxe est tranchant comme une arête de schiste :
 
@@ -60,7 +60,7 @@ Elle crée ce qu’elle prétend combattre.
 
 ---
 
-## Solutions possibles — ouvrir un passage plutôt que multiplier les murs
+## Solutions possibles: ouvrir un passage plutôt que multiplier les murs
 
 Les solutions existent. Elles sont connues. Elles sont documentées.
 
