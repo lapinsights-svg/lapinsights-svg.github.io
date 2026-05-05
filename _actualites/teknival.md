@@ -38,7 +38,7 @@ Ce n’est pas une dérive.
 C’est une **ligne politique déclarée**, un choix de doctrine : fermer, punir, dissuader.
 
 Les chercheurs parlent de *myopie institutionnelle*.  
-Toi, tu dirais peut‑être : une obstination qui confond fermeté et clairvoyance,  
+Vous diriez peut‑être : une obstination qui confond fermeté et clairvoyance,  
 et qui finit par ne plus voir ce qu’elle produit.
 
 ---
