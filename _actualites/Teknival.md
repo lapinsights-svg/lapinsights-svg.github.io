@@ -4,10 +4,10 @@ date: 2026-05-05
 layout: article
 categories: actualites
 resume: "Quand la répression devient doctrine et que la liberté cherche ses failles."
-og_image: /images/actualites/teknival.png
+og_image: /images/actualites/Teknival.png
 ---
 
-![teknival](/images/actualites/teknival.png)
+![Teknival](/images/actualites/Teknival.png)
 
 # Ce que révèle vraiment le Teknival de Bourges
 
