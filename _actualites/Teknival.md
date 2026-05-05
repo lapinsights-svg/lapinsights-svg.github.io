@@ -7,7 +7,7 @@ resume: "Quand la répression devient doctrine et que la liberté cherche ses fa
 og_image: /images/actualites/teknival.png
 ---
 
-![vax](/images/actualites/teknival.png)
+![teknival](/images/actualites/teknival.png)
 
 # Ce que révèle vraiment le Teknival de Bourges
 
