@@ -1,12 +1,15 @@
 ---
-title: "Teknival de Bourges — Le paradoxe de la nuit"
-date: 2026-05-04
+title: "Teknival de Bourges: le paradoxe de la nuit"
+date: 2026-05-05
 layout: article
 categories: actualites
 resume: "Quand la répression devient doctrine et que la liberté cherche ses failles."
+og_image: /images/actualites/teknival.png
 ---
 
-# 🌑 Territoire nocturne : ce que révèle vraiment le Teknival de Bourges
+![vax](/images/actualites/teknival.png)
+
+# Ce que révèle vraiment le Teknival de Bourges
 
 ## État des lieux — un pays qui ferme les portes et s’étonne que la nuit trouve d’autres passages
 
