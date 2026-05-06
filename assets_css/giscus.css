@@ -1,12 +1,12 @@
 /* ————————————————————————————————
-   Thème Giscus — Bleu #5c65db + Orange #e8a266
+   Thème Giscus — pour les commentaires
    Ambiance : bleu doux, minéral, brume, accents ocre
    ———————————————————————————————— */
 :root {
   color-scheme: dark;
 
   /* FOND DU BLOC COMMENTAIRE */
-  --color-canvas-default: #8198db; /* ton bleu exact */
+  --color-canvas-default: #8198db;
 
   /* TEXTE */
   --color-fg-default: #ffffff;
@@ -16,15 +16,18 @@
   --color-border-default: rgba(0, 0, 0, 0.2);
 
   /* BOUTON PRINCIPAL (Commenter) */
-  --color-btn-primary-bg: #e8a266; /* ton orange exact */
+  --color-btn-primary-bg: #e8a266;
   --color-btn-primary-hover-bg: #e8a266;
   --color-btn-primary-text: #1a1a1a;
 
-  /* BOUTONS SECONDAIRES (Écrire, Aperçu, Se déconnecter) */
+  /* BOUTONS SECONDAIRES (Se déconnecter, Aa) */
   --color-btn-bg: rgba(0, 0, 0, 0.15);
   --color-btn-hover-bg: rgba(0, 0, 0, 0.25);
   --color-btn-text: #ffffff;
 
-  /* ZONE DE TEXTE */
-  --color-canvas-subtle: rgba(0, 0, 0, 0.15);
+  /* ONGLET Écrire / Aperçu — C’EST ICI QUE L’ORANGE MANQUAIT */
+  --color-neutral-muted: #e8a266;        /* bordure + fond actif */
+  --color-accent-fg: #e8a266;            /* texte actif */
+  --color-accent-emphasis: #e8a266;      /* survol / sélection */
 }
+
