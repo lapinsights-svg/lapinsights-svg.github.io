@@ -23,11 +23,12 @@
   /* BOUTONS SECONDAIRES (Se déconnecter, Aa) */
   --color-btn-bg: rgba(0, 0, 0, 0.15);
   --color-btn-hover-bg: rgba(0, 0, 0, 0.25);
-  --color-btn-text: #ffffff;
+  --color-btn-text: #e8a266; /* ORANGE ICI */
 
-  /* ONGLET Écrire / Aperçu — C’EST ICI QUE L’ORANGE MANQUAIT */
-  --color-neutral-muted: #e8a266;        /* bordure + fond actif */
-  --color-accent-fg: #e8a266;            /* texte actif */
-  --color-accent-emphasis: #e8a266;      /* survol / sélection */
+  /* ONGLET Écrire / Aperçu */
+  --color-accent-fg: #e8a266;        /* texte actif */
+  --color-accent-emphasis: #e8a266;  /* survol / sélection */
+  --color-accent-muted: #e8a266;     /* bordure active */
+  --color-neutral-muted: #e8a266;    /* bordure tab */
 }
 
