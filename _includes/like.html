@@ -1,4 +1,4 @@
-<!-- LikeBtn widget -->
+<!-- LikeBtn — version minérale Lapinsights -->
 <span class="likebtn-wrapper"
       data-theme="custom"
       data-icon_like="👍"
@@ -9,12 +9,41 @@
 </span>
 
 <style>
+/* Style minéral, sobre, vertical */
 .likebtn-wrapper {
-  filter: grayscale(100%);
-  opacity: 0.6;
-  font-size: 18px;
+  font-size: 20px;          /* taille du pouce */
+  filter: grayscale(100%);  /* enlève toute couleur */
+  opacity: 0.55;            /* discrétion */
+  transition: opacity 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;                 /* espace entre pouce et compteur */
 }
+
 .likebtn-wrapper:hover {
-  opacity: 1;
+  opacity: 0.9;             /* léger réveil au survol */
+}
+
+/* Supprime les couleurs et animations par défaut de LikeBtn */
+.likebtn-icon {
+  filter: grayscale(100%) !important;
+}
+
+.likebtn-counter {
+  font-size: 15px;
+  color: #444;              /* gris minéral */
+  font-weight: 400;
 }
 </style>
+
+<script>
+(function(d,e,s){
+  if(d.getElementById("likebtn_wjs")) return;
+  var a=d.createElement(e);
+  var m=d.getElementsByTagName(e)[0];
+  a.async=1;
+  a.id="likebtn_wjs";
+  a.src=s;
+  m.parentNode.insertBefore(a, m)
+})(document,"script","//w.likebtn.com/js/w/widget.js");
+</script>
