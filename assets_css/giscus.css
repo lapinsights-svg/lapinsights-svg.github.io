@@ -1,30 +1,31 @@
 /* ————————————————————————————————
-   Thème Giscus — Bleu Lapinsights + Orange Lapin
-   Ambiance : bleu profond, minéral, brume, accents orange
+   Thème Giscus — Bleu #5c65db + Orange #e8a266
+   Ambiance : bleu doux, minéral, brume, accents ocre
    ———————————————————————————————— */
 
 :root {
-  /* Couleurs Lapinsights */
-  --lapin-blue: #1b2a4a;       /* ton bleu exact */
-  --lapin-blue-soft: rgba(27, 42, 74, 0.55);
-  --lapin-orange: #c46a2b;     /* ton orange exact */
-  --lapin-orange-soft: rgba(196, 106, 43, 0.25);
+  /* Couleurs exactes fournies */
+  --lapin-blue: #5c65db;                 /* bleu exact */
+  --lapin-blue-soft: rgba(92, 101, 219, 0.35); /* version translucide */
+
+  --lapin-orange: #e8a266;               /* orange exact */
+  --lapin-orange-soft: rgba(232, 162, 102, 0.25);
 
   /* Texte */
-  --color-text: #e8ecff;       /* gris-bleu clair */
-  --color-muted: rgba(220, 230, 255, 0.55);
+  --color-text: #f3f4ff;                 /* gris-bleu très clair */
+  --color-muted: rgba(240, 240, 255, 0.6);
 
   /* Surfaces */
-  --color-surface: rgba(255, 255, 255, 0.06);
-  --color-border: rgba(200, 210, 255, 0.18);
+  --color-surface: rgba(255, 255, 255, 0.08);
+  --color-border: rgba(255, 255, 255, 0.15);
 }
 
-/* Fond général du module */
+/* Fond du module */
 .gsc-comments {
   background: var(--lapin-blue-soft) !important;
   border-radius: 10px !important;
   padding: 26px !important;
-  backdrop-filter: blur(10px) !important;
+  backdrop-filter: blur(12px) !important;
 }
 
 /* Zone de texte */
@@ -49,7 +50,7 @@ a:hover {
   color: var(--color-text) !important;
 }
 
-/* Bouton "Commenter" — ORANGE LAPIN */
+/* Boutons — ORANGE EXACT */
 button {
   background: var(--lapin-orange) !important;
   border: none !important;
@@ -60,18 +61,6 @@ button {
 button:hover {
   background: var(--lapin-orange-soft) !important;
   color: var(--color-text) !important;
-}
-
-/* Bouton "Se déconnecter" — ORANGE LAPIN */
-.gsc-header button,
-.gsc-footer button {
-  background: var(--lapin-orange) !important;
-  color: #fff !important;
-  border: none !important;
-}
-.gsc-header button:hover,
-.gsc-footer button:hover {
-  background: var(--lapin-orange-soft) !important;
 }
 
 /* Réactions */
