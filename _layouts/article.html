@@ -24,7 +24,45 @@ layout: default
 
   <article class="article-content">
     <div class="article-body">
+
       {{ content }}
+
+      <!-- BLOC : LIKE LAPINSIGHTS -->
+      <div class="lapinsights-like">
+        <button id="like-btn">👍</button>
+        <span id="like-count">…</span>
+      </div>
+
+      <script>
+        const pageId = "{{ page.url }}";
+
+        async function fetchLikes() {
+          const res = await fetch("https://raw.githubusercontent.com/<TON-USER>/<TON-REPO>/main/_data/likes.json");
+          const data = await res.json();
+          document.getElementById("like-count").textContent = data[pageId] || 0;
+        }
+
+        async function sendLike() {
+          await fetch("https://api.github.com/repos/<TON-USER>/<TON-REPO>/dispatches", {
+            method: "POST",
+            headers: {
+              "Accept": "application/vnd.github+json"
+            },
+            body: JSON.stringify({
+              event_type: "add-like",
+              client_payload: { page: pageId }
+            })
+          });
+        }
+
+        document.getElementById("like-btn").addEventListener("click", async () => {
+          await sendLike();
+          await fetchLikes();
+        });
+
+        fetchLikes();
+      </script>
+      <!-- FIN BLOC LIKE -->
 
       <!-- BLOC : À LIRE AUSSI -->
       {% if page.collection %}
@@ -68,30 +106,35 @@ layout: default
       <div class="share-block">
         <p>Partager cet article :</p>
 
+        <!-- Facebook -->
         <a class="share-link"
            href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
            target="_blank" rel="noopener">
            Facebook
         </a>
 
+        <!-- X / Twitter -->
         <a class="share-link"
            href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title | uri_escape }}"
            target="_blank" rel="noopener">
            X / Twitter
         </a>
 
+        <!-- LinkedIn -->
         <a class="share-link"
            href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.url }}{{ page.url }}"
            target="_blank" rel="noopener">
            LinkedIn
         </a>
 
+        <!-- Mastodon -->
         <a class="share-link"
            href="https://mastodonshare.com/?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
            target="_blank" rel="noopener">
            Mastodon
         </a>
 
+        <!-- Instagram -->
         <a class="share-link"
            href="#"
            onclick="navigator.clipboard.writeText('{{ page.url | absolute_url }}'); alert('Lien copié ! Ouvrez Instagram pour le coller.');">
@@ -100,44 +143,6 @@ layout: default
 
       </div>
       <!-- FIN BLOC PARTAGE -->
-
-      <!-- BLOC : LIKE LAPINSIGHTS -->
-      <div class="lapinsights-like">
-        <button id="like-btn">👍</button>
-        <span id="like-count">…</span>
-      </div>
-
-      <script>
-        const pageId = "{{ page.url }}";
-
-        async function fetchLikes() {
-          const res = await fetch("https://raw.githubusercontent.com/<TON-USER>/<TON-REPO>/main/_data/likes.json");
-          const data = await res.json();
-          document.getElementById("like-count").textContent = data[pageId] || 0;
-        }
-
-        async function sendLike() {
-          await fetch("https://api.github.com/repos/<TON-USER>/<TON-REPO>/dispatches", {
-            method: "POST",
-            headers: {
-              "Accept": "application/vnd.github+json",
-              "Authorization": "Bearer {{ site.github_token }}",
-            },
-            body: JSON.stringify({
-              event_type: "add-like",
-              client_payload: { page: pageId }
-            })
-          });
-        }
-
-        document.getElementById("like-btn").addEventListener("click", async () => {
-          await sendLike();
-          await fetchLikes();
-        });
-
-        fetchLikes();
-      </script>
-      <!-- FIN BLOC LIKE -->
 
     </div>
   </article>
