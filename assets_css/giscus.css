@@ -1,25 +1,25 @@
 /* ————————————————————————————————
-   Thème Giscus minéral — Lapinsights
-   Ambiance : nocturne, pierre, brume, lumière douce
+   Thème Giscus minéral bleuté — Lapinsights
+   Ambiance : bleu nocturne, brume, pierre, lumière douce
    ———————————————————————————————— */
 
 :root {
   /* Couleurs principales */
-  --color-bg: rgba(0, 0, 0, 0.25);          /* voile minéral */
-  --color-surface: rgba(255, 255, 255, 0.04);
-  --color-border: rgba(255, 255, 255, 0.08);
-  --color-text: #e8e8e8;                    /* gris clair minéral */
-  --color-muted: rgba(255, 255, 255, 0.45);
-  --color-accent: #7aa2f7;                  /* cobalt adouci */
+  --color-bg: rgba(20, 30, 60, 0.35);        /* bleu nuit translucide */
+  --color-surface: rgba(255, 255, 255, 0.05);
+  --color-border: rgba(180, 200, 255, 0.12); /* bordure bleutée douce */
+  --color-text: #e6e9f5;                     /* gris bleuté clair */
+  --color-muted: rgba(200, 210, 240, 0.55);
+  --color-accent: #7aa2f7;                   /* cobalt adouci */
   --color-accent-soft: rgba(122, 162, 247, 0.25);
 }
 
 /* Fond général du module */
 .gsc-comments {
   background: var(--color-bg) !important;
-  border-radius: 8px !important;
-  padding: 24px !important;
-  backdrop-filter: blur(6px) !important;
+  border-radius: 10px !important;
+  padding: 26px !important;
+  backdrop-filter: blur(8px) !important;      /* brume minérale */
 }
 
 /* Zone de texte */
@@ -54,6 +54,7 @@ button {
 }
 button:hover {
   background: var(--color-accent-soft) !important;
+  color: var(--color-text) !important;
 }
 
 /* Réactions */
