@@ -1,0 +1,21 @@
+<!-- LikeBtn widget -->
+<span class="likebtn-wrapper"
+      data-theme="github"
+      data-identifier="{{ page.url }}"
+      data-show_like_label="false"
+      data-show_dislike_label="false"
+      data-counter_type="number"
+      data-counter_clickable="true">
+</span>
+
+<script>
+(function(d,e,s){
+  if(d.getElementById("likebtn_wjs")) return;
+  var a=d.createElement(e);
+  var m=d.getElementsByTagName(e)[0];
+  a.async=1;
+  a.id="likebtn_wjs";
+  a.src=s;
+  m.parentNode.insertBefore(a, m)
+})(document,"script","//w.likebtn.com/js/w/widget.js");
+</script>
