@@ -8,34 +8,29 @@ og_image: /images/spiritualite/vibre.png
 
 ![vibre](/images/spiritualite/vibre.png)
 
-Dire « tu attires ce que tu vibres » revient à maquiller la complexité du monde sous un vernis énergétique.  
+Dire « tu attires ce que tu vibres » est une manière élégante d’effacer le monde.  
+Une phrase‑paravent qui recouvre la complexité sous un vernis énergétique, comme si les structures, les rapports de force et les héritages psychiques n’avaient plus de poids.
 
-Cette phrase nie les structures, les rapports de force, les héritages psychiques et sociaux qui façonnent nos trajectoires.  
+Elle transforme la douleur en faute vibratoire, la précarité en fréquence basse, la violence en reflet intérieur.  
+Elle déplace la responsabilité du collectif vers l’individu, puis de l’individu vers son “énergie”, jusqu’à ce qu’il ne reste plus personne à accuser — sauf soi.
 
-Elle transforme la douleur en faute vibratoire, la précarité en fréquence basse, la violence en miroir intérieur.  
+Ce discours dépolitise le réel en le réduisant à un champ personnel, et psychologise la domination pour mieux la rendre invisible.  
+Il fait croire que tout se joue dans la vibration, alors que tout se joue dans la matière, dans l’histoire, dans les corps.
 
-Elle dépolitise le réel en le réduisant à un champ personnel, et psychologise la domination pour mieux la rendre invisible.  
+Il remplace la lucidité par la fréquence, le courage par la croyance, la solidarité par l’auto‑correction.  
+C’est le mantra idéal d’un système qui préfère des individus réglés sur eux‑mêmes plutôt que reliés entre eux.
 
-Elle fait croire que tout se joue dans la vibration, alors que tout se joue dans la matière, dans l’histoire, dans les corps.  
+Sur le plan psychique, il confond guérison et adaptation : comprendre devient un devoir, se révolter une faute, souffrir un signal cosmique.  
+La psychologie devient un instrument de docilité, la spiritualité un placebo politique.
 
-Elle détourne la responsabilité collective vers la culpabilité intime.  
+La colère légitime est requalifiée en “vibration basse”, et la souffrance en message de l’univers, plutôt qu’en trace d’un déséquilibre social ou affectif.
 
-Elle remplace la lucidité par la fréquence, le courage par la croyance.  
+Ce discours oublie que certaines vibrations ne sont pas à élever, mais à entendre :  
+celles du monde qui gronde, des corps qui résistent, des voix qu’on tait.
 
-Elle est le discours parfait pour un monde qui veut que chacun s’auto‑corrige au lieu de s’unir.  
+Il oublie que le réel n’est pas un champ magnétique.  
+Il est un sol.  
+Et il tremble.  
 
-Elle est le mantra d’un système qui préfère les vibrations à la justice.  
-
-Elle confond guérison et adaptation, comme si comprendre suffisait à réparer.  
-
-Elle invite à se régler plutôt qu’à se révolter.  
-
-Elle transforme la souffrance en signal cosmique, au lieu de la reconnaître comme trace d’un déséquilibre social ou affectif.  
-
-Elle fait de la psychologie un instrument de docilité, et de la spiritualité un placebo politique.  
-
-Elle promet la paix intérieure pour mieux neutraliser la colère légitime.  
-
-Elle oublie que certaines vibrations ne sont pas à élever, mais à entendre — celles du monde qui gronde, des corps qui résistent, des voix qu’on tait.  
-
+    
   Céleste R.
