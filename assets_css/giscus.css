@@ -2,85 +2,30 @@
    Thème Giscus — Bleu #5c65db + Orange #e8a266
    Ambiance : bleu doux, minéral, brume, accents ocre
    ———————————————————————————————— */
-
 :root {
-  /* Couleurs exactes fournies */
-  --lapin-blue: #5c65db;                 /* bleu exact */
-  --lapin-blue-soft: rgba(92, 101, 219, 0.35); /* version translucide */
+  color-scheme: dark;
 
-  --lapin-orange: #e8a266;               /* orange exact */
-  --lapin-orange-soft: rgba(232, 162, 102, 0.25);
+  /* Fond général du bloc commentaires */
+  --color-canvas-default: #5c65db;          /* ton bleu */
 
   /* Texte */
-  --color-text: #f3f4ff;                 /* gris-bleu très clair */
-  --color-muted: rgba(240, 240, 255, 0.6);
+  --color-fg-default: #f7f7ff;
+  --color-fg-muted: #e4e4ff;
 
-  /* Surfaces */
-  --color-surface: rgba(255, 255, 255, 0.08);
-  --color-border: rgba(255, 255, 255, 0.15);
-}
+  /* Bordures / séparateurs */
+  --color-border-default: rgba(0, 0, 0, 0.15);
 
-/* Fond du module */
-.gsc-comments {
-  background: var(--lapin-blue-soft) !important;
-  border-radius: 10px !important;
-  padding: 26px !important;
-  backdrop-filter: blur(12px) !important;
-}
+  /* Boutons principaux (Commenter, etc.) */
+  --color-btn-primary-bg: #e8a266;         /* ton orange */
+  --color-btn-primary-hover-bg: #e8a266;
+  --color-btn-primary-text: #1b1b1b;
 
-/* Zone de texte */
-.gsc-comment-box-textarea,
-.gsc-comment-box-textarea::placeholder {
-  color: var(--color-text) !important;
-  background: var(--color-surface) !important;
+  /* Boutons secondaires (Écrire / Aperçu / Se déconnecter, etc.) */
+  --color-btn-bg: rgba(0, 0, 0, 0.12);
+  --color-btn-hover-bg: rgba(0, 0, 0, 0.2);
+  --color-btn-text: #f7f7ff;
+
+  /* Zone de saisie */
+  --color-canvas-subtle: rgba(0, 0, 0, 0.12);
 }
 
-/* Bordures */
-.gsc-comment-box,
-.gsc-comment,
-.gsc-reply-box {
-  border-color: var(--color-border) !important;
-}
-
-/* Liens */
-a {
-  color: var(--lapin-orange) !important;
-}
-a:hover {
-  color: var(--color-text) !important;
-}
-
-/* Boutons — ORANGE EXACT */
-button {
-  background: var(--lapin-orange) !important;
-  border: none !important;
-  color: #fff !important;
-  border-radius: 4px !important;
-  padding: 6px 14px !important;
-}
-button:hover {
-  background: var(--lapin-orange-soft) !important;
-  color: var(--color-text) !important;
-}
-
-/* Réactions */
-.gsc-reactions-button {
-  background: var(--color-surface) !important;
-  border-color: var(--color-border) !important;
-  color: var(--color-muted) !important;
-}
-.gsc-reactions-button:hover {
-  background: var(--lapin-orange-soft) !important;
-  color: var(--color-text) !important;
-}
-
-/* Métadonnées */
-.gsc-comment-author,
-.gsc-comment-time {
-  color: var(--color-muted) !important;
-}
-
-/* Ligne séparatrice */
-.gsc-divider {
-  border-color: var(--color-border) !important;
-}
