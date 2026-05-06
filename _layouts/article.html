@@ -27,43 +27,6 @@ layout: default
 
       {{ content }}
 
-      <!-- BLOC : LIKE LAPINSIGHTS -->
-      <div class="lapinsights-like">
-        <button id="like-btn">👍</button>
-        <span id="like-count">…</span>
-      </div>
-
-      <script>
-        const pageId = "{{ page.url }}";
-
-        async function fetchLikes() {
-          const res = await fetch("https://raw.githubusercontent.com/lapinsights-svg/lapinsights-svg.github.io/main/_data/likes.json");
-          const data = await res.json();
-          document.getElementById("like-count").textContent = data[pageId] || 0;
-        }
-
-        async function sendLike() {
-          await fetch("https://api.github.com/repos/lapinsights-svg/lapinsights-svg.github.io/dispatches", {
-            method: "POST",
-            headers: {
-              "Accept": "application/vnd.github+json"
-            },
-            body: JSON.stringify({
-              event_type: "add-like",
-              client_payload: { page: pageId }
-            })
-          });
-        }
-
-        document.getElementById("like-btn").addEventListener("click", async () => {
-          await sendLike();
-          await fetchLikes();
-        });
-
-        fetchLikes();
-      </script>
-      <!-- FIN BLOC LIKE -->
-
       <!-- BLOC : À LIRE AUSSI -->
       {% if page.collection %}
         {% assign current_collection = page.collection %}
