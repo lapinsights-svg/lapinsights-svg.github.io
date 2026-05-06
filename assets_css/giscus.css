@@ -5,27 +5,26 @@
 :root {
   color-scheme: dark;
 
-  /* Fond général du bloc commentaires */
-  --color-canvas-default: #5c65db;          /* ton bleu */
+  /* FOND DU BLOC COMMENTAIRE */
+  --color-canvas-default: #8198db; /* ton bleu exact */
 
-  /* Texte */
-  --color-fg-default: #f7f7ff;
-  --color-fg-muted: #e4e4ff;
+  /* TEXTE */
+  --color-fg-default: #ffffff;
+  --color-fg-muted: #e6e6f7;
 
-  /* Bordures / séparateurs */
-  --color-border-default: rgba(0, 0, 0, 0.15);
+  /* BORDURES */
+  --color-border-default: rgba(0, 0, 0, 0.2);
 
-  /* Boutons principaux (Commenter, etc.) */
-  --color-btn-primary-bg: #e8a266;         /* ton orange */
+  /* BOUTON PRINCIPAL (Commenter) */
+  --color-btn-primary-bg: #e8a266; /* ton orange exact */
   --color-btn-primary-hover-bg: #e8a266;
-  --color-btn-primary-text: #1b1b1b;
+  --color-btn-primary-text: #1a1a1a;
 
-  /* Boutons secondaires (Écrire / Aperçu / Se déconnecter, etc.) */
-  --color-btn-bg: rgba(0, 0, 0, 0.12);
-  --color-btn-hover-bg: rgba(0, 0, 0, 0.2);
-  --color-btn-text: #f7f7ff;
+  /* BOUTONS SECONDAIRES (Écrire, Aperçu, Se déconnecter) */
+  --color-btn-bg: rgba(0, 0, 0, 0.15);
+  --color-btn-hover-bg: rgba(0, 0, 0, 0.25);
+  --color-btn-text: #ffffff;
 
-  /* Zone de saisie */
-  --color-canvas-subtle: rgba(0, 0, 0, 0.12);
+  /* ZONE DE TEXTE */
+  --color-canvas-subtle: rgba(0, 0, 0, 0.15);
 }
-
