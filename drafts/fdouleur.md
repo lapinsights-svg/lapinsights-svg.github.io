@@ -5,7 +5,10 @@ layout: article
 categories: spiritualite
 resume: "Ratiboisage d’une pseudo‑sagesse hygiéniste : quand la douleur devient une faute."
 tags: [florilege, pseudo-sagesses, spiritualite]
+og_image: /images/spiritualite/douleur.png
 ---
+
+![douleur](/images/spiritualite/douleur.png)
 
 # Florilège de pseudo‑sagesses ratiboisées  
 ## Fragment II — La douleur comme faute
