@@ -8,27 +8,28 @@
   /* FOND DU BLOC COMMENTAIRE */
   --color-canvas-default: #8198db;
 
+  /* ZONE DE SAISIE */
+  --color-canvas-subtle: rgba(0, 0, 0, 0.15);
+
   /* TEXTE */
   --color-fg-default: #ffffff;
   --color-fg-muted: #e6e6f7;
 
   /* BORDURES */
-  --color-border-default: rgba(0, 0, 0, 0.2);
+  --color-border-default: rgba(0, 0, 0, 0.25);
 
   /* BOUTON PRINCIPAL (Commenter) */
   --color-btn-primary-bg: #e8a266;
   --color-btn-primary-hover-bg: #e8a266;
   --color-btn-primary-text: #1a1a1a;
 
-  /* BOUTONS SECONDAIRES (Se déconnecter, Aa) */
+  /* BOUTONS SECONDAIRES (Aa, Se déconnecter) */
   --color-btn-bg: rgba(0, 0, 0, 0.15);
   --color-btn-hover-bg: rgba(0, 0, 0, 0.25);
-  --color-btn-text: #e8a266; /* ORANGE ICI */
+  --color-btn-text: #ffffff;
 
-  /* ONGLET Écrire / Aperçu */
-  --color-accent-fg: #e8a266;        /* texte actif */
-  --color-accent-emphasis: #e8a266;  /* survol / sélection */
-  --color-accent-muted: #e8a266;     /* bordure active */
-  --color-neutral-muted: #e8a266;    /* bordure tab */
+  /* RÉACTIONS */
+  --color-neutral-muted: rgba(255, 255, 255, 0.2);
 }
+
 
