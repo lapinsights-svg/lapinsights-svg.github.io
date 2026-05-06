@@ -1,33 +1,30 @@
 /* ————————————————————————————————
-   Thème Giscus minéral bleuté + orange lapin
-   Ambiance : bleu nuit profond, brume, pierre, accents orange minéral
+   Thème Giscus — Bleu Lapinsights + Orange Lapin
+   Ambiance : bleu profond, minéral, brume, accents orange
    ———————————————————————————————— */
 
 :root {
-  /* Fond plus bleu, plus profond */
-  --color-bg: rgba(15, 25, 55, 0.45);          /* bleu nuit plus dense */
-  --color-surface: rgba(255, 255, 255, 0.06);
-  --color-border: rgba(180, 200, 255, 0.18);   /* bordure bleutée plus visible */
+  /* Couleurs Lapinsights */
+  --lapin-blue: #1b2a4a;       /* ton bleu exact */
+  --lapin-blue-soft: rgba(27, 42, 74, 0.55);
+  --lapin-orange: #c46a2b;     /* ton orange exact */
+  --lapin-orange-soft: rgba(196, 106, 43, 0.25);
 
   /* Texte */
-  --color-text: #e8ecff;                       /* gris-bleu clair */
-  --color-muted: rgba(200, 210, 240, 0.55);
+  --color-text: #e8ecff;       /* gris-bleu clair */
+  --color-muted: rgba(220, 230, 255, 0.55);
 
-  /* Accent cobalt */
-  --color-accent: #7aa2f7;
-  --color-accent-soft: rgba(122, 162, 247, 0.25);
-
-  /* Orange Lapin (ta couleur minérale) */
-  --lapin: #c46a2b;
-  --lapin-soft: rgba(196, 106, 43, 0.25);
+  /* Surfaces */
+  --color-surface: rgba(255, 255, 255, 0.06);
+  --color-border: rgba(200, 210, 255, 0.18);
 }
 
 /* Fond général du module */
 .gsc-comments {
-  background: var(--color-bg) !important;
+  background: var(--lapin-blue-soft) !important;
   border-radius: 10px !important;
   padding: 26px !important;
-  backdrop-filter: blur(10px) !important;       /* brume plus marquée */
+  backdrop-filter: blur(10px) !important;
 }
 
 /* Zone de texte */
@@ -46,7 +43,7 @@
 
 /* Liens */
 a {
-  color: var(--color-accent) !important;
+  color: var(--lapin-orange) !important;
 }
 a:hover {
   color: var(--color-text) !important;
@@ -54,27 +51,27 @@ a:hover {
 
 /* Bouton "Commenter" — ORANGE LAPIN */
 button {
-  background: var(--lapin) !important;
+  background: var(--lapin-orange) !important;
   border: none !important;
   color: #fff !important;
   border-radius: 4px !important;
   padding: 6px 14px !important;
 }
 button:hover {
-  background: var(--lapin-soft) !important;
+  background: var(--lapin-orange-soft) !important;
   color: var(--color-text) !important;
 }
 
 /* Bouton "Se déconnecter" — ORANGE LAPIN */
 .gsc-header button,
 .gsc-footer button {
-  background: var(--lapin) !important;
+  background: var(--lapin-orange) !important;
   color: #fff !important;
   border: none !important;
 }
 .gsc-header button:hover,
 .gsc-footer button:hover {
-  background: var(--lapin-soft) !important;
+  background: var(--lapin-orange-soft) !important;
 }
 
 /* Réactions */
@@ -84,7 +81,7 @@ button:hover {
   color: var(--color-muted) !important;
 }
 .gsc-reactions-button:hover {
-  background: var(--color-accent-soft) !important;
+  background: var(--lapin-orange-soft) !important;
   color: var(--color-text) !important;
 }
 
