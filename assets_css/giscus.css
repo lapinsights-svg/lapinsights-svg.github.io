@@ -1,0 +1,79 @@
+/* ————————————————————————————————
+   Thème Giscus minéral — Lapinsights
+   Ambiance : nocturne, pierre, brume, lumière douce
+   ———————————————————————————————— */
+
+:root {
+  /* Couleurs principales */
+  --color-bg: rgba(0, 0, 0, 0.25);          /* voile minéral */
+  --color-surface: rgba(255, 255, 255, 0.04);
+  --color-border: rgba(255, 255, 255, 0.08);
+  --color-text: #e8e8e8;                    /* gris clair minéral */
+  --color-muted: rgba(255, 255, 255, 0.45);
+  --color-accent: #7aa2f7;                  /* cobalt adouci */
+  --color-accent-soft: rgba(122, 162, 247, 0.25);
+}
+
+/* Fond général du module */
+.gsc-comments {
+  background: var(--color-bg) !important;
+  border-radius: 8px !important;
+  padding: 24px !important;
+  backdrop-filter: blur(6px) !important;
+}
+
+/* Zone de texte */
+.gsc-comment-content,
+.gsc-comment-box-textarea,
+.gsc-comment-box-textarea::placeholder {
+  color: var(--color-text) !important;
+  background: var(--color-surface) !important;
+}
+
+/* Bordures */
+.gsc-comment-box,
+.gsc-comment,
+.gsc-reply-box {
+  border-color: var(--color-border) !important;
+}
+
+/* Liens */
+a {
+  color: var(--color-accent) !important;
+}
+a:hover {
+  color: var(--color-text) !important;
+}
+
+/* Bouton "Commenter" */
+button {
+  background: var(--color-accent) !important;
+  border: none !important;
+  color: #fff !important;
+  border-radius: 4px !important;
+}
+button:hover {
+  background: var(--color-accent-soft) !important;
+}
+
+/* Réactions */
+.gsc-reactions-button {
+  background: var(--color-surface) !important;
+  border-color: var(--color-border) !important;
+  color: var(--color-muted) !important;
+}
+.gsc-reactions-button:hover {
+  background: var(--color-accent-soft) !important;
+  color: var(--color-text) !important;
+}
+
+/* Métadonnées (dates, auteurs) */
+.gsc-comment-author,
+.gsc-comment-time {
+  color: var(--color-muted) !important;
+}
+
+/* Ligne séparatrice */
+.gsc-divider {
+  border-color: var(--color-border) !important;
+}
