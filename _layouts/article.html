@@ -37,13 +37,13 @@ layout: default
         const pageId = "{{ page.url }}";
 
         async function fetchLikes() {
-          const res = await fetch("https://raw.githubusercontent.com/<TON-USER>/<TON-REPO>/main/_data/likes.json");
+          const res = await fetch("https://raw.githubusercontent.com/lapinsights-svg/lapinsights-svg.github.io/main/_data/likes.json");
           const data = await res.json();
           document.getElementById("like-count").textContent = data[pageId] || 0;
         }
 
         async function sendLike() {
-          await fetch("https://api.github.com/repos/<TON-USER>/<TON-REPO>/dispatches", {
+          await fetch("https://api.github.com/repos/lapinsights-svg/lapinsights-svg.github.io/dispatches", {
             method: "POST",
             headers: {
               "Accept": "application/vnd.github+json"
