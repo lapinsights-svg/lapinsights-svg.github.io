@@ -1,21 +1,20 @@
 <!-- LikeBtn widget -->
 <span class="likebtn-wrapper"
-      data-theme="github"
-      data-identifier="{{ page.url }}"
-      data-show_like_label="false"
-      data-show_dislike_label="false"
+      data-theme="custom"
+      data-icon_like="👍"
+      data-icon_dislike=""
       data-counter_type="number"
-      data-counter_clickable="true">
+      data-counter_clickable="true"
+      data-identifier="{{ page.url }}">
 </span>
 
-<script>
-(function(d,e,s){
-  if(d.getElementById("likebtn_wjs")) return;
-  var a=d.createElement(e);
-  var m=d.getElementsByTagName(e)[0];
-  a.async=1;
-  a.id="likebtn_wjs";
-  a.src=s;
-  m.parentNode.insertBefore(a, m)
-})(document,"script","//w.likebtn.com/js/w/widget.js");
-</script>
+<style>
+.likebtn-wrapper {
+  filter: grayscale(100%);
+  opacity: 0.6;
+  font-size: 18px;
+}
+.likebtn-wrapper:hover {
+  opacity: 1;
+}
+</style>
