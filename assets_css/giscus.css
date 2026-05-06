@@ -8,15 +8,13 @@
   /* FOND DU BLOC COMMENTAIRE */
   --color-canvas-default: #8198db;
 
-  /* ZONE DE SAISIE */
-  --color-canvas-subtle: rgba(0, 0, 0, 0.15);
+  /* ZONE DE SAISIE — lisibilité améliorée */
+  --color-canvas-subtle: rgba(0, 0, 0, 0.22); /* fond plus sombre = texte plus lisible */
+  --color-border-default: rgba(255, 255, 255, 0.35); /* bordure douce et visible */
 
   /* TEXTE */
-  --color-fg-default: #ffffff;
-  --color-fg-muted: #e6e6f7;
-
-  /* BORDURES */
-  --color-border-default: rgba(0, 0, 0, 0.25);
+  --color-fg-default: #ffffff; /* texte tapé */
+  --color-fg-muted: #f5f5ff;   /* placeholder plus clair */
 
   /* BOUTON PRINCIPAL (Commenter) */
   --color-btn-primary-bg: #e8a266;
@@ -24,12 +22,12 @@
   --color-btn-primary-text: #1a1a1a;
 
   /* BOUTONS SECONDAIRES (Aa, Se déconnecter) */
-  --color-btn-bg: rgba(0, 0, 0, 0.15);
-  --color-btn-hover-bg: rgba(0, 0, 0, 0.25);
+  --color-btn-bg: rgba(0, 0, 0, 0.18);
+  --color-btn-hover-bg: rgba(0, 0, 0, 0.28);
   --color-btn-text: #ffffff;
 
   /* RÉACTIONS */
-  --color-neutral-muted: rgba(255, 255, 255, 0.2);
+  --color-neutral-muted: rgba(255, 255, 255, 0.25);
 }
 
 
