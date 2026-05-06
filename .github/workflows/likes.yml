@@ -33,5 +33,8 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add _data/likes.json
-          git commit -m "Increment like for ${{ github.event.client_payload.page }}"
+          git commit -m "Increment like for ${{ github.event.client_payload.page }}" || echo "No changes to commit"
           git push
+
+    env:
+      GITHUB_TOKEN: ${{ secrets.LIKE_TOKEN }}
