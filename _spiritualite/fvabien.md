@@ -9,7 +9,8 @@ og_image: /images/spiritualite/vabien.png
 
 ![vabien](/images/spiritualite/vabien.png)
 
-# Tout va bien, c’est juste ta pensée
+# Florilège de pseudo‑sagesses ratiboisées  
+## Fragment I — Tout va bien, c'est juste ta pensée
 
 Il existe des phrases qui se veulent lumineuses et qui ne sont que des anesthésies.  
 Dire à quelqu’un en pleine tempête que “tout va bien, c’est juste ta pensée”, c’est refuser de voir la pluie, le vent, la violence du réel.  
