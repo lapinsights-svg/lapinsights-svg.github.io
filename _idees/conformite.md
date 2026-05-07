@@ -118,7 +118,11 @@ non par interdiction brutale, mais par **glissements successifs**.
 Non par contrainte directe, mais par **réduction des alternatives**.  
 Non par violence, mais par **habituation**.
 
-Et c’est ainsi que la liberté de choix — scolaire, civique, individuelle — **se réduit**.
+Et c’est ainsi que la liberté de choix — scolaire, civique, individuelle — **se réduit**.  
+
+Le débat public n’a même pas eu lieu, la presse n’a pas interrogé, les associations n’ont presque pas réagi.  
+La vigilance citoyenne est restée faible et la critique intellectuelle marginale.  
+C’est précisément ce silence qui permet au dispositif d’avancer sans résistance.  
 
 ---
 
