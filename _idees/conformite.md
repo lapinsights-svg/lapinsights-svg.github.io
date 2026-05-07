@@ -35,7 +35,8 @@ Ce n’est plus un choix libre.
 C’est un choix **orienté**, donc un choix **réduit**.
 
 L’école cesse d’être un espace d’instruction.  
-Elle devient un **outil de tri civique**.  
+Elle devient un outil de tri civique qui oblige le jeune à se conformer dès le départ.  
+Et ce mécanisme — où le comportement conditionne l’accès aux parcours — ressemble à un début de crédit social.  
 
 ---
 
