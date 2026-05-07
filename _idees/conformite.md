@@ -63,10 +63,15 @@ Le dispositif actuel s’inscrit dans cette continuité :
 
 ---
 
-## 3. Le tournant Covid : quand le président Macron a posé le principe de la citoyenneté conditionnelle
+## 3. Le tournant Covid : quand Emmanuel Macron a posé le principe de la citoyenneté conditionnelle
 
-Pendant la période Covid, le président Emmanuel Macron a affirmé que  
-**« les droits doivent être conditionnés aux devoirs »**.
+Pendant la période Covid, Emmanuel Macron a déclaré :  
+**« Les devoirs valent avant les droits. »**
+
+Cette phrase n’est pas un détail.  
+Elle pose explicitement le principe d’une **citoyenneté conditionnelle**, où les droits ne sont plus garantis par statut, mais **accordés en fonction du comportement**.
+
+Cela constitue **une perte de libertés**, directe, assumée, revendiquée.
 
 Cette phrase marque un tournant.  
 Dans la tradition républicaine française, les droits sont **inconditionnels**.  
