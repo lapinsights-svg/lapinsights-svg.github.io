@@ -64,10 +64,13 @@ Le dispositif actuel s’inscrit dans cette continuité :
 
 ---
 
-## 3. Le tournant contemporain : les droits conditionnés aux devoirs = perte de libertés
+## 3. Le tournant Covid : quand le président Macron a posé le principe de la citoyenneté conditionnelle
 
-Lorsque le président Macron a affirmé, pendant la période Covid, que « les droits doivent être conditionnés aux devoirs », il a introduit un changement majeur.  
-Dans la tradition républicaine, les droits sont **inconditionnels**.  
+Pendant la période Covid, le président Emmanuel Macron a affirmé que  
+**« les droits doivent être conditionnés aux devoirs »**.
+
+Cette phrase marque un tournant.  
+Dans la tradition républicaine française, les droits sont **inconditionnels**.  
 Les conditionner, c’est **retirer une partie de ces droits**.
 
 Dire que les droits dépendent du comportement revient à transformer la citoyenneté en **performance obligatoire**.  
