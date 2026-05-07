@@ -66,7 +66,7 @@ Le dispositif actuel s’inscrit dans cette continuité :
 
 ## 3. Le tournant contemporain : les droits conditionnés aux devoirs = perte de libertés
 
-Lorsque le président a affirmé que « les droits doivent être conditionnés aux devoirs », il a introduit un changement majeur.  
+Lorsque le président Macron a affirmé, pendant la période Covid, que « les droits doivent être conditionnés aux devoirs », il a introduit un changement majeur.  
 Dans la tradition républicaine, les droits sont **inconditionnels**.  
 Les conditionner, c’est **retirer une partie de ces droits**.
 
