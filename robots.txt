@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lapinsights-svg.github.io/sitemap.xml
