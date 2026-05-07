@@ -53,7 +53,7 @@ Chaque fois, la liberté de choix se rétrécit.
 Cours de défense civile, surveillance des attitudes.  
 La liberté d’opinion y est clairement diminuée.
 
-### 2.4. XXIᵉ siècle : la sécurité comme norme éducative  
+### 2.4. XXIème siècle : la sécurité comme norme éducative  
 Prévention, résilience, cohésion, défense.  
 Non plus comme savoirs, mais comme **normes comportementales**.  
 Et chaque norme réduit un peu plus la liberté de s’en écarter.
