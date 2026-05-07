@@ -36,7 +36,6 @@ C’est un choix **orienté**, donc un choix **réduit**.
 
 L’école cesse d’être un espace d’instruction.  
 Elle devient un **outil de tri civique**.  
-Et cela, oui, constitue **une perte de liberté**.
 
 ---
 
@@ -78,7 +77,6 @@ Et dès que les droits deviennent conditionnels, la liberté **diminue**.
 
 On n’est plus citoyen par statut.  
 On l’est par **conformité**.  
-Et cela, très concrètement, **retire des libertés**.
 
 ---
 
