@@ -120,10 +120,10 @@ Non par violence, mais par **habituation**.
 
 Et c’est ainsi que la liberté de choix — scolaire, civique, individuelle — **se réduit**.  
 
-Le débat public n’a même pas eu lieu, la presse n’a pas interrogé, les associations n’ont presque pas réagi.  
-La vigilance citoyenne est restée faible et la critique intellectuelle marginale.  
-C’est précisément ce silence qui permet au dispositif d’avancer sans résistance.  
-
+Si j’en parle aujourd’hui, c’est peut-être parce que personne ne l’a encore formulé ainsi.  
+Ni le débat public, ni la presse, ni les associations n’ont relié scolarité, Défense et perte de libertés.  
+Alors oui : je suis peut-être parmi les premières à nommer ce début de crédit social pour ce qu’il est.  
+  
 ---
 
 ## Conclusion
