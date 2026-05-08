@@ -1745,3 +1745,40 @@ Lapin retour salle echo
     position: static !important;
   }
 }
+
+
+/* ————————————————————————————————
+   VERSION MOBILE (≤ 600px) — Présentation du Terrier
+   ———————————————————————————————— */
+@media (max-width: 600px) {
+
+  /* Libère le parent pour permettre l’élargissement */
+  .page-video-terrier {
+    display: block;
+    padding: 1.5rem 1rem;
+  }
+
+  /* Conteneur vidéo resserré (réglage fin) */
+  .page-video-terrier .video-wrapper {
+    width: 90vw;                 /* ← légèrement resserré, ne touche plus les bords */
+    margin-left: 50%;
+    transform: translateX(-50%);
+    max-width: none;
+    padding-bottom: 4rem;        /* évite le recouvrement du footer */
+  }
+
+  /* Vidéo plus haute et immersive */
+  .page-video-terrier video {
+    width: 100%;
+    aspect-ratio: 4 / 5;         /* vertical, élégant, minéral */
+    object-fit: cover;
+    border-radius: 12px;
+    display: block;
+  }
+
+  /* Footer non fixe sur mobile */
+  .footer-fixed {
+    position: static !important;
+  }
+}
+
