@@ -1752,15 +1752,15 @@ Lapin retour salle echo
    ———————————————————————————————— */
 @media (max-width: 600px) {
 
-  /* Libère le parent pour permettre l’élargissement */
+  /* Libère le parent */
   .page-video-terrier {
     display: block;
     padding: 1.5rem 1rem;
   }
 
-  /* Conteneur vidéo resserré (réglage fin) */
+  /* Conteneur vidéo élargi mais sans toucher les bords */
   .page-video-terrier .video-wrapper {
-    width: 90vw;                 /* ← légèrement resserré, ne touche plus les bords */
+    width: 94vw;                 /* ← plus large, mais encore respirant */
     margin-left: 50%;
     transform: translateX(-50%);
     max-width: none;
@@ -1770,15 +1770,14 @@ Lapin retour salle echo
   /* Vidéo plus haute et immersive */
   .page-video-terrier video {
     width: 100%;
-    aspect-ratio: 4 / 5;         /* vertical, élégant, minéral */
+    aspect-ratio: 4 / 5;         /* ← plus vertical, plus présent */
     object-fit: cover;
     border-radius: 12px;
     display: block;
   }
 
-  /* Footer non fixe sur mobile */
+  /* Footer non fixe */
   .footer-fixed {
     position: static !important;
   }
 }
-
