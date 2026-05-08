@@ -1637,26 +1637,91 @@ Lapin retour salle echo
   opacity: 1;
 }
 
-/* --- VERSION MOBILE POUR LA PAGE NEWSLETTER --- */
-@media (max-width: 800px) {
+/* ————————————————————————————————
+   LAYOUT GLOBAL (desktop)
+   ———————————————————————————————— */
+.newsletter-layout {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 4rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+}
+
+
+/* ————————————————————————————————
+   COLONNE TEXTE
+   ———————————————————————————————— */
+.newsletter-texte {
+  flex: 1 1 600px;
+  max-width: 600px;
+  line-height: 1.65;
+  font-size: 1.08rem;
+  color: var(--lapin);
+}
+
+
+/* ————————————————————————————————
+   COLONNE VIDÉO
+   ———————————————————————————————— */
+.newsletter-video {
+  flex: 1 1 600px;
+  max-width: 600px;
+}
+
+.newsletter-video video {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+  box-shadow: 0 0 18px rgba(0,0,0,0.15);
+}
+
+
+/* ————————————————————————————————
+   VERSION TABLETTE (≤ 900px)
+   ———————————————————————————————— */
+@media (max-width: 900px) {
 
   .newsletter-layout {
     flex-direction: column;
-    gap: 1.5rem;
+    gap: 2.5rem;
+    padding: 2rem 1.5rem;
   }
 
   .newsletter-texte,
   .newsletter-video {
-    flex: 1 1 auto;
-    width: 100%;
     max-width: 100%;
-    padding: 1.2rem;
+    width: 100%;
+    padding: 0;
   }
 
   .newsletter-video video {
     width: 100%;
     height: auto;
-    border-radius: 8px;
+  }
+}
+
+
+/* ————————————————————————————————
+   VERSION MOBILE (≤ 480px)
+   ———————————————————————————————— */
+@media (max-width: 480px) {
+
+  .newsletter-layout {
+    padding: 1.5rem 1rem;
+    gap: 2rem;
+  }
+
+  .newsletter-texte {
+    font-size: 1rem;
+    line-height: 1.55;
+  }
+
+  .newsletter-video video {
+    border-radius: 10px;
   }
 }
 
