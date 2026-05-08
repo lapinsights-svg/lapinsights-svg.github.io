@@ -1637,6 +1637,29 @@ Lapin retour salle echo
   opacity: 1;
 }
 
+/* --- VERSION MOBILE POUR LA PAGE NEWSLETTER --- */
+@media (max-width: 800px) {
+
+  .newsletter-layout {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .newsletter-texte,
+  .newsletter-video {
+    flex: 1 1 auto;
+    width: 100%;
+    max-width: 100%;
+    padding: 1.2rem;
+  }
+
+  .newsletter-video video {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+}
+
 
 
 
