@@ -96,14 +96,17 @@
     });
   </script>
 
+  <!-- Script du fond retardé pour éviter les conflits avec Statcounter -->
   <script>
-    const hour = new Date().getHours();
-    const fond = hour < 12 ? 'brume2.png' : 'brume.png';
-    const body = document.body;
+    window.addEventListener("load", function() {
+      const hour = new Date().getHours();
+      const fond = hour < 12 ? 'brume2.png' : 'brume.png';
+      const body = document.body;
 
-    if (!body.classList.contains('presentation-terrier')) {
-      body.style.backgroundImage = `url('/images/${fond}')`;
-    }
+      if (!body.classList.contains('presentation-terrier')) {
+        body.style.backgroundImage = `url('/images/${fond}')`;
+      }
+    });
   </script>
 
 </body>
