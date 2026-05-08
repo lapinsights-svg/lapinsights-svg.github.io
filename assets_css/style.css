@@ -1695,12 +1695,12 @@ Lapin retour salle echo
   .newsletter-video {
     max-width: 100%;
     width: 100%;
-    padding: 0;
+    flex: none; /* empêche la compression */
   }
 
   .newsletter-video video {
-    width: 100%;
-    height: auto;
+    width: 100% !important;
+    height: auto !important;
   }
 }
 
@@ -1724,7 +1724,6 @@ Lapin retour salle echo
     border-radius: 10px;
   }
 }
-
 
 
 
