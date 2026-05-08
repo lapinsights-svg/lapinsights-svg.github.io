@@ -1723,7 +1723,7 @@ Lapin retour salle echo
      CONTENEUR VIDÉO RÉDUIT (la vraie solution)
      ———————————————————————————————— */
   .newsletter-video {
-    width: 94vw;                 /* ← réduit réellement la largeur */
+    width: 96vw;                 /* ← réduit réellement la largeur */
     margin-left: 50%;
     transform: translateX(-50%);
     max-width: none;
