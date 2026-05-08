@@ -51,43 +51,43 @@ collections:
     feed: true
     permalink: /vibrations/:title/
 
-# Layouts + Images OG par défaut
+# Layouts + Images OG par défaut (compatibles jekyll-seo-tag)
 defaults:
   - scope:
       path: "_actualites"
     values:
       layout: article
-      og_image: /images/og-actualites.png
+      image: /images/og-actualites.png
 
   - scope:
       path: "_creations"
     values:
       layout: article
-      og_image: /images/og-creations.png
+      image: /images/og-creations.png
 
   - scope:
       path: "_idees"
     values:
       layout: article
-      og_image: /images/og-idees.png
+      image: /images/og-idees.png
 
   - scope:
       path: "_spiritualite"
     values:
       layout: article
-      og_image: /images/og-spiritualite.png
+      image: /images/og-spiritualite.png
 
   - scope:
       path: "_passe"
     values:
       layout: article
-      og_image: /images/og-passe.png
+      image: /images/og-passe.png
 
   - scope:
       path: "_vibrations"
     values:
       layout: article
-      og_image: /images/og-vibrations.png
+      image: /images/og-vibrations.png
 
   - scope:
       path: ""
