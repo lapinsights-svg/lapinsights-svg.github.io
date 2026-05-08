@@ -1,6 +1,6 @@
 ---
 title: "Tu attires ce que tu vibres"
-date: 2026-05-06
+date: 2026-05-08
 categories: spiritualite
 layout: article
 resume: "Ratiboisage des phrases pseudo‑spirituelles — épisode II"
