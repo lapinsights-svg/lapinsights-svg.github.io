@@ -8,6 +8,15 @@
 
 <body class="{{ page.class }}">
 
+  <!-- Statcounter placé en tête du body pour éviter les conflits DOM -->
+  <script>
+    var sc_project = 13213092;
+    var sc_invisible = 1;
+    var sc_security = "a6e8d30c";
+  </script>
+  <script async src="https://www.statcounter.com/counter/counter.js"></script>
+  <noscript><div class="statcounter"></div></noscript>
+
   {%- unless page.class == "echos" -%}
     <header class="site-header">
       {% include header.html %}
@@ -86,14 +95,6 @@
       });
     });
   </script>
-
-  <script>
-    var sc_project = 13213092;
-    var sc_invisible = 1;
-    var sc_security = "a6e8d30c";
-  </script>
-  <script async src="https://www.statcounter.com/counter/counter.js"></script>
-  <noscript><div class="statcounter"></div></noscript>
 
   <script>
     const hour = new Date().getHours();
