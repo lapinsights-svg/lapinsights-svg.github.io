@@ -1705,28 +1705,28 @@ Lapin retour salle echo
    ———————————————————————————————— */
 @media (max-width: 600px) {
 
-  /* Le layout passe en colonne */
   .newsletter-layout {
     flex-direction: column;
     gap: 2rem;
     padding: 1.5rem 1rem;
   }
 
-  /* Le texte reste normal */
   .newsletter-texte {
     width: 100%;
     max-width: 100%;
+    font-size: 1rem;
+    line-height: 1.55;
   }
 
   /* ————————————————————————————————
-     VIDÉO PLUS LARGE QUE LE TEXTE
+     VIDÉO PLUS LARGE (ajustée de 2 cm)
      ———————————————————————————————— */
   .newsletter-video {
-    width: 100vw;                 /* pleine largeur de l’écran */
-    margin-left: 50%;             /* centrage */
-    transform: translateX(-50%);  /* centrage */
-    max-width: none;              /* supprime la limite desktop */
-    padding-bottom: 4rem;         /* évite le recouvrement du footer */
+    width: calc(100vw - 2rem);   /* ← réduit légèrement la largeur */
+    margin-left: 50%;
+    transform: translateX(-50%);
+    max-width: none;
+    padding-bottom: 4rem;        /* évite le recouvrement du footer */
   }
 
   /* ————————————————————————————————
@@ -1734,18 +1734,13 @@ Lapin retour salle echo
      ———————————————————————————————— */
   .newsletter-video video {
     width: 100%;
-    aspect-ratio: 4 / 5;          /* plus vertical, plus immersif */
+    aspect-ratio: 4 / 5;         /* vertical, immersif */
     object-fit: cover;
     border-radius: 12px;
   }
 
-  /* Le footer ne recouvre plus la vidéo */
+  /* Footer non fixe */
   .footer-fixed {
     position: static !important;
-  }
-
-  .newsletter-texte {
-    font-size: 1rem;
-    line-height: 1.55;
   }
 }
