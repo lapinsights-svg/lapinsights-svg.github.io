@@ -1722,7 +1722,7 @@ Lapin retour salle echo
      VIDÉO PLUS LARGE (ajustée de 2 cm)
      ———————————————————————————————— */
   .newsletter-video {
-    width: calc(100vw - 2rem);   /* ← réduit légèrement la largeur */
+    width: calc(100vw - 4rem);   /* ← réduit légèrement la largeur */
     margin-left: 50%;
     transform: translateX(-50%);
     max-width: none;
