@@ -6,7 +6,7 @@
   color-scheme: dark;
 
   /* FOND DU BLOC COMMENTAIRE */
- --color-canvas-default: #d4c09b;
+ --color-canvas-default: #ebdfca;
 
   /* ZONE DE SAISIE — lisibilité améliorée */
   --color-canvas-subtle: rgba(0, 0, 0, 0.22); /* fond plus sombre = texte plus lisible */
