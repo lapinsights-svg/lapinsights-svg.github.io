@@ -1669,11 +1669,16 @@ Lapin retour salle echo
   max-width: 600px;
 }
 
+/* ————————————————————————————————
+   VIDÉO AVEC RATIO (plus grande)
+   ———————————————————————————————— */
 .newsletter-video video {
   width: 100%;
+  aspect-ratio: 16 / 9; /* ← Donne une vraie hauteur */
   height: auto;
   border-radius: 12px;
   display: block;
+  object-fit: cover; /* ← Remplit l’espace sans déformation */
 }
 
 /* ————————————————————————————————
@@ -1693,11 +1698,6 @@ Lapin retour salle echo
     max-width: 100%;
     flex: none;
   }
-
-  .newsletter-video video {
-    width: 100% !important;
-    height: auto !important;
-  }
 }
 
 /* ————————————————————————————————
@@ -1710,7 +1710,7 @@ Lapin retour salle echo
     padding-bottom: 4rem;
   }
 
-  /* Désactive le footer fixe */
+  /* Footer non fixe sur mobile */
   .footer-fixed {
     position: static !important;
   }
@@ -1724,5 +1724,12 @@ Lapin retour salle echo
     font-size: 1rem;
     line-height: 1.55;
   }
+
+  /* Vidéo plus grande sur mobile */
+  .newsletter-video video {
+    aspect-ratio: 4 / 5; /* ← Plus vertical, plus immersif */
+    object-fit: cover;
+  }
 }
+
 
