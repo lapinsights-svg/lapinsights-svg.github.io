@@ -3,10 +3,12 @@ title: "Tu attires ce que tu vibres"
 date: 2026-05-06
 categories: spiritualite
 layout: article
+resume: "Ratiboisage des phrases pseudo‑spirituelles — épisode II"
 og_image: /images/spiritualite/vibre.png
 ---
-
 ![vibre](/images/spiritualite/vibre.png)
+
+**« Tu attires ce que tu vibres »** — voilà la phrase‑totem de ce deuxième épisode du ratiboisage spirituel.  
 
 Dire « tu attires ce que tu vibres » est une manière élégante d’effacer le monde.  
 Une phrase‑paravent qui recouvre la complexité sous un vernis énergétique, comme si les structures, les rapports de force et les héritages psychiques n’avaient plus de poids.
