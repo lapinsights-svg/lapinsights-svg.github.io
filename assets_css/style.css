@@ -1705,9 +1705,9 @@ Lapin retour salle echo
    ———————————————————————————————— */
 @media (max-width: 600px) {
 
+  /* Libère le parent */
   .newsletter-layout {
-    flex-direction: column;
-    gap: 2rem;
+    display: block;
     padding: 1.5rem 1rem;
   }
 
@@ -1716,17 +1716,18 @@ Lapin retour salle echo
     max-width: 100%;
     font-size: 1rem;
     line-height: 1.55;
+    margin-bottom: 2rem;
   }
 
   /* ————————————————————————————————
-     VIDÉO PLUS LARGE (ajustée de 2 cm)
+     CONTENEUR VIDÉO RÉDUIT (la vraie solution)
      ———————————————————————————————— */
   .newsletter-video {
-    width: calc(100vw - 4rem);   /* ← réduit légèrement la largeur */
+    width: 90vw;                 /* ← réduit réellement la largeur */
     margin-left: 50%;
     transform: translateX(-50%);
     max-width: none;
-    padding-bottom: 4rem;        /* évite le recouvrement du footer */
+    padding-bottom: 4rem;
   }
 
   /* ————————————————————————————————
@@ -1734,7 +1735,7 @@ Lapin retour salle echo
      ———————————————————————————————— */
   .newsletter-video video {
     width: 100%;
-    aspect-ratio: 4 / 5;         /* vertical, immersif */
+    aspect-ratio: 4 / 5;
     object-fit: cover;
     border-radius: 12px;
   }
