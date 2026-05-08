@@ -1758,19 +1758,23 @@ Lapin retour salle echo
     padding: 1.5rem 1rem;
   }
 
-  /* Conteneur vidéo élargi mais sans toucher les bords */
+  /* ————————————————————————————————
+     CONTENEUR VIDÉO — plus large de 7 mm
+     ———————————————————————————————— */
   .page-video-terrier .video-wrapper {
-    width: 94vw;                 /* ← plus large, mais encore respirant */
+    width: 96vw;                 /* ← +7 mm environ par rapport à 94vw */
     margin-left: 50%;
     transform: translateX(-50%);
     max-width: none;
-    padding-bottom: 4rem;        /* évite le recouvrement du footer */
+    padding-bottom: 4rem;
   }
 
-  /* Vidéo plus haute et immersive */
+  /* ————————————————————————————————
+     VIDÉO — plus haute de ~2 cm
+     ———————————————————————————————— */
   .page-video-terrier video {
     width: 100%;
-    aspect-ratio: 4 / 5;         /* ← plus vertical, plus présent */
+    aspect-ratio: 4 / 4.3;       /* ← plus vertical que 4/5 → +2 cm visuels */
     object-fit: cover;
     border-radius: 12px;
     display: block;
