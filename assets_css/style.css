@@ -1651,7 +1651,7 @@ Lapin retour salle echo
 }
 
 /* ————————————————————————————————
-   COLONNE TEXTE
+   COLONNE TEXTE (desktop)
    ———————————————————————————————— */
 .newsletter-texte {
   flex: 1 1 600px;
@@ -1661,24 +1661,19 @@ Lapin retour salle echo
 }
 
 /* ————————————————————————————————
-   COLONNE VIDÉO
+   COLONNE VIDÉO (desktop)
    ———————————————————————————————— */
 .newsletter-video {
-  flex: none;
-  width: 100%;
+  flex: 1 1 600px;
   max-width: 600px;
 }
 
-/* ————————————————————————————————
-   VIDÉO AVEC RATIO (plus grande)
-   ———————————————————————————————— */
 .newsletter-video video {
   width: 100%;
-  aspect-ratio: 16 / 9; /* ← Donne une vraie hauteur */
   height: auto;
   border-radius: 12px;
   display: block;
-  object-fit: cover; /* ← Remplit l’espace sans déformation */
+  object-fit: cover;
 }
 
 /* ————————————————————————————————
@@ -1698,6 +1693,11 @@ Lapin retour salle echo
     max-width: 100%;
     flex: none;
   }
+
+  .newsletter-video video {
+    width: 100%;
+    height: auto;
+  }
 }
 
 /* ————————————————————————————————
@@ -1705,31 +1705,47 @@ Lapin retour salle echo
    ———————————————————————————————— */
 @media (max-width: 600px) {
 
-  /* Empêche la vidéo d’être cachée par le footer */
-  .newsletter-video {
-    padding-bottom: 4rem;
+  /* Le layout passe en colonne */
+  .newsletter-layout {
+    flex-direction: column;
+    gap: 2rem;
+    padding: 1.5rem 1rem;
   }
 
-  /* Footer non fixe sur mobile */
+  /* Le texte reste normal */
+  .newsletter-texte {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  /* ————————————————————————————————
+     VIDÉO PLUS LARGE QUE LE TEXTE
+     ———————————————————————————————— */
+  .newsletter-video {
+    width: 100vw;                 /* pleine largeur de l’écran */
+    margin-left: 50%;             /* centrage */
+    transform: translateX(-50%);  /* centrage */
+    max-width: none;              /* supprime la limite desktop */
+    padding-bottom: 4rem;         /* évite le recouvrement du footer */
+  }
+
+  /* ————————————————————————————————
+     VIDÉO PLUS HAUTE
+     ———————————————————————————————— */
+  .newsletter-video video {
+    width: 100%;
+    aspect-ratio: 4 / 5;          /* plus vertical, plus immersif */
+    object-fit: cover;
+    border-radius: 12px;
+  }
+
+  /* Le footer ne recouvre plus la vidéo */
   .footer-fixed {
     position: static !important;
-  }
-
-  .newsletter-layout {
-    padding: 1.5rem 1rem;
-    gap: 2rem;
   }
 
   .newsletter-texte {
     font-size: 1rem;
     line-height: 1.55;
   }
-
-  /* Vidéo plus grande sur mobile */
-  .newsletter-video video {
-    aspect-ratio: 4 / 5; /* ← Plus vertical, plus immersif */
-    object-fit: cover;
-  }
 }
-
-
