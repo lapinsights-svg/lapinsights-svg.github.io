@@ -9,7 +9,7 @@ og_image: /images/actualites/FakeFight.png
 ![FakeFight](/images/actualites/FakeFight.png)
 
 
-# ✦ Le faux duel Carney / Trump
+# Le faux duel Carney / Trump
 
 Il existe des duels qui n’en sont pas. Des oppositions fabriquées pour donner forme à un monde qui se dérobe. Le récit contemporain adore les antagonismes :   
 ils simplifient, ils rassurent, ils offrent un théâtre. Le couple Carney / Trump est devenu l’un de ces duels imaginaires.  
