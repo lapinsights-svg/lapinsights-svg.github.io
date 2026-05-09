@@ -62,15 +62,13 @@ l’une qui frappe, l’autre qui amortit.
 Alors pourquoi certains le présentent comme un duel ?  
 Parce que le récit commun préfère les oppositions simples : elles rassurent, elles dramatisent, elles donnent un visage à ce qui n’est qu’une mécanique.  
 Le duel est une mise en scène commode : il transforme une dynamique structurelle en histoire compréhensible, partageable, monétisable.  
-Ce n’est pas un affrontement, mais un décor narratif.  
+Ce n’est pas un affrontement, mais un décor narratif.
 
 Dans l’histoire, il existe un mécanisme très simple :  
-**quand un acteur crée du chaos, un autre acteur peut en profiter pour renforcer des structures.**  
+**quand un acteur crée du chaos, un autre acteur peut en profiter pour renforcer des structures.**
 
 Dans un monde fracturé, ce ne sont pas les oppositions déclarées qui importent, mais les lignes de force invisibles.  
-Et parfois, les faux duels révèlent davantage que les vrais affrontements.  
+Et parfois, les faux duels révèlent davantage que les vrais affrontements.
 
+*Céleste R.*
 
-  
-
-Céleste R. 
