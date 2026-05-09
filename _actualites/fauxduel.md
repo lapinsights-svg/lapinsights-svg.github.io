@@ -39,7 +39,7 @@ Tous deux évoquent la recomposition mondiale.
 Tous deux critiquent l’ordre ancien.  
 Tous deux reconnaissent que l’Europe n’est plus centrale.
 
-Mais leurs objectifs semblent diverger. Je dis bien "semblent", car il est possible que Trump joue un rôle.
+Mais leurs objectifs semblent diverger. Je dis bien "semblent", car il est possible que Trump joue un rôle.* (voir note de bas de page)
 Trump dit vouloir un monde multipolaire dominé par les États‑Unis.  
 Carney veut un monde multipolaire stabilisé par des institutions.  
 Il mise sur des institutions transnationales, banques centrales, régulateurs et cadres financiers globaux, pour stabiliser un monde multipolaire.  
@@ -69,6 +69,14 @@ Dans l’histoire, il existe un mécanisme très simple :
 
 Dans un monde fracturé, ce ne sont pas les oppositions déclarées qui importent, mais les lignes de force invisibles.  
 Et parfois, les faux duels révèlent davantage que les vrais affrontements.
+
+---  
+
+
+* Possibilité 1 — Trump est sincère : il croit réellement combattre les institutions, mais ses ruptures finissent par renforcer les structures qu’il voulait affaiblir — un effet systémique, pas une intention.
+
+Possibilité 2 — Trump joue un rôle : : il performe la rupture pour des raisons politiques, et le système utilise cette rupture pour se consolider, sans que cela prouve une coordination avec les acteurs financiers.  
+
 
 *Céleste R.*
 
