@@ -77,7 +77,7 @@ Et parfois, les faux duels révèlent davantage que les vrais affrontements.
 * un effet systémique, pas une intention.
 
 * Possibilité 2 — Trump joue un rôle : il performe la rupture pour des raisons politiques, et le système utilise cette rupture pour se consolider,  
-et il y aurait donc une coordination avec les acteurs financiers.  
+et il y aurait donc une coordination avec les acteurs financiers.  A ce stade, cela reste une hypothèse.
 
 
 *Céleste R.*
