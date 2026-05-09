@@ -42,6 +42,7 @@ Tous deux reconnaissent que l’Europe n’est plus centrale.
 Mais leurs objectifs divergent radicalement.  
 Trump veut un monde multipolaire dominé par les États‑Unis.  
 Carney veut un monde multipolaire stabilisé par des institutions.  
+Il mise sur des institutions transnationales, banques centrales, régulateurs et cadres financiers globaux, pour stabiliser un monde multipolaire.  
 
 Et c’est précisément là que naît leur **complémentarité**.  
 Trump agit comme une force de rupture : il fracture, il déstabilise, il expose les failles du système.  
