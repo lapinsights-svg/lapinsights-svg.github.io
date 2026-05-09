@@ -51,10 +51,6 @@ L’un ouvre les brèches, l’autre construit les passerelles.
 L’un impose le rapport de force, l’autre organise la continuité.  
 Dans un monde en recomposition, ces deux dynamiques ne s’annulent pas : elles s’emboîtent.  
 
-Ils convergent sur la lecture du monde.  
-Ils divergent sur la manière de l’habiter.  
-Et c’est cette divergence même qui les rend fonctionnellement complémentaires.  
-
 Le duel est donc faux.  
 Ce n’est pas une guerre.  
 Ce n’est pas une alliance.  
