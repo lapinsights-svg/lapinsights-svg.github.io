@@ -33,7 +33,7 @@ La confusion naît ailleurs.
 Elle naît dans la manière dont certains commentateurs transforment un diagnostic technocratique en récit de guerre.  
 Quand la géopolitique est mise en scène, ce sont les antagonismes qui dominent, pas les architectures.  
 
-Pourtant, une autre vérité apparaît : la proximité apparente entre Carney et Trump ne relève pas de la complicité, mais du diagnostic qu'ils partagent.    
+Pourtant, Carney et Trump partagent le même diagnostic.  
 Tous deux parlent du déclin européen.  
 Tous deux évoquent la recomposition mondiale.  
 Tous deux critiquent l’ordre ancien.  
