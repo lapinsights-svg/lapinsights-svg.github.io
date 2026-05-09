@@ -75,7 +75,7 @@ Et parfois, les faux duels révèlent davantage que les vrais affrontements.
 
 * Possibilité 1 — Trump est sincère : il croit réellement combattre les institutions, mais ses ruptures finissent par renforcer les structures qu’il voulait affaiblir — un effet systémique, pas une intention.
 
-Possibilité 2 — Trump joue un rôle : : il performe la rupture pour des raisons politiques, et le système utilise cette rupture pour se consolider, sans que cela prouve une coordination avec les acteurs financiers.  
+* Possibilité 2 — Trump joue un rôle : : il performe la rupture pour des raisons politiques, et le système utilise cette rupture pour se consolider, sans que cela prouve une coordination avec les acteurs financiers.  
 
 
 *Céleste R.*
