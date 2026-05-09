@@ -11,7 +11,7 @@ og_image: /images/actualites/FakeFight.png
 
 # Le faux duel Carney / Trump
 
-Il existe des duels qui n’en sont pas. Des oppositions fabriquées pour donner forme à un monde qui se dérobe. Le récit contemporain adore les antagonismes :   
+Encore un duel qui n'en est pas un. Encore une opposition fabriquée pour donner forme à un monde qui se dérobe. Le récit contemporain adore les antagonismes :   
 ils simplifient, ils rassurent, ils offrent un théâtre. Le couple Carney / Trump est devenu l’un de ces duels imaginaires.  
   
 Dans un fragment circulant sur les réseaux [un réel relayé sur Facebook](https://www.facebook.com/reel/1491460569289974), Mark Carney apparaît comme l’architecte d’un contre‑pouvoir destiné à contenir l’Amérique de Donald Trump.  
