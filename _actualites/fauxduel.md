@@ -39,7 +39,7 @@ Tous deux évoquent la recomposition mondiale.
 Tous deux critiquent l’ordre ancien.  
 Tous deux reconnaissent que l’Europe n’est plus centrale.
 
-Mais leurs objectifs semblent diverger. Je dis bien "semblent", car il est possible que nous soyons dans un jeu de rôles.
+Mais leurs objectifs semblent diverger. Je dis bien "semblent", car il est possible que Trump joue un rôle.
 Trump dit vouloir un monde multipolaire dominé par les États‑Unis.  
 Carney veut un monde multipolaire stabilisé par des institutions.  
 Il mise sur des institutions transnationales, banques centrales, régulateurs et cadres financiers globaux, pour stabiliser un monde multipolaire.  
