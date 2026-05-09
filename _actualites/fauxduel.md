@@ -68,8 +68,13 @@ Parce que le récit commun préfère les oppositions simples : elles rassurent, 
 Le duel est une mise en scène commode : il transforme une dynamique structurelle en histoire compréhensible, partageable, monétisable.  
 Ce n’est pas un affrontement, mais un décor narratif.  
 
+Dans l’histoire, il existe un mécanisme très simple :  
+**quand un acteur crée du chaos, un autre acteur peut en profiter pour renforcer des structures.**  
+
 Dans un monde fracturé, ce ne sont pas les oppositions déclarées qui importent, mais les lignes de force invisibles.  
 Et parfois, les faux duels révèlent davantage que les vrais affrontements.  
+
+
   
 
 Céleste R. 
