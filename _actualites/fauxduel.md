@@ -31,7 +31,7 @@ Une contrainte structurelle.
 
 La confusion naît ailleurs.  
 Elle naît dans la manière dont certains commentateurs transforment un diagnostic technocratique en récit de guerre.  
-La géopolitique, lorsqu’elle devient spectacle, préfère les antagonismes aux architectures.  
+Quand la géopolitique est mise en scène, ce sont les antagonismes qui dominent, pas les architectures.  
 
 Pourtant, une autre vérité apparaît : la proximité apparente entre Carney et Trump ne relève pas de la complicité, mais du diagnostic qu'ils partagent.    
 Tous deux parlent du déclin européen.  
