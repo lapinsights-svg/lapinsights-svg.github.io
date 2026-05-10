@@ -33,7 +33,7 @@ une preuve qu’il reste quelque chose à réparer en soi.
 
 ---
 
-## La doctrine : Byron Katie et la négation du réel
+## La doctrine : Byron Katie et la négation du réel*
 
 Byron Katie enseigne que **la réalité ne fait jamais souffrir**.  
 Selon elle, seule la pensée “non examinée” fait souffrir.  
@@ -135,6 +135,9 @@ La douleur n’est pas une faute.
 Elle est une preuve de vie.  
 Et vouloir la réduire à un dysfonctionnement,  
 c’est vouloir réduire l’humain lui‑même.  
+  
 
-
+* Note — Je cite ici Byron Katie, mais cette logique traverse aussi d’autres pseudo‑spiritualités, comme Un Cours en Miracles.
+  
+  
   Céleste R.
