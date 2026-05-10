@@ -1798,54 +1798,45 @@ Lapin retour salle echo
   z-index: 9999;
 }
 
-/* CONTENEUR VIDÉO — réduit + limité en hauteur */
+/* VIDÉO PLUS GRANDE SUR PC */
 .echos .video-container {
   position: relative;
-  max-width: 700px;   /* réduit pour éviter qu’elle déborde */
-  width: 90%;
-  max-height: 80vh;   /* empêche la vidéo de dépasser l’écran */
-  overflow: hidden;   /* évite les débordements */
+  max-width: 1200px;   /* vidéo plus grande */
+  width: 95%;
+  max-height: 90vh;    /* empêche qu’elle soit coupée */
+  overflow: visible;   /* permet à la croix de dépasser */
 }
 
-/* VIDÉO — s’adapte à la hauteur */
+/* VIDÉO ADAPTÉE À L’ÉCRAN */
 .echos #video-presentation {
   width: 100%;
   height: auto;
-  max-height: 80vh;
+  max-height: 90vh;
   display: block;
 }
 
-/* CROIX — toujours visible */
+/* CROIX TOUJOURS VISIBLE — OPTION 2 */
 .echos .fermer-video {
   position: absolute;
-  top: -30px;         /* plus bas pour rester visible */
-  right: 0;
+  top: -10px;          /* visible même si la vidéo est grande */
+  right: -10px;
   background: none;
   border: none;
-  font-size: 2rem;
+  font-size: 2.4rem;
   color: white;
   cursor: pointer;
-  opacity: 0.7;
+  opacity: 0.85;
   transition: opacity 0.3s;
+
+  /* OPTION 2 : halo noir pour visibilité */
+  text-shadow:
+    0 0 4px black,
+    0 0 8px black,
+    0 0 12px black;
 }
 
 .echos .fermer-video:hover {
   opacity: 1;
-}
-
-/* ——— COULEUR DU LIEN VIDÉO ——— */
-.echos .lien-video {
-  font-size: 0.9rem;
-  color: #b0c7ff;      /* bleu clair minéral */
-  opacity: 0.85;
-  margin-left: 1rem;
-  text-decoration: none;
-  transition: opacity 0.3s, color 0.3s;
-}
-
-.echos .lien-video:hover {
-  opacity: 1;
-  color: #d8e4ff;      /* bleu encore plus clair au survol */
 }
 
 .echos .hidden {
