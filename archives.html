@@ -29,7 +29,11 @@ class: echos
         <select id="mois"></select>
       </div>
 
-      <div class="titre-archives">Salle des Échos</div>
+      <!-- TITRE + LIEN VIDÉO -->
+      <div class="titre-archives">
+        Salle des Échos
+        <a href="#" id="ouvrir-video" class="lien-video">Vidéo de présentation</a>
+      </div>
 
     </div>
 
@@ -39,6 +43,18 @@ class: echos
       <button id="reset-echos" class="btn-reset">Reset</button>
     </div>
 
+  </div>
+
+  <!-- OVERLAY VIDÉO -->
+  <div id="overlay-video" class="overlay-video hidden">
+    <div class="video-container">
+      <button id="fermer-video" class="fermer-video">✕</button>
+
+      <video id="video-presentation" controls autoplay>
+        <source src="/assets/videos/presentation-salle-echos.mp4" type="video/mp4">
+        Votre navigateur ne peut pas lire cette vidéo.
+      </video>
+    </div>
   </div>
 
   <div class="echos-contenu">
@@ -53,6 +69,32 @@ class: echos
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
+
+  /* ----------------------------------------------------
+     VIDÉO DE PRÉSENTATION
+  ---------------------------------------------------- */
+
+  const lienVideo = document.getElementById("ouvrir-video");
+  const overlayVideo = document.getElementById("overlay-video");
+  const fermerVideo = document.getElementById("fermer-video");
+  const video = document.getElementById("video-presentation");
+
+  if (lienVideo && overlayVideo && fermerVideo && video) {
+
+    // Ouvrir la vidéo
+    lienVideo.addEventListener("click", (e) => {
+      e.preventDefault();
+      overlayVideo.classList.remove("hidden");
+      video.currentTime = 0;
+      video.play();
+    });
+
+    // Fermer la vidéo
+    fermerVideo.addEventListener("click", () => {
+      video.pause();
+      overlayVideo.classList.add("hidden");
+    });
+  }
 
   /* ----------------------------------------------------
      1. Récupération des contenus depuis Jekyll
@@ -120,45 +162,46 @@ document.addEventListener("DOMContentLoaded", () => {
   /* ----------------------------------------------------
      5. Menus Année / Mois — VERSION ROBUSTE
   ---------------------------------------------------- */
-function remplirMenus() {
-  const selectAnnee = document.getElementById("annee");
-  const selectMois = document.getElementById("mois");
 
-  const annees = [...new Set(
-    echos.map(e => e.date.substring(0, 4))
-  )].sort((a, b) => b - a);
+  function remplirMenus() {
+    const selectAnnee = document.getElementById("annee");
+    const selectMois = document.getElementById("mois");
 
-  selectAnnee.innerHTML = '<option value="">—</option>';
-  annees.forEach(annee => {
-    const opt = document.createElement("option");
-    opt.value = annee;
-    opt.textContent = annee;
-    selectAnnee.appendChild(opt);
-  });
-
-  selectAnnee.addEventListener("change", () => {
-    const anneeChoisie = selectAnnee.value;
-
-    if (!anneeChoisie) {
-      selectMois.innerHTML = '<option value="">—</option>';
-      return;
-    }
-
-    const moisDisponibles = [...new Set(
-      echos
-        .filter(e => e.date.substring(0, 4) == anneeChoisie)
-        .map(e => parseInt(e.date.substring(5, 7), 10))
+    const annees = [...new Set(
+      echos.map(e => e.date.substring(0, 4))
     )].sort((a, b) => b - a);
 
-    selectMois.innerHTML = '<option value="">—</option>';
-    moisDisponibles.forEach(mois => {
+    selectAnnee.innerHTML = '<option value="">—</option>';
+    annees.forEach(annee => {
       const opt = document.createElement("option");
-      opt.value = mois;
-      opt.textContent = mois.toString().padStart(2, "0");
-      selectMois.appendChild(opt);
+      opt.value = annee;
+      opt.textContent = annee;
+      selectAnnee.appendChild(opt);
     });
-  });
-}
+
+    selectAnnee.addEventListener("change", () => {
+      const anneeChoisie = selectAnnee.value;
+
+      if (!anneeChoisie) {
+        selectMois.innerHTML = '<option value="">—</option>';
+        return;
+      }
+
+      const moisDisponibles = [...new Set(
+        echos
+          .filter(e => e.date.substring(0, 4) == anneeChoisie)
+          .map(e => parseInt(e.date.substring(5, 7), 10))
+      )].sort((a, b) => b - a);
+
+      selectMois.innerHTML = '<option value="">—</option>';
+      moisDisponibles.forEach(mois => {
+        const opt = document.createElement("option");
+        opt.value = mois;
+        opt.textContent = mois.toString().padStart(2, "0");
+        selectMois.appendChild(opt);
+      });
+    });
+  }
 
   remplirMenus();
 
@@ -166,11 +209,11 @@ function remplirMenus() {
      6. Filtrage temporel — VERSION ROBUSTE
   ---------------------------------------------------- */
 
- function filtrerParDate(annee, mois) {
-  const moisStr = String(mois).padStart(2, "0");
-  const prefix = `${annee}-${moisStr}`;
-  return echos.filter(echo => echo.date.startsWith(prefix));
-}
+  function filtrerParDate(annee, mois) {
+    const moisStr = String(mois).padStart(2, "0");
+    const prefix = `${annee}-${moisStr}`;
+    return echos.filter(echo => echo.date.startsWith(prefix));
+  }
 
   /* ----------------------------------------------------
      7. Réaction Année / Mois
