@@ -1839,6 +1839,7 @@ Lapin retour salle echo
   opacity: 1;
 }
 
+/* MASQUER / AFFICHER */
 .echos .hidden {
   display: none;
 }
