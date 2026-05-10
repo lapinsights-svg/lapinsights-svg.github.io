@@ -1798,15 +1798,27 @@ Lapin retour salle echo
   z-index: 9999;
 }
 
+/* CONTENEUR VIDÉO — réduit + limité en hauteur */
 .echos .video-container {
   position: relative;
-  max-width: 900px; /* Option 4 */
+  max-width: 700px;   /* réduit pour éviter qu’elle déborde */
   width: 90%;
+  max-height: 80vh;   /* empêche la vidéo de dépasser l’écran */
+  overflow: hidden;   /* évite les débordements */
 }
 
+/* VIDÉO — s’adapte à la hauteur */
+.echos #video-presentation {
+  width: 100%;
+  height: auto;
+  max-height: 80vh;
+  display: block;
+}
+
+/* CROIX — toujours visible */
 .echos .fermer-video {
   position: absolute;
-  top: -40px;
+  top: -30px;         /* plus bas pour rester visible */
   right: 0;
   background: none;
   border: none;
