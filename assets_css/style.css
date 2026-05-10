@@ -1814,6 +1814,19 @@ Lapin retour salle echo
   max-height: 90vh;
   display: block;
 }
+.echos .lien-video {
+  font-size: 0.9rem;
+  color: #b0c7ff !important;   /* bleu clair minéral */
+  opacity: 0.85;
+  margin-left: 0.6rem;         /* ajoute deux espaces visuels */
+  text-decoration: none;
+  transition: opacity 0.3s, color 0.3s;
+}
+
+.echos .lien-video:hover {
+  opacity: 1;
+  color: #d8e4ff !important;   /* bleu clair encore plus lumineux */
+}
 
 /* CROIX TOUJOURS VISIBLE — OPTION 2 */
 .echos .fermer-video {
