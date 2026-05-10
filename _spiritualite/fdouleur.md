@@ -1,9 +1,9 @@
 ---
-title: "Toute douleur révèle une blessure non guérie — ou l’art d’annuler l’humain"
-date: 2026-05-06
+title: "Toute douleur révèle une blessure non guérie"
+date: 2026-05-10
 layout: article
 categories: spiritualite
-resume: "Ratiboisage d’une pseudo‑sagesse hygiéniste : quand la douleur devient une faute."
+resume: "Ratiboisage de phrases pseudo‑spirituelles — épisode III"
 tags: [florilege, pseudo-sagesses, spiritualite]
 og_image: /images/spiritualite/douleur.png
 ---
@@ -11,7 +11,7 @@ og_image: /images/spiritualite/douleur.png
 ![douleur](/images/spiritualite/douleur.png)
 
 # Florilège de pseudo‑sagesses ratiboisées  
-## Fragment II — La douleur comme faute
+## Fragment III — La douleur comme faute
 
 Cela faisait un moment que j’avais envie de **ratiboiser cette phrase** — de la réduire à son squelette, de la mettre à nu, de la dépouiller de son aura pseudo‑sage pour regarder ce qu’elle contient réellement.  
 Certaines idées circulent comme des évidences, alors qu’elles sont des pièges.  
@@ -41,7 +41,7 @@ Donc si tu souffres, c’est que tu crois quelque chose de faux.
 Donc si tu souffres, c’est que tu n’es pas encore “guéri”.  
 Donc si tu souffres, c’est que tu résistes à la perfection de ce qui est.
 
-Quatre postulats, quatre effacements :
+Derrière cette doctrine, il y a quatre postulats, quatre effacements :
 
 1. La réalité est toujours parfaite.  
 2. La souffrance vient exclusivement de la pensée.  
@@ -95,7 +95,7 @@ Elle produit une impossibilité de relation :
 
 ## Une pensée qui protège celui qui la prononce
 
-Elle protège celui qui l’adopte.  
+Elle "protège" celui qui l’adopte.  
 Elle lui évite d’écouter, d’être touché, d’être affecté.  
 Elle lui permet de rester dans une lumière abstraite, loin du réel, loin de la chair, loin de la relation.  
 Elle transforme la souffrance de l’autre en exercice spirituel, pour ne pas avoir à la recevoir.
@@ -134,4 +134,7 @@ mais parce qu’on a été rejoint dans ce qui est vivant.
 La douleur n’est pas une faute.  
 Elle est une preuve de vie.  
 Et vouloir la réduire à un dysfonctionnement,  
-c’est vouloir réduire l’humain lui‑même.
+c’est vouloir réduire l’humain lui‑même.  
+
+
+  Céleste R.
