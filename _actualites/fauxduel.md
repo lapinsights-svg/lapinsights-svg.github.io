@@ -16,13 +16,13 @@ ils simplifient, ils rassurent, ils offrent un théâtre. Le couple Carney / Tru
   
 Dans un fragment circulant sur les réseaux [un réel relayé sur Facebook](https://www.facebook.com/reel/1491460569289974), Mark Carney apparaît comme l’architecte d’un contre‑pouvoir destiné à contenir l’Amérique de Donald Trump.  
 
-Mark Carney est l’un des architectes les plus influents du système financier mondial, devenu Premier ministre du Canada — et chaque mot qu’il prononce est un acte stratégique.  
+Mark Carney est l’un des architectes les plus influents du système financier mondial, devenu Premier ministre du Canada, et chaque mot qu’il prononce est un acte stratégique.  
   
   Le montage suggère une lutte, un affrontement idéologique, une bataille pour l’ordre mondial.  
   Pourtant, si l’on écoute les mots plutôt que la dramaturgie, une autre scène se dessine.  
   
 Carney ne parle pas contre Trump.  
-Il parle d’un monde où Trump existe — et où il faut composer avec lui.  
+Il parle d’un monde où Trump existe et où il faut composer avec lui.  
 Il ne cherche pas à l’arrêter.  
 Il cherche à stabiliser un système international fracturé, un système qui doit fonctionner avec Trump, avec Xi, avec Modi, avec les BRICS, avec les ruptures technologiques, avec la fin de l’hégémonie américaine classique.  
 Carney n’est pas dans la confrontation : il intègre Trump comme une variable du système.  
