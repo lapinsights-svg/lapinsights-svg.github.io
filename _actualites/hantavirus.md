@@ -53,7 +53,7 @@ Dans une déclaration récente, la ministre de la Santé a affirmé qu’il fall
   
 Or, les faits rapportés par la presse montrent une réalité très différente.  
 Selon *Le Figaro*, il n’y a **qu’un cas confirmé et un cas suspect** parmi les passagers américains rapatriés, sans aucune transmission secondaire documentée :  
-👉 [Lire l’article du Figaro](https://www.lefigaro.fr/international/en-direct-hantavirus-17-americains-rapatries-aux-etats-unis-un-cas-confirme-et-un-autre-suspecte-20260511?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook#11-05-2026-08-38-08)
+[Lire l’article du Figaro](https://www.lefigaro.fr/international/en-direct-hantavirus-17-americains-rapatries-aux-etats-unis-un-cas-confirme-et-un-autre-suspecte-20260511?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook#11-05-2026-08-38-08)
 
 **Une “chaîne” composée d’un seul maillon n’est pas une chaîne.**  
 C’est un événement isolé.  
@@ -76,7 +76,7 @@ Toujours selon *Le Figaro*, le gouvernement a publié un décret prévoyant des 
 
 Le passage du quotidien est explicite :  
 **« Afin de prévenir toute propagation de l’hantavirus sur le sol français, le gouvernement a publié un décret […] les cinq passagers français ont été immédiatement mis en quarantaine à l’hôpital Bichat. »**  
-👉 [Lire le passage dans l’article du Figaro](https://www.lefigaro.fr/international/en-direct-hantavirus-17-americains-rapatries-aux-etats-unis-un-cas-confirme-et-un-autre-suspecte-20260511?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook#11-05-2026-08-38-08)
+[Lire le passage dans l’article du Figaro](https://www.lefigaro.fr/international/en-direct-hantavirus-17-americains-rapatries-aux-etats-unis-un-cas-confirme-et-un-autre-suspecte-20260511?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook#11-05-2026-08-38-08)
 
 Le dispositif décrit — isolement hospitalier, quarantaine stricte, activation d’un protocole maximal — correspond à un virus respiratoire à propagation rapide.  
 Or l’hantavirus Andes :
