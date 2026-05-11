@@ -2,7 +2,10 @@
 title: "Hantavirus : le virus modeste et le récit démesuré"
 categories: actualites
 date: 2026-05-11
+og_image: /images/actualites/hantavirus.png
 ---
+
+![hantavirus](/images/actualites/hantavirus.png)
 
 # I. Le virus modeste et le récit démesuré
 
