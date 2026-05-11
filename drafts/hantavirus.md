@@ -16,9 +16,7 @@ Mais non : tout commence avec un récit.
 Le hantavirus Andes n’a rien d’un acteur principal. C’est un virus ancien, connu, limité. Il circule en Amérique du Sud depuis des décennies, se transmet surtout des rongeurs vers l’humain, et seulement dans des circonstances très particulières d’humain à humain : un contact rapproché, prolongé, en espace clos, au tout début de la fièvre. Rien à voir avec un virus respiratoire. Rien à voir avec un virus aéroporté. Rien à voir avec un virus à potentiel pandémique.
 
 Scientifiquement, le dossier est mince.  
-Mais médiatiquement, il est devenu massif.
-
-Et c’est là que l’histoire commence vraiment.
+Mais médiatiquement, il est devenu massif.  
 
 Depuis huit jours, quelque chose monte. Lentement d’abord, puis plus franchement. Une rumeur de gravité, un parfum de crise, un décor que l’on connaît trop bien. Les titres se durcissent, les directs se multiplient, les ministres se succèdent, les experts s’alignent, les images de laboratoire envahissent les écrans. Le vocabulaire se charge : “dégradation”, “rapatriement”, “mesures strictes”, “cas suspect”. Tout cela pour un virus qui, objectivement, ne menace pas la population.
 
