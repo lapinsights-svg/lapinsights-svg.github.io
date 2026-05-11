@@ -16,9 +16,13 @@ Mais non : tout commence avec un récit.
 Le hantavirus Andes n’a rien d’un acteur principal. C’est un virus ancien, connu, limité. Il circule en Amérique du Sud depuis des décennies, se transmet surtout des rongeurs vers l’humain, et seulement dans des circonstances très particulières d’humain à humain : un contact rapproché, prolongé, en espace clos, au tout début de la fièvre. Rien à voir avec un virus respiratoire. Rien à voir avec un virus aéroporté. Rien à voir avec un virus à potentiel pandémique.
 
 Scientifiquement, le dossier est mince.  
-Mais médiatiquement, il est devenu massif.  
+Mais médiatiquement, il est devenu massif.
 
-Depuis huit jours, quelque chose monte. Lentement d’abord, puis plus franchement. Une rumeur de gravité, un parfum de crise, un décor que l’on connaît trop bien. Les titres se durcissent, les directs se multiplient, les ministres se succèdent, les experts s’alignent, les images de laboratoire envahissent les écrans. Le vocabulaire se charge : “dégradation”, “rapatriement”, “mesures strictes”, “cas suspect”. Tout cela pour un virus qui, objectivement, ne menace pas la population.
+Et c’est là que l’histoire commence vraiment.
+
+Depuis une semaine, quelque chose monte. Lentement d’abord, puis plus franchement. Une rumeur de gravité, un parfum de crise, un décor que l’on connaît trop bien. Les titres se durcissent, les directs se multiplient, les ministres se succèdent, les experts s’alignent, les images de laboratoire envahissent les écrans. Le vocabulaire se charge : “dégradation”, “rapatriement”, “mesures strictes”, “cas suspect”. Tout cela pour un virus qui, objectivement, ne menace pas la population.
+
+Et pourtant, dès les premiers jours, la quasi‑totalité des scientifiques interrogés ont rappelé que le risque réel était faible, que la transmission était limitée et que le scénario d’une diffusion large n’était pas plausible.
 
 Ce n’est pas le virus qui enfle.  
 C’est le récit.
@@ -31,9 +35,11 @@ Il ressemble à une mise en scène.
 Une montée progressive, coordonnée, disproportionnée. Une orchestration où chaque acteur — médias, ministres, experts — joue sa partition avec une synchronisation trop parfaite pour être innocente. Une réactivation émotionnelle qui convoque, sans le dire, le fantôme de 2020. Comme si l’on savait exactement quels leviers toucher pour réveiller un traumatisme collectif encore tiède sous la peau.
 
 Et surtout : **les médias n’amplifient jamais seuls. Ils amplifient ce que le politique laisse flotter.**  
-Ce n’est pas une stratégie explicite, mais une mécanique :  
-si le pouvoir voulait calmer le jeu, **les médias ne pourraient pas produire en dix jours une telle intensité narrative**.  
+Ce n’est pas une stratégie explicite, mais une mécanique.  
+Si le pouvoir avait voulu calmer le jeu, **les médias n’auraient pas pu produire en dix jours une telle intensité narrative**.  
 Un emballement de cette ampleur n’existe que lorsque le politique laisse l’espace ouvert — volontairement ou non.
+
+Et mon petit doigt me dit que, si la séquence continue de s’emballer, **les voix scientifiques les plus prudentes seront bientôt reléguées au second plan** — non par censure, mais parce que le récit dominant n’a jamais beaucoup de place pour la nuance.
 
 Les intentions ne sont jamais écrites.  
 Mais les signaux, eux, sont visibles.
