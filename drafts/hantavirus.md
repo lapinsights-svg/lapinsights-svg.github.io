@@ -39,12 +39,26 @@ Ce n’est pas une stratégie explicite, mais une mécanique.
 Si le pouvoir avait voulu calmer le jeu, **les médias n’auraient pas pu produire en dix jours une telle intensité narrative**.  
 Un emballement de cette ampleur n’existe que lorsque le politique laisse l’espace ouvert — volontairement ou non.
 
-Et mon petit doigt me dit que, si la séquence continue de s’emballer, **les voix scientifiques les plus prudentes seront bientôt reléguées au second plan** , parce que le récit dominant n’a jamais beaucoup de place pour la nuance.
+Et mon petit doigt me dit que, si la séquence continue de s’emballer, **les voix scientifiques les plus prudentes seront bientôt reléguées au second plan** — non par censure, mais parce que le récit dominant n’a jamais beaucoup de place pour la nuance.
 
 Les intentions ne sont jamais écrites.  
 Mais les signaux, eux, sont visibles.
 
 Et ils pointent tous dans la même direction : la crise n’est pas biologique, elle est narrative.
+
+# Quand le discours politique s’emballe plus vite que les faits
+
+Dans une déclaration récente, la ministre de la Santé a affirmé qu’il fallait  
+**« casser les chaînes de transmission de l’hantavirus dès le début »**.
+
+Or, les faits rapportés par la presse montrent une réalité très différente.  
+Selon *Le Figaro*, il n’y a **qu’un cas confirmé et un cas suspect** parmi les passagers américains rapatriés, sans aucune transmission secondaire documentée :  
+👉 [Lire l’article du Figaro](https://www.lefigaro.fr/international/en-direct-hantavirus-17-americains-rapatries-aux-etats-unis-un-cas-confirme-et-un-autre-suspecte-20260511?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook)
+
+**Une “chaîne” composée d’un seul maillon n’est pas une chaîne.**  
+C’est un événement isolé.
+
+Le vocabulaire employé — “chaînes”, “mesures très strictes”, “protéger les Français” — relève davantage d’un langage de crise préformaté que d’une description fidèle de la situation épidémiologique.
 
 # Le véritable risque n'est pas sanitaire, mais politique
 
