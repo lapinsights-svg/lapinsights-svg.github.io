@@ -8,7 +8,7 @@ og_image: /images/actualites/hantavirus.png
 
 ![hantavirus](/images/actualites/hantavirus.png)
 
-# I. Le virus modeste et le récit démesuré
+# Le virus modeste et le récit démesuré
 
 On pourrait croire que tout commence avec un virus.  
 Mais non : tout commence avec un récit.
@@ -25,15 +25,14 @@ Depuis deux semaines, quelque chose monte. Lentement d’abord, puis plus franch
 Ce n’est pas le virus qui enfle.  
 C’est le récit.
 
-# II. La montée narrative : lente, coordonnée, disproportionnée
+# La montée narrative : lente, coordonnée, disproportionnée
 
 Ce récit ne ressemble pas à une information neutre.  
 Il ressemble à une mise en scène.
 
 Une montée progressive, coordonnée, disproportionnée. Une orchestration où chaque acteur — médias, ministres, experts — joue sa partition avec une synchronisation trop parfaite pour être innocente. Une réactivation émotionnelle qui convoque, sans le dire, le fantôme de 2020. Comme si l’on savait exactement quels leviers toucher pour réveiller un traumatisme collectif encore tiède sous la peau.
 
-Je ne dis pas que l’on invente une pandémie.  
-Je dis que l’on sait très bien amplifier des signaux faibles pour créer un climat.
+Les autorités politiques savent très bien amplifier des signaux faibles pour créer un climat.
 
 L’histoire récente l’a montré : un gouvernement n’a pas besoin d’un virus dangereux pour installer une atmosphère de gravité. Il lui suffit d’un récit. Et ce récit peut servir à beaucoup de choses : détourner l’attention, occuper l’espace médiatique, éviter un débat essentiel, retarder une annonce impopulaire, repositionner le pouvoir en figure protectrice.
 
@@ -42,7 +41,7 @@ Mais les signaux, eux, sont visibles.
 
 Et ils pointent tous dans la même direction : la crise n’est pas biologique, elle est narrative.
 
-# III. Le véritable risque : non pas sanitaire, mais politique
+# Le véritable risque n'est pas sanitaire, mais politique
 
 Ce qui se joue ici n’est pas une menace sanitaire.  
 C’est une menace politique.
@@ -60,4 +59,6 @@ C’est la coordination.
 C’est la montée progressive.  
 C’est la réactivation émotionnelle d’un traumatisme collectif.
 
-Et en politique, une montée aussi nette n’est jamais innocente.
+Et en politique, une montée aussi nette n’est jamais innocente.  
+
+  Céleste R.
