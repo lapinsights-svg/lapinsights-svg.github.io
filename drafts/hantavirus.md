@@ -39,7 +39,7 @@ Ce n’est pas une stratégie explicite, mais une mécanique.
 Si le pouvoir avait voulu calmer le jeu, **les médias n’auraient pas pu produire en dix jours une telle intensité narrative**.  
 Un emballement de cette ampleur n’existe que lorsque le politique laisse l’espace ouvert — volontairement ou non.
 
-Et mon petit doigt me dit que, si la séquence continue de s’emballer, **les voix scientifiques les plus prudentes seront bientôt reléguées au second plan** — non par censure, mais parce que le récit dominant n’a jamais beaucoup de place pour la nuance.
+Et mon petit doigt me dit que, si la séquence continue de s’emballer, **les voix scientifiques les plus prudentes seront bientôt reléguées au second plan** , parce que le récit dominant n’a jamais beaucoup de place pour la nuance.
 
 Les intentions ne sont jamais écrites.  
 Mais les signaux, eux, sont visibles.
