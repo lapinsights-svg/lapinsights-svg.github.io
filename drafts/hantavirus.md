@@ -20,45 +20,76 @@ Mais médiatiquement, il est devenu massif.
 
 Et c’est là que l’histoire commence vraiment.
 
-Depuis une semaine, quelque chose monte. Lentement d’abord, puis plus franchement. Une rumeur de gravité, un parfum de crise, un décor que l’on connaît trop bien. Les titres se durcissent, les directs se multiplient, les ministres se succèdent, les experts s’alignent, les images de laboratoire envahissent les écrans. Le vocabulaire se charge : “dégradation”, “rapatriement”, “mesures strictes”, “cas suspect”. Tout cela pour un virus qui, objectivement, ne menace pas la population.
+Depuis une semaine, quelque chose monte. Lentement d’abord, puis plus franchement. Une rumeur de gravité, un parfum de crise, un décor que l’on connaît trop bien. Les titres se durcissent, les directs se multiplient, les ministres se succèdent, les experts s’alignent, les images de laboratoire envahissent les écrans. Le vocabulaire se charge :  “dégradation”, “rapatriement”, “mesures strictes”, “cas suspect”. Tout cela pour un virus qui, objectivement, ne menace pas la population.  
 
-Et pourtant, dès les premiers jours, la quasi‑totalité des scientifiques interrogés ont rappelé que le risque réel était faible, que la transmission était limitée et que le scénario d’une diffusion large n’était pas plausible.
+Et pourtant, dès les premiers jours, la quasi‑totalité des scientifiques interrogés ont rappelé que le risque réel était faible, que la transmission était limitée et que le scénario d’une diffusion large n’était pas plausible.  
 
 Ce n’est pas le virus qui enfle.  
-C’est le récit.
+C’est le récit.  
 
-# La montée narrative : lente, coordonnée, disproportionnée
+# La montée narrative : lente, coordonnée, disproportionnée  
 
 Ce récit ne ressemble pas à une information neutre.  
-Il ressemble à une mise en scène.
+Il ressemble à une mise en scène.  
 
-Une montée progressive, coordonnée, disproportionnée. Une orchestration où chaque acteur — médias, ministres, experts — joue sa partition avec une synchronisation trop parfaite pour être innocente. Une réactivation émotionnelle qui convoque, sans le dire, le fantôme de 2020. Comme si l’on savait exactement quels leviers toucher pour réveiller un traumatisme collectif encore tiède sous la peau.
+Une montée progressive, coordonnée, disproportionnée. Une orchestration où chaque acteur — médias, ministres, experts — joue sa partition avec une synchronisation trop parfaite pour être innocente. Une réactivation émotionnelle qui convoque, sans le dire, le fantôme de 2020. Comme si l’on savait exactement quels leviers toucher pour réveiller un traumatisme collectif encore tiède sous la peau.  
 
 Et surtout : **les médias n’amplifient jamais seuls. Ils amplifient ce que le politique laisse flotter.**  
 Ce n’est pas une stratégie explicite, mais une mécanique.  
 Si le pouvoir avait voulu calmer le jeu, **les médias n’auraient pas pu produire en dix jours une telle intensité narrative**.  
-Un emballement de cette ampleur n’existe que lorsque le politique laisse l’espace ouvert — volontairement ou non.
+Un emballement de cette ampleur n’existe que lorsque le politique laisse l’espace ouvert — volontairement ou non.  
 
-Et mon petit doigt me dit que, si la séquence continue de s’emballer, **les voix scientifiques les plus prudentes seront bientôt reléguées au second plan** — non par censure, mais parce que le récit dominant n’a jamais beaucoup de place pour la nuance.
+Et mon petit doigt me dit que, si la séquence continue de s’emballer, **les voix scientifiques les plus prudentes seront bientôt reléguées au second plan** — non par censure, mais parce que le récit dominant n’a jamais beaucoup de place pour la nuance.  
 
 Les intentions ne sont jamais écrites.  
-Mais les signaux, eux, sont visibles.
+Mais les signaux, eux, sont visibles.  
 
-Et ils pointent tous dans la même direction : la crise n’est pas biologique, elle est narrative.
+Et ils pointent tous dans la même direction : la crise n’est pas biologique, elle est narrative.  
 
-# Quand le discours politique s’emballe plus vite que les faits
+# Quand le discours politique s’emballe plus vite que les faits  
 
-Dans une déclaration récente, la ministre de la Santé a affirmé qu’il fallait  
-**« casser les chaînes de transmission de l’hantavirus dès le début »**.
-
+Dans une déclaration récente, la ministre de la Santé a affirmé qu’il fallait   
+**« casser les chaînes de transmission de l’hantavirus dès le début »**.  
+  
 Or, les faits rapportés par la presse montrent une réalité très différente.  
 Selon *Le Figaro*, il n’y a **qu’un cas confirmé et un cas suspect** parmi les passagers américains rapatriés, sans aucune transmission secondaire documentée :  
-👉 [Lire l’article du Figaro](https://www.lefigaro.fr/international/en-direct-hantavirus-17-americains-rapatries-aux-etats-unis-un-cas-confirme-et-un-autre-suspecte-20260511?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook)
+👉 [Lire l’article du Figaro](https://www.lefigaro.fr/international/en-direct-hantavirus-17-americains-rapatries-aux-etats-unis-un-cas-confirme-et-un-autre-suspecte-20260511?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook#11-05-2026-08-38-08)
 
 **Une “chaîne” composée d’un seul maillon n’est pas une chaîne.**  
+C’est un événement isolé.  
+
+Et il faut le rappeler clairement :  
+**des cas contacts ne forment pas une chaîne de transmission.**  
+Ils ne sont qu’un périmètre de surveillance, pas une dynamique épidémiologique.  
+  
+Le vocabulaire employé — “chaînes”, “mesures très strictes”, “protéger les Français” — relève davantage d’un langage de crise préformaté que d’une description fidèle de la situation épidémiologique.  
+
+# Quand le dispositif devient plus large que les faits  
+
+L’ampleur des mesures annoncées confirme ce décalage.  
+Toujours selon *Le Figaro*, le gouvernement a publié un décret prévoyant des mesures « très strictes » pour prévenir une « propagation » de l’hantavirus, alors même que :
+
+- cinq Français seulement ont été rapatriés,  
+- un seul présente des symptômes,  
+- aucune transmission secondaire n’a été documentée,  
+- et le virus ne circule pas sur le territoire.
+
+Le passage du quotidien est explicite :  
+**« Afin de prévenir toute propagation de l’hantavirus sur le sol français, le gouvernement a publié un décret […] les cinq passagers français ont été immédiatement mis en quarantaine à l’hôpital Bichat. »**  
+👉 [Lire le passage dans l’article du Figaro](https://www.lefigaro.fr/international/en-direct-hantavirus-17-americains-rapatries-aux-etats-unis-un-cas-confirme-et-un-autre-suspecte-20260511?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook#11-05-2026-08-38-08)
+
+Le dispositif décrit — isolement hospitalier, quarantaine stricte, activation d’un protocole maximal — correspond à un virus respiratoire à propagation rapide.  
+Or l’hantavirus Andes :
+
+- n’est pas respiratoire,  
+- ne se transmet pas par aérosols,  
+- ne circule pas en population,  
+- et ne crée pas de chaînes de transmission.
+
+**Une chaîne composée d’un seul maillon n’est pas une chaîne.**  
 C’est un événement isolé.
 
-Le vocabulaire employé — “chaînes”, “mesures très strictes”, “protéger les Français” — relève davantage d’un langage de crise préformaté que d’une description fidèle de la situation épidémiologique.
+Ce décalage entre les faits et le discours contribue à la montée narrative que l’on observe depuis une semaine.
 
 # Le véritable risque n'est pas sanitaire, mais politique
 
