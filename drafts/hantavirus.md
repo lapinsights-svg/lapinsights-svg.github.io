@@ -1,7 +1,7 @@
 ---
 title: "Hantavirus : le virus modeste et le récit démesuré"
 categories: actualites
-resume: "Un récit médiatique qui lui donne une ampleur qu’il n’a pas."
+resume: "Un virus limité, mais un récit amplifié par un écosystème politico‑médiatique."
 date: 2026-05-11
 og_image: /images/actualites/hantavirus.png
 ---
@@ -20,7 +20,7 @@ Mais médiatiquement, il est devenu massif.
 
 Et c’est là que l’histoire commence vraiment.
 
-Depuis deux semaines, quelque chose monte. Lentement d’abord, puis plus franchement. Une rumeur de gravité, un parfum de crise, un décor que l’on connaît trop bien. Les titres se durcissent, les directs se multiplient, les ministres se succèdent, les experts s’alignent, les images de laboratoire envahissent les écrans. Le vocabulaire se charge : “dégradation”, “rapatriement”, “mesures strictes”, “cas suspect”. Tout cela pour un virus qui, objectivement, ne menace pas la population.
+Depuis huit jours, quelque chose monte. Lentement d’abord, puis plus franchement. Une rumeur de gravité, un parfum de crise, un décor que l’on connaît trop bien. Les titres se durcissent, les directs se multiplient, les ministres se succèdent, les experts s’alignent, les images de laboratoire envahissent les écrans. Le vocabulaire se charge : “dégradation”, “rapatriement”, “mesures strictes”, “cas suspect”. Tout cela pour un virus qui, objectivement, ne menace pas la population.
 
 Ce n’est pas le virus qui enfle.  
 C’est le récit.
@@ -32,9 +32,10 @@ Il ressemble à une mise en scène.
 
 Une montée progressive, coordonnée, disproportionnée. Une orchestration où chaque acteur — médias, ministres, experts — joue sa partition avec une synchronisation trop parfaite pour être innocente. Une réactivation émotionnelle qui convoque, sans le dire, le fantôme de 2020. Comme si l’on savait exactement quels leviers toucher pour réveiller un traumatisme collectif encore tiède sous la peau.
 
-Les autorités politiques savent très bien amplifier des signaux faibles pour créer un climat.
-
-L’histoire récente l’a montré : un gouvernement n’a pas besoin d’un virus dangereux pour installer une atmosphère de gravité. Il lui suffit d’un récit. Et ce récit peut servir à beaucoup de choses : détourner l’attention, occuper l’espace médiatique, éviter un débat essentiel, retarder une annonce impopulaire, repositionner le pouvoir en figure protectrice.
+Et surtout : **les médias n’amplifient jamais seuls. Ils amplifient ce que le politique laisse flotter.**  
+Ce n’est pas une stratégie explicite, mais une mécanique :  
+si le pouvoir voulait calmer le jeu, **les médias ne pourraient pas produire en dix jours une telle intensité narrative**.  
+Un emballement de cette ampleur n’existe que lorsque le politique laisse l’espace ouvert — volontairement ou non.
 
 Les intentions ne sont jamais écrites.  
 Mais les signaux, eux, sont visibles.
@@ -57,8 +58,9 @@ Ce n’est pas le virus qui inquiète.
 C’est la disproportion.  
 C’est la coordination.  
 C’est la montée progressive.  
-C’est la réactivation émotionnelle d’un traumatisme collectif.
+C’est la réactivation émotionnelle d’un traumatisme collectif.  
+Et c’est cette **connivence tacite entre politique et médias**, ce glissement où chacun laisse l’autre amplifier, qui devrait retenir l’attention.
 
-Et en politique, une montée aussi nette n’est jamais innocente.  
+En politique, une montée aussi nette n’est jamais innocente.  
 
-  Céleste R.
+Céleste R.
