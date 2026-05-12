@@ -24,7 +24,7 @@ Deux vérités coexistent :
 
 ---
 
-# I — Le coût marginal : le point aveugle du débat
+# Le coût marginal : le point aveugle du débat
 
 On parle de “remplacement”, de “révolution”, de “productivité”.  
 Mais personne ne parle de **tokens**, de **GPU**, de **réentraînement**, de **sécurité**, de **conformité**, de **coût d’usage**.
@@ -35,7 +35,7 @@ Et une économie locative ne remplace jamais une économie productive.
 
 ---
 
-# II — Le coût réel d’un agent IA
+# Le coût réel d’un agent IA
 
 Un usage professionnel léger (100 requêtes/jour) coûte déjà **~536 $/an** en tokens.  
 Mais un agent IA “équivalent cadre” n’est pas léger.  
@@ -64,7 +64,7 @@ Elle est empêchée par la comptabilité.
 
 ---
 
-# III — Projection à cinq ans : l’humain se stabilise, l’IA explose
+# Projection à cinq ans : l’humain se stabilise, l’IA explose
 
 ### Humain  
 - Coût actuel : ~80 000 €  
@@ -79,11 +79,11 @@ Même si le prix du token baisse, le volume explose.
 La sécurité, la conformité et l’ingénierie augmentent.
 
 La courbe est ascendante, sans plateau.  
-Et encore : cela suppose que l’IA parvienne réellement à s’étendre — ce qui n’est pas garanti.
+Et encore : cela suppose que l’IA parvienne réellement à s’étendre, ce qui n’est pas garanti.
 
 ---
 
-# IV — Ce qui aura réellement lieu dans le privé
+# Ce qui aura réellement lieu dans le privé
 
 La dynamique économique dessine un paysage très différent des prophéties :
 
@@ -99,12 +99,12 @@ Parce que **personne ne peut payer** la version industrielle de cette révolutio
 
 ---
 
-# V — La vérité minérale
+# La vérité minérale
 
 Le *Figaro* demande :  
 “L’IA va-t-elle remplacer les cols blancs ?”
 
-La roche répond :  
+Le territoire répond :  
 **L’IA peut-elle économiquement remplacer les cols blancs ?**
 
 > **Non.  
@@ -121,7 +121,7 @@ Parce qu’elle est **trop chère pour exister**.
 
 ---
 
-# VI — La seconde lame : l’IA ne peut pas remplacer les humains… mais elle peut remplacer le marché
+# La seconde lame : l’IA ne peut pas remplacer les humains… mais elle peut remplacer le marché
 
 Voici la révélation froide :  
 **l’IA n’a pas besoin d’être rentable pour survivre.**
@@ -132,7 +132,7 @@ Elle a trouvé un autre écosystème :
 Ces derniers mois, OpenAI, Anthropic, Oracle, Microsoft se repositionnent comme **sous‑traitants du département de la Défense**.
 
 Le *New York Times* l’a documenté en avril 2024 :  
-👉 [Lire l’article du New York Times](https://www.nytimes.com/2024/04/18/technology/pentagon-artificial-intelligence-contracts.html)
+[Lire l’article du New York Times](https://www.nytimes.com/2024/04/18/technology/pentagon-artificial-intelligence-contracts.html)
 
 > *« The Pentagon is becoming one of the largest customers for generative AI tools. »*
 
@@ -141,9 +141,9 @@ Elle a un avenir budgétaire.
 
 ---
 
-# VII — Le marché se retire, l’État prend le relais
+# Le marché se retire, l’État prend le relais
 
-Le schéma est limpide :
+Le schéma est limpide et habituel :
 
 1. Le marché réalise que l’IA coûte trop cher.  
 2. Les investisseurs se retirent.  
@@ -158,9 +158,9 @@ C’est désormais le modèle de l’IA.
 
 ---
 
-# VIII — Une bulle virtuelle, mais une bulle d’État
+# Une bulle virtuelle, mais une bulle d’État
 
-L’IA est une bulle — mais une bulle **institutionnelle**.
+L’IA est une bulle, oui, mais une bulle **institutionnelle**.
 
 Elle repose sur trois illusions :
 
@@ -173,7 +173,7 @@ Une bulle d’État dure.
 
 ---
 
-# IX — L’Europe ne pourra pas suivre la trajectoire américaine
+# L’Europe ne pourra pas suivre la trajectoire américaine
 
 On pourrait croire que la France ou l’Union européenne pourraient, elles aussi, absorber une IA déficitaire en la transférant vers l’État.  
 C’est impossible.  
@@ -194,7 +194,7 @@ La conséquence est tellurique :
 
 ---
 
-# *Lapinsights — écrire dans la pierre ce que les bilans maquillent.*  
+# *Lapinsights — graver dans la pierre ce que les bilans maquillent.*  
   
 
 Céleste R.
