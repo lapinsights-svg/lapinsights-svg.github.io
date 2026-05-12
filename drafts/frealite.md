@@ -35,4 +35,6 @@ La réalité n’est pas un terrarium psychique où tu déplaces les pierres par
 Elle résiste, elle tranche, elle impose  et c’est cette résistance qui nous façonne.  
 La phrase, elle, sert surtout à dépolitiser la violence, à culpabiliser les fragiles, à blanchir les privilégiés.  
 Elle remplace le monde par une ambiance, et la lucidité par un décor.  
-**La pensée Bisounours, c’est l’opium des coachs.**
+**La pensée Bisounours, c’est l’opium des coachs.**  
+
+  Céleste R.
