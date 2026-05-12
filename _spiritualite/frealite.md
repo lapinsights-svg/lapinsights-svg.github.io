@@ -2,7 +2,7 @@
 title: "Tu crées ta réalité"
 slug: "tu-crees-ta-realite"
 categories: spiritualite
-collection: "Florilege des pseudo-sagesses ratiboisees"
+collection: "Florilege des pseudo-phrases spirituelles ratiboisees"
 tags: [florilege, pseudo-sagesses, spiritualite]
 og_image: /images/spiritualite/create.png
 ---
