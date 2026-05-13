@@ -28,7 +28,7 @@ Je vois les nuances, les sous‑entendus, les torsions, les micro‑agressions c
 Ce n’est pas une fuite.  
 C’est un geste de soin.
 
-Mon paysage intérieur est un territoire de strates.  
+Mon paysage intérieur est un territoire de nappes.  
 Des couches anciennes, lentes, qui gardent la mémoire.  
 Des couches plus fines, plus rapides, qui captent les signaux avant même que je ne les comprenne.  
 Des couches profondes, silencieuses, qui exigent la paix pour rester stables.  
