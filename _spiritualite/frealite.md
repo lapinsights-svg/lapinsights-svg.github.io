@@ -1,6 +1,7 @@
 ---
 title: "Tu crées ta réalité"
 date: 12-05-2026
+resume: "Ratiboisage de phrases pseudo‑spirituelles — épisode IV"
 slug: "tu-crees-ta-realite"
 categories: spiritualite
 collection: "Florilege des pseudo-phrases spirituelles ratiboisees"
