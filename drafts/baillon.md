@@ -1,6 +1,6 @@
 ---
 title: "Brèche sanitaire et silence démocratique"
-date: 2026-05-13
+date: 2026-05-14
 category: "Actualités"
 tags: ["santé publique", "libertés", "Europe", "analyse"]
 og_image: /images/actualites/baillon.png
