@@ -19,7 +19,7 @@ Sur les réseaux sociaux, où tout passe par l’écrit, où chaque phrase tombe
 
 Il m’arrive aussi d’ignorer. Certaines interactions restent en surface, glissent sur la couche supérieure, ne traversent pas mes couches internes. Elles ne vibrent pas assez fort pour atteindre mes strates intuitives, celles qui captent les signaux avant même que je ne les comprenne. Dans ces cas-là, je peux laisser passer, ne pas répondre, continuer ma route. Mais d’autres messages descendent trop vite, trop profondément. Ils touchent une couche sensible, un pli nerveux qui ne supporte pas la distorsion. Alors ignorer devient impossible.
 
-Il m’arrive alors de bloquer. Pas par impulsion, ni par fragilité, mais parce que certaines interactions heurtent trop fort mes couches internes. Un message toxique, une phrase mal lue, une torsion du sens crée une onde qui se propage dans mes strates et les fait vibrer de travers. Bloquer devient un réflexe de protection, un moyen d’interrompre la propagation avant qu’elle ne fissure quelque chose en profondeur. Ce geste peut ressembler à une fuite, mais il n’en a pas la nature.
+Il m’arrive alors de bloquer. Pas par impulsion, ni par fragilité, mais parce que certaines interactions heurtent trop fort mes couches internes. Un message toxique, une phrase mal lue, une malhonneteté intellectuelle, une torsion du sens crée une onde qui se propage dans mes strates et les fait vibrer de travers. Bloquer devient un réflexe de protection, un moyen d’interrompre la propagation avant qu’elle ne fissure quelque chose en profondeur. Ce geste peut ressembler à une fuite, mais il n’en a pas la nature.
 
 Une fuite, ce serait éviter quelque chose que je ne veux pas voir.  
 Mais ce n’est pas ce qui se passe.  
