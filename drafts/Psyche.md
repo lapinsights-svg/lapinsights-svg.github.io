@@ -42,4 +42,7 @@ Et sur les réseaux sociaux, ce ne sont pas seulement des échanges bancals : be
 Je ne suis pas faite pour les malentendus en chaîne ni pour les interactions toxiques qui prolifèrent en ligne. Je suis faite pour les conversations qui respectent la nuance, la profondeur, la cohérence, la clarté.
 
 Protéger mon espace n’est pas une fuite.  
-C’est préserver la géologie vivante de mon monde intérieur.
+C’est préserver la géologie vivante de mon monde intérieur.  
+
+
+Céleste R.
