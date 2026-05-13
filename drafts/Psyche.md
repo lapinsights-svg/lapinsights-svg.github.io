@@ -39,7 +39,7 @@ Je cherche naturellement la justesse. Pas pour avoir raison, mais pour que mes s
 
 Et sur les réseaux sociaux, ce ne sont pas seulement des échanges bancals : beaucoup sont toxiques, rapides, abrasifs, mal lus. Ignorer, pour moi, revient à laisser une perturbation s’enfoncer dans mes couches internes. Bloquer, au contraire, est un geste d’hygiène : je coupe la vibration, je restaure la stabilité.
 
-Je ne suis pas faite pour les malentendus en chaîne ni pour les interactions toxiques qui prolifèrent en ligne. Je suis faite pour les conversations qui respectent la nuance, la profondeur, la cohérence.
+Je ne suis pas faite pour les malentendus en chaîne ni pour les interactions toxiques qui prolifèrent en ligne. Je suis faite pour les conversations qui respectent la nuance, la profondeur, la cohérence, la clarté.
 
 Protéger mon espace n’est pas une fuite.  
 C’est préserver la géologie vivante de mon monde intérieur.
