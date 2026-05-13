@@ -84,7 +84,7 @@ Et les oasis peuvent être capturées.
 
 Le Cloud Act américain plane comme une chaleur blanche :  
 les données traitées par une entreprise américaine peuvent être réclamées par Washington (*CNIL*, *EDPS*).  
-L’Europe devient un territoire **transparent**, lisible par d’autres qu’elle-même.
+L’Europe devient un territoire **transparent**, lisible par d’autres qu’elle-même.  
 
 Ce n’est plus seulement une dépendance technologique.  
 C’est une dépendance **ontologique** :  
@@ -96,16 +96,12 @@ ne plus voir sans l’autre.
 
 ## Le risque : l’avancée silencieuse du sable
 
-Doit‑on prendre ce risque au sérieux ?  
-Les sources publiques montrent que oui — mais pas comme une menace spectaculaire.  
-Plutôt comme une **avancée du sable**, lente, régulière, presque imperceptible.
+Les sources publiques montrent que cette menace est sérieuse mais pas spectaculaire.   
+C'est comme une **avancée du sable**, lente, régulière, presque imperceptible.  
 
 Le danger n’a pas la forme d’un coup de force.  
 Il avance comme avancent les choses qui se rendent indispensables :  
-par la **commodité**,  
-par l’efficacité apparente,  
-par la promesse d’un monde plus lisible  
-— **et surtout plus “sécuritaire”**.
+par la **commodité**, par l’efficacité apparente, par la promesse d’un monde plus lisible **et surtout plus “sécuritaire”**.  
 
 Ce mot, dans le désert, ne signifie pas la sécurité.  
 Il signifie la **réduction du vivant**.  
@@ -120,24 +116,24 @@ et la stabilité avec la surveillance.
 Palantir ne s’installe pas par conquête.  
 Elle s’installe parce que les institutions, débordées, fragmentées,  
 cherchent un **centre de gravité**.  
-Et la machine le leur offre.
+Et la machine le leur offre.  
 
 Ce n’est pas une invasion.  
-C’est une **capillarité**.
+C’est une **capillarité**.  
 
 Un État ne bascule pas d’un coup :  
 il glisse, presque sans s’en rendre compte,  
 du “nous avons besoin d’aide”  
-au “nous ne savons plus faire sans”.
+au “nous ne savons plus faire sans”.  
 
 Le vrai risque est là :  
 dans cette dépendance douce, presque anesthésiante,  
-où la souveraineté ne s’effondre pas —  
+où la souveraineté ne s’effondre pas mais    
 elle **s’efface**, lentement, comme une encre qui pâlit sous le soleil.
 
 ---
 
-## Ce que Palantir cherche : une géologie du pouvoir
+## Une géologie du pouvoir  
 
 Palantir ne veut pas seulement vendre des outils.  
 Elle veut **façonner le désert**.
@@ -152,7 +148,7 @@ la promesse d’un futur sans surprise,
 sans opacité,  
 sans déviation.
 
-Un futur où l’humain serait enfin **domestiqué par la lumière totale**.
+Un futur où l’humain serait enfin **domestiqué par la lumière totale**.  
 
 ---
 
@@ -181,3 +177,44 @@ comme on transmet une source dans un paysage qui se durcit.
 
 Car un désert peut avancer.  
 Mais une oasis peut renaître.
+
+---
+
+
+  # Sources:  
+
+- The Guardian — *Palantir and the politics of prediction*  
+  https://www.theguardian.com  
+
+- Wired — *Inside Palantir’s ideology*  
+  https://www.wired.com  
+
+- Politico EU — *Palantir’s growing influence in Europe*  
+  https://www.politico.eu  
+
+- Financial Times — *Alex Karp’s worldview*  
+  https://www.ft.com  
+
+- The Intercept — *Predictive policing and Palantir*  
+  https://theintercept.com  
+
+- ProPublica — *Algorithmic bias investigations*  
+  https://www.propublica.org  
+
+- Amnesty International — *Surveillance, policing and discrimination*  
+  https://www.amnesty.org  
+  
+- Der Spiegel — *Bundeswehr and Palantir*  
+  https://www.spiegel.de  
+
+- BBC — *NHS and Palantir*  
+  https://www.bbc.com  
+
+- Le Monde — *Palantir et les services français*  
+  https://www.lemonde.fr  
+
+- CNIL — *Analyse du Cloud Act*  
+  https://www.cnil.fr  
+
+- EDPS — *Risques de dépendance technologique*  
+  https://edps.europa.eu  
