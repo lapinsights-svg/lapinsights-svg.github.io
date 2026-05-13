@@ -9,7 +9,7 @@ og_image: /images/spiritualite/strates.png
 
 ![strates](/images/spiritualite/strates.png)
 
-Je parle de mon fonctionnement, tel qu’il est devenu.  
+Ce que je décris ici n’a rien d’une posture. C’est la manière dont mon système fonctionne aujourd’hui.  
 
 Je fonctionne aujourd’hui avec un système nerveux fait de strates. Des couches souterraines, rapides, intuitives, qui captent tout avant même que je ne le formule. Ce sont des plaques fines, sensibles, mais aussi des nappes furtives, presque animales, qui perçoivent les déplacements minuscules dans l’atmosphère des mots.
 
