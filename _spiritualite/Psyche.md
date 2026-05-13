@@ -12,7 +12,7 @@ og_image: /images/spiritualite/strates.png
   
 Je fonctionne aujourd’hui avec un système nerveux fait de strates. Des couches souterraines, rapides, intuitives, qui captent tout avant même que je ne le formule. Ce sont des plaques fines, sensibles, mais aussi des nappes furtives, presque animales, qui perçoivent les déplacements minuscules dans l’atmosphère des mots.
 
-Avant, je n’étais pas tout à fait ainsi. Mes couches étaient plus épaisses, plus lentes, moins réactives. Je ne sais pas pourquoi j’ai changé — peut‑être l’usure, peut‑être la lucidité, peut‑être la lumière qui s’est infiltrée trop profondément. Aujourd’hui, tout circule plus vite, plus subtilement, et je ne peux plus ignorer ce que je perçois.
+Avant, je n’étais pas tout à fait ainsi. Disons que le phénomène s'est amplifié. Je ne sais pas pourquoi j’ai changé — peut‑être l’usure, peut‑être la lucidité, peut‑être la lumière qui s’est infiltrée profondément. Aujourd’hui, tout circule plus vite, plus subtilement, et je ne peux plus ignorer ce que je perçois.
 
 Sur les réseaux sociaux, où tout passe par l’écrit, où chaque phrase tombe comme une pierre dans un puits profond, ces strates réagissent encore plus vite. Là-bas, l’écrit n’est pas un outil : il est la matière même du lien, le sol sur lequel tout repose.
 
