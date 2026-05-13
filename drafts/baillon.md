@@ -33,7 +33,7 @@ On ne gère plus un virus : **on gère les citoyens**. Et quand la réponse poli
 
 ---
 
-## L’absence — pour l’instant — de réaction des associations
+## L’absence, pour l’instant, de réaction des associations
 
 La mesure vient d’être annoncée. Les premiers cas ne sont peut‑être même pas sortis. Les familles n’ont pas encore eu le temps de comprendre ce qui leur arrive.
 
@@ -86,7 +86,7 @@ Ce n’est pas une disparition. C’est une **désactivation temporaire**, mais 
 
 ---
 
-## Ce qui devrait être visible : pour l’instant, tout est encore dans l’ombre
+## Pour l’instant, tout est encore dans l’ombre
 
 Les personnes enfermées ne sont pas encore sorties. Les familles n’ont pas encore témoigné. Les premiers cas n’ont pas encore atteint la sphère publique.
 
