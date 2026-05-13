@@ -2,7 +2,7 @@
 title: "Psyché stratifiée"
 date: 2026-05-13
 layout: article
-resume: "Mon fonctionnement perceptif s’est transformé"
+resume: "Mon fonctionnement perceptif"
 categories: spiritualite
 og_image: /images/spiritualite/strates.png
 ---
