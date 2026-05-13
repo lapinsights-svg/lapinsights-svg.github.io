@@ -1,5 +1,5 @@
 ---
-title: "Psyché stratifiée — fonctionnement actuel"
+title: "Psyché stratifiée"
 date: 2026-05-13
 layout: article
 resume: "Mon fonctionnement perceptif s’est transformé"
