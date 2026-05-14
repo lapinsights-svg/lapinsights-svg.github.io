@@ -13,7 +13,7 @@ Cet article est la **suite directe** de l’analyse publiée ici :
   
 
 On a franchi un cap. L’Europe vient d’autoriser l’impensable : priver de liberté des personnes **saines**, sur la base d’un risque **non démontré**, dans un silence institutionnel presque total.  
-La mesure est récente, les réactions n’ont pas encore eu le temps d’émerger — mais c’est précisément ce moment, cet entre‑deux fragile, qui révèle les failles d’un système censé protéger les libertés fondamentales.  
+La mesure est récente, les réactions n’ont pas encore eu le temps d’émerger, mais c’est précisément ce moment, cet entre‑deux fragile, qui révèle les failles d’un système censé protéger les libertés fondamentales.  
 
 ---
 
