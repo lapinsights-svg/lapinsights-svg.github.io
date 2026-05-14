@@ -31,6 +31,8 @@ Après le « restez chez vous » du Covid, voici le « **on vous enferme à l’
 
 On ne gère plus un virus : **on gère les citoyens**. Et quand la réponse politique devient plus extrême que le risque biologique, ce n’est plus de la santé publique. C’est une dérive autoritaire. L’Europe avance masquée, mais ce n’est plus pour des raisons sanitaires.  
 
+---
+  
 ## Le glissement : la mécanique la plus dangereuse
 
 Ce n’est pas seulement la mesure en elle‑même, mais le mécanisme d’acceptation automatique.  
