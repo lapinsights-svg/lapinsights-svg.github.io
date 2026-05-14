@@ -36,7 +36,12 @@ On ne gère plus un virus : **on gère les citoyens**. Et quand la réponse poli
 Ce n’est pas seulement la mesure en elle‑même, mais le mécanisme d’acceptation automatique.  
 Quand une société s’habitue à des restrictions disproportionnées, sans exigence de justification claire, elle devient vulnérable à des dérives autoritaires.  
 L’histoire montre que ce n’est jamais un événement isolé qui fait basculer un régime, mais une succession de petites concessions.  
+
+Et justement, ce qui me sidère, c’est la facilité avec laquelle certains acceptent — voire défendent — des restrictions disproportionnées.
+On dirait que la vigilance démocratique s’est dissoute.
+On ne demande même plus de justification, on applaudit par réflexe.  
 C’est ce glissement‑là qui me préoccupe.  
+
 
 ---
 
