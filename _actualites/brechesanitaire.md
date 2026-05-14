@@ -123,9 +123,9 @@ Il ne s’agit pas d’accuser. Il ne s’agit pas de remplacer les associations
 
 Il s’agit de **créer un espace de visibilité**, un espace de veille, un espace qui observe, documente, interroge.
 
-Un espace qui ne condamne pas, mais qui **regarde**.  
+Un espace qui **regarde**.  
 Un espace qui **note**.  
-Un espace qui **rappelle à chacun ce qu’il devrait être**.
+Un espace qui **rappelle à chacun son rôle et ce qu’il devrait être**.
 
 ---
 
