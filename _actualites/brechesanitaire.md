@@ -121,7 +121,9 @@ Puisque tout commence, la réponse doit être proportionnée.
 
 Il ne s’agit pas d’accuser. Il ne s’agit pas de remplacer les associations. Il ne s’agit pas de jouer les justiciers.
 
-Il s’agit de **créer un espace de visibilité**, un espace de veille, un espace qui observe, documente, interroge.
+Il s’agit de **créer un espace de visibilité**, un espace de veille, un espace qui observe, documente, interroge.  
+
+C'est ce que je fais.
 
 Un espace qui **regarde**.  
 Un espace qui **note**.  
