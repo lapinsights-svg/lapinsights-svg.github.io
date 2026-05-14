@@ -126,11 +126,11 @@ Un espace qui ne remplace personne, mais qui **rappelle à chacun ce qu’il dev
 
 ## Conclusion
 
-> *Ce n’est que le début. Le système va peut‑être se mettre en branle.  
-> Mais si personne ne regarde, rien ne bougera.  
-> Le problème n’est pas l’absence de scandale, mais l’absence de visibilité.  
-> La vigilance n’est pas un procès : c’est une condition de la démocratie.  
-> Rendre visible, c’est déjà fissurer le dispositif.*  
+*Ce n’est que le début. Le système va peut‑être se mettre en branle.  
+Mais si personne ne regarde, rien ne bougera.  
+Le problème n’est pas l’absence de scandale, mais l’absence de visibilité.  
+La vigilance n’est pas un procès : c’est une condition de la démocratie.  
+Rendre visible, c’est déjà fissurer le dispositif.*  
 
 
 Céleste R.
