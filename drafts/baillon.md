@@ -29,7 +29,14 @@ On enferme désormais des personnes **saines**, non malades, sur la base d’un 
 
 Après le « restez chez vous » du Covid, voici le « **on vous enferme à l’hôpital** », sans médecin dans les réunions de crise et sans justification virologique solide. La proportionnalité, principe fondamental du droit sanitaire, est balayée d’un revers de main. L’article 5 de la CEDH, droit à la liberté, semble soudain facultatif.
 
-On ne gère plus un virus : **on gère les citoyens**. Et quand la réponse politique devient plus extrême que le risque biologique, ce n’est plus de la santé publique. C’est une dérive autoritaire. L’Europe avance masquée, mais ce n’est plus pour des raisons sanitaires.
+On ne gère plus un virus : **on gère les citoyens**. Et quand la réponse politique devient plus extrême que le risque biologique, ce n’est plus de la santé publique. C’est une dérive autoritaire. L’Europe avance masquée, mais ce n’est plus pour des raisons sanitaires.  
+
+## Le glissement : la mécanique la plus dangereuse
+
+Ce n’est pas seulement la mesure en elle‑même, mais le mécanisme d’acceptation automatique.  
+Quand une société s’habitue à des restrictions disproportionnées, sans exigence de justification claire, elle devient vulnérable à des dérives autoritaires.  
+L’histoire montre que ce n’est jamais un événement isolé qui fait basculer un régime, mais une succession de petites concessions.  
+C’est ce glissement‑là qui me préoccupe.  
 
 ---
 
