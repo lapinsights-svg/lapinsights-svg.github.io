@@ -19,7 +19,7 @@ La mesure est récente, les réactions n’ont pas encore eu le temps d’émerg
 
 # Brèche sanitaire et silence démocratique
 
-L’Europe vient d’ouvrir une brèche inquiétante : **42 jours de privation de liberté pour de simples cas contact** d’un hantavirus dont la souche n’est même pas clairement communiquée  
+L’Europe vient d’ouvrir une brèche inquiétante : **42 jours de privation de liberté (14 jours minimum) pour de simples cas contact** d’un hantavirus dont la souche n’est même pas clairement communiquée  
 ([source : communiqué du Centre européen de prévention et de contrôle des maladies](https://www.ecdc.europa.eu/en/news-events/hantavirus-contact-management-guidance)).   
 Ce n’est pas tant la vitesse qui est inquiétante, que l’absence de contre‑poids.  
 Le Parlement n’a pas été consulté, les États membres n’ont pas débattu, les citoyens n’ont pas été informés.  
