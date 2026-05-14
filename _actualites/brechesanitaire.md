@@ -25,7 +25,7 @@ Ce n’est pas tant la vitesse qui est inquiétante, que l’absence de contre�
 Le Parlement n’a pas été consulté, les États membres n’ont pas débattu, les citoyens n’ont pas été informés.  
 Ce n’est pas une erreur de communication : c’est une stratégie de gestion du silence.  
 
-On enferme désormais des personnes **saines**, non malades, sur la base d’un risque non démontré et sans transparence scientifique.
+On enferme désormais des personnes **saines**, **non malades**, sur la base d’un risque non démontré et sans transparence scientifique.
 
 Après le « restez chez vous » du Covid, voici le « **on vous enferme à l’hôpital** », sans médecin dans les réunions de crise et sans justification virologique solide. La proportionnalité, principe fondamental du droit sanitaire, est balayée d’un revers de main. L’article 5 de la CEDH, droit à la liberté, semble soudain facultatif.
 
