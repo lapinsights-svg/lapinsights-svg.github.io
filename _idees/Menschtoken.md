@@ -140,7 +140,8 @@ L’Europe deviendra le **paysan énergétique** d’une guerre technologique qu
 
 Et, comble du cynisme, on demandera aux citoyens d’accepter la fameuse **sobriété énergétique** —  
 une sobriété qui ne s’appliquera qu’à leur propre vie, jamais à celle des data centers.  
-Les citoyens baisseront le chauffage, pendant que les fermes de GPU tourneront à plein régime pour mener des "guerres" plus ou moins légitimes.
+Les citoyens baisseront le chauffage, pendant que les fermes de GPU tourneront à plein régime  
+**pour alimenter des modèles destinés, in fine, à mener des guerres plus ou moins légitimes.**.  
 
 ---
 
