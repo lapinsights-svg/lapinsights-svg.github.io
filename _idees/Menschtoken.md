@@ -27,7 +27,7 @@ L’IA devient un gouffre comptable, un trou sans fond, un prétexte à subventi
 
 ---
 
-## ⚙️ L’IA privée : un mirage économique
+## L’IA privée : un mirage économique
 
 Dans le monde des entreprises, l’IA n’a **aucun avenir durable**.  
 Les coûts explosent, les marges s’effondrent, la rentabilité disparaît.  
@@ -40,7 +40,7 @@ C’est une **expérience subventionnée**.
 
 ---
 
-## 🛡️ L’IA militaire : la seule niche de survie
+## L’IA militaire : la seule niche de survie
 
 Là, le calcul change.  
 Le coût n’a plus d’importance.  
@@ -54,7 +54,7 @@ Mais cette souveraineté est **importée**, **sous-traitée**, **américanisée*
 
 ---
 
-## ⚡ L’Europe : fournisseur d’électrons
+## L’Europe : fournisseur d’électrons
 
 Pendant que les États-Unis transforment leurs tokens en puissance,  
 l’Europe transforme ses électrons en dette.
@@ -69,7 +69,7 @@ Ils ont peut-être déjà accepté leur rôle de **valets énergétiques** des s
 
 ---
 
-## 🧩 Le piège Mensch
+## Le piège Mensch
 
 Mensch croit alerter.  
 Mais son discours peut être retourné :  
@@ -82,7 +82,7 @@ Le jeune entrepreneur devient, malgré lui, **le couillon utile du système** �
 
 ---
 
-## ⚡ Le point aveugle : le coût réel du token
+## Le point aveugle : le coût réel du token
 
 On oublie une vérité physique, triviale, mais explosive :
 
@@ -107,7 +107,7 @@ C’est un électron devenu dette.
 
 ---
 
-## 🧨 Les Européens paieront une facture qui ne leur servira à rien
+## Les Européens paieront une facture qui ne leur servira à rien
 
 Et cette dette, ce sont les Européens qui la paieront.
 
@@ -132,12 +132,16 @@ L’Europe deviendra le **paysan énergétique** d’une guerre technologique qu
 
 ---
 
-## 🜄 Conclusion — la lame
+## Conclusion 
 
-> **L’Europe n’a pas besoin de rattraper le retard de l’IA.  
-> Elle doit refuser de transformer ses électrons en dette.  
-> Car dans cette course truquée, le token ne sera jamais un outil :  
-> il sera une ponction.  
-> Et ce sont les Européens qui paieront pour une puissance qui ne leur appartiendra pas.**
+**L’Europe n’a pas besoin de rattraper le retard de l’IA.  
+ Elle doit refuser de transformer ses électrons en dette.  
+Car dans cette course truquée, le token ne sera jamais un outil :  
+il sera une ponction.  
+Et ce sont les Européens qui paieront pour une puissance qui ne leur appartiendra pas.**
+
+
+  Céleste R.
+
 
 
