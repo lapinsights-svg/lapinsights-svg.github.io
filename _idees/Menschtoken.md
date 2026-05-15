@@ -149,11 +149,18 @@ car l’IA, elle, ne fait pas que consommer : elle fait des dégâts.**
 
 ## Conclusion 
 
-**L’Europe n’a pas besoin de rattraper le retard de l’IA.  
- Elle doit refuser de transformer ses électrons en dette.  
+L’Europe n’a pas besoin de rattraper le retard de l’IA.  
+Elle doit refuser de transformer ses électrons en dette.  
 Car dans cette course truquée, le token ne sera jamais un outil :  
-il sera une ponction.  
-Et ce sont les Européens qui paieront pour une puissance qui ne leur appartiendra pas.**
+il sera une ponction.
+
+**L’UE ferait mieux de transformer chaque électron excédentaire  
+en électricité moins chère pour ses citoyens,  
+plutôt qu’en tokens coûteux destinés à des usages qu’ils ne contrôleront jamais.**
+
+Car une souveraineté qui appauvrit son peuple  
+n’est pas une souveraineté :  
+c’est une servitude énergétique maquillée en ambition numérique.
 
 
   Céleste R.
