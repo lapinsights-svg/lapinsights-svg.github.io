@@ -82,9 +82,6 @@ Mais son discours, en réalité peut-être interprété comme ceci :
 Et voilà : la boucle est bouclée.  
 L’alerte devient **argument budgétaire**.  
 Le constat devient **prétexte à la dépense**.  
-Mensch croit alerter.  
-Mais son discours peut être retourné :  
-> “L’Europe doit investir massivement pour ne pas rester fournisseur d’énergie.”
 
 Mensch **est peut‑être un rouage.**  
 **Et un rouage, dans une machine de milliards, vaut bien plus qu’un prophète d’inquiétude.**
