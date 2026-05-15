@@ -78,7 +78,15 @@ Mais son discours peut être retourné :
 Et voilà : la boucle est bouclée.  
 L’alerte devient **argument budgétaire**.  
 Le constat devient **prétexte à la dépense**.  
-Le jeune entrepreneur devient, malgré lui, **le couillon utile du système** — celui qui permet de justifier la prochaine vague de milliards jetés dans le trou sans fond de l’IA européenne.
+Mensch croit alerter.  
+Mais son discours peut être retourné :  
+> “L’Europe doit investir massivement pour ne pas rester fournisseur d’énergie.”
+
+Mensch **est peut‑être un rouage.**  
+**Et un rouage, dans une machine de milliards, vaut bien plus qu’un prophète d’inquiétude.**
+
+Le jeune dirigeant devient alors un amplificateur narratif idéal :  
+celui qui permet de justifier la prochaine vague de milliards jetés dans le trou sans fond de l’IA européenne.  
 
 ---
 
