@@ -99,7 +99,7 @@ Entre les deux, il y a :
 - les pertes thermiques,  
 - les réseaux,  
 - les couches logicielles,  
-- les marges des hyperscalers.
+- les marges des hyperscalers.  
 
 Résultat :  
 **un token est un électron multiplié par toute la chaîne de dépendance.**  
