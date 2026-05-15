@@ -21,7 +21,7 @@ Le point de départ, cette fois, est un article de *La Tribune* :
 Voici l'analyse que je fais de cette vision.
 Mensch y décrit une Europe réduite à la fourniture d’électrons.  
 Il croit alerter les politiques.  
-Mais, en tant que dirigeant de Mistral AI, il pourrait bien **servir de caution technique** à la prochaine vague de dépenses folles — celles qu’on justifiera au nom du “retard européen”.
+Mais, en tant que dirigeant de Mistral AI, il pourrait bien **servir de caution technique** à la prochaine vague de dépenses folles, celles qu’on justifiera au nom du “retard européen”.
 
 Car le système adore les prophètes d’inquiétude.  
 Ils permettent de **légitimer la dépense**, de **mobiliser les budgets**, de **créer l’urgence**.  
