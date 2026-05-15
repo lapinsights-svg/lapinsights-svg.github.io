@@ -16,9 +16,10 @@ Mais derrière les discours, il y a une mécanique plus triviale : **le transfer
 Le point de départ, cette fois, est un article de *La Tribune* :  
 [« Arthur Mensch s’inquiète d’une Europe cantonnée à la fourniture d’énergie dans la course à l’IA »](https://www.latribune.fr/article/tech/intelligence-artificielle/36528277200475/arthur-mensch-s-inquiete-d-une-europe-cantonnee-a-la-fourniture-d-energie-dans-la-course-a-l-ia).
 
-"Arthur Mensch a livré sa vision d’une souveraineté numérique européenne à l’Assemblée nationale mardi 12 mai." dit l'article.  
+« Arthur Mensch a présenté sa vision d’une souveraineté numérique européenne devant l’Assemblée nationale le 12 mai."
 
-Voici l'analyse que je fais de cette vision.
+Voici l’analyse que je fais de cette vision et surtout de ce qu’elle implique en profondeur, derrière les mots.  
+
 Mensch y décrit une Europe réduite à la fourniture d’électrons.  
 Il croit alerter les politiques.  
 Mais, en tant que dirigeant de Mistral AI, il pourrait bien **servir de caution technique** à la prochaine vague de dépenses folles, celles qu’on justifiera au nom du “retard européen”.
@@ -45,7 +46,7 @@ C’est une **expérience subventionnée**.
 
 ## L’IA militaire : la seule niche de survie
 
-Là, le calcul change.  
+Là, miracle, le calcul change.  
 Le coût n’a plus d’importance.  
 Le rendement n’a plus de sens.  
 Le budget est sanctuarisé.  
