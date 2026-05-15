@@ -21,7 +21,7 @@ Le point de départ, cette fois, est un article de *La Tribune* :
 Voici l’analyse que je fais de cette vision et surtout de ce qu’elle implique en profondeur, derrière les mots.  
 
 Mensch y décrit une Europe réduite à la fourniture d’électrons.  
-Il croit alerter les politiques.  
+  
 Mais, en tant que dirigeant de Mistral AI, il pourrait bien **servir de caution technique** à la prochaine vague de dépenses folles, celles qu’on justifiera au nom du “retard européen”.
 
 Car le système adore les prophètes d’inquiétude.  
@@ -75,8 +75,8 @@ Ils ont peut-être déjà accepté leur rôle de **valets énergétiques** des s
 
 ## Le piège Mensch
 
-Mensch croit alerter.  
-Mais son discours peut être retourné :  
+Mensch croit alerter les politiques.  
+Mais son discours, en réalité peut-être interprété comme ceci :  
 > “L’Europe doit investir massivement pour ne pas rester fournisseur d’énergie.”
 
 Et voilà : la boucle est bouclée.  
