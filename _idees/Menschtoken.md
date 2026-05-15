@@ -41,7 +41,7 @@ C’est une **expérience subventionnée**.
 
 ## L’IA militaire : la seule niche de survie
 
-Là, le calcul change :  
+Là, miracle, le calcul change :  
 le coût n’a plus d’importance, le rendement n’a plus de sens, le budget est sanctuarisé, l’échec est toléré.
 
 L’IA devient une **infrastructure de pouvoir**, pas de marché.  
