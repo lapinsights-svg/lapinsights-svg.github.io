@@ -1,14 +1,12 @@
 ---
 title: "Hypothèse du Territoire Inobservable"
-description: "Une cartographie nocturne des zones du réel qui ne survivent qu’en retrait."
 resume: "Une cartographie nocturne des zones du réel qui ne survivent qu’en retrait."
 date: 2026-05-16
 categories: idees
 tags: ["ontologie", "préconscient", "structure", "réel", "nocturne", "Lapinsights"]
-layout: default
+layout: article
 og_image: /images/idees/inobservable.png
 ---
-
 ![inobservable](/images/idees/inobservable.png)
 
 # Préface
