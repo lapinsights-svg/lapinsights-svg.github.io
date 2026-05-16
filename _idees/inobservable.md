@@ -88,7 +88,6 @@ La part qui se tient debout, intacte, hors portée.
 ---
 
 # Cartographie du Territoire Inobservable  
-Version réécrite, organique, enrichie
 
 Le territoire inobservable n’est pas un espace homogène.  
 C’est une stratification.  
