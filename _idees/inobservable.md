@@ -60,7 +60,7 @@ La décision ne naît pas dans la conscience.
 Elle naît avant, dans une zone pré‑formelle : multiple, instable, ouverte.
 
 La conscience n’observe pas cette zone.  
-Elle l’effondre.
+Elle l’effondre, c'est à dire qu'elle elle la stabilise, la fixe, la réduit.
 
 Observer = conscientiser.  
 Conscientiser = stabiliser.  
