@@ -141,7 +141,7 @@ Les signaux faibles disparaissent lorsqu’on les détecte.
 Les tendances meurent dès qu’on les nomme.  
 Les structures se reconfigurent sous analyse.
 
-*Nous connaissons tous ces formes plus robustes, qui ne disparaissent pas sous le regard mais se déplacent, se reconfigurent, se camouflent.  
+*Ces formes plus robustes, ne disparaissent pas sous le regard mais se déplacent, se reconfigurent, se camouflent.  
 Elles ne se dérobent pas par fragilité, mais par nécessité.*
 
 La Zone d’Opacité Active protège ce qui ne peut être exposé sans être détruit.
@@ -156,9 +156,6 @@ Non pas au sens quantique strict, mais comme structure du possible.
 Plusieurs trajectoires pré‑formelles coexistent.  
 Plusieurs valences.  
 Plusieurs attracteurs.  
-
-*Chacun a déjà senti ces moments où plusieurs directions intérieures cohabitent,  
-où rien n’est encore décidé, où plusieurs formes possibles respirent en même temps.*  
 
 L’observation effondre cette multiplicité en un seul état.  
 
