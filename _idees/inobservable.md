@@ -132,6 +132,8 @@ Les signaux faibles disparaissent lorsqu’on les détecte.
 Les tendances meurent dès qu’on les nomme.  
 Les structures se reconfigurent sous analyse.
 
+Le phénomène se retire pour ne pas être détruit.
+
 La Zone d’Opacité Active protège ce qui ne peut être exposé sans être détruit.
 
 ---
