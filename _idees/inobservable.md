@@ -103,8 +103,9 @@ Rien n’y est stabilisé.
 Les possibles y coexistent comme des tensions, des embryons de formes.  
 Dès qu’une attention se tourne vers cette zone, elle se cristallise en autre chose.  
 
-*Chacun a déjà senti ces instants où plusieurs directions intérieures respirent en même temps,  
-où rien n’est encore fixé, où la forme n’est qu’une vibration prête à basculer.*  
+*Dans cette zone, les formes ne sont pas encore des formes :  
+elles existent comme des tensions, des orientations en suspens,  
+des directions qui n’ont pas encore choisi leur trajectoire.*
 
 La Zone Pré‑Formelle est un espace de pure potentialité.  
 Elle n’existe que dans le retrait.  
