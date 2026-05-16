@@ -123,8 +123,9 @@ Micro‑événements atmosphériques détruits par la mesure.
 Ici, l’observation ne révèle rien :  
 elle change la nature du phénomène.
 
-*Chacun a déjà perçu ces phénomènes qui n’existent que dans l’angle mort :  
-ces choses qui ne se maintiennent qu’à condition de ne pas être regardées trop directement.*
+*Ces phénomènes ne se laissent jamais saisir :  
+ils n’apparaissent que dans l’angle mort,  
+dans l’instant où aucun regard ne les fixe encore.*
 
 ---
 
