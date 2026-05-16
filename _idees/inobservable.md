@@ -14,10 +14,16 @@ og_image: /images/idees/inobservable.png
 Ce texte explore un territoire où les phénomènes n’existent qu’en retrait, où les décisions se forment avant d’être pensées,  
 où les croyances structurent le possible sans jamais apparaître.  
 Il ne s’agit pas d’expliquer, mais de cartographier ce qui se dérobe.  
+
+Ces zones décrivent les forces invisibles qui sculptent nos gestes, nos vies même, avant toute compréhension —  
+et c’est cela qui m’importe : elles révèlent ce qui agit dans l’ombre, ce qui reste caché,  
+ce que ce site cherche à faire affleurer.
+
 La lecture demande une attention lente, une disponibilité intérieure, une acceptation de l’opacité.  
-Ce territoire n’est pas un concept : c’est une géologie.  
+Ce territoire est une géologie.  
 Il ne se comprend pas d’un seul regard.  
 Il se traverse.
+
 
 ---
 
