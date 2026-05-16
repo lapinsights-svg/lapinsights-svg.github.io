@@ -177,7 +177,7 @@ Elles sont là pour tenir.
 Elles filtrent les possibles avant qu’ils ne deviennent visibles.  
 Elles orientent les décisions avant qu’elles ne deviennent conscientes.  
 
-*Chacun a déjà senti ces croyances profondes qui ne se laissent ni interroger ni déplacer :  
+*Peut-être avez-vous eu l'intuition de ces croyances profondes qui ne se laissent ni interroger ni déplacer :  
 elles structurent silencieusement le champ intérieur, bien avant que la pensée n’arrive.*  
 
 ---
