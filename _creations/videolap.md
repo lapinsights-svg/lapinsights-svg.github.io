@@ -1,0 +1,13 @@
+---
+title: "Vidéo atmosphérique Lapinsights"
+date: 2026-05-16
+categories: creations
+layout: article
+---
+
+*Cliquer sur play pour entrer dans la métamorphose.*
+
+<video controls playsinline width="100%">
+  <source src="/assets/videos/arbre.mp4" type="video/mp4">
+  Votre navigateur ne peut pas lire cette vidéo.
+</video>
