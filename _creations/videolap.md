@@ -10,7 +10,7 @@ Une présence, une mémoire, un souffle ancien.
 Je traverse la brume comme on traverse un seuil.*  
 
 <video controls playsinline width="100%">
-  <source src="/assets/videos/arbre.mp4" type="video/mp4">
+  <source src="/assets/videos/videolap.mp4" type="video/mp4">
   Votre navigateur ne peut pas lire cette vidéo.
 </video>
 
