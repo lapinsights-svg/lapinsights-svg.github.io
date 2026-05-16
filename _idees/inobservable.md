@@ -47,7 +47,7 @@ Dans ces zones :
 - les systèmes sociaux se normalisent sous surveillance,  
 - les signaux faibles meurent dès qu’on les détecte,  
 - les décisions humaines se reconfigurent dès qu’elles deviennent conscientes.  
-
+  
 Le réel possède une couche qui ne survit pas à l’observation.  
 Une couche qui n’existe que dans le retrait.  
 Une couche qui se défend en disparaissant.
