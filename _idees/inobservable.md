@@ -120,6 +120,9 @@ Micro‑événements atmosphériques détruits par la mesure.
 Ici, l’observation ne révèle rien :  
 elle change la nature du phénomène.
 
+*Chacun a déjà perçu ces phénomènes qui n’existent que dans l’angle mort :  
+ces choses qui ne se maintiennent qu’à condition de ne pas être regardées trop directement.*
+
 ---
 
 ## 3. La Zone d’Opacité Active
@@ -128,11 +131,14 @@ Ici, le retrait est une force.
 Une résistance.  
 Une souveraineté.
 
+Le phénomène se retire pour ne pas être détruit.
+
 Les signaux faibles disparaissent lorsqu’on les détecte.  
 Les tendances meurent dès qu’on les nomme.  
 Les structures se reconfigurent sous analyse.
 
-Le phénomène se retire pour ne pas être détruit.
+*Nous connaissons tous ces formes plus robustes, qui ne disparaissent pas sous le regard mais se déplacent, se reconfigurent, se camouflent.  
+Elles ne se dérobent pas par fragilité, mais par nécessité.*
 
 La Zone d’Opacité Active protège ce qui ne peut être exposé sans être détruit.
 
