@@ -95,16 +95,19 @@ Une superposition de zones qui ne se laissent pas saisir de la même manière.
 
 ---
 
-## 1. La Zone Pré‑Formelle
+## 1. La Zone Pré‑Formelle  
 
 Lieu de naissance des décisions, des gestes, des intuitions.  
-Rien n’y est stabilisé.
+Rien n’y est stabilisé.  
 
 Les possibles y coexistent comme des tensions, des embryons de formes.  
-Dès qu’une attention se tourne vers cette zone, elle se cristallise en autre chose.
+Dès qu’une attention se tourne vers cette zone, elle se cristallise en autre chose.  
+
+*Chacun a déjà senti ces instants où plusieurs directions intérieures respirent en même temps,  
+où rien n’est encore fixé, où la forme n’est qu’une vibration prête à basculer.*  
 
 La Zone Pré‑Formelle est un espace de pure potentialité.  
-Elle n’existe que dans le retrait.
+Elle n’existe que dans le retrait.  
 
 ---
 
