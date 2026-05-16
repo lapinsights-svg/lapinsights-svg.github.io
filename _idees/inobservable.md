@@ -147,13 +147,16 @@ La Zone d’Opacité Active protège ce qui ne peut être exposé sans être dé
 ## 4. La Zone des États Multiples
 
 Zone où les phénomènes existent sous plusieurs formes potentielles avant stabilisation.  
-Non pas au sens quantique strict, mais comme structure du possible.
+Non pas au sens quantique strict, mais comme structure du possible.  
 
 Plusieurs trajectoires pré‑formelles coexistent.  
 Plusieurs valences.  
-Plusieurs attracteurs.
+Plusieurs attracteurs.  
 
-L’observation effondre cette multiplicité en un seul état.
+*Chacun a déjà senti ces moments où plusieurs directions intérieures cohabitent,  
+où rien n’est encore décidé, où plusieurs formes possibles respirent en même temps.*  
+
+L’observation effondre cette multiplicité en un seul état.  
 
 ---
 
