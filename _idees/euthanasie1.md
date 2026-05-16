@@ -9,7 +9,7 @@ resume: "Analyse du Dr Amine Umlil sur les contradictions juridiques du projet d
 Je voudrais synthétiser l’excellente analyse du Dr Umlil sur la décohérence du droit face au projet de loi sur l’aide à mourir.
 
 Lien vers la vidéo :  
-[https://www.youtube.com/live/z7Xm5qm8dH](https://www.youtube.com/live/z7Xm5qm8dH)
+[https://www.youtube.com/watch?v=RGd0fv3yh7Y](https://www.youtube.com/watch?v=RGd0fv3yh7Y)
 
 ## 1. Contexte général
 
