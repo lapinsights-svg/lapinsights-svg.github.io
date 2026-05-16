@@ -163,18 +163,21 @@ L’observation effondre cette multiplicité en un seul état.
 ## 5. La Zone des Croyances Structurelles
 
 Ici, les croyances ne sont pas des idées.  
-Elles sont des forces, des poids, des valences, des piliers identitaires.
+Elles sont des forces, des poids, des valences, des piliers identitaires.  
 
 Elles se maintiennent tant qu’elles réduisent la tension interne,  
 stabilisent le récit identitaire,  
 protègent une blessure,  
-assurent une continuité.
+assurent une continuité.  
 
 Elles ne sont pas là pour être vraies.  
-Elles sont là pour tenir.
+Elles sont là pour tenir.  
 
 Elles filtrent les possibles avant qu’ils ne deviennent visibles.  
-Elles orientent les décisions avant qu’elles ne deviennent conscientes.
+Elles orientent les décisions avant qu’elles ne deviennent conscientes.  
+
+*Chacun a déjà senti ces croyances profondes qui ne se laissent ni interroger ni déplacer :  
+elles structurent silencieusement le champ intérieur, bien avant que la pensée n’arrive.*  
 
 ---
 
