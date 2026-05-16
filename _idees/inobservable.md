@@ -202,7 +202,7 @@ Elle se situe dans ce qui est en train de se former.
 La liberté n’est pas un choix.  
 Elle n’est pas un acte.
 
-elle est ce qui rend la décision possible.
+Elle est ce qui rend la décision possible.
 Elle est la dilatation du champ pré‑conscient.
 
 Elle apparaît lorsque les lignes de force internes cessent de se contracter,  
