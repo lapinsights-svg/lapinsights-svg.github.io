@@ -31,7 +31,7 @@ Ce n’était pas la gravité. C’était la chute intérieure, celle qui ne fai
 
 Elle ne fuyait pas un rythme. Elle fuyait une ouverture. Elle fuyait la lumière qui aurait pu la toucher. Elle fuyait ce qui, en elle, aurait pu céder.  
 
-Il pensa qu’elle ne fuyait pas lui. Pas encore. Il pensa qu’il suffisait de douceur, de patience, d’espace. Il pensa ce qu’on pense quand on veut encore croire.  
+Il pensa qu’elle ne le fuyait pas, lui. Pas encore. Il pensa qu’il suffisait de douceur, de patience, d’espace. Il pensa ce qu’on pense quand on veut encore croire.  
 
 Mais la nuit savait. La nuit sait toujours.  
 
