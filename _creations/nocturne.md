@@ -23,9 +23,11 @@ Elle avançait légèrement, comme si ses pas ne touchaient pas le sol. Elle reg
 
 La vérité, elle, avançait autrement. Plus basse. Plus silencieuse. Plus ancienne.  
 
-Ce n’était pas la vitesse qu’elle redoutait. C’était le mouvement même de l’attachement. Ce n’était pas l'attention.  
+Ce n’était pas la vitesse qu’elle redoutait. C’était le mouvement même de l’attachement.  
 
-C’était la possibilité d’être attendue. Ce n’était pas la gravité. C’était la chute intérieure, celle qui ne fait pas de bruit mais qui défait tout.  
+Ce n’était pas l'attention. C’était la possibilité d’être attendue.  
+
+Ce n’était pas la gravité. C’était la chute intérieure, celle qui ne fait pas de bruit mais qui défait tout.  
 
 Elle ne fuyait pas un rythme. Elle fuyait une ouverture. Elle fuyait la lumière qui aurait pu la toucher. Elle fuyait ce qui, en elle, aurait pu céder.  
 
