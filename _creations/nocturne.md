@@ -1,5 +1,6 @@
 ---
 title: "Nocturne"
+resume: "Deux silhouettes marchent dans une nuit qui sait déjà qu’elles ne se rejoindront pas."
 date: "2026-05-19"
 categories: creations
 layout: article
