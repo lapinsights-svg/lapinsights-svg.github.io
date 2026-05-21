@@ -40,7 +40,7 @@ Or tout le monde sait — et lui aussi — qu’aucun chef d’État ne peut :
 - appliquer mécaniquement des propositions populaires.
 
 Ce discours n’a pas pour fonction de transformer les institutions.  
-Il a pour fonction de **apaiser**.
+Il a pour fonction d' **apaiser**.
 
 Il offre une illusion de reprise de contrôle, un simulacre de souveraineté directe, un rêve confortable dans un pays saturé de contraintes.
 
