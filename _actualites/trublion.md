@@ -1,10 +1,13 @@
 ---
 title: "Patrick Sébastien : la colère confisquée"
-date: 2026-05-20
+date: 2026-05-21
 layout: article
 categories: actualites
 resume: "Le rôle politique du trublion : détourner la colère vers le folklore."
+og_image: /images/actualites/trublion.png
 ---
+![presin](/images/actualites/trublion.png)
+
 
 # Patrick Sébastien : la colère confisquée
 
