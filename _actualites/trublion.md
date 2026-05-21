@@ -88,8 +88,8 @@ Il est un **amortisseur**.
 Les Français n’ont pas besoin d’être calmés.  
 Ils ont besoin d’être **entendus**.
 
-La colère n’a pas vocation à être chantée.  
-Elle a vocation à être **adressée**.
+La colère n’a pas vocation à être chantée.
+Elle a vocation à être dirigée vers ceux qui décident.
 
 La souveraineté ne se délègue pas à un amuseur public.  
 Elle se **reprend**.
