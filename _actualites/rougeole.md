@@ -51,7 +51,7 @@ La peur n’est jamais gratuite. Elle a une fonction, un rendement, un marché.
 Dans le récit sanitaire contemporain, la peur est devenue un levier d’adhésion.  
 Plus l’émotion monte, plus la demande de protection augmente.  
 Et la protection, aujourd’hui, se vend sous forme de doses, de rappels, de campagnes.  
-Ce n’est pas un complot : c’est une mécanique.  
+C’est une mécanique bien huilée.  
 Les médias amplifient, les autorités rassurent, l’industrie fournit.  
 Chacun joue son rôle dans une économie de la peur où le vaccin devient le produit final d’un récit anxieux.  
 La rougeole n’est pas le monstre : c’est le prétexte.  
