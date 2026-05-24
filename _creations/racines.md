@@ -29,7 +29,7 @@ Et voici la ronce, avancée des forces premières,
 palpant l’air, interrogeant la lumière,  
 choisissant la faille la plus fine pour y glisser son destin.  
 Elle ne pousse pas : elle tranche, elle ouvre, elle fonde,  
-comme une langue qui ne demande pas l’avis du monde.  
+comme une langue qui ignore l’avis du monde.  
 
 Et voici la mousse, patience incarnée,  
 demeure des angles morts, des pierres froides, des zones que la clarté délaisse.  
