@@ -58,9 +58,8 @@ Elle ouvre un passage vers :
 - les circulations sans lumière  
 - les réseaux qui ne laissent aucune empreinte  
 
-C’est là que le Voyageur devient **mage noir** —  
-non pas au sens moral,  
-mais au sens technique :  
+C’est là que le Voyageur devient **mage noir**  
+au sens technique :  
 celui qui maîtrise l’opacité,  
 celui qui sait faire disparaître,  
 celui qui comprend que la trace est une faute.
