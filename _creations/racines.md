@@ -1,5 +1,5 @@
 ---
-title: "Intelligences naturelles"
+title: "Forces naturelles"
 date: 2026-05-24
 categories: creations
 layout: article
