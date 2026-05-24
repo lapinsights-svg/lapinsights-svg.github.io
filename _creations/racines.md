@@ -51,7 +51,9 @@ Nous vivons au milieu de ces intelligences sans récit,
 sans morale, sans visage.  
 Elles ne nous imitent pas, elles ne nous attendent pas.  
 Elles continuent, indifférentes, inaltérables,  
-dans l’espace qui nous dépasse. 
+dans l’espace qui nous dépasse.  
+
+ Céleste R.
 
   </div>
 
