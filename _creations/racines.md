@@ -32,7 +32,7 @@ Elle ne pousse pas : elle tranche, elle ouvre, elle fonde,
 comme une langue qui ignore l’avis du monde.  
 
 Et voici la mousse, patience incarnée,  
-demeure des angles morts, des pierres froides, des zones que la clarté délaisse.  
+demeure des pierres froides, des angles que la clarté délaisse.  
 Elle est durée condensée, victoire sans combat,  
 présence immobile qui s’installe et persiste,  
 comme une matière qui s’épaissit dans le silence.  
