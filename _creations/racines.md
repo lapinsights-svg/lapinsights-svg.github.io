@@ -20,7 +20,7 @@ tags:
   <div style="flex: 1;">
 
 
-Le sol respire sous nous comme une bête immobile,  
+Le sol respire sous nos pieds comme une bête immobile,  
 et ses entrailles gardent la mémoire des pluies anciennes,  
 des pas effacés, des racines qui ont aimé puis cédé.  
 Il est chambre de résonances, vaste réservoir de certitudes,  
@@ -30,7 +30,7 @@ Et voici la ronce, avancée des forces premières,
 palpant l’air, interrogeant la lumière,  
 choisissant la faille la plus fine pour y glisser son destin.  
 Elle ne pousse pas : elle tranche, elle ouvre, elle fonde,  
-comme une phrase qui ne demande pas l’avis du monde.  
+comme une langue qui ne demande pas l’avis du monde.  
 
 Et voici la mousse, patience incarnée,  
 demeure des angles morts, des pierres froides, des zones que la clarté délaisse.  
