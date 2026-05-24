@@ -1,3 +1,19 @@
+---
+title: "Intelligences naturelles"
+date: 2026-05-24
+categories: creations
+layout: article
+og_image: /images/creations/racines.png
+tags:
+  - poésie
+  - nature
+  - intelligence
+  - racines
+  - vivant
+---
+
+![racines](/images/creations/racines.png)
+
 <style>
 .poeme-video {
   display: flex;
