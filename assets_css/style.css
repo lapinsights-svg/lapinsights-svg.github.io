@@ -1872,3 +1872,20 @@ Lapin retour salle echo
     font-size: 1.6rem;
   }
 }
+
+/* ————————————————————————
+   ADAPTATION MOBILE (GSM) — VIDEOS ARTICLE
+   ———————————————————————— */
+@media (max-width: 600px) {
+
+  /* Centrage parfait des vidéos dans les articles */
+  article video,
+  .post-content video,
+  .article-content video {
+    display: block;
+    margin: 0 auto !important;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+}
+
