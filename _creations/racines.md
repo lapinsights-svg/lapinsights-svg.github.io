@@ -45,7 +45,7 @@ Elle choisit la voie improbable, celle qui lui ressemble,
 celle qui la prolonge dans l’infini des terres.  
 
 Et nous, passants brefs,  
-souffle, vestige, trace dans leur durée.  
+souffle, vestige, trace dans leur continuité.  
 Nous vivons au milieu de ces intelligences sans récit,  
 sans morale, sans visage.  
 Elles ne nous imitent pas, elles ne nous attendent pas.  
