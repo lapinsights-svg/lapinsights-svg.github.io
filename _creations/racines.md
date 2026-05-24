@@ -35,7 +35,7 @@ Et voici la mousse, patience incarnée,
 demeure des angles morts, des pierres froides, des zones que la clarté délaisse.  
 Elle est durée condensée, victoire sans combat,  
 présence immobile qui s’installe et persiste,  
-comme une matière qui s’alourdit dans le silence.  
+comme une matière qui s’épaissit dans le silence.  
 
 Et voici la rivière, indomptée,  
 qui ne connaît aucune loi humaine,  
