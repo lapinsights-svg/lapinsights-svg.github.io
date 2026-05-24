@@ -1874,27 +1874,25 @@ Lapin retour salle echo
 }
 
 /* ————————————————————————
-   ADAPTATION MOBILE (GSM) — ARTICLE
+   ADAPTATION MOBILE (GSM) — WRAPPER ARTICLE
    ———————————————————————— */
 @media (max-width: 600px) {
 
-  /* On neutralise les décalages du layout article */
-  article,
-  .post-content,
-  .article-content,
-  .wrapper,
-  .page-content {
+  /* On neutralise le décalage du wrapper */
+  .section-content.article-wrapper.article-page {
     margin: 0 !important;
     padding: 0 !important;
     width: 100% !important;
   }
 
-  /* Et on centre la vidéo */
-  article video {
+  /* On centre la vidéo dans l'article */
+  .article-content video {
     display: block;
     margin: 0 auto !important;
     max-width: 100% !important;
     height: auto !important;
   }
 }
+
+ 
 
