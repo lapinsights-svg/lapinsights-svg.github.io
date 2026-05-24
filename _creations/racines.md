@@ -34,7 +34,7 @@ comme une langue qui ne demande pas l’avis du monde.
 
 Et voici la mousse, patience incarnée,  
 demeure des angles morts, des pierres froides, des zones que la clarté délaisse.  
-Elle est durée épaissie, victoire sans combat,  
+Elle est durée condensée, victoire sans combat,  
 présence immobile qui s’installe et persiste,  
 comme une matière qui s’épaissit dans le silence.  
 
