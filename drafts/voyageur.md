@@ -1,17 +1,19 @@
 ---
-title: "Macron, le voyageur des pierres occultes"
-date: 2026-05-24
+title: "Macron, le voyageur des failles"
+date: 2026-05-25
 layout: article
 categories: idees
 resume: "Une lecture de l’ascension de Macron à travers les failles du pouvoir."
 tags: [pouvoir, failles, outlander, imaginaire, politique]
+og_image: /images/idees/failles.png
 ---
 
+![failles](/images/idees/failles.png)
 
 
-# MAcron, le voyageur des failles maudites
+# Macron, le voyageur des failles maudites
 
-Dans *Outlander*, les **pierres** sont des seuils.  
+Dans la série *Outlander*, les **pierres** sont des seuils.  
 Elles reconnaissent certains corps, certaines vibrations,  
 et les transportent dans des mondes où les règles changent.
 
