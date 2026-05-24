@@ -11,7 +11,7 @@ tags:
   - racines
   - vivant
 ---
-![Racines](/images/creations/Racines.png)
+![racines](/images/creations/racines.png)
 
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
@@ -57,7 +57,7 @@ dans l’espace qui nous dépasse.
 
   <!-- Bloc vidéo -->
   <video controls width="320">
-    <source src="/assets/videos/racines.mp4" type="video/mp4">
+    <source src="/assets/videos/Racines.mp4" type="video/mp4">
     Votre navigateur ne supporte pas la lecture vidéo.
   </video>
 
