@@ -10,7 +10,6 @@ og_image: /images/idees/failles.png
 
 ![failles](/images/idees/failles.png)
 
-
 # Macron, le voyageur des failles maudites
 
 Dans la série *Outlander*, les **pierres** sont des seuils.  
@@ -74,7 +73,7 @@ Elle ne garde que le passage.
 Les **pierres** d’Outlander transportent dans le temps,  
 mais aussi dans un autre niveau de réalité.
 
-A cette imgae, l'Élysée est cette **faille**.
+À cette image, l’Élysée est cette **faille**.
 
 Elle ouvre un passage vers :
 
@@ -174,6 +173,5 @@ Il est le produit chimiquement pur
 d’un système de fissures,  
 de passages secrets,  
 de zones où seuls certains savent comment disparaître.
-
 
 Céleste R.
