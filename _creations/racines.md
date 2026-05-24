@@ -11,7 +11,7 @@ tags:
   - racines
   - vivant
 ---
-![racines](/images/creations/racines.png)
+![Racines](/images/creations/Racines.png)
 
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
