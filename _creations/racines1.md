@@ -1,0 +1,60 @@
+---
+title: "Intelligences naturelles"
+date: 2026-05-24
+categories: creations
+layout: article
+og_image: /images/creations/racines.png
+tags:
+  - poésie
+  - nature
+  - intelligence
+  - racines
+  - vivant
+---
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/J5GzuUSI-Qc"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+<br><br>
+
+Le sol respire sous nos pieds comme une bête immobile,  
+et ses entrailles gardent la mémoire des pluies anciennes,  
+des pas effacés, des racines qui ont aimé puis cédé.  
+Il est chambre de résonances, vaste réservoir de persistances,  
+où tout se transmue dans la lenteur des âges.  
+
+Et voici la ronce, avancée des forces premières,  
+palpant l’air, interrogeant la lumière,  
+choisissant la faille la plus fine pour y glisser son destin.  
+Elle ne pousse pas : elle tranche, elle ouvre, elle fonde,  
+comme une langue qui ignore l’avis du monde.  
+
+Et voici la mousse, patience incarnée,  
+demeure des pierres froides, des angles que la clarté délaisse.  
+Elle est durée condensée, victoire sans combat,  
+présence immobile qui s’installe et persiste,  
+comme une matière qui s’épaissit dans le silence.  
+
+Et voici la rivière, indomptée,  
+qui ne connaît aucune loi humaine,  
+qui déplace ses frontières, efface les cartes,  
+corrige les erreurs du paysage avec la lenteur des forces subtiles.  
+Elle choisit la voie improbable, celle qui lui ressemble,  
+celle qui la prolonge dans l’infini des terres.  
+
+Et nous, passants brefs,  
+souffle, vestige, trace dans leur continuité.  
+Nous vivons au milieu de ces intelligences sans récit,  
+sans morale, sans visage.  
+Elles ne nous imitent pas, elles ne nous attendent pas.  
+Elles continuent, indifférentes, inaltérables,  
+dans l’espace qui nous dépasse.  
+
+Céleste R.
