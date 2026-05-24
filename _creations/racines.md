@@ -14,9 +14,28 @@ tags:
 
 ![racines](/images/creations/racines.png)
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: nowrap;">
+<style>
+.poeme-video {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+.poeme {
+  flex: 1;
+}
+.video {
+  flex: 0 0 auto;
+}
+@media (max-width: 800px) {
+  .poeme-video {
+    flex-direction: column;
+  }
+}
+</style>
 
-<div style="flex: 1;">
+<div class="poeme-video">
+
+<div class="poeme">
 
 Le sol respire sous nos pieds comme une bête immobile,  
 et ses entrailles gardent la mémoire des pluies anciennes,  
@@ -55,7 +74,7 @@ Céleste R.
 
 </div>
 
-<div style="flex: 0 0 auto;">
+<div class="video">
 
 <video controls width="320">
   <source src="/assets/videos/racines.mp4" type="video/mp4">
