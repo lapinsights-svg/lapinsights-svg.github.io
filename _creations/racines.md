@@ -22,7 +22,7 @@ tags:
 Le sol respire sous nos pieds comme une bête immobile,  
 et ses entrailles gardent la mémoire des pluies anciennes,  
 des pas effacés, des racines qui ont aimé puis cédé.  
-Il est chambre de résonances, vaste réservoir de certitudes,  
+Il est chambre de résonances, vaste réservoir de persistances,  
 où rien ne s’efface, où tout se transmue dans la lenteur des âges.  
 
 Et voici la ronce, avancée des forces premières,  
