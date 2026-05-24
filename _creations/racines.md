@@ -40,7 +40,7 @@ comme une matière qui s’épaissit dans le silence.
 Et voici la rivière, indomptée,  
 qui ne connaît aucune loi humaine,  
 qui déplace ses frontières, efface les cartes,  
-corrige les erreurs du paysage avec la lenteur des forces sans visage.  
+corrige les erreurs du paysage avec la lenteur des forces subtiles.  
 Elle choisit la voie improbable, celle qui lui ressemble,  
 celle qui la prolonge dans l’infini des terres.  
 
