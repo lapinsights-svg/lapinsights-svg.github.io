@@ -1,5 +1,5 @@
 ---
-title: "Forces naturelles"
+title: "Forces souveraines"
 date: 2026-05-24
 categories: creations
 layout: article
