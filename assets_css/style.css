@@ -1874,14 +1874,23 @@ Lapin retour salle echo
 }
 
 /* ————————————————————————
-   ADAPTATION MOBILE (GSM) — VIDEOS ARTICLE
+   ADAPTATION MOBILE (GSM) — ARTICLE
    ———————————————————————— */
 @media (max-width: 600px) {
 
-  /* Centrage parfait des vidéos dans les articles */
-  article video,
-  .post-content video,
-  .article-content video {
+  /* On neutralise les décalages du layout article */
+  article,
+  .post-content,
+  .article-content,
+  .wrapper,
+  .page-content {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+  }
+
+  /* Et on centre la vidéo */
+  article video {
     display: block;
     margin: 0 auto !important;
     max-width: 100% !important;
