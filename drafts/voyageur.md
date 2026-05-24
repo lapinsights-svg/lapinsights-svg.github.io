@@ -3,7 +3,7 @@ title: "Macron, le voyageur des failles"
 date: 2026-05-25
 layout: article
 categories: idees
-resume: "Une lecture de l’ascension de Macron à travers les failles du pouvoir."
+resume: "Lecture métaphorique de l’ascension de Macron à travers les failles du pouvoir."
 tags: [pouvoir, failles, outlander, imaginaire, politique]
 og_image: /images/idees/failles.png
 ---
