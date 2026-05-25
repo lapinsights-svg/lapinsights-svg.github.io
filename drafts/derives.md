@@ -3,7 +3,21 @@ title: "Les dérives du spirituel et la clarté qui reste"
 date: 2026-05-27
 categories: spiritualite
 layout: article
+tags:
+  - lucidité
+  - spiritualité
+  - pensée
+  - émotion
+  - moi
+  - éveil
+  - discernement
+  - humanité
+  - clarté
+  - maturité
+og_image: /images/spiritualite/derives.png
 ---
+
+![derives](/images/spiritualite/derives.png)
 
 Il existe, au cœur des discours spirituels, une zone trouble où la lucidité se dissout dans la simplification, où la sagesse se dégrade en posture, où la profondeur se confond avec la fuite. Ce trouble n’est pas un accident : il naît lorsque des intuitions fines deviennent des dogmes, lorsque des observations précises se transforment en slogans, lorsque l’humain est sacrifié au profit d’un idéal abstrait. Il faut donc reprendre la matière, la tailler, la clarifier.
 
