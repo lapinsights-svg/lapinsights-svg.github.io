@@ -7,7 +7,7 @@ resume: "Florilège de pseudo‑sagesses ratiboisées — épisode V"
 tags:
   - spiritualite
   - pseudo-sagesses
-  - lapinsights
+  - new-age
 og_image: /images/spiritualite/univers.png
 ---
 ![univers](/images/spiritualite/univers.png)
