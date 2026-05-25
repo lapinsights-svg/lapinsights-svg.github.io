@@ -1,6 +1,6 @@
 ---
 title: "Les dérives du spirituel et la clarté qui reste"
-date: 2026-05-27
+date: 2026-05-25
 categories: spiritualite
 layout: article
 tags:
@@ -47,7 +47,7 @@ Les traditions ont nommé *éveil* ce qui n’était qu’un déplacement de per
 
 ## Les distinctions essentielles
 
-Pour ne pas se tromper, il faut maintenir des lignes nettes :
+Pour ne pas se tromper, il convient de maintenir des lignes nettes :
 
 - penser n’est pas croire  
 - ressentir n’est pas conclure  
