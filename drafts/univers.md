@@ -14,8 +14,9 @@ og_image: /images/spiritualite/univers.png
 
 ## *L’univers ne te donne jamais plus que ce que tu peux porter*  
 
-Il y a des phrases qui brillent comme des cailloux polis, et qui, quand on les retourne, coupent net.  
-Celle‑ci en fait partie.  
+Il y a des phrases qui brillent comme des pierres lisses qui brillent juste assez pour mentir, et qui, quand on les retourne, révèlent une arête vive.
+Celle‑ci en fait partie.
+Elle séduit par son éclat, mais cet éclat est trompeur : il prête une intention au vivant là où il n’y a qu’une dynamique immense, cohérente dans ses mouvements, mais sans souci de nos limites individuelles. 
 Elle circule dans les milieux pseudo‑lumineux comme une maxime de sagesse, mais elle a la texture d’un mensonge confortable, un mensonge qui racle.
 
 ---
@@ -23,7 +24,7 @@ Elle circule dans les milieux pseudo‑lumineux comme une maxime de sagesse, mai
 ### Le mensonge de la charge mesurée
 
 Dire que “l’univers ne te donne jamais plus que ce que tu peux porter”, c’est imaginer un cosmos comptable, un dieu‑algorithme qui ajuste les poids avec une précision d’orfèvre.  
-C’est projeter une intention là où il n’y a qu’un chaos minéral, un mouvement sans morale, une nuit sans pédagogie.
+C’est projeter une intention là où il n’y a qu’une dynamique du vivant, vaste, indifférente à nos seuils, même si elle n'est pas dénuée d'une certaine cohérence. 
 
 Cette phrase voudrait faire croire que la douleur est calibrée, que l’effondrement est impossible, que tout ce qui t’écrase est, en secret, un compliment.
 
@@ -47,7 +48,7 @@ Elle transforme la détresse en manque de foi.
 
 ---
 
-### La vérité nocturne : parfois, le monde déborde
+### Parfois, le monde déborde
 
 Il existe des charges qui brisent.  
 Des nuits qui ne s’ouvrent pas.  
@@ -57,17 +58,17 @@ Le réel n’est pas un logisticien.
 Il ne distribue pas les fardeaux selon ta musculature intérieure.  
 Il tombe, il frappe, il déborde, il écrase — sans intention, sans message, sans pédagogie cosmique.
 
-Reconnaître cela, c’est retrouver une souveraineté minérale :  
+Reconnaître cela, c’est retrouver une vraie souveraineté :  
 celle de dire *non*, celle de dire *stop*, celle de dire *je ne porterai pas ça seule*.
 
 ---
 
-### La phrase retournée.
+### La phrase retournée
 
 > **Ce n’est pas toi qui dois être à la hauteur de la charge.  
 > C’est la charge qui doit être à la hauteur d’un être humain.**
 
-Oui, je sais : c’est moins brillant, c'est moins instagrammable, moins “éveillé”.  
+Oui, je sais : cela fait moins brillant, moins instagrammable, moins “éveillé”.  
 Mais c’est vrai.  
 Et la vérité, la nuit, a toujours un goût de pierre.  
 
