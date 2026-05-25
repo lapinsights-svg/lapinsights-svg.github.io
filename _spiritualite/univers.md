@@ -14,7 +14,7 @@ og_image: /images/spiritualite/univers.png
 
 ## *L’univers ne te donne jamais plus que ce que tu peux porter*
 
-Il y a des phrases qui brillent comme des pierres lisses, juste assez pour mentir, et qui, quand on les retourne, révèlent une arête vive.  
+Il y a des phrases qui brillent comme des pierres lisses, trop polies pour ne pas mentir, et qui, quand on les retourne, révèlent une arête vive.  
 Celle‑ci en fait partie.  
 Elle séduit par son éclat, mais cet éclat est trompeur : il prête une intention au vivant là où il n’y a qu’une dynamique immense, parfois cohérente dans ses mouvements, mais sans souci de nos limites individuelles.
 
