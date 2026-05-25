@@ -29,7 +29,7 @@ layout: default
       {% include like.html %}
       {% include comments.html %}
 
-     <!-- BLOC : À LIRE AUSSI (random pondéré thématique) -->
+    <!-- BLOC : À LIRE AUSSI (random pondéré thématique sans dépendre des tags) -->
 {% if page.collection %}
   {% assign current_collection = page.collection %}
   {% assign related_posts = "" | split: "" %}
@@ -45,10 +45,16 @@ layout: default
       <h3>A lire aussi</h3>
 
       {% assign weighted_list = "" | split: "" %}
+
       {% assign current_tags = page.tags | default: "" %}
+      {% assign current_title_words = page.title | downcase | split: " " %}
 
       {% for post in related_posts %}
         {% assign score = 1 %}
+
+        {%- comment -%}
+        TAGS (si présents)
+        {%- endcomment -%}
         {% if current_tags != "" and post.tags %}
           {% for tag in post.tags %}
             {% if current_tags contains tag %}
@@ -57,11 +63,27 @@ layout: default
           {% endfor %}
         {% endif %}
 
+        {%- comment -%}
+        TITRE (toujours présent)
+        {%- endcomment -%}
+        {% assign post_title_words = post.title | downcase | split: " " %}
+        {% for word in current_title_words %}
+          {% if post_title_words contains word %}
+            {% assign score = score | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+
+        {%- comment -%}
+        On ajoute le post dans la liste pondérée
+        {%- endcomment -%}
         {% for i in (1..score) %}
           {% assign weighted_list = weighted_list | push: post %}
         {% endfor %}
       {% endfor %}
 
+      {%- comment -%}
+      Random pseudo-aléatoire stable
+      {%- endcomment -%}
       {% assign seed = page.title | size | plus: page.date | date: "%s" %}
       {% assign index = seed | modulo: weighted_list.size %}
       {% assign suggestion = weighted_list[index] %}
