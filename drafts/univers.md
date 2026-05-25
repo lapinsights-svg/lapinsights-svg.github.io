@@ -12,7 +12,7 @@ og_image: /images/spiritualite/univers.png
 ---
 ![univers](/images/spiritualite/univers.png)
 
-## 🌒*L’univers ne te donne jamais plus que ce que tu peux porter*  
+## *L’univers ne te donne jamais plus que ce que tu peux porter*  
 
 Il y a des phrases qui brillent comme des cailloux polis, et qui, quand on les retourne, coupent net.  
 Celle‑ci en fait partie.  
