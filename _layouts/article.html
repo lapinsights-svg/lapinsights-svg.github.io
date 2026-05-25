@@ -29,35 +29,48 @@ layout: default
       {% include like.html %}
       {% include comments.html %}
 
-      <!-- BLOC : À LIRE AUSSI -->
-      {% if page.collection %}
-        {% assign current_collection = page.collection %}
-        {% assign related_posts = "" | split: "" %}
+     <!-- BLOC : À LIRE AUSSI (random pondéré thématique) -->
+{% if page.collection %}
+  {% assign current_collection = page.collection %}
+  {% assign related_posts = "" | split: "" %}
 
-        {% for post in site[current_collection] %}
-          {% if post.url != page.url %}
-            {% assign related_posts = related_posts | push: post %}
-          {% endif %}
-        {% endfor %}
+  {% for post in site[current_collection] %}
+    {% if post.url != page.url %}
+      {% assign related_posts = related_posts | push: post %}
+    {% endif %}
+  {% endfor %}
 
-        {% if related_posts.size > 0 %}
-          <div class="related-article">
-            <h3>A lire aussi</h3>
+  {% if related_posts.size > 0 %}
+    <div class="related-article">
+      <h3>A lire aussi</h3>
 
-            {% assign seed = page.title | size | plus: page.date | date: "%s" %}
-            {% assign index = seed | modulo: related_posts.size %}
-            {% assign suggestion = related_posts[index] %}
+      {% assign weighted_list = "" | split: "" %}
+      {% assign current_tags = page.tags | default: "" %}
 
-            {% if suggestion.url == page.url %}
-              {% assign index = index | plus: 1 | modulo: related_posts.size %}
-              {% assign suggestion = related_posts[index] %}
+      {% for post in related_posts %}
+        {% assign score = 1 %}
+        {% if current_tags != "" and post.tags %}
+          {% for tag in post.tags %}
+            {% if current_tags contains tag %}
+              {% assign score = score | plus: 2 %}
             {% endif %}
-
-            <a href="{{ suggestion.url }}">{{ suggestion.title }}</a>
-          </div>
+          {% endfor %}
         {% endif %}
-      {% endif %}
-      <!-- FIN DU BLOC -->
+
+        {% for i in (1..score) %}
+          {% assign weighted_list = weighted_list | push: post %}
+        {% endfor %}
+      {% endfor %}
+
+      {% assign seed = page.title | size | plus: page.date | date: "%s" %}
+      {% assign index = seed | modulo: weighted_list.size %}
+      {% assign suggestion = weighted_list[index] %}
+
+      <a href="{{ suggestion.url }}">{{ suggestion.title }}</a>
+    </div>
+  {% endif %}
+{% endif %}
+<!-- FIN DU BLOC -->
 
       <!-- BLOC : LIENS RITUELS -->
       <div class="liens-territoires">
