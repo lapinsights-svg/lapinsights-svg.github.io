@@ -33,6 +33,7 @@ layout: default
       {% if page.collection %}
         {% assign current_collection = page.collection %}
         {% assign related_posts = "" | split: "" %}
+
         {% for post in site[current_collection] %}
           {% if post.url != page.url %}
             {% assign related_posts = related_posts | push: post %}
@@ -43,8 +44,14 @@ layout: default
           <div class="related-article">
             <h3>A lire aussi</h3>
 
-            {% assign sorted = related_posts | sort: "date" %}
-            {% assign suggestion = sorted | last %}
+            {% assign seed = page.title | size | plus: page.date | date: "%s" %}
+            {% assign index = seed | modulo: related_posts.size %}
+            {% assign suggestion = related_posts[index] %}
+
+            {% if suggestion.url == page.url %}
+              {% assign index = index | plus: 1 | modulo: related_posts.size %}
+              {% assign suggestion = related_posts[index] %}
+            {% endif %}
 
             <a href="{{ suggestion.url }}">{{ suggestion.title }}</a>
           </div>
