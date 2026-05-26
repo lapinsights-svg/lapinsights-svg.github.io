@@ -78,7 +78,7 @@ Les sources publiques montrent que Palantir est déjà profondément implantée 
 
 - **Allemagne** : Bundeswehr, logistique militaire (*Der Spiegel*)  
 - **Royaume‑Uni** : NHS, police, renseignement (*BBC*, *The Guardian*)  
-- **Pays‑Bas** : police et infrastructures critiques (*NL Times)  
+- **Pays‑Bas** : police et infrastructures critiques (*NL Times*)  
 - **France** : usages par la DGSI et la gendarmerie (*Le Monde*, *Politico EU*)
 
 Dans le désert de Palantir, les États ne sont pas des forteresses.  
@@ -181,7 +181,9 @@ comme on transmet une source dans un paysage qui se durcit.
 Car un désert peut avancer.  
 Mais une oasis peut renaître.
 
----
+---  
+
+Suite de ce texte : [Technonat](https://lapinsights-svg.github.io/idees/technonat/)
 
 
   # Sources:  
