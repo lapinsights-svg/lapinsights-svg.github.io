@@ -3,7 +3,7 @@ title: "Le désert de Palantir"
 date: 2026-05-26
 categories: idees
 resume: "Dans le désert de Palantir, la souveraineté s’effrite comme du sable sec."
-layout: default
+layout: article
 og_image: /images/idees/Palentir.png
 ---
 
