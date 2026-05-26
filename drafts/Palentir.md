@@ -2,7 +2,7 @@
 title: "Le désert de Palantir"
 date: 2026-05-26
 categories: idees
-summary: "Dans le désert de Palantir, la donnée devient roche, la prédiction devient dune, et la souveraineté s’effrite comme du sable sec."
+resume: "Dans le désert de Palantir, la souveraineté s’effrite comme du sable sec."
 layout: default
 og_image: /images/idees/Palentir.png
 ---
