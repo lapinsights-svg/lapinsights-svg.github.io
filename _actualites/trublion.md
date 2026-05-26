@@ -17,7 +17,7 @@ Cette fois, c’est Patrick Sébastien.
 
 Il ne menace rien.  
 Il ne renverse rien.  
-Il **amortit**.
+Il amortit.
 
 Il absorbe l’exaspération, la recycle en convivialité, détourne la souveraineté vers le divertissement.  
 Il devient la **soupape** d’un système qui préfère un peuple amusé à un peuple lucide.
@@ -56,7 +56,7 @@ celui du **trublion populaire**, du **porte‑voix du ras‑le‑bol**, du **rê
 
 Il n’est pas manipulé.  
 Il n’est pas stratège.  
-Il est **fonctionnel**.
+Il est fonctionnel.
 
 Il canalise la tension, la rend inoffensive, la renvoie sous forme de folklore.  
 Il transforme la colère politique en émotion festive, la revendication en ritournelle, la lucidité en mousse.
@@ -86,7 +86,7 @@ Il est un **amortisseur**.
 ## La colère souveraine ne passe pas par un saltimbanque
 
 Les Français n’ont pas besoin d’être calmés.  
-Ils ont besoin d’être **entendus**.
+Ils ont besoin d’être entendus.
 
 La colère n’a pas vocation à être chantée.
 Elle a vocation à être dirigée vers ceux qui décident.
@@ -99,7 +99,7 @@ Elle se **reprend**.
 ## Conclusion
 
 Patrick Sébastien n’endort pas par malveillance.  
-Il endort par **fonction**.
+Il endort par fonction.
 
 Il transforme la colère en mousse, la souveraineté en folklore, l’exigence en divertissement.  
 Et un peuple qui veut rester souverain ne confie pas sa colère à un trublion.  
