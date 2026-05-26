@@ -78,7 +78,7 @@ Les sources publiques montrent que Palantir est déjà profondément implantée 
 
 - **Allemagne** : Bundeswehr, logistique militaire (*Der Spiegel*)  
 - **Royaume‑Uni** : NHS, police, renseignement (*BBC*, *The Guardian*)  
-- **Pays‑Bas** : police et infrastructures critiques (*Dutch Review*)  
+- **Pays‑Bas** : police et infrastructures critiques (*NL Times)  
 - **France** : usages par la DGSI et la gendarmerie (*Le Monde*, *Politico EU*)
 
 Dans le désert de Palantir, les États ne sont pas des forteresses.  
@@ -197,21 +197,14 @@ Mais une oasis peut renaître.
 
 - Financial Times — *Alex Karp’s worldview*  
   https://www.ft.com  
-
-- The Intercept — *Predictive policing and Palantir*  
-  https://theintercept.com  
-
-- ProPublica — *Algorithmic bias investigations*  
-  https://www.propublica.org  
-
-- Amnesty International — *Surveillance, policing and discrimination*  
-  https://www.amnesty.org  
   
 - Der Spiegel — *Bundeswehr and Palantir*  
   https://www.spiegel.de  
 
 - BBC — *NHS and Palantir*  
-  https://www.bbc.com  
+  https://www.bbc.com
+
+- NL Times — *Dutch police also use controversial AI intelligence software by American Palantir*
 
 - Le Monde — *Palantir et les services français*  
   https://www.lemonde.fr  
