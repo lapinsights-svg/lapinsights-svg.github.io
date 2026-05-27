@@ -73,7 +73,7 @@ mais qui **te remodèle**, lentement, comme une main invisible qui ajuste ton re
 
 ## 3. La double contrainte : la nuit où tu ne peux jamais avoir raison
 
-Voici le cœur du mécanisme — la zone la plus sombre, la plus serrée.
+Voici le cœur du mécanisme, la zone la plus sombre, la plus serrée.
 
 Cette phrase t’enferme dans une double contrainte parfaite :
 
@@ -108,7 +108,7 @@ Il dit :
 - ce que tu comprends n’est pas valide,  
 - ce qui t’arrive n’est qu’un miroir de ton erreur.
 
-C’est une manière élégante — presque douce — de t’interdire de dire :  
+C’est une manière élégante de t’interdire de dire :  
 **« ceci est réel »**.
 
 Le monde devient un décor flou.  
