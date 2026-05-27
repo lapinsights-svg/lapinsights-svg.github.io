@@ -22,7 +22,7 @@ C’est un paysage mental, un territoire idéologique, une étendue où la donn�
 Dans ce désert, Palantir n’est pas une entreprise.  
 C’est une **géométrie**, une manière de voir le monde.
 
-En 2023, l’entreprise a publié un résumé en 22 points du livre de son CEO Alex Karp — un texte que *The Guardian*, *Wired* et *Politico EU* ont décrit comme un **manifeste idéologique**.  
+En 2023, l’entreprise a publié un résumé en 22 points du livre de son CEO Alex Karp, un texte que *The Guardian*, *Wired* et *Politico EU* ont décrit comme un **manifeste idéologique**.  
 Un texte qui parle de guerre, de civilisation, de destin.  
 Un texte qui cherche à **réordonner le réel**.
 
@@ -144,7 +144,7 @@ Elle veut **façonner le désert**.
 Un monde où la démocratie doit se durcir pour survivre.  
 Un monde où la technologie doit guider la politique.  
 Un monde où la prévision doit remplacer le débat.  
-Un monde où l’incertitude — cette matière première de la liberté — doit être éliminée.
+Un monde où l’incertitude — cette matière première de la liberté - doit être éliminée.
 
 C’est cela, le cœur du désert de Palantir :  
 la promesse d’un futur sans surprise,  
@@ -158,7 +158,7 @@ Un futur où l’humain serait enfin **domestiqué par la lumière totale**.
 ## Et pourtant : l’oasis
 
 Mais aucun désert n’est total.  
-Même dans la lumière la plus dure, il existe une **oasis** —  
+Même dans la lumière la plus dure, il existe une **oasis**,    
 un lieu où l’eau remonte, où la fraîcheur persiste, où quelque chose résiste à la minéralisation du monde.
 
 Cette oasis, c’est notre **liberté**.  
