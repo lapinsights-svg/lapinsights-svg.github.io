@@ -121,7 +121,7 @@ comme si ta propre perception était une pièce où tu n’as plus le droit d’
 ## 5. Ratiboisage final
 
 **« Les épreuves ne sont que des leçons que tu as manqué d'apprendre et qui te sont présentées à nouveau. »**  
-→ devient, une fois **retournée et corrigée** :
+devient, une fois **retournée et corrigée** :
 
 > *Ce qui revient n’est pas une leçon manquée.  
 > C’est une réalité qui insiste, et que tu as le droit de voir clairement,  
