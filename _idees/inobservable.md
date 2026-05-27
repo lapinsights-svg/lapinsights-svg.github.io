@@ -17,20 +17,14 @@ Il ne s’agit pas d’expliquer, mais de cartographier ce qui se dérobe.
 
 Ces zones décrivent les forces invisibles qui sculptent nos gestes, nos vies même, avant toute compréhension —  
 et c’est cela qui m’importe : elles révèlent ce qui agit dans l’ombre, ce qui reste caché,  
-ce que ce site cherche à faire affleurer.
-
-La lecture demande une attention lente, une disponibilité intérieure, une acceptation de l’opacité.  
-Ce territoire est une géologie.  
-Il ne se comprend pas d’un seul regard.  
-Il se traverse.
-
+ce que ce site cherche à faire affleurer.  
 
 ---
 
 # Hypothèse du Territoire Inobservable  
 
-Il existe une zone, au cœur du réel, qui ne supporte pas la lumière.  
-Un espace qui ne se laisse ni mesurer, ni stabiliser, ni capturer.  
+Je parle d'une zone, au cœur du réel, qui ne supporte pas la lumière.  
+C'est un espace qui ne se laisse ni mesurer, ni stabiliser, ni capturer.  
 Un territoire qui n’existe que tant qu’aucun regard ne le traverse.
 
 Le visible n’est qu’une surface.  
@@ -41,7 +35,7 @@ Sous cette couche, le réel respire autrement.
 
 ---
 
-# 1. Le réel possède des zones qui se retirent
+# Le réel possède des zones qui se retirent
 
 Certaines choses ne sont pas invisibles : elles sont inobservables.  
 Elles ne se cachent pas — elles cessent d’être dès qu’on tente de les saisir.
@@ -60,7 +54,7 @@ Une couche qui se défend en disparaissant.
 
 ---
 
-# 2. La décision pré‑formelle : un phénomène qui n’existe qu’en retrait
+# La décision pré‑formelle : un phénomène qui n’existe qu’en retrait
 
 La décision ne naît pas dans la conscience.  
 Elle naît avant, dans une zone pré‑formelle : multiple, instable, ouverte.
@@ -77,7 +71,7 @@ Elle disparaît dès que la conscience arrive, comme une trace effacée par la l
 
 ---
 
-# 3. Le territoire inobservable comme espace indompté
+# Le territoire inobservable comme espace indompté
 
 Dans un monde saturé de visibilité, de traçabilité, de capture,  
 le territoire inobservable devient un refuge.  
@@ -101,7 +95,7 @@ Une superposition de zones qui ne se laissent pas saisir de la même manière.
 
 ---
 
-## 1. La Zone Pré‑Formelle  
+## a. La Zone Pré‑Formelle  
 
 Lieu de naissance des décisions, des gestes, des intuitions.  
 Rien n’y est stabilisé.  
@@ -118,7 +112,7 @@ Elle n’existe que dans le retrait.
 
 ---
 
-## 2. La Zone Furtive
+## b. La Zone Furtive
 
 Phénomènes qui n’existent qu’en absence de témoin.
 
@@ -135,7 +129,7 @@ dans l’instant où aucun regard ne les fixe encore.*
 
 ---
 
-## 3. La Zone d’Opacité Active
+## c. La Zone d’Opacité Active
 
 Ici, le retrait est une force.  
 Une résistance.  
@@ -154,7 +148,7 @@ La Zone d’Opacité Active protège ce qui ne peut être exposé sans être dé
 
 ---
 
-## 4. La Zone des États Multiples
+## d. La Zone des États Multiples
 
 Zone où les phénomènes existent sous plusieurs formes potentielles avant stabilisation.  
 Non pas au sens quantique strict, mais comme structure du possible.  
@@ -167,7 +161,7 @@ L’observation effondre cette multiplicité en un seul état.
 
 ---
 
-## 5. La Zone des Croyances Structurelles
+## e. La Zone des Croyances Structurelles
 
 Ici, les croyances ne sont pas des idées.  
 Elles sont des forces, des poids, des valences, des piliers identitaires.
@@ -225,7 +219,7 @@ Elle se mesure à la capacité d’un champ à laisser entrer un possible nouvea
 
 ---
 
-# 6. La Zone de Respiration du Réel
+# La Zone de Respiration du Réel
 
 La zone la plus diffuse.  
 Celle qui garantit que le monde ne se ferme pas sur lui‑même.
