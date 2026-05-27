@@ -82,8 +82,7 @@ Les sources publiques montrent que Palantir est déjà profondément implantée 
 - **France** : usages par la DGSI et la gendarmerie (*Le Monde*, *Politico EU*)
 
 Dans le désert de Palantir, les États ne sont pas des forteresses.  
-Ce sont des **oasis**.  
-Et les oasis peuvent être capturées.
+Ce sont des points d’eau artificiels qui se laissent capturés.
 
 Le Cloud Act américain plane comme une chaleur blanche :  
 les données traitées par une entreprise américaine peuvent être réclamées par Washington (*CNIL*, *EDPS*).  
