@@ -4,7 +4,11 @@ date: 2026-05-28
 categories: spiritualite
 resume: "Florilège de pseudo‑sagesses ratiboisées — épisode VI"
 Layout: article
+tags: [florilege, pseudo-sagesses, spiritualite]
+og_image: /images/spiritualite/enseignement.png
 ---
+
+![enseignement](/images/spiritualite/enseignement.png)
 
 C'est une phrase qui ne cherche pas à décrire le monde, mais à **décrire la manière dont tu devrais te tenir dans le monde**.  
 Elle ne parle pas de ce qui arrive : elle parle de la manière dont tu devrais te percevoir en train de vivre.  
