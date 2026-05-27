@@ -183,6 +183,8 @@ Mais une oasis peut renaître.
 
 ---  
 
+Céleste R.
+
 Suite de ce texte : [Technonat](https://lapinsights-svg.github.io/idees/technonat/)
 
 
