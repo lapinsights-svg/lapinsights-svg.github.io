@@ -1,5 +1,5 @@
 ---
-title: "L’erreur se répétera tant que tu n’auras pas appris la leçon"
+title: "Les épreuves ne sont que des leçons que tu as manqué d'apprendre..."
 date: 2026-05-28
 categories: spiritualite
 resume: "Florilège de pseudo‑sagesses ratiboisées — épisode VI"
@@ -10,16 +10,21 @@ og_image: /images/spiritualite/enseignement.png
 
 ![enseignement](/images/spiritualite/enseignement.png)
 
-C'est une phrase qui ne cherche pas à décrire le monde, mais à **décrire la manière dont tu devrais te tenir dans le monde**.  
+C'est une phrase qui ne cherche pas à décrire le monde, mais à décrire la manière dont tu devrais te tenir dans le monde.  
 Elle ne parle pas de ce qui arrive : elle parle de la manière dont tu devrais te percevoir en train de vivre.  
-Elle ne console pas : elle **resserre**.
+Elle ne console pas : elle resserre.
 
-Celle-ci semble anodine, mais son mécanisme secret exerce une pression sourde sur la pensée:   
+Celle-ci semble anodine, mais son mécanisme secret exerce une pression sourde sur la pensée.  
 
-**« L’erreur se répétera tant que tu n’auras pas appris la leçon. »**
+Le Cours en Miracles en donne la version matricielle :  
+« Les épreuves ne sont que des leçons que tu as manqué d'apprendre et qui te sont présentées à nouveau. »
 
-Elle ne dit pas que la situation est difficile.  
-Elle dit que **ta perception est fautive**.  
+Et la phrase qui soutient tout cela est encore plus claire :  
+« Je suis tel que Dieu m’a créé. Son Fils ne peut pas souffrir. Et je suis Son Fils. »
+
+Autrement dit : si tu souffres, c’est que ce que tu vois n’est pas réel.  
+La douleur n’est plus un fait : c’est une erreur de perception.
+
 Et elle t’installe dans une nuit particulière : une nuit où tu dois te surveiller toi‑même.
 
 ---
@@ -115,15 +120,16 @@ comme si ta propre perception était une pièce où tu n’as plus le droit d’
 
 ## 5. Ratiboisage final
 
-**« L’erreur se répétera tant que tu n’auras pas appris la leçon »**  
+**« Les épreuves ne sont que des leçons que tu as manqué d'apprendre et qui te sont présentées à nouveau. »**  
 → devient, une fois **retournée et corrigée** :
 
-> *Ce qui se répète n’est pas une erreur de perception.  
+> *Ce qui revient n’est pas une leçon manquée.  
 > C’est une réalité qui insiste, et que tu as le droit de voir clairement,  
-> même la nuit, même quand tout te dit de douter de toi.*
+> sans te soupçonner, sans te corriger, sans te dissoudre.*
 
-La lucidité n’est pas dans la correction intérieure.  
+La lucidité n’est pas dans la suspicion de ta perception.  
 Elle est dans la **réhabilitation du réel**,  
-dans la sortie de la double contrainte,  
+dans la sortie de la boucle,  
 dans la permission de dire :  
 **« ceci arrive, et je ne suis pas fautif de le voir. »**
+
