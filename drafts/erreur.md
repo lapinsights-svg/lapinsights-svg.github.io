@@ -6,11 +6,11 @@ resume: "Florilège de pseudo‑sagesses ratiboisées — épisode VI"
 Layout: article
 ---
 
-Il existe des phrases qui ne cherchent pas à décrire le monde, mais à **décrire la manière dont tu devrais te tenir dans le monde**.  
-Elles ne parlent pas de ce qui arrive : elles parlent de la manière dont tu devrais te percevoir en train de vivre.  
-Elles ne consolent pas : elles **resserrent**.
+C'est une phrase qui ne cherche pas à décrire le monde, mais à **décrire la manière dont tu devrais te tenir dans le monde**.  
+Elle ne parle pas de ce qui arrive : elle parle de la manière dont tu devrais te percevoir en train de vivre.  
+Elle ne console pas : elle **resserre**.
 
-Celle‑ci semble anodine, mais son mécanisme secret exerce une pression sourde sur la pensée.  
+Celle-ci semble anodine, mais son mécanisme secret exerce une pression sourde sur la pensée:   
 
 **« L’erreur se répétera tant que tu n’auras pas appris la leçon. »**
 
