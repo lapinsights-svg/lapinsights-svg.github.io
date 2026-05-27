@@ -118,7 +118,7 @@ et la stabilité avec la surveillance.
 
 Palantir ne s’installe pas par conquête.  
 Elle s’installe parce que les institutions, débordées, fragmentées,  
-cherchent un **centre de gravité**.  
+cherchent un centre de gravité.  
 Et la machine le leur offre.  
 
 Ce n’est pas une invasion.  
