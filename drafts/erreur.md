@@ -10,7 +10,7 @@ Il existe des phrases qui ne cherchent pas à décrire le monde, mais à **décr
 Elles ne parlent pas de ce qui arrive : elles parlent de la manière dont tu devrais te percevoir en train de vivre.  
 Elles ne consolent pas : elles **resserrent**.
 
-Celle‑ci en est une, lisse en surface, mais coupante dans sa structure :
+Celle‑ci semble anodine, mais elle pèse comme une pierre posée sur la pensée:  
 
 **« L’erreur se répétera tant que tu n’auras pas appris la leçon. »**
 
