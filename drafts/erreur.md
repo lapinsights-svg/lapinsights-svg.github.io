@@ -41,7 +41,7 @@ La limite n’est plus une information : c’est une mauvaise lecture.
 La répétition n’est plus un phénomène : c’est un rappel que tu n’as pas « bien vu ».
 
 Le monde se retire.  
-Tu restes seule avec ton regard — et ton regard devient un lieu de suspicion.
+Tu restes seul avec ton regard, et ton regard devient un lieu de suspicion.
 
 ---
 
@@ -71,11 +71,11 @@ Cette phrase t’enferme dans une double contrainte parfaite :
 1. **Ce que tu vis n’est pas réel.**  
 2. **Si tu continues à le vivre, c’est que tu te trompes.**
 
-Si tu souffres → tu n’as pas « appris ».  
-Si tu vois un problème → tu n’as pas « compris ».  
-Si tu t’effondres → tu n’as pas « intégré ».  
-Si tu veux changer la situation → c’est que tu es encore dans l’erreur.  
-Si tu n’arrives pas à changer ta perception → c’est que tu résistes.
+Si tu souffres,  tu n’as pas « appris ».  
+Si tu vois un problème, tu n’as pas « compris ».  
+Si tu t’effondres, tu n’as pas « intégré ».  
+Si tu veux changer la situation, c’est que tu es encore dans l’erreur.  
+Si tu n’arrives pas à changer ta perception, c’est que tu résistes.
 
 Tu es sommée de corriger ton regard,  
 mais tu n’as plus le droit de dire que ce que tu vois existe.
@@ -122,4 +122,4 @@ La lucidité n’est pas dans la correction intérieure.
 Elle est dans la **réhabilitation du réel**,  
 dans la sortie de la double contrainte,  
 dans la permission de dire :  
-**« ceci arrive, et je ne suis pas fautive de le voir. »**
+**« ceci arrive, et je ne suis pas fautif de le voir. »**
