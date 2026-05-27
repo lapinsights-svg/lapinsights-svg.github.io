@@ -131,5 +131,7 @@ La lucidité n’est pas dans la suspicion de ta perception.
 Elle est dans la **réhabilitation du réel**,  
 dans la sortie de la boucle,  
 dans la permission de dire :  
-**« ceci arrive, et je ne suis pas fautif de le voir. »**
+**« ceci arrive, et je ne suis pas fautif de le voir. »**.  
+
+  Céleste R.
 
