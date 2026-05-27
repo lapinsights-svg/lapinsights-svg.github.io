@@ -72,7 +72,7 @@ La donnée comme destin.
 
 ---
 
-## L’Europe : les oasis capturées
+## L’Europe : les points d'eau artificiels capturés 
 
 Les sources publiques montrent que Palantir est déjà profondément implantée dans les structures européennes :
 
