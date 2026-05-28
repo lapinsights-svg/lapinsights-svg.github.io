@@ -29,12 +29,8 @@ layout: default
 
     <div class="article-line">
 
-      <span class="article-date">
+      <div class="article-date">
         {{ article.updated_at | default: article.date | date: "%d.%m.%Y" }}
-
-        {%- comment -%}
-        Calcul du clignotement : si updated_at < 24h → classe maj-blink
-        {%- endcomment -%}
 
         {% if article.updated_at %}
           {% assign now = 'now' | date: '%s' %}
@@ -45,19 +41,21 @@ layout: default
             MàJ
           </span>
         {% endif %}
-      </span>
+      </div>
 
-      <span class="article-title">
-        <a href="{{ article.url | relative_url }}">
-          {{ article.title }}
-        </a>
-      </span>
-
-      {% if article.resume %}
-        <span class="article-teaser">
-          {{ article.resume }}
+      <div class="article-meta">
+        <span class="article-title">
+          <a href="{{ article.url | relative_url }}">
+            {{ article.title }}
+          </a>
         </span>
-      {% endif %}
+
+        {% if article.resume %}
+          <span class="article-teaser">
+            {{ article.resume }}
+          </span>
+        {% endif %}
+      </div>
 
     </div>
 
