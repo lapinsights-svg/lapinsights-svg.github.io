@@ -31,6 +31,20 @@ layout: default
 
       <span class="article-date">
         {{ article.updated_at | default: article.date | date: "%d.%m.%Y" }}
+
+        {%- comment -%}
+        Calcul du clignotement : si updated_at < 24h → classe maj-blink
+        {%- endcomment -%}
+
+        {% if article.updated_at %}
+          {% assign now = 'now' | date: '%s' %}
+          {% assign updated = article.updated_at | date: '%s' %}
+          {% assign diff = now | minus: updated %}
+
+          <span class="maj-label {% if diff < 86400 %}maj-blink{% endif %}">
+            MàJ
+          </span>
+        {% endif %}
       </span>
 
       <span class="article-title">
