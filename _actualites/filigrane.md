@@ -29,7 +29,7 @@ La Cour européenne des droits de l’homme, dans plusieurs arrêts, rappelle po
 
 Le texte introduit des procédures de retour accélérées, où les délais pour contester une décision se réduisent à une peau de chagrin. Pourtant, le droit européen garantit un **recours effectif**, un **accès réel à un avocat**, un **examen individuel**, un **délai raisonnable** pour préparer sa défense.
 
-Les ONG — Amnesty International, Human Rights Watch — alertent sur le risque d’expulsions injustifiées, parfois dangereuses, parfois irréversibles. Quand la vitesse devient un objectif politique, la justice devient un obstacle.
+Les ONG - Amnesty International, Human Rights Watch - alertent sur le risque d’expulsions injustifiées, parfois dangereuses, parfois irréversibles. Quand la vitesse devient un objectif politique, la justice devient un obstacle.
 
 ---
 
