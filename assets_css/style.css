@@ -1894,5 +1894,22 @@ Lapin retour salle echo
   }
 }
 
+  /* Mise à jour article */
+.maj-label {
+  display: block;
+  font-size: 0.7em;
+  opacity: 0.6;
+  margin-top: -2px;
+}
+
+.maj-blink {
+  animation: majBlink 1.2s ease-in-out infinite;
+}
+
+@keyframes majBlink {
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 0.15; }
+}
+
  
 
