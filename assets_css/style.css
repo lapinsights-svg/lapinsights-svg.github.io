@@ -1903,7 +1903,11 @@ maj-label {
   text-align: center; /* centrage */
   width: 100%; /* garantit le centrage même si le parent est étroit */
 }
-
+.article-date {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+}
 .maj-blink {
   animation: majBlink 1.2s ease-in-out infinite;
 }
