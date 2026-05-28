@@ -1898,14 +1898,15 @@ Lapin retour salle echo
 .article-line {
   display: flex;
   align-items: flex-start;
-  gap: 1rem;
+  gap: 1.2rem;
 }
 
 .article-date {
   display: flex;
   flex-direction: column;
-  align-items: center; /* centre la date + MàJ */
-  min-width: 4.5rem;   /* colonne stable */
+  align-items: center;
+  width: 5rem; /* largeur fixe = ALIGNEMENT PARFAIT */
+  flex-shrink: 0; /* empêche la colonne de se réduire */
 }
 
 .maj-label {
