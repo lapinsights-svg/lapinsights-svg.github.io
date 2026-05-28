@@ -86,9 +86,9 @@ Une démocratie se mesure à sa capacité à reconnaître les illusions et à d�
 
 
 
-## Mise à jour — mai 2026
+## Mise à jour du 28 mai 2026
 
-Le projet de règlement européen sur le retour est désormais entré en **phase de trilogue**, après l’adoption d’une version durcie par le Parlement européen le 26 mars 2026. Les positions du Parlement et du Conseil étant très proches, plusieurs observateurs anticipent une **adoption rapide**, potentiellement dès l’été 2026.
+Le projet de règlement européen sur le retour est désormais entré en **phase de trilogue**, après l’adoption d’une version durcie par le Parlement européen le 26 mars 2026. Les positions du Parlement et du Conseil étant très proches, plusieurs observateurs anticipent une adoption rapide, potentiellement dès l’été 2026.
 
 Les critiques, elles, se multiplient : seize rapporteurs spéciaux de l’ONU, le Commissaire aux droits de l’homme du Conseil de l’Europe et de nombreuses ONG alertent sur des risques de **violations systémiques des droits fondamentaux**, notamment en matière de rétention prolongée, de procédures accélérées et d’accès effectif au droit d’asile.
 
