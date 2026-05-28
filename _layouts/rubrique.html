@@ -19,12 +19,18 @@ layout: default
 </section>
 
 <div class="liste-articles">
-  {% assign articles = site[page.collection] | sort: "date" | reverse %}
+
+  {%- comment -%}
+  Tri par updated_at (si présent), sinon par date
+  {%- endcomment -%}
+  {% assign articles = site[page.collection] | sort: "updated_at" | reverse %}
+
   {% for article in articles %}
 
     <div class="article-line">
+
       <span class="article-date">
-        {{ article.date | date: "%d.%m.%Y" }}
+        {{ article.updated_at | default: article.date | date: "%d.%m.%Y" }}
       </span>
 
       <span class="article-title">
@@ -38,6 +44,7 @@ layout: default
           {{ article.resume }}
         </span>
       {% endif %}
+
     </div>
 
   {% endfor %}
