@@ -1895,11 +1895,13 @@ Lapin retour salle echo
 }
 
   /* Mise à jour article */
-.maj-label {
+maj-label {
   display: block;
-  font-size: 0.7em;
+  font-size: 0.85em; /* un peu plus grand */
   opacity: 0.6;
   margin-top: -2px;
+  text-align: center; /* centrage */
+  width: 100%; /* garantit le centrage même si le parent est étroit */
 }
 
 .maj-blink {
