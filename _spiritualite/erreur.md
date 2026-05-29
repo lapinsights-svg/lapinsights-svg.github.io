@@ -1,6 +1,6 @@
 ---
 title: "Les épreuves ne sont que des leçons que tu as manqué d'apprendre..."
-date: 2026-05-28
+date: 2026-05-29
 categories: spiritualite
 resume: "Florilège de pseudo‑sagesses ratiboisées — épisode VI"
 Layout: article
