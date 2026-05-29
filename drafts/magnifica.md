@@ -1,5 +1,5 @@
 ---
-title: "Magnifica humanitas face à l’IA : trois contresens et un écran de fumée"
+title: "Magnifica humanitas ne parle pas de l’IA mais du pouvoir"
 categories: idees
 layout: article
 date: 2026-05-30
