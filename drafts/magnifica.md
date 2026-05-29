@@ -10,16 +10,26 @@ og_image: /images/idees/magnifica.png
 
 Légende de l'image : Allégorie du pouvoir autour de l’IA : quand l’autorité morale, économique et stratégique fabrique un récit pour masquer ses propres limites.  
 
+
+# Magnifica humanitas ne parle pas de l’IA mais du pouvoir
+*L’IA comme miroir des peurs institutionnelles*
   
-# Les trois mensonges utiles… et la parabole qui les maquille
+Dans *Magnifica humanitas*, l’IA n’est pas analysée : elle est utilisée.  
+Non pas comme objet technique, mais comme surface de projection.  
+Ce que l’encyclique décrit, ce n’est pas la machine :  
+ce sont les peurs institutionnelles que la machine révèle.
 
-Dans *Magnifica humanitas*, trois reproches adressés à l’IA reviennent comme des mantras :  
-la menace pour la vérité, la tentation transhumaniste, et le risque que la machine devienne un critère absolu de jugement.  
-Trois idées qui semblent graves, profondes, presque prophétiques.  
-Mais qui, lorsqu’on les examine, ne tiennent pas debout.
+Trois accusations reviennent comme des mantras —  
+la menace pour la vérité,  
+la tentation transhumaniste,  
+et le risque que l’IA devienne un critère absolu de jugement.  
+Trois reproches qui semblent graves, presque prophétiques,  
+mais qui, lorsqu’on les examine, ne décrivent pas l’IA.  
+Ils décrivent la crainte de perdre le monopole du sens.
 
-Et pour les envelopper, l’encyclique convoque une parabole : Babel.  
-Une image censée donner du sens, mais qui révèle surtout la fragilité de l’argumentation.
+Pour donner du poids à ces inquiétudes, le texte convoque Babel :  
+une parabole censée éclairer,  
+mais qui sert surtout à maquiller la fragilité de l’argumentation.
 
 Ce ne sont pas des analyses.  
 Ce sont des paravents.
