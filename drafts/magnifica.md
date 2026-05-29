@@ -46,6 +46,32 @@ Une IA contrôlée ne peut qu’être crue.
 Le danger n’est pas dans la machine.  
 Il est dans la main qui la tient.
 
+# Le faux, l’erreur, la fiction
+
+L’IA peut produire du faux.  
+Mais ce mot recouvre deux réalités que le discours institutionnel confond pour mieux les dramatiser.
+
+Le premier faux est l’erreur.  
+Celui des systèmes d’information : les médias se trompent, les institutions se trompent, les experts se trompent, et même les encyclopédies vacillent.  
+L’IA n’échappe pas à cette condition : elle calcule, elle extrapole, elle peut se tromper.  
+Comme tout outil cognitif, elle doit être entraînée, corrigée, auditée.  
+L’erreur reste possible — partout, toujours — mais elle n’a rien d’une intention.
+
+Le second faux est la fiction.  
+Celui du cinéma, de la littérature, du théâtre, des arts visuels.  
+Une image inventée, une scène imaginaire, une narration construite.  
+Ce faux-là n’est pas une menace : c’est un espace de création.  
+On n’a jamais reproché au cinéma de “mentir” parce qu’il montre des mondes qui n’existent pas.  
+On n’a jamais vu l’autorité morale condamner la fiction en tant que telle.
+
+Confondre l’erreur et la fiction permet de transformer un outil créatif en danger moral,  
+et une imperfection technique en menace civilisationnelle.  
+La question n’est donc pas de savoir si l’IA produit du faux,  
+mais pourquoi on exige d’elle une infaillibilité que l’on n’exige d’aucun autre système humain —  
+ni des médias,  
+ni des institutions,  
+ni des arts.
+
 ---
 
 ## II. “L’IA s’inscrit dans une logique transhumaniste” — la confusion volontaire
