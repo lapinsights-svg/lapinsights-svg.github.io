@@ -53,7 +53,7 @@ La répétition n’est plus un phénomène : c’est un rappel que tu n’as pa
 Le réel n’est plus en cause : c’est ton regard qui est fautif.  
 
 Le monde se retire.  
-Tu restes seul avec ton regard, et ton regard devient un lieu de suspicion.
+Tu restes seul avec ton regard, et ton regard devient **un lieu de suspicion**.
 
 ---
 
