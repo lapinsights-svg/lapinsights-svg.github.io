@@ -89,7 +89,7 @@ Si tu t’effondres, tu n’as pas « intégré ».
 Si tu veux changer la situation, c’est que tu es encore dans l’erreur.  
 Si tu n’arrives pas à changer ta perception, c’est que tu résistes.
 
-Tu es sommée de corriger ton regard,  
+Tu es sommé de corriger ton regard,  
 mais tu n’as plus le droit de dire que ce que tu vois existe.
 
 C’est une nuit mentale où la souffrance n’est plus un vécu,  
