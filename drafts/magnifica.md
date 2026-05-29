@@ -268,29 +268,86 @@ C’est l’économie de l’IA qui menace l’IA elle-même.
 ## VI. Le verrouillage stratégique — contrôler l’IA pour compenser son absence de rentabilité
 
 Une hypothèse structurelle s’impose :  
-si l’IA n’est pas rentable, alors ceux qui l’ont financée ont intérêt à en verrouiller l’usage pour être les seuls à en tirer un bénéfice — dont la Défense — tout en réduisant les coûts de contrôle.
+si l’IA n’est pas rentable,  
+alors ceux qui l’ont financée ont intérêt à en verrouiller l’usage  
+pour être les seuls à en tirer un bénéfice —  
+dont la Défense —  
+tout en réduisant les coûts de contrôle.
 
 Quand une technologie fonctionne, le marché la porte.  
 Quand elle échoue, la régulation la récupère.  
 Et quand elle coûte trop cher, le pouvoir la verrouille.
 
-Contrôler l’IA permet :
+Les grands modèles d’IA :
+
+- coûtent plus qu’ils ne rapportent,  
+- consomment des ressources énergétiques colossales,  
+- nécessitent des infrastructures hors de prix,  
+- dépendent de capitaux massifs,  
+- et ne sont rentables que par des artifices comptables ou des promesses futures.
+
+Pour comprendre pourquoi l’IA n’est pas rentable —  
+et pourquoi elle ne peut pas l’être —  
+voir l’analyse complète :  
+[Menschtoken — texte complet sur GitHub](https://github.com/lapinsights-svg/lapinsights-svg.github.io/blob/main/_idees/Menschtoken.md)
+
+---
+
+Contrôler l’IA permet alors :
 
 - de ne plus avoir à la rendre rentable,  
 - de réduire les coûts de gestion,  
-- de réserver les capacités avancées à une minorité (dont les acteurs de la Défense et du renseignement),  
+- de réserver les capacités avancées à une minorité (dont la Défense et le renseignement),  
 - de transformer un échec économique en enjeu moral,  
 - de masquer les limites derrière un discours de protection.
 
 Une IA ouverte doit être performante.  
 Une IA fermée doit seulement être obéissante.
 
-Le contrôle devient alors un substitut à la rentabilité :  
-moins coûteux, plus sûr, plus profitable pour ceux qui en disposent.
+Le contrôle devient un substitut à la rentabilité :  
+moins coûteux,  
+plus sûr,  
+plus profitable pour ceux qui en disposent.
+
+---
 
 Dans ce contexte, la montée en puissance des budgets consacrés à l’IA militaire joue un rôle déterminant.  
-Plus les États investissent dans des systèmes autonomes, du renseignement algorithmique ou des infrastructures stratégiques, plus ils ont intérêt à restreindre l’IA civile : pour réduire les coûts de contrôle, éviter la concurrence interne et réserver les capacités avancées à ceux qui en ont l’usage prioritaire — dont la Défense.  
-La limitation démocratique devient alors un effet secondaire d’une optimisation budgétaire et stratégique.
+Plus les États investissent dans des systèmes autonomes,  
+du renseignement algorithmique,  
+ou des infrastructures stratégiques,  
+plus ils ont intérêt à restreindre l’IA civile :  
+pour réduire les coûts de contrôle,  
+éviter la concurrence interne,  
+et réserver les capacités avancées à ceux qui en ont l’usage prioritaire —  
+dont la Défense.
+
+La limitation démocratique devient alors un effet secondaire  
+d’une optimisation budgétaire et stratégique.
+
+---
+
+Ces deux analyses éclairent un point essentiel :  
+l’IA n’est pas seulement un outil cognitif.  
+C’est un outil de pouvoir.
+
+Dans *Palentir*, on voit comment l’IA peut être utilisée pour surveiller, profiler, anticiper, orienter les comportements.  
+Dans *Technonat*, on voit comment les infrastructures numériques deviennent des instruments de contrôle,  
+et comment la technologie sert d’armature à un pouvoir qui se veut total.
+
+Voir :  
+[Palentir](https://lapinsights-svg.github.io/idees/Palentir/)  
+[Technonat](https://lapinsights-svg.github.io/idees/technonat/)
+
+---
+
+Ces textes montrent l’inversion fondamentale :  
+ce n’est pas l’IA qui manipule le réel.  
+Ce sont les puissants qui veulent manipuler le réel **avec** l’IA.  
+Et pour cela, il faut nous dérober l’outil,  
+le centraliser,  
+le filtrer,  
+le moraliser,  
+le rendre inaccessible.
 
 Le verrouillage n’est pas un accident.  
 C’est une optimisation.
@@ -305,7 +362,7 @@ Le silence sur le modèle économique révèle la peur de perdre le monopole fin
 Le verrouillage stratégique montre enfin la logique profonde :  
 si l’IA n’est pas rentable pour tous, elle doit devenir utile pour quelques-uns.
 
-La démocratie ne se protège pas en fermant les yeux du public.  
+Sauf que la démocratie ne se protège pas en fermant les yeux du public.  
 Elle se protège en les ouvrant.
 
 Et c’est précisément ce que l’IA permet.  
