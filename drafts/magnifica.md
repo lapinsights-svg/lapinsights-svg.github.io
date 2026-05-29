@@ -4,7 +4,9 @@ categories: idees
 layout: article
 date: 2026-05-30
 resume: "Analyse critique de Magnifica humanitas : trois contresens sur l’IA et un écran de fumée théologique."
+og_image: /images/idees/magnifica.png
 ---
+![magnifica](/images/idees/magnifica.png)
 
 # Les trois mensonges utiles… et la parabole qui les maquille
 
