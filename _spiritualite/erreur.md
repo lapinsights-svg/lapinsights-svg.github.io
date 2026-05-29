@@ -98,7 +98,7 @@ où chaque limite devient un échec intérieur.
 
 ## 4. Le réel n’a plus le droit d’entrer
 
-Psychiquement, ce type de pensée produit un effet massif :  
+Psychiquement, ce type de pensée - Les épreuves ne sont que des leçons que tu as manqué d’apprendre - produit un effet massif :  
 il **invalide la réalité**.
 
 Il dit :
