@@ -43,11 +43,14 @@ Ce qui te fait mal n’est plus :
 - une limite humaine.
 
 Ce qui te fait mal devient :  
-**une erreur dans ton système perceptif**.
+**une erreur dans ton système perceptif**.  
 
+Cette phrase ne dit pas seulement que l’épreuve “revient”.  
+Elle dit que si tu souffres, c’est que tu n’as pas perçu correctement.   
 La douleur n’est plus un signal : c’est un dysfonctionnement.  
 La limite n’est plus une information : c’est une mauvaise lecture.  
-La répétition n’est plus un phénomène : c’est un rappel que tu n’as pas « bien vu ».
+La répétition n’est plus un phénomène : c’est un rappel que tu n’as pas « bien vu ».  
+Le réel n’est plus en cause : c’est ton regard qui est fautif.  
 
 Le monde se retire.  
 Tu restes seul avec ton regard, et ton regard devient un lieu de suspicion.
