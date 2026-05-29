@@ -8,6 +8,9 @@ og_image: /images/idees/magnifica.png
 ---
 ![magnifica](/images/idees/magnifica.png)
 
+Légende de l'image : Allégorie du pouvoir autour de l’IA : quand l’autorité morale, économique et stratégique fabrique un récit pour masquer ses propres limites.  
+
+  
 # Les trois mensonges utiles… et la parabole qui les maquille
 
 Dans *Magnifica humanitas*, trois reproches adressés à l’IA reviennent comme des mantras :  
