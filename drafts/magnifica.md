@@ -3,7 +3,7 @@ title: "Magnifica humanitas ne parle pas de l’IA mais du pouvoir"
 categories: idees
 layout: article
 date: 2026-05-30
-resume: "Analyse critique de Magnifica humanitas : trois contresens sur l’IA et un écran de fumée théologique."
+resume: "L’IA comme miroir des peurs institutionnelles"
 og_image: /images/idees/magnifica.png
 ---
 ![magnifica](/images/idees/magnifica.png)
