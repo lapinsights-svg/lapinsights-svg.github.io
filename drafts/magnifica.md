@@ -72,6 +72,33 @@ ni des médias,
 ni des institutions,  
 ni des arts.
 
+## Le double langage
+
+Magnifica humanitas affirme que l’IA est neutre.  
+Un outil sans intention.  
+Sans volonté.  
+Sans ombre propre.
+
+Mais quelques lignes plus loin, le texte la décrit comme une force corrosive :  
+menace pour la vérité,  
+risque pour la démocratie,  
+brouillage de la conscience.
+
+Cette oscillation n’est pas une hésitation.  
+C’est une méthode.
+
+Déclarer la neutralité pour éviter la technophobie.  
+Insinuer le danger pour préserver le monopole du sens.  
+Deux plans superposés :  
+l’IA n’est pas mauvaise,  
+mais elle devient suspecte par nature.
+
+Une machine neutre, présentée comme si elle portait en elle une faille.  
+Un outil, traité comme une ombre.
+
+Ce double langage ne décrit pas la technique.  
+Il protège une autorité.  
+
 ---
 
 ## II. “L’IA s’inscrit dans une logique transhumaniste” — la confusion volontaire
@@ -105,18 +132,51 @@ C’est une menace pour ceux qui contrôlent le savoir.
 
 ## III. “L’IA pourrait devenir un critère absolu de jugement” — l’ombre portée
 
-Le texte met en garde contre une IA qui remplacerait le jugement humain, qui deviendrait un critère absolu, supérieur à la conscience.  
-Mais cette idée repose sur une fiction :  
-l’IA n’a pas de conscience, pas d’intention, pas de volonté, pas de valeurs.
+Le texte met en garde contre une IA qui remplacerait le jugement humain,  
+qui deviendrait un critère absolu,  
+supérieur à la conscience.
+
+Mais cette idée repose sur une fiction.  
+L’IA n’a pas de conscience.  
+Pas d’intention.  
+Pas de volonté.  
+Pas de valeurs.
 
 Elle ne juge pas.  
 Elle calcule.
 
-Dire qu’elle pourrait devenir un “critère absolu” revient à anthropomorphiser une machine pour mieux la craindre.  
-C’est un procédé rhétorique, pas une analyse.
+Dire qu’elle pourrait devenir un “critère absolu” revient à projeter sur elle une intériorité qu’elle n’a pas.  
+À lui prêter une verticalité morale qu’elle ne possède pas.  
+À anthropomorphiser une machine pour mieux la craindre.
+
+C’est un procédé rhétorique,  
+pas une analyse.
+
+Et c’est là le renversement ironique.  
+Magnifica humanitas dénonce une IA qui deviendrait un juge,  
+mais pour soutenir cette mise en garde,  
+le texte doit d’abord lui prêter ce qu’elle n’a pas.  
+Il accuse l’IA d’un pouvoir qu’il lui attribue lui-même.  
+Il fabrique la créature qu’il prétend redouter.
+
+Comme si l’IA devenait un Frankenstein libéré,  
+délivré de l’humain,  
+marchant seule dans la nuit.  
+Non pas parce qu’elle en a la capacité,  
+mais parce qu’on lui a donné, par peur,  
+le visage d’un être.
+
+En voulant éviter le transhumanisme,  
+le texte transhumanise l’IA —  
+mais inversé.  
+Non pas en la rendant surhumaine,  
+mais en la rendant humaine.  
+En lui donnant le poids du jugement,  
+l’ombre d’une conscience.
 
 Le vrai risque n’est pas que l’IA remplace le jugement humain.  
-Le vrai risque, c’est que l’accès à l’IA soit limité,  
+Le vrai risque,  
+c’est que l’accès à l’IA soit limité,  
 et que le jugement humain soit remplacé par :
 
 - des filtres,  
@@ -188,8 +248,10 @@ Les grands modèles d’IA :
 Cette réalité est documentée dans l’étude suivante :  
 [Analyse complète sur Calameo](https://www.calameo.com/read/0075376643c26077a0e53).
 
-L’IA n’est pas une machine à vérité.  
-C’est une machine à pertes, financée par des flux opaques, des paris spéculatifs et une concentration extrême du capital.
+L’IA peut produire du vrai.  
+Elle peut analyser, vérifier, recouper, éclairer.  
+Mais économiquement, ce n’est pas une machine à vérité :  
+c’est une machine à pertes, financée par des flux opaques, des paris spéculatifs et une concentration extrême du capital.
 
 Si l’IA était réellement toute-puissante, elle serait rentable.  
 Si elle était réellement autonome, elle n’aurait pas besoin d’investissements massifs.  
