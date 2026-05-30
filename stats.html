@@ -71,32 +71,12 @@ title: ""
 </style>
 
 <script>
-/* Récupération du titre + résumé YAML */
-async function getTitleAndResume(url) {
-  try {
-    const html = await fetch(url).then(r => r.text());
-
-    /* Titre */
-    const titleMatch = html.match(/<title>(.*?)<\/title>/i);
-    let title = titleMatch ? titleMatch[1].trim() : null;
-    if (title) {
-      title = title
-        .replace(/[\|\-–—·]\s*Lapinsights/i, "")
-        .replace(/Lapinsights/i, "")
-        .trim();
-    }
-
-    /* Résumé YAML (champ: resume) */
-    const resumeMatch = html.match(/resume:\s*["']?(.*?)["']?\s*\n/i);
-    const resume = resumeMatch ? resumeMatch[1].trim() : null;
-
-    return { title, resume };
-  } catch (e) {
-    return { title: null, resume: null };
-  }
+/* Charger les données des articles (titre + resume + url) */
+async function getArticlesData() {
+  return fetch("/articles.json").then(r => r.json());
 }
 
-/* Conversion slug → URL */
+/* Conversion slug → URL (pour les stats Cloudflare) */
 function slugToUrl(slug) {
   const sections = ["idees", "spiritualite", "creations", "actualites"];
   const section = sections.find(s => slug.startsWith(s));
@@ -104,29 +84,28 @@ function slugToUrl(slug) {
   return "https://lapinsights-svg.github.io/" + section + "/" + slug.slice(section.length) + "/";
 }
 
-/* Chargement dynamique */
+/* Fusion stats + données articles */
 async function loadStats() {
-  const list = await fetch("https://proud-snowflake-0d5a.lapinsights.workers.dev/stats")
+  const stats = await fetch("https://proud-snowflake-0d5a.lapinsights.workers.dev/stats")
     .then(r => r.json());
 
+  const articles = await getArticlesData();
   const container = document.getElementById("stats");
 
-  for (const item of list) {
+  for (const item of stats) {
     const slug = item.name;
+
     if (!slug || slug.startsWith("test") || slug.includes("stats")) continue;
 
-    const url = slugToUrl(slug);
-    if (!url) continue;
-
-    const { title, resume } = await getTitleAndResume(url);
-    if (!title) continue;
+    const article = articles.find(a => a.slug === slug);
+    if (!article) continue;
 
     const div = document.createElement("div");
     div.className = "capsule-item";
 
     div.innerHTML = `
-      <h2 class="capsule-title"><a href="${url}">${title}</a></h2>
-      ${resume ? `<p class="capsule-summary">${resume}</p>` : ""}
+      <h2 class="capsule-title"><a href="${article.url}">${article.title}</a></h2>
+      ${article.resume ? `<p class="capsule-summary">${article.resume}</p>` : ""}
     `;
 
     container.appendChild(div);
