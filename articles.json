@@ -3,7 +3,8 @@ layout: null
 ---
 
 [
-{% for post in site.posts %}
+{% assign all = site.actualites | concat: site.idees | concat: site.creations | concat: site.spiritualite | concat: site.passe %}
+{% for post in all %}
   {
     "slug": "{{ post.slug }}",
     "title": "{{ post.title | escape }}",
