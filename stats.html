@@ -2,23 +2,75 @@
 <ul id="stats"></ul>
 
 <script>
+function slugToUrl(slug) {
+  // Exemple : "articlesmon-post" → "/articles/mon-post/"
+  // 1. On remet des "/" avant les mots "articles", "actualites", etc.
+  let path = slug;
+
+  // Si ton site a d'autres sections, ajoute-les ici
+  const sections = ["articles", "actualites", "posts", "blog"];
+
+  for (const section of sections) {
+    if (path.startsWith(section)) {
+      path = "/" + section + "/" + path.slice(section.length);
+    }
+  }
+
+  // 2. On remet les tirets
+  path = path.replace(/([A-Z])/g, "-$1").toLowerCase();
+
+  // 3. On nettoie les doubles tirets
+  path = path.replace(/--+/g, "-");
+
+  // 4. On s'assure que ça finit par "/"
+  if (!path.endsWith("/")) path += "/";
+
+  return "https://lapinsights-svg.github.io" + path;
+}
+
+function slugToTitle(slug) {
+  // Exemple : "articlesmon-post" → "Mon post"
+  let title = slug;
+
+  // On enlève les sections
+  const sections = ["articles", "actualites", "posts", "blog"];
+  for (const section of sections) {
+    if (title.startsWith(section)) {
+      title = title.slice(section.length);
+    }
+  }
+
+  // On enlève les tirets
+  title = title.replace(/-/g, " ");
+
+  // On capitalise
+  title = title.charAt(0).toUpperCase() + title.slice(1);
+
+  return title.trim();
+}
+
 async function loadStats() {
   // 1. Récupérer la liste des pages
   const listRes = await fetch("https://proud-snowflake-0d5a.lapinsights.workers.dev/stats");
-  const list = await listRes.json(); // ex : [{name:"articlesmon-post"}, ...]
+  const list = await listRes.json();
 
   const results = [];
 
-  // 2. Pour chaque page, lire le compteur SANS incrémenter
+  // 2. Lire les vues sans incrémenter
   for (const item of list) {
     const page = item.name;
 
     const countRes = await fetch(
       `https://proud-snowflake-0d5a.lapinsights.workers.dev/get?page=${page}`
     );
-    const data = await countRes.json(); // {page:"xxx", views:12}
+    const data = await countRes.json();
 
-    results.push(data);
+    results.push({
+      slug: page,
+      views: data.views,
+      url: slugToUrl(page),
+      title: slugToTitle(page)
+    });
   }
 
   // 3. Trier du plus lu au moins lu
@@ -28,7 +80,7 @@ async function loadStats() {
   const container = document.getElementById("stats");
   for (const item of results) {
     const li = document.createElement("li");
-    li.textContent = `${item.page} : ${item.views} vues`;
+    li.innerHTML = `<a href="${item.url}" target="_blank">${item.title}</a> : ${item.views} vues`;
     container.appendChild(li);
   }
 }
