@@ -10,14 +10,12 @@
       </div>
 
       {% if page.class == "accueil" %}
-      <!-- Bouton Feedly discret, aligné à droite, visible uniquement sur l'accueil -->
+      <!-- Lien RSS discret, universel, visible uniquement sur l'accueil -->
       <div style="text-align: right; margin: 0.3rem 0 0.8rem 0;">
-        <a href="https://feedly.com/i/subscription/feed/https://lapinsights-svg.github.io/feed.xml" target="_blank">
-          <img 
-            src="https://s3.feedly.com/img/follows/feedly-follow-rectangle-flat-small_2x.png" 
-            alt="Follow on Feedly"
-            style="width: 95px; opacity: 0.85;"
-          >
+        <a href="https://lapinsights-svg.github.io/feed.xml" 
+           target="_blank" 
+           style="font-size: 0.9rem; opacity: 0.8;">
+          S’abonner via RSS
         </a>
       </div>
       {% endif %}
