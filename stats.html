@@ -1,0 +1,37 @@
+<h1>Articles les plus lus</h1>
+<ul id="stats"></ul>
+
+<script>
+async function loadStats() {
+  // 1. Récupérer la liste des pages
+  const listRes = await fetch("https://proud-snowflake-0d5a.lapinsights.workers.dev/stats");
+  const list = await listRes.json(); // ex : [{name:"articlesmon-post"}, ...]
+
+  const results = [];
+
+  // 2. Pour chaque page, lire le compteur SANS incrémenter
+  for (const item of list) {
+    const page = item.name;
+
+    const countRes = await fetch(
+      `https://proud-snowflake-0d5a.lapinsights.workers.dev/get?page=${page}`
+    );
+    const data = await countRes.json(); // {page:"xxx", views:12}
+
+    results.push(data);
+  }
+
+  // 3. Trier du plus lu au moins lu
+  results.sort((a, b) => b.views - a.views);
+
+  // 4. Afficher
+  const container = document.getElementById("stats");
+  for (const item of results) {
+    const li = document.createElement("li");
+    li.textContent = `${item.page} : ${item.views} vues`;
+    container.appendChild(li);
+  }
+}
+
+loadStats();
+</script>
