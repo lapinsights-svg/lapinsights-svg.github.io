@@ -9,6 +9,19 @@
         © Céleste R. — CC BY‑NC‑ND
       </div>
 
+      {% if page.class == "accueil" %}
+      <!-- Bouton Feedly discret, aligné à droite, visible uniquement sur l'accueil -->
+      <div style="text-align: right; margin: 0.3rem 0 0.8rem 0;">
+        <a href="https://feedly.com/i/subscription/feed/https://lapinsights-svg.github.io/feed.xml" target="_blank">
+          <img 
+            src="https://s3.feedly.com/img/follows/feedly-follow-rectangle-flat-small_2x.png" 
+            alt="Follow on Feedly"
+            style="width: 95px; opacity: 0.85;"
+          >
+        </a>
+      </div>
+      {% endif %}
+
       <div class="newsletter-mini">
         <div class="newsletter-mini-title">Recevoir les nouvelles</div>
         <form
