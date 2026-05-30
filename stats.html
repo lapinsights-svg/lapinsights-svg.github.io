@@ -9,20 +9,21 @@ title: ""
 <div id="stats" class="capsules-list"></div>
 
 <style>
-/* TITRE — plus rituel + animation */
+/* TITRE — pulsation + onde circulaire + centrage parfait */
 .essentiels-title {
   font-size: 2rem;
-  margin-bottom: 0.2rem;
+  margin: 0 auto 0.2rem auto; /* centrage */
   letter-spacing: -0.6px;
   text-align: center;
   font-weight: 500;
   color: #1a1a1a;
   text-shadow: 0 0 6px rgba(200, 191, 176, 0.25);
-  animation: fremissement 9s ease-out, onde 9s ease-out;
-  display: inline-block;
-  padding: 0.4rem 1rem;
-  border-radius: 12px;
 
+  display: inline-block;
+  padding: 0.6rem 1.4rem; /* plus large = onde plus belle */
+  border-radius: 16px; /* forme douce */
+  
+  animation: fremissement 9s ease-out, onde 9s ease-out;
 }
 
 .essentiels-title::after {
@@ -116,34 +117,29 @@ title: ""
   font-weight: 300;
   opacity: 0.9;
 }
-  
+
 /* Pulsation cardiaque mystique */
 @keyframes fremissement {
   0%   { transform: scale(1); opacity: 1; }
-  10%  { transform: scale(1.04); opacity: 0.96; }   /* premier battement */
+  10%  { transform: scale(1.05); opacity: 0.96; }
   20%  { transform: scale(1.02); opacity: 1; }
-  30%  { transform: scale(1.05); opacity: 0.95; }   /* deuxième battement */
+  30%  { transform: scale(1.06); opacity: 0.95; }
   40%  { transform: scale(1.015); opacity: 1; }
   60%  { transform: scale(1.01); opacity: 0.98; }
   80%  { transform: scale(1.005); opacity: 1; }
   100% { transform: scale(1); opacity: 1; }
 }
 
-/* Appliquer l’animation au titre */
-.essentiels-title {
-  animation: fremissement 9s ease-out, onde 9s ease-out;
-}
-
-  /* Onde de résonance circulaire */
+/* Onde de résonance circulaire */
 @keyframes onde {
   0% {
     box-shadow: 0 0 0 0 rgba(200, 191, 176, 0.55);
   }
   40% {
-    box-shadow: 0 0 18px 10px rgba(200, 191, 176, 0.35);
+    box-shadow: 0 0 22px 14px rgba(200, 191, 176, 0.35);
   }
   70% {
-    box-shadow: 0 0 32px 22px rgba(200, 191, 176, 0.18);
+    box-shadow: 0 0 38px 26px rgba(200, 191, 176, 0.18);
   }
   100% {
     box-shadow: 0 0 0 0 rgba(200, 191, 176, 0);
@@ -156,7 +152,6 @@ async function getArticlesData() {
   return fetch("/articles.json").then(r => r.json());
 }
 
-/* Nettoyer le slug Cloudflare pour obtenir le slug Jekyll */
 function extractPureSlug(cloudSlug) {
   const sections = ["idees", "spiritualite", "creations", "actualites", "passe"];
   for (const s of sections) {
