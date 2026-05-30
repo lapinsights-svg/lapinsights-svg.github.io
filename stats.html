@@ -1,9 +1,9 @@
 ---
 layout: article
-title: Statistiques des articles
+title: Les textes essentiels
 ---
 
-<h1>Articles les plus lus</h1>
+<h1>Les textes essentiels</h1>
 <ul id="stats"></ul>
 
 <script>
@@ -15,18 +15,19 @@ async function getTitleFromUrl(url) {
   } catch (e) {
     console.warn("Impossible de lire le titre pour", url);
   }
-  return url;
+  return null;
 }
 
 function slugToUrl(slug) {
   let path = slug;
+
   const sections = ["idees", "spiritualite", "creations", "actualites"];
 
-  for (const section of sections) {
-    if (path.startsWith(section)) {
-      path = "/" + section + "/" + path.slice(section.length);
-    }
-  }
+  // Vérifier que le slug commence par une vraie section
+  const section = sections.find(s => path.startsWith(s));
+  if (!section) return null; // ❌ ignorer tout ce qui n'est pas un article
+
+  path = "/" + section + "/" + path.slice(section.length);
 
   if (!path.endsWith("/")) path += "/";
 
@@ -42,11 +43,14 @@ async function loadStats() {
   for (const item of list) {
     const slug = item.name;
 
-    // ignorer les clés de test et l'accueil
-    if (slug === "test" || slug === "test`" || slug === "" || slug === "home") continue;
+    // ❌ ignorer les clés de test et les slugs invalides
+    if (!slug || slug === "test" || slug === "test`") continue;
 
     const url = slugToUrl(slug);
+    if (!url) continue; // ❌ ignorer les slugs qui ne correspondent pas à un article
+
     const title = await getTitleFromUrl(url);
+    if (!title) continue;
 
     const li = document.createElement("li");
     li.innerHTML = `<a href="${url}" target="_blank">${title}</a>`;
