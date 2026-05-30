@@ -9,58 +9,107 @@ title: ""
 <div id="stats" class="capsules-list"></div>
 
 <style>
+/* TITRE — plus rituel */
 .essentiels-title {
-  font-size: 1.9rem;
+  font-size: 2rem;
   margin-bottom: 0.2rem;
-  letter-spacing: -0.4px;
+  letter-spacing: -0.6px;
   text-align: center;
+  font-weight: 500;
+  color: #1a1a1a;
+  text-shadow: 0 0 6px rgba(200, 191, 176, 0.25);
 }
 
+.essentiels-title::after {
+  content: "";
+  display: block;
+  width: 48px;
+  height: 2px;
+  background: linear-gradient(to right, transparent, #c8bfb0, transparent);
+  margin: 0.7rem auto 0 auto;
+  opacity: 0.8;
+}
+
+/* SOUS-TITRE — plus éthéré */
 .essentiels-subtitle {
   text-align: center;
   font-size: 0.9rem;
-  color: #555;
-  margin-bottom: 1.4rem;
-  opacity: 0.85;
+  color: #666;
+  margin-bottom: 1.8rem;
+  opacity: 0.75;
+  font-weight: 300;
+  letter-spacing: 0.2px;
 }
 
+/* CONTENEUR */
 .capsules-list {
-  max-width: 460px;
+  max-width: 500px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  gap: 0.8rem;
+  gap: 1rem;
 }
 
+/* CAPSULE — version mystique */
 .capsule-item {
-  padding: 0.6rem 0.9rem;
+  padding: 0.75rem 1rem;
   border-left: 2px solid #c8bfb0;
-  background: rgba(255,255,255,0.28);
-  backdrop-filter: blur(2px);
-  transition: 0.2s ease;
+  background: rgba(255,255,255,0.18);
+  backdrop-filter: blur(4px);
+  border-radius: 6px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+  position: relative;
+  overflow: hidden;
+  transition: 0.35s ease;
 }
 
+/* Halo lumineux vertical */
+.capsule-item::before {
+  content: "";
+  position: absolute;
+  left: -40px;
+  top: 0;
+  width: 80px;
+  height: 100%;
+  background: radial-gradient(circle at left, rgba(200,191,176,0.25), transparent 70%);
+  opacity: 0.35;
+  transition: 0.4s ease;
+}
+
+/* Effet de glissement mystique */
 .capsule-item:hover {
-  background: rgba(255,255,255,0.48);
+  transform: translateX(6px);
+  background: rgba(255,255,255,0.32);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.10);
 }
 
+.capsule-item:hover::before {
+  left: -20px;
+  opacity: 0.5;
+}
+
+/* TITRE — plus incantatoire */
 .capsule-title {
-  font-size: 1.05rem;
+  font-size: 1.12rem;
   font-weight: 500;
   margin: 0;
-  line-height: 1.22;
+  line-height: 1.25;
+  letter-spacing: -0.3px;
 }
 
 .capsule-title a {
   text-decoration: none;
-  color: #222;
+  color: #1a1a1a;
 }
 
+/* RÉSUMÉ — murmure */
 .capsule-summary {
-  font-size: 0.82rem;
-  color: #666;
-  margin-top: 0.25rem;
-  line-height: 1.28;
+  font-size: 0.86rem;
+  color: #444;
+  margin-top: 0.35rem;
+  line-height: 1.35;
+  font-weight: 300;
+  opacity: 0.9;
 }
 </style>
 
