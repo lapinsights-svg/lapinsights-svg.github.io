@@ -111,6 +111,25 @@ title: ""
   font-weight: 300;
   opacity: 0.9;
 }
+  /* Animation de frémissement mystique */
+@keyframes fremissement {
+  0%   { transform: scale(1) translateY(0); opacity: 1; }
+  10%  { transform: scale(1.015) translateY(-1px); opacity: 0.97; }
+  20%  { transform: scale(1.008) translateY(1px); opacity: 1; }
+  30%  { transform: scale(1.012) translateY(-1px); opacity: 0.98; }
+  40%  { transform: scale(1.006) translateY(1px); opacity: 1; }
+  50%  { transform: scale(1.014) translateY(-1px); opacity: 0.97; }
+  60%  { transform: scale(1.008) translateY(1px); opacity: 1; }
+  70%  { transform: scale(1.012) translateY(-1px); opacity: 0.98; }
+  80%  { transform: scale(1.006) translateY(1px); opacity: 1; }
+  90%  { transform: scale(1.010) translateY(-1px); opacity: 0.97; }
+  100% { transform: scale(1) translateY(0); opacity: 1; }
+}
+
+/* Appliquer l’animation au titre */
+.essentiels-title {
+  animation: fremissement 5s ease-out;
+}
 </style>
 
 <script>
