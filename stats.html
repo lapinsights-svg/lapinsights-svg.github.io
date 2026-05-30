@@ -10,39 +10,40 @@ title: ""
 <style>
 /* TITRE */
 .essentiels-title {
-  font-size: 2.2rem;
-  margin-bottom: 2rem;
-  letter-spacing: -0.5px;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  letter-spacing: -0.4px;
   text-align: center;
 }
 
-/* CONTENEUR GLOBAL CENTRÉ */
+/* CONTENEUR GLOBAL CENTRÉ ET FIN */
 .capsules-list {
-  max-width: 650px;      /* largeur élégante */
-  margin: 0 auto;        /* centré */
+  max-width: 480px;      /* encore plus fin */
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
-  gap: 1.8rem;
+  gap: 1rem;             /* capsules plus rapprochées */
 }
 
-/* CAPSULE */
+/* CAPSULE COMPACTE */
 .capsule-item {
-  padding: 1.4rem 1.2rem;
-  border-left: 3px solid #d0c7b8;
-  background: rgba(255,255,255,0.45);
-  backdrop-filter: blur(4px);
+  padding: 0.8rem 1rem;  /* plus court */
+  border-left: 2px solid #c8bfb0;
+  background: rgba(255,255,255,0.32);
+  backdrop-filter: blur(3px);
   transition: 0.2s ease;
 }
 
 .capsule-item:hover {
-  background: rgba(255,255,255,0.7);
+  background: rgba(255,255,255,0.55);
 }
 
+/* TITRE COMPACT */
 .capsule-title {
-  font-size: 1.3rem;
+  font-size: 1.1rem;     /* plus petit */
   font-weight: 500;
   margin: 0;
-  line-height: 1.4;
+  line-height: 1.28;     /* plus serré */
 }
 
 .capsule-title a {
