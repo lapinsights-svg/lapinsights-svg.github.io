@@ -26,18 +26,18 @@ title: ""
   opacity: 0.85;
 }
 
-/* CONTENEUR GLOBAL TRÈS FIN */
+/* CONTENEUR FIN */
 .capsules-list {
-  max-width: 460px;      /* encore plus fin */
+  max-width: 460px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  gap: 0.6rem;           /* très serré */
+  gap: 0.8rem;
 }
 
-/* CAPSULE ULTRA-COMPACTE */
+/* CAPSULE ULTRA-FINE */
 .capsule-item {
-  padding: 0.45rem 0.8rem;   /* hauteur minimale */
+  padding: 0.6rem 0.9rem;
   border-left: 2px solid #c8bfb0;
   background: rgba(255,255,255,0.28);
   backdrop-filter: blur(2px);
@@ -48,39 +48,51 @@ title: ""
   background: rgba(255,255,255,0.48);
 }
 
-/* TITRE ULTRA-FIN */
+/* TITRE */
 .capsule-title {
-  font-size: 1.05rem;        /* plus petit */
+  font-size: 1.05rem;
   font-weight: 500;
   margin: 0;
-  line-height: 1.22;         /* très serré */
+  line-height: 1.22;
 }
 
 .capsule-title a {
   text-decoration: none;
   color: #222;
 }
+
+/* RÉSUMÉ */
+.capsule-summary {
+  font-size: 0.82rem;
+  color: #666;
+  margin-top: 0.25rem;
+  line-height: 1.28;
+}
 </style>
 
 <script>
-/* Récupération du titre réel */
-async function getTitleFromUrl(url) {
+/* Récupération du titre + résumé YAML */
+async function getTitleAndSummary(url) {
   try {
     const html = await fetch(url).then(r => r.text());
-    const match = html.match(/<title>(.*?)<\/title>/i);
-    if (!match) return null;
 
-    let title = match[1].trim();
+    /* Titre */
+    const titleMatch = html.match(/<title>(.*?)<\/title>/i);
+    let title = titleMatch ? titleMatch[1].trim() : null;
+    if (title) {
+      title = title
+        .replace(/[\|\-–—·]\s*Lapinsights/i, "")
+        .replace(/Lapinsights/i, "")
+        .trim();
+    }
 
-    /* Suppression de toutes les variantes de "Lapinsights" */
-    title = title
-      .replace(/[\|\-–—·]\s*Lapinsights/i, "")
-      .replace(/Lapinsights/i, "")
-      .trim();
+    /* Résumé YAML */
+    const summaryMatch = html.match(/summary:\s*["']?(.*?)["']?\s*\n/i);
+    const summary = summaryMatch ? summaryMatch[1].trim() : null;
 
-    return title;
+    return { title, summary };
   } catch (e) {
-    return null;
+    return { title: null, summary: null };
   }
 }
 
@@ -89,11 +101,10 @@ function slugToUrl(slug) {
   const sections = ["idees", "spiritualite", "creations", "actualites"];
   const section = sections.find(s => slug.startsWith(s));
   if (!section) return null;
-
   return "https://lapinsights-svg.github.io/" + section + "/" + slug.slice(section.length) + "/";
 }
 
-/* Chargement des articles */
+/* Chargement dynamique */
 async function loadStats() {
   const list = await fetch("https://proud-snowflake-0d5a.lapinsights.workers.dev/stats")
     .then(r => r.json());
@@ -102,20 +113,22 @@ async function loadStats() {
 
   for (const item of list) {
     const slug = item.name;
-
-    if (!slug) continue;
-    if (slug.startsWith("test")) continue;
-    if (slug.includes("stats")) continue;
+    if (!slug || slug.startsWith("test") || slug.includes("stats")) continue;
 
     const url = slugToUrl(slug);
     if (!url) continue;
 
-    const title = await getTitleFromUrl(url);
+    const { title, summary } = await getTitleAndSummary(url);
     if (!title) continue;
 
     const div = document.createElement("div");
     div.className = "capsule-item";
-    div.innerHTML = `<h2 class="capsule-title"><a href="${url}">${title}</a></h2>`;
+
+    div.innerHTML = `
+      <h2 class="capsule-title"><a href="${url}">${title}</a></h2>
+      ${summary ? `<p class="capsule-summary">${summary}</p>` : ""}
+    `;
+
     container.appendChild(div);
   }
 }
