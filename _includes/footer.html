@@ -9,16 +9,13 @@
         © Céleste R. — CC BY‑NC‑ND
       </div>
 
-      {% if page.class == "accueil" %}
-      <!-- Lien RSS discret, universel, visible uniquement sur l'accueil -->
-      <div style="text-align: right; margin: 0.3rem 0 0.8rem 0;">
-        <a href="https://lapinsights-svg.github.io/feed.xml" 
-           target="_blank" 
-           style="font-size: 0.9rem; opacity: 0.8;">
-          S’abonner via RSS
-        </a>
-      </div>
-      {% endif %}
+    {% if page.class == "accueil" %}
+<div class="footer-rss">
+  <a href="https://lapinsights-svg.github.io/feed.xml" target="_blank">
+    S’abonner via RSS
+  </a>
+</div>
+{% endif %}
 
       <div class="newsletter-mini">
         <div class="newsletter-mini-title">Recevoir les nouvelles</div>
