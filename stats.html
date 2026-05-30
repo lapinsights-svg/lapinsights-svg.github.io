@@ -3,58 +3,172 @@ layout: article
 title: Les textes essentiels
 ---
 
-<h1>Les textes essentiels</h1>
-<ul id="stats"></ul>
+<h1 class="essentiels-title">Les textes essentiels</h1>
+
+<!-- VERSION CAPSULES (activée par défaut) -->
+<div id="stats" class="capsules-list"></div>
+
+<!-- VERSION GRILLE (désactivée par défaut)
+Pour activer : remplacer id="stats" par id="stats-grid" dans le script
+<div id="stats-grid" class="grid-list"></div>
+-->
+
+<style>
+/* TITRE */
+.essentiels-title {
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
+  letter-spacing: -0.5px;
+}
+
+/* CAPSULES */
+.capsules-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2.2rem;
+}
+
+.capsule-item {
+  padding: 1.6rem 1.2rem;
+  border-left: 3px solid #d0c7b8;
+  background: rgba(255,255,255,0.4);
+  backdrop-filter: blur(4px);
+  transition: 0.2s ease;
+}
+
+.capsule-item:hover {
+  background: rgba(255,255,255,0.7);
+}
+
+.capsule-title {
+  font-size: 1.4rem;
+  font-weight: 500;
+  margin: 0;
+}
+
+.capsule-title a {
+  text-decoration: none;
+  color: #222;
+}
+
+/* GRILLE VISUELLE */
+.grid-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2rem;
+}
+
+.grid-item {
+  background: rgba(255,255,255,0.4);
+  backdrop-filter: blur(4px);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: 0.2s ease;
+}
+
+.grid-item:hover {
+  background: rgba(255,255,255,0.7);
+}
+
+.grid-thumb {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  background: #ddd;
+}
+
+.grid-title {
+  padding: 1rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+</style>
 
 <script>
+/* Récupération du titre réel */
 async function getTitleFromUrl(url) {
   try {
     const html = await fetch(url).then(r => r.text());
     const match = html.match(/<title>(.*?)<\/title>/i);
-    if (match) return match[1].replace(" | Lapinsights", "").trim();
+    if (!match) return null;
+
+    let title = match[1].trim();
+
+    /* Suppression de toutes les variantes de "Lapinsights" */
+    title = title
+      .replace(/[\|\-–—·]\s*Lapinsights/i, "")
+      .replace(/Lapinsights/i, "")
+      .trim();
+
+    return title;
   } catch (e) {
-    console.warn("Impossible de lire le titre pour", url);
+    return null;
   }
-  return null;
 }
 
+/* Miniature OpenGraph */
+async function getThumbnail(url) {
+  try {
+    const html = await fetch(url).then(r => r.text());
+    const match = html.match(/<meta property="og:image" content="(.*?)"/i);
+    return match ? match[1] : null;
+  } catch (e) {
+    return null;
+  }
+}
+
+/* Conversion slug → URL */
 function slugToUrl(slug) {
-  let path = slug;
-
   const sections = ["idees", "spiritualite", "creations", "actualites"];
+  const section = sections.find(s => slug.startsWith(s));
+  if (!section) return null;
 
-  // Vérifier que le slug commence par une vraie section
-  const section = sections.find(s => path.startsWith(s));
-  if (!section) return null; // ❌ ignorer tout ce qui n'est pas un article
-
-  path = "/" + section + "/" + path.slice(section.length);
-
-  if (!path.endsWith("/")) path += "/";
-
-  return "https://lapinsights-svg.github.io" + path;
+  return "https://lapinsights-svg.github.io/" + section + "/" + slug.slice(section.length) + "/";
 }
 
+/* Chargement des articles */
 async function loadStats() {
-  const listRes = await fetch("https://proud-snowflake-0d5a.lapinsights.workers.dev/stats");
-  const list = await listRes.json();
+  const list = await fetch("https://proud-snowflake-0d5a.lapinsights.workers.dev/stats")
+    .then(r => r.json());
 
-  const container = document.getElementById("stats");
+  const containerCapsules = document.getElementById("stats");
+  const containerGrid = document.getElementById("stats-grid");
 
   for (const item of list) {
     const slug = item.name;
 
-    // ❌ ignorer les clés de test et les slugs invalides
-    if (!slug || slug === "test" || slug === "test`") continue;
+    /* Filtrage strict */
+    if (!slug) continue;
+    if (slug.startsWith("test")) continue;
+    if (slug.includes("stats")) continue;
 
     const url = slugToUrl(slug);
-    if (!url) continue; // ❌ ignorer les slugs qui ne correspondent pas à un article
+    if (!url) continue;
 
     const title = await getTitleFromUrl(url);
     if (!title) continue;
 
-    const li = document.createElement("li");
-    li.innerHTML = `<a href="${url}" target="_blank">${title}</a>`;
-    container.appendChild(li);
+    /* CAPSULES */
+    if (containerCapsules) {
+      const div = document.createElement("div");
+      div.className = "capsule-item";
+      div.innerHTML = `<h2 class="capsule-title"><a href="${url}">${title}</a></h2>`;
+      containerCapsules.appendChild(div);
+    }
+
+    /* GRILLE VISUELLE */
+    if (containerGrid) {
+      const thumb = await getThumbnail(url);
+      const div = document.createElement("div");
+      div.className = "grid-item";
+      div.innerHTML = `
+        <a href="${url}">
+          <img class="grid-thumb" src="${thumb || '/assets/default.jpg'}">
+          <div class="grid-title">${title}</div>
+        </a>
+      `;
+      containerGrid.appendChild(div);
+    }
   }
 }
 
