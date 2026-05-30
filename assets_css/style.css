@@ -1925,5 +1925,21 @@ Lapin retour salle echo
   50% { opacity: 0.15; }
 }
 
- 
+/* RSS en footer */
+.footer-rss {
+  text-align: right;
+  margin: 0.3rem 0 0.8rem 0;
+}
+
+.footer-rss a {
+  color: var(--texte);
+  font-size: 0.9rem;
+  opacity: 0.85;
+  text-decoration: none;
+}
+
+.footer-rss a:hover {
+  opacity: 1;
+}
+
 
