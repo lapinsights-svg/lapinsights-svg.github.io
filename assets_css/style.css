@@ -1989,3 +1989,12 @@ Lapin retour salle echo
   text-decoration: underline;
 }
 
+/* footer pour constellations amies*/
+.footer-extra-link a {
+  color: #e5e5e5;      /* gris clair doux */
+  text-decoration: none;
+}
+
+.footer-extra-link a:hover {
+  color: #ffffff;      /* blanc léger au survol */
+}
