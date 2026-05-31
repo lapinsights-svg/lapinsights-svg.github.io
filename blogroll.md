@@ -20,7 +20,6 @@ permalink: /blogroll/
     <li><a href="https://angristan.fr">Angristan</a> — minimalisme technique, web propre.</li>
     <li><a href="https://www.nicolasbouliane.com">Nicolas Bouliane</a> — écriture claire, indépendante.</li>
     <li><a href="https://www.davidrevoy.com">David Revoy</a> — art libre, sobriété, indépendance.</li>
-    <li><a href="https://plaf.fr">Plaf</a> — journal personnel, humour discret.</li>
   </ul>
 
   <h2>Constellations du small web</h2>
