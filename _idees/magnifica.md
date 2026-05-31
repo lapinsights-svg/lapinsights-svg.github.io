@@ -8,7 +8,7 @@ og_image: /images/idees/magnifica.png
 ---
 ![magnifica](/images/idees/magnifica.png)
 
-Légende de l'image : Allégorie du pouvoir autour de l’IA : quand l’autorité morale, économique et stratégique fabrique un récit pour masquer ses propres limites.  
+<small>Légende de l’image : Allégorie du pouvoir autour de l’IA : quand l’autorité morale, économique et stratégique fabrique un récit pour masquer ses propres limites.</small>
 
 
 # Magnifica humanitas ne parle pas de l’IA mais du pouvoir
