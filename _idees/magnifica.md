@@ -2,7 +2,7 @@
 title: "Magnifica humanitas ne parle pas de l’IA mais du pouvoir"
 categories: idees
 layout: article
-date: 2026-05-30
+date: 2026-05-31
 resume: "L’IA comme miroir des peurs institutionnelles"
 og_image: /images/idees/magnifica.png
 ---
