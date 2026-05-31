@@ -559,7 +559,7 @@ footer.footer-fixed {
 
   display: flex;
   justify-content: flex-end;
-  z-index: 3000; /* reste au-dessus du contenu */
+  z-index: 3000;
 }
 
 /* Contenu interne du footer */
@@ -579,17 +579,24 @@ footer.footer-fixed {
 
 .footer-right {
   display: flex;
-  flex-direction: column;
+  flex-direction: row; /* <-- correction */
   gap: 1.2rem;
-  align-items: flex-end;
+  align-items: center;
 }
 
+/* Signature harmonisée */
 .footer-signature {
   font-size: 0.85rem;
   opacity: 0.8;
   margin-top: 0;
-  color: var(--texte);
+  color: var(--accent); /* <-- correction essentielle */
   text-align: right;
+}
+
+/* Couleur globale du footer */
+.footer-fixed,
+.footer-fixed a {
+  color: var(--accent);
 }
 
 /* ----------------------------------------------------
