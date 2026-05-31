@@ -255,9 +255,6 @@ Les grands modèles d’IA :
 - dépendent de capitaux massifs,  
 - et ne sont rentables que par des artifices comptables ou des promesses futures.
 
-Cette réalité est documentée dans l’étude suivante :  
-[Analyse complète sur Calameo](https://www.calameo.com/read/0075376643c26077a0e53).
-
 L’IA peut produire du vrai.  
 Elle peut analyser, vérifier, recouper, éclairer.  
 Mais économiquement, ce n’est pas une machine à vérité :  
