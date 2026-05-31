@@ -14,7 +14,7 @@ Légende de l'image : Allégorie du pouvoir autour de l’IA : quand l’autor
 # Magnifica humanitas ne parle pas de l’IA mais du pouvoir
 *L’IA comme miroir des peurs institutionnelles*
   
-Dans *Magnifica humanitas*, l’IA n’est pas analysée : elle est utilisée.  
+Dans *Magnifica humanitas*[^1], l’IA n’est pas analysée : elle est utilisée.  
 Non pas comme objet technique, mais comme surface de projection.  
 Ce que l’encyclique décrit, ce n’est pas la machine :  
 ce sont les peurs institutionnelles que la machine révèle.
@@ -384,3 +384,6 @@ C’est pour cela qu’elle inquiète.
 
 
 Céleste R.
+
+[^1]: Texte officiel : https://www.vatican.va/content/leo-xiv/fr/encyclicals/documents/20260515-magnifica-humanitas.html
+
