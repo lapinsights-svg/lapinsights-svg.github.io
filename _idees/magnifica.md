@@ -77,7 +77,7 @@ On n’a jamais vu l’autorité morale condamner la fiction en tant que telle.
 Confondre l’erreur et la fiction permet de transformer un outil créatif en danger moral,  
 et une imperfection technique en menace civilisationnelle.  
 La question n’est donc pas de savoir si l’IA produit du faux,  
-mais pourquoi on exige d’elle une infaillibilité que l’on n’exige d’aucun autre système humain —  
+mais pourquoi on exige d’elle une infaillibilité que l’on n’exige d’aucun autre système humain, 
 ni des médias,  
 ni des institutions,  
 ni des arts.
@@ -99,11 +99,11 @@ C’est une méthode.
 
 Déclarer la neutralité pour éviter la technophobie.  
 Insinuer le danger pour préserver le monopole du sens.  
-Deux plans superposés :  
+Ce sont deux plans superposés :  
 l’IA n’est pas mauvaise,  
 mais elle devient suspecte par nature.
 
-Une machine neutre, présentée comme si elle portait en elle une faille.  
+C'est une machine neutre, présentée comme si elle portait en elle une faille.  
 Un outil, traité comme une ombre.
 
 Ce double langage ne décrit pas la technique.  
