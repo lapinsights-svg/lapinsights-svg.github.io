@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Constellations amies
 permalink: /blogroll/
 ---
