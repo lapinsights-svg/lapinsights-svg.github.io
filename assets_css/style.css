@@ -1942,4 +1942,21 @@ Lapin retour salle echo
   opacity: 1;
 }
 
+/* Pulsation mystique pour les pastilles page d'accueil du site */
+@keyframes pulse-pastille {
+  0%   { transform: scale(1); opacity: 1; }
+  10%  { transform: scale(1.05); opacity: 0.96; }
+  20%  { transform: scale(1.02); opacity: 1; }
+  30%  { transform: scale(1.06); opacity: 0.95; }
+  40%  { transform: scale(1.015); opacity: 1; }
+  60%  { transform: scale(1.01); opacity: 0.98; }
+  80%  { transform: scale(1.005); opacity: 1; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+/* Appliquer automatiquement l’animation aux pastilles */
+.pastille-terrier {
+  animation: pulse-pastille 9s ease-out;
+}
+
 
