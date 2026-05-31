@@ -1959,4 +1959,33 @@ Lapin retour salle echo
   animation: pulse-pastille 9s ease-out;
 }
 
+/* page blogroll*/
+.blogroll h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.blogroll p {
+  font-style: italic;
+  margin-bottom: 2rem;
+  color: #444;
+}
+
+.blogroll ul {
+  list-style: none;
+  padding: 0;
+}
+
+.blogroll li {
+  margin-bottom: 0.8rem;
+}
+
+.blogroll a {
+  color: #2a4a6a;
+  text-decoration: none;
+}
+
+.blogroll a:hover {
+  text-decoration: underline;
+}
 
