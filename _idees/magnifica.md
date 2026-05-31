@@ -294,7 +294,7 @@ Les grands modèles d’IA :
 Pour comprendre pourquoi l’IA n’est pas rentable —  
 et pourquoi elle ne peut pas l’être —  
 voir l’analyse complète :  
-[Menschtoken — texte complet sur GitHub](https://github.com/lapinsights-svg/lapinsights-svg.github.io/blob/main/_idees/Menschtoken.md)
+[Menschtoken — texte complet](https://github.com/lapinsights-svg/lapinsights-svg.github.io/blob/main/_idees/Menschtoken.md)
 
 ---
 
