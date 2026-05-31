@@ -615,8 +615,10 @@ footer.footer-fixed {
 
 /* Couleur globale */
 .footer-fixed,
-.footer-fixed a {
-  color: var(--accent);
+.footer-fixed a,
+.footer-signature,
+.newsletter-mini-title {
+  color: var(--texte); /* ton blanc/beige clair */
 }
 
 /* ----------------------------------------------------
