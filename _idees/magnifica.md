@@ -177,8 +177,7 @@ mais parce qu’on lui a donné, par peur,
 le visage d’un être.
 
 En voulant éviter le transhumanisme,  
-le texte transhumanise l’IA —  
-mais inversé.  
+le texte transhumanise l’IA, mais inversé.  
 Non pas en la rendant surhumaine,  
 mais en la rendant humaine.  
 En lui donnant le poids du jugement,  
@@ -268,7 +267,7 @@ Le discours sur la “puissance” de l’IA masque une réalité plus triviale 
 l’IA est fragile, coûteuse, dépendante et économiquement instable.
 
 Ce n’est pas l’IA qui menace l’humain.  
-C’est l’économie de l’IA qui menace l’IA elle-même.
+C’est l’économie de l’IA qui menace l’IA elle-même.  
 
 ---
 
@@ -277,13 +276,12 @@ C’est l’économie de l’IA qui menace l’IA elle-même.
 Une hypothèse structurelle s’impose :  
 si l’IA n’est pas rentable,  
 alors ceux qui l’ont financée ont intérêt à en verrouiller l’usage  
-pour être les seuls à en tirer un bénéfice —  
-dont la Défense —  
+pour être les seuls à en tirer un bénéfice — dont la Défense —   
 tout en réduisant les coûts de contrôle.
 
 Quand une technologie fonctionne, le marché la porte.  
 Quand elle échoue, la régulation la récupère.  
-Et quand elle coûte trop cher, le pouvoir la verrouille.
+Et quand elle coûte trop cher, le pouvoir la verrouille.  
 
 Les grands modèles d’IA :
 
@@ -325,7 +323,7 @@ ou des infrastructures stratégiques,
 plus ils ont intérêt à restreindre l’IA civile :  
 pour réduire les coûts de contrôle,  
 éviter la concurrence interne,  
-et réserver les capacités avancées à ceux qui en ont l’usage prioritaire —  
+et réserver les capacités avancées à ceux qui en ont l’usage prioritaire,  
 dont la Défense.
 
 La limitation démocratique devient alors un effet secondaire  
