@@ -13,7 +13,7 @@ permalink: /blogroll/
     où l’on écrit pour éclairer, déplacer, respirer.
   </p>
 
-  <h2>Constellations francophones</h2>
+  <h2>Francophones</h2>
   <ul>
     <li><a href="https://ploum.net">Ploum</a> — lenteur, sobriété, récits du web.</li>
     <li><a href="https://yannesposito.com">Yann Esposito</a> — élégance, typographie, calme.</li>
@@ -22,7 +22,7 @@ permalink: /blogroll/
     <li><a href="https://www.davidrevoy.com">David Revoy</a> — art libre, sobriété, indépendance.</li>
   </ul>
 
-  <h2>Constellations du small web</h2>
+  <h2>Du small web</h2>
   <ul>
     <li><a href="https://xxiivv.com">XXIIVV</a> — cartographies mentales, systèmes, explorations.</li>
     <li><a href="https://tilde.club">Tilde Club</a> — le web brut, artisanal, sans vernis.</li>
