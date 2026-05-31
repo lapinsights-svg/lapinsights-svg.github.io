@@ -638,7 +638,8 @@ main.contenu-scroll {
 
 .newsletter-mini-title {
   font-size: 0.9rem;
-  opacity: 0.8;
+  color: var(--texte);
+  opacity: 0.9;
 }
 
 .newsletter-mini input[type="email"] {
