@@ -19,7 +19,7 @@ Non pas comme objet technique, mais comme surface de projection.
 Ce que l’encyclique décrit, ce n’est pas la machine :  
 ce sont les peurs institutionnelles que la machine révèle.
 
-Trois accusations reviennent comme des mantras —  
+Trois accusations reviennent comme des mantras :    
 la menace pour la vérité,  
 la tentation transhumaniste,  
 et le risque que l’IA devienne un critère absolu de jugement.  
