@@ -359,11 +359,9 @@ C’est une optimisation.
 
 ---
 
-## Conclusion — Trois dangers imaginaires, une parabole bancale, un mensonge économique, un verrouillage stratégique
+## Conclusion — Trois dangers imaginaires, une parabole bancale, un mensonge économique, un verrouillage stratégique  
 
-Ces reproches ne décrivent pas l’IA.  
-Ils décrivent la peur institutionnelle de perdre le monopole cognitif.
-
+  
 Magnifica humanitas ne décrit pas l’IA.  
 Elle décrit la peur institutionnelle de perdre le monopole du sens, du savoir et du pouvoir.
 
