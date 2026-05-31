@@ -4,7 +4,7 @@ permalink: /blogroll/
 ---
 
 <section class="blogroll">
-  <h1>Constellations amies</h1>
+ <h1 style="text-align:center;">Constellations amies</h1>
 
   <p>
     Quelques passages vers d’autres terriers.  
