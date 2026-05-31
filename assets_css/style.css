@@ -577,23 +577,43 @@ footer.footer-fixed {
   flex: 0;
 }
 
+/* Tout le footer reste en ligne */
 .footer-right {
   display: flex;
-  flex-direction: row; /* <-- correction */
-  gap: 1.2rem;
+  flex-direction: row;
+  gap: 1.6rem;
   align-items: center;
 }
 
-/* Signature harmonisée */
+/* Liens horizontaux */
+.footer-links {
+  display: flex;
+  gap: 0.8rem;
+  align-items: center;
+  opacity: 0.85;
+}
+
+.sep {
+  opacity: 0.5;
+}
+
+/* Newsletter : colonne interne */
+.newsletter-mini {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.4rem;
+}
+
+/* Signature au-dessus du champ */
 .footer-signature {
   font-size: 0.85rem;
-  opacity: 0.8;
-  margin-top: 0;
-  color: inherit;
+  opacity: 0.85;
+  color: var(--accent);
   text-align: right;
 }
 
-/* Couleur globale du footer */
+/* Couleur globale */
 .footer-fixed,
 .footer-fixed a {
   color: var(--accent);
