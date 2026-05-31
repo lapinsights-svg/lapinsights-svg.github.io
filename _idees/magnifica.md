@@ -235,7 +235,7 @@ et c’est précisément ce qui a produit :
 - les démocraties,  
 - les technologies.
 
-La parabole ne décrit pas l’IA.  
+Ainsi, cette parabole ne décrit pas l’IA.  
 Elle sert à légitimer un besoin d’autorité.
 
 ---
