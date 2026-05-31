@@ -3,33 +3,32 @@
 
     <div class="footer-left"></div>
 
-    <div class="footer-right">
+    <div class="footer-right" style="display:flex; align-items:center; gap:1.2rem;">
 
       <div class="footer-signature">
         © Céleste R. — CC BY‑NC‑ND
       </div>
 
-      <div class="footer-rss">
-        <a href="https://lapinsights-svg.github.io/feed.xml" target="_blank">
+      <!-- Bloc horizontal regroupant les deux liens -->
+      <div class="footer-links" style="display:flex; align-items:center; gap:0.8rem; opacity:0.85;">
+        <a href="/blogroll/" style="color:#e5e5e5; text-decoration:none;">Constellations amies</a>
+        <span style="opacity:0.5;">•</span>
+        <a href="https://lapinsights-svg.github.io/feed.xml" target="_blank" style="color:#e5e5e5; text-decoration:none;">
           S’abonner via RSS
         </a>
       </div>
 
-      <div class="newsletter-mini">
-        <div class="newsletter-mini-title">Recevoir les signaux dans votre boîte mail</div>
+      <!-- Newsletter compactée -->
+      <div class="newsletter-mini" style="display:flex; align-items:center; gap:0.6rem;">
         <form
           action="https://buttondown.com/api/emails/embed-subscribe/dig_it"
           method="post"
           class="embeddable-buttondown-form"
+          style="display:flex; align-items:center; gap:0.4rem;"
         >
           <input type="email" name="email" id="bd-email" placeholder="Votre adresse e-mail" required>
           <button type="submit">S’abonner</button>
         </form>
-
-        <div class="footer-extra-link" style="margin-top: 0.6rem; text-align: right; opacity: 0.85;">
-          <a href="/blogroll/">Constellations amies</a>
-        </div>
-
       </div>
 
     </div>
