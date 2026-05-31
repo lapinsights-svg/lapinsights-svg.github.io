@@ -589,7 +589,7 @@ footer.footer-fixed {
   font-size: 0.85rem;
   opacity: 0.8;
   margin-top: 0;
-  color: var(--accent); /* <-- correction essentielle */
+  color: inherit;
   text-align: right;
 }
 
