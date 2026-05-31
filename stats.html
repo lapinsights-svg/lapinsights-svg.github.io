@@ -12,17 +12,19 @@ title: ""
 /* TITRE — pulsation + onde circulaire + centrage parfait */
 .essentiels-title {
   font-size: 2rem;
-  margin: 0 auto 0.2rem auto; /* centrage */
+  margin: 0 auto 0.2rem auto;
+  display: block;
+  width: fit-content;
+
   letter-spacing: -0.6px;
   text-align: center;
   font-weight: 500;
   color: #1a1a1a;
   text-shadow: 0 0 6px rgba(200, 191, 176, 0.25);
 
-  display: inline-block;
-  padding: 0.6rem 1.4rem; /* plus large = onde plus belle */
-  border-radius: 16px; /* forme douce */
-  
+  padding: 0.6rem 1.4rem;
+  border-radius: 16px;
+
   animation: fremissement 9s ease-out, onde 9s ease-out;
 }
 
@@ -121,12 +123,21 @@ title: ""
 /* Pulsation cardiaque mystique */
 @keyframes fremissement {
   0%   { transform: scale(1); opacity: 1; }
-  10%  { transform: scale(1.05); opacity: 0.96; }
-  20%  { transform: scale(1.02); opacity: 1; }
-  30%  { transform: scale(1.06); opacity: 0.95; }
-  40%  { transform: scale(1.015); opacity: 1; }
-  60%  { transform: scale(1.01); opacity: 0.98; }
-  80%  { transform: scale(1.005); opacity: 1; }
+
+  /* Premier battement (lub) */
+  8%   { transform: scale(1.055); opacity: 0.96; }
+  14%  { transform: scale(1.02); opacity: 1; }
+
+  /* Deuxième battement (dub) */
+  22%  { transform: scale(1.065); opacity: 0.95; }
+  30%  { transform: scale(1.018); opacity: 1; }
+
+  /* Respiration lente */
+  45%  { transform: scale(1.028); opacity: 0.97; }
+  60%  { transform: scale(1.012); opacity: 1; }
+
+  /* Retour au calme, très lent */
+  80%  { transform: scale(1.006); opacity: 0.99; }
   100% { transform: scale(1); opacity: 1; }
 }
 
