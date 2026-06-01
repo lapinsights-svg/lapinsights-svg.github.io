@@ -19,7 +19,6 @@ permalink: /blogroll/
     <li><a href="https://towardgrace.blogspot.com">Le Clavier Cannibale — Claro</a> — fulgurances littéraires, acuité, poésie conceptuelle.</li>
     <li><a href="https://remue.net">Remue.net</a> — poésie contemporaine, fragments, voix singulières.</li>
     <li><a href="https://tierslivre.net">Le Tiers Livre — François Bon</a> — laboratoire d’écriture, expérimentations, ateliers.</li>
-    <li><a href="https://zone-zer0.com">Zone Zéro</a> — essais conceptuels, philosophie du présent, esthétique nocturne.</li>
     <li><a href="https://l-autofictif.over-blog.com">Éric Chevillard — L’Autofictif</a> — fragments quotidiens, humour noir, geste littéraire pur.</li>
   </ul>
 
