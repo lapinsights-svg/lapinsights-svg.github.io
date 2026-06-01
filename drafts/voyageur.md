@@ -1,6 +1,6 @@
 ---
 title: "Macron, le voyageur des failles"
-date: 2026-05-25
+date: 2026-01-06
 layout: article
 categories: idees
 resume: "Lecture métaphorique de l’ascension de Macron à travers les failles du pouvoir."
