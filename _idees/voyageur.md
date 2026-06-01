@@ -172,6 +172,8 @@ Le Voyageur des Failles maudites n’est pas une anomalie.
 Il est le produit chimiquement pur  
 d’un système de fissures,  
 de passages secrets,  
-de zones où seuls certains savent comment disparaître.
+de zones où seuls certains savent comment disparaître.  
+
+La géologie du pouvoir ne ment jamais : elle sait pourquoi elle a laissé passer Macron
 
 Céleste R.
