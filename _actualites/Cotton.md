@@ -3,10 +3,10 @@ layout: article
 title: "Christine Cotton : la statistique comme dernier acte"
 category: actualites
 resume: "Hommage à Christine Cotton, biostatisticienne, son travail, son état de santé et les zones d’ombre entourant sa mort."
-og_image: /images/actualites/Cotton.jpg
+og_image: /images/actualites/cotton.jpg
 ---
 
-![Cotton](/images/actualites/Cotton.jpg)
+![Cotton](/images/actualites/cotton.jpg)
 
 Encore une conscience vive, une femme debout, une intelligence rare qui s’en va.  
 Et chaque départ laisse un vide que rien ne comble.  
