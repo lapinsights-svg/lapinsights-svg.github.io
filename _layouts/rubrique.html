@@ -24,29 +24,25 @@ layout: default
   TRI INTELLIGENT :
   - si updated_at existe → on l’utilise
   - sinon → on utilise date
-  Ce tri fonctionne même si :
-  - aucun article n’a updated_at
-  - certains en ont et d’autres non
-  - la collection est vide
+  Méthode stable : on crée une clé virtuelle sort_key pour chaque article.
   {%- endcomment -%}
 
-  {% assign enriched = "" | split: "" %}
+  {% assign prepared = "" | split: "" %}
 
   {% for article in site[page.collection] %}
     {% assign sort_key = article.updated_at | default: article.date %}
-    {% assign enriched = enriched | push: article | push: sort_key %}
+    {% assign article = article | merge: {"sort_key": sort_key } %}
+    {% assign prepared = prepared | push: article %}
   {% endfor %}
 
-  {% assign sorted = enriched | sort_natural: 1 | reverse %}
+  {% assign sorted = prepared | sort: "sort_key" | reverse %}
 
-  {% for item in sorted %}
-    {% assign article = item[0] %}
-    {% assign sort_key = item[1] %}
+  {% for article in sorted %}
 
     <div class="article-line">
 
       <div class="article-date">
-        {{ sort_key | date: "%d.%m.%Y" }}
+        {{ article.sort_key | date: "%d.%m.%Y" }}
 
         {% if article.updated_at %}
           {% assign now = 'now' | date: '%s' %}
