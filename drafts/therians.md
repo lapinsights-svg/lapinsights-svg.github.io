@@ -7,11 +7,15 @@ categories: idees
 
 # **Les thérians ne sont pas le problème. Ils sont le symptôme.**
 
-Il y a, dans certaines vidéos qui circulent, des adolescents qui rampent, grognent, aboient, se filment à quatre pattes. Ils disent *être* des loups, des félins, des créatures hybrides. On les appelle **thérians**. Le mot amuse, irrite, inquiète. Il déclenche des rires nerveux, des indignations faciles, des commentaires qui se veulent lucides.
+Il y a, dans certaines vidéos qui circulent, des adolescents qui rampent, grognent, aboient, se filment à quatre pattes. Ils disent *être* des loups, des félins, des créatures hybrides. On les appelle **thérians**.  
 
-Mais la lucidité ne consiste pas à se moquer d’eux. La lucidité consiste à comprendre **pourquoi** ils apparaissent maintenant.
+[Voir le Réel sur Facebook](https://www.facebook.com/reel/2436158973525982)  
 
-Parce que les thérians ne sont pas une anomalie. Ils sont **un point d’émergence**, une fissure dans la surface du réel, un signe faible d’un mouvement beaucoup plus vaste : la dissolution progressive de l’humain comme centre symbolique.
+Le mot amuse, irrite, inquiète. Il déclenche des rires nerveux, des indignations faciles, des commentaires qui se veulent lucides.  
+
+Mais la lucidité ne consiste pas à se moquer d’eux. La lucidité consiste à comprendre **pourquoi** ils apparaissent maintenant.  
+
+Parce que les thérians ne sont pas une anomalie. Ils sont **un point d’émergence**, une fissure dans la surface du réel, un signe faible d’un mouvement beaucoup plus vaste : la dissolution progressive de l’humain comme centre symbolique.  
 
 ---
 
