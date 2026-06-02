@@ -26,7 +26,15 @@ Il est accessible ici :
 **https://christinecotton.fr/english_expertise_updated**
 
 Et juste après, elle a écrit un message d’adieu sur X :  
-**https://x.com/StatChrisCotton**
+**https://x.com/StatChrisCotton**  
+
+  À noter : la version originale de ce dernier message n’est plus visible sur X.  
+Les tags qu’elle avait ajoutés, ainsi que la phrase finale, ont disparu de l’affichage public.  
+Seule subsiste une version tronquée du post.
+
+Ce n’est pas une interprétation : c’est un fait technique.  
+X applique parfois des filtres automatiques sur les contenus sensibles, notamment après un décès.  
+La version complète, que j'ai vue dans les premières heures, n’est plus accessible.
 
 ---
 
@@ -65,19 +73,115 @@ Elle était une femme qui souffrait.
 Son dernier post n’est pas un adieu sentimental.  
 C’est un **passe‑relais technique**, adressé à un réseau international **capable d’agir**.
 
-Elle tague des médecins, statisticiens, juristes, analystes, journalistes et collectifs qui ont déjà enquêté, publié, déposé plainte, gagné des procès ou obtenu des divulgations de documents.  
+Dans la version originale de son post que j'ai vu sur X, elle tague des médecins, statisticiens, juristes, analystes, journalistes et collectifs qui ont déjà enquêté, publié, déposé plainte, gagné des procès ou obtenu des divulgations de documents.  
 Des gens capables de comprendre son rapport, de le vérifier, de le prolonger et de le porter juridiquement.  
 Des profils dotés des compétences, des réseaux et des plateformes nécessaires pour empêcher que son travail soit enterré.  
 En quatre mots : **les seuls qui peuvent continuer.**
 
 ---
 
+
+# À qui elle adresse son dernier message — et pourquoi
+
+Son dernier post n’est pas un adieu sentimental.  
+C’est un passe‑relais technique, adressé à un réseau international capable d’agir.
+
+Dans la version originale, elle tague des profils très précis, qui ne doivent rien au hasard.  
+
+
+## 1. Les médecins et scientifiques de haut niveau
+
+**Peter McCullough (@P_McCulloughMD)**  
+Cardiologue, ancien vice‑chef de médecine interne à Baylor.  
+Compétences : expertise clinique, publications scientifiques, visibilité internationale.
+
+**Aseem Malhotra (@DrAseemMalhotra)**  
+Cardiologue britannique, auteur, figure médiatique.  
+Compétences : vulgarisation, plaidoyer, influence publique.
+
+**Jay Bhattacharya (@DrJBhattacharya)**  
+Professeur de médecine à Stanford.  
+Compétences : méthodologie, épidémiologie, analyse de politiques publiques.
+
+**Sabine Hazan (@SabinehazanMD)**  
+Chercheuse en microbiome.  
+Compétences : analyses biologiques, expertise technique pointue.
+
+*Ils peuvent analyser scientifiquement son rapport.*
+
+---
+
+## 2. Les analystes de données et biostatisticiens
+
+**Jikkyleaks (@Jikkyleaks)**  
+Analyste de données reconnu.  
+Compétences : extraction, nettoyage, analyse statistique, détection d’anomalies.
+
+**a_nineties (@a_nineties)**  
+Spécialiste des données de pharmacovigilance.  
+Compétences : VAERS, EudraVigilance, corrélations statistiques.
+
+*Ils peuvent vérifier ses chiffres et prolonger son audit.*
+
+---
+
+## 3. Les juristes et acteurs judiciaires
+
+**IcicLaw (@IcicLaw)**  
+Organisation juridique internationale.  
+Compétences : plaintes transnationales, actions collectives.
+
+**Ken Paxton (@KenPaxtonTX)**  
+Procureur général du Texas.  
+Compétences : pouvoir d’enquête, actions judiciaires d’État.
+
+*Ils peuvent transformer son rapport en procédure.*
+
+---
+
+## 4. Les victimes organisées et leurs collectifs
+
+**Brianne Dressen (@BrianneDressen)**  
+Victime d’essai clinique, cofondatrice de React19.  
+Compétences : mobilisation, documentation.
+
+**React19 (@React19org)**  
+Association de victimes.  
+Compétences : soutien juridique, collecte de données, pression médiatique.
+
+*Ils donnent un visage humain à ses analyses.*
+
+---
+
+## 5. Les journalistes et influenceurs indépendants
+
+**Megyn Kelly (@megynkelly)**  
+Journaliste américaine très influente.  
+Compétences : enquêtes, interviews, visibilité massive.
+
+**ClearA / ZeroSpike / BringTheNoise**  
+Collectifs d’analyse et de diffusion.  
+Compétences : vulgarisation, amplification.
+
+*Ils peuvent empêcher que son rapport soit enterré.*
+
+---
+
+Depuis, ces tags ont disparu de l’affichage public.  
+X ne montre plus que le texte, amputé de ses destinataires explicites.  
+Ceux qui ont vu la version complète ne peuvent plus la retrouver.
+
+Reste pourtant l’intention :  
+ce dernier message n’était pas une confession, mais une transmission de dossier.  
+Elle ne parlait pas au grand public.  
+Elle parlait à ceux qui, objectivement, avaient les moyens de continuer.
+
+---
+
+
 # Ce qui reste
 
-Un rapport.  
-Un réseau.  
-Un message.  
-Une mort.
+Un rapport. Un réseau. Un message. Une mort.
 
 Et une question que personne n’ose formuler, mais qu’il serait malhonnête d’écarter :  
 **quelle est la cause de sa mort — accidentelle, naturelle, ou criminelle**.
@@ -221,3 +325,7 @@ C’est un **motif récurrent**, une géométrie du réel qui mérite d’être 
 C’est une ouverture — et sa mort, une question qui attend encore son enquêteur.**  
 .  
 Céleste R.
+
+
+
+
