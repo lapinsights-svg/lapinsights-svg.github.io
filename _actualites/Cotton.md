@@ -23,10 +23,10 @@ Un rapport qui ne se contente pas de dénoncer : il démontre, il compare, il po
 
 Ce rapport, elle l’a publié comme on dépose une preuve sur une table.  
 Il est accessible ici :  
-👉 **https://christinecotton.fr/english_expertise_updated**
+**https://christinecotton.fr/english_expertise_updated**
 
 Et juste après, elle a écrit un message d’adieu sur X :  
-👉 **https://x.com/StatChrisCotton**
+**https://x.com/StatChrisCotton**
 
 ---
 
@@ -56,7 +56,7 @@ Des animaux malades en même temps qu’elle.
 Un sentiment d’empoisonnement qu’elle a exprimé bien avant son dernier message.
 
 Elle avait d’ailleurs décrit publiquement son état de santé, ses douleurs et ses inquiétudes dans un entretien disponible ici :  
-👉 **https://geopolitique-profonde.com/videos/christine-cotton-covid-vaccin/**
+**https://geopolitique-profonde.com/videos/christine-cotton-covid-vaccin/**
 
 Elle n’était pas seulement une analyste.  
 Elle était une femme qui souffrait.
