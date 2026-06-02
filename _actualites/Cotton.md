@@ -8,13 +8,17 @@ og_image: /images/actualites/cotton.jpg
 
 ![Cotton](/images/actualites/cotton.jpg)
 
+
+On ne meurt pas d’un chiffre.
+On meurt de ce qu’il révèle.  
+
 Encore une conscience vive, une femme debout, une intelligence rare qui s’en va.  
 Et chaque départ laisse un vide que rien ne comble.  
 
 Biostatisticienne, vingt‑cinq ans dans l’industrie pharmaceutique, Christine Cotton n’était ni une militante improvisée ni une influenceuse en quête de visibilité.  
 Elle était une technicienne.  
 Une femme de chiffres, de protocoles, de tableaux, de sources.  
-Et c’est précisément ce qui rend sa disparition si lourde, si étrange, si difficile à ranger dans une case.
+Et c’est précisément ce qui rend sa disparition si lourde, si étrange, si difficile à ranger dans une case.  
 
 Avant de mourir, elle a laissé un rapport de plus de 400 pages.  
 Un travail d’audit, pas un pamphlet.  
@@ -23,7 +27,7 @@ Un rapport qui ne se contente pas de dénoncer : il démontre, il compare, il po
 
 Ce rapport, elle l’a publié comme on dépose une preuve sur une table.  
 Il est accessible ici :  
-**https://christinecotton.fr/english_expertise_updated**
+**https://christinecotton.fr/english_expertise_updated**  
 
 Et juste après, elle a écrit un message d’adieu sur X :  
 **https://x.com/StatChrisCotton**  
