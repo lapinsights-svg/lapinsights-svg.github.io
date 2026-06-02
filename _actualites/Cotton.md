@@ -95,7 +95,7 @@ Il peut devenir une enquête.
 Il peut devenir un précédent.
 
 À ceux qu’elle a tagués, et à ceux qui la lisent encore, elle laisse une phrase :  
-**“In the future, be vigilant.”**
+**“A l'avenir, soyez vigilants.”**
 
 C’est peut‑être la seule chose qui reste à faire.
 
