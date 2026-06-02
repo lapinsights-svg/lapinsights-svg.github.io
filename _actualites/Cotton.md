@@ -9,7 +9,7 @@ og_image: /images/actualites/cotton.jpg
 ![Cotton](/images/actualites/cotton.jpg)
 
 
-On ne meurt pas d’un chiffre.
+On ne meurt pas d’un chiffre.  
 On meurt de ce qu’il révèle.  
 
 Encore une conscience vive, une femme debout, une intelligence rare qui s’en va.  
