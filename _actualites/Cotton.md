@@ -53,10 +53,7 @@ Et pendant ce temps, son corps s’est effondré.
 Des douleurs atroces, des brûlures, des irradiations, une incapacité à marcher.  
 Des symptômes que personne n’a su expliquer.  
 Des animaux malades en même temps qu’elle.  
-Un sentiment d’empoisonnement qu’elle a exprimé bien avant son dernier message.
-
-Elle avait d’ailleurs décrit publiquement son état de santé, ses douleurs et ses inquiétudes dans un entretien disponible ici :  
-**https://geopolitique-profonde.com/videos/christine-cotton-covid-vaccin/**
+Un sentiment d’empoisonnement qu’elle a exprimé bien avant son dernier message.  
 
 Elle n’était pas seulement une analyste.  
 Elle était une femme qui souffrait.
