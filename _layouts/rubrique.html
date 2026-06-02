@@ -21,16 +21,28 @@ layout: default
 <div class="liste-articles">
 
   {%- comment -%}
-  Tri par updated_at (si présent), sinon par date
+  TRI INTELLIGENT :
+  - si updated_at existe → on l’utilise
+  - sinon → on utilise date
   {%- endcomment -%}
-  {% assign articles = site[page.collection] | sort: "updated_at" | reverse %}
 
-  {% for article in articles %}
+  {% assign enriched = "" | split: "" %}
+
+  {% for article in site[page.collection] %}
+    {% assign sort_key = article.updated_at | default: article.date %}
+    {% assign enriched = enriched | push: article | push: sort_key %}
+  {% endfor %}
+
+  {% assign sorted = enriched | sort_natural: 1 | reverse %}
+
+  {% for item in sorted %}
+    {% assign article = item[0] %}
+    {% assign sort_key = item[1] %}
 
     <div class="article-line">
 
       <div class="article-date">
-        {{ article.updated_at | default: article.date | date: "%d.%m.%Y" }}
+        {{ sort_key | date: "%d.%m.%Y" }}
 
         {% if article.updated_at %}
           {% assign now = 'now' | date: '%s' %}
