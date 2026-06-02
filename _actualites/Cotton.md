@@ -311,7 +311,7 @@ C’est un **motif récurrent**, une géométrie du réel qui mérite d’être 
 ---
 
 **Son rapport n’est pas une fin.  
-C’est une ouverture — et sa mort, une question qui attend encore son enquêteur.**  
+C’est une ouverture, et sa mort, une question qui attend encore son enquêteur.**  
 .  
 Céleste R.
 
