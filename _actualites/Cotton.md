@@ -73,21 +73,13 @@ Elle était une femme qui souffrait.
 Son dernier post n’est pas un adieu sentimental.  
 C’est un **passe‑relais technique**, adressé à un réseau international **capable d’agir**.
 
-Dans la version originale de son post que j'ai vu sur X, elle tague des médecins, statisticiens, juristes, analystes, journalistes et collectifs qui ont déjà enquêté, publié, déposé plainte, gagné des procès ou obtenu des divulgations de documents.  
+Dans la version originale de son post que j'ai vu sur X, elle tague des profils très précis, qui ne doivent rien au hasard.  
+Elle tague des médecins, statisticiens, juristes, analystes, journalistes et collectifs qui ont déjà enquêté, publié, déposé plainte, gagné des procès ou obtenu des divulgations de documents.  
 Des gens capables de comprendre son rapport, de le vérifier, de le prolonger et de le porter juridiquement.  
 Des profils dotés des compétences, des réseaux et des plateformes nécessaires pour empêcher que son travail soit enterré.  
-En quatre mots : **les seuls qui peuvent continuer.**
+En quatre mots : **les seuls qui peuvent continuer.**  
 
 ---
-
-
-# À qui elle adresse son dernier message — et pourquoi
-
-Son dernier post n’est pas un adieu sentimental.  
-C’est un passe‑relais technique, adressé à un réseau international capable d’agir.
-
-Dans la version originale, elle tague des profils très précis, qui ne doivent rien au hasard.  
-
 
 ## 1. Les médecins et scientifiques de haut niveau
 
