@@ -21,28 +21,29 @@ layout: default
 <div class="liste-articles">
 
   {%- comment -%}
-  TRI INTELLIGENT :
-  - si updated_at existe → on l’utilise
-  - sinon → on utilise date
-  Méthode stable : on crée une clé virtuelle sort_key pour chaque article.
+  TRI INTELLIGENT FIABLE :
+  - si updated_at existe → tri dessus
+  - sinon → tri sur date
+  On crée une clé virtuelle "key" pour chaque article.
   {%- endcomment -%}
 
   {% assign prepared = "" | split: "" %}
 
   {% for article in site[page.collection] %}
-    {% assign sort_key = article.updated_at | default: article.date %}
-    {% assign article = article | merge: {"sort_key": sort_key } %}
-    {% assign prepared = prepared | push: article %}
+    {% assign key = article.updated_at | default: article.date %}
+    {% assign prepared = prepared | push: article | push: key %}
   {% endfor %}
 
-  {% assign sorted = prepared | sort: "sort_key" | reverse %}
+  {% assign sorted = prepared | sort_natural: 1 | reverse %}
 
-  {% for article in sorted %}
+  {% for item in sorted %}
+    {% assign article = item[0] %}
+    {% assign key = item[1] %}
 
     <div class="article-line">
 
       <div class="article-date">
-        {{ article.sort_key | date: "%d.%m.%Y" }}
+        {{ key | date: "%d.%m.%Y" }}
 
         {% if article.updated_at %}
           {% assign now = 'now' | date: '%s' %}
