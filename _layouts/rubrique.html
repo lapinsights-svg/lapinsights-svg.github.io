@@ -24,6 +24,10 @@ layout: default
   TRI INTELLIGENT :
   - si updated_at existe → on l’utilise
   - sinon → on utilise date
+  Ce tri fonctionne même si :
+  - aucun article n’a updated_at
+  - certains en ont et d’autres non
+  - la collection est vide
   {%- endcomment -%}
 
   {% assign enriched = "" | split: "" %}
