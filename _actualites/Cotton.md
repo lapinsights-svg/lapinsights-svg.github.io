@@ -272,10 +272,7 @@ Elle est :
 - compatible avec le timing,  
 - compatible avec ce qu’elle a elle‑même exprimé.
 
-Elle ne permet pas de conclure à une intention.  
-Elle permet seulement de dire que **les autres hypothèses (auto‑immune, psychosomatique, accident domestique, infection) sont beaucoup moins cohérentes**.
-
-C’est la seule position intellectuellement honnête.
+Elle permet de dire que **les autres hypothèses (auto‑immune, psychosomatique, accident domestique, infection) sont beaucoup moins cohérentes**.
 
 ---
 
