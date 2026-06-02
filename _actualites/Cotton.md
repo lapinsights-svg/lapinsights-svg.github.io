@@ -8,11 +8,10 @@ og_image: /images/actualites/Cotton.jpg
 
 ![Cotton](/images/actualites/Cotton.jpg)
 
-Il y a des morts qui ne s’effacent pas.  
-Il y a des morts qui laissent derrière elles un document, un geste, une adresse.  
-Christine Cotton fait partie de celles-là.
+Encore une conscience vive, une femme debout, une intelligence rare qui s’en va.  
+Et chaque départ laisse un vide que rien ne comble.  
 
-Biostatisticienne, vingt‑cinq ans dans l’industrie pharmaceutique, elle n’était ni une militante improvisée ni une influenceuse en quête de visibilité.  
+Biostatisticienne, vingt‑cinq ans dans l’industrie pharmaceutique, Christine Cotton n’était ni une militante improvisée ni une influenceuse en quête de visibilité.  
 Elle était une technicienne.  
 Une femme de chiffres, de protocoles, de tableaux, de sources.  
 Et c’est précisément ce qui rend sa disparition si lourde, si étrange, si difficile à ranger dans une case.
