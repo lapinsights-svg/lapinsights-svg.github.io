@@ -67,7 +67,7 @@ Elle était une femme qui souffrait.
 
 ---
 
-# À qui elle adresse son dernier message — et pourquoi
+# À qui elle adresse son dernier message, et pourquoi
 
 Son dernier post n’est pas un adieu sentimental.  
 C’est un **passe‑relais technique**, adressé à un réseau international **capable d’agir**.
@@ -229,7 +229,7 @@ Le moment où elle sait que son travail devra voyager ailleurs.
 
 ---
 
-# Un message posthume — et une phrase qui glace
+# Un message posthume et une phrase qui glace
 
 Sous son dernier post du 2 juin, une amie proche, Ingrid Hoffmann, publie une photo que Christine lui avait confiée.  
 Et un message qui en dit plus que n’importe quel communiqué :
