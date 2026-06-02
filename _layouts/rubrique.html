@@ -21,39 +21,19 @@ layout: default
 <div class="liste-articles">
 
   {%- comment -%}
-  TRI INTELLIGENT FIABLE :
-  - si updated_at existe → tri dessus
-  - sinon → tri sur date
-  On crée une clé virtuelle "key" pour chaque article.
+  TRI SIMPLE :
+  - tri par date uniquement
+  - le plus récent en premier
   {%- endcomment -%}
 
-  {% assign prepared = "" | split: "" %}
+  {% assign articles = site[page.collection] | sort: "date" | reverse %}
 
-  {% for article in site[page.collection] %}
-    {% assign key = article.updated_at | default: article.date %}
-    {% assign prepared = prepared | push: article | push: key %}
-  {% endfor %}
-
-  {% assign sorted = prepared | sort_natural: 1 | reverse %}
-
-  {% for item in sorted %}
-    {% assign article = item[0] %}
-    {% assign key = item[1] %}
+  {% for article in articles %}
 
     <div class="article-line">
 
       <div class="article-date">
-        {{ key | date: "%d.%m.%Y" }}
-
-        {% if article.updated_at %}
-          {% assign now = 'now' | date: '%s' %}
-          {% assign updated = article.updated_at | date: '%s' %}
-          {% assign diff = now | minus: updated %}
-
-          <span class="maj-label {% if diff < 86400 %}maj-blink{% endif %}">
-            MàJ
-          </span>
-        {% endif %}
+        {{ article.date | date: "%d.%m.%Y" }}
       </div>
 
       <div class="article-meta">
