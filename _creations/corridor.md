@@ -31,6 +31,8 @@ Un axe invisible entraîne tout vers le fond.
 Et quelque chose disparaît dans l’obscurité.
 </div>
 
+<div style="height: 1.2rem;"></div>
+
 Céleste R.
 
 <style>
