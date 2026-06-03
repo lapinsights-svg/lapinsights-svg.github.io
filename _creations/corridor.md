@@ -15,20 +15,20 @@ og_image: /images/creations/corridor.png
 </video>
 
 <div class="poeme">
-La nuit s’ouvre d’un seul élan.
-La brume se fend en éclats glacés.
-La poussière monte, droite, affamée de hauteur.
-Chaque particule cherche un sommet sans nom.
-Les parois vibrent d’une lumière étrangère.
-Un souffle cosmique traverse la pierre.
-Tout s’élève, même l’ombre la plus lourde.
-La verticalité devient une force brute.
-La lumière frappe, brève, métallique.
-Le corridor se tend comme une flèche nocturne.
-Le silence pulse, rapide, presque vivant.
-La nuit se contracte, puis se déploie d’un coup.
-Un axe invisible entraîne tout vers le fond.
-Et quelque chose disparaît dans l’obscurité.
+La nuit s’ouvre d’un seul élan.  
+La brume se fend en éclats glacés.  
+La poussière monte, droite, affamée de hauteur.  
+Chaque particule cherche un sommet sans nom.  
+Les parois vibrent d’une lumière étrangère.  
+Un souffle cosmique traverse la pierre.  
+Tout s’élève, même l’ombre la plus lourde.  
+La verticalité devient une force brute.  
+La lumière frappe, brève, métallique.  
+Le corridor se tend comme une flèche nocturne.  
+Le silence pulse, rapide, presque vivant.  
+La nuit se contracte, puis se déploie d’un coup.  
+Un axe invisible entraîne tout vers le fond.  
+Et quelque chose disparaît dans l’obscurité.  
 </div>
 
 Céleste R.
@@ -39,6 +39,7 @@ Céleste R.
   flex-direction: column;
   margin-top: 1.5rem;
   line-height: 1.6;
+  white-space: pre-wrap;
 }
 
 .poeme span {
@@ -57,3 +58,20 @@ Céleste R.
 }
 </style>
 
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const container = document.querySelector(".poeme");
+
+  // Récupère le texte brut avec les <br> générés par Markdown
+  let raw = container.innerHTML;
+
+  // Convertit les <br> en vrais sauts de ligne
+  raw = raw.replace(/<br\s*\/?>/gi, "\n");
+
+  // Nettoie le conteneur
+  container.innerHTML = "";
+
+  // Découpe en lignes
+  const lines = raw.trim().split("\n");
+
+  // Recon
