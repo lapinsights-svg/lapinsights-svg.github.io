@@ -5,7 +5,6 @@ categories: creations
 keywords: ["hirondelle", "migration", "fidélité", "poésie", "symboles"]
 og_image: /images/creations/hirondelle.png
 ---
----
 ![Jeanne](/images/creations/hirondelle.png)
 
 
