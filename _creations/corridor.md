@@ -6,7 +6,6 @@ layout: article
 tags: ["video", "ia", "lapinsights", "poesie", "cosmique", "vertical"]
 og_image: /images/creations/corridor.png
 ---
-![corridor](/images/creations/corridor.png)
 
 *Cliquer sur play pour entrer dans la vidéo.*
 
