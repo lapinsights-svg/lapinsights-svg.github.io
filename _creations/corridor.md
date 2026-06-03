@@ -2,7 +2,7 @@
 title: "Couloir de poussière cosmique"
 categories: creations
 date: 2026-06-03
-layout: articles
+layout: article
 tags: ["video", "ia", "lapinsights", "poesie", "cosmique", "vertical"]
 og_image: /images/creations/corridor.png
 ---
