@@ -14,21 +14,46 @@ og_image: /images/creations/corridor.png
   Votre navigateur ne peut pas lire cette vidéo.
 </video>
 
+<div class="poeme">
+La nuit s’ouvre d’un seul élan.
+La brume se fend en éclats glacés.
+La poussière monte, droite, affamée de hauteur.
+Chaque particule cherche un sommet sans nom.
+Les parois vibrent d’une lumière étrangère.
+Un souffle cosmique traverse la pierre.
+Tout s’élève, même l’ombre la plus lourde.
+La verticalité devient une force brute.
+La lumière frappe, brève, métallique.
+Le corridor se tend comme une flèche nocturne.
+Le silence pulse, rapide, presque vivant.
+La nuit se contracte, puis se déploie d’un coup.
+Un axe invisible entraîne tout vers le fond.
+Et quelque chose disparaît dans l’obscurité.
+</div>
 
-    
-La nuit s’ouvre d’un seul élan.  
-La brume se fend en éclats glacés.  
-La poussière monte, droite, affamée de hauteur.  
-Chaque particule cherche un sommet sans nom.  
-Les parois vibrent d’une lumière étrangère.  
-Un souffle cosmique traverse la pierre.  
-Tout s’élève, même l’ombre la plus lourde.  
-La verticalité devient une force brute.  
-La lumière frappe, brève, métallique.  
-Le corridor se tend comme une flèche nocturne.  
-Le silence pulse, rapide, presque vivant.  
-La nuit se contracte, puis se déploie d’un coup.  
-Un axe invisible entraîne tout vers le fond.  
-Et quelque chose disparaît dans l’obscurité.  
-  
 Céleste R.
+
+<style>
+.poeme {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1.5rem;
+  line-height: 1.6;
+}
+
+.poeme span {
+  opacity: 0;
+  transform: translateY(6px);
+  animation: reveal 0.4s forwards ease-out;
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+@keyframes reveal {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+</style>
+
