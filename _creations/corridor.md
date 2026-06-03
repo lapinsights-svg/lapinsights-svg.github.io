@@ -15,20 +15,20 @@ og_image: /images/creations/corridor.png
 </video>
 
 <div class="poeme">
-La nuit s’ouvre d’un seul élan.  
-La brume se fend en éclats glacés.  
-La poussière monte, droite, affamée de hauteur.  
-Chaque particule cherche un sommet sans nom.  
-Les parois vibrent d’une lumière étrangère.  
-Un souffle cosmique traverse la pierre.  
-Tout s’élève, même l’ombre la plus lourde.  
-La verticalité devient une force brute.  
-La lumière frappe, brève, métallique.  
-Le corridor se tend comme une flèche nocturne.  
-Le silence pulse, rapide, presque vivant.  
-La nuit se contracte, puis se déploie d’un coup.  
-Un axe invisible entraîne tout vers le fond.  
-Et quelque chose disparaît dans l’obscurité.  
+La nuit s’ouvre d’un seul élan.
+La brume se fend en éclats glacés.
+La poussière monte, droite, affamée de hauteur.
+Chaque particule cherche un sommet sans nom.
+Les parois vibrent d’une lumière étrangère.
+Un souffle cosmique traverse la pierre.
+Tout s’élève, même l’ombre la plus lourde.
+La verticalité devient une force brute.
+La lumière frappe, brève, métallique.
+Le corridor se tend comme une flèche nocturne.
+Le silence pulse, rapide, presque vivant.
+La nuit se contracte, puis se déploie d’un coup.
+Un axe invisible entraîne tout vers le fond.
+Et quelque chose disparaît dans l’obscurité.
 </div>
 
 Céleste R.
@@ -39,7 +39,6 @@ Céleste R.
   flex-direction: column;
   margin-top: 1.5rem;
   line-height: 1.6;
-  white-space: pre-wrap;
 }
 
 .poeme span {
@@ -61,17 +60,21 @@ Céleste R.
 <script>
 document.addEventListener("DOMContentLoaded", () => {
   const container = document.querySelector(".poeme");
+  if (!container) return;
 
-  // Récupère le texte brut avec les <br> générés par Markdown
-  let raw = container.innerHTML;
+  // Récupère le texte brut avec les retours à la ligne
+  let raw = container.textContent || "";
+  const lines = raw.split("\n").map(l => l.trim()).filter(l => l.length > 0);
 
-  // Convertit les <br> en vrais sauts de ligne
-  raw = raw.replace(/<br\s*\/?>/gi, "\n");
-
-  // Nettoie le conteneur
+  // Vide le conteneur
   container.innerHTML = "";
 
-  // Découpe en lignes
-  const lines = raw.trim().split("\n");
-
-  // Recon
+  // Reconstruit chaque ligne en <span> animé
+  lines.forEach((line, i) => {
+    const span = document.createElement("span");
+    span.textContent = line;
+    span.style.animationDelay = `${i * 0.5}s`; // 0,5 s entre chaque ligne
+    container.appendChild(span);
+  });
+});
+</script>
