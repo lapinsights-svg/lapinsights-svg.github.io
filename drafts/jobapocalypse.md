@@ -1,7 +1,7 @@
 ---
 title: "La jobapocalypse n’aura pas lieu — mais l’IA survivra ailleurs"
 resume: "L’IA est trop chère pour remplacer les travailleurs, mais survivra comme technologie d’État et instrument de puissance américaine."
-date: 2026-05-13
+date: 2026-06-04
 categories: idees
 tags: [IA, économie, travail, souveraineté, défense]
 ---
