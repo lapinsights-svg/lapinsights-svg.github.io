@@ -43,7 +43,8 @@ Le problème surgit lorsque :
 
 - on confond une formulation avec un fait,  
 - on prend une interprétation pour une vérité,  
-- on accorde à la pensée un statut absolu.
+- on lui attribue soit un statut absolu, soit un statut nul, comme si elle devait tout expliquer ou ne rien valoir.
+
 
 La pensée n’est pas fausse : elle est partielle.  
 Elle éclaire l’expérience, mais ne peut pas s’y substituer.  
