@@ -47,13 +47,16 @@ Le problème surgit lorsque :
 
 La pensée n’est pas fausse : elle est partielle.  
 Elle éclaire l’expérience, mais ne peut pas s’y substituer.  
-L’expérience directe n’est pas l’absence de pensée, mais la capacité à ne plus la confondre avec le réel.
+L’expérience directe n’est pas l’absence de pensée, mais la capacité à ne plus confondre la pensée avec le réel dans son ensemble:  
+à reconnaître qu’elle en fait partie sans en être la totalité.
+
 
 ## L’émotion : un signal, pas un oracle
 
 Dans certains discours spirituels, l’émotion est vue comme un obstacle, un voile, une illusion. C’est une vision réductrice.
 
-Une émotion est un **signal physiologique et psychique**. Elle indique qu’un seuil a été franchi, qu’une limite a été touchée, qu’un rapport au monde s’est modifié.  
+Une émotion est un **signal physiologique et psychique**.  
+Elle indique qu’un seuil a été franchi, qu’une limite a été touchée, qu’un rapport au monde s’est modifié.  
 Elle n’est pas une preuve, mais une information.
 
 Confondre émotion et vérité mène à deux dérives :
@@ -72,16 +75,18 @@ Le moi n’est pas une entité fixe, mais une **structure fonctionnelle** : un c
 Il devient problématique lorsqu’il se rigidifie :
 
 - lorsqu’il se croit permanent,  
-- lorsqu’il se vit comme menacé,  
+- lorsqu’il interprète toute atteinte, toute émotion ou toute remise en question comme une menace pour son existence.
 - lorsqu’il exige d’être central.
 
 Le moi n’est pas l’ennemi.  
 Ce qui enferme, ce n’est pas son existence, mais son absolutisation.  
-La liberté ne consiste pas à le supprimer, ou à le transcender, mais à le **désolidifier**.
+La liberté ne consiste pas à le supprimer, ni à le transcender, mais à le **dérigidifier**.
 
 ## L’histoire : une matière, pas une cage
 
-Notre histoire personnelle est souvent perçue comme un poids ou un piège. Dans certaines spiritualités morbides, on exige même de la dépasser, de la transcender, de s’en extraire comme si elle était une erreur ou une impureté à effacer. Mais il ne s’agit pas de cela : l’histoire n’est pas un obstacle à éliminer, c’est une **matière vivante** à comprendre, à travailler, à transformer.
+Notre histoire personnelle est souvent perçue comme un poids ou un piège.  
+Dans certaines spiritualités morbides, on exige même de la dépasser, de la transcender, de s’en extraire comme si elle était une erreur ou une impureté à effacer.  
+Mais il ne s’agit pas de cela : l’histoire n’est pas un obstacle à éliminer, c’est une **matière vivante** à comprendre, à travailler, à transformer.
 
 Elle est faite de gestes, de choix, de ruptures, de continuités.  
 Elle influence, mais ne détermine pas.  
@@ -132,19 +137,19 @@ Mais le mot s’est gonflé. Il est devenu :
 
 La réalité est plus modeste : l’éveil n’est pas un état, mais une **désadhérence**.  
 Une manière de ne plus se laisser capturer par les automatismes.  
-Une lucidité, pas une transcendance.
+**Une lucidité, pas une transcendance**.  
 
 ## Les distinctions essentielles
 
 Pour éviter les dérives, certaines distinctions doivent rester nettes :
 
-- penser n’est pas croire : penser, c’est formuler une hypothèse sur le réel, tandis que croire, c’est lui accorder une certitude qu’elle n’a pas.  
-- ressentir n’est pas conclure : une émotion indique qu’il se passe quelque chose, mais elle ne dit jamais à elle seule ce que cela signifie.  
-- être quelqu’un n’empêche pas la liberté : avoir une identité n’enferme pas, tant qu’on ne la confond pas avec une essence fixe ou définitive.  
-- l’histoire n’est pas l’identité : ce que nous avons vécu nous influence, mais ne détermine pas ce que nous sommes ni ce que nous pouvons devenir.  
-- le moi n’est pas l’ennemi : le moi est une structure fonctionnelle nécessaire, et ce n’est que son durcissement qui crée de la souffrance.  
-- la lucidité n’est pas la dissociation : voir clairement ce qui se passe n’implique pas de s’en détacher ou de s’en couper affectivement.  
-- la simplicité n’est pas la négation : clarifier une situation ne revient pas à effacer sa complexité, mais à la rendre intelligible sans la mutiler.
+- **penser n’est pas croire** : penser, c’est formuler une hypothèse sur le réel, tandis que croire, c’est lui accorder une certitude qu’elle n’a pas.  
+- **ressentir n’est pas conclure** : une émotion indique qu’il se passe quelque chose, mais elle ne dit jamais à elle seule ce que cela signifie.  
+- **être quelqu’un n’empêche pas la liberté** : avoir une identité n’enferme pas, tant qu’on ne la confond pas avec une essence fixe ou définitive.  
+- **l’histoire n’est pas l’identité** : ce que nous avons vécu nous influence, mais ne détermine pas ce que nous sommes ni ce que nous pouvons devenir.  
+- **le moi n’est pas l’ennemi** : le moi est une structure fonctionnelle nécessaire, et ce n’est que son durcissement qui crée de la souffrance.  
+- **la lucidité n’est pas la dissociation** : voir clairement ce qui se passe n’implique pas de s’en détacher ou de s’en couper affectivement.  
+- **la simplicité n’est pas la négation** : clarifier une situation ne revient pas à effacer sa complexité, mais à la rendre intelligible sans la mutiler.
 
 Ces distinctions sont des garde-fous.  
 Elles empêchent la spiritualité de glisser vers la caricature, la fuite ou la déshumanisation.
