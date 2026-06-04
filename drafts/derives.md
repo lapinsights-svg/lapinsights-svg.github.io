@@ -117,9 +117,12 @@ Pourtant, ce qu’il désigne est souvent beaucoup plus simple : un **déplaceme
 
 L’éveil, dans sa forme la plus sobre, c’est :
 
-- la fin de la confusion entre pensée et réalité,  
-- la fin de la rigidité identitaire,  
-- la fin de la lutte intérieure contre ce qui est.
+- la fin de la confusion entre pensée et réalité : reconnaître que nos idées ne sont que des représentations, et non des faits, permet de voir le monde sans le filtrer entièrement à travers nos constructions mentales.  
+
+- la fin de la rigidité identitaire : comprendre que notre identité n’est pas une essence fixe, mais une forme en mouvement, libère de la nécessité de se défendre, de se justifier ou de se conformer à une image figée de soi.  
+
+- la fin de la lutte intérieure contre ce qui est : cesser de se battre mentalement contre ce qui est déjà présent ne signifie pas renoncer à agir, mais arrêter de gaspiller son énergie en résistance intérieure pour pouvoir répondre au réel avec plus de clarté et d’efficacité.
+
 
 Mais le mot s’est gonflé. Il est devenu :
 
