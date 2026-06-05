@@ -1,9 +1,13 @@
 ---
 title: "Les thérians ne sont pas le problème"
-date: 2026-06-03
+resume: "Un signe faible révélant la dissolution des frontières entre humain, animal et machine"
+date: 2026-06-05
 layout: article
 categories: idees
+og_image: /images/idees/therians.png
 ---
+
+![therians](/images/idees/therians.png)
 
 # **Les thérians ne sont pas le problème. Ils sont le symptôme.**
 
@@ -19,7 +23,7 @@ Parce que les thérians ne sont pas une anomalie. Ils sont **un point d’émerg
 
 ---
 
-## **I. Le fait divers portugais : un avertissement professionnel**
+## **Le fait divers portugais : un avertissement professionnel**
 
 Au Portugal, l’Ordre des vétérinaires a publié un communiqué inattendu : **ils ne soigneront pas les thérians.**
 
@@ -35,7 +39,7 @@ Les vétérinaires ne sont pas dupes. Ils ont compris que ce phénomène n’est
 
 ---
 
-## **II. Le monde qui fabrique des identités animales**
+## **Le monde qui fabrique des identités animales**
 
 Pendant longtemps, les récits destinés aux enfants racontaient des histoires d’enfants. Des humains, dans des mondes humains, avec des épreuves humaines. Heidi, Rémi, Candy, Sarah… Des visages, des corps, des voix, des destins.
 
@@ -47,7 +51,7 @@ L’enfant n’apprenait plus à devenir humain. Il apprenait à devenir **hybri
 
 ---
 
-## **III. Le numérique comme dissolvant**
+## III. Le numérique comme dissolvant**
 
 Le numérique n’a pas inventé les thérians. Il a inventé **la possibilité de se croire autre chose que soi**.
 
@@ -61,7 +65,7 @@ Il dissout les frontières, les catégories, les limites. Il rend possible ce qu
 
 ---
 
-## **IV. Les volontés qui poussent dans le même sens**
+## **Les volontés qui poussent dans le même sens**
 
 Il n’y a pas de plan unique. Il n’y a pas de chef d’orchestre. Mais il y a **des volontés convergentes**, chacune dans son domaine, chacune avec son intérêt.
 
@@ -69,10 +73,86 @@ Les industries culturelles veulent des récits hybrides.
 Les plateformes veulent des identités spectaculaires.  
 Les lobbies idéologiques veulent la fluidité.  
 La Silicon Valley veut dépasser l’humain.  
-Le marché veut des niches infinies.
+Le marché veut des niches infinies.  
 
-Ce n’est pas un complot. C’est une **coalition diffuse**, une écologie de forces qui poussent toutes vers un même horizon : un monde où l’humain n’est plus la mesure de rien.
+
+C’est une **coalition diffuse**, une écologie de forces qui poussent toutes vers un même horizon : un monde où l’humain n’est plus la mesure de rien.
 
 ---
 
-## **V. Mariages avec des robots
+## **Mariages avec des robots : la suite logique**
+
+Les thérians ne sont pas seuls sur cette scène. Dans d’autres pays, des humains organisent des cérémonies de “mariage” avec des robots, des hologrammes, des IA. L’État ne les reconnaît pas juridiquement, mais peu importe : le geste symbolique est là.
+
+Après l’animal qui parle comme un humain, voici la machine qui aime comme un humain.  
+Après l’adolescent qui se dit loup, voici l’adulte qui se dit uni à une entité artificielle.
+
+Ce ne sont pas des accidents isolés. Ce sont des **variations d’un même motif** : la dégradation de la frontière entre personne et non‑personne, entre sujet et objet, entre vivant et artefact.
+
+Les mariages homme‑robot ne sont pas une excentricité exotique. Ils sont un **prolongement** de la même mutation que les thérians : un monde où l’humain cesse d’être une évidence.
+
+---
+
+## **Les thérians comme signe faible d’un monde qui se défait**
+
+Les thérians ne sont pas dangereux. Ils ne sont pas une menace. Ils ne sont même pas le sujet.
+
+Ils sont **le miroir** d’un monde qui ne sait plus dire ce qu’est un humain.
+
+Un monde où :
+
+- le ressenti prime sur le réel,  
+- l’identité devient performance,  
+- le corps devient décor,  
+- la technologie devient norme,  
+- la nature devient costume,  
+- la frontière humain/non‑humain devient floue.
+
+Les thérians ne sont pas la cause. Ils sont **le symptôme visible** d’une mutation invisible.
+
+Les mariages avec des robots, les unions avec des IA, les attachements à des entités artificielles appartiennent à la même famille de signes :  
+**celle d’une civilisation qui expérimente sa propre sortie d’elle‑même — et orchestre lucidement son déclin.**
+
+---
+
+## **e qui se joue vraiment**
+
+Ce qui se joue, ce n’est pas l’apparition d’adolescents qui se prennent pour des loups.  
+Ce qui se joue, ce n’est pas seulement un homme qui épouse un robot dans une salle louée pour l’occasion.
+
+Ce qui se joue, c’est la disparition progressive de la catégorie “humain” comme repère stable.
+
+Ce qui se joue, c’est la montée d’un monde où :
+
+- l’humain est perfectible,  
+- le corps est modifiable,  
+- l’identité est liquide,  
+- la technologie est souveraine,  
+- la nature est décorative,  
+- la limite est un obstacle.
+
+Ce qui se joue, c’est **la préparation culturelle du post‑humain**.
+
+Les thérians et les mariages homme‑robot ne sont qu’une avant‑scène.  
+Des petites lumières clignotantes sur le tableau de bord d’une civilisation qui change de forme.
+
+---
+
+## **VIII. Le terrier comme lieu de résistance**
+
+Nous ne pouvons plus nous contenter d’observer.  
+Les thérians, les mariages avec des robots, les unions avec des entités artificielles ne sont pas des curiosités : ce sont des **signaux d’alarme**.  
+Ils révèlent une trajectoire où la frontière humaine se dissout, où la machine devient partenaire, où le vivant devient décor.
+
+Cette pente n’est pas neutre :  
+c’est une **mise en danger de l’humain**.
+
+Dans le terrier, la lucidité n’est plus seulement un regard :  
+elle devient **résistance**.  
+Nommer ce qui se défait, dénoncer ce qui menace, refuser l’effacement.
+
+Parce qu’une civilisation qui brouille ses propres limites ne se transforme pas :  
+elle **s’efface**.
+
+Céleste R.
+
