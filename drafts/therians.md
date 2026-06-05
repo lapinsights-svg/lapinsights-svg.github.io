@@ -52,7 +52,7 @@ L’enfant n’apprenait plus à devenir humain. Il apprenait à devenir **hybri
 
 ## III. Le numérique comme dissolvant**
 
-Le numérique n’a pas inventé les thérians. Il a inventé **la possibilité de se croire autre chose que soi**.
+Le numérique n’a pas inventé les thérians. Il a ouvert **la possibilité de se croire autre chose que soi**.
 
 Dans les jeux vidéo, on devient renard, dragon, avatar luminescent. Dans les réseaux sociaux, on devient filtre, masque, personnage. Dans les mondes virtuels, on devient créature.
 
