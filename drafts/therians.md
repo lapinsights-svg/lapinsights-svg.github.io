@@ -9,7 +9,6 @@ og_image: /images/idees/therians.png
 
 ![therians](/images/idees/therians.png)
 
-# **Les thérians ne sont pas le problème. Ils sont le symptôme.**
 
 Il y a, dans certaines vidéos qui circulent, des adolescents qui rampent, grognent, aboient, se filment à quatre pattes. Ils disent *être* des loups, des félins, des créatures hybrides. On les appelle **thérians**.  
 
