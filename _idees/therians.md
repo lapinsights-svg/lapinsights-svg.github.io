@@ -46,7 +46,7 @@ Puis, dans les années 90, quelque chose a basculé. Les héros sont devenus des
 
 Ce n’était pas un hasard. C’était un **déplacement du centre de gravité**.
 
-L’enfant n’apprenait plus à devenir humain. Il apprenait à devenir **hybride* … et surtout à ne plus être responsable de rien.  
+L’enfant n’apprenait plus à devenir humain. Il apprenait à devenir **hybride** … et surtout à ne plus être responsable de rien.  
 Car un animal‑héros n’a pas de devoirs, pas de limites, pas de responsabilité morale : il agit, il réagit, il suit son instinct.  
 Et l’enfant, en s’identifiant à lui, apprend que lui aussi peut se décharger de la responsabilité d’être humain.
 
