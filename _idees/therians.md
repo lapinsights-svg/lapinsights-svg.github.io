@@ -114,7 +114,7 @@ Les mariages avec des robots, les unions avec des IA, les attachements à des en
 
 ---
 
-## **e qui se joue vraiment**
+## **Ce qui se joue vraiment**
 
 Ce qui se joue, ce n’est pas l’apparition d’adolescents qui se prennent pour des loups.  
 Ce qui se joue, ce n’est pas seulement un homme qui épouse un robot dans une salle louée pour l’occasion.
@@ -137,7 +137,7 @@ Des petites lumières clignotantes sur le tableau de bord d’une civilisation q
 
 ---
 
-## **VIII. Le terrier comme lieu de résistance**
+## **Le terrier comme lieu de résistance**
 
 Les thérians, les mariages avec des robots, les unions avec des entités artificielles ne sont pas des curiosités : ce sont des **signaux d’alarme**.  
 Ils révèlent une trajectoire où la frontière humaine se dissout, où la machine devient partenaire, où le vivant devient décor.
