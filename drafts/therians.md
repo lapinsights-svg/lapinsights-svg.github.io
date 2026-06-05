@@ -1,5 +1,5 @@
 ---
-title: "Les thérians ne sont pas le problème"
+title: "Les thérians sont un symptôme"
 resume: "Un signe faible révélant la dissolution des frontières entre humain, animal et machine"
 date: 2026-06-05
 layout: article
