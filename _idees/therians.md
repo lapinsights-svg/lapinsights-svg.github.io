@@ -18,7 +18,7 @@ Le mot amuse, irrite, inquiète. Il déclenche des rires nerveux, des indignatio
 
 Mais la lucidité ne consiste pas à se moquer d’eux. La lucidité consiste à comprendre **pourquoi** ils apparaissent maintenant.  
 
-Parce que les thérians ne sont pas une anomalie. Ils sont **un point d’émergence**, une fissure dans la surface du réel, un signe faible d’un mouvement beaucoup plus vaste : la dissolution progressive de l’humain comme centre symbolique.  
+Les thérians  sont **un point d’émergence**, une fissure dans la surface du réel, un signe faible d’un mouvement beaucoup plus vaste : la dissolution progressive de l’humain comme centre symbolique.  
 
 ---
 
