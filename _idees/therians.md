@@ -50,7 +50,7 @@ L’enfant n’apprenait plus à devenir humain. Il apprenait à devenir **hybri
 
 ---
 
-## III. Le numérique comme dissolvant**
+## Le numérique comme dissolvant**
 
 Le numérique n’a pas inventé les thérians. Il a ouvert **la possibilité de se croire autre chose que soi**.
 
