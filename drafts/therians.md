@@ -58,15 +58,15 @@ Dans les jeux vidéo, on devient renard, dragon, avatar luminescent. Dans les r�
 
 Le corps devient optionnel. L’identité devient modulable. Le réel devient un décor interchangeable.
 
-Le numérique n’est pas un outil. C’est un **solvant**.
+Le numérique est un outil qui peut jouer le rôle de **solvant**.
 
-Il dissout les frontières, les catégories, les limites. Il rend possible ce qui, autrefois, n’était qu’un jeu.
+Il peut dissoudre les frontières, les catégories, les limites. Il rend possible ce qui, autrefois, n’était qu’un jeu.
 
 ---
 
 ## **Les volontés qui poussent dans le même sens**
 
-Il n’y a pas de plan unique. Il n’y a pas de chef d’orchestre. Mais il y a **des volontés convergentes**, chacune dans son domaine, chacune avec son intérêt.
+On observe **des volontés convergentes**, chacune dans son domaine, chacune avec son intérêt.
 
 Les industries culturelles veulent des récits hybrides.  
 Les plateformes veulent des identités spectaculaires.  
@@ -133,13 +133,12 @@ Ce qui se joue, c’est la montée d’un monde où :
 Ce qui se joue, c’est **la préparation culturelle du post‑humain**.
 
 Les thérians et les mariages homme‑robot ne sont qu’une avant‑scène.  
-Des petites lumières clignotantes sur le tableau de bord d’une civilisation qui change de forme.
+Des petites lumières clignotantes sur le tableau de bord d’une civilisation qui se déforme.
 
 ---
 
 ## **VIII. Le terrier comme lieu de résistance**
 
-Nous ne pouvons plus nous contenter d’observer.  
 Les thérians, les mariages avec des robots, les unions avec des entités artificielles ne sont pas des curiosités : ce sont des **signaux d’alarme**.  
 Ils révèlent une trajectoire où la frontière humaine se dissout, où la machine devient partenaire, où le vivant devient décor.
 
