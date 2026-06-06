@@ -2,6 +2,7 @@
 layout: default
 title: "Vibrations"
 published: false
+categories: vibrations
 ---
 # Vibrations — espace en préparation
 
