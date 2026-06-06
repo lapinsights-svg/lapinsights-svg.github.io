@@ -2030,59 +2030,36 @@ Lapin retour salle echo
 }
 
 /* ————————————————————————————————
-   Effet "ombre minérale" pour la catégorie active
-   Ambiance : nocturne, pierre, brume, lumière douce
+   Effet "ombre minérale" pour le menu actif
+   Compatible avec les <button onclick="…">
    ———————————————————————————————— */
 
-/* Style générique appliqué à toutes les catégories actives */
-body[class^="cat-"] nav a {
-  transition: color 0.25s ease, text-shadow 0.25s ease, opacity 0.25s ease;
-}
-
-/* Idées */
-body.cat-idees nav a[href^="/idees"] {
-  color: var(--color-text);
+/* Créations */
+body.cat-creations nav.menu-haut button[onclick*="/creations/"] {
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
-  opacity: 1;
 }
 
 /* Actualités */
-body.cat-actualites nav a[href^="/actualites"] {
-  color: var(--color-text);
+body.cat-actualites nav.menu-haut button[onclick*="/actualites/"] {
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
-  opacity: 1;
 }
 
-/* Créations */
-body.cat-creations nav a[href^="/creations"] {
-  color: var(--color-text);
+/* Idées */
+body.cat-idees nav.menu-haut button[onclick*="/idees/"] {
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
-  opacity: 1;
 }
 
-/* Spiritualité */
-body.cat-spiritualite nav a[href^="/spiritualite"] {
-  color: var(--color-text);
+/* Spirimental */
+body.cat-spirimental nav.menu-haut button[onclick*="/spiritualite/"] {
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
-  opacity: 1;
 }
 
-/* Passé */
-body.cat-passe nav a[href^="/passe"] {
-  color: var(--color-text);
+/* Archives */
+body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
-  opacity: 1;
-}
-
-/* Vibrations */
-body.cat-vibrations nav a[href^="/vibrations"] {
-  color: var(--color-text);
-  text-shadow: 0 0 8px rgba(255,255,255,0.28),
-               0 0 14px rgba(200,200,200,0.18);
-  opacity: 1;
 }
