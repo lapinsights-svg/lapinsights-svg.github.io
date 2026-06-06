@@ -15,7 +15,7 @@ comme des fragments d’un pacte oublié.
 Un royaume où chaque arbre porte,  
 dans la profondeur de son écorce,  
 la mémoire d’un serment scellé  
-avant la naissance des royaumes humains.  
+avant la naissance des contrées humaines.  
 
 J’y marche comme on entre  
 dans un sanctuaire interdit.  
@@ -60,7 +60,7 @@ la présence d’un peuple invisible,
 non pas disparu,  
 mais retiré.  
 Un peuple qui a choisi la forêt  
-comme royaume,  
+comme domaine,  
 non par faiblesse,  
 mais par souveraineté secrète.  
 Leurs traces sont là :  
