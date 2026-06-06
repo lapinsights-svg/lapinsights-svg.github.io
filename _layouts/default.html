@@ -6,7 +6,7 @@
   {% include head.html %}
 </head>
 
-<body class="{{ page.class }}">
+<body class="{{ page.class }} cat-{{ page.categories | first }}">
 
   <!-- Statcounter placé en tête du body pour éviter les conflits DOM -->
   <script>
