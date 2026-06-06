@@ -1,6 +1,6 @@
 ---
 title: "Intelligences naturelles"
-date: 2026-05-24
+date: 2026-06-06
 categories: creations
 layout: article
 og_image: /images/creations/racines.png
