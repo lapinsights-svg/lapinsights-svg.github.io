@@ -90,7 +90,7 @@ celui qui garde les pactes,
 celui qui protège les secrets,  
 celui qui ne cède pas,  
 demeure là-bas,  
-dans ce royaume elfique  
+dans ce nemeton elfique  
 où la solitude devient  
 un talisman intérieur.  
 
