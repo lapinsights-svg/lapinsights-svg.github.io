@@ -2040,7 +2040,7 @@ body[class^="cat-"] nav a {
 }
 
 /* Idées */
-body.cat-idees nav a[href="/idees/"] {
+body.cat-idees nav a[href^="/idees"] {
   color: var(--color-text);
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
@@ -2048,7 +2048,7 @@ body.cat-idees nav a[href="/idees/"] {
 }
 
 /* Actualités */
-body.cat-actualites nav a[href="/actualites"] {
+body.cat-actualites nav a[href^="/actualites"] {
   color: var(--color-text);
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
@@ -2056,23 +2056,15 @@ body.cat-actualites nav a[href="/actualites"] {
 }
 
 /* Créations */
-body.cat-creations nav a[href="/creations"] {
+body.cat-creations nav a[href^="/creations"] {
   color: var(--color-text);
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
   opacity: 1;
 }
 
-/* Spirimental */
-body.cat-spirimental nav a[href="/spiritualite/"] {
-  color: var(--color-text);
-  text-shadow: 0 0 8px rgba(255,255,255,0.28),
-               0 0 14px rgba(200,200,200,0.18);
-  opacity: 1;
-}
-
-/* Vibrations (désactivé mais prêt pour plus tard) */
-body.cat-vibrations nav a[href="/vibrations"] {
+/* Spiritualité */
+body.cat-spiritualite nav a[href^="/spiritualite"] {
   color: var(--color-text);
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
@@ -2080,7 +2072,15 @@ body.cat-vibrations nav a[href="/vibrations"] {
 }
 
 /* Passé */
-body.cat-passe nav a[href="/passe"] {
+body.cat-passe nav a[href^="/passe"] {
+  color: var(--color-text);
+  text-shadow: 0 0 8px rgba(255,255,255,0.28),
+               0 0 14px rgba(200,200,200,0.18);
+  opacity: 1;
+}
+
+/* Vibrations */
+body.cat-vibrations nav a[href^="/vibrations"] {
   color: var(--color-text);
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
