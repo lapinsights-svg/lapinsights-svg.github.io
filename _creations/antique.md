@@ -24,7 +24,7 @@ presque craintives,
 comme si elle redoutait de troubler  
 les esprits qui veillent encore.  
 La forêt n’est pas un refuge :  
-c’est un royaume runique,  
+c’est un temple runique,  
 un territoire où les forces primales  
 n’ont jamais renoncé  
 à leur empire silencieux,  
