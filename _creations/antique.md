@@ -8,35 +8,96 @@ og_image: /images/creations/antique.png
 ---
 ![nef6](/images/creations/antique.png)
 
-Il existe, au fond de la solitude, un royaume de tablettes anciennes, enfouies sous la mousse comme des fragments d’un pacte oublié.
-Un royaume où chaque arbre porte, dans la profondeur de son écorce, la mémoire d’un serment scellé avant la naissance des royaumes humains.
-
-J’y marche comme on entre dans un sanctuaire interdit.
-La lumière y tombe en lames fines, presque craintives, comme si elle redoutait de troubler les esprits qui veillent encore.
-La forêt n’est pas un refuge : c’est un royaume runique, un territoire où les forces primales n’ont jamais renoncé à leur empire silencieux, où elles prennent forme comme des entités de terre et de nuit, des présences sans visage qui veillent dans l’ombre des racines.
-
-Les arbres se dressent comme des gardiens immobiles.
-Leurs racines, torsadées comme des glyphes, forment des sceaux sylvestres, des marques de protection contre le tumulte du monde.
-Rien ici n’est laissé au hasard : chaque ombre est un signe, chaque souffle un avertissement, chaque clairière une porte vers les temps enfouis.
-
-Dans cette forêt, la résistance n’est pas un acte.
-C’est une loi sacrée, inscrite dans les écorces rugueuses, transmise de sève en sève, de nuit en nuit.
-Les arbres ne s’opposent pas : ils gardent, ils préservent, ils défendent ce qui ne doit pas être profané.
-
-Je sens sous mes pas la présence d’un peuple invisible, non pas disparu, mais retiré.
-Un peuple qui a choisi la forêt comme royaume, non par faiblesse, mais par souveraineté secrète.
-Leurs traces sont là : dans les signes émis par la lumière, dans les ornements suspendus aux branches, dans les murmures que le vent transporte comme des fragments de langue ancienne.
-
-La forêt ne parle pas.
-Elle énonce.
-Elle énonce par ses mouvements secrets, par ses passages voilés, par ses ombres fendillées, par ses chants feuillus et lumineux qui s’élèvent comme des volutes murmurées.
-Elle dit que tout ce qui résiste ne le fait pas par force, mais par fidélité à un ordre plus ancien que les royaumes humains.
-
-Quand je quitte la forêt, je ne reviens pas au monde.
-Je reviens à sa surface.
-Car le monde véritable, celui qui garde les pactes, celui qui protège les secrets, celui qui ne cède pas, demeure là-bas, dans ce royaume elfique où la solitude devient un talisman intérieur.
-
-La solitude, parfois, est un royaume où l’on apprend à lire les signes que le siècle a oubliés.  
- 
+Il existe, au fond de la solitude,<br>
+un royaume de tablettes anciennes,<br>
+enfouies sous la mousse<br>
+comme des fragments d’un pacte oublié.<br>
+Un royaume où chaque arbre porte,<br>
+dans la profondeur de son écorce,<br>
+la mémoire d’un serment scellé<br>
+avant la naissance des royaumes humains.<br>
+<br>
+J’y marche comme on entre<br>
+dans un sanctuaire interdit.<br>
+La lumière y tombe en lames fines,<br>
+presque craintives,<br>
+comme si elle redoutait de troubler<br>
+les esprits qui veillent encore.<br>
+La forêt n’est pas un refuge :<br>
+c’est un royaume runique,<br>
+un territoire où les forces primales<br>
+n’ont jamais renoncé<br>
+à leur empire silencieux,<br>
+où elles prennent forme<br>
+comme des entités de terre et de nuit,<br>
+des présences sans visage<br>
+qui veillent dans l’ombre des racines.<br>
+<br>
+Les arbres se dressent<br>
+comme des gardiens immobiles.<br>
+Leurs racines, torsadées comme des glyphes,<br>
+forment des sceaux sylvestres,<br>
+des marques de protection<br>
+contre le tumulte du monde.<br>
+Rien ici n’est laissé au hasard :<br>
+chaque ombre est un signe,<br>
+chaque souffle un avertissement,<br>
+chaque clairière une porte<br>
+vers les temps enfouis.<br>
+<br>
+Dans cette forêt,<br>
+la résistance n’est pas un acte.<br>
+C’est une loi sacrée,<br>
+inscrite dans les écorces rugueuses,<br>
+transmise de sève en sève,<br>
+de nuit en nuit.<br>
+Les arbres ne s’opposent pas :<br>
+ils gardent, ils préservent,<br>
+ils défendent ce qui ne doit pas être profané.<br>
+<br>
+Je sens sous mes pas<br>
+la présence d’un peuple invisible,<br>
+non pas disparu,<br>
+mais retiré.<br>
+Un peuple qui a choisi la forêt<br>
+comme royaume,<br>
+non par faiblesse,<br>
+mais par souveraineté secrète.<br>
+Leurs traces sont là :<br>
+dans les signes émis par la lumière,<br>
+dans les ornements suspendus aux branches,<br>
+dans les murmures que le vent transporte<br>
+comme des fragments de langue ancienne.<br>
+<br>
+La forêt ne parle pas.<br>
+Elle énonce.<br>
+Elle énonce par ses mouvements secrets,<br>
+par ses passages voilés,<br>
+par ses ombres fendillées,<br>
+par ses chants feuillus et lumineux<br>
+qui s’élèvent comme des volutes murmurées.<br>
+Elle dit que tout ce qui résiste<br>
+ne le fait pas par force,<br>
+mais par fidélité<br>
+à un ordre plus ancien<br>
+que les royaumes humains.<br>
+<br>
+Quand je quitte la forêt,<br>
+je ne reviens pas au monde.<br>
+Je reviens à sa surface.<br>
+Car le monde véritable,<br>
+celui qui garde les pactes,<br>
+celui qui protège les secrets,<br>
+celui qui ne cède pas,<br>
+demeure là-bas,<br>
+dans ce royaume elfique<br>
+où la solitude devient<br>
+un talisman intérieur.<br>
+<br>
+La solitude, parfois,<br>
+est un royaume<br>
+où l’on apprend à lire<br>
+les signes que le siècle a oubliés.<br>
+  .  
 
 Céleste R.
