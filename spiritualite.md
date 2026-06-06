@@ -5,6 +5,7 @@ description: Cheminer vers l’invisible, écouter ce qui respire derrière le m
 rubrique: true
 collection: spiritualite
 permalink: /spiritualite/
+categories: spiritualite
 ---
 
 <section class="rubrique-header section-header">
