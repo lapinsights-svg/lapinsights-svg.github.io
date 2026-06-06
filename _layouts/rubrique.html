@@ -21,12 +21,17 @@ layout: default
 <div class="liste-articles">
 
   {%- comment -%}
-  TRI SIMPLE :
-  - tri par date uniquement
-  - le plus récent en premier
+  VERSION FIABLE :
+  - déduit automatiquement la collection depuis le permalink
+  - fonctionne même si page.collection n'est pas transmis
+  - compatible GitHub Pages
   {%- endcomment -%}
 
-  {% assign articles = site[page.collection] | sort: "date" | reverse %}
+  {% assign slug = page.url | split: "/" | last %}
+  {% assign slug = slug | default: page.permalink | split: "/" | last %}
+  {% assign slug = slug | downcase %}
+
+  {% assign articles = site[slug] | sort: "date" | reverse %}
 
   {% for article in articles %}
 
