@@ -2030,36 +2030,45 @@ Lapin retour salle echo
 }
 
 /* ————————————————————————————————
-   Effet "ombre minérale" pour le menu actif
-   Compatible avec les <button onclick="…">
+   Ombre minérale — version 100 % compatible
+   avec les <button onclick="…"> du menu haut
    ———————————————————————————————— */
+
+nav.menu-haut button {
+  transition: text-shadow 0.25s ease, color 0.25s ease;
+}
 
 /* Créations */
 body.cat-creations nav.menu-haut button[onclick*="/creations/"] {
+  color: var(--color-text);
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
 }
 
 /* Actualités */
 body.cat-actualites nav.menu-haut button[onclick*="/actualites/"] {
+  color: var(--color-text);
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
 }
 
 /* Idées */
 body.cat-idees nav.menu-haut button[onclick*="/idees/"] {
+  color: var(--color-text);
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
 }
 
 /* Spirimental */
 body.cat-spirimental nav.menu-haut button[onclick*="/spiritualite/"] {
+  color: var(--color-text);
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
 }
 
 /* Archives */
 body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
+  color: var(--color-text);
   text-shadow: 0 0 8px rgba(255,255,255,0.28),
                0 0 14px rgba(200,200,200,0.18);
 }
