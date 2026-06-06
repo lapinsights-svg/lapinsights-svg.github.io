@@ -1,7 +1,7 @@
 ---
 title: "La forêt comme royaume antique"
 resume: "Un royaume runique où les forces primales veillent dans l’ombre des racines."
-date: "2026-06-01"
+date: "2026-06-06"
 categories: creations
 tags: ["forêt", "mythe", "solitude", "entités", "talisman", "royaume", "sylvestre"]
 og_image: /images/creations/antique.png
