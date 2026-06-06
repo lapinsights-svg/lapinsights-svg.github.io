@@ -5,6 +5,7 @@ soustitre: Poèmes, fragments, éclats — les passages intimes du territoire.
 rubrique: true
 collection: creations
 permalink: /creations/
+categories: creations
 ---
 
 <section class="rubrique-header section-header">
