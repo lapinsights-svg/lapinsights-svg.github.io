@@ -4,6 +4,7 @@ title: Territoires d’idées
 description: Explorer les architectures conceptuelles, les systèmes et les pensées qui structurent le monde.
 rubrique: true
 permalink: /idees/
+categories: idees
 ---
 
 <section class="rubrique-header section-header">
