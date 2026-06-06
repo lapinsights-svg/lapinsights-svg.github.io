@@ -4,7 +4,9 @@ resume: "Un royaume runique où les forces primales veillent dans l’ombre des 
 date: "2026-06-01"
 categories: creations
 tags: ["forêt", "mythe", "solitude", "entités", "talisman", "royaume", "sylvestre"]
+og_image: /images/creations/antique.png
 ---
+![nef6](/images/creations/antique.png)
 
 Il existe, au fond de la solitude, un royaume de tablettes anciennes, enfouies sous la mousse comme des fragments d’un pacte oublié.
 Un royaume où chaque arbre porte, dans la profondeur de son écorce, la mémoire d’un serment scellé avant la naissance des royaumes humains.
