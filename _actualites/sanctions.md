@@ -26,10 +26,10 @@ je n’en rejette pas le principe, mais je m’y oppose fermement en raison de s
 Dans un cas, il s’agit de protéger les vulnérables ;  
 dans l’autre, de protéger les innocents.  
 L’État doit douter quand il s’agit de donner la mort à ceux qui souffrent,  
-mais il doit pouvoir prononcer une sanction irrévocable contre ceux qui ont détruit un enfant.un enfant.
+mais il doit pouvoir prononcer une sanction irrévocable contre ceux qui ont détruit un enfant.  
 
 Ce texte est écrit à la lumière de l’affaire Lyhanna, sans que sa portée s’y limite :  
-il s’agit d’une ligne de principe, pas d’une réaction circonstancielle.
+il s’agit d’une ligne de principe, pas d’une réaction circonstancielle.  
 
 La protection des enfants n’est pas un slogan : c’est une frontière.  
 Une frontière qui exige la rupture définitive, la sanction qui ne revient pas en arrière.  
