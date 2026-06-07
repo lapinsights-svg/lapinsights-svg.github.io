@@ -5,7 +5,6 @@ categories: actualites
 layout: article
 og_image: /images/actualites/cimetiere.png
 ---
-
 ![cimetiere](/images/actualites/cimetiere.png)
 
 
