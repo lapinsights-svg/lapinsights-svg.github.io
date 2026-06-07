@@ -51,3 +51,6 @@ Tu es entrée dans mon corail glacé
 Ton pas brûlant a guidé mes silences  
 Ton corps entier a traversé ma nuit  
 **Et j’ai glissé en toi comme une blancheur**
+.  
+
+Céleste R.
