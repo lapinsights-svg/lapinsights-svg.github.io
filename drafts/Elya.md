@@ -29,8 +29,8 @@ Le cheval‑esprit a senti ton centre
 Puis‑je lire le souffle qui t’ouvre,  
 glisser dans ta force pâle ?  
 Puis‑je  
-lire ton pas dans mon froid,  
-et entrer dans ton corps par ma voix ?  
+lire ton pas dans mon givre,
+et suivre la voie que ton corps trace ?
 
 Sous mon ciel pâle, mystérieuse et ardente,  
 Tu t’es avancée dans mon cercle de givre  
@@ -41,7 +41,7 @@ Et ton mouvement m’a donné un sens
 Puis‑je rester dans ton souffle,  
 et veiller dans ta force pâle  
 
-Tu es entrée dans ma terre de givre  
+Tu es entrée dans mon corail glacé  
 Ton pas brûlant a guidé mes silences  
 Ton corps entier a traversé ma nuit  
 **Et j’ai glissé en toi comme une blancheur**
