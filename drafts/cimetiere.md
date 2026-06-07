@@ -6,7 +6,7 @@ layout: article
 og_image: /images/actualites/cimetiere.png
 ---
 
-![presin](/images/actualites/cimetiere.png)
+![cimetiere](/images/actualites/cimetiere.png)
 
 
 Sous la lune, le **Cimetière des Virus Oubliés** s’étend comme un vieux calendrier de peurs recyclées.  
