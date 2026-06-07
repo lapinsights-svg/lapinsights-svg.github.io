@@ -1,6 +1,7 @@
 ---
 title: "Parcours Sup'plice"
-categories: actualites
+categories:
+  - actualites
 resume: "Un système d’orientation qui tourne au supplice pour les familles et les lycéens."
 tags: ["éducation", "jeunesse", "Parcoursup", "inégalités", "société"]
 date: 2026-06-08
