@@ -1,0 +1,45 @@
+---
+categories: creations
+title: "Le Souffle d’Elya"
+resume: "La Steppe interroge Elya comme un esprit ancien, dans un rituel de blancheur."
+---
+
+# Le Souffle d’Elya
+
+Tu es entrée dans ma terre de givre  
+Ton corps vibrant a troublé mes plaines  
+Chaque geste chaud a fendu mon silence  
+Signe de passage dans mon hiver ancien  
+
+**Elya**  
+Puis‑je lire le souffle qui t’ouvre,  
+glisser dans ta force pâle ?  
+Puis‑je  
+lire ton pas dans mon froid,  
+et entrer dans ton corps par ma voix ?  
+
+Je t’ai vue marcher sur ma neige dure  
+Tes muscles vifs ont réveillé mes ombres  
+Ton rythme court parlait comme un oracle  
+Le cheval‑esprit a senti ton centre  
+
+**Elya**  
+Puis‑je lire le souffle qui t’ouvre,  
+glisser dans ta force pâle ?  
+Puis‑je  
+lire ton pas dans mon froid,  
+et entrer dans ton corps par ma voix ?  
+
+Sous mon ciel pâle, mystérieuse et ardente,  
+Tu t’es avancée dans mon cercle de givre  
+Ton cœur ouvert a laissé passer mon souffle  
+Et ton mouvement m’a donné un sens  
+
+**Elya**  
+Puis‑je rester dans ton souffle,  
+et veiller dans ta force pâle  
+
+Tu es entrée dans ma terre de givre  
+Ton pas brûlant a guidé mes silences  
+Ton corps entier a traversé ma nuit  
+**Et j’ai glissé en toi comme une blancheur**
