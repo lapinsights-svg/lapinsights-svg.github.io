@@ -21,7 +21,7 @@ Non par vengeance, mais parce que certains actes franchissent un seuil moral irr
 Parce que l’enfant n’aura jamais de seconde chance.  
 Parce que le crime est définitif, et que la sanction doit pouvoir l’être aussi.
 
-Ma position ne contredit pas ma opposition à l’aide à mourir :  
+Ma position ne contredit pas ma position sur l’aide à mourir :  
 je n’en rejette pas le principe, mais je m’y oppose fermement en raison de ses dérives potentielles et de la non‑maturité du texte de loi.  
 Dans un cas, il s’agit de protéger les vulnérables ;  
 dans l’autre, de protéger les innocents.  
