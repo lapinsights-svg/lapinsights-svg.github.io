@@ -35,8 +35,8 @@ Le cheval‑esprit a senti ton centre
 Puis‑je lire le souffle qui t’ouvre,  
 glisser dans ta force pâle ?  
 Puis‑je  
-lire ton pas dans mon givre,
-et suivre la voie que ton corps trace ?
+lire ton pas dans mon givre,  
+et suivre la voie que ton corps trace ?  
 
 Sous mon ciel pâle, mystérieuse et ardente,  
 Tu t’es avancée dans mon cercle de givre  
