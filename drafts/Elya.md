@@ -39,7 +39,7 @@ Et ton mouvement m’a donné un sens
 
 **Elya**  
 Puis‑je rester dans ton souffle,  
-et veiller dans ta force pâle  
+et veiller dans ta force pâle ?  
 
 Tu es entrée dans mon corail glacé  
 Ton pas brûlant a guidé mes silences  
