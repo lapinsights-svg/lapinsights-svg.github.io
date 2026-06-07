@@ -1,5 +1,6 @@
 ---
 categories: creations
+layout: articles
 title: "Le Souffle d’Elya"
 resume: "La Steppe interroge Elya dans un rituel de blancheur."
 og_image: /images/creations/Elya.png
