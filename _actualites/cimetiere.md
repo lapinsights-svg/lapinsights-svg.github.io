@@ -1,6 +1,6 @@
 ---
 title: "Cimetière des Virus Oubliés"
-date: 2026-06-07
+date: 2026-06-08
 categories: actualites
 layout: article
 og_image: /images/actualites/cimetiere.png
