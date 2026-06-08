@@ -2,6 +2,7 @@
 title: "Sanctions irrévocables pour les crimes contre les enfants"
 resume: "à la lumière de l’affaire Lyhanna, sans s’y limiter"
 layout: article
+date: 2026-06-07
 categories: actualites
 tags: [justice, protection_enfance, sanctions_irrevocables, societe, morale]
 og_image: /images/actualites/irrevocable.png
