@@ -42,6 +42,20 @@ Ce texte n’est pas dangereux parce qu’il serait mal intentionné. Il l’est
 > Une véritable bienveillance commence par reconnaître ce qui est. Ici, on demande au lecteur de renoncer à ce qui est pour atteindre un état supposé supérieur. Ce n’est pas de la bienveillance : c’est une stratégie de contournement du réel, enveloppée dans un vocabulaire lumineux.
 
 **La vraie bienveillance ne vous retire jamais du monde ; elle vous y rend plus vivante. Tout le reste n’est qu’un brouillard qui se prend pour une lumière.**  
-.  
 
+Ce que j’éprouve aujourd’hui n’est pas une simple aversion morale.  
+C’est une lucidité.  
+Une lucidité née du constat qu’une doctrine peut se présenter comme une voie de guérison tout en opérant, en profondeur, une désintégration du sujet.
+
+L’horreur que suscite *Un Cours en Miracles* vient de là.  
+Il ne détruit pas frontalement.  
+Il dissout.
+
+Il ne contredit pas la vie.  
+Il la requalifie.  
+Il la requalifie jusqu’à la rendre méconnaissable, presque étrangère à elle-même.
+
+C’est une spiritualité qui ne combat pas la souffrance.  
+Elle la reprogramme.  
+Elle la reprogramme pour qu’elle ne
 Céleste R.
