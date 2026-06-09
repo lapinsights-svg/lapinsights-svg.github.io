@@ -5,7 +5,11 @@ layout: article
 categories: actualites
 resume: "Facebook oriente silencieusement la visibilité des commentaires selon trois issues : mise en avant, mise en ombre, ou neutralisation sociale."
 tags: ["facebook", "algorithme", "shadowban", "perturbateurs", "espace-public"]
+og_image: /images/actualites/facebook.jpg
 ---
+
+![facebook](/images/actualites/facebook.jpg)
+
 
 # Comment Facebook filtre le débat public
 
