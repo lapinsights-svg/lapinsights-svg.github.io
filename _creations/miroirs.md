@@ -10,7 +10,7 @@ og_image: /images/creations/miroirs.png
 
 ## L’homme qui fabriquait des miroirs
 
-Il était une fois un homme qui vivait dans une bibliothèque qu’il avait construite lui‑même.  
+Il était une fois, un homme qui vivait dans une bibliothèque qu’il avait construite lui‑même.  
 Non pas une bibliothèque de livres, mais une bibliothèque de miroirs.  
 Chaque miroir reflétait un monde qu’il avait arrangé avec un soin méticuleux :  
 un monde où chaque question avait déjà trouvé sa réponse,  
