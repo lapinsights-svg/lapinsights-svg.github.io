@@ -7,7 +7,6 @@ resume: "Facebook oriente silencieusement la visibilité des commentaires selon 
 tags: ["facebook", "algorithme", "shadowban", "perturbateurs", "espace-public"]
 og_image: /images/actualites/facebook.jpg
 ---
-
 ![facebook](/images/actualites/facebook.jpg)
 
 
