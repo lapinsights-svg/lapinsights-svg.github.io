@@ -53,7 +53,7 @@ Ils ne remarquèrent jamais que les miroirs montraient la même image sous tous 
 Mais d’autres, en silence, sortirent avec le voyageur.  
 Ils allumèrent la lanterne et la levèrent dans la nuit.  
 Et dans cette lumière simple, indifférente,  
-ils virent le monde tel qu’il était — imparfait, mouvant, sans vernis, mais réel.
+ils virent le monde tel qu’il était: imparfait, mouvant, sans vernis, mais réel.
 
 L’homme demeura dans sa bibliothèque, polissant ses miroirs avec une urgence croissante.  
 Il ne pouvait empêcher ceux qui partaient,  
