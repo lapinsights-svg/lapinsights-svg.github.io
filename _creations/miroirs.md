@@ -19,7 +19,7 @@ où chaque contradiction se repliait dans une harmonie supérieure que lui seul 
 
 Il passait ses journées à polir ces miroirs, à en ajuster les angles, veillant à ce que quiconque franchissait le seuil ne voie pas le monde tel qu’il était, mais tel qu’il l’avait composé.  
 Les visiteurs entraient souvent avec curiosité, et beaucoup repartaient convaincus que cet homme possédait une clarté rare.  
-Après tout, les miroirs étaient éblouissants, et les reflets précis — du moins tant qu’on ne regardait pas trop près des bords.
+Après tout, les miroirs étaient éblouissants, et les reflets précis - du moins tant qu’on ne regardait pas trop près des bords.
 
 Un jour, un voyageur arriva, portant une petite lanterne.  
 Ce n’était ni une lanterne puissante, ni une lanterne élégante, mais elle avait une propriété singulière :  
