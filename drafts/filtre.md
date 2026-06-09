@@ -51,5 +51,5 @@ bloquer les perturbateurs, nettoyer le fil, republier la forme.
 Rester dans la structure.  
 Laisser le reste tomber.  
 
-.
+.  
 Céleste R.
