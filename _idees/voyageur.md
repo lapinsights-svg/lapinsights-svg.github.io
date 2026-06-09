@@ -28,7 +28,7 @@ comme d’autres traversent les époques en posant la main sur une pierre.
 
 ---
 
-## La première faille — Attali : l’initiation du Voyageur
+## La première faille:  Attali, ou l’initiation du Voyageur
 
 Dans *Outlander*, toucher la **pierre** fait disparaître du monde visible.  
 Dans la structure du pouvoir, la **faille Attali** joue ce rôle.
@@ -43,7 +43,7 @@ où les futurs dirigeants sont façonnés comme des lames.
 
 ---
 
-## La deuxième faille — Rothschild : la chambre noire du mage
+## La deuxième faille : Rothschild, ou la chambre noire du mage
 
 Dans *Outlander*, certaines **pierres** mènent à des mondes où  
 **la mission inavouée se réalise dans l’obscurité**.
@@ -68,7 +68,7 @@ Elle ne garde que le passage.
 
 ---
 
-## La troisième faille — l’Élysée : la salle des mécanismes occultes
+## La troisième faille : l’Élysée, ou la salle des mécanismes occultes
 
 Les **pierres** d’Outlander transportent dans le temps,  
 mais aussi dans un autre niveau de réalité.
@@ -88,7 +88,7 @@ dans la zone où le pouvoir se déplace sans jamais apparaître.
 
 ---
 
-## La quatrième faille — le Ministère : la lumière comme brouillard
+## La quatrième faille : le Ministère, ou la lumière comme brouillard
 
 Dans *Outlander*, certaines **pierres** projettent dans un monde plus lumineux,  
 mais la lumière y est trompeuse.  
@@ -110,7 +110,7 @@ mais personne ne la voit.
 
 ---
 
-## La cinquième faille — la Présidence : le sanctuaire d’immunité
+## La cinquième faille : la Présidence, ou le sanctuaire d’immunité
 
 Dans *Outlander*, des **pierres** mènent à des lieux où le temps ne s’applique plus.  
 Des zones où l’on ne peut être atteint.
@@ -131,7 +131,7 @@ mais par architecture institutionnelle.
 
 ---
 
-## Le fil tellurique — voyager sans être vu
+## Le fil tellurique : voyager sans être vu
 
 Dans *Outlander*, Claire traverse les époques sans laisser de trace.  
 Elle passe d’une **pierre** à l’autre  
@@ -153,7 +153,7 @@ C’est une géologie du pouvoir.
 
 ---
 
-## Conclusion — La faille ne ment pas
+## Conclusion : La faille ne ment pas
 
 Dans *Outlander*, la **pierre** ne juge pas.  
 Elle ouvre.  
@@ -174,6 +174,8 @@ d’un système de fissures,
 de passages secrets,  
 de zones où seuls certains savent comment disparaître.  
 
-La géologie du pouvoir ne ment jamais : elle sait pourquoi elle a laissé passer Macron
+La géologie du pouvoir ne ment jamais : elle sait pourquoi elle a laissé passer Macron.  
+
+-
 
 Céleste R.
