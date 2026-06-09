@@ -1,12 +1,14 @@
 ---
 layout: article
-categories: idees
+categories: creations
 date: 2026-06-09
-title: "L’homme qui construisait des miroirs"
+title: "L’homme qui fabriquait des miroirs"
+og_image: /images/creations/miroirs.png
 ---
+![miroirs](/images/creations/miroirs.png)
 
 
-## L’homme qui construisait des miroirs
+## L’homme qui fabriquait des miroirs
 
 Il était une fois un homme qui vivait dans une bibliothèque qu’il avait construite lui‑même.  
 Non pas une bibliothèque de livres, mais une bibliothèque de miroirs.  
