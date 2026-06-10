@@ -32,7 +32,7 @@ C’est une **rupture du contrat social**.
 
 Ce contrat n’a jamais été un texte.  
 C’est un pacte implicite, archaïque, fondamental :  
-**“Je renonce à me faire justice moi-même, en échange tu me protèges.”**
+**“Je renonce à me faire justice moi-même, en échange l'Etat me protège.”**
 
 Quand ce pacte se fissure, tout vacille.  
 Quand il se brise, le chaos revient.  
