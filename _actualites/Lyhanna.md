@@ -8,7 +8,7 @@ og_image: /images/idees/Lyhanna.png
 
 ![Lyhanna](/images/idees/Lyhanna.png)
 
-# # Lyhanna : quand un drame délie tout un pays
+## Lyhanna : quand un drame délie tout un pays
 
 Il y a des drames qui sont avant tout des diagnostics.  
 Des révélateurs.  
