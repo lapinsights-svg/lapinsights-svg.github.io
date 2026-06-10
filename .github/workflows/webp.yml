@@ -1,9 +1,7 @@
-name: Auto WebP Conversion
+name: Manual WebP Conversion
 
 on:
-  push:
-    paths:
-      - "images/**"
+  workflow_dispatch:
 
 jobs:
   convert:
@@ -30,5 +28,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add images/**/*.webp
-          git commit -m "Auto-generate WebP images" || echo "No changes"
+          git commit -m "Manual WebP conversion" || echo "No changes"
           git push
