@@ -14,7 +14,10 @@ og_image: /images/actualites/parlementaire.png
 
 ![parlementaire](/images/actualites/parlementaire.png)
 
-# Synthèse - Séance du 9 juin 2026
+<h3 style="margin-bottom:0.1rem;">
+  <img src="/assets/img/categories/actualites.png" style="width:34px !important; height:auto; display:inline-block; vertical-align:middle; margin-right:6px;">
+  Synthèse - Séance du 9 juin 2026
+</h3>
 
 **J'analyse une séance parlementaire en hémicycle**, dans le cadre des Questions au Gouvernement.  
 Le compte rendu intégral est disponible ici :  
