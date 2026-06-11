@@ -1,6 +1,6 @@
 ---
 title: "Synthèse de la séance parlementaire française du 9 juin 2026"
-date: 2026-06-10
+date: 2026-06-11
 layout: article
 categories: actualites
 tags:
