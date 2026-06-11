@@ -10,6 +10,11 @@ og_image: /images/spiritualite/enseignement.png
 
 ![enseignement](/images/spiritualite/enseignement.png)
 
+<h3 style="margin-bottom:0.1rem;">
+  <img src="/assets/img/categories/spiritualite.png" style="width:34px !important; height:auto; display:inline-block; vertical-align:middle; margin-right:6px;">
+  Les épreuves ne sont que des leçons que tu as manqué d'apprendre
+</h3>
+
 C'est une phrase qui ne cherche pas à décrire le monde, mais à décrire la manière dont tu devrais te tenir dans le monde.  
 Elle ne parle pas de ce qui arrive : elle parle de la manière dont tu devrais te percevoir en train de vivre.  
 Elle ne console pas : elle resserre.
