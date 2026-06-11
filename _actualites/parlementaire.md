@@ -23,7 +23,7 @@ Le compte rendu intégral est disponible ici :
 Il ne s’agit ni d’une commission d’enquête, ni d’auditions, ni d’un travail structurel :  
 c’est un rituel institutionnel, un moment de mise en scène politique où l’émotion circule mais où la structure ne se modifie pas.
 
-La séance du 9 juin 2026 met en évidence un écart stable entre deux régimes de parole :  
+La séance du 9 juin 2026 met en évidence un écart entre deux régimes de parole :  
 **l’émotion parlementaire** et **la structure étatique**.
 
 L’émotion est immédiate : hommages, indignation, chiffres répétés, colère ritualisée.  
