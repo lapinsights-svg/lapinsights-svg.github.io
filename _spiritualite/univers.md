@@ -12,7 +12,10 @@ og_image: /images/spiritualite/univers.png
 ---
 ![univers](/images/spiritualite/univers.png)
 
-## *L’univers ne te donne jamais plus que ce que tu peux porter*
+<h3 style="margin-bottom:0.1rem;">
+  <img src="/assets/img/categories/spiritualite.png" style="width:34px !important; height:auto; display:inline-block; vertical-align:middle; margin-right:6px;">
+  L’univers ne te donne jamais plus que ce que tu peux porter
+</h3>
 
 Il y a des phrases qui brillent comme des pierres lisses, trop polies pour ne pas mentir, et qui, quand on les retourne, révèlent une arête vive.  
 Celle‑ci en fait partie.  
