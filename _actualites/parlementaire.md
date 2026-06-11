@@ -16,7 +16,7 @@ og_image: /images/actualites/parlementaire.png
 
 # Synthèse Lapinsights - Séance du 9 juin 2026
 
-**J'analyse ici analyse une séance parlementaire en hémicycle**, dans le cadre des Questions au Gouvernement.  
+**J'analyse une séance parlementaire en hémicycle**, dans le cadre des Questions au Gouvernement.  
 Le compte rendu intégral est disponible ici :  
 [Compte rendu de la séance du 9 juin 2026 — Assemblée nationale](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/seance-du-mardi-09-juin-2026#4117612)
 
