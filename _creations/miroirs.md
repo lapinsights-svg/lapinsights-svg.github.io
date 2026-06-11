@@ -8,7 +8,7 @@ og_image: /images/creations/miroirs.png
 
 ![miroirs](/images/creations/miroirs.png)
 
-<h2 style="margin-bottom:0.2rem;">
+<h2 style="margin-bottom:0.1rem;">
   <img src="/assets/img/categories/creations.png" style="width:34px !important; height:auto; display:inline-block; vertical-align:middle; margin-right:6px;">
   L’homme qui fabriquait des miroirs
 </h2>
