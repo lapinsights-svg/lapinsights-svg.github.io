@@ -57,7 +57,8 @@ La structure restera, intacte, indifférente, verticale.
 .  
 
 > ## Encadré — La seule brèche d’espoir  
-> Une transformation reste possible si la pression sociale devient durable, structurée et impossible à absorber.  
+> Une transformation reste possible si la pression sociale  
+> devient durable, structurée et impossible à absorber.  
 > Les systèmes institutionnels ne bougent pas sous l’effet d’un choc ponctuel,  
 > mais sous l’effet d’une indignation continue qui ne retombe pas.  
 > Si un mouvement civique large, calme et persistant impose la reconnaissance de l’échec systémique,  
