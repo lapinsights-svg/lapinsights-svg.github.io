@@ -14,7 +14,7 @@ og_image: /images/actualites/parlementaire.png
 
 ![parlementaire](/images/actualites/parlementaire.png)
 
-# Synthèse Lapinsights — Séance du 9 juin 2026
+# Synthèse Lapinsights - Séance du 9 juin 2026
 
 **J'analyse ici analyse une séance parlementaire en hémicycle**, dans le cadre des Questions au Gouvernement.  
 Le compte rendu intégral est disponible ici :  
