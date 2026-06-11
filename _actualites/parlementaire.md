@@ -9,7 +9,10 @@ tags:
   - politique
   - structure
 resume: "Analyse de la séance parlementaire du 9 juin 2026 : écart structurel entre émotion parlementaire et inertie étatique."
+og_image: /images/actualites/parlementaire.png
 ---
+
+![parlementaire](/images/actualites/parlementaire.png)
 
 # Synthèse Lapinsights — Séance du 9 juin 2026
 
