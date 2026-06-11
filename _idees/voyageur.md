@@ -10,7 +10,10 @@ og_image: /images/idees/failles.png
 
 ![failles](/images/idees/failles.png)
 
-# Macron, le voyageur des failles maudites
+<h3 style="margin-bottom:0.1rem;">
+  <img src="/assets/img/categories/idees.png" style="width:34px !important; height:auto; display:inline-block; vertical-align:middle; margin-right:6px;">
+  Macron, le voyageur des failles maudites
+</h3>
 
 Dans la série *Outlander*, les **pierres** sont des seuils.  
 Elles reconnaissent certains corps, certaines vibrations,  
