@@ -8,7 +8,7 @@ og_image: /images/creations/miroirs.png
 
 ![miroirs](/images/creations/miroirs.png)
 
-## <img src="/assets/img/categories/creations.png" width="26" style="vertical-align: middle; margin-right: 6px;"> L’homme qui fabriquait des miroirs
+## <img src="/assets/img/categories/creations.png" style="width:24px !important; height:auto; display:inline-block; vertical-align:middle; margin-right:6px;"> L’homme qui fabriquait des miroirs
 
 
 Il était une fois, un homme qui vivait dans une bibliothèque qu’il avait construite lui‑même.  
