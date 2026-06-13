@@ -83,19 +83,23 @@ Ce n’était qu’un déplacement subtil de mon propre centre de gravité.
 
 Puis vient l’idée que la souffrance provient de la « dualité ».
 
-Le réel disparaît.  
-Les conflits, les injustices, les pertes, les traumatismes ne sont plus des événements concrets.
+Dans *Un Cours en Miracles*, la dualité n’est pas un état intérieur :  
+c’est le monde lui‑même, considéré comme une illusion produite par l’ego.  
+Autrement dit, tout ce qui est perçu — relations, situations, injustices, pertes, traumatismes — n’aurait aucune réalité propre.
 
-Ce n’est plus le monde qui blesse.  
-C’est la dualité.
+Dès lors, ce que vous vivez perd sa consistance.  
+Les événements concrets deviennent des projections.  
+La douleur n’est plus un signal, mais la preuve que vous croyez encore au monde.
 
-Autrement dit : c’est vous.
+Ce n’est plus le monde qui blesse :  
+c’est le fait d’y croire.
 
-La responsabilité glisse de l’extérieur vers l’intérieur, sans jamais être nommée.
+La responsabilité ne vous est pas attribuée frontalement, mais glisse subtilement vers l’intérieur :  
+si vous souffrez, c’est que vous adhérez encore à l’illusion.
 
 C’est une manière élégante de neutraliser la personne.  
 De la couper de ses ressources d’action.  
-De rendre toute souffrance suspecte.
+De rendre toute souffrance suspecte — non parce qu’elle serait imaginaire, mais parce qu’elle serait « spirituellement incorrecte ».
 
 ---
 
