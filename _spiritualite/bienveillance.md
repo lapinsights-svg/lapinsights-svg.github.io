@@ -57,5 +57,15 @@ Il la requalifie jusqu’à la rendre méconnaissable, presque étrangère à el
 
 C’est une spiritualité qui ne combat pas la souffrance.  
 Elle la reprogramme.  
-Elle la reprogramme pour qu’elle ne
+Elle la reprogramme pour qu’elle ne puisse plus parler, pour qu’elle ne puisse plus témoigner,  
+pour qu’elle cesse d’être un signal et devienne une faute.  
+
+Elle ne cherche pas à comprendre ce qui blesse.  
+Elle cherche à neutraliser ce qui dérange.  
+Elle transforme la douleur en anomalie métaphysique, la vulnérabilité en erreur de perception, la lucidité en obstacle.  
+
+Ce n’est pas une voie de guérison.  
+C’est une ingénierie de l’anesthésie.  
+Une manière polie, lumineuse, presque tendre, de vous apprendre à ne plus sentir ce qui vous arrive.  
+
 Céleste R.
