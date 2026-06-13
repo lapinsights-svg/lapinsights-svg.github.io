@@ -40,7 +40,7 @@ Mais dès qu’on regarde de près, quelque chose se fissure.
 
 Premier glissement : expliquer la souffrance comme une simple erreur de lecture.
 
-Si nous allons mal, ce ne serait jamais à cause d’une situation, d’une relation, d’un contexte.  
+Si nous allons mal, ce ne serait jamais à cause d’une situation ou d’un contexte.  
 Non : ce serait parce que nous « voyons mal ».
 
 La douleur devient un défaut de perception.
@@ -48,17 +48,12 @@ La douleur devient un défaut de perception.
 Dans la logique du Cours, c’est cohérent :  
 **si le monde est une illusion, alors la souffrance n’a pas de cause extérieure.**
 
-Mais cette idée n’est pas seulement fausse.  
-Elle est dangereuse.
-
+Mais cette idée est dangereuse.  
 Elle culpabilise la personne souffrante.  
 Elle l’isole.  
-Elle l’empêche de demander de l’aide.  
 Elle transforme un vécu légitime en faute intérieure.
 
 Dire que tout vient d’un « blocage » mental, c’est déjà commencer à dissocier la personne de ce qu’elle vit réellement.
-
-C’est la première étape d’un éloignement de soi.
 
 ---
 
@@ -72,16 +67,9 @@ Impossible à réfuter.
 Il devient un axiome.  
 Un manque fabriqué, que seul l’enseignant peut combler.
 
-C’est un mécanisme classique :  
-on crée une faille imaginaire, puis on propose la solution.
-
-Et dans la logique du Cours, cette solution est radicale :  
-**si nous avons oublié l’Unité, alors tout ce que nous vivons dans le monde est déjà faux.**
+Et dans la logique du Cours, cet oubli implique que tout ce que nous vivons dans le monde est déjà faux.
 
 Le lecteur est invité à douter de lui-même avant même d’avoir commencé.
-
-J’ai longtemps pris cela pour de la profondeur.  
-Ce n’était qu’un déplacement subtil de mon propre centre de gravité.
 
 ---
 
@@ -101,12 +89,11 @@ La douleur n’est plus un signal, mais la preuve que vous croyez encore au mond
 Ce n’est plus le monde qui blesse.  
 **C’est le fait d’y croire.**
 
-La responsabilité ne vous est pas attribuée frontalement, mais glisse subtilement vers l’intérieur :  
+La responsabilité glisse subtilement vers l’intérieur :  
 si vous souffrez, c’est que vous adhérez encore à l’illusion.
 
 C’est une manière élégante de neutraliser la personne.  
-De la couper de ses ressources d’action.  
-De rendre toute souffrance suspecte.
+De la couper de ses ressources d’action.
 
 ---
 
@@ -115,15 +102,12 @@ De rendre toute souffrance suspecte.
 Le passage le plus problématique : nous chercherions « des solutions pour le mauvais problème ».
 
 Tout ce que le lecteur fait pour aller mieux est disqualifié.  
-Thérapie, relations, décisions, limites, compréhension : balayés d’un geste.
+Thérapie, relations, décisions, limites : balayés d’un geste.
 
 Le seul problème légitime est celui que l’auteur définit.
 
 Et dans la logique du Cours, ce problème est toujours le même :  
 **tu crois au monde.**
-
-Le lecteur apprend à douter de son discernement.  
-C’est un mécanisme classique des discours qui cherchent à capturer l’interprétation de l’expérience humaine.
 
 Dès que vous doutez de votre lecture du réel, vous devenez dépendant de celle qu’on vous propose.
 
@@ -138,7 +122,6 @@ Mais exige en échange une sortie du réel.
 
 Renoncer à la perception.  
 À la relation.  
-À la conflictualité.  
 À la vulnérabilité.
 
 C’est une paix qui ressemble à une anesthésie.
@@ -151,8 +134,7 @@ Le pardon du Cours n’est pas un apaisement.
 C’est une annulation du vécu.
 
 Ce type de discours normalise la dissociation.  
-Il la présente comme un idéal spirituel.  
-Il coupe la personne de ses signaux internes — colère, peur, tristesse, intuition — qui sont pourtant des outils de survie, de limite, d’action.
+Il coupe la personne de ses signaux internes — colère, peur, tristesse, intuition — qui sont pourtant des outils de survie.
 
 Sous couvert de bienveillance, il encourage une élégante disparition de soi :  
 ne plus sentir ce qui dérange plutôt que le comprendre.
