@@ -159,4 +159,50 @@ La lucidité par une abstraction.
 > La vulnérabilité, un échec intérieur.  
 >  
 > Ce n’est pas de la paix :  
-> c’est une neutralisation émotionnelle présentée comme
+> c’est une neutralisation émotionnelle présentée comme une élévation.
+
+---
+
+**La vraie bienveillance ne vous retire jamais du monde.  
+Elle vous y rend plus vivante.**
+
+Tout le reste n’est qu’un brouillard qui se prend pour une lumière.
+
+---
+
+Ce que j’éprouve aujourd’hui n’est pas une aversion morale.  
+C’est une lucidité.
+
+Une lucidité née du constat qu’une doctrine peut se présenter comme une voie de guérison tout en opérant, en profondeur, une désintégration du sujet.
+
+---
+
+L’horreur que suscite *Un Cours en Miracles* vient de là.
+
+Il ne détruit pas frontalement.  
+Il dissout.
+
+Il ne contredit pas la vie.  
+Il la requalifie.  
+Jusqu’à la rendre méconnaissable.
+
+C’est une spiritualité qui ne combat pas la souffrance.  
+Elle la reprogramme.  
+Pour qu’elle ne parle plus.  
+Pour qu’elle ne témoigne plus.  
+Pour qu’elle cesse d’être un signal et devienne une faute.
+
+Elle ne cherche pas à comprendre ce qui blesse.  
+Elle cherche à neutraliser ce qui dérange.
+
+Elle transforme la douleur en anomalie métaphysique.  
+La vulnérabilité en erreur de perception.  
+La lucidité en obstacle.
+
+Ce n’est pas une voie de guérison.  
+C’est une ingénierie de l’anesthésie.
+
+Une manière polie, lumineuse, presque tendre,  
+de vous apprendre à ne plus sentir ce qui vous arrive.
+
+Céleste R.
