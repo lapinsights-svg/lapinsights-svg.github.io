@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi cette soi‑disidant « conscience bienveillante » n’a rien de bienveillant"
+title: "Pourquoi cette soi‑disant « conscience bienveillante » n’a rien de bienveillant"
 date: 2026-06-13
 layout: article
 resume: "Une critique de la pseudo-bienveillance spirituelle qui dissocie au lieu d’éclairer."
@@ -45,11 +45,14 @@ Non : ce serait parce que nous « voyons mal ».
 
 La douleur devient un défaut de perception.
 
-C’est séduisant : tout pourrait être réglé par un changement intérieur.  
+Cette idée n’est pas seulement fausse : elle est dangereuse.  
+Elle culpabilise la personne souffrante, l’isole, l’empêche de demander de l’aide.  
+Elle transforme un vécu légitime en faute intérieure.
+
+C’est séduisant — tout pourrait être réglé par un changement intérieur.  
 Mais c’est aussi une manière subtile de nier la réalité des expériences humaines.
 
-Dire que tout vient d’un « blocage » mental, c’est déjà commencer à dissocier la personne de ce qu’elle vit réellement.
-
+Dire que tout vient d’un « blocage » mental, c’est déjà commencer à dissocier la personne de ce qu’elle vit réellement.  
 C’est la première étape d’un éloignement de soi.
 
 ---
@@ -62,7 +65,12 @@ Cet oubli est impossible à vérifier.
 Impossible à réfuter.
 
 Il devient un axiome.  
-Un manque que seul l’enseignant peut combler.
+Un manque fabriqué, que seul l’enseignant peut combler.
+
+C’est un mécanisme classique :  
+on crée une faille imaginaire, puis on propose la solution.  
+On installe une dépendance interprétative.  
+On déplace le centre de gravité du lecteur vers celui qui parle.
 
 Le lecteur est invité à douter de lui-même avant même d’avoir commencé.
 
@@ -121,7 +129,11 @@ Renoncer à la perception.
 
 C’est une paix qui ressemble à une anesthésie.
 
-Sous couvert de bienveillance, ce discours encourage une dissociation élégante : ne plus sentir ce qui dérange plutôt que le comprendre.
+Ce type de discours normalise la dissociation.  
+Il la présente comme un idéal spirituel.  
+Il coupe la personne de ses signaux internes — colère, peur, tristesse, intuition — qui sont pourtant des outils de survie, de limite, d’action.
+
+Sous couvert de bienveillance, il encourage une élégante disparition de soi : ne plus sentir ce qui dérange plutôt que le comprendre.
 
 ---
 
