@@ -162,7 +162,7 @@ La lucidité par une abstraction.
 ---
 
 **La vraie bienveillance ne vous retire jamais du monde.  
-Elle vous y rend plus vivante.**
+Elle vous y rend plus vivant.**
 
 Tout le reste n’est qu’un brouillard qui se prend pour une lumière.
 
