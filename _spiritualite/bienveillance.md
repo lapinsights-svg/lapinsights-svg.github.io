@@ -73,27 +73,30 @@ Le lecteur est invité à douter de lui-même avant même d’avoir commencé.
 
 ---
 
-### 3. La dualité comme cause universelle
+## 3. La dualité comme cause universelle
 
 Puis vient l’idée que la souffrance provient de la « dualité ».
 
-Dans *Un Cours en Miracles*, la dualité n’est pas un état intérieur.  
-C’est le monde lui‑même, considéré comme une illusion produite par l’ego.
+Dans *Un Cours en Miracles*, la dualité n’est pas seulement le monde extérieur.  
+Elle inclut aussi **l’état intérieur**, puisque pensées, émotions et perceptions appartiennent encore au rêve.  
+Tout ce qui est vécu — dehors comme dedans — est considéré comme une projection issue de la croyance dans la séparation.
 
-Donc tout ce qui est perçu — relations, injustices, pertes, traumatismes — n’aurait aucune réalité propre.
+Ainsi, relations, injustices, pertes, traumatismes, mais aussi réactions émotionnelles et conflits intérieurs, n’auraient aucune réalité propre.  
+Ils ne sont que des effets d’une erreur métaphysique.
 
 Dès lors, ce que vous vivez perd sa consistance.  
 Les événements concrets deviennent des projections.  
-La douleur n’est plus un signal, mais la preuve que vous croyez encore au monde.
+La douleur n’est plus un signal, mais la preuve que vous croyez encore au monde — et donc à la dualité.
 
 Ce n’est plus le monde qui blesse.  
-**C’est le fait d’y croire.**
+Ce n’est même plus votre vécu intérieur.  
+C’est **le fait d’y croire**.
 
 La responsabilité glisse subtilement vers l’intérieur :  
 si vous souffrez, c’est que vous adhérez encore à l’illusion.
 
 C’est une manière élégante de neutraliser la personne.  
-De la couper de ses ressources d’action.
+De dissoudre à la fois le monde et l’expérience intime qui pourrait lui résister.
 
 ---
 
