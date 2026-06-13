@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi cette soi‑disant « conscience bienveillante » n’a rien de bienveillant"
+title: "Pourquoi cette soi‑disidant « conscience bienveillante » n’a rien de bienveillant"
 date: 2026-06-13
 layout: article
 resume: "Une critique de la pseudo-bienveillance spirituelle qui dissocie au lieu d’éclairer."
@@ -45,21 +45,26 @@ Non : ce serait parce que nous « voyons mal ».
 
 La douleur devient un défaut de perception.
 
-Cette idée n’est pas seulement fausse : elle est dangereuse.  
-Elle culpabilise la personne souffrante, l’isole, l’empêche de demander de l’aide.  
+Dans la logique du Cours, c’est cohérent :  
+**si le monde est une illusion, alors la souffrance n’a pas de cause extérieure.**
+
+Mais cette idée n’est pas seulement fausse.  
+Elle est dangereuse.
+
+Elle culpabilise la personne souffrante.  
+Elle l’isole.  
+Elle l’empêche de demander de l’aide.  
 Elle transforme un vécu légitime en faute intérieure.
 
-C’est séduisant — tout pourrait être réglé par un changement intérieur.  
-Mais c’est aussi une manière subtile de nier la réalité des expériences humaines.
+Dire que tout vient d’un « blocage » mental, c’est déjà commencer à dissocier la personne de ce qu’elle vit réellement.
 
-Dire que tout vient d’un « blocage » mental, c’est déjà commencer à dissocier la personne de ce qu’elle vit réellement.  
 C’est la première étape d’un éloignement de soi.
 
 ---
 
 ### 2. L’« oubli » de notre essence : un outil rhétorique
 
-Le texte affirme ensuite que nous aurions « oublié » notre essence véritable, faite d’amour et d’unité.
+Le texte affirme que nous aurions « oublié » notre essence véritable, faite d’amour et d’unité.
 
 Cet oubli est impossible à vérifier.  
 Impossible à réfuter.
@@ -68,9 +73,10 @@ Il devient un axiome.
 Un manque fabriqué, que seul l’enseignant peut combler.
 
 C’est un mécanisme classique :  
-on crée une faille imaginaire, puis on propose la solution.  
-On installe une dépendance interprétative.  
-On déplace le centre de gravité du lecteur vers celui qui parle.
+on crée une faille imaginaire, puis on propose la solution.
+
+Et dans la logique du Cours, cette solution est radicale :  
+**si nous avons oublié l’Unité, alors tout ce que nous vivons dans le monde est déjà faux.**
 
 Le lecteur est invité à douter de lui-même avant même d’avoir commencé.
 
@@ -83,23 +89,24 @@ Ce n’était qu’un déplacement subtil de mon propre centre de gravité.
 
 Puis vient l’idée que la souffrance provient de la « dualité ».
 
-Dans *Un Cours en Miracles*, la dualité n’est pas un état intérieur :  
-c’est le monde lui‑même, considéré comme une illusion produite par l’ego.  
-Autrement dit, tout ce qui est perçu — relations, situations, injustices, pertes, traumatismes — n’aurait aucune réalité propre.
+Dans *Un Cours en Miracles*, la dualité n’est pas un état intérieur.  
+C’est le monde lui‑même, considéré comme une illusion produite par l’ego.
+
+Donc tout ce qui est perçu — relations, injustices, pertes, traumatismes — n’aurait aucune réalité propre.
 
 Dès lors, ce que vous vivez perd sa consistance.  
 Les événements concrets deviennent des projections.  
 La douleur n’est plus un signal, mais la preuve que vous croyez encore au monde.
 
-Ce n’est plus le monde qui blesse :  
-c’est le fait d’y croire.
+Ce n’est plus le monde qui blesse.  
+**C’est le fait d’y croire.**
 
 La responsabilité ne vous est pas attribuée frontalement, mais glisse subtilement vers l’intérieur :  
 si vous souffrez, c’est que vous adhérez encore à l’illusion.
 
 C’est une manière élégante de neutraliser la personne.  
 De la couper de ses ressources d’action.  
-De rendre toute souffrance suspecte — non parce qu’elle serait imaginaire, mais parce qu’elle serait « spirituellement incorrecte ».
+De rendre toute souffrance suspecte.
 
 ---
 
@@ -111,6 +118,9 @@ Tout ce que le lecteur fait pour aller mieux est disqualifié.
 Thérapie, relations, décisions, limites, compréhension : balayés d’un geste.
 
 Le seul problème légitime est celui que l’auteur définit.
+
+Et dans la logique du Cours, ce problème est toujours le même :  
+**tu crois au monde.**
 
 Le lecteur apprend à douter de son discernement.  
 C’est un mécanisme classique des discours qui cherchent à capturer l’interprétation de l’expérience humaine.
@@ -133,11 +143,19 @@ Renoncer à la perception.
 
 C’est une paix qui ressemble à une anesthésie.
 
+Et c’est ici que la logique du Cours devient explicite :  
+**si le monde est une illusion, alors il ne s’est rien passé.  
+Et si rien ne s’est passé, alors la souffrance n’a pas de cause réelle.**
+
+Le pardon du Cours n’est pas un apaisement.  
+C’est une annulation du vécu.
+
 Ce type de discours normalise la dissociation.  
 Il la présente comme un idéal spirituel.  
 Il coupe la personne de ses signaux internes — colère, peur, tristesse, intuition — qui sont pourtant des outils de survie, de limite, d’action.
 
-Sous couvert de bienveillance, il encourage une élégante disparition de soi : ne plus sentir ce qui dérange plutôt que le comprendre.
+Sous couvert de bienveillance, il encourage une élégante disparition de soi :  
+ne plus sentir ce qui dérange plutôt que le comprendre.
 
 ---
 
