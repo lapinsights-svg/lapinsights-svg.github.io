@@ -11,8 +11,11 @@ tags:
   - industrie
   - France
   - Lapinsights
-categories idees
+categories: idees
+og_image: /images/idees/choosefrance.png
 ---
+
+![choosefrance](/images/idees/choosefrance.png)
 
 
 # Choose France : l’art discret de renoncer à soi-même
