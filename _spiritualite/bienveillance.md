@@ -1,6 +1,6 @@
 ---
 title: "Pourquoi cette soi‑disant « conscience bienveillante » n’a rien de bienveillant"
-date: 2026-06-08
+date: 2026-06-13
 layout: article
 resume: "Une critique de la pseudo-bienveillance spirituelle qui dissocie au lieu d’éclairer."
 tags: ["spiritualité", "critique", "dissociation", "psychologie", "manipulation", "bienveillance", "cours-en-miracles"]
