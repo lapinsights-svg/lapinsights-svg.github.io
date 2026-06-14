@@ -1,9 +1,9 @@
 ---
-title: "La citoyenneté conditionnelle : généalogie d’un durcissement silencieux"
+title: "La citoyenneté conditionnelle"
 date: 2026-05-07
 layout: article
 categories: idees
-resume: "Une lecture du durcissement silencieux des libertés à travers l’école, la sécurité et la conformité civique."
+resume: "Une lecture du durcissement des libertés à travers l’école, la sécurité et la conformité civique."
 og_image: /images/idees/boncitoyen.png
 ---
 ![boncitoyen](/images/idees/boncitoyen.png)
