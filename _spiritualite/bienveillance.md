@@ -119,13 +119,32 @@ vous devenez dépendant de celle qu’on vous propose.
 Le Cours n’interdit pas de se soigner  
 ou de chercher des solutions concrètes.
 
-Mais il affirme que ce n’est jamais là que se trouve le vrai problème.
+Il ne dit pas non plus que cela “ne sert à rien”.  
+S’il le disait, l’élève serait poussé trop vite  
+dans une dissociation brutale.
+
+Alors le Cours adopte une autre stratégie :  
+il autorise les solutions du monde,  
+mais en précisant que ce n’est jamais là  
+que se trouve le vrai problème.
 
 Le seul problème, pour lui, est la croyance en la séparation —  
 et donc, par ricochet, la croyance en la réalité du monde  
 où la souffrance se produit.
 
+Cette position n’est pas une ouverture humaniste.  
+C’est un amortisseur.
+
+Elle permet à "l’élève" de continuer à fonctionner dans le monde,  
+tout en maintenant la cohérence de la doctrine  
+(le monde n’existe pas, la souffrance n’a pas de cause extérieure).
+
+C’est une manière de faire tenir ensemble  
+une métaphysique radicale  
+et une psyché humaine qui, elle, doit continuer à vivre.
+
 Tout le reste n’est qu’un traitement de surface.
+
 
 ---
 
