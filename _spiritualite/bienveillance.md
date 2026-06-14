@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi cette soi‑disant « conscience bienveillante » n’a rien de bienveillant"
+title: "Pourquoi cette soi‑disiante « conscience bienveillante » n’a rien de bienveillant"
 date: 2026-06-13
 layout: article
 resume: "Une critique de la pseudo-bienveillance spirituelle qui dissocie au lieu d’éclairer."
@@ -53,7 +53,7 @@ Elle culpabilise la personne souffrante.
 Elle l’isole.  
 Elle transforme un vécu légitime en faute intérieure.
 
-Dire que tout vient d’un « blocage » mental, c’est déjà commencer à dissocier la personne de ce qu’elle vit réellement.
+Dire que tout vient d’un « blocage » mental, c’est déjà commencer à dissocier la personne de ce qu’elle vit.
 
 ---
 
@@ -73,7 +73,7 @@ Le lecteur est invité à douter de lui-même avant même d’avoir commencé.
 
 ---
 
-## 3. La dualité comme cause universelle
+### 3. La dualité comme cause universelle
 
 Puis vient l’idée que la souffrance provient de la « dualité ».
 
@@ -82,7 +82,7 @@ Elle inclut aussi **l’état intérieur**, puisque pensées, émotions et perce
 Tout ce qui est vécu — dehors comme dedans — est considéré comme une projection issue de la croyance dans la séparation.
 
 Ainsi, relations, injustices, pertes, traumatismes, mais aussi réactions émotionnelles et conflits intérieurs, n’auraient aucune réalité propre.  
-Ils ne sont, dans cette logique, que des effets d’une erreur métaphysique. 
+Ils ne sont, dans cette logique, que des effets d’une erreur métaphysique.
 
 Dès lors, ce que vous vivez perd sa consistance.  
 Les événements concrets deviennent des projections.  
@@ -102,6 +102,7 @@ Dans cette logique, même la douleur perd son statut de signal.
 Elle devient une preuve d’erreur.
 
 ---
+
 ### 4. « Le mauvais problème » : disqualifier le vécu
 
 Le passage le plus problématique :  
@@ -122,7 +123,7 @@ vous devenez dépendant de celle qu’on vous propose.
 Le Cours n’interdit pas de se soigner  
 ou de chercher des solutions concrètes.
 
-Il ne dit pas non plus que cela “ne sert à rien”.  
+Il ne dit pas non plus que cela « ne sert à rien ».  
 S’il le disait, l’élève serait poussé trop vite  
 dans une dissociation brutale.
 
@@ -138,7 +139,7 @@ où la souffrance se produit.
 Cette position n’est pas une ouverture humaniste.  
 C’est un amortisseur.
 
-Elle permet à "l’élève" de continuer à fonctionner dans le monde,  
+Elle permet à l’élève de continuer à fonctionner dans le monde,  
 tout en maintenant la cohérence de la doctrine  
 (le monde n’existe pas, la souffrance n’a pas de cause extérieure).
 
@@ -147,7 +148,6 @@ une métaphysique radicale
 et une psyché humaine qui, elle, doit continuer à vivre.
 
 Tout le reste n’est qu’un traitement de surface.
-
 
 ---
 
@@ -179,9 +179,17 @@ Sous couvert de bienveillance, il encourage une élégante disparition de soi :
 non pas en interdisant de sentir,  
 mais en vous demandant de réinterpréter tout ce qui est ressenti.  
 Il retire au vécu sa capacité à témoigner de ce qui arrive réellement,  
-et c'est cela qui est dangereux.
+et c’est cela qui est dangereux.
 
 ---
+
+Ce que j’ai décrit ici n’est pas un simple glissement spirituel.  
+C’est un mécanisme complet : une manière de requalifier l’expérience  
+jusqu’à ce qu’elle ne puisse plus témoigner du réel.
+
+---
+
+### Conclusion : quand la bienveillance devient une stratégie d’effacement
 
 Ce texte n’est pas dangereux parce qu’il serait mal intentionné.  
 Il l’est parce qu’il dérobe le réel sous les pieds du lecteur.
@@ -194,73 +202,15 @@ Il remplace l’expérience par une doctrine.
 La complexité par une cause unique.  
 La lucidité par une abstraction.
 
----
+Sous couvert de paix, il installe une relecture permanente du vécu.  
+Sous couvert d’amour, il neutralise les signaux internes.  
+Sous couvert de bienveillance, il vous apprend à douter de ce que vous sentez.
 
-> ### Encadré : Pourquoi le titre est mensonger  
-> Une conscience est bienveillante lorsqu’elle vous aide à habiter ce que vous vivez.  
-> Ici, on vous apprend à vous en détacher.  
->  
-> Vos émotions deviennent douteuses.  
-> Votre perception, secondaire.  
-> Votre expérience, requalifiée.  
->  
-> Ce n’est pas de la bienveillance :  
-> c’est une manière subtile de vous déplacer hors de vous-même.
-
----
-
-> ### Encadré : La rhétorique de la “bienveillance” spirituelle  
-> Sous un vocabulaire doux, on vous demande de ne plus réagir, ne plus être affectée, ne plus sentir trop fort.  
->  
-> La sensibilité devient un problème.  
-> La réaction, une faute.  
-> La vulnérabilité, un échec intérieur.  
->  
-> Ce n’est pas de la paix :  
-> c’est une neutralisation émotionnelle présentée comme une élévation.
-
----
-
-**La vraie bienveillance ne vous retire jamais du monde.  
-Elle vous y rend plus vivante.**
+La vraie bienveillance ne vous retire jamais du monde.  
+Elle vous y rend plus vivante.
 
 Tout le reste n’est qu’un brouillard qui se prend pour une lumière.
 
 ---
-
-Ce que j’éprouve aujourd’hui n’est pas une aversion morale.  
-C’est une lucidité.
-
-Une lucidité née du constat qu’une doctrine peut se présenter comme une voie de guérison tout en opérant, en profondeur, une désintégration du sujet.
-
----
-
-L’horreur que suscite *Un Cours en Miracles* vient de là.
-
-Il ne détruit pas frontalement.  
-Il dissout.
-
-Il ne contredit pas la vie.  
-Il la requalifie.  
-Jusqu’à la rendre méconnaissable.
-
-C’est une spiritualité qui ne combat pas la souffrance.  
-Elle la reprogramme.  
-Pour qu’elle ne parle plus.  
-Pour qu’elle ne témoigne plus.  
-Pour qu’elle cesse d’être un signal et devienne une faute.
-
-Elle ne cherche pas à comprendre ce qui blesse.  
-Elle cherche à neutraliser ce qui dérange.
-
-Elle transforme la douleur en anomalie métaphysique.  
-La vulnérabilité en erreur de perception.  
-La lucidité en obstacle.
-
-Ce n’est pas une voie de guérison.  
-C’est une ingénierie de l’anesthésie.
-
-Une manière polie, lumineuse, presque tendre,  
-de vous apprendre à ne plus sentir ce qui vous arrive.
 
 Céleste R.
