@@ -112,7 +112,13 @@ Et dans la logique du Cours, ce problème est toujours le même :
 **tu crois à la séparation** —  
 et donc, par ricochet, à la réalité du monde où ta souffrance se produit.
 
-Dès que vous doutez de votre lecture du réel, vous devenez dépendant de celle qu’on vous propose.
+Dès que vous doutez de votre lecture du réel, vous devenez dépendant de celle qu’on vous propose.  
+
+Le Cours n’interdit pas de se soigner ou de chercher des solutions concrètes.  
+Mais il affirme que ce n’est jamais là que se trouve le vrai problème.  
+Le seul problème, pour lui, est la croyance en la séparation  
+et donc, par ricochet, la croyance en la réalité du monde où la souffrance se produit.  
+Tout le reste n’est qu’un traitement de surface.  
 
 ---
 
