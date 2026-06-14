@@ -82,7 +82,7 @@ Elle inclut aussi **l’état intérieur**, puisque pensées, émotions et perce
 Tout ce qui est vécu — dehors comme dedans — est considéré comme une projection issue de la croyance dans la séparation.
 
 Ainsi, relations, injustices, pertes, traumatismes, mais aussi réactions émotionnelles et conflits intérieurs, n’auraient aucune réalité propre.  
-Ils ne sont que des effets d’une erreur métaphysique.
+Ils ne sont, dans cette logique, que des effets d’une erreur métaphysique. 
 
 Dès lors, ce que vous vivez perd sa consistance.  
 Les événements concrets deviennent des projections.  
@@ -97,6 +97,9 @@ si vous souffrez, c’est que vous adhérez encore à l’illusion.
 
 C’est une manière élégante de neutraliser la personne.  
 De dissoudre à la fois le monde et l’expérience intime qui pourrait lui résister.
+
+Dans cette logique, même la douleur perd son statut de signal.  
+Elle devient une preuve d’erreur.
 
 ---
 ### 4. « Le mauvais problème » : disqualifier le vécu
@@ -156,8 +159,8 @@ Elle promet la paix.
 Mais exige en échange une sortie du réel.
 
 Renoncer à la perception.  
-À la relation.  
-À la vulnérabilité.
+Renoncer à la relation.  
+Renoncer à la vulnérabilité.
 
 C’est une paix qui ressemble à une anesthésie.
 
@@ -169,10 +172,17 @@ Le pardon du Cours n’est pas un apaisement.
 C’est une annulation du vécu.
 
 Ce type de discours normalise la dissociation.  
-Il coupe la personne de ses signaux internes — colère, peur, tristesse, intuition — qui sont pourtant des outils de survie.
+Il coupe la personne de ses signaux internes — colère, peur, tristesse, intuition —  
+qui sont pourtant des outils de survie.
 
 Sous couvert de bienveillance, il encourage une élégante disparition de soi :  
-ne plus sentir ce qui dérange plutôt que le comprendre.
+non pas en interdisant de sentir,  
+mais en réinterprétant tout ce qui est senti  
+jusqu’à ce que cela ne puisse plus témoigner de ce qui arrive réellement.
+
+C’est là que le glissement devient dangereux :  
+le ressenti n’est plus un contact avec le réel,  
+mais la preuve que vous croyez encore à l’illusion.  
 
 ---
 
