@@ -177,12 +177,9 @@ qui sont pourtant des outils de survie.
 
 Sous couvert de bienveillance, il encourage une élégante disparition de soi :  
 non pas en interdisant de sentir,  
-mais en réinterprétant tout ce qui est senti  
-jusqu’à ce que cela ne puisse plus témoigner de ce qui arrive réellement.  
-
-C’est là que le glissement devient dangereux :  
-en vous demandant de réinterpréter tout ce qui est ressenti,  
-le Cours retire au vécu sa capacité à témoigner de ce qui arrive réellement.
+mais en vous demandant de réinterpréter tout ce qui est ressenti.  
+Il retire au vécu sa capacité à témoigner de ce qui arrive réellement,  
+et c'est cela qui est dangereux.
 
 ---
 
