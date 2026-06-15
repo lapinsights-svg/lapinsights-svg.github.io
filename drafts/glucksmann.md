@@ -1,7 +1,7 @@
 ---
 title: "Le récit qui précède le réel"
 categories: actualites
-resume: "Analyse du discours de Raphaël Glucksmann et des risques narratifs pour la démocratie"
+resume: "Analyse du discours de Raphaël Glucksmann et des risques pour la démocratie"
 date: "2026-06-15"
 tags:
   - analyse
