@@ -108,10 +108,10 @@ Il **crée le cadre** dans lequel tout événement sera lu.
 
 Ce récit fonctionne dans tous les sens :
 
-- Si un candidat pro‑UE gagne → “Nous avons résisté.”  
-- S’il perd → “L’ingérence a triomphé.”  
-- Si un opposant progresse → “C’est la Russie.”  
-- Si un scandale éclate → “C’est une attaque.”
+- Si un candidat pro‑UE gagne: “Nous avons résisté.”  
+- S’il perd: “L’ingérence a triomphé.”  
+- Si un opposant progresse: “C’est la Russie.”  
+- Si un scandale éclate: “C’est une attaque.”
 
 Le récit est **auto‑renforçant**.  
 Il protège un camp.  
