@@ -21,9 +21,9 @@ Il existe des phrases qui ne décrivent pas le monde : elles l’orientent.
 Elles ne constatent rien : elles préparent.  
 Elles ne préviennent pas : elles installent.
 
-La déclaration de Raphaël Glucksmann — « des campagnes d’une violence inédite viseront les candidats pro‑européens  
+La déclaration de Raphaël Glucksmann : « des campagnes d’une violence inédite viseront les candidats pro‑européens  
 et favoriseront les forces prorusses, au premier rang desquelles l’extrême droite »  
-— appartient à cette catégorie de phrases qui ne sont pas des analyses, mais des **architectures narratives**.  
+appartient à cette catégorie de phrases qui ne sont pas des analyses, mais des **architectures narratives**.  
 
 *Il ne s’agit pas d’un commentaire général sur la vie politique française :  
 Glucksmann vise explicitement la campagne présidentielle de 2027.  
