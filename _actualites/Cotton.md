@@ -201,7 +201,7 @@ C’est peut‑être la seule chose qui reste à faire.
 
 ---
 
-# Mai 2026 — la douche froide : la fin de l’espoir français
+# Mai 2026 - la douche froide : la fin de l’espoir français
 
 Le **6 mai 2026**, Christine Cotton publie un message bref, tranchant, sans détour.  
 Un constat administratif.  
@@ -259,11 +259,11 @@ Un message posthume, laissé comme un caillou blanc sur le chemin.
 
 # Hypothèse la plus cohérente : une exposition toxique environnementale
 
-Au vu des éléments connus —  
+Au vu des éléments connus -  
 symptômes soudains, douleurs neurologiques, brûlures, irradiations, incapacité à marcher,  
 **animaux malades en parallèle**,  
 absence de diagnostic malgré des dizaines d’examens, isolement rural,  
-et **timing parfaitement superposé** avec le dépôt de plainte —
+et **timing parfaitement superposé** avec le dépôt de plainte -
 
 l’hypothèse la plus cohérente, sans être démontrable, est celle d’une **exposition toxique environnementale partagée**.
 
@@ -281,7 +281,7 @@ Elle permet de dire que **les autres hypothèses (auto‑immune, psychosomatique
 
 ---
 
-# Frise chronologique — Christine Cotton (2024–2026)
+# Frise chronologique - Christine Cotton (2024–2026)
 
 - **Août 2024** — pleine capacité analytique, publications structurées.  
 - **Septembre 2024** — intensification de ses travaux, dossiers sensibles.  
