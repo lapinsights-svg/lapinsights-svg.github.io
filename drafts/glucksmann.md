@@ -182,7 +182,7 @@ Et cela, plus que tout, menace **la démocratie**.
 
 ---
 
-## Conclusion : quand le récit précède les faits
+## Conclusion 
 
 Le discours de Glucksmann n’est pas un avertissement.  
 C’est un **script**.  
