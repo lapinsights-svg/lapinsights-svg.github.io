@@ -10,7 +10,10 @@ tags:
   - démocratie
   - état-de-droit
   - ingérence
+og_image: /images/actualites/glucksmann.png
 ---
+
+![glucksmann](/images/actualites/glucksmann.png)
 
 # LE RÉCIT QUI PRÉCÈDE LE RÉEL  
 ### Ou comment une démocratie peut vaciller avant même que les faits n’existent
