@@ -27,8 +27,8 @@ et favoriseront les forces prorusses, au premier rang desquelles l’extrême dr
 
 *Il ne s’agit pas d’un commentaire général sur la vie politique française :  
 Glucksmann vise explicitement la campagne présidentielle de 2027.  
-Une élection encore lointaine, mais déjà enveloppée d’un récit pré‑interprété, comme si son déroulement  
-— ses tensions, ses attaques, ses dérives — était déjà écrit.  
+Une élection encore lointaine, mais déjà enveloppée d’un récit pré‑interprété, comme si son déroulement,    
+ses tensions, ses attaques, ses dérives, était déjà écrit.  
 Ce n’est plus l’analyse d’un risque :  
 c’est la projection d’un scénario, posé à l’avance, avant même que la première affiche ne soit collée.*  
 
