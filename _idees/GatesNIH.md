@@ -107,7 +107,7 @@ Aucune obligation de transparence.
 
 ## 6. Capital symbolique  
 Traitement quasi‑étatique.  
-**Perte de contrôle :** déférence institutionnelle.
+**Perte de contrôle :** complaisance institutionnelle.
 
 ---
 
