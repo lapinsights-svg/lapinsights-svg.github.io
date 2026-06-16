@@ -28,14 +28,14 @@ La fondation, non.
 Cette asymétrie ouvre un **vide démocratique** : des décisions publiques peuvent être orientées par des acteurs privés, sans débat ni transparence.
 
 Quand l’État cofinance des programmes définis par des fondations, **l’argent public sort du périmètre démocratique**.  
-Ce n’est pas un délit individuel, mais un **détournement de finalité** : des fonds destinés à l’intérêt général glissent vers des dispositifs privés opaques.
+C'est un **détournement de finalité** : des fonds destinés à l’intérêt général glissent vers des dispositifs privés opaques.
 
 Dans ce modèle, l’influence est **mécanique** :  
 financer = orienter,  
 co‑définir = co‑gouverner,  
 structurer = influencer.
 
-Ce n’est pas un lobbying de couloir, mais un **lobbying par architecture**, intégré aux dispositifs eux‑mêmes.  
+C'est un **lobbying par architecture**, intégré aux dispositifs eux‑mêmes.  
 Une fondation transnationale, opaque et dominante peut orienter des priorités publiques — et rediriger des fonds publics — sans passer par les mécanismes démocratiques.
 
 ---
