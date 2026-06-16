@@ -11,7 +11,7 @@ og_image: /images/idees/GatesNIH.png
 
 # Gouvernance philanthropique & Affaire Gates‑NIH  
 
-La philanthropie contemporaine n’est plus un geste moral :  
+La philanthropie contemporaine n’est pas un geste moral :  
 c’est une **technologie de pouvoir** capable de remodeler des secteurs entiers — santé, éducation, climat — sans passer par les mécanismes démocratiques.
 
 Les méga‑fondations — Gates, Wellcome, Open Philanthropy — fonctionnent comme des quasi‑États : elles financent, orientent et structurent des politiques publiques. Leur force ne vient pas d’un mandat, mais d’une **capacité d’action illimitée**.
