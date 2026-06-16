@@ -20,8 +20,7 @@ Les méga‑fondations — Gates, Wellcome, Open Philanthropy — fonctionnent c
 
 ## 1. Le vide démocratique
 
-Le schéma est simple :  
-L’argent privé produit des décisions publiques.  
+Le schéma est simple :   
 Le financeur privé oriente les priorités publiques.  
 La fondation influence ce que l’État fait.  
 
