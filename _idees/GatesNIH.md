@@ -18,33 +18,23 @@ Les méga‑fondations — Gates, Wellcome, Open Philanthropy — fonctionnent c
 
 ---
 
-## 1. Le vide démocratique
+## 1. Le vide démocratique et l’influence structurelle
 
-Le schéma est simple :   
-Le financeur privé oriente les priorités publiques.  
-La fondation influence ce que l’État fait.  
+La philanthropie crée un espace où **l’argent privé produit des effets publics** sans passer par les mécanismes démocratiques.  
+L’État doit justifier ses arbitrages ; la fondation, non. Cette asymétrie ouvre un **vide démocratique** où des acteurs privés peuvent orienter des décisions publiques sans débat, sans transparence, sans contre‑pouvoirs.
 
-L’État doit justifier ses décisions.  
-La fondation, non.  
-L’État publie ses arbitrages.  
-La fondation publie ce qu’elle choisit.
+Lorsque l’État cofinance des programmes définis ou cadrés par des fondations, **l’argent public sort du périmètre démocratique**. Ce n’est pas un délit individuel, mais un **détournement de finalité** : des fonds destinés à l’intérêt général glissent vers des dispositifs privés opaques.
 
-Ce déséquilibre crée un **espace non régulé** où des acteurs privés peuvent influencer des décisions publiques sans débat ni contrôle.  
-Ce n’est pas un accident : c’est une **nouvelle configuration du pouvoir**.
+Dans ce modèle, **l’influence n’est pas une hypothèse : elle est mécanique**.  
+Financer, c’est orienter.  
+Co‑définir, c’est co‑gouverner.  
+Structurer, c’est influencer.
 
----
-
-## 2. Le risque central : le détournement structurel
-
-Quand l’État cofinance des programmes définis ou orientés par des fondations privées, **l’argent public sort du cadre démocratique**.  
-C'est un **détournement de finalité** :  
-des fonds destinés à l’intérêt général glissent vers des dispositifs privés opaques.
-
-L’opacité constitue un **risque systémique** : un système où la puissance financière supplante la légitimité démocratique.
+Ce n’est pas un lobbying de couloir, mais un **lobbying par architecture**, intégré aux dispositifs eux‑mêmes. Une fondation transnationale, opaque et financièrement dominante peut orienter des priorités publiques — et rediriger des fonds publics — sans passer par les mécanismes démocratiques classiques.
 
 ---
 
-## 3. Gates / NIH : un cas d’école
+## 2. Gates / NIH : un cas d’école
 
 L’enquête de *RealClearInvestigations*  
 **[Lire l’article original](https://www.realclearinvestigations.com/articles/2024/05/29/whistleblower_says_gates_foundation_exerts_undue_influence_over_nih_1002751.html)**  
@@ -70,20 +60,7 @@ l’influence découle mécaniquement du modèle, même sans intention explicite
 
 ---
 
-## 4. L’influence est structurelle
-
-Dans un système philanthropique de cette ampleur :  
-**financer, c’est orienter**.  
-**Co‑définir, c’est co‑gouverner**.
-
-Ce n’est pas un lobbying classique, mais un **lobbying par architecture** :  
-un pouvoir intégré aux dispositifs, sans contrôle parlementaire.
-
-Une fondation transnationale, opaque et financièrement dominante peut orienter des priorités publiques et **rediriger des fonds publics vers des structures privées**, sans passer par les mécanismes démocratiques.
-
----
-
-# 5. Cartographie des zones où l’État perd le contrôle
+# 3. Cartographie des zones où l’État perd le contrôle
 
 ## 1. Dépendance financière  
 Fondation Gates → FNIH → NIH  
@@ -122,5 +99,3 @@ Ce mécanisme permet de **rediriger des fonds publics vers des structures privé
 C’est, de fait, un **détournement structurel de fonds publics hors du cadre démocratique**.
 
 Céleste R.
-
-
