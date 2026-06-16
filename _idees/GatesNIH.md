@@ -4,7 +4,10 @@ resume: "Une gouvernance privée opaque remplace le contrôle démocratique"
 layout: article
 date: 2026-06-16
 categories: idees
+og_image: /images/idees/GatesNIH.png
 ---
+
+![GatesNIH](/images/idees/GatesNIH.png)
 
 # Gouvernance philanthropique & Affaire Gates‑NIH  
 
