@@ -36,11 +36,10 @@ Ce n’est pas un accident : c’est une **nouvelle configuration du pouvoir**.
 ## 2. Le risque central : le détournement structurel
 
 Quand l’État cofinance des programmes définis ou orientés par des fondations privées, **l’argent public sort du cadre démocratique**.  
-Ce n’est pas un délit individuel, mais un **détournement de finalité** :  
+C'est un **détournement de finalité** :  
 des fonds destinés à l’intérêt général glissent vers des dispositifs privés opaques.
 
-L’opacité ne prouve pas l’intention,  
-mais elle constitue un **risque systémique** : un système où la puissance financière supplante la légitimité démocratique.
+L’opacité constitue un **risque systémique** : un système où la puissance financière supplante la légitimité démocratique.
 
 ---
 
