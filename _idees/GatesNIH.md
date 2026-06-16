@@ -30,7 +30,7 @@ La gouvernance philanthropique repose sur une asymétrie simple :
 
 - argent privé  
 - conséquences publiques  
-
+  
 L’État doit rendre des comptes.  
 La fondation privée, non.
 
@@ -52,21 +52,15 @@ Quand l’État cofinance des programmes définis ou orientés par des fondation
 sans débat public, sans transparence, l’argent public quitte le périmètre démocratique.  
 
 Ce n’est plus seulement une extraction.  
-C’est un **détournement structurel de fonds publics**.
-
-Pas un délit individuel.  
-Un **détournement de finalité** :  
+C’est un **détournement structurel de fonds publics** :
 l’argent destiné à l’intérêt général est redirigé vers des dispositifs privés opaques, hors de tout contrôle.
-
-L’opacité n’est pas une preuve d’intention malveillante.  
-Mais elle est un **indice de risque systémique**.
 
 ---
 
 # 3. Gates / NIH : un cas d’école
 
 L’enquête de *RealClearInvestigations* —  
-👉 **[Lire l’article original](https://www.realclearinvestigations.com/articles/2024/05/29/whistleblower_says_gates_foundation_exerts_undue_influence_over_nih_1002751.html)** —  
+**[Lire l’article original](https://www.realclearinvestigations.com/articles/2024/05/29/whistleblower_says_gates_foundation_exerts_undue_influence_over_nih_1002751.html)** —  
 affirme que Bill Gates a tissé des liens étroits avec les NIH via des dons massifs transitant par la FNIH.
 
 Ces dons auraient permis :
@@ -75,7 +69,7 @@ Ces dons auraient permis :
 - des programmes coordonnés  
 - des interactions stratégiques  
 
-### 🟢 Ce que l’enquête établit (vérifiable)
+### 🟢 Ce que l’enquête établit (et qui est vérifiable)
 
 - La Fondation Gates a donné des centaines de millions au FNIH.  
 - Des ateliers Gates‑NIH existent.  
