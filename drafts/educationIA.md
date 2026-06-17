@@ -4,7 +4,10 @@ date: 2026-06-17
 categories: idees
 tags: ["IA", "éducation", "souveraineté", "EdTech", "État", "pédagogie"]
 resume: "Analyse des zones d’ombre du débat autour du colloque de L’Express sur l’éducation à l’ère de l’IA."
+og_image: /images/idees/educationIA.png
 ---
+
+![educationIA](/images/idees/educationIA.png)
 
 > Analyse du colloque de L’Express :  
 > **“Apprendre à l’ère de l’IA : ChatGPT ne remplacera jamais un bon prof”**  
