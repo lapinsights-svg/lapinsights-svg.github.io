@@ -13,7 +13,7 @@ og_image: /images/idees/educationIA.png
 > **“Apprendre à l’ère de l’IA : ChatGPT ne remplacera jamais un bon prof”**  
 > Lien : [Article original](https://www.lexpress.fr/campus/apprendre-a-lere-de-lia-chatgpt-ne-remplacera-jamais-un-bon-prof-7EIFXTL6XJGXXGZNH55IZ6TV54/?utm_medium=Social&utm_source=Facebook)
 
-# **Éducation & IA : le discours qui rassure, la souveraineté qui s’efface**
+# **Éducation et l'IA : le discours qui rassure, la souveraineté qui s’efface**
 
 Le colloque de L’Express sur l’éducation à l’ère de l’IA ressemble à une grande cérémonie du progrès : chacun vient réciter son credo, exhiber sa vision, défendre son modèle. Mais derrière les déclarations brillantes, les métaphores alpines et les prophéties d’experts, un vide apparaît. Un vide politique, stratégique, souverain.
 
