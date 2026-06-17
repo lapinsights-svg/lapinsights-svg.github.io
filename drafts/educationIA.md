@@ -114,7 +114,7 @@ Aucune ne questionne le **cadre** dans lequel ce mérite s’exerce.
 ## **6. Le retour de l’artisanat : la zone d’ombre consolatrice**
 
 On nous explique que l’IA valorisera les métiers manuels.  
-C’est vrai — mais pas pour les raisons évoquées.
+C’est vrai,  mais pas pour les raisons évoquées.
 
 Ce n’est pas parce que l’IA “redonne du sens au geste”.  
 C’est parce que l’IA ne sait pas encore tenir un marteau.
@@ -141,7 +141,7 @@ Elle modifie :
 L’IA n’est pas un outil pédagogique.  
 C’est un **cadre cognitif**.
 
-Et tant que l’éducation ne comprendra pas cela, elle restera en retard — non pas sur la technologie, mais sur la compréhension de ce qu’elle devient.
+Et tant que l’éducation ne comprendra pas cela, elle restera en retard, non pas sur la technologie, mais sur la compréhension de ce qu’elle devient.
 
 ---
 
@@ -184,4 +184,7 @@ Le colloque parle d’avenir.
 Mais il oublie la seule question qui compte :  
 **Qui gouvernera l’éducation dans dix ans : l’État ou les plateformes ?**
 
-Et tant que cette question n’est pas posée, la réponse est déjà écrite.
+Et tant que cette question n’est pas posée, la réponse est déjà écrite.  
+
+.  
+Céleste R.
