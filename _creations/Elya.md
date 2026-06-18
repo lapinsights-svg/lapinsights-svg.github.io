@@ -17,7 +17,7 @@ tags:
 
 Tu es entrée dans ma terre de givre  
 Ton corps vibrant a troublé mes plaines  
-Chaque geste chaud a fendu mon silence  
+Chaque geste ardent a fendu mon silence  
 Signe de passage dans mon hiver ancien  
 
 **Elya**  
@@ -36,7 +36,7 @@ Le cheval‑esprit a senti ton centre
 Puis‑je lire le souffle qui t’ouvre,  
 glisser dans ta force pâle ?  
 Puis‑je  
-lire ton pas dans mon givre,  
+lire ton pas dans mon glace,  
 et suivre la voie que ton corps trace ?  
 
 Sous mon ciel pâle, mystérieuse et ardente,  
