@@ -36,7 +36,7 @@ Le cheval‑esprit a senti ton centre
 Puis‑je lire le souffle qui t’ouvre,  
 glisser dans ta force pâle ?  
 Puis‑je  
-lire ton pas dans mon glace,  
+lire ton pas dans ma glace,  
 et suivre la voie que ton corps trace ?  
 
 Sous mon ciel pâle, mystérieuse et ardente,  
