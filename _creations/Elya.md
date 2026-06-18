@@ -17,7 +17,7 @@ tags:
 
 Tu es entrée dans ma terre de givre  
 Ton corps vibrant a troublé mes plaines  
-Chaque geste ardent a fendu mon silence  
+Chaque geste vif a fendu mon silence  
 Signe de passage dans mon hiver ancien  
 
 **Elya**  
