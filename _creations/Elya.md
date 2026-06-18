@@ -39,7 +39,7 @@ Puis‑je
 lire ton pas dans ma glace,  
 et suivre la voie que ton corps trace ?  
 
-Sous mon ciel pâle, mystérieuse et ardente,  
+Sous mon ciel blême, mystérieuse et ardente,  
 Tu t’es avancée dans mon cercle de givre  
 Ton cœur ouvert a laissé passer mon souffle  
 Et ton mouvement m’a donné un sens  
