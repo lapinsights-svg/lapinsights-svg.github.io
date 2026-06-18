@@ -48,7 +48,7 @@ Et ton mouvement m’a donné un sens
 Puis‑je rester dans ton souffle,  
 et veiller dans ta force pâle ?  
 
-Tu es entrée dans mon corail glacé  
+Tu as franchi mon corail glacé  
 Ton pas brûlant a guidé mes silences  
 Ton corps entier a traversé ma nuit  
 **Et j’ai glissé en toi comme une blancheur**
