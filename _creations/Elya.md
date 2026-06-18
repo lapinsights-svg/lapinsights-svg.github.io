@@ -27,7 +27,7 @@ Puis‑je
 lire ton pas dans mon froid,  
 et entrer dans ton corps par ma voix ?  
 
-Je t’ai vue marcher sur ma neige dure  
+Je t’ai vue marcher sur ma neige dense  
 Tes muscles vifs ont réveillé mes ombres  
 Ton rythme court parlait comme un oracle  
 Le cheval‑esprit a senti ton centre  
