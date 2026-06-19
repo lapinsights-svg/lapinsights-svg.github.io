@@ -54,7 +54,7 @@ Il aurait trop éclairé ce qui se jouait.
 
 ## Choose France : le miroir inversé
 
-C’est dans ce contexte que *Choose France* surgit, non comme une anomalie, mais comme le miroir inversé du modèle français.
+C’est dans ce contexte que *Choose France* surgit, comme un symbole, comme le miroir inversé du modèle français.
 
 Un slogan qui prétend inviter le monde à “choisir la France”, alors qu’il organise en réalité la substitution de la puissance nationale par des acteurs extérieurs.
 
