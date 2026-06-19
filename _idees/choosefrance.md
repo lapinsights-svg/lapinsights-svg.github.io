@@ -18,14 +18,6 @@ og_image: /images/idees/choosefrance.png
 ![choosefrance](/images/idees/choosefrance.png)
 
 
----
-title: "Choose France ou l’art discret de renoncer à soi-même"
-date: 2026-06-19
-layout: article
-category: idees
-summary: "Un pays souverain glisse vers un modèle où il ne choisit plus, mais se laisse choisir."
----
-
 # Choose France ou l’art discret de renoncer à soi-même
 
 ## Le glissement silencieux
