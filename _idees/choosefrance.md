@@ -77,7 +77,7 @@ Elle n’est plus l’autrice de son destin industriel, seulement l’hôte d’
 Et certains observateurs vont plus loin :  
 si “produire ici” n’est qu’un slogan, alors le véritable projet n’est pas la production,  
 mais l’exposition : un **open‑vitrine** où le pays se montre pour attirer ceux qui décideront à sa place.  
-
+  
 
 ## Le renversement du rôle de l’État
 
