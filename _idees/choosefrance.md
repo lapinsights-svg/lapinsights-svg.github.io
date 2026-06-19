@@ -101,8 +101,7 @@ Un pays qui ne choisit plus, mais qui se laisse choisir.
 
 Et le fait que ce projet soit porté par Macron éclaire la cohérence de sa vision :  
 une France ouverte, attractive, mais moins attachée à la maîtrise de ses propres leviers.  
-Dans cette lecture, *Choose France* devient un révélateur, non seulement d’une politique,  
-mais d’un rapport au rôle de la nation dans un monde où l’on préfère parfois être choisi plutôt que choisir.  
+Choose France : choisir une France mondialisée et dépecée, exposée en open‑vitrine. 
 .  
 
 Céleste R.
