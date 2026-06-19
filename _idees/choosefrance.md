@@ -22,7 +22,7 @@ og_image: /images/idees/choosefrance.png
 
 ## Le glissement silencieux
 
-Il existe dans l’histoire récente de la France un silence qui n’est pas une pause, mais un glissement.  
+Dans l’histoire récente de la France, plane un silence qui est un glissement.  
 Ce n'est pas une rupture franche, mais une translation lente, presque feutrée, où un pays construit sur la souveraineté,  
 la planification et la maîtrise de ses outils a cessé d’être ce qu’il croyait être.  
 
