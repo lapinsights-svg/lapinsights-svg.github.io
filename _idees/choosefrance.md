@@ -63,8 +63,8 @@ On ne reconstruit plus la France : on accepte que d’autres la reconstruisent �
 
 ## Produire ici, décider ailleurs
 
-On répète “produire ici”, mais même cette promesse ressemble de plus en plus à un décor.  
-Car dans les faits, la logique reste inchangée : **produire ici, décider ailleurs**.
+On répète “produire ici”, mais cette promesse ressemble de plus en plus à un décor.  
+Dans la réalité, la logique n’a pas changé : on affiche “ici”, mais tout se décide ailleurs.
 
 Les profits remontent vers des sièges lointains.  
 Les choix stratégiques se prennent hors du territoire.  
