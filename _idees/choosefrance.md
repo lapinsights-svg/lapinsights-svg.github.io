@@ -100,7 +100,7 @@ Un pays qui ne choisit plus, mais qui se laisse choisir.
 
 Et le fait que ce projet soit porté par Macron éclaire la cohérence de sa vision :  
 une France ouverte, attractive, mais moins attachée à la maîtrise de ses propres leviers.  
-Aucun autre pays européen ne pousse aussi loin cette logique : une France mondialisée, dépecée, mise en open‑vitrine pour attirer ceux qui décideront à sa place.
+Aucun autre pays européen ne pousse aussi loin cette logique : une France mondialisée, dépecée, mise en open‑vitrine pour attirer ceux qui décideront à sa place.  
 .  
 
 Céleste R.
