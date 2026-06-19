@@ -100,7 +100,7 @@ Un pays qui ne choisit plus, mais qui se laisse choisir.
 
 Et le fait que ce projet soit porté par Macron éclaire la cohérence de sa vision :  
 une France ouverte, attractive, mais moins attachée à la maîtrise de ses propres leviers.  
-Choose France : choisir une France mondialisée et dépecée, exposée en open‑vitrine. 
+Aucun autre pays européen ne pousse aussi loin cette logique : une France mondialisée, dépecée, mise en open‑vitrine pour attirer ceux qui décideront à sa place.
 .  
 
 Céleste R.
