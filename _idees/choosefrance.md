@@ -3,7 +3,7 @@ title: "Choose France, ou l’art discret de renoncer à soi-même"
 slug: "choose-france-trahison-rupture-mandat"
 date: 2026-06-19
 layout: article
-resume: "Depuis plus de trente ans, un changement de modèle a été imposé aux Français sans débat ni consentement." 
+resume: "Un changement de modèle a été imposé aux Français sans débat ni consentement." 
 tags:
   - souveraineté
   - politique
