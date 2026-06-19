@@ -63,7 +63,8 @@ On ne reconstruit plus la France : on accepte que d’autres la reconstruisent �
 
 ## Produire ici, décider ailleurs
 
-La logique est simple : produire ici, décider ailleurs.
+On répète “produire ici”, mais même cette promesse ressemble de plus en plus à un décor.  
+Car dans les faits, la logique reste inchangée : **produire ici, décider ailleurs**.
 
 Les profits remontent vers des sièges lointains.  
 Les choix stratégiques se prennent hors du territoire.  
@@ -71,7 +72,12 @@ Les brevets demeurent propriété d’entreprises étrangères.
 Les chaînes de valeur échappent à la nation.
 
 La France devient un lieu d’accueil, un espace disponible, un territoire offert.  
-Elle n’est plus l’auteur de son destin industriel, seulement l’hôte d’intérêts qui la traversent.
+Elle n’est plus l’autrice de son destin industriel, seulement l’hôte d’intérêts qui la traversent.
+
+Et certains observateurs vont plus loin :  
+si “produire ici” n’est qu’un slogan, alors le véritable projet n’est pas la production,  
+mais l’exposition : un **open‑vitrine** où le pays se montre pour attirer ceux qui décideront à sa place.  
+
 
 ## Le renversement du rôle de l’État
 
