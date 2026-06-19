@@ -96,7 +96,6 @@ Il s’est imposé dans le silence, comme si la France devait s’habituer à de
 ## Conclusion : un pays qui se laisse choisir 
 
 La France n’est plus un sujet, mais un terrain.  
-Un espace où d’autres viennent produire ce qu’elle ne produit plus.  
 Un pays qui ne choisit plus, mais qui se laisse choisir.
 
 Et le fait que ce projet soit porté par Macron éclaire la cohérence de sa vision :  
