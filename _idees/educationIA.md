@@ -3,7 +3,7 @@ title: "Apprendre à l’ère de l’IA : le discours qui rassure, la souveraine
 date: 2026-06-20
 categories: idees
 tags: ["IA", "éducation", "souveraineté", "EdTech", "État", "pédagogie"]
-resume: "Analyse des zones d’ombre du débat autour du colloque de L’Express sur l’éducation à l’ère de l’IA."
+resume: "Analyse des zones d’ombre du débat autour du colloque sur l’éducation à l’ère de l’IA."
 og_image: /images/idees/educationIA.png
 ---
 
