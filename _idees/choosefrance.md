@@ -88,7 +88,7 @@ Il s’est imposé dans le silence, comme si la France devait s’habituer à de
 La France n’est plus un sujet, mais un terrain.  
 Un pays qui ne choisit plus, mais qui se laisse choisir.
 
-Et le fait que ce projet soit porté par Macron éclaire la cohérence de sa vision : une France ouverte, attractive, mais moins attachée à la maîtrise de ses propres leviers.  
+Et le fait que ce projet soit porté par Macron éclaire son véritable projet : une France ouverte, attractive, mais moins attachée à la maîtrise de ses propres leviers.  
 Aucun autre pays européen ne pousse aussi loin cette logique : une France mondialisée, dépecée, mise en open‑vitrine pour attirer ceux qui décideront à sa place.
 
 *Céleste R.*
