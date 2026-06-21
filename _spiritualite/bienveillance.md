@@ -16,7 +16,7 @@ Dangereuse comme une idée qui vous éloigne lentement de vous-même, de vos ém
 
 Et ce danger est d’autant plus difficile à repérer qu’il se présente sous des mots lumineux : amour, paix, unité, conscience.
 
-C’est précisément pour cela qu’il faut examiner de près les discours qui en dérivent — comme celui que j’analyse ici.
+C’est précisément pour cela qu’il faut examiner de près les discours qui en dérivent comme celui que j’analyse ici.
 
 Le texte critiqué est disponible ici :  
 **[La conscience bienveillante](https://www.bernardgroom.com/la-conscience-bienveillante)**.
