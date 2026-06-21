@@ -86,7 +86,7 @@ Ils ne sont, dans cette logique, que des effets d’une erreur métaphysique.
 
 Dès lors, ce que vous vivez perd sa consistance.  
 Les événements concrets deviennent des projections.  
-La douleur n’est plus un signal, mais la preuve que vous croyez encore au monde — et donc à la dualité.
+La douleur n’est plus un signal, mais la preuve que vous croyez encore au monde, et donc à la dualité.
 
 Ce n’est plus le monde qui blesse.  
 Ce n’est même plus votre vécu intérieur.  
@@ -132,7 +132,7 @@ il autorise les solutions du monde,
 mais en précisant que ce n’est jamais là  
 que se trouve le vrai problème.
 
-Le seul problème, pour lui, est la croyance en la séparation —  
+Le seul problème, pour lui, est la croyance en la séparation    
 et donc, par ricochet, la croyance en la réalité du monde  
 où la souffrance se produit.
 
