@@ -114,7 +114,7 @@ Thérapie, relations, décisions, limites : balayés d’un geste.
 Le seul problème légitime est celui que l’auteur définit.
 
 Et dans la logique du Cours, ce problème est toujours le même :  
-**tu crois à la séparation** —  
+**tu crois à la séparation**    
 et donc, par ricochet, à la réalité du monde où ta souffrance se produit.
 
 Dès que vous doutez de votre lecture du réel,  
