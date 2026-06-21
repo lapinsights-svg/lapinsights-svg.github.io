@@ -153,7 +153,7 @@ Tout le reste n’est qu’un traitement de surface.
 
 ### 5. « Tourner le regard à l’intérieur » : la sortie du réel
 
-La conclusion — « tourner le regard à l’intérieur et en dehors du monde » — est l’injonction la plus dangereuse.
+La conclusion, « tourner le regard à l’intérieur et en dehors du monde », est l’injonction la plus dangereuse.
 
 Elle promet la paix.  
 Mais exige en échange une sortie du réel.
