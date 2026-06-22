@@ -37,7 +37,7 @@ Elle propose donc :
 - créer des “tunnels d’ombre” avec des bâches (qu’on n’a pas non plus)  
 - improviser des zones fraîches avec des tapis de gym ramollis par la chaleur  
 
-Et dans la logique absurde du texte :
+Et dans la logique absurde du texte, ajoutons :
 
 - demander aux élèves d’apporter leur propre parasol “pour favoriser l’autonomie”  
 - tracer des “zones d’ombre imaginaires” au sol pour compenser le manque de matériel  
@@ -54,7 +54,7 @@ La circulaire propose aussi :
 - de privilégier les couloirs orientés nord (quand ils existent)  
 - de déplacer les classes dans la salle des archives (quand elle n’est pas déjà à 33°C)
 
-Et dans la même logique, pourquoi pas :
+Et dans la même logique, ajoutons :
 
 - installer les élèves dans la cage d’escalier “car elle bénéficie d’un courant d’air naturel”  
 - utiliser la salle des photocopieuses “car elle est climatisée par intermittence”  
@@ -73,7 +73,7 @@ La circulaire suggère aussi :
 - de “favoriser les activités calmes” (à 38°C, tout le monde est calme, oui)  
 - de “prévoir des pauses hydratation” (avec des gourdes oubliées depuis mars)
 
-Et dans la même veine pourquoi pas :
+Et dans la même veine, ajoutons :
 
 - instaurer un “quota de respiration” pour éviter de réchauffer la pièce  
 - demander aux élèves de bouger au ralenti pour limiter la production de chaleur  
@@ -93,7 +93,7 @@ Elle ajoute aussi :
 - “réduire l’usage des appareils électriques” (donc adieu ventilateurs)  
 - “favoriser les activités à faible intensité cognitive” (la chaleur rend bête, c’est officiel)
 
-Et dans la même logique pourquoi pas :
+Et dans la même logique, ajoutons :
 
 - À 42°C : distribuer des glaçons imaginaires  
 - À 45°C : instaurer la sieste obligatoire pour éviter les syncopes collectives  
@@ -115,7 +115,7 @@ Et comme si cela ne suffisait pas :
 - interdire les activités sportives sauf “si elles sont ombragées”  
 - encourager les enseignants à “rester hydratés” (révélation scientifique)
 
-Et dans la logique totale pourquoi pas :
+Et dans la logique totale, ajoutons :
 
 - distribuer des glaçons pédagogiques (qui fondent avant d’arriver en classe)  
 - instaurer un “code couleur chaleur” que personne ne comprendra  
@@ -134,7 +134,7 @@ Et pour compléter l’absurdité :
 - “les parents doivent être rassurés” (depuis une salle à 39°C)  
 - “les directions doivent rester vigilantes” (sans perdre connaissance)
 
-Et dans la même logique pourquoi pas :
+Et dans la même logique, ajoutons :
 
 - la fusion lente des enseignants n’est pas un motif de fermeture  
 - l’évaporation progressive des élèves non plus  
