@@ -65,7 +65,7 @@ Et dans la même logique, ajoutons :
 Traduction : 150 enfants, deux ventilateurs, une prise électrique.
 
 On frôle l’expérience immersive :  
-**Escape Game Canicule – Saurez‑vous sortir vivants de la salle informatique ?**
+**Escape Game Canicule : Saurez‑vous sortir vivants de la salle informatique ?**
 
 La circulaire suggère aussi :
 
