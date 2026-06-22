@@ -46,7 +46,7 @@ Et dans la logique absurde du texte, ajoutons :
 ## 2. La quête du local frais  
 On leur demande d’“identifier les locaux frais”.  
 C’est touchant.  
-Dans une école belge en juin, le seul local frais est le frigo de la cantine — et encore, quand il ferme.
+Dans une école belge en juin, le seul local frais est le frigo de la cantine , et encore, quand il ferme.
 
 La circulaire propose aussi :
 
