@@ -20,7 +20,7 @@ Le résultat ?
 Un chef‑d’œuvre d’absurdité poético‑administrative.  
 Un catalogue à la Prévert, mais version bureaucratie en nage.
 
-## 1. Le camping tropical improvisé
+## 1. Le camping tropical improvisé  
 La circulaire recommande de “créer des zones d’ombre” avec des draps, des toiles, des parasols, voire des “tunnels d’ombre”.
 
 Problème :  
@@ -43,7 +43,7 @@ Et dans la logique absurde du texte, ajoutons :
 - tracer des “zones d’ombre imaginaires” au sol pour compenser le manque de matériel  
 - organiser une “chasse au point d’ombre” dans la cour, façon jeu de piste survivaliste  
 
-## 2. La quête du local frais
+## 2. La quête du local frais  
 On leur demande d’“identifier les locaux frais”.  
 C’est touchant.  
 Dans une école belge en juin, le seul local frais est le frigo de la cantine — et encore, quand il ferme.
@@ -60,7 +60,7 @@ Et dans la même logique, ajoutons :
 - utiliser la salle des photocopieuses “car elle est climatisée par intermittence”  
 - faire cours dans le parking vélo “car l’asphalte réfléchit la lumière de manière pédagogique”  
 
-## 3. Regrouper les élèves : l’escape game thermique
+## 3. Regrouper les élèves : l’escape game thermique. 
 “Regrouper les élèves dans les pièces les moins chaudes.”  
 Traduction : 150 enfants, deux ventilateurs, une prise électrique.
 
@@ -72,7 +72,7 @@ La circulaire suggère aussi :
 - de “réduire les déplacements” (pratique quand tout le monde est entassé)  
 - de “favoriser les activités calmes” (à 38°C, tout le monde est calme, oui)  
 - de “prévoir des pauses hydratation” (avec des gourdes oubliées depuis mars)
-
+  
 Et dans la même veine, ajoutons :
 
 - instaurer un “quota de respiration” pour éviter de réchauffer la pièce  
@@ -91,31 +91,31 @@ Elle ajoute aussi :
 
 - “éviter les efforts physiques”  
 - “réduire l’usage des appareils électriques” (donc adieu ventilateurs)  
-- “favoriser les activités à faible intensité cognitive” (la chaleur rend bête, c’est officiel)
-
+- “favoriser les activités à faible intensité cognitive” (la chaleur rend bête, c’est officiel)  
+  
 Et dans la même logique, ajoutons :
 
 - À 42°C : distribuer des glaçons imaginaires  
 - À 45°C : instaurer la sieste obligatoire pour éviter les syncopes collectives  
 - À 48°C : demander aux élèves de visualiser mentalement un environnement frais  
 
-## 5. Les micro‑consignes absurdes
-Le texte enchaîne les recommandations comme un sketch :
+## 5. Les micro‑consignes absurdes  
+Le texte enchaîne les recommandations comme un sketch :  
 
 - éviter les aliments gras  
 - mettre de la crème solaire  
 - pratiquer la ventilation croisée  
 - utiliser des lingettes humides  
 - sortir les brumisateurs  
-- ne pas occuper les combles (merci, personne n’y va déjà en hiver)
+- ne pas occuper les combles (merci, personne n’y va déjà en hiver)  
 
 Et comme si cela ne suffisait pas :
 
 - demander aux élèves de porter des vêtements “légers et amples” (uniformes scolaires, bonjour)  
 - interdire les activités sportives sauf “si elles sont ombragées”  
-- encourager les enseignants à “rester hydratés” (révélation scientifique)
+- encourager les enseignants à “rester hydratés” (révélation scientifique)  
 
-Et dans la logique totale, ajoutons :
+Et dans la logique totale, ajoutons :  
 
 - distribuer des glaçons pédagogiques (qui fondent avant d’arriver en classe)  
 - instaurer un “code couleur chaleur” que personne ne comprendra  
@@ -126,7 +126,7 @@ La circulaire ose écrire :
 > “Une vague de chaleur ne relève pas de la force majeure.”
 
 Donc 40°C en classe, c’est normal.  
-Un pigeon qui traverse la cour en diagonale, par contre, pourrait justifier un rapport d’incident.
+Un pigeon qui traverse la cour en diagonale, par contre, pourrait justifier un rapport d’incident.  
 
 Et pour compléter l’absurdité :
 
@@ -134,14 +134,15 @@ Et pour compléter l’absurdité :
 - “les parents doivent être rassurés” (depuis une salle à 39°C)  
 - “les directions doivent rester vigilantes” (sans perdre connaissance)
 
-Et dans la même logique, ajoutons :
+Et dans la même logique, ajoutons :  
 
 - la fusion lente des enseignants n’est pas un motif de fermeture  
 - l’évaporation progressive des élèves non plus  
 - la liquéfaction du personnel administratif doit être signalée mais ne justifie aucune mesure  
 
 
-## Conclusion
+## Conclusion  
+  
 Cette circulaire n’est pas un outil.  
 C’est un aveu d’impuissance emballé dans 20 pages de bricolage tropical.  
 On ne résout rien, on encadre l’absurde.  
@@ -150,7 +151,7 @@ Et on demande aux directions de sourire en transpirant.
 **Si cette circulaire n’était pas réelle, elle ferait rire.  
 Le problème, c’est qu’elle l’est.  
 Et c’est précisément ce qui la rend encore plus absurde que comique.**  
-
+.  
 Céleste R.
 
 
