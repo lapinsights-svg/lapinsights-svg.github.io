@@ -8,7 +8,7 @@ resume: "Une circulaire canicule qui transforme l’école en camping tropical i
 og_image: /images/actualites/caniculebelge.png
 ---
 
-![canicule](/images/actualites/caniculebelge.png)
+![caniculebelge](/images/actualites/caniculebelge.png)
 
 > **Preuve officielle :**  
 > La circulaire canicule existe bel et bien.  
