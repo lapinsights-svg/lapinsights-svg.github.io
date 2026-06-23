@@ -40,7 +40,7 @@ Le site du ministère de l’Économie propose un résumé lisse du DSA, sans me
 La mécanique réelle se trouve ailleurs :  
 dans les **lignes directrices de la Commission**, publiées en français mais rarement relayées.
 
-Elles expliquent comment les plateformes doivent ajuster leurs algorithmes pour réduire la visibilité de certains contenus et en promouvoir d’autres jugés « fiables » ou « institutionnels ».
+Elles expliquent comment les plateformes doivent ajuster leurs algorithmes pour réduire la visibilité de certains contenus et en promouvoir d’autres jugés "fiables" ou "institutionnels".
 
 C’est là que la dérive s’installe :  
 sous couvert de protection, on fabrique une hiérarchie invisible où la parole officielle devient la norme implicite.
