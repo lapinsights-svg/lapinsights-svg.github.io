@@ -1,9 +1,9 @@
 ---
 title: "Comment Facebook filtre le débat public"
-date: 2026-06-09
+date: 2026-06-23
 layout: article
 categories: actualites
-resume: "Facebook oriente silencieusement la visibilité des commentaires selon trois issues : mise en avant, mise en ombre, ou neutralisation sociale."
+resume: "Facebook oriente silencieusement la visibilité des commentaires"
 tags: ["facebook", "algorithme", "shadowban", "perturbateurs", "espace-public"]
 og_image: /images/actualites/facebook.png
 ---
