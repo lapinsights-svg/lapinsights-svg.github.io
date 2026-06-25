@@ -1,6 +1,7 @@
 ---
 title: "Quand la visibilité devient un instrument de pouvoir"
-date: 2026-06-25
+resume: "Une démocratie où la visibilité se resserre jusqu’à menacer la liberté même du choix."
+date: "2026-06-25"
 categories: idees
 og_image: /images/idees/bonneteau.png
 ---
