@@ -67,8 +67,7 @@ Une démocratie assistée par algorithmes, où le citoyen serait trop fragile po
 
 ---
 
-Le problème n’est pas que l’État parle.  
-Le problème est qu’il **organise la visibilité**.
+Le problème n’est pas que l’État parle mais qu’il **organise la visibilité**.
 
 Dans un monde où l’attention est rare, décider ce qui apparaît en premier, ce qui est relégué, noyé ou boosté, c’est exercer un pouvoir politique plus fort que n’importe quelle loi.
 
