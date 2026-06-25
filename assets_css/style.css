@@ -1956,19 +1956,19 @@ Lapin retour salle echo
 }
 
 /* RSS en footer */
-.footer-rss {
+.footer-links {
   text-align: right;
-  margin: 0.3rem 0 0.8rem 0;
+  margin: 0.3rem 0 1.2rem 0; /* marge basse augmentée */
 }
 
-.footer-rss a {
+.footer-links a {
   color: var(--texte);
   font-size: 0.9rem;
   opacity: 0.85;
   text-decoration: none;
 }
 
-.footer-rss a:hover {
+.footer-links a:hover {
   opacity: 1;
 }
 
