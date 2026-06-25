@@ -1,6 +1,6 @@
 ---
 title: "Quand la visibilité devient un instrument de pouvoir"
-date: 2026-06-23
+date: 2026-06-25
 categories: idees
 og_image: /images/idees/bonneteau.png
 ---
