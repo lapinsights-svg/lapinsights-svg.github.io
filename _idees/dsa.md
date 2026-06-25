@@ -32,6 +32,8 @@ de "mettre en avant des informations provenant de sources officielles" en pério
 
 Ces formulations viennent des lignes directrices publiées par la Commission.
 
+Et cette mécanique pèsera directement sur la visibilité du débat lors des prochaines élections présidentielles françaises.  
+
 ---
 
 Ce glissement n’apparaît pas dans les communiqués français.
