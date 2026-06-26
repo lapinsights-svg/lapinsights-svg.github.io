@@ -2,7 +2,7 @@
 title: "Le récit qui précède le réel"
 categories: actualites
 resume: "Analyse du discours de Raphaël Glucksmann et des risques pour la démocratie"
-date: "2026-06-15"
+date: "2026-06-26"
 tags:
   - analyse
   - politique
@@ -20,13 +20,14 @@ og_image: /images/actualites/glucksmann.png
 
 > 🎥 **Vidéo source :** [Déclaration de Raphaël Glucksmann](https://x.com/BFMTV/status/2065852742178861129)
 
-Il existe des phrases qui ne décrivent pas le monde : elles l’orientent.  
-Elles ne constatent rien : elles préparent.  
-Elles ne préviennent pas : elles installent.
 
 La déclaration de Raphaël Glucksmann : « des campagnes d’une violence inédite viseront les candidats pro‑européens  
 et favoriseront les forces prorusses, au premier rang desquelles l’extrême droite »  
 appartient à cette catégorie de phrases qui ne sont pas des analyses, mais des **architectures narratives**.  
+
+Elle ne décrivent pas le monde : elles l’orientent.  
+Elles ne constatent rien : elles préparent.  
+Elles ne préviennent pas : elles installent.
 
 *Il ne s’agit pas d’un commentaire général sur la vie politique française :  
 Glucksmann vise explicitement la campagne présidentielle de 2027.  
