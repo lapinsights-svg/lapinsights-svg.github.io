@@ -24,14 +24,16 @@ og_image: /images/actualites/glucksmann.png
 
 ## Le futur comme matière première
 
+Dans cet conférence Raphaël Glucksmann dit que « des campagnes d’une violence inédite viseront les candidats pro‑UE et favoriseront les forces prorusses »  
+ce qui revient à écrire le scénario avant le tournage.  
+Le réel n’a pas commencé que le récit est déjà verrouillé.  
+
 La phrase de Raphaël Glucksmann n’est pas une analyse.  
 C’est une **architecture narrative**.
 
 Elle ne décrit pas un risque : elle **installe un cadre**.  
 Un cadre qui précède les faits, les absorbe, les oriente.
 
-Dire que « des campagnes d’une violence inédite viseront les candidats pro‑UE et favoriseront les forces prorusses » revient à écrire le scénario avant le tournage.  
-Le réel n’a pas commencé que le récit est déjà verrouillé.
 
 Dans cette logique, tout devient signe :
 
