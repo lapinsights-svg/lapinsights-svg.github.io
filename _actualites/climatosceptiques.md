@@ -58,7 +58,7 @@ C’est une **crise de gestion**.
 Depuis cinquante ans.  
 
 
-## Le réel (bloc Lapinsights)
+## Le réel
 
 - Ce n’est pas le climat qui a abandonné les **réseaux d’eau**,  
   c’est l’État qui laisse fuir 20 à 30 % dans des conduites jamais entretenues.
