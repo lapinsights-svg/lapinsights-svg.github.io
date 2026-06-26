@@ -24,8 +24,8 @@ og_image: /images/actualites/glucksmann.png
 
 ## Le futur comme matière première
 
-Dans cet conférence Raphaël Glucksmann dit que « des campagnes d’une violence inédite viseront les candidats pro‑UE et favoriseront les forces prorusses »  
-ce qui revient à écrire le scénario avant le tournage.  
+Dans ce discours,  Raphaël Glucksmann dit que « des campagnes d’une violence inédite viseront les candidats pro‑UE et favoriseront les forces prorusses »  
+Ce qui revient à écrire le scénario avant le tournage.  
 Le réel n’a pas commencé que le récit est déjà verrouillé.  
 
 La phrase de Raphaël Glucksmann n’est pas une analyse.  
