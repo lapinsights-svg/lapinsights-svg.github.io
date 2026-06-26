@@ -14,7 +14,7 @@ og_image: /images/actualites/climatosceptiques.png
 Ils passent leur temps à fustiger les “climatosceptiques”.  
 Ça gesticule, ça moralise, ça pointe du doigt.  
 Mais les vrais freins, ce sont les **climatocroyants non pratiquants** qui gouvernent.  
-*(Voir le réel en commentaire — [vidéo](https://www.facebook.com/reel/1267437598595131))*  
+*(Voir le réel — [vidéo](https://www.facebook.com/reel/1267437598595131))*  
 
 
 ## Le décalage
