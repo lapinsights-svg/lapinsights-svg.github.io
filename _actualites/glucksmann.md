@@ -12,6 +12,7 @@ tags:
   - ingérence
 og_image: /images/actualites/glucksmann.png
 ---
+![glucksmann](/images/actualites/glucksmann.png)
 
 # LE RÉCIT QUI PRÉCÈDE LE RÉEL  
 ### Comment un discours peut façonner l’avenir avant même que les faits n’existent
