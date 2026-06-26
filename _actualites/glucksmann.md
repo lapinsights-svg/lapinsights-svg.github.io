@@ -85,8 +85,7 @@ Le mécanisme est circulaire :
 - progression d’un opposant : « influence russe »  
 - scandale : « attaque hostile »  
 
-Le récit est **auto‑renforçant**.  
-Il protège un camp, délégitime l’autre, et surtout, il **neutralise la discussion** :  
+Le récit protège un camp, délégitime l’autre, et surtout, il **neutralise la discussion** :  
 si tout désaccord peut être interprété comme une manipulation, alors plus rien n’est discutable.
 
 Ce verrouillage n’est pas seulement politique.  
@@ -103,7 +102,7 @@ Le discours de Glucksmann suit une mécanique connue : la **stratégie de tensio
 2. Désigner les coupables  
 3. Lire tout événement comme confirmation  
 
-Dans ce cadre, n’importe quel débordement — spontané, opportuniste ou instrumentalisé — peut servir à :
+Dans ce cadre, n’importe quel débordement, spontané, opportuniste ou instrumentalisé, peut servir à :
 
 - renforcer le récit officiel  
 - justifier des mesures d’exception  
@@ -117,7 +116,7 @@ Quand un pouvoir désigne un ennemi intérieur, certains se sentent autorisés.
 D’autres se sentent menacés.  
 La société se tend.  
 La démocratie se fissure.  
-Et dans cette fissure, **l’État de droit peut glisser**.
+Et dans cette fissure, **l’État de droit peut continuer à glisser**.
 
 ---
 
@@ -128,11 +127,11 @@ Il est psychologique.
 
 Si l’on répète que :
 
-- voter pour un camp = voter pour la Russie  
-- critiquer un candidat = servir une puissance hostile  
-- contester un récit = participer à une manipulation  
+- voter pour un camp c'est voter pour la Russie  
+- critiquer un candidat c'est servir une puissance hostile  
+- contester un récit c'est participer à une manipulation  
 
-…alors le vote n’est plus un choix.  
+… alors le vote n’est plus un choix.  
 C’est un **test de loyauté**.
 
 Le citoyen n’est plus souverain.  
@@ -155,10 +154,7 @@ Il repose sur une équation simple :
 
 Cette équation n’est pas factuelle.  
 Elle n’est pas neutre.  
-Elle n’est pas descriptive.  
-Elle est **opératoire**.
 
-Elle agit.  
 Elle oriente.  
 Elle conditionne.
 
