@@ -1,5 +1,5 @@
 ---
-title: "Le récit qui précède le réel"
+title: "Campagne présidentielle sous influence russe ?"
 categories: actualites
 resume: "Analyse du discours de Raphaël Glucksmann et des risques pour la démocratie"
 date: "2026-06-26"
@@ -14,7 +14,7 @@ og_image: /images/actualites/glucksmann.png
 ---
 ![glucksmann](/images/actualites/glucksmann.png)
 
-# LE RÉCIT QUI PRÉCÈDE LE RÉEL  
+# CAMPAGNE PRESIDENTIELLE SOUS INFLUENCE RUSSE ? 
 ### Comment un discours peut façonner l’avenir avant même que les faits n’existent
 
 > 🎥 **Vidéo source :**  
