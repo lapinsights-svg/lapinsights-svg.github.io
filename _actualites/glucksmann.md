@@ -80,10 +80,10 @@ Il ne répond pas à un événement : il **crée le contexte** dans lequel tout 
 
 Le mécanisme est circulaire :
 
-- victoire pro‑UE : « nous avons résisté »  
-- défaite : « l’ingérence a gagné »  
-- progression d’un opposant : « influence russe »  
-- scandale : « attaque hostile »  
+- victoire pro‑UE : "nous avons résisté"  
+- défaite : "l’ingérence a gagné" 
+- progression d’un opposant : "influence russe"  
+- scandale : "attaque hostile"
 
 Le récit protège un camp, délégitime l’autre, et surtout, il **neutralise la discussion** :  
 si tout désaccord peut être interprété comme une manipulation, alors plus rien n’est discutable.
@@ -152,11 +152,10 @@ Il repose sur une équation simple :
 - pro‑UE = démocratie  
 - anti‑UE = Russie  
 
-Cette équation n’est pas factuelle.  
-Elle n’est pas neutre.  
+Cette équation n’est pas factuelle, ni neutre.  
 
 Elle oriente.  
-Elle conditionne.
+Elle conditionne.  
 
 Et c’est précisément pour cela qu’elle doit être analysée, démontée, exposée.  
 Non pour défendre un camp, mais pour rappeler ceci :
