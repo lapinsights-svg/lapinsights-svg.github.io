@@ -34,9 +34,9 @@ Le réel n’a pas commencé que le récit est déjà verrouillé.
 
 Dans cette logique, tout devient signe :
 
-- critique d’un candidat pro‑UE → attaque orchestrée  
-- progression d’un opposant → manipulation étrangère  
-- résultat défavorable → victoire de l’ingérence  
+- critique d’un candidat pro‑UE = attaque orchestrée  
+- progression d’un opposant = manipulation étrangère  
+- résultat défavorable = victoire de l’ingérence  
 
 Le futur cesse d’être incertain.  
 Il devient **un outil politique**.
@@ -49,7 +49,7 @@ En désignant l’extrême droite comme bénéficiaire de l’ingérence, Glucks
 Il parle de **Français**.
 
 Ce déplacement est décisif.  
-Il transforme un camp politique — légal, représenté, inscrit dans le jeu démocratique — en **prolongement d’une puissance hostile**.
+Il transforme un camp politique, légal, représenté, inscrit dans le jeu démocratique, en **prolongement d’une puissance hostile**.
 
 Ce n’est plus un adversaire.  
 C’est un **vecteur**.
@@ -77,10 +77,10 @@ Il ne répond pas à un événement : il **crée le contexte** dans lequel tout 
 
 Le mécanisme est circulaire :
 
-- victoire pro‑UE → « nous avons résisté »  
-- défaite → « l’ingérence a gagné »  
-- progression d’un opposant → « influence russe »  
-- scandale → « attaque hostile »  
+- victoire pro‑UE : « nous avons résisté »  
+- défaite : « l’ingérence a gagné »  
+- progression d’un opposant : « influence russe »  
+- scandale : « attaque hostile »  
 
 Le récit est **auto‑renforçant**.  
 Il protège un camp, délégitime l’autre, et surtout, il **neutralise la discussion** :  
