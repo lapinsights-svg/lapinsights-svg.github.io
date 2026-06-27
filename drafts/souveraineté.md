@@ -45,6 +45,8 @@ Cette géométrie est politiquement applicable.
 Elle correspond à ce que défendent certains courants du républicanisme civique, du constitutionnalisme fort, et de la philosophie politique réaliste. Des courants qui affirment que la liberté réelle n’existe que si l’État protège les conditions de son exercice, sans absorber ceux qui l’exercent. Des courants qui refusent la confusion entre ordre et obéissance. Des courants qui savent que la souveraineté personnelle est la condition de toute souveraineté collective.
 
 Et c’est sans doute pour cela que je ne suis compatible avec aucun système politique existant.  
+[Voir aussi : Pourquoi je ne suis compatible avec aucun parti politique](https://lapinsights-svg.github.io/idees/incompatible/)  
+
 Les systèmes actuels reposent soit sur l’absorption de la personne par l’État, soit sur la dissolution du cadre au profit d’une autonomie abstraite. Aucun ne reconnaît la souveraineté distribuée comme structure. Aucun ne place la personne comme premier niveau de la souveraineté réelle. Aucun ne conçoit l’État comme protecteur sans intrusion. Aucun ne sait articuler les limites sans les confondre.
 
 **En résumé, c’est la troisième voie.**  
