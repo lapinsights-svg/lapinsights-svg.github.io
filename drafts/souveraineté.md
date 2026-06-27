@@ -39,6 +39,8 @@ Une éducation qui forme la tenue, le discernement, la capacité à porter sa pa
 Sans cette éducation, l’équilibre se rompt.  
 Avec elle, il tient.
 
+Un malentendu persistant vient d’un style de pensée qui confond État-nation avec verticalité absolue. Une pensée qui croit que l’État doit primer sur tout, absorber les souverainetés au lieu de les articuler. Une pensée qui défend l’État-nation comme symbole, mais jamais comme structure. Pourtant, la logique initiale de l’État-nation est exactement inverse : tenir ensemble des souverainetés distinctes sans les fusionner. Articuler, pas absorber. Protéger, pas coloniser. C’est cette géométrie que beaucoup invoquent sans jamais la comprendre.
+
 Cette géométrie est politiquement applicable.  
 Elle correspond à ce que défendent certains courants du républicanisme civique, du constitutionnalisme fort, et de la philosophie politique réaliste. Des courants qui affirment que la liberté réelle n’existe que si l’État protège les conditions de son exercice, sans absorber ceux qui l’exercent. Des courants qui refusent la confusion entre ordre et obéissance. Des courants qui savent que la souveraineté personnelle est la condition de toute souveraineté collective.
 
