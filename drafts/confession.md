@@ -17,11 +17,11 @@ On a parlé du secret de la confession comme d’un verrou.
 Comme d’un obstacle.  
 Comme d’un lieu où se cacherait une preuve.
 
-Dans l’affaire Lyhanna, il n’y avait rien.  
-Aucun aveu.  
-Aucun prêtre.  
-Aucun secret.  
-Juste un déplacement du regard.
+Le rapport Sauvé venait d’être publié.  
+Des décennies de pédocriminalité.  
+Des milliers de victimes.  
+Une institution secouée.  
+Un État sommé de réagir.
 
 ---
 
@@ -44,13 +44,34 @@ On a voulu y voir une cause.
 Darmanin a parlé de lever ce secret.
 
 Moment de crise.  
-Moment où l’État était exposé.  
-Moment où la chaîne judiciaire avait failli.
+Moment où l’État devait montrer qu’il “agissait”.  
+Moment où la pression médiatique exigeait un geste fort.
 
-La confession n’était pas dans le dossier.  
-Le prêtre n’était pas dans le dossier.  
-Le secret n’était pas dans le dossier.  
+La confession n’était pas dans les dossiers.  
+Le prêtre n’était pas dans les procédures.  
+Le secret n’était pas dans les enquêtes.  
 Mais le symbole, lui, était disponible.
+
+---
+
+Et il fallait encore dire ceci.  
+Le rapport Sauvé ne dit pas que les prêtres confessent leurs crimes.  
+Il ne dit pas que la confession bloque les enquêtes.  
+Il ne dit pas que le secret protège les criminels.
+
+Alors pourquoi vouloir le lever ?
+
+Parce que le symbole était simple.  
+Parce qu’il était chargé.  
+Parce qu’il était disponible.  
+Parce qu’il permettait de déplacer le regard.
+
+Lever le secret de la confession ne corrigeait rien.  
+Ne réparait rien.  
+Ne protégeait personne.  
+Mais cela créait un geste fort.  
+Un bruit.  
+Une diversion.
 
 ---
 
@@ -101,22 +122,6 @@ Il amène la personne à sortir du secret par elle-même.
 La confession n’est pas un lieu où la justice perd une preuve.  
 C’est parfois un lieu où elle en gagne une.  
 Par la volonté du pénitent.
-
----
-
-Dans l’affaire Lyhanna, le secret n’a joué aucun rôle.  
-Le suspect n’a rien confessé.  
-Aucun prêtre n’a été approché.  
-Aucun aveu n’a été retenu.  
-Le secret de la confession est un décor plaqué.  
-Un écran.  
-Un déplacement de responsabilité.
-
-“Regardez là-bas.”  
-Pendant que le vrai problème reste ici :  
-Plainte non traitée.  
-Interpellation non exécutée.  
-Chaîne judiciaire qui n’a pas fonctionné.
 
 ---
 
@@ -174,5 +179,6 @@ Il est étatique.
 
 ---
 
+Céleste R.
 Le secret de la confession n’a rien empêché.  
 Ce qui a empêché, c’est l’État.
