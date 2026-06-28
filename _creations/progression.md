@@ -21,7 +21,7 @@ Son attention avait déjà basculé ailleurs.
 La musique commença.  
 Une note. Fragile.  
 Presque hésitante.  
-Et aussitôt, son espace intime se déplia - non pas comme une ouverture, mais comme une descente.  
+Et aussitôt, son espace intime se déplia, non pas comme une ouverture, mais comme une descente.  
 Une plongée lente dans un lieu profond, dense, obscur.  
 Chaque vibration prenait une forme.  
 Une forme qui ne disait rien, mais insistait.
@@ -41,7 +41,8 @@ Un soulèvement interne qui la mit en apesanteur.
 Sa vision se brouilla.  
 La pièce recula.  
 Elle sentit son corps devenir plus léger, presque absent.  
-Comme si elle glissait hors du monde visible pour entrer dans un espace qui n’appartenait qu’à elle.
+Comme si elle glissait hors du monde visible  
+pour entrer dans un espace qui n’appartenait qu’à elle.
 
 Dans cet espace, la clarté et l’ombre n’étaient pas opposées.  
 Elles coexistaient, se mêlaient, se répondaient.  
@@ -93,10 +94,10 @@ Elle ouvrit les yeux.
 Tout était exactement comme avant.  
 La lumière, les meubles, le silence.  
 Mais elle, non.  
-Elle avait été déplacée de l’intérieur - très légèrement, très précisément.  
+Elle avait été déplacée de l’intérieur, très légèrement, très précisément.  
 Comme si la musique avait réarrangé son espace, posé une nouvelle ligne, ouvert une nouvelle profondeur.
 
-Elle resta là, immobile, avec cette sensation étrange :  
+Elle resta là, immobile, avec cette sensation étrange,  
 celle d’avoir été traversée par une lumière douce,  
 une onde vivante,  
 et une vague qui l’avait soulevée sans jamais la quitter.
