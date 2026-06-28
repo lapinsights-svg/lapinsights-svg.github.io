@@ -79,7 +79,7 @@ Calma son ombre.
 Redescendit comme une marée qui hésite avant de se retirer.  
 Elle la laissa là.  
 Déplacée.  
-Réarrangée.  
+Recomposée.
 Troublée.  
 Avec une profondeur nouvelle qui vibrait encore, comme une ligne interne qu’on n’arrive pas à stabiliser.
 
