@@ -64,7 +64,7 @@ Pour céder, comme une crête interne qui se détache.
 Puis elle frappa.  
 Un arc lumineux sillonna son corps.  
 Une traversée.  
-Une ligne vibrante qui déplaçait quelque chose en elle.
+Une ligne frémissante qui déplaçait quelque chose en elle.  
 La musique ouvrit une place ancienne.  
 Une chambre intérieure.  
 Mais cette fois, la chambre bougea.  
