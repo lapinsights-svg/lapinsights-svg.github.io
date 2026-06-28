@@ -53,7 +53,7 @@ Mais le symbole, lui, était disponible.
 
 ---
 
-Et il fallait dire ce que le rapport Sauvé dit réellement.  
+Voyons ce que le rapport Sauvé dit réellement.  
 Il dit que les prêtres pédocriminels ne confessent pas leurs crimes.  
 Non par peur du secret.  
 Mais parce qu’ils ne reconnaissent pas leurs actes comme des crimes.
