@@ -19,9 +19,9 @@ Elle, assise, calme, déjà en décalage, comme si une part d’elle glissait ve
 La musique entra.  
 Pas une note.  
 Une présence.  
-Elle franchit le seuil avec une lenteur intentionnée.  
-Un pas sans bruit.  
-Un pas qui troublait l’air.  
+Elle franchit le seuil avec une lenteur délibérée.  
+Un pas qui glissait sans bruit.  
+Un empreinte qui troublait l’air.  
 Son espace intérieur se déplia, par frémissement, comme une peau qui reconnaît une chaleur.
 
 La première pulsation glissa dans son ventre.  
