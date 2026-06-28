@@ -47,7 +47,7 @@ pour entrer dans un espace qui n’appartenait qu’à elle.
 Dans cet espace, la clarté et l’ombre n’étaient pas opposées.  
 Elles coexistaient, se mêlaient, se répondaient.  
 L’antre de son ventre se dilata, comme si elle respirait.  
-Et au centre de cette obscurité, une lueur se forma - une fulgurance douce.  
+Et au centre de cette obscurité, une lueur se forma, une fulgurance douce.  
 Un éclair qui ne brûlait pas mais qui traversait, précis, vertical, presque chirurgical.
 
 La montée approchait.  
