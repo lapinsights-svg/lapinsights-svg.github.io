@@ -38,7 +38,7 @@ Pas comme une main.
 Comme une marée interne.  
 Une poussée lente qui déplaçait son centre.  
 La pièce recula.  
-Son corps devint léger, mais chargé d’un mouvement interne, d’un tremblement qui ne venait pas d’elle.
+Son corps devint léger, mais animé d’un tremblement interne qui ne venait pas d’elle.
 
 Dans cet espace, la musique avançait.  
 Elle éclairait.  
