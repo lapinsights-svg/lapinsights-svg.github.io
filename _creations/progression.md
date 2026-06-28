@@ -57,7 +57,7 @@ La musique la préparait avec une précision vibrante.
 Une ligne se tendit dans sa poitrine.  
 Une zone s’ouvrit dans sa gorge.  
 Une clarté se posa derrière ses yeux, tremblante, comme une lumière qui hésite avant de se fixer.  
-Tout en elle se réorganisait.  
+Tout en elle s'ajustait. 
 Pas pour accueillir.  
 Pour céder.
 
