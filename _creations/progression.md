@@ -40,7 +40,7 @@ Une vague de plaisir lumineux.
 Un soulèvement interne qui la mit en apesanteur.  
 Sa vision se brouilla.  
 La pièce recula.  
-Elle sentit son corps devenir plus léger — presque absent.  
+Elle sentit son corps devenir plus léger, presque absent.  
 Comme si elle glissait hors du monde visible pour entrer dans un espace qui n’appartenait qu’à elle.
 
 Dans cet espace, la clarté et l’ombre n’étaient pas opposées.  
