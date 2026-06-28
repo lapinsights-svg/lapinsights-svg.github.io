@@ -2,7 +2,7 @@
 title: Secret de la confession — symbole, pouvoir et intériorité
 date: 2026-06-28
 categories: idees
-resume: Deux niveaux : le débat visible et le sous-sol invisible.
+resume: le débat visible et le sous-sol invisible.
 tags: [justice, confession, politique, symboles, etat, vie-privee]
 og_image: /images/idees/confession.png
 ---
