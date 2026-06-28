@@ -86,7 +86,7 @@ La musique se retira.
 Elle resta.  
 Avec cette empreinte légère.  
 Cette vibration.  
-Ce trouble qui continuait de bouger en elle, lentement, comme une onde qui refuse de disparaître.
+Ce trouble résiduel qui lanquissait, comme une onde qui refuse de disparaître.
 
 
 Céleste R.
