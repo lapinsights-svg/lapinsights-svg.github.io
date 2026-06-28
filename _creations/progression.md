@@ -63,9 +63,8 @@ Pour céder, comme une crête interne qui se détache.
 
 Puis elle frappa.  
 Un arc lumineux sillonna son corps.  
-Pas une signature.  
 Une traversée.  
-Une ligne vive qui la traversa de haut en bas, rapide, vibrante, presque vivante.  
+Une ligne vibrante qui déplaçait quelque chose en elle.
 La musique ouvrit une place ancienne.  
 Une chambre intérieure.  
 Mais cette fois, la chambre bougea.  
@@ -81,7 +80,7 @@ Elle la laissa là.
 Déplacée.  
 Recomposée.
 Troublée.  
-Avec une profondeur nouvelle qui vibrait encore, comme une ligne interne qu’on n’arrive pas à stabiliser.
+Avec une profondeur nouvelle qui résonnait encore, comme une corde interne qu’on n’arrive pas à stabiliser.
 
 La musique se retira.  
 Elle resta.  
