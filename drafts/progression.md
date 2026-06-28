@@ -1,6 +1,6 @@
 ---
 title: Progression intérieure
-date: 2026-06-27
+date: 2026-06-28
 categories: creations
 resume: Descente obscure, tension verticale, lumière qui traverse l’intérieur.
 ---
