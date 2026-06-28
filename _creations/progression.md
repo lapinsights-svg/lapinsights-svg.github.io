@@ -71,10 +71,10 @@ La musique se tendit
 Et la vague devint fulgurante.  
 Un arc lumineux traversa son corps de haut en bas.  
 Rapide.  
-Précise.  
-Elle ne fit pas mal.  
-Elle ne fit pas peur.  
-Elle lui ouvrit simplement une place.  
+Précis.  
+Il ne fit pas mal.  
+Il ne fit pas peur.  
+Il lui ouvrit simplement une place.  
 Une place qu’elle connaissait déjà si bien.  
 Ancienne.  
 Intime.  
