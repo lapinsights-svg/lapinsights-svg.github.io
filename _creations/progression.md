@@ -69,7 +69,7 @@ Elle était absorbée en elle, entièrement, dans ce lieu profond où la musique
 
 La musique se tendit  
 Et la vague devint fulgurante.  
-Un arc lumineux traversa son corps de haut en bas.  
+Un arc lumineux sillonna son corps de haut en bas.  
 Rapide.  
 Précis.  
 Il ne fit pas mal.  
