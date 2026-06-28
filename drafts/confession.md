@@ -4,7 +4,10 @@ date: 2026-06-28
 categories: idees
 resume: Secret déplacé pour masquer une défaillance strictement étatique.
 tags: [justice, confession, politique, symboles, enquete]
+og_image: /images/idees/confession.png
 ---
+
+![confession](/images/idees/confession.png)
 
 # Le secret de la confession est-il un problème ?
 
