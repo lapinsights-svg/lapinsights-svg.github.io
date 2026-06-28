@@ -12,95 +12,82 @@ tags:
 ---
 ![progression](/images/creations/progression.png)
 
-La pièce était là, autour d’elle, mais déjà lointaine.  
-La lumière pâle sur les meubles, le tissu du canapé sous ses jambes, l’air immobile -  
-tout cela restait en surface.  
-Comme un décor qui ne la concernait plus.  
-Elle était assise, droite, calme.  
-Son attention avait déjà basculé ailleurs.
+La pièce retenait son souffle.  
+La lumière glissait comme une poussière vivante sur les meubles.  
+Elle, assise, calme, déjà en décalage, comme si une part d’elle glissait vers un lieu plus profond.
 
-La musique commença.  
-Une note. Fragile.  
-Presque hésitante.  
-Et aussitôt, son espace intime se déplia, non pas comme une ouverture, mais comme une descente.  
-Une plongée lente dans un lieu profond, dense, obscur.  
-Chaque vibration prenait une forme.  
-Une forme qui ne disait rien, mais insistait.
+La musique entra.  
+Pas une note.  
+Une présence.  
+Elle franchit le seuil avec une lenteur intentionnée.  
+Un pas sans bruit.  
+Un pas qui troublait l’air.  
+Son espace intérieur se déplia, non par ouverture, mais par frémissement, comme une peau qui reconnaît une chaleur.
 
 La première pulsation glissa dans son ventre.  
-Une résonance souterraine, compacte.  
-Elle ne cherchait pas à être comprise.  
-Elle se contentait d’exister, de s’étendre, de réveiller un territoire intérieur qui d’habitude reste silencieux.  
-Ce lieu n’était pas vide.  
-Il était habité par des lignes, des tensions, des zones qui se souvenaient.  
-Des fibres anciennes s’y réveillaient, sans bruit.  
-D’autres avaient choisi l’oubli.  
+La musique y posa une vibration dense.  
+Une chaleur qui se ramifiait.  
+Une invitation qui remuait des zones anciennes.  
+Des fibres se réveillèrent.  
+Certaines avec douceur.  
+D’autres avec un trouble discret, comme si revenir leur coûtait.
 
 Puis la vague arriva.  
-Une vague de plaisir lumineux.  
-Un soulèvement interne qui la mit en apesanteur.  
-Sa vision se brouilla.  
+La musique la souleva.  
+Pas comme une main.  
+Comme une marée interne.  
+Une poussée lente qui déplaçait son centre.  
 La pièce recula.  
-Elle sentit son corps devenir plus léger, presque absent.  
-Comme si elle glissait hors du monde visible  
-pour entrer dans un espace qui n’appartenait qu’à elle.
+Son corps devint léger, mais chargé d’un mouvement interne, d’un tremblement qui ne venait pas d’elle.
 
-Dans cet espace, la clarté et l’ombre n’étaient pas opposées.  
-Elles coexistaient, se mêlaient, se répondaient.  
-L’antre de son ventre se dilata, comme si elle respirait.  
-Et au centre de cette obscurité, une lueur se forma, une fulgurance douce.  
-Un éclair qui ne brûlait pas mais qui traversait, précis, vertical, presque chirurgical.
+Dans cet espace, la musique avançait.  
+Elle éclairait.  
+Elle assombrissait.  
+Elle effleurait.  
+Elle creusait.  
+Elle déposait une lueur dans son ventre, mais cette fois la lueur vibrait, oscillait, cherchait sa forme.  
+Une fulgurance douce derrière ses yeux.  
+Une tension fine dans sa gorge.  
+Chaque geste sonore portait une intention.  
+Un trouble.  
+Un *viens* qui n’était plus une invitation, mais une traction.
 
 La montée approchait.  
-Elle le sentait dans son corps, mais surtout dans son espace intérieur.  
-Une tension fine se forma dans sa poitrine.  
-Une ligne se tendit derrière ses yeux.  
+La musique la préparait avec une précision vibrante.  
+Une ligne se tendit dans sa poitrine.  
 Une zone s’ouvrit dans sa gorge.  
-Tout cela sans bruit, sans mouvement.  
-Comme si son intérieur se préparait à accueillir une forme familière  
-Ou qu’il avait oubliée volontairement.
+Une clarté se posa derrière ses yeux, mais cette clarté tremblait, comme une lumière qui hésite avant de se fixer.  
+Tout en elle se réorganisait.  
+Pas pour accueillir.  
+Pour céder.
 
-La lumière remonta.  
-Du bas‑ventre à la poitrine.  
-De la poitrine à la gorge.  
-Puis derrière les yeux, où elle se posa un instant.  
-Une clarté brève, presque blanche.  
-Elle n’était plus dans la pièce.  
-Elle était absorbée en elle, entièrement, dans ce lieu profond où la musique devenait une matière.
+Puis elle frappa.  
+Un arc lumineux sillonna son corps.  
+Pas une signature.  
+Une traversée.  
+Une ligne vive qui la traversa de haut en bas, rapide, vibrante, presque vivante.  
+La musique ouvrit une place ancienne.  
+Une chambre intérieure.  
+Mais cette fois, la chambre bougea.  
+Elle se dilata.  
+Elle se troubla.  
+Comme si la lumière y entrait pour la première fois.
 
-La musique se tendit  
-Et la vague devint fulgurante.  
-Un arc lumineux sillonna son corps de haut en bas.  
-Rapide.  
-Précis.  
-Il ne fit pas mal.  
-Il ne fit pas peur.  
-Il lui ouvrit simplement une place.  
-Une place qu’elle connaissait déjà si bien.  
-Ancienne.  
-Intime.  
-Que la musique venait seulement réveiller, comme une chambre intérieure où la lumière  
-revient après une longue absence.  
+La résolution fut un geste lent.  
+La musique replia sa lumière.  
+Calma son ombre.  
+Redescendit comme une marée qui hésite avant de se retirer.  
+Elle la laissa là.  
+Déplacée.  
+Réarrangée.  
+Troublée.  
+Avec une profondeur nouvelle qui vibrait encore, comme une ligne interne qu’on n’arrive pas à stabiliser.
 
-La résolution arriva.  
-La clarté se replia.  
-L’ombre se calma.  
-La vague redescendit doucement, comme une marée intime qui retrouve son niveau.  
-Son corps reprit son poids.  
-Sa vision se stabilisa.  
-La pièce revint.  
-Mais comme un arrière‑plan, un décor secondaire.
+La musique se retira.  
+Elle resta.  
+Avec cette trace douce.  
+Cette vibration.  
+Ce trouble qui continuait de bouger en elle, lentement, comme une onde qui refuse de disparaître.
 
-Elle ouvrit les yeux.  
-Tout était exactement comme avant.  
-La lumière, les meubles, le silence.  
-Mais elle, non.  
-Elle avait été déplacée de l’intérieur, très légèrement, très précisément.  
-Comme si la musique avait réarrangé son espace, posé une nouvelle ligne, ouvert une nouvelle profondeur.
-
-Elle resta là, immobile, avec cette sensation étrange,  
-celle d’avoir été traversée par une lumière douce,  
-une onde vivante,  
-et une vague qui l’avait soulevée sans jamais la quitter.
 
 Céleste R.
