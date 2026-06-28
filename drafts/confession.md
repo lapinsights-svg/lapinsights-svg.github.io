@@ -141,44 +141,4 @@ Un bruit qui couvre le silence des responsabilités.
 
 La justice n’a pas besoin d’entrer dans la confession.  
 Elle a besoin d’entrer dans les faits.  
-Dans les procédures.  
-Dans les défaillances.  
-Dans ce qui n’a pas été fait.
-
-Le secret de la confession n’est pas un verrou.  
-Le verrou est ailleurs.  
-Dans les bureaux où les dossiers dorment.  
-Dans les chaînes où les ordres ne circulent pas.  
-Dans les systèmes qui ne protègent pas.
-
----
-
-# Les angles oubliés
-
-Il fallait encore dire ceci.  
-Le secret de la confession n’est pas un secret professionnel.  
-Il ne fonctionne pas comme celui du médecin ou de l’avocat.  
-Il est absolu.  
-Hors du champ de l’État.  
-Jamais conçu pour interagir avec la justice.
-
-La confession n’est pas un lieu de rétention.  
-C’est un lieu de transformation.  
-Elle peut déclencher une réparation.  
-Une restitution.  
-Une dénonciation volontaire.
-
-Le symbole revient dans chaque crise parce qu’il est simple.  
-Chargé.  
-Disponible.  
-Il permet de détourner l’attention des défaillances institutionnelles.
-
-Le vrai verrou n’est pas religieux.  
-Il est administratif.  
-Il est étatique.
-
----
-
-Céleste R.
-Le secret de la confession n’a rien empêché.  
-Ce qui a empêché, c’est l’État.
+Dans les
