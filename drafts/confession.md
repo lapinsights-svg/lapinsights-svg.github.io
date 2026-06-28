@@ -13,9 +13,9 @@ og_image: /images/idees/confession.png
 
 Le débat est né dans le bruit.  
 Pas dans les faits.  
-On a parlé du secret de la confession comme d’un verrou.  
-Comme d’un obstacle.  
-Comme d’un lieu où se cacherait une preuve.
+On a présenté le secret de la confession comme un verrou.  
+Comme un obstacle.  
+Comme un lieu où se cacherait une preuve.
 
 Le rapport Sauvé venait d’être publié.  
 Des décennies de pédocriminalité.  
@@ -29,10 +29,7 @@ Le secret de la confession n’a jamais été un outil judiciaire.
 Jamais une source de preuve.  
 Jamais un espace où la justice pouvait entrer.
 
-Les enquêtes se construisent sur la matérialité.  
-Sur les faits.  
-Sur les témoins.  
-Sur les indices.  
+Les enquêtes se construisent sur la matérialité : faits, témoins, indices.  
 Pas sur un sacrement.  
 Pas sur un rite.  
 Pas sur une parole donnée dans un espace qui n’appartient pas à l’État.
@@ -62,8 +59,8 @@ Il ne dit pas que le secret protège les criminels.
 Alors pourquoi vouloir le lever ?
 
 Parce que le symbole était simple.  
-Parce qu’il était chargé.  
-Parce qu’il était disponible.  
+Chargé.  
+Disponible.  
 Parce qu’il permettait de déplacer le regard.
 
 Lever le secret de la confession ne corrigeait rien.  
@@ -103,42 +100,8 @@ Pas un lieu où se cachent les preuves.
 
 C’est un espace intérieur.  
 Un espace de conscience.  
-Un espace où la personne se confronte à elle-même.
+Un lieu où la personne se confronte à elle-même.
 
 ---
 
-Et c’est là le paradoxe.  
-La confession peut être un déclencheur.  
-Elle peut pousser à la réparation.  
-À la restitution.  
-À la dénonciation volontaire.
-
-Les manuels de confession le disent depuis des siècles.  
-Le prêtre ne révèle rien.  
-Mais il oriente.  
-Il accompagne.  
-Il amène la personne à sortir du secret par elle-même.
-
-La confession n’est pas un lieu où la justice perd une preuve.  
-C’est parfois un lieu où elle en gagne une.  
-Par la volonté du pénitent.
-
----
-
-Le débat sur le secret de la confession n’est pas un débat sur la justice.  
-C’est un débat sur la communication politique.
-
-Il ne répond à aucune réalité factuelle.  
-Il ne corrige rien.  
-Il ne répare rien.  
-Il ne protège personne.
-
-Il crée une illusion de mouvement.  
-Une impression d’action.  
-Un bruit qui couvre le silence des responsabilités.
-
----
-
-La justice n’a pas besoin d’entrer dans la confession.  
-Elle a besoin d’entrer dans les faits.  
-Dans les
+Et c’est là le parado
