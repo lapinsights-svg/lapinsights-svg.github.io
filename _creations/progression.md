@@ -22,7 +22,7 @@ Une présence.
 Elle franchit le seuil avec une lenteur intentionnée.  
 Un pas sans bruit.  
 Un pas qui troublait l’air.  
-Son espace intérieur se déplia, non par ouverture, mais par frémissement, comme une peau qui reconnaît une chaleur.
+Son espace intérieur se déplia, par frémissement, comme une peau qui reconnaît une chaleur.
 
 La première pulsation glissa dans son ventre.  
 La musique y posa une vibration dense.  
