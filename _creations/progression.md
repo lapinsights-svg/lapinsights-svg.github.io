@@ -59,7 +59,7 @@ Une zone s’ouvrit dans sa gorge.
 Une clarté se posa derrière ses yeux, tremblante, comme une lumière qui hésite avant de se fixer.  
 Tout en elle s'ajustait. 
 Pas pour accueillir.  
-Pour céder, comme une ligne interne qui se détache.
+Pour céder, comme une crête interne qui se détache.
 
 Puis elle frappa.  
 Un arc lumineux sillonna son corps.  
