@@ -32,7 +32,7 @@ Elle ne cherchait pas à être comprise.
 Elle se contentait d’exister, de s’étendre, de réveiller un territoire intérieur qui d’habitude reste silencieux.  
 Ce lieu n’était pas vide.  
 Il était habité par des lignes, des tensions, des zones qui se souvenaient.  
-Des fibres anciennes s’y réveillaient, sans bruit.
+Des fibres anciennes s’y réveillaient, sans bruit.  
 D’autres avaient choisi l’oubli.  
 
 Puis la vague arriva.  
@@ -55,7 +55,7 @@ Une tension fine se forma dans sa poitrine.
 Une ligne se tendit derrière ses yeux.  
 Une zone s’ouvrit dans sa gorge.  
 Tout cela sans bruit, sans mouvement.  
-Comme si son intérieur se préparait à accueillir une forme familière
+Comme si son intérieur se préparait à accueillir une forme familière  
 Ou qu’il avait oubliée volontairement.
 
 La lumière remonta.  
@@ -77,7 +77,8 @@ Elle lui ouvrit simplement une place.
 Une place qu’elle connaissait déjà si bien.  
 Ancienne.  
 Intime.  
-Que la musique venait seulement réveiller, comme une chambre intérieure où la lumière revient après une longue absence.
+Que la musique venait seulement réveiller, comme une chambre intérieure où la lumière  
+revient après une longue absence.  
 
 La résolution arriva.  
 La clarté se replia.  
