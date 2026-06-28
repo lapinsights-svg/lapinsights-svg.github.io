@@ -25,7 +25,7 @@ Un empreinte qui troublait l’air.
 Son espace intérieur se déplia, par frémissement, comme une peau qui reconnaît une chaleur.
 
 La première pulsation glissa dans son ventre.  
-La musique y posa une vibration dense.  
+La musique y posa une palpitation dense.  
 Une chaleur qui se ramifiait.  
 Une invitation qui remuait des zones anciennes.  
 Des fibres se réveillèrent.  
