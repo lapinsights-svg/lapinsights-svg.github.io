@@ -67,7 +67,7 @@ Une clarté brève, presque blanche.
 Elle n’était plus dans la pièce.  
 Elle était absorbée en elle, entièrement, dans ce lieu profond où la musique devenait une matière.
 
-La musique se tendit 
+La musique se tendit  
 Et la vague devint fulgurante.  
 Un arc lumineux traversa son corps de haut en bas.  
 Rapide.  
