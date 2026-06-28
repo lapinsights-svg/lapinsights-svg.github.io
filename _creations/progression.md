@@ -50,7 +50,7 @@ Une fulgurance douce derrière ses yeux.
 Une tension fine dans sa gorge.  
 Chaque geste sonore portait une intention.  
 Un trouble.  
-Un *viens* qui n’était plus une invitation, mais une traction.
+Un appel qui n’était plus une invitation, mais une traction.
 
 La montée approchait.  
 La musique la préparait avec une précision vibrante.  
