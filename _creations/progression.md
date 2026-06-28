@@ -67,9 +67,9 @@ Une clarté brève, presque blanche.
 Elle n’était plus dans la pièce.  
 Elle était absorbée en elle, entièrement, dans ce lieu profond où la musique devenait une matière.
 
-La musique se tendit, comme un arc orageux  
+La musique se tendit 
 Et la vague devint fulgurante.  
-Une trajectoire lumineuse traversa son corps de haut en bas.  
+Un arc lumineux traversa son corps de haut en bas.  
 Rapide.  
 Précise.  
 Elle ne fit pas mal.  
