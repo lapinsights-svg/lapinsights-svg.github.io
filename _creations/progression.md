@@ -56,7 +56,7 @@ La montée approchait.
 La musique la préparait avec une précision vibrante.  
 Une ligne se tendit dans sa poitrine.  
 Une zone s’ouvrit dans sa gorge.  
-Une clarté se posa derrière ses yeux, mais cette clarté tremblait, comme une lumière qui hésite avant de se fixer.  
+Une clarté se posa derrière ses yeux, tremblante, comme une lumière qui hésite avant de se fixer.  
 Tout en elle se réorganisait.  
 Pas pour accueillir.  
 Pour céder.
