@@ -45,7 +45,7 @@ Elle éclairait.
 Elle assombrissait.  
 Elle effleurait.  
 Elle creusait.  
-Elle déposait une lueur dans son ventre, mais cette fois la lueur vibrait, oscillait, cherchait sa forme.  
+Elle déposait une lueur dans son ventre, qui palpitait, oscillait, cherchait sa forme.  
 Une fulgurance douce derrière ses yeux.  
 Une tension fine dans sa gorge.  
 Chaque geste sonore portait une intention.  
