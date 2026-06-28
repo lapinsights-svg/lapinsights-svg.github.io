@@ -84,7 +84,7 @@ Avec une profondeur nouvelle qui résonnait encore, comme une corde interne qu�
 
 La musique se retira.  
 Elle resta.  
-Avec cette trace douce.  
+Avec cette empreinte légère.  
 Cette vibration.  
 Ce trouble qui continuait de bouger en elle, lentement, comme une onde qui refuse de disparaître.
 
