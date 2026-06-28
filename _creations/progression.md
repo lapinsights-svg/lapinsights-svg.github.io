@@ -13,7 +13,8 @@ tags:
 ![progression](/images/creations/progression.png)
 
 La pièce était là, autour d’elle, mais déjà lointaine.  
-La lumière pâle sur les meubles, le tissu du canapé sous ses jambes, l’air immobile - tout cela restait en surface.  
+La lumière pâle sur les meubles, le tissu du canapé sous ses jambes, l’air immobile -  
+tout cela restait en surface.  
 Comme un décor qui ne la concernait plus.  
 Elle était assise, droite, calme.  
 Son attention avait déjà basculé ailleurs.
