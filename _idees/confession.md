@@ -1,5 +1,5 @@
 ---
-title: Secret de la confession — symbole, pouvoir et intériorité
+title: Secret de la confession: symbole, pouvoir et intériorité
 date: 2026-06-29
 categories: idees
 resume: le débat visible et le sous-sol invisible.
@@ -9,7 +9,7 @@ og_image: /images/idees/confession.png
 
 ![confession](/images/idees/confession.png)
 
-# I. Le secret de la confession est-il un problème ? 
+# Le secret de la confession est-il un problème ? 
 
 Le débat est né dans le bruit.  
 Pas dans les faits.  
@@ -136,7 +136,7 @@ Ce qui a empêché, c’est l’État.
 
 ---
 
-# II. Le sous-sol invisible : la véritable intention du pouvoir 
+# Le sous-sol invisible : la véritable intention du pouvoir 
 
 Ce geste n’est pas isolé.  
 Il s’inscrit dans une continuité.  
