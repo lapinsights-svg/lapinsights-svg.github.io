@@ -1,6 +1,6 @@
 ---
 title: Secret de la confession — symbole, pouvoir et intériorité
-date: 2026-06-28
+date: 2026-06-29
 categories: idees
 resume: le débat visible et le sous-sol invisible.
 tags: [justice, confession, politique, symboles, etat, vie-privee]
