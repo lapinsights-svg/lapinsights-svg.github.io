@@ -1,5 +1,5 @@
 ---
-title: Secret de la confession: symbole, pouvoir et intériorité
+title: "Secret de la confession: symbole, pouvoir et intériorité"
 date: 2026-06-29
 categories: idees
 resume: le débat visible et le sous-sol invisible.
