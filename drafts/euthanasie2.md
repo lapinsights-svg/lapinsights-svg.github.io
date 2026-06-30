@@ -23,7 +23,8 @@ Certains votes ne stabilisent rien : ils déplacent les plaques.
 Celui de l’Assemblée nationale sur l’aide à mourir appartient à cette catégorie.   
 Non pas un simple passage législatif, mais un glissement du socle.  
 Une ligne qui tenait depuis des siècles et qui, soudain, se fissure.  
-Le texte avance, mais il n’unit pas. Il divise, il creuse, il ouvre. Et dans l’ouverture, les ombres se multiplient.
+Le texte avance, mais il n’unit pas. Il divise, il creuse, il ouvre.  
+Et dans l’ouverture, les ombres se multiplient.
 
 Les chiffres successifs dessinent le mouvement : 305 voix pour en 2025, 299 en 2026, 295 en 2027.  
 Une majorité qui se rétrécit, comme si chaque lecture retirait un morceau de conviction.  
