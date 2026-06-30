@@ -30,7 +30,8 @@ Les chiffres successifs dessinent le mouvement : 305 voix pour en 2025, 299 en 2
 Une majorité qui se rétrécit, comme si chaque lecture retirait un morceau de conviction.  
 Ce n’est pas une marche vers un consensus. C’est une marche vers un point de rupture.  
 Le texte passe parce qu’il doit passer, pas parce qu’il rassemble.  
-Les groupes parlementaires se défont : macronistes, Insoumis, communistes, RN, LR — aucun bloc homogène. Le sujet traverse, déstabilise, déplace.  
+Les groupes parlementaires se défont : macronistes, Insoumis, communistes, RN, LR — aucun bloc homogène.  
+Le sujet traverse, déstabilise, déplace.  
 Il ne fédère pas : il fracture.
 
 Et cette fracture peut encore s’élargir. Malgré tout, le texte final peut encore diviser davantage l’Assemblée nationale.  
