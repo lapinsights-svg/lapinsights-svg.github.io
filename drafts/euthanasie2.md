@@ -12,7 +12,10 @@ tags:
   - etique
 categories:
   - idees
+og_image: /images/idees/eutha2.png
 ---
+
+![eutha2](/images/idees/eutha2.png)
 
 # Fin de vie : le point de rupture
 
@@ -51,7 +54,10 @@ Les amendements sont effacés.
 
 Et malgré tout, le gouvernement impose la version la plus permissive.
 
-La démocratie représentative n’est pas censée fonctionner comme cela. Un texte aussi grave devrait être stabilisé par les deux chambres, construit avec les soignants, encadré par des garde‑fous solides, ajusté selon les alertes du terrain. Ici, rien de tout cela n’a eu lieu. Le passage en force devient un mode de gouvernement. La verticalité remplace la délibération. La procédure écrase le débat. La mécanique institutionnelle sert de couloir d’exécution.
+La démocratie représentative n’est pas censée fonctionner comme cela. Un texte aussi grave devrait être stabilisé par les deux chambres, construit avec les soignants, encadré par des garde‑fous solides, ajusté selon les alertes du terrain. Ici, rien de tout cela n’a eu lieu. Le passage en force devient un mode de gouvernement.  
+La verticalité remplace la délibération.  
+La procédure écrase le débat.  
+La mécanique institutionnelle sert de couloir d’exécution.
 
 Ce glissement n’est pas un détail. C’est une fissure démocratique.
 
@@ -74,7 +80,13 @@ Chaque garde‑fou supprimé par le Sénat a été réintroduit. Chaque restrict
 
 ## La décohérence du droit
 
-Dans *Euthanasie1*, l’analyse du Dr Amine Umlil rappelle deux piliers du droit français : l’indisponibilité du corps humain et l’interdiction de tuer. Le projet de loi contourne ces deux piliers. Il crée un espace où un acte létal devient légal, administré, encadré. Le Dr Umlil parle d’un homicide légal, ce qui n’est pas une formule choc : c’est une description juridique. Le texte ne concerne pas seulement des cas individuels. Il modifie la fonction même de la médecine. Il redéfinit la mort dans le droit. Il introduit une exception létale dans un système fondé sur l’interdit de tuer. Il crée une tension interne : un droit qui autorise ce que le droit pénal interdit. Une incohérence structurelle.
+Dans *Euthanasie1*, l’analyse du Dr Amine Umlil rappelle deux piliers du droit français : l’indisponibilité du corps humain et l’interdiction de tuer.  
+Voir ce texte [Euthanasie1](https://lapinsights-svg.github.io/idees/euthanasie1/)  
+
+Le projet de loi contourne ces deux piliers. Il crée un espace où un acte létal devient légal, administré, encadré.  
+Le Dr Umlil parle d’un homicide légal, ce qui n’est pas une formule choc : c’est une description juridique. Le texte ne concerne pas seulement des cas individuels.  
+Il modifie la fonction même de la médecine. Il redéfinit la mort dans le droit. Il introduit une exception létale dans un système fondé sur l’interdit de tuer.  
+Il crée une tension interne : un droit qui autorise ce que le droit pénal interdit. Une incohérence structurelle.
 
 L’analyse souligne aussi un autre point : la pression institutionnelle. Les établissements confessionnels sont déjà sommés de ne pas opposer une clause de conscience institutionnelle. Le texte n’est pas encore appliqué, et les marges commencent déjà à céder. Ce n’est pas un cadre strict : c’est un cadre qui se fissure avant même d’exister.
 
