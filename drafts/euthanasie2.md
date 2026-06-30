@@ -20,7 +20,7 @@ og_image: /images/idees/eutha2.png
 # Fin de vie : le point de rupture
 
 Certains votes ne stabilisent rien : ils déplacent les plaques.  
-Celui de l’Assemblée nationale sur l’aide à mourir appartient à cette catégorie.   
+Celui de l’Assemblée nationale sur l’aide à mourir appartient à cette catégorie.  
 Non pas un simple passage législatif, mais un glissement du socle.  
 Une ligne qui tenait depuis des siècles et qui, soudain, se fissure.  
 Le texte avance, mais il n’unit pas. Il divise, il creuse, il ouvre.  
@@ -35,7 +35,7 @@ Le sujet traverse, déstabilise, déplace.
 Il ne fédère pas : il fracture.
 
 Et cette fracture peut encore s’élargir. Malgré tout, le texte final peut encore diviser davantage l’Assemblée nationale.  
-Si la dernière lecture rétablit la version initiale - la plus large, la plus contestée, la plus problématique -  
+Si la dernière lecture rétablit la version initiale — la plus large, la plus contestée, la plus problématique —  
 elle peut provoquer des bascules, des abstentions, des ruptures internes.  
 L’écart faible entre les “oui” et les “non” n’est pas un détail : c’est un terrain instable.  
 Un texte qui perd des voix n’est jamais un texte stable. Il avance par inertie institutionnelle, pas par adhésion.  
@@ -50,8 +50,6 @@ Non pas un refus idéologique, mais un refus professionnel : le texte ne corresp
 Il s’est construit contre eux, sans eux, malgré eux.
 
 Les critères d’éligibilité, présentés comme “stricts”, ouvrent en réalité un champ large.  
-Le pronostic vital “engagé à court ou moyen terme”, annoncé par l’exécutif, a disparu.  
-Les personnes sous tutelle deviennent éligibles.  
 La frontière entre autonomie et vulnérabilité se déplace.  
 Le cadre médical, censé protéger, se relâche.
 
@@ -61,7 +59,8 @@ Le choix n’est pas libre si les alternatives ne sont pas disponibles.
 Le texte introduit un droit nouveau dans un système qui n’a pas les ressources pour garantir les droits existants.
 
 Derrière cette tension, une colère froide : une majorité politique impose un acte létal dans un système médical déjà épuisé.  
-Une majorité qui dérive. Une majorité qui force. Une majorité qui fait disparaître les garde‑fous.  
+Une majorité qui dérive. Une majorité qui force.  
+Une majorité qui fait disparaître les garde‑fous.  
 Une majorité qui place les soignants dans une position impossible.  
 Le risque de désertion n’est pas une hypothèse extrême : c’est une réaction logique à une loi qui transforme le soin en espace de mise à mort.
 
@@ -83,7 +82,8 @@ Les amendements sont effacés.
 Et malgré tout, le gouvernement impose la version la plus permissive.
 
 La démocratie représentative n’est pas censée fonctionner comme cela.  
-Un texte aussi grave devrait être stabilisé par les deux chambres, construit avec les soignants, encadré par des garde‑fous solides, ajusté selon les alertes du terrain.  
+Un texte aussi grave devrait être stabilisé par les deux chambres, construit avec les soignants,  
+encadré par des garde‑fous solides, ajusté selon les alertes du terrain.  
 Ici, rien de tout cela n’a eu lieu. Le passage en force devient un mode de gouvernement.  
 La verticalité remplace la délibération.  
 La procédure écrase le débat.  
@@ -95,7 +95,8 @@ Ce glissement n’est pas un détail. C’est une fissure démocratique.
 
 ## Ce que le Sénat avait rejeté... et qui a été réintroduit
 
-Le Sénat avait supprimé ou restreint plusieurs points jugés dangereux. Tous ont été réintroduits par l’Assemblée ou le gouvernement :
+Le Sénat avait supprimé ou restreint plusieurs points jugés dangereux.  
+Tous ont été réintroduits par l’Assemblée ou le gouvernement :
 
 - Suppression du pronostic vital court ou moyen terme.  
 - Éligibilité des personnes sous tutelle.  
@@ -104,11 +105,8 @@ Le Sénat avait supprimé ou restreint plusieurs points jugés dangereux. Tous o
 - Assouplissement du double avis médical.  
 - Réouverture du champ des cas potentiels.
 
-Chaque garde‑fou supprimé par le Sénat a été réintroduit.  
-Chaque restriction a été effacée.  
-Chaque protection a été démantelée.  
-Ce n’est pas un compromis.  
-C’est un retour à la version la plus large.
+Ce bloc rétabli forme la version la plus large du texte, celle que le Sénat avait précisément tenté d’encadrer.  
+Aucun compromis n’a été retenu : les protections ont été retirées, les limites ont été rouvertes, et le cadre final reprend intégralement ce que la chambre haute avait écarté.
 
 ---
 
