@@ -93,7 +93,7 @@ Ce glissement n’est pas un détail. C’est une fissure démocratique.
 
 ---
 
-## Ce que le Sénat avait rejeté — et qui a été réintroduit
+## Ce que le Sénat avait rejeté... et qui a été réintroduit
 
 Le Sénat avait supprimé ou restreint plusieurs points jugés dangereux. Tous ont été réintroduits par l’Assemblée ou le gouvernement :
 
@@ -104,8 +104,11 @@ Le Sénat avait supprimé ou restreint plusieurs points jugés dangereux. Tous o
 - Assouplissement du double avis médical.  
 - Réouverture du champ des cas potentiels.
 
-Chaque garde‑fou supprimé par le Sénat a été réintroduit. Chaque restriction a été effacée.  
-Chaque protection a été démantelée. Ce n’est pas un compromis. C’est un retour à la version la plus large.
+Chaque garde‑fou supprimé par le Sénat a été réintroduit.  
+Chaque restriction a été effacée.  
+Chaque protection a été démantelée.  
+Ce n’est pas un compromis.  
+C’est un retour à la version la plus large.
 
 ---
 
@@ -141,7 +144,7 @@ Le Sénat ne dit pas non à l’idée d’accompagner la fin de vie. Il dit non 
 
 ## Conclusion
 
-Ce texte n’est pas un progrès. Ce n’est pas un recul. C’est un changement de nature.  
+Ce texte n’est pas un progrès. C’est un changement de nature.  
 Un changement de civilisation.  
 Et l’irréversible, une fois inscrit dans le droit, ne se corrige plus.
 
