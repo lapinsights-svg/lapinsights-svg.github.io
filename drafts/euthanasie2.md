@@ -1,6 +1,6 @@
 ---
 title: "Fin de vie : le point de rupture"
-resume: "Analyse de la dérive démocratique, de la disparition des garde-fous, de la fracture institutionnelle et du risque de désertion des soignants dans la loi sur l’aide à mourir."
+resume: "Analyse de la dérive générale dans la loi sur l’aide à mourir."
 tags:
   - fin_de_vie
   - democratie
