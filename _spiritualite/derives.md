@@ -171,7 +171,7 @@ Elle ne cherche pas à fuir : elle cherche à **comprendre**.
 Elle ne cherche pas à briller : elle cherche à **être juste**.<br><br>
 
 Elle ne promet rien.  
-Elle clarifie.
+Elle clarifie.  
 Une spiritualité adulte ne rassure pas : elle rend lucide.  
 
 Céleste R.
