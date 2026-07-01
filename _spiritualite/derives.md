@@ -78,7 +78,7 @@ Il devient problématique lorsqu’il se rigidifie :
 
 - lorsqu’il se croit permanent,  
 - lorsqu’il interprète toute atteinte, toute émotion ou toute remise en question comme une menace pour son existence.
-- lorsqu’il exige d’être central.
+- lorsqu’il exige d’être central.<br><br>
 
 Le moi n’est pas l’ennemi.  
 Ce qui enferme, ce n’est pas son existence, mais son absolutisation.  
@@ -98,7 +98,7 @@ La confusion naît lorsque :
 
 - on prend la trace pour l’essence,  
 - le passé pour l’identité,  
-- la mémoire pour la vérité.
+- la mémoire pour la vérité.<br><br>
 
 L’histoire est un matériau à travailler, pas une prison à subir.  
 Elle peut être transformée, revisitée, réinterprétée.
@@ -111,7 +111,7 @@ Le problème apparaît lorsque ce devenir devient :
 
 - une obligation morale,  
 - une dette envers un idéal,  
-- une course sans fin vers une version imaginaire de soi.
+- une course sans fin vers une version imaginaire de soi.<br><br>
 
 Le devenir est un **mouvement**, pas un impératif.  
 Il n’a pas à être sacralisé ni rejeté.  
@@ -128,14 +128,14 @@ L’éveil, dans sa forme la plus sobre, c’est :
 
 - la fin de la rigidité identitaire : comprendre que notre identité n’est pas une essence fixe, mais une forme en mouvement, libère de la nécessité de se défendre, de se justifier ou de se conformer à une image figée de soi.  
 
-- la fin de la lutte intérieure contre ce qui est : cesser de se battre mentalement contre ce qui est déjà présent ne signifie pas renoncer à agir, mais arrêter de gaspiller son énergie en résistance intérieure pour pouvoir répondre au réel avec plus de clarté et d’efficacité.
+- la fin de la lutte intérieure contre ce qui est : cesser de se battre mentalement contre ce qui est déjà présent ne signifie pas renoncer à agir, mais arrêter de gaspiller son énergie en résistance intérieure pour pouvoir répondre au réel avec plus de clarté et d’efficacité.<br><br>
 
 
 Mais le mot s’est gonflé. Il est devenu :
 
 - un horizon inaccessible,  
 - un trophée symbolique,  
-- une identité spirituelle.
+- une identité spirituelle.<br><br>
 
 La réalité est plus modeste : l’éveil n’est pas un état, mais une **désadhérence**.  
 Une manière de ne plus se laisser capturer par les automatismes.  
@@ -151,10 +151,10 @@ Pour éviter les dérives, certaines distinctions doivent rester nettes :
 - **l’histoire n’est pas l’identité** : ce que nous avons vécu nous influence, mais ne détermine pas ce que nous sommes ni ce que nous pouvons devenir.  
 - **le moi n’est pas l’ennemi** : le moi est une structure fonctionnelle nécessaire, et ce n’est que son durcissement qui crée de la souffrance.  
 - **la lucidité n’est pas la dissociation** : voir clairement ce qui se passe n’implique pas de s’en détacher ou de s’en couper affectivement.  
-- **la simplicité n’est pas la négation** : clarifier une situation ne revient pas à effacer sa complexité, mais à la rendre intelligible sans la mutiler.
+- **la simplicité n’est pas la négation** : clarifier une situation ne revient pas à effacer sa complexité, mais à la rendre intelligible sans la mutiler.<br><br>
 
 Ces distinctions sont des garde-fous.  
-Elles empêchent la spiritualité de glisser vers la caricature, la fuite ou la déshumanisation.
+Elles empêchent la spiritualité de glisser vers la caricature, la fuite ou la déshumanisation.<br><br>
 
 ## Une spiritualité adulte
 
@@ -164,11 +164,11 @@ Elle consiste à **tenir ensemble** :
 - la pensée et la présence,  
 - l’émotion et la lucidité,  
 - le moi et la liberté,  
-- l’histoire et le mouvement.
+- l’histoire et le mouvement.<br><br>
 
 Une spiritualité adulte ne cherche pas à s’élever : elle cherche à **voir**.  
 Elle ne cherche pas à fuir : elle cherche à **comprendre**.  
-Elle ne cherche pas à briller : elle cherche à **être juste**.
+Elle ne cherche pas à briller : elle cherche à **être juste**.<br><br>
 
 Elle ne promet rien.  
 Elle clarifie.
