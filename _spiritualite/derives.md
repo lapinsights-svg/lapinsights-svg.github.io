@@ -47,7 +47,7 @@ Le problème surgit lorsque :
 - on attribue à la pensée soit un statut absolu, soit un statut nul.<br><br>
 
 
-La pensée n’est pas fausse : elle est partielle.  
+ La pensée éclaire, mais ne suffit jamais.    
 Elle éclaire l’expérience, mais ne peut pas s’y substituer.  
 L’expérience directe n’est pas l’absence de pensée, mais la capacité à ne plus confondre la pensée avec le réel dans son ensemble:  
 à reconnaître qu’elle en fait partie sans en être la totalité.
@@ -172,5 +172,6 @@ Elle ne cherche pas à briller : elle cherche à **être juste**.<br><br>
 
 Elle ne promet rien.  
 Elle clarifie.
+Une spiritualité adulte ne rassure pas : elle rend lucide.  
 
 Céleste R.
