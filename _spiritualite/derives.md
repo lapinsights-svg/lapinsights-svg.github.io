@@ -20,7 +20,7 @@ og_image: /images/spiritualite/derives.png
 
 ![derives](/images/spiritualite/derives.png)
 
-Au cœur de nombreux discours spirituels, une zone trouble apparaît : un espace où la lucidité se dissout dans des formules séduisantes, où la sagesse se rigidifie en posture, où la profondeur se confond avec une fuite hors du réel.  
+Au cœur de nombreux discours spirituels, une zone trouble apparaît : un espace où la lucidité se dissout dans des formules séduisantes, où la sagesse se rigidifie en posture, où la profondeur se confond avec une fuite hors du réel.<br><br>
 Ce trouble n’est pas un accident. Il naît lorsque :
 
 - des intuitions fines deviennent des certitudes indiscutables,  
@@ -38,7 +38,8 @@ Pour retrouver de la clarté, il faut revenir à la matière même de l’expér
 
 La pensée est souvent diabolisée dans certains milieux spirituels, comme si elle empêchait l’accès à une présence plus pure. C’est une erreur de perspective.
 
-La pensée est un **outil d’organisation du réel**. Elle produit des hypothèses, des liens, des modèles. Elle n’est pas la réalité, mais une manière de la cartographier.  
+La pensée est un **outil d’organisation du réel**. Elle produit des hypothèses, des liens, des modèles. Elle n’est pas la réalité, mais une manière de la cartographier.<br><br> 
+
 Le problème surgit lorsque :
 
 - on confond une formulation avec un fait,  
