@@ -25,7 +25,7 @@ Ce trouble n’est pas un accident. Il naît lorsque :
 
 - des intuitions fines deviennent des certitudes indiscutables,  
 - des observations nuancées se transforment en slogans,  
-- l’humain concret est sacrifié au profit d’un idéal abstrait.
+- l’humain concret est sacrifié au profit d’un idéal abstrait.<br><br>
 
 Toutes ces dérives ont une racine commune : la confusion entre les niveaux.  
 Confondre une pensée avec un fait, une émotion avec une vérité, une histoire avec une identité, un moi avec une essence.  
