@@ -1,7 +1,7 @@
 ---
 title: "Les dérives du spirituel et la clarté qui reste"
 resume: "Une critique des dérives spirituelles qui réaffirme la valeur humaine de la pensée, de l’émotion et du moi."
-date: 2026-06-04
+date: 2026-07-01
 categories: spiritualite
 layout: article
 tags:
