@@ -64,7 +64,7 @@ Elle n’est pas une preuve, mais une information.
 Confondre émotion et vérité mène à deux dérives :
 
 - croire que ce que je ressens est forcément juste,  
-- croire que ce que je ressens est forcément faux.
+- croire que ce que je ressens est forcément faux.<br><br>
 
 L’émotion **oriente**, mais ne **conclut** pas.  
 Elle ouvre une piste, mais ne dit jamais tout.
