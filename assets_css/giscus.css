@@ -12,7 +12,7 @@
   --color-canvas-subtle: rgba(0, 0, 0, 0.22); /* fond plus sombre = texte plus lisible */
   --color-border-default: rgba(255, 255, 255, 0.35); /* bordure douce et visible */
 
-  /* TEXTE */
+  /* TEXTE — version initiale */
   --color-fg-default: #ffffff; /* texte tapé */
   --color-fg-muted: #f5f5ff;   /* placeholder plus clair */
 
