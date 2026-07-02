@@ -3,18 +3,17 @@
    Ambiance : bleu doux, minéral, brume, accents ocre
    ———————————————————————————————— */
 :root {
-  color-scheme: dark;
 
   /* FOND DU BLOC COMMENTAIRE */
- --color-canvas-default: #f5f1e9;
+  --color-canvas-default: #f5f1e9;
 
   /* ZONE DE SAISIE — lisibilité améliorée */
-  --color-canvas-subtle: rgba(0, 0, 0, 0.22); /* fond plus sombre = texte plus lisible */
-  --color-border-default: rgba(255, 255, 255, 0.35); /* bordure douce et visible */
+  --color-canvas-subtle: rgba(0, 0, 0, 0.22);
+  --color-border-default: rgba(255, 255, 255, 0.35);
 
   /* TEXTE */
---color-fg-default: #000000; /* texte tapé */
---color-fg-muted: #333333;   /* placeholder */
+  --color-fg-default: #000000; /* texte tapé */
+  --color-fg-muted: #333333;   /* placeholder */
 
   /* BOUTON PRINCIPAL (Commenter) */
   --color-btn-primary-bg: #e8a266;
@@ -29,5 +28,3 @@
   /* RÉACTIONS */
   --color-neutral-muted: rgba(255, 255, 255, 0.25);
 }
-
-
