@@ -13,8 +13,8 @@
   --color-border-default: rgba(255, 255, 255, 0.35); /* bordure douce et visible */
 
   /* TEXTE */
-  --color-fg-default: #ffffff; /* texte tapé */
-  --color-fg-muted: #f5f5ff;   /* placeholder plus clair */
+--color-fg-default: #000000; /* texte tapé */
+--color-fg-muted: #333333;   /* placeholder */
 
   /* BOUTON PRINCIPAL (Commenter) */
   --color-btn-primary-bg: #e8a266;
