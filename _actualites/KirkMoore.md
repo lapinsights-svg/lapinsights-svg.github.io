@@ -1,6 +1,6 @@
 ---
 title: "Kirk Moore, ce héros chanceux"
-date: 2026-06-27
+date: 2026-07-02
 layout: article
 categories: idees
 resume: "Mémoire, justice fragile, résistance comme acte vital."
@@ -70,3 +70,6 @@ Parce que dans ces périodes-là, résister est un acte héroïque.
 - Article : [États-Unis : un chirurgien esthétique antivax blanchi en plein procès (20 Minutes)](https://www.20min.ch/fr/story/etats-unis-un-chirurgien-esthetique-antivax-blanchi-en-plein-proces-103381313)
 
 - Vidéo : [Réel Facebook – Interview du Dr Moore](https://www.facebook.com/reel/1694942561827336)
+
+---
+Céleste R.
