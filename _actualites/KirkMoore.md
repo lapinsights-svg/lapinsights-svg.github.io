@@ -14,6 +14,8 @@ og_image: /images/idees/KirkMoore.jpg
 
 # Kirk Moore, ce héros chanceux
 
+"États-Unis : un chirurgien esthétique antivax blanchi en plein procès"  
+
 
 Il reste encore une trace aujourd'hui.  
 La trace de ceux qu’on a désignés, isolés, punis.  
