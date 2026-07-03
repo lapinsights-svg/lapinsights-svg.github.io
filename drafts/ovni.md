@@ -13,7 +13,9 @@ date: "2026-07-03"
 resume: "Hollywood détourne l’attention en recyclant le doute via les OVNIS."
 layout: article
 "lien_film": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000001453.html"
+og_image: /images/idees/ovni.png
 ---
+![ovni](/images/idees/ovni.png)
 
 # OVNIS : le récit qui détourne depuis toujours
 
