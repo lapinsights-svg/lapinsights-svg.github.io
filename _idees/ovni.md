@@ -21,8 +21,8 @@ og_image: /images/idees/ovni.png
 
 Hollywood n’a jamais été un simple atelier de fiction.  
 Dès son origine, il fonctionne comme **dispositif de diversion**, un outil conçu pour occuper l’attention collective pendant que le réel se déplace ailleurs.  
-Les studios collaborent depuis longtemps avec les structures de défense américaines  
-- CIA, Pentagone, services de renseignement — non pour imposer une vérité, mais pour façonner un climat.  
+Les studios collaborent depuis longtemps avec les structures de défense américaines  - CIA, Pentagone, services de renseignement —  
+non pour imposer une vérité, mais pour façonner un climat.  
 
 
 Les OVNIS y jouent un rôle précis : ils ne visent pas à convaincre que "quelque chose existe", mais à installer une disponibilité mentale.  
@@ -34,9 +34,8 @@ Il crée un espace où l’esprit flotte, où l’imaginaire tourne en boucle, o
 Les OVNIS sont parfaits pour cela : spectaculaires, ambigus, impossibles à vérifier.  
 Ils saturent le champ mental sans jamais engager la responsabilité du réel.
 
-Les travaux documentés sur l’influence des agences américaines dans les productions hollywoodiennes  
-— relecture de scénarios, contrôle de l’image, prêt de matériel militaire en échange de modifications —  
-montrent une mécanique stable : ces institutions ne cherchent pas à fabriquer des croyants, mais à maintenir le public dans un état de doute confortable.  
+Les travaux documentés sur l’influence des agences américaines dans les productions hollywoodiennes  — relecture de scénarios, contrôle de l’image, prêt de matériel militaire en échange de modifications — montrent une mécanique stable :  
+ces institutions ne cherchent pas à fabriquer des croyants, mais à maintenir le public dans un état de doute confortable.  
 Un public qui ne tranche plus.  
 Un public qui détourne son regard.  
 Un public qui accepte que "peut‑être" devienne une vérité provisoire.
@@ -72,8 +71,7 @@ Le public veut des récits qui anesthésient.
 
 Les OVNIS sont le point de rencontre parfait.
 
-Dans *Disclosure Day*, Spielberg rejoue ses propres codes — émerveillement, silhouettes lumineuses, motifs familiers —  
-mais il les place dans un monde qui ne croit plus aux récits. Le film ne cherche pas à révéler, mais à réinstaller la possibilité.  
+Dans *Disclosure Day*, Spielberg rejoue ses propres codes — émerveillement, silhouettes lumineuses, motifs familiers — mais il les place dans un monde qui ne croit plus aux récits. Le film ne cherche pas à révéler, mais à réinstaller la possibilité.  
 Il met en scène la perte de crédibilité du cinéma lui-même, et la manière dont Hollywood tente de reconquérir le terrain du doute.  
 
 Le vrai enjeu n’est pas la croyance extraterrestre.  
