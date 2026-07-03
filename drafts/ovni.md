@@ -12,7 +12,7 @@ date: "2026-07-03"
   - "dubitationnisme"
 resume: "Hollywood détourne l’attention en recyclant le doute via les OVNIS."
 layout: article
-"lien_film": "https://www.allocine.fr/article/fichearticle_gen_carticle=1000041234.html"
+"lien_film": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000001453.html"
 ---
 
 # OVNIS : le récit qui détourne depuis toujours
