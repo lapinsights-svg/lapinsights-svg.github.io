@@ -71,7 +71,8 @@ Le public veut des récits qui anesthésient.
 
 Les OVNIS sont le point de rencontre parfait.
 
-Dans *Disclosure Day*, Spielberg rejoue ses propres codes — émerveillement, silhouettes lumineuses, motifs familiers — mais il les place dans un monde qui ne croit plus aux récits. Le film ne cherche pas à révéler, mais à réinstaller la possibilité.  
+Dans *Disclosure Day*, Spielberg rejoue ses propres codes — émerveillement, silhouettes lumineuses, motifs familiers — mais il les place dans un monde qui ne croit plus aux récits.  
+Le film ne cherche pas à révéler, mais à réinstaller la possibilité.  
 Il met en scène la perte de crédibilité du cinéma lui-même, et la manière dont Hollywood tente de reconquérir le terrain du doute.  
 
 Le vrai enjeu n’est pas la croyance extraterrestre.  
