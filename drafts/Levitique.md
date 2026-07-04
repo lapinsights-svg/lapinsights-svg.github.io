@@ -3,7 +3,7 @@ categories: idees
 date: 2026-07-04
 title: "La structure intérieure de la Bible"
 episode: "Lévitique : la forme de la polarité"
-resume: "Lévitique n’est pas un code moral mais la structuration de la polarité retrouvée dans l’Exode. Le texte lui-même le montre : après la dispersion des langues (Babel) et la langue retrouvée (Exode), Lévitique donne la forme stable de cette circulation."
+resume: "Lévitique n’est pas un code moral mais la structuration de la polarité retrouvée dans l’Exode."
 layout: article
 ---
 
