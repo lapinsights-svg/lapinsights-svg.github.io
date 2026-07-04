@@ -69,8 +69,8 @@ Elle transforme le citoyen en suspect.
 Elle transforme le désaccord en danger.  
 
 Et dans ce paysage, un constat revient, froid, administratif, presque clinique :  
-** Ce n’est pas la crise qui crée la menace.  
-C’est la menace qui permet de ne pas répondre à la crise. **
+**Ce n’est pas la crise qui crée la menace.  
+C’est la menace qui permet de ne pas répondre à la crise.**
 
 ---
 Céleste R.
