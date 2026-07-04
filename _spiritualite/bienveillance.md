@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi cette soi‑disiante « conscience bienveillante » n’a rien de bienveillant"
+title: "Pourquoi cette soi‑disante « conscience bienveillante » n’a rien de bienveillant"
 date: 2026-06-13
 layout: article
 resume: "Une critique de la pseudo-bienveillance spirituelle qui dissocie au lieu d’éclairer."
