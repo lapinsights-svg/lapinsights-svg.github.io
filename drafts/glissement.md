@@ -64,3 +64,6 @@ Elle transforme le désaccord en danger.
 Et dans ce paysage, une phrase revient, froide, administrative, presque clinique :  
 **« Ce n’est pas la crise qui crée la menace.  
 C’est la menace qui permet de ne pas répondre à la crise. »**
+
+---
+Céleste R.
