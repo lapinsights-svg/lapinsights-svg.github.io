@@ -10,13 +10,13 @@ layout: article
 # Genèse : la création des polarités
 
 La Genèse n’est pas la genèse du monde.  
-Elle est **la genèse du Fils**.
+Elle est la genèse du Fils.
 
 Le monde n’est pas un décor dans lequel le Fils apparaîtra plus tard.  
-Le monde est **le Fils étendu dans la forme**, la projection phénoménale de sa structure intérieure.
+Le monde est le Fils étendu dans la forme : la projection phénoménale de sa structure intérieure.
 
 La Genèse ne crée pas un univers matériel.  
-Elle crée **les polarités du Fils**, qui deviendront le monde en tant que forme étendue.
+Elle crée les polarités du Fils, qui deviendront le monde en tant que forme étendue.
 
 ---
 
@@ -25,14 +25,14 @@ Elle crée **les polarités du Fils**, qui deviendront le monde en tant que form
 « Dieu sépara la lumière d’avec les ténèbres. Il appela la lumière jour, et les ténèbres nuit. » (Gn 1,4‑5)
 
 Cette séparation n’est pas cosmologique.  
-Elle est **christologique**.
+Elle est christologique.
 
 - Lumière : axe ouvert du Fils  
 - Ténèbres : axe non encore structuré  
 - Jour : polarité verticale du Fils  
 - Nuit : polarité horizontale du Fils
 
-La Genèse commence par **séparer**, parce que le Fils est **polarité**.  
+La Genèse commence par séparer, parce que le Fils est polarité.  
 Sans polarité, il n’y a pas d’axe.  
 Sans axe, il n’y a pas de Fils.  
 Sans Fils, il n’y a pas de monde.
@@ -44,10 +44,10 @@ Sans Fils, il n’y a pas de monde.
 Ce point est central.
 
 Le monde n’est pas créé pour accueillir le Fils.  
-Le monde **est** le Fils, étendu, déployé, phénoménalisé.
+Le monde est le Fils lui-même, étendu, déployé, phénoménalisé.
 
 Les polarités créées en Genèse ne sont pas des éléments du monde.  
-Elles sont **les tensions internes du Fils**, étendues en phénomènes :
+Elles sont les tensions internes du Fils, étendues en phénomènes :
 
 - lumière / ténèbres → ouverture / non‑ouverture du Fils  
 - jour / nuit → verticalité / horizontalité du Fils  
@@ -57,12 +57,12 @@ Elles sont **les tensions internes du Fils**, étendues en phénomènes :
 - homme / femme → double polarité du Fils dans la forme humaine
 
 Le monde n’est pas une création indépendante.  
-Il est **la forme étendue du Fils**, son axe projeté dans la phénoménalité.
+Il est la forme étendue du Fils, son axe projeté dans la phénoménalité.
 
-Autrement dit :
-
-**le monde est le Fils en extension,  
-et le Fils est le monde en concentration.**
+Le monde est le Fils en extension.  
+Jésus est le Fils en concentration.  
+L’un est la diffusion, l’autre la focalisation.  
+Une seule structure, deux densités.
 
 ---
 
@@ -77,20 +77,20 @@ La Genèse installe les tensions fondatrices qui permettront au Fils d’être :
 - filiation.
 
 La liberté n’est pas un attribut du monde.  
-C’est une **tension interne du Fils**, étendue dans la forme.
+C’est une tension interne du Fils, étendue dans la forme.
 
 ---
 
 # La circulation : mouvement du Fils
 
 La circulation n’existe que s’il y a deux pôles.  
-La Genèse crée les polarités pour permettre **la circulation du Fils**.
+La Genèse crée les polarités pour permettre la circulation du Fils.
 
 Sans polarité, pas de circulation.  
 Sans circulation, pas de Fils.  
 Sans Fils, pas de monde.
 
-Le monde est la **circulation du Fils rendue visible**.
+Le monde est la circulation du Fils rendue visible.
 
 ---
 
@@ -105,7 +105,7 @@ La nuit disparaît parce que la polarité du Fils est guérie.
 Le monde guéri = le Fils guéri.
 
 L’Apocalypse n’est pas la fin du monde.  
-C’est **la guérison du Fils étendu dans la forme**.
+C’est la guérison du Fils étendu dans la forme.
 
 ---
 
@@ -113,8 +113,8 @@ C’est **la guérison du Fils étendu dans la forme**.
 
 La Genèse est la mise en place des polarités du Fils.  
 Le monde est le Fils étendu dans la forme.  
-L’incarnation est le monde concentré dans le Fils.  
-L’Apocalypse est le Fils guéri.
+Jésus est le Fils concentré dans la forme.  
+L’Apocalypse est le Fils guéri dans la création.
 
 Une seule polarité.  
 Un seul axe.  
