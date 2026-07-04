@@ -22,7 +22,7 @@ Il y a des pays où la contestation respire.
 En France, elle s’étouffe.
 
 Depuis dix ans, un glissement s’est imposé, sans bruit, sans aveu. Les outils conçus pour répondre à des organisations terroristes (responsables d’attentats meurtriers, de violences extrêmes, de violations massives des droits humains) ont été déplacés vers la vie ordinaire.  
-Le gouvernement n’a pas seulement renforcé la sécurité : il a redéfini ce qu’il nomme une menace.  
+Le gouvernement n’a pas seulement renforcé la sécurité, il a aussi redéfini ce qu’il nomme une menace.  
 Et surtout, il a **utilisé et instrumentalisé les attentats de 2015** pour installer ce qui allait suivre.
 
 Le point de rupture est clair.  
