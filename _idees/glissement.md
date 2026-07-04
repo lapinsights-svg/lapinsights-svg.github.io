@@ -16,7 +16,7 @@ og_image: /images/idees/glissement.png
 
 ![glissement](/images/idees/glissement.png)
 
-# « La menace comme refuge »
+# La menace comme refuge
 
 Il y a des pays où la contestation respire.  
 En France, elle s’étouffe.
