@@ -1,0 +1,41 @@
+name: Convert PNG/JPG to WebP
+
+on:
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install WebP tools
+        run: sudo apt-get update && sudo apt-get install -y webp
+
+      - name: Convert PNG to WebP
+        run: |
+          find images -type f -name "*.png" -exec sh -c '
+            for f; do
+              cwebp "$f" -o "${f%.png}.webp"
+            done
+          ' sh {} +
+
+      - name: Convert JPG to WebP
+        run: |
+          find images -type f \( -name "*.jpg" -o -name "*.jpeg" \) -exec sh -c '
+            for f; do
+              cwebp "$f" -o "${f%.jpg}.webp"
+            done
+          ' sh {} +
+
+      - name: Commit WebP files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add images
+          git commit -m "Converted PNG/JPG to WebP" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push
