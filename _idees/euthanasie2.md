@@ -1,5 +1,5 @@
 ---
-title: "Fin de vie : le point de rupture"
+title: "Fin de vie, le point de rupture"
 resume: "Analyse de la dérive générale dans la loi sur l’aide à mourir."
 tags:
   - fin_de_vie
