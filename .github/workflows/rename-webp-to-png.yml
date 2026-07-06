@@ -1,0 +1,30 @@
+name: Rename WebP to PNG
+
+on:
+  workflow_dispatch:
+
+jobs:
+  rename:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Rename .webp to .png
+        run: |
+          find images -type f -name "*.webp" -exec bash -c '
+            for f; do
+              mv "$f" "${f%.webp}.png"
+            done
+          ' bash {} +
+
+      - name: Commit renamed files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add images
+          git commit -m "Renamed WebP files to PNG extension" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push
