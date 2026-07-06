@@ -1,0 +1,26 @@
+name: Delete PNG and JPG images
+
+on:
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Delete PNG/JPG
+        run: |
+          find images -type f \( -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" \) -delete
+
+      - name: Commit deletions
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add images
+          git commit -m "Deleted PNG/JPG images" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push
