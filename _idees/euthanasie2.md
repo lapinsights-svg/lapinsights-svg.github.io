@@ -35,7 +35,7 @@ Le sujet traverse, déstabilise, déplace.
 Il ne fédère pas : il fracture.
 
 Et cette fracture peut encore s’élargir. Malgré tout, le texte final peut encore diviser davantage l’Assemblée nationale.  
-Si la dernière lecture rétablit la version initiale — la plus large, la plus contestée, la plus problématique —  
+Si la dernière lecture rétablit la version initiale - la plus large, la plus contestée, la plus problématique -  
 elle peut provoquer des bascules, des abstentions, des ruptures internes.  
 L’écart faible entre les “oui” et les “non” n’est pas un détail : c’est un terrain instable.  
 Un texte qui perd des voix n’est jamais un texte stable. Il avance par inertie institutionnelle, pas par adhésion.  
@@ -112,7 +112,7 @@ Aucun compromis n’a été retenu : les protections ont été retirées, les li
 
 ## La décohérence du droit
 
-Dans *Euthanasie1*, l’analyse du Dr Amine Umlil rappelle deux piliers du droit français :  
+Dans un autre article parlant de *l'Euthanasie*, l’analyse du Dr Amine Umlil rappelle deux piliers du droit français :  
 l’indisponibilité du corps humain et l’interdiction de tuer.  
 Voir ce texte : [Euthanasie1](https://lapinsights-svg.github.io/idees/euthanasie1/)
 
