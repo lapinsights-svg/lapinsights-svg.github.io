@@ -7,6 +7,7 @@ og_image: /images/creations/nef6.png
 tags:
   - poésie
   - liturgie
+  - communion
   - mystique
   - vivant
 ---
