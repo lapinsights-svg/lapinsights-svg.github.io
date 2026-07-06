@@ -26,7 +26,7 @@ Une ligne qui tenait depuis des siècles et qui, soudain, se fissure.
 Le texte avance, mais il n’unit pas. Il divise, il creuse, il ouvre.  
 Et dans l’ouverture, les ombres se multiplient.
 
-Les chiffres successifs dessinent le mouvement : 305 voix pour en 2025, 299 en 2026, 295 en 2027.  
+Les chiffres successifs dessinent le mouvement : 305 voix POUR en 2025, 299 en 2026, 295 en 2027.  
 Une majorité qui se rétrécit, comme si chaque lecture retirait un morceau de conviction.  
 Ce n’est pas une marche vers un consensus. C’est une marche vers un point de rupture.  
 Le texte passe parce qu’il doit passer, pas parce qu’il rassemble.  
