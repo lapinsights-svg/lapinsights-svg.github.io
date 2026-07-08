@@ -21,10 +21,10 @@ Ce critère élimine le littéral, dissout le moral, et oblige à reconstruire l
 
 ## Pourquoi les autres lectures sont incomplètes
 
-La lecture symbolique est incomplète : elle décode des images, mais ne relie pas la mécanique interne du texte.  
-La lecture psychologique est incomplète : elle interprète des états internes, mais perd la trajectoire structurelle.  
-La lecture historique est incomplète : elle contextualise des faits, mais dissout l’unité dynamique du mouvement.  
-La lecture religieuse est incomplète : elle affirme des vérités figées, mais empêche la structure de se déployer.
+La lecture symbolique décode des images, mais ne relie pas la mécanique interne du texte.  
+La lecture psychologique interprète des états internes, mais perd la trajectoire structurelle.  
+La lecture historique contextualise des faits, mais dissout l’unité dynamique du mouvement.  
+La lecture religieuse affirme des vérités figées, mais empêche la structure de se déployer.
 
 Ces lectures éclairent des fragments, mais jamais la totalité.  
 Elles expliquent des passages, mais jamais le mouvement.  
