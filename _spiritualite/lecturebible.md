@@ -79,7 +79,10 @@ Je relie les motifs.
 Je cherche l’unité interne du texte.
 
 Je ne suis pas dans la réception.  
-Je suis dans la vision.
+Je suis dans la vision.  
+
+
+"On n’allume pas une lampe pour la mettre sous le boisseau, mais sur le chandelier."
 
 ---
 Céleste R.
