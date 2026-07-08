@@ -5,7 +5,11 @@ date: "2026-07-08"
 resume: "La Bible devient structure intérieure, polarité, naissance, densité vivante."
 layout: article
 tags: [Bible, structure, polarité, densité, architecture intérieure, spiritualité, pensée]
+og_image: /images/idees/structurebible.webp
 ---
+
+![structurebible](/images/idees/structurebible.webp)
+
 
 # La Bible n’est pas un récit : c’est une structure
 
