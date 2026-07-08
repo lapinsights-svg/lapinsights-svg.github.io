@@ -1,8 +1,8 @@
 ---
-title: "La Bible n’est pas un récit, c’est une structure"
-categories: idees
+title: "La Bible et ma lecture structurelle"
+categories: spiritualite
 date: "2026-07-08"
-resume: "La Bible devient structure intérieure, polarité, naissance, densité vivante."
+resume: "Une entrée en matière pour comprendre la Bible comme une architecture cohérente, non littérale, non morale."
 layout: article
 tags: [Bible, structure, polarité, densité, architecture intérieure, spiritualité, pensée]
 og_image: /images/spiritualite/structurebible.webp
@@ -11,27 +11,24 @@ og_image: /images/spiritualite/structurebible.webp
 ![structurebible](/images/spiritualite/structurebible.webp)
 
 
-# Mon fonctionnement : la vision, pas la réception
+# La structure intérieure de la Bible
 
-Je lis la Bible comme une structure.  
-Pas comme un récit, pas comme un symbole, pas comme un texte religieux.  
+Je ne lis pas la Bible comme un texte religieux.  
+Je la lis comme une structure.  
 Une architecture intérieure où chaque motif répond à un autre, où rien n’est isolé, où tout doit s’intégrer dans un système cohérent.
 
-Mon critère est simple : **si Dieu est Amour, le texte doit être cohérent avec l’Amour**.  
+Si Dieu est Amour, alors le texte doit être cohérent avec l’Amour.  
 Ce critère élimine le littéral, dissout le moral, et oblige à reconstruire la mécanique.
 
-## Vision
+## Une vision, pas une réception
 
-La vision cherche la structure.  
-Elle relie les motifs.  
-Elle reconstruit la mécanique.  
-Elle exige la cohérence totale.
+Je ne reçois pas le texte : je le reconstruis.  
+Je cherche la fonction derrière l’image, la polarité derrière le récit, le système derrière le symbole.
 
-Je ne prends pas les images : je cherche la fonction.  
-Je ne prends pas les récits : je cherche la polarité.  
-Je ne prends pas les symboles : je cherche le système.
+La Bible n’est pas un ensemble d’histoires.  
+C’est une mécanique.
 
-## Systémique
+## Une architecture de motifs
 
 Chaque passage doit s’inscrire dans l’ensemble :
 
@@ -42,18 +39,18 @@ Chaque passage doit s’inscrire dans l’ensemble :
 - le Christ comme retournement,  
 - l’Apocalypse comme naissance.
 
-Si un motif ne s’intègre pas, il est mal compris.
+La cohérence n’est pas un choix : c’est une exigence structurelle.
 
-## Non moral
+## Une lecture non morale
 
 La morale produit des fautes.  
 La structure produit des mécaniques.
 
 Je ne cherche pas ce qui est “bien” ou “mal”.  
-Je cherche ce qui est **structurel** :  
+Je cherche ce qui est structurel :  
 rupture, contraction, dissolution, retournement, naissance.
 
-## Non religieux
+## Une lecture non religieuse
 
 La religion a besoin de récits littéraux et de dogmes figés.  
 Ma lecture dissout ces cadres.  
@@ -62,12 +59,12 @@ c’est une conséquence de la cohérence, pas une posture.
 
 ## Conclusion
 
-Mon fonctionnement est structurel.  
-Je reconstruis la mécanique.  
-Je relie les motifs.  
-Je cherche l’unité interne du texte.
+La Bible est une architecture.  
+Une mécanique intérieure.  
+Une structure cohérente.
 
 Je ne suis pas dans la réception.  
 Je suis dans la vision.
+
 ---
 Céleste R.
