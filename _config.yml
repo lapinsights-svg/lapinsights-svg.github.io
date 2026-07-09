@@ -12,6 +12,7 @@ excerpt_separator: "<!--NOEXCERPT-->"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Flux RSS incluant toutes les collections
 feed:
