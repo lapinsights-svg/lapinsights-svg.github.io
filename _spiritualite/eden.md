@@ -90,10 +90,10 @@ La lecture structurelle les dissout.
 Tout ce qui vient ensuite en est une variation, une répétition, une mise en abyme.
 
 - Romains 1 répète Éden : polarité non traversée.  
-- Le Déluge répète Éden : dissolution du chaos intérieur.  
-- Jonas répète Éden : trois jours dans la matrice.  
+- Le Déluge répète Éden : dissolution du chaos intérieur.   
 - Le Christ répète Éden : retournement de la polarité.  
 - L’Apocalypse répète Éden : naissance finale.
+
 
 Éden est le premier motif.  
 Tout le reste est une variation du même motif.
