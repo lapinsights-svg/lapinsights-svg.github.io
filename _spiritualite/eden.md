@@ -40,9 +40,12 @@ Il perd la profondeur.
 
 # Éden : l’état, non le lieu
 
-Éden n’est pas un lieu. Éden n’est pas un temps. Éden est un état. Un état intérieur, un état de la polarité, un état de la conscience. C’est l’instant où l’homme refuse sa profondeur ou son axe, l’instant où les deux arbres ne se rejoignent pas, l’instant où la sève montante ne rencontre pas la sève descendante.
+Éden n’est pas un lieu. Éden n’est pas un temps. Éden est un état. Un état intérieur, un état de la polarité, un état de la conscience.  
+C’est l’instant où l’homme refuse sa profondeur ou son axe, l’instant où les deux arbres ne se rejoignent pas, l’instant où la sève montante ne rencontre pas la sève descendante.
 
-Cet état n’appartient pas au passé : il se répète tant que l’homme n’est pas né. La “chute” n’est pas un événement géographique ou historique : c’est une mécanique intérieure. Une rupture de polarité. Une non‑rencontre. Une séparation entre ce qui monte et ce qui descend, entre ce qui cherche l’axe et ce qui cherche la profondeur.
+Cet état n’appartient pas au passé : il se répète tant que l’homme n’est pas né.  
+La “chute” n’est pas un événement géographique ou historique : c’est une mécanique intérieure. Une rupture de polarité. Une non‑rencontre.  
+Une séparation entre ce qui monte et ce qui descend, entre ce qui cherche l’axe et ce qui cherche la profondeur.
 
 La Bible commence par une structure, pas par un décor.  
 Elle commence par une mécanique, pas par un récit.  
@@ -50,7 +53,8 @@ Elle commence par une polarité brisée, pas par une faute morale.
 
 ## La lecture littérale empêche de voir la structure
 
-Je n’ai jamais pu croire que la Genèse racontait un fait. Je n’ai jamais pu croire que Dieu punissait, frappait, maudissait. Mon père et moi avions un seul axe herméneutique : Dieu est Amour. Tout devait se plier à cela. Rien ne devait en dévier.
+Je n’ai jamais pu croire que la Genèse racontait un fait. Je n’ai jamais pu croire que Dieu punissait, frappait, maudissait.  
+Mon père et moi avions un seul axe herméneutique : Dieu est Amour. Tout devait se plier à cela. Rien ne devait en dévier.
 
 Si Dieu est Amour, alors Éden ne peut pas être un lieu perdu.  
 Si Dieu est Amour, alors la chute ne peut pas être une punition.  
