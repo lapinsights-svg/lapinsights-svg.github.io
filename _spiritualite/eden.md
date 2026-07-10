@@ -25,9 +25,9 @@ L’Esprit est le principe premier, le souffle qui structure.
 La conscience n’existe pas encore : elle n’apparaîtra qu’avec Éden.
 
 Si l’Esprit “se meut”, c’est qu’il **cherche un lieu où se déposer**.  
-Un espace capable de le recevoir, un champ où il pourra s’incarner sans se dissoudre.  
-Ce lieu n’est pas encore l’homme :  
-ce lieu sera **Éden**, la première architecture stable de la conscience.
+Un espace capable de le recevoir : non un corps, non un individu, mais un champ structuré.  
+L’Esprit ne cherche pas encore l’homme : il cherche d’abord une architecture stable où il puisse demeurer sans se dissoudre.  
+Ce champ sera Éden : la première forme cohérente de la conscience, le premier espace où l’Esprit peut se déposer.
 
 Éden n’est donc pas un jardin :  
 Éden est **le premier espace où l’Esprit peut s’incarner**.  
