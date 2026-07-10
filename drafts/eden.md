@@ -5,7 +5,10 @@ title: "La structure intérieure de la Bible"
 episode: "Éden : l’état, non le lieu"
 resume: "Éden n’est pas un lieu mais une mécanique intérieure"
 layout: article
+og_image: /images/spiritualite/eden.webp
 ---
+
+![eden](/images/spiritualite/eden.webp)
 
 ## Introduction
 
