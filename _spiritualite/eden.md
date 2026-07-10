@@ -284,7 +284,7 @@ mais puisse y revenir dans l’unité.
 Si Éden est un état, alors :
 
 - la chute est une mécanique,  
-- la douleur est une conséquence,  
+- la souffrance est une conséquence,  
 - la domination est une inversion de polarité,  
 - le sol maudit est une résistance intérieure,  
 - la fuite est une séparation,  
