@@ -10,7 +10,7 @@ og_image: /images/spiritualite/eden.webp
 
 ![eden](/images/spiritualite/eden.webp)
 
-## Introduction  
+## Introduction
 
 L’erreur initiale de la lecture d’Éden est simple : croire que la Bible raconte un jardin, une faute, une expulsion.  
 Cette lecture littérale empêche de voir la structure.  
@@ -96,7 +96,30 @@ Tout ce qui vient ensuite en est une variation, une répétition, une mise en ab
 Éden est le premier motif.  
 Tout le reste est une variation du même motif.
 
+## Le Fils étendu et les deux arbres
+
+Si le Fils est toute la création étendue, alors toute la création porte les deux arbres.  
+Mais elle les porte **passivement**, comme une structure, non comme une fonction.
+
+La pierre porte l’unité et la dualité, mais elle ne traverse rien.  
+L’arbre porte la polarité, mais il ne la reconnaît pas.  
+L’animal porte la circulation, mais il ne l’unit pas.
+
+La création est le **corps du Fils**, mais elle n’est pas réflexive.
+
+L’homme est le point où la création devient consciente d’elle‑même.  
+Il est le lieu où la polarité peut être vue, traversée, unifiée.  
+Il est la **fonction réflexive du Fils**.
+
+Toute la création porte les deux arbres,  
+mais seul l’homme peut les unir.  
+L’homme accomplit pour la création ce qu’elle ne peut accomplir elle‑même.
+
+La création est le corps du Fils ;  
+l’homme en est la conscience.
+
 ## La rupture de polarité comme clé de lecture
+
 
 Dans Éden, le masculin ne rejoint pas le féminin.  
 Mais ces mots ne désignent pas des genres : ils désignent **deux axes intérieurs**.
