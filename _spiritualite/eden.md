@@ -72,7 +72,9 @@ Elle commence par une polarité brisée, pas par une faute morale.
 ## La lecture littérale empêche de voir la structure
 
 Je n’ai jamais pu croire que la Genèse racontait un fait. Je n’ai jamais pu croire que Dieu punissait, frappait, maudissait.  
-Mon père et moi avions un seul axe herméneutique : Dieu est Amour. Tout devait se plier à cela. Rien ne devait en dévier.
+Mon père et moi avions un seul axe herméneutique : Dieu est Amour. Tout devait se plier à cela. Rien ne devait en dévier.  
+Aujourd’hui, je réalise le travail commencé avec mon père.
+
 
 Si Dieu est Amour, alors Éden ne peut pas être un lieu perdu.  
 Si Dieu est Amour, alors la chute ne peut pas être une punition.  
