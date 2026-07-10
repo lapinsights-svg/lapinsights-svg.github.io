@@ -62,6 +62,8 @@ Il perd la profondeur.
 C’est l’instant où l’homme refuse sa profondeur ou son axe, l’instant où les deux arbres ne se rejoignent pas, l’instant où la sève montante ne rencontre pas la sève descendante.
 
 Cet état n’appartient pas au passé : il se répète tant que l’homme n’est pas né.  
+La naissance, c’est le moment où la conscience humaine s’ouvre à l’axe du Verbe.  
+
 La “chute” n’est pas un événement géographique ou historique : c’est une mécanique intérieure. Une rupture de polarité. Une non‑rencontre.  
 Une séparation entre ce qui monte et ce qui descend, entre ce qui cherche l’axe et ce qui cherche la profondeur.
 
