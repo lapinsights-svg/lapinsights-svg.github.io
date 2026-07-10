@@ -1,8 +1,8 @@
 ---
 categories: idees
 date: 2026-07-10
-title: "La structure intérieure de la Bible"
-episode: "Éden : l’état, non le lieu"
+episode: "La structure intérieure de la Bible"
+title: "Éden : l’état, non le lieu"
 resume: "Éden n’est pas un lieu mais une mécanique intérieure"
 layout: article
 og_image: /images/spiritualite/eden.webp
