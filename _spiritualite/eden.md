@@ -25,7 +25,8 @@ Au centre du récit, deux arbres sont posés comme deux axes de la conscience :
   Il représente la profondeur, la montée et la descente, la cohérence intérieure.
 
 La vie intérieure naît lorsque ces deux axes se rencontrent.  
-La rupture naît lorsque ces deux axes **ne se rejoignent plus**.
+La rupture naît lorsque ces deux axes **ne se rejoignent plus**.  
+
 
 La “chute” n’est donc pas une faute morale :  
 c’est **la première rupture de polarité**.  
@@ -105,6 +106,12 @@ Cette rupture produit :
 - le sol maudit (matière intérieure durcie : il devient “maudit” parce que la sève ne circule plus, la profondeur ne nourrit plus la forme),  
 - la fuite (conscience désaxée),  
 - la peur (absence d’unité).
+
+Et c’est ici que l’interdit prend sens :  
+Dieu n’interdit pas l’Arbre de la Connaissance parce qu’il serait mauvais,  
+mais parce que l’homme n’a pas encore assez d’Arbre de Vie en lui pour le supporter.  
+Sans axe, la dualité fracture.  
+L’interdit est une protection ontologique, pas une punition.
 
 Rien n’est moral.  
 Rien n’est punitif.  
