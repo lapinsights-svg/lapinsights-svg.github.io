@@ -10,9 +10,7 @@ og_image: /images/spiritualite/eden.webp
 
 ![eden](/images/spiritualite/eden.webp)
 
-## Introduction
-
-## Introduction
+## Introduction  
 
 L’erreur initiale de la lecture d’Éden est simple : croire que la Bible raconte un jardin, une faute, une expulsion.  
 Cette lecture littérale empêche de voir la structure.  
