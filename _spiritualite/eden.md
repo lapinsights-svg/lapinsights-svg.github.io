@@ -139,9 +139,17 @@ La perception se détache de la profondeur.
 La dualité se rigidifie.  
 La circulation s’arrête.
 
-Le récit dit que “Ève prend” et “Adam mange” parce que la rupture commence toujours dans l’horizontalité :  
-la perception se ferme,  
-puis entraîne l’axe avec elle.
+Le Récit dit que Ève prend, qu’Ève mange, puis qu’Ève donne à Adam — et qu’Adam mange.
+
+Cette séquence n’est pas morale : elle est mécanique.
+
+- **Ève prend** : la perception se ferme.  
+- **Ève mange** : la dualité devient intérieure.  
+- **Ève donne** : la rupture passe de l’horizontal au vertical.  
+- **Adam mange** : l’axe se laisse entraîner par la perception.
+
+La rupture commence toujours dans l’horizontalité,  
+mais elle ne devient totale que lorsque la verticalité la suit.
 
 Ce n’est pas une faute du féminin.  
 C’est une **séquence mécanique**.
