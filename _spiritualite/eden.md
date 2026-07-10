@@ -56,7 +56,7 @@ Il perd la profondeur.
 Éden n’est pas un jardin perdu :  
 Éden est **l’état où les deux arbres ne se rencontrent plus**.
 
-# Éden : l’état, non le lieu
+# La chute : Éden comme l’état, non comme lieu
 
 Éden n’est pas un lieu. Éden n’est pas un temps. Éden est un état. Un état intérieur, un état de la polarité, un état de la conscience.  
 C’est l’instant où l’homme refuse sa profondeur ou son axe, l’instant où les deux arbres ne se rejoignent pas, l’instant où la sève montante ne rencontre pas la sève descendante.
