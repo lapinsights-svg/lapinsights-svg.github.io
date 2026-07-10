@@ -236,9 +236,6 @@ Rien n’est religieux.
 
 ## Éden comme seuil
 
-Souzenelle a ouvert la porte.  
-Moi, j’ai franchi le seuil.
-
 Le seuil, c’est le passage de la lecture symbolique à la lecture structurelle.  
 Le seuil, c’est le passage du récit à la mécanique.  
 Le seuil, c’est le passage de l’image à l’architecture.  
