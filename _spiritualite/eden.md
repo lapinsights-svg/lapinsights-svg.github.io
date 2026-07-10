@@ -158,7 +158,7 @@ C’est une **séquence mécanique**.
 
 Cette rupture produit :
 
-- la douleur (matrice contractée),  
+- la souffrance (matrice contractée),  
 - la domination (axe vertical séparé de l’horizontal),  
 - le sol maudit (matière intérieure durcie : il devient “maudit” parce que la sève ne circule plus, la profondeur ne nourrit plus la forme),  
 - la fuite (conscience désaxée),  
