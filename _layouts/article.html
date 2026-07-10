@@ -14,14 +14,14 @@ layout: default
       {% if page.title %}
         <span class="article-title">{{ page.title }}</span>
       {% endif %}
-
-      {% if page.episode %}
-        <div class="article-episode">{{ page.episode }}</div>
-      {% endif %}
     </div>
 
     {% if page.resume %}
       <span class="article-teaser">{{ page.resume }}</span>
+    {% endif %}
+
+    {% if page.episode %}
+      <span class="article-episode">{{ page.episode }}</span>
     {% endif %}
 
   </div>
