@@ -14,15 +14,19 @@ og_image: /images/spiritualite/eden.webp
 
 ## Introduction
 
-Si Éden était un jardin, la Bible commencerait par une description géographique.  
-Or, après l’énoncé inaugural de Genèse 1,1, la première image que donne la Bible est celle d’un état :  
-l’Esprit de Dieu se mouvant au-dessus des eaux.  
-Ce verset impose une lecture structurelle : il ne parle pas d’un décor, mais d’un **état**.  
+Si Éden était un jardin, la Bible ouvrirait sur une géographie.  
+Or, après l’énoncé inaugural de Genèse 1,1, la première image n’est pas un paysage :  
+c’est un état — l’Esprit de Dieu se mouvant au-dessus des eaux.
+
+Ce verset impose une lecture structurelle : il ne décrit pas un décor, mais une condition.  
 Un état indifférencié où l’Esprit cherche un espace capable de le recevoir.
 
-Cet espace ne peut être matériel : un lieu physique ne peut accueillir un principe spirituel.  
-Il faut donc une **architecture intérieure**, une cohérence où l’Esprit puisse se déposer sans se dissoudre.  
-C’est cela qu’on appelle Éden : la première forme stable de la conscience.
+Cet espace ne peut être matériel : aucun lieu physique ne peut accueillir un principe spirituel.  
+Il faut une architecture intérieure, une cohérence où l’Esprit puisse se déposer sans se dissoudre.
+
+C’est cela qu’on appelle Éden : la première forme stable de la conscience,  
+le premier espace où le spirituel trouve une réception.
+
 
 ## Les deux arbres : structure de la conscience
 
