@@ -3,7 +3,7 @@ categories: spiritualite
 date: 2026-07-04
 title: "La structure intérieure de la Bible"
 episode: "Jésus : structure, densité, fonction"
-resume: "Ce fichier expose ce qu’était Jésus dans la structure du Fils : non un guérisseur physique, non un magicien, non un maître moral, mais la densité concentrée du Fils. Il clarifie ce qu’il a fait, ce qu’il n’a pas fait, et pourquoi les récits humains ont déformé son mouvement."
+resume: "Ce fichier expose ce qu’était Jésus dans la structure du Fils"
 layout: article
 ---
 
