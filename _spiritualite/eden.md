@@ -30,8 +30,8 @@ C’est cela qu’on appelle Éden : la première forme stable de la conscience.
 Le récit place au centre deux arbres dont la fonction n’est pas botanique.  
 Ils sont décrits comme des axes :
 
-- **L’Arbre de la Connaissance** — horizontalité, distinction, dualité.  
-- **L’Arbre de Vie** — verticalité, sève, unité.
+- **L’Arbre de la Connaissance** - horizontalité, distinction, dualité.  
+- **L’Arbre de Vie** - verticalité, sève, unité.
 
 Un jardin n’a pas besoin d’axes pour exister ; une conscience, oui.  
 Les deux arbres sont la **structure même de l’état d’Éden**.  
