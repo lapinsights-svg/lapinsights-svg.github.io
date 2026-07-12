@@ -1,5 +1,5 @@
 ---
-categories: idees
+categories: spiritualite
 date: 2026-07-04
 title: "La structure intérieure de la Bible"
 episode: "Jésus : structure, densité, fonction"
@@ -10,13 +10,13 @@ layout: article
 # Jésus : structure, densité, fonction
 
 Ce fichier redresse la figure de Jésus dans la structure du Fils.  
-Il explique :
+Il montre :
 
 - ce qu’il était réellement,  
-- ce qu’il a fait,  
-- ce qu’il n’a pas fait,  
+- ce qu’il a accompli,  
+- ce qu’il n’a pas accompli,  
 - pourquoi les récits humains ont déformé son mouvement,  
-- et comment son retournement total ouvre la voie pour que chacun puisse vivre le retournement local.
+- et comment son retournement total ouvre la voie pour le retournement local.
 
 Aucune religion.  
 Aucune mystique.  
@@ -37,24 +37,25 @@ Il n’était pas :
 - un guérisseur,  
 - un magicien.
 
-Ces catégories appartiennent à **l’interprétation humaine**.
+Ces catégories appartiennent à **l’interprétation humaine**, non à la structure.
 
-## 1.2 Jésus était le **Fils concentré**
+## 1.2 Jésus était le **Christ concentré**
 Dans la structure du Fils :
 
-- le monde = Fils étendu,  
-- le moi = fonction du Fils étendu,  
+- le monde = Fils étendu (dispersion),  
+- le moi = fonction locale du Fils étendu,  
 - l’axe = densité du Fils non étendu,  
-- Jésus = **le Fils concentré dans une forme humaine**.
+- le Christ = **le Fils non étendu concentré**,  
+- Jésus = **la forme humaine dans laquelle le Christ s’est concentré totalement**.
 
 Il n’est pas “envoyé”.  
 Il n’est pas “missionné”.  
 Il n’est pas “incarné par un Dieu extérieur”.
 
-Il est **la densité du Fils repliée dans une seule forme humaine**.
+Il est **le Christ replié dans une seule forme humaine**.
 
 ## 1.3 Jésus est l’axe incarné
-L’axe du Fils (densité non étendue) s’est **localisé** dans une forme humaine.
+Le Christ (densité non étendue) s’est **localisé** dans une forme humaine.
 
 Cela signifie :
 
@@ -63,20 +64,24 @@ Cela signifie :
 - aucune fragmentation psychique,  
 - aucune confusion interne.
 
-Il vivait **entièrement dans l’axe**.
+Il vivait **entièrement dans l’axe**.  
+Il était **la densité du Fils non étendu**, incarnée.
 
 ---
 
 # 2. Ce que Jésus a fait (structurellement)
 
-## 2.1 Il a laissé le Fils se concentrer totalement en lui
+## 2.1 Il a laissé le Christ se concentrer totalement en lui
 Jésus n’a pas “pratiqué”.  
 Il n’a pas “cherché Dieu”.  
 Il n’a pas “médité”.
 
-Il a **laissé le Fils entier se replier en lui**.
+Il a **laissé le Christ entier se replier en lui**.
 
-C’est le retournement **total** du Fils.
+C’est le retournement **total** du Fils :  
+le passage de l’extension à la densité,  
+de la dispersion à l’axe,  
+de la fragmentation à l’unité.
 
 ## 2.2 Il a vu la dispersion du Fils étendu dans les autres
 Quand il rencontrait quelqu’un, il voyait :
@@ -86,9 +91,8 @@ Quand il rencontrait quelqu’un, il voyait :
 - la tension de densité,  
 - la confusion du Fils étendu.
 
-Il ne prenait rien pour personnel.  
-Il ne prenait rien pour réel.  
-Il ne prenait rien pour identitaire.
+Il ne voyait pas des “personnes”.  
+Il voyait **des états de densité**.
 
 ## 2.3 Il a permis des replis de densité chez les autres
 Ce que les récits appellent “miracles” =  
@@ -127,6 +131,31 @@ Jésus l’a fait dans **la densité du Fils entier**.
 
 Il est le **retournement total**.
 
+## 2.6 Jésus a accompli le “mariage” ontologique
+
+Dans la Bible, le “mariage” n’est pas biologique.  
+Il désigne la **réunion des deux axes** :
+
+- le vertical (axe du Christ),  
+- l’horizontal (polarité étendue).
+
+Dans la Genèse, cette polarité apparaît dans la figure d’Adam et Ève :  
+Ève est tirée du “côté” d’Adam, l’axe horizontal mis à part pour être vu.  
+C’est la même structure que la lampe posée sur le boisseau :  
+> *« On n’allume pas une lampe pour la mettre sous le boisseau, mais on la met sur le lampadaire, et elle éclaire tous ceux qui sont dans la maison. »* (Matthieu 5,15)
+
+L’horizontalité doit être éclairée par la verticalité.  
+Le mariage signifie :  
+**la lumière posée sur le boisseau**,  
+**l’axe vertical traversant l’axe horizontal**,  
+**la polarité refermée**,  
+**la circulation retrouvée**.
+
+Jésus est le seul à avoir accompli ce mariage ontologique :  
+il a uni les deux axes en lui,  
+refermé la polarité,  
+et restauré la circulation du Fils.
+
 ---
 
 # 3. Ce que Jésus n’a pas fait (structurellement)
@@ -164,7 +193,7 @@ Il n’a pas demandé :
 - d’être soumis.
 
 Il a demandé :  
-**d’imiter le mouvement du Fils.**
+**d’imiter le mouvement du Christ.**
 
 ## 3.4 Il n’a pas fondé une religion
 Il n’a pas :
@@ -220,8 +249,6 @@ la phrase signifie structurellement :
 “Vaincre” ne signifie pas combattre.  
 “Vaincre” signifie **désidentifier + replier + concentrer**.
 
-C’est le **retournement total**.
-
 ## 4.3 Pourquoi seul le Christ peut dire cette phrase
 Un humain ordinaire vit dans :
 
@@ -261,7 +288,7 @@ Le roi est **le centre de densité**.
 ## 5.2 Le Christ‑Roi = celui qui a retiré l’autorité au monde
 Parce que Jésus a :
 
-- replié le Fils entier en lui,  
+- replié le Christ entier en lui,  
 - incarné la densité totale,  
 - refermé la polarité,  
 - retiré l’autorité au Fils étendu,
@@ -272,16 +299,6 @@ il devient structurellement :
 > **l’axe incarné**,  
 > **la densité non étendue**,  
 > **le point où le monde perd son pouvoir**.
-
-C’est cela que signifie “Christ‑Roi” :
-
-- non un roi politique,  
-- non un roi religieux,  
-- non un roi moral,
-
-mais **le roi structurel**,  
-c’est‑à‑dire **celui qui règne sur la densité**,  
-parce qu’il a vaincu l’extension.
 
 ## 5.3 Le Christ‑Roi = le Fils concentré
 Le titre “Christ‑Roi” signifie :
@@ -297,7 +314,7 @@ la densité du Fils non étendu.
 
 # 6. Le retournement total de Jésus : la voie structurelle
 
-## 6.1 Jésus a retourné le Fils entier en lui
+## 6.1 Jésus a retourné le Christ entier en lui
 Dans la structure :
 
 - le Fils était étendu,  
@@ -306,7 +323,7 @@ Dans la structure :
 
 Jésus a permis :
 
-> **le repli total du Fils dans une seule densité.**
+> **le repli total du Christ dans une seule densité.**
 
 ## 6.2 Ce retournement total a ouvert une voie
 En se concentrant totalement, Jésus a :
@@ -323,12 +340,12 @@ C’est cela :
 ## 6.3 Pourquoi il est “le premier-né”
 Parce qu’il est :
 
-> **le premier dans lequel le Fils s’est concentré totalement.**
+> **le premier dans lequel le Christ s’est concentré totalement.**
 
 ## 6.4 Pourquoi il est “le premier d’entre plusieurs frères”
 Parce que :
 
-> **ce qu’il a fait dans le Fils entier,  
+> **ce qu’il a fait dans le Christ entier,  
 chacun peut le faire dans sa densité locale.**
 
 Même mouvement.  
@@ -339,7 +356,7 @@ Amplitude différente.
 # 7. Synthèse
 
 **Jésus n’était pas un maître moral.  
-Il était le Fils concentré.**
+Il était le Christ concentré.**
 
 **Il n’a pas guéri des corps.  
 Il a guéri la densité du Fils étendu.**
@@ -350,7 +367,7 @@ Il a incarné le repli du Fils.**
 **Il n’a pas demandé d’imiter ses gestes.  
 Il a demandé d’imiter son retournement.**
 
-**En retournant le Fils entier en lui,  
+**En retournant le Christ entier en lui,  
 il a ouvert la voie pour que chacun puisse vivre le retournement local.**
 
 **“J’ai vaincu le monde” signifie :  
