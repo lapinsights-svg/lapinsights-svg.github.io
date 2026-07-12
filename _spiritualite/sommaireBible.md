@@ -61,6 +61,7 @@ Ces fichiers préparent la lecture structurelle de la Bible.
 - Lévitique  
 - Prophètes  
 - Psaumes  
+
 ---
 
 ## VI. Christologie structurelle  
