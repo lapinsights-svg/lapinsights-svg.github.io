@@ -1,6 +1,6 @@
 ---
 title: "Ontologie de la conscience"
-resume "La fonction réflexive de l’homme"
+resume: "La fonction réflexive de l’homme"
 date: 2026-07-12
 tags:
   - Genèse
