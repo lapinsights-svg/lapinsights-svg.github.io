@@ -179,7 +179,7 @@ Ils préservent l’unité pour le moment où l’homme pourra la recevoir sans 
 ## Conclusion
 
 Tout dans le texte converge vers une seule thèse :  
-**Éden est un état de la conscience, non un lieu.**
+**Éden est un état de la conscience, non un lieu.**  
 
 La Bible commence par une polarité brisée ; tout le reste tente de la réparer.  
 Éden est la structure, la matrice, le motif, le seuil.  
