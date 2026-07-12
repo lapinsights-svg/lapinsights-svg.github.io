@@ -12,7 +12,7 @@ og_image: /images/spiritualite/sommaire.webp
 # Sommaire  
 ## Architecture complète
 
-Ce sommaire présente l’ordre de publication du corpus en intégrant  
+Ce sommaire présente l’ordre de publication du corpus que je prévoie, en intégrant  
 les fondations structurelles, la lecture de la Bible, les plaques narratives,  
 la charnière métaphysique, la christologie, la résolution,  
 ainsi que les fichiers thématiques.
@@ -96,3 +96,5 @@ Ces fichiers écrits cette semaine s’intègrent directement dans la structure 
 
 Je conseille au lecteur de commencer par les **Fondations structurelles** et la **Méthodologie de lecture**,  
 afin de comprendre la logique interne du corpus avant d’aborder les plaques bibliques.
+---
+Céleste R.
