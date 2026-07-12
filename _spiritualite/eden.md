@@ -146,11 +146,25 @@ L’interdit préserve donc la possibilité d’une naissance future.
 Il garde l’accès à l’unité pour le moment où l’homme pourra la recevoir sans se détruire.
 
 
-## L’ange et l’épée : préfiguration du Christ
+## Les chérubins et l’épée : préfiguration du Christ
 
-L’ange représente la verticalité intacte ; l’épée, la lumière qui ouvre.  
-Cette image préfigure le Christ : la restauration de la circulation.  
-L’ange ne bloque pas : il **garde le seuil** jusqu’à ce que l’homme puisse le franchir.
+Le texte ne parle pas d’un ange isolé, mais de **chérubins**, porteurs de la verticalité intacte :
+
+> **« Il posta les chérubins et la lame de l’épée fulgurante pour garder le chemin de l’arbre de vie. »**  
+> *(Genèse 3,24)*
+
+Les chérubins représentent la verticalité préservée : l’axe profond qui n’a pas été atteint par la rupture.  
+L’épée fulgurante représente la lumière qui ouvre, tranche, rétablit la circulation.
+
+Cette image préfigure le Christ :  
+**celui qui traversera l’épée — la fermeture absolue — pour renaître et rouvrir le chemin de l’Arbre de Vie.**  
+La croix, la lance dans son côté, la mort et la résurrection rejouent exactement cette structure : passage par l’épée, puis restauration de la verticalité.
+
+Les chérubins ne bloquent pas l’accès : ils **gardent le seuil**.  
+Ils protègent l’Arbre de Vie pour éviter que l’homme, dans son état brisé, ne s’y fixe éternellement.  
+Ils préservent l’unité pour le moment où l’homme pourra la recevoir sans se détruire.
+
+
 
 ## Éden comme état répétitif
 
