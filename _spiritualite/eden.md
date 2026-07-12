@@ -138,7 +138,7 @@ Si l’homme, dans son état brisé, mangeait de l’Arbre de Vie, il figerait s
 La polarité fracturée deviendrait éternelle, sans possibilité de retournement.  
 L’interdit n’est donc pas une vengeance : il est une protection ontologique, un acte d’amour qui empêche la fixation définitive de la séparation.
 
-Après la fermeture de la polarité, la Bible formule explicitement cet interdit concernant l’Arbre de Vie :
+Après la fermeture de la polarité, la Bible formule explicitement cet interdit concernant l’Arbre de Vie :  
 
 > **« Il ne faut pas qu’il avance sa main, prenne aussi de l’arbre de vie, en mange, et vive éternellement. »**  
 > *(Genèse 3,22)*
@@ -160,7 +160,7 @@ Les chérubins représentent la verticalité préservée : l’axe profond qui n
 L’épée fulgurante représente la lumière qui ouvre, tranche, rétablit la circulation.
 
 Cette image préfigure le Christ :  
-**celui qui traversera l’épée — la fermeture absolue — pour renaître et rouvrir le chemin de l’Arbre de Vie.**  
+**celui qui traversera l’épée - la fermeture absolue - pour renaître et rouvrir le chemin de l’Arbre de Vie.**  
 La croix, la lance dans son côté, la mort et la résurrection rejouent exactement cette structure : passage par l’épée, puis restauration de la verticalité.
 
 Les chérubins ne bloquent pas l’accès : ils **gardent le seuil**.  
