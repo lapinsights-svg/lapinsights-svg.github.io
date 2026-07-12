@@ -11,7 +11,6 @@ og_image: /images/spiritualite/eden.webp
 ![eden](/images/spiritualite/eden.webp)
 
 # Éden : l’état, non le lieu  
-*(version fortement argumentative)*
 
 ## Introduction
 
