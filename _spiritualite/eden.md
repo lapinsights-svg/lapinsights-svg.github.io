@@ -16,7 +16,8 @@ og_image: /images/spiritualite/eden.webp
 ## Introduction
 
 Si Éden était un jardin, la Bible commencerait par une description géographique.  
-Or, après l’énoncé inaugural de Genèse 1,1, la première image que donne la Bible est celle d’un état : l’Esprit de Dieu se mouvant au-dessus des eaux.  
+Or, après l’énoncé inaugural de Genèse 1,1, la première image que donne la Bible est celle d’un état :  
+l’Esprit de Dieu se mouvant au-dessus des eaux.  
 Ce verset impose une lecture structurelle : il ne parle pas d’un décor, mais d’un **état**.  
 Un état indifférencié où l’Esprit cherche un espace capable de le recevoir.
 
