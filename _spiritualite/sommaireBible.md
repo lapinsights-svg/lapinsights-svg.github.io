@@ -82,7 +82,6 @@ Ces fichiers préparent la lecture structurelle de la Bible.
 ---
 
 ## IX. Thématiques structurelles  
-Ces fichiers écrits cette semaine s’intègrent directement dans la structure du corpus.
 
 - Aimer  
 - Folie  
