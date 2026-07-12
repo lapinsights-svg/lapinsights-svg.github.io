@@ -4,7 +4,10 @@ categories: spiritualite
 layout: article
 date: 2026-07-12
 resume: "Table des matières du corpus : structure, Bible, métaphysique, christologie."
+og_image: /images/spiritualite/sommaire.webp
 ---
+
+![sommaire](/images/spiritualite/sommaire.webp)
 
 # Sommaire  
 ## Architecture complète
