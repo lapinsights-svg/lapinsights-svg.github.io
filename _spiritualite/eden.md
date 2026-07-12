@@ -132,8 +132,19 @@ C’est une **non‑naissance**, non une expulsion.
 ## L’interdit : protection ontologique
 
 Si l’homme, dans son état brisé, mangeait de l’Arbre de Vie, il figerait sa rupture pour toujours.  
-L’interdit protège donc la possibilité d’une naissance future.  
-Il n’est pas une vengeance : il est un acte d’amour.
+La polarité fracturée deviendrait éternelle, sans possibilité de retournement.  
+L’interdit n’est donc pas une vengeance : il est une protection ontologique, un acte d’amour qui empêche la fixation définitive de la séparation.
+
+Après la fermeture de la polarité, la Bible formule explicitement cet interdit concernant l’Arbre de Vie :
+
+> **« Il ne faut pas qu’il avance sa main, prenne aussi de l’arbre de vie, en mange, et vive éternellement. »**  
+> *(Genèse 3,22)*
+
+Cette phrase ne décrit pas une punition, mais une nécessité structurelle.  
+Si l’homme, dans son état désaxé, accédait à l’Arbre de Vie, il deviendrait éternellement séparé : éternellement contracté, éternellement non‑né.  
+L’interdit préserve donc la possibilité d’une naissance future.  
+Il garde l’accès à l’unité pour le moment où l’homme pourra la recevoir sans se détruire.
+
 
 ## L’ange et l’épée : préfiguration du Christ
 
