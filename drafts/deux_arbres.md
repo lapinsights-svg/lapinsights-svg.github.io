@@ -1,5 +1,5 @@
 ---
-categories: idees
+categories: spiritualite
 date: 2026-07-04
 title: "La structure intérieure de la Bible"
 episode: "Les deux arbres : la polarité brisée"
@@ -61,6 +61,13 @@ L’un vivifie.
 L’autre éclaire.
 
 La maturité consiste à les faire se rejoindre.
+
+Dans le récit, cette polarité se déplie dans la figure d’Adam et Ève.  
+Le texte hébreu dit qu’Ève est tirée du “côté” d’Adam : l’axe horizontal mis à part pour être vu.  
+C’est la même structure que la lampe posée sur le boisseau :  
+> *« On n’allume pas une lampe pour la mettre sous le boisseau, mais on la met sur le lampadaire, et elle éclaire tous ceux qui sont dans la maison. »* (Matthieu 5,15)  
+L’horizontalité doit être éclairée par la verticalité.  
+Ève est le boisseau d’Adam : l’axe horizontal rendu visible pour recevoir la lumière et permettre la circulation.
 
 ## Le point de rupture
 
