@@ -52,7 +52,7 @@ Si la chute est une mécanique, elle ne peut être un événement historique.
 Elle se répète chaque fois que la perception se ferme, que la profondeur se perd, que les axes ne se rejoignent plus.  
 Tant que l’homme n’est pas né intérieurement, Éden recommence.
 
-**Naître**, c’est ouvrir la conscience à l’axe du Verbe : retrouver la capacité de réunir ce qui s’était séparé.
+**Naître**, c’est ouvrir la conscience à l’axe du Verbe (ou Christ) : retrouver la capacité de réunir ce qui s’était séparé.
 
 ## La lecture littérale produit des contradictions
 
