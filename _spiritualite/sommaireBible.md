@@ -53,7 +53,7 @@ Ces fichiers préparent la lecture structurelle de la Bible.
 ---
 
 ## IV. Charnière métaphysique  
-- Unité-Monde — unite  
+- Unité-Monde  
 
 ---
 
@@ -96,5 +96,7 @@ Ces fichiers écrits cette semaine s’intègrent directement dans la structure 
 
 Je conseille au lecteur de commencer par les **Fondations structurelles** et la **Méthodologie de lecture**,  
 afin de comprendre la logique interne du corpus avant d’aborder les plaques bibliques.
+
 ---
+
 Céleste R.
