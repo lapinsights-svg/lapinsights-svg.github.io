@@ -36,13 +36,13 @@ Les fichiers qui posent la topologie du Fils étendu.
 ## II. Méthodologie de lecture  
 Ces fichiers préparent la lecture structurelle de la Bible.
 
-- Lecture de la Bible — [lecturebible.md](https://lapinsights.org/spiritualite/lecturebible/)  
+- Lecture de la Bible — [lecturebible](https://lapinsights.org/spiritualite/lecturebible/)  
 - Structure intérieure de la Bible — abyme.md  
 
 ---
 
 ## III. Narration biblique — plaques 1 à 7  
-- Genèse / Eden — [genese.md](https://lapinsights.org/spiritualite/eden/)  
+- Genèse / Eden — [eden](https://lapinsights.org/spiritualite/eden/)  
 - Déluge
 - Jonas 
 - Abraham  
