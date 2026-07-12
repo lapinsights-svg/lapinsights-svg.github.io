@@ -215,7 +215,45 @@ Il n’a pas demandé :
 - de reproduire sa vie.
 
 Il a demandé :  
-**d’imiter son retournement.**
+**d’imiter son retournement.**  
+
+
+## 3.6 Les miracles : structure du témoignage biblique
+
+Les récits de miracles ne sont pas des comptes rendus de témoins directs.  
+Les Évangiles sont écrits des décennies après les événements,  
+par des rédacteurs qui transmettent ce que les communautés racontaient.
+
+Ils utilisent un langage extérieur pour décrire une transformation intérieure.
+
+Les témoins ne voyaient pas la réorganisation de densité.  
+Ils voyaient :
+
+- des visages qui s’ouvrent,  
+- des corps qui se détendent,  
+- des postures qui se redressent,  
+- des personnes figées qui se remettent en mouvement,  
+- des états de confusion qui deviennent cohérents.
+
+Ils ont traduit ces effets visibles en langage corporel :
+
+- “il voit”,  
+- “il marche”,  
+- “il est guéri”.
+
+Structurellement :
+
+**Les miracles sont des récits symboliques écrits par des non‑témoins,  
+pour exprimer des transformations intérieures réelles,  
+mais visibles seulement dans leurs effets extérieurs.**
+
+La Bible parle en images physiques pour décrire des réorganisations de densité.  
+La “vue” retrouvée est intérieure.  
+La “marche” retrouvée est intérieure.  
+La “guérison” est intérieure.
+
+Les récits corporels sont des symbolisations de la structure.
+
 
 ---
 
