@@ -90,8 +90,12 @@ Dans Éden, “masculin” et “féminin” ne désignent pas des genres, mais 
 - **Masculin** : verticalité, sève, unité.  
 - **Féminin** : horizontalité, perception, dualité.
 
+Le texte hébreu dit qu’Ève est tirée du “côté” d’Adam : l’axe horizontal mis à part pour être vu.  
+Ève est le côté horizontal d’Adam ; Adam est le côté vertical d’Ève.
+
 La rupture d’Éden est la non‑rencontre de ces axes.  
 Le récit d’Ève et d’Adam en donne la mécanique en quatre gestes, chacun décrivant une étape de la fermeture.
+
 
 ### La mécanique Ève / Adam
 
