@@ -95,7 +95,7 @@ Ces fichiers préparent la lecture structurelle de la Bible.
 ## Navigation  
 
 Je conseille au lecteur de commencer par les **Fondations structurelles** et la **Méthodologie de lecture**,  
-afin de comprendre la logique interne du corpus avant d’aborder les plaques bibliques.
+afin de comprendre la logique interne du corpus avant d’aborder les plaques bibliques et les thématiques.
 
 ---
 
