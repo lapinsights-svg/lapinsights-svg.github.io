@@ -54,8 +54,10 @@ Il n’est pas “incarné par un Dieu extérieur”.
 
 Il est **le Christ replié dans une seule forme humaine**.
 
-## 1.3 Jésus est l’axe incarné
-Le Christ (densité non étendue) s’est **localisé** dans une forme humaine.
+## 1.3 Jésus est l’axe incarné  
+
+Jésus n’a pas reçu le Christ dans son corps ;
+il a laissé sa conscience devenir totalement Christ.
 
 Cela signifie :
 
