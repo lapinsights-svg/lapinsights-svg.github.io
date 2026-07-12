@@ -24,31 +24,31 @@ Vous trouverez en lien les fichiers déjà publiés.
 ## I. Fondations structurelles  
 Les fichiers qui posent la topologie du Fils étendu.
 
-- Axe — axe1.md  
-- Densité 
-- Polarité
-- Séparation 
-- Conscience 
-- Deux arbres 
+- Axe  
+- Densité  
+- Polarité  
+- Séparation  
+- Conscience  
+- Deux arbres  
 
 ---
 
 ## II. Méthodologie de lecture  
-Ces fichiers préparent la lecture structurelle de la Bible.
+Ces fichiers préparent la lecture structurelle de la Bible.  
 
 - Lecture de la Bible — [lecturebible](https://lapinsights.org/spiritualite/lecturebible/)  
-- Structure intérieure de la Bible — abyme. 
+- Structure intérieure de la Bible — abyme.  
 
 ---
 
 ## III. Narration biblique — plaques 1 à 7  
 - Genèse / Eden — [eden](https://lapinsights.org/spiritualite/eden/)  
-- Déluge
-- Jonas 
+- Déluge  
+- Jonas  
 - Abraham  
-- Babel 
+- Babel  
 - Israël  
-- Exode 
+- Exode  
 
 ---
 
@@ -58,36 +58,36 @@ Ces fichiers préparent la lecture structurelle de la Bible.
 ---
 
 ## V. Structuration intérieure  
-- Lévitique 
-- Prophètes 
-- Psaumes 
+- Lévitique  
+- Prophètes  
+- Psaumes  
 ---
 
 ## VI. Christologie structurelle  
 - Évangiles  
-- Jésus 
+- Jésus  
 
 ---
 
 ## VII. Universalisation  
-- Paul 
-- Romains 
+- Paul  
+- Romains  
 
 ---
 
 ## VIII. Résolution  
-- Apocalypse 
+- Apocalypse  
 
 ---
 
 ## IX. Thématiques structurelles  
 Ces fichiers écrits cette semaine s’intègrent directement dans la structure du corpus.
 
-- Aimer 
-- Folie 
-- Enfantement 
-- Dieu 
-- Sacrifice 
+- Aimer  
+- Folie  
+- Enfantement  
+- Dieu  
+- Sacrifice  
 - Retournement  
 
 ---
