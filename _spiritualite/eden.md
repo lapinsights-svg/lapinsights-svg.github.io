@@ -85,13 +85,34 @@ La création est le corps ; l’homme est la conscience.
 
 ## Masculin / féminin : deux axes, non deux genres
 
-Dans Éden, “masculin” et “féminin” désignent deux axes intérieurs :
+Dans Éden, “masculin” et “féminin” ne désignent pas des genres, mais deux axes intérieurs :
 
-- Masculin : verticalité, sève, unité.  
-- Féminin : horizontalité, perception, dualité.
+- **Masculin** : verticalité, sève, unité.  
+- **Féminin** : horizontalité, perception, dualité.
 
 La rupture d’Éden est la non‑rencontre de ces axes.  
-La séquence Ève/Adam n’est pas un blâme du féminin : elle décrit la mécanique de la fermeture, puis sa propagation vers la profondeur.
+Le récit d’Ève et d’Adam en donne la mécanique en quatre gestes, chacun décrivant une étape de la fermeture.
+
+### La mécanique Ève / Adam
+
+- **Ève prend** : la perception se ferme.  
+  L’horizontalité se replie sur elle‑même et se détache de la profondeur.
+
+- **Ève mange** : la dualité devient intérieure.  
+  La rupture n’est plus extérieure : elle devient le mode de fonctionnement de la perception.
+
+- **Ève donne à Adam** : la fermeture se transmet à la verticalité.  
+  Ce geste n’est pas moral : il décrit la contagion structurelle de la rupture.
+
+- **Adam mange** : la profondeur se laisse entraîner par la perception désaxée.  
+  La rupture devient totale : les deux arbres ne se rejoignent plus.
+
+Cette séquence n’accuse pas le féminin : elle montre que **la fermeture commence dans l’horizontalité**, parce que c’est elle qui perçoit et distingue.  
+Mais elle ne devient complète que lorsque **la verticalité suit**, c’est‑à‑dire lorsque l’axe profond perd son centre.
+
+Ainsi, la “faute” n’est pas un acte moral : c’est une **mécanique de polarité**.  
+Une fermeture, une transmission, puis une rupture complète.
+
 
 ## Le serpent : perception repliée
 
