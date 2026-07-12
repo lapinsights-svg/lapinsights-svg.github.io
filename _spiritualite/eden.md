@@ -25,7 +25,11 @@ Cet espace ne peut être matériel : aucun lieu physique ne peut accueillir un p
 Il faut une architecture intérieure, une cohérence où l’Esprit puisse se déposer sans se dissoudre.
 
 C’est cela qu’on appelle Éden : la première forme stable de la conscience,  
-le premier espace où le spirituel trouve une réception.
+le premier espace où le spirituel trouve une réception.  
+
+
+Éden est la première architecture de la conscience : ouverte, il reçoit le spirituel ; fermée, il devient le lieu de la séparation.
+
 
 
 ## Les deux arbres : structure de la conscience
