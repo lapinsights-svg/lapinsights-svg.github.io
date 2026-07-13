@@ -16,19 +16,24 @@ og_image: /images/idees/chatc_1.webp
 
 ## Introduction
 
-Chat Control 1 est une dérogation européenne.  
-Elle permet aux plateformes de scanner automatiquement les contenus **non chiffrés** : images, messages, fichiers cloud.  
+Chat Control 1 est une dérogation européenne.
+Elle permet aux plateformes de scanner automatiquement les contenus non chiffrés : images, messages, fichiers cloud.
 Le tout sans mandat, sans ciblage, sans notification.
 
-Pourquoi vouloir éviter Chat Control 1 ? Pour une raison simple :  
-il impose une analyse algorithmique **non ciblée**, incompatible avec les principes de proportionnalité et de vie privée présents dans les législations européennes.
+Ce scanning vise officiellement à détecter des « contenus illégaux »,  mais dans les faits, il implique l’analyse automatique de tout ce qui transite en clair :  
+conversations privées, photos personnelles, documents stockés.  
+Autrement dit, pour trouver quelques éléments ciblés, l’ensemble du flux non chiffré est inspecté.
 
-Ce n’est pas une écoute humaine.  
-Ce n’est pas une surveillance individuelle.  
-C’est un filtrage massif, silencieux, prolongé jusqu’en **2028**.
+Pourquoi vouloir éviter Chat Control 1 ? Pour une raison simple :
+il impose une analyse algorithmique non ciblée, incompatible avec les principes de proportionnalité et de vie privée présents dans les législations européennes.
 
-La question devient donc :  
-**comment sortir du périmètre technique du scanning ?**
+Ce n’est pas une écoute humaine.
+Ce n’est pas une surveillance individuelle.
+C’est un filtrage massif, silencieux, prolongé jusqu’en 2028.
+
+La question devient donc :
+comment sortir du périmètre technique du scanning ?
+
 
 ---
 
