@@ -1,6 +1,6 @@
 ---
 title: "Que faire pour éviter le scanning de Chat Control 1 ?"
-resume: "Comprendre le régime transitoire de Chat Control 1, ses limites techniques, et les moyens d’échapper au scanning algorithmique."
+resume: "Comprendre le régime transitoire de Chat Control 1 et les moyens d’échapper au scanning algorithmique."
 categories: idees
 tags: [vie-privee, chiffrement, europe, surveillance, chat-control]
 date: 2026-07-13
