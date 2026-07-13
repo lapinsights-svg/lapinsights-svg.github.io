@@ -20,7 +20,7 @@ Chat Control 1 est une dérogation européenne.
 Elle permet aux plateformes de scanner automatiquement les contenus **non chiffrés** : images, messages, fichiers cloud.  
 Le tout sans mandat, sans ciblage, sans notification.
 
-On cherche à éviter Chat Control 1 pour une raison simple :  
+Pourquoi vouloir éviter Chat Control 1 ? Pour une raison simple :  
 il impose une analyse algorithmique **non ciblée**, incompatible avec les principes de proportionnalité et de vie privée présents dans les législations européennes.
 
 Ce n’est pas une écoute humaine.  
