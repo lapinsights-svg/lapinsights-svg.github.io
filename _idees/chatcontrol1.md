@@ -105,8 +105,8 @@ Les États membres tenteront d’imposer un modèle permanent : scanning génér
 C’est la bataille décisive : empêcher que l’exception devienne la norme.
 
 En clair :  
-2028 = fin prévue du régime transitoire.  
-Septembre 2026 = moment où l’on décide si ce régime devient permanent.
+2028, c'est la fin prévue du régime transitoire.  
+Septembre 2026, c'est le moment où l’on décide si ce régime devient permanent.
 
 ---
 
