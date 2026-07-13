@@ -1,6 +1,7 @@
 ---
 title: "Fin de vie, le point de rupture"
 resume: "Analyse de la dérive générale dans la loi sur l’aide à mourir."
+date: 2026-07-11
 tags:
   - fin_de_vie
   - democratie
