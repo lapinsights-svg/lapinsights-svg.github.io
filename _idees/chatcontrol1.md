@@ -32,7 +32,12 @@ Ce n’est pas une surveillance individuelle.
 C’est un filtrage massif, silencieux, prolongé jusqu’en 2028.
 
 La question devient donc :
-comment sortir du périmètre technique du scanning ?
+comment sortir du périmètre technique du scanning ?  
+
+
+Même sans rien à se reprocher, le scanning expose à des faux positifs car un algorithme peut mal interpréter une image ou un message.  
+Il peut aussi déclencher un signalement automatique sans contexte ni vérification humaine.  
+Et à long terme, il installe une perte structurelle de vie privée parce que tout contenu non chiffré devient inspectable par défaut.
 
 
 ---
