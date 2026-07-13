@@ -3,9 +3,14 @@ title: "Que faire pour éviter le scanning de Chat Control 1 ?"
 resume: "Comprendre le régime transitoire de Chat Control 1, ses limites techniques, et les moyens d’échapper au scanning algorithmique."
 categories: idees
 tags: [vie-privee, chiffrement, europe, surveillance, chat-control]
-date: 2026-07-12
+date: 2026-07-13
 layout: article
+og_image: /images/idees/chatc_1.webp
 ---
+
+
+![chatcontrol](/images/idees/chatc_1.webp)
+
 
 # Que faire pour éviter le scanning de Chat Control 1 ?
 
@@ -79,9 +84,9 @@ C’est systématique.
 Chat Control 1 ne peut pas tout scanner.  
 Il dépend de trois conditions :
 
-- service non chiffré,  
-- contenu uploadé ou stocké,  
-- plateforme ayant activé les outils.
+- d'un service non chiffré,  
+- d'un contenu uploadé ou stocké,  
+- d'une plateforme ayant activé les outils.
 
 La meilleure protection n’est donc pas juridique.  
 Elle n’est pas politique.  
