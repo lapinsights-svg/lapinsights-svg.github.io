@@ -1,6 +1,6 @@
 ---
 title: "Le monde est réel, mais l’Unité ne peut pas se briser"
-resume "Pourquoi la réalité du monde n’implique pas la rupture de l’Unité."
+resume: "Pourquoi la réalité du monde n’implique pas la rupture de l’Unité."
 keywords:
   - Unité
   - monde
