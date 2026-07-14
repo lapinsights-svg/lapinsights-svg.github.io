@@ -81,7 +81,7 @@ il ne parle pas du ciel physique.
 Il dit que **la part ordonnée du Fils étendu reflète la densité non étendue**.
 
 Les cieux expriment la structure.  
-La terre exprime la dispersion.
+La terre exprime la l’exposition polarisée (avec pour effets : éclatement, dissémination, perte d’unité)  
 
 Deux faces d’une même densité.  
 Deux modalités d’un même Fils étendu.
