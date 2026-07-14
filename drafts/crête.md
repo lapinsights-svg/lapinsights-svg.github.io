@@ -6,7 +6,7 @@ layout: article
 og_image: /images/creation/crête.webp
 ---
 
-![crete](/images/creation/crête.webp)
+![crête](/images/creation/crête.webp)
 
 # Ligne de crête et chambre claire
 
