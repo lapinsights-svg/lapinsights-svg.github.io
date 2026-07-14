@@ -68,12 +68,23 @@ Il est **le Fils étendu dans la forme** :
 La Genèse ne crée pas un univers matériel :  
 elle déploie les **polarités du Fils** dans la densité étendue.
 
-Quand le Psaume dit :
+Dans cette densité, la Bible distingue deux modalités :
+
+- **les cieux** : la part ordonnée, stable, structurée de l’étendu ;  
+- **la terre** : la part dispersée, polarisée, instable de l’étendu.
+
+Ainsi, lorsque le Psaume dit :
 
 > "Les cieux racontent la gloire de Dieu." (Psaume 19:2)
 
-il dit :  
-**le monde est une expression réelle du Fils.**
+il ne parle pas du ciel physique.  
+Il dit que **la part ordonnée du Fils étendu reflète la densité non étendue**.
+
+Les cieux expriment la structure.  
+La terre exprime la dispersion.
+
+Deux faces d’une même densité.  
+Deux modalités d’un même Fils étendu.
 
 ---
 
