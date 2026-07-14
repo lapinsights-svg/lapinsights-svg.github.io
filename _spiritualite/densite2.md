@@ -199,9 +199,8 @@ C’est un **mouvement du Fils en toi**.
 
 ---
 
-# 7. Synthèse
+# 7. Synthèse  
 
-# 7. Synthèse : les quatre densités du Fils
 
 ## 1. Densité non étendue — Dieu
 - Structure pure  
