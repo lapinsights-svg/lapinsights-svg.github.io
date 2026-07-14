@@ -15,7 +15,7 @@ og_image: /images/spiritualite/densite.webp
 La Bible n’est pas un livre religieux.  
 Elle raconte **comment le Fils existe** à travers quatre densités.
 
-La densité, c’est la manière dont le Fils prend forme :
+La densité, c’est la manière dont le Fils existe :
 
 - **non étendu** : Dieu  
 - **étendu** : le monde  
