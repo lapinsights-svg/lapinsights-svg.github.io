@@ -62,7 +62,7 @@ Il est **le Fils étendu dans la forme** :
 
 - lumière et ténèbres,  
 - haut et bas,  
-- terre et mer,  
+- terre et eaux,  
 - jour et nuit.
 
 La Genèse ne crée pas un univers matériel :  
