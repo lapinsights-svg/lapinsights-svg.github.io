@@ -199,20 +199,39 @@ C’est un **mouvement du Fils en toi**.
 
 # 7. Synthèse
 
-|   Densité        |    Nom               |              Description             |
-|------------------|----------------------|--------------------------------------|
-| Non étendue------| Dieu-----------------| Structure pure, Fils avant extension |
-| Étendue----------| Monde----------------| Polarités ouvertes, Fils déployé     |
-| Concentrée-------| Jésus----------------| Axe focalisé, Fils incarné           |
-| Guérie-----------| Apocalypse-----------| Polarités refermées, Fils accompli   |
+# 7. Synthèse : les quatre densités du Fils
 
-Une seule structure.  
+## 1. Densité non étendue — Dieu
+- Structure pure  
+- Aucune polarité  
+- Aucune forme  
+- Le Fils avant extension
+
+## 2. Densité étendue — Monde
+- Polarités ouvertes  
+- Forme, matière, histoire  
+- Le Fils déployé dans la création
+
+## 3. Densité concentrée — Jésus
+- Axe focalisé  
+- Polarité réunifiée  
+- Le Fils incarné dans une conscience humaine
+
+## 4. Densité guérie — Apocalypse
+- Polarités refermées  
+- Langue unifiée  
+- Le Fils accompli dans la création guérie
+
+---
+
+**Une seule structure.  
 Quatre densités.  
-Un seul mouvement.
+Un seul mouvement.**  
+
 
 La densité est la clé de toute la Bible.  
 Elle est la clé du monde.  
-Elle est la clé du retournement.
+Elle est la clé du retournement.  
 
 ---
 Céleste R.
