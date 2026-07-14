@@ -1,5 +1,5 @@
 ---
-title: "Les densités du Fils "
+title: "Les densités du Fils"
 categories: idees
 date: 2026-07-14
 resume: "Une seule réalité, quatre densités. Le Fils n’est pas un personnage : il est la manière dont l’être existe."
@@ -29,25 +29,35 @@ Ce sont quatre états d’une même densité.
 # Densité non étendue
 
 Avant la forme, il n’y a pas le vide.  
-Il y a l’être sans dispersion.  
-Ce que la Bible appelle “Dieu” n’est pas un personnage :  
-c’est la densité non étendue du Fils.
+Il y a l’être sans dispersion.
 
-“Je suis” ne décrit pas un individu.  
-Cela décrit la structure pure, sans polarité, sans lieu.
+« Je suis celui qui suis » (Ex 3:14)  
+ne décrit pas un individu.  
+Cela décrit la densité non étendue du Fils :  
+la structure pure, sans polarité, sans lieu.
+
+« Au commencement, Dieu créa… » (Gn 1:1)  
+n’introduit pas un personnage.  
+Il montre l’être sans extension avant son déploiement.
 
 ---
 
 # Densité étendue
 
 Le monde n’est pas séparé de Dieu.  
-Il est la même densité, mais étendue.  
-La forme n’est pas une illusion :  
-elle est la dispersion du Fils dans la polarité.
+Il est la même densité, mais étendue.
+
+« Dieu vit que cela était bon » (Gn 1:10)  
+ne parle pas d’un décor extérieur.  
+Il montre la densité étendue du Fils dans la polarité.
 
 Les cieux sont la part ordonnée de l’étendu.  
-La terre est la part polarisée.  
-Deux modalités d’un même déploiement.
+La terre est la part polarisée.
+
+« Les cieux racontent la gloire de Dieu » (Ps 19:2)  
+ne décrit pas le ciel physique.  
+Il montre la part ordonnée de l’étendu  
+résonnant avec la densité non étendue.
 
 Rien n’est extérieur.  
 Tout est extension.
@@ -59,8 +69,15 @@ Tout est extension.
 Jésus n’est pas un maître.  
 Il est la densité concentrée du Fils dans une conscience humaine.
 
-La Parole n’est pas un message.  
-C’est la structure non étendue, focalisée dans la chair.
+« Et la Parole devint chair » (Jn 1:14)  
+ne décrit pas un message incarné.  
+Il montre la structure non étendue  
+focalisée dans la chair.
+
+« Qui m’a vu a vu le Père » (Jn 14:9)  
+ne parle pas d’un Dieu extérieur.  
+Il montre la densité non étendue  
+concentrée dans une forme humaine.
 
 Les guérisons ne sont pas des miracles.  
 Elles sont des réparations de densité :  
@@ -71,13 +88,19 @@ axe redressé, lumière réouverte, polarité apaisée.
 # Densité guérie
 
 L’Apocalypse n’est pas une fin.  
-C’est la densité étendue refermée.  
-La polarité cesse.  
-La dispersion se résorbe.  
-La forme retrouve son centre.
+C’est la densité étendue refermée.
 
-“Je fais toutes choses nouvelles” ne décrit pas un changement.  
-Cela décrit la densité accomplie.
+« Il n’y aura plus de nuit » (Ap 22:5)  
+ne décrit pas une absence de lumière.  
+Il montre la polarité refermée.
+
+« Les nations seront guéries » (Ap 22:2)  
+ne parle pas de politique.  
+Il montre la densité étendue retrouvant son centre.
+
+« Voici, je fais toutes choses nouvelles » (Ap 21:5)  
+ne décrit pas un changement.  
+Il montre la densité accomplie.
 
 ---
 
@@ -88,9 +111,17 @@ Ce n’est pas une perception corrigée.
 Ce n’est pas une pratique.
 
 C’est le passage d’une densité à une autre.  
-Le Fils étendu revient à son centre.  
-La dispersion cesse d’être le lieu où l’on cherche.  
-Le centre redevient disponible.
+Le Fils étendu revient à son centre.
+
+« Revenez à moi, et je reviendrai à vous » (Ml 3:7)  
+ne parle pas d’un mouvement moral.  
+Il montre la densité étendue  
+revenant vers son axe.
+
+« Le Royaume de Dieu est au-dedans de vous » (Lc 17:21)  
+ne parle pas d’un état intérieur psychologique.  
+Il montre la densité concentrée  
+déjà disponible au centre.
 
 Le cœur ouvert n’est pas une émotion.  
 C’est la densité concentrée en soi.  
