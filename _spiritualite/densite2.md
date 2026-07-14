@@ -239,3 +239,7 @@ Elle est la clé du retournement.
 ---
 Céleste R.
 
+Revenir au sommaire:  
+[Sommaire du corpus Bible](https://lapinsights.org/spiritualite/sommaireBible/)
+
+
