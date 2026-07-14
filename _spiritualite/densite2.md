@@ -1,5 +1,5 @@
 ---
-title: "La densité du Fils"
+title: "Les densités du Fils"
 categories: idees
 date: 2026-07-14
 resume: "La densité est la manière dont le Fils existe. La Bible n’est compréhensible que si l’on voit les quatre densités à l’œuvre."
@@ -10,7 +10,7 @@ og_image: /images/spiritualite/densite.webp
 
 ![densite](/images/spiritualite/densite.webp)
 
-# La densité du Fils
+# Les densités du Fils
 
 La Bible n’est pas un livre religieux.  
 Elle raconte **comment le Fils existe** à travers quatre densités.
