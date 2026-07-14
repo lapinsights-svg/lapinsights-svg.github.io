@@ -204,23 +204,23 @@ C’est **le mouvement du Fils en soi**.
 # 7. Synthèse  
 
 
-## 1. Densité non étendue — Dieu
+## 1. Densité non étendue : Dieu
 - Structure pure  
 - Aucune polarité  
 - Aucune forme  
 - Le Fils avant extension
 
-## 2. Densité étendue — Monde
+## 2. Densité étendue : Monde
 - Polarités ouvertes  
 - Forme, matière, histoire  
 - Le Fils déployé dans la création
 
-## 3. Densité concentrée — Jésus
+## 3. Densité concentrée : Jésus
 - Axe focalisé  
 - Polarité réunifiée  
 - Le Fils incarné dans une conscience humaine
 
-## 4. Densité guérie — Apocalypse
+## 4. Densité guérie : Apocalypse
 - Polarités refermées  
 - Langue unifiée  
 - Le Fils accompli dans la création guérie
