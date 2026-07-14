@@ -2,11 +2,12 @@
 title: "Ligne de crête et chambre claire"
 resume: "Une traversée lucide du monde, tenue par la pudeur et l’alignement intérieur."
 date: "2026-07-14"
+categories: creations
 layout: article
-og_image: /images/creation/crete.webp
+og_image: /images/creations/crête.webp
 ---
 
-![crete](/images/creation/crete.webp)
+![crête](/images/creations/crête.webp)
 
 # Ligne de crête et chambre claire
 
