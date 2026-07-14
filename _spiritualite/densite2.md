@@ -161,31 +161,29 @@ Elle rend le retournement possible.
 
 ---
 
-# 6. Le retournement : passage d’une densité à une autre
+## 6. Le retournement : passage d’une densité à une autre
 
 La Bible montre que le Fils ne reste pas figé dans une seule densité.  
-Il **passe** d’un état à un autre.
+Il passe d’un état à un autre.
 
 Ce passage est ce que j’appelle **le retournement**.
 
 Ce n’est pas une pratique, ni une ascèse, ni une correction de perception.  
 C’est un **mouvement ontologique** :  
-le Fils étendu se replie vers sa densité concentrée.
+le Fils étendu revient à son **centre**.
 
 La Bible en donne une image simple :
 
-> "Revenez à moi, et je reviendrai à vous." (Malachie 3:7)
+> « Revenez à moi, et je reviendrai à vous. » (Malachie 3:7)
 
-Revenir = **changer de densité**.
+Revenir = **retour au centre**.
 
 Dans le Nouveau Testament, Jésus exprime ce mouvement :
 
 > « Le Royaume de Dieu est au-dedans de vous. » (Luc 17:21)
 
-Le Royaume = **la densité concentrée**.  
-Au‑dedans = le centre du Fils étendu.
-C’est le cœur devenu temple.
-C’est là que commence la densité concentrée.
+Au‑dedans = **le centre**.  
+Le Royaume = **la densité concentrée**.
 
 Le retournement, c’est donc :
 
@@ -194,9 +192,13 @@ Le retournement, c’est donc :
 - permettre à l’axe de réapparaître,  
 - entrer dans la densité concentrée.
 
-Ce n’est pas un effort.  
-C’est un **mouvement du Fils en toi**.
+**Le centre disponible, c’est le cœur ouvert.  
+Le cœur ouvert, c’est le temple habitable.  
+Le temple habitable, c’est le lieu du retournement.**
 
+Ce n’est pas un effort.  
+C’est une **disponibilité du centre**  
+C’est **le mouvement du Fils en soi**.
 ---
 
 # 7. Synthèse  
