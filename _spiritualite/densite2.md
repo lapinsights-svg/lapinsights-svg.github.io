@@ -1,5 +1,5 @@
 ---
-title: "Les densités du Fils — version post‑retournement"
+title: "Les densités du Fils "
 categories: idees
 date: 2026-07-14
 resume: "Une seule réalité, quatre densités. Le Fils n’est pas un personnage : il est la manière dont l’être existe."
