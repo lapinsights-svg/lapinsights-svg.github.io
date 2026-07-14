@@ -201,10 +201,10 @@ C’est un **mouvement du Fils en toi**.
 
 |   Densité        |    Nom               |              Description             |
 |------------------|----------------------|--------------------------------------|
-| Non étendue      | Dieu                 | Structure pure, Fils avant extension |
-| Étendue          | Monde                | Polarités ouvertes, Fils déployé     |
-| Concentrée       | Jésus                | Axe focalisé, Fils incarné           |
-| Guérie           | Apocalypse           | Polarités refermées, Fils accompli   |
+| Non étendue------| Dieu-----------------| Structure pure, Fils avant extension |
+| Étendue----------| Monde----------------| Polarités ouvertes, Fils déployé     |
+| Concentrée-------| Jésus----------------| Axe focalisé, Fils incarné           |
+| Guérie-----------| Apocalypse-----------| Polarités refermées, Fils accompli   |
 
 Une seule structure.  
 Quatre densités.  
