@@ -4,10 +4,10 @@ resume: "Une traversée lucide du monde, tenue par la pudeur et l’alignement i
 date: "2026-07-14"
 categories: creations
 layout: article
-og_image: /images/creations/crête.webp
+og_image: /images/creations/crete.webp
 ---
 
-![crête](/images/creations/crête.webp)
+![crete](/images/creations/crete.webp)
 
 # Ligne de crête et chambre claire
 
