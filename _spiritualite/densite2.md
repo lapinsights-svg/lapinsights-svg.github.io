@@ -183,7 +183,9 @@ Dans le Nouveau Testament, Jésus exprime ce mouvement :
 > « Le Royaume de Dieu est au-dedans de vous. » (Luc 17:21)
 
 Le Royaume = **la densité concentrée**.  
-Au-dedans = **le repli du Fils étendu**.
+Au‑dedans = le centre du Fils étendu.
+C’est le cœur devenu temple.
+C’est là que commence la densité concentrée.
 
 Le retournement, c’est donc :
 
