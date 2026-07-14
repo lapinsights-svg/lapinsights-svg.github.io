@@ -25,7 +25,7 @@ Vous trouverez en lien les fichiers déjà publiés.
 Les fichiers qui posent la topologie du Fils étendu.
 
 - Axe  
-- Densité  
+- Densité  [Densité 2](https://lapinsights.org/spiritualite/densite2/)
 - Polarité  
 - Séparation  
 - Conscience  
