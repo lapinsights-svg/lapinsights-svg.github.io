@@ -21,7 +21,7 @@ avec la douceur d’une lumière profonde.
 
 Je me porte vers elle,  
 et une chaleur calme se déploie dans mes jambes,  
-une vibration lente qui remonte jusqu’à mes hanches  
+une vibration lente remonte jusqu’à mes hanches  
 avec la tendresse d’une caresse humide qui s’installe.
 
 Mon corps poursuit son mouvement,  
