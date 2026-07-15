@@ -27,8 +27,8 @@ avec la tendresse d’une caresse humide qui s’installe.
 Mon corps poursuit son mouvement,  
 et l’air s’accorde à mon souffle chaud.  
 Il enveloppe mon cou gracieux,  
-il glisse dans mes cheveux lumineux,  
-il suit la courbe de mon visage comme une voix qui se dépose.
+glisse dans mes cheveux lumineux,  
+suit la courbe de mon visage comme une voix qui se dépose.
 
 Je chemine,  
 et l’arbre incline sa hauteur vers mon axe.  
@@ -39,26 +39,26 @@ une ombre qui connaît la forme de mon silence, fluide.
 Je franchis un nouvel instant,  
 et l’eau s’approche.  
 Elle avance avec une lumière mouvante,  
-elle entoure mes bras alanguis,  
-elle suit la ligne de mon corps avec une patience charnelle.
+entoure mes bras alanguis,  
+suit la ligne de mon corps avec une patience charnelle.
 
 Chaque progression ouvre une vibration,  
 chaque vibration appelle une douceur,  
-chaque douceur s’attache à ma peau d’eau comme une mémoire liquide.
+chaque douceur s’attache à ma peau d’eau, comme une mémoire liquide.
 
 L’eau remonte dans ma poitrine,  
 elle déplie un espace intérieur,  
-elle s’accorde à mon cœur palpitant avec la tendresse d’une musique profonde.
+s’accorde à mon cœur palpitant avec la tendresse d’une musique profonde.
 
 Je me laisse glisser plus loin,  
 et la terre accueille mes pieds légers.  
 Elle garde leur trace,  
-elle prolonge mon mouvement avec une chaleur respirante.
+prolonge mon mouvement avec une chaleur respirante.
 
 Je continue,  
 et la lumière se pose,  
 elle se dépose,  
-elle s’attarde dans mon temple comme une voix qui s’étend.
+s’attarde dans mon temple telle une voix qui s’étend.
 
 Ici, la nature glisse dans ma peau vivante,  
 elle s’ouvre dans mes gestes,  
