@@ -28,12 +28,12 @@ Le corps poursuit son mouvement,
 et l’air s’accorde au souffle chaud.  
 Le cou gracieux s’enveloppe d’air,  
 les cheveux lumineux se laissent traverser,  
-le visage reçoit une voix qui se dépose.  
+Une voix se dépose sur le visage.   
 
 Je chemine,  
 et l’arbre incline sa hauteur vers l’axe.  
 Le flanc s'ouvre à la clarté qui descend,  
-la peau tiède invite une ombre vivante,  
+la peau tiède invite une ombre mouvante,  
 une ombre qui connaît la forme du silence, fluide.  
 
 Un nouvel instant est franchi,  
