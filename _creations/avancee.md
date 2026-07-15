@@ -41,10 +41,10 @@ et l’eau s’approche.
 Les bras alanguis s’entourent de lumière mouvante,  
 le corps se livre à une patience charnelle.  
 
-La progression ouvre une vibration,
-la vibration appelle une douceur,
-la douceur se glisse dans l’eau,
-comme une mémoire liquide.
+La progression ouvre une vibration,  
+la vibration appelle une douceur,  
+la douceur se glisse dans l’eau,  
+comme une mémoire liquide.  
 
 La poitrine accueille la sensation qui remonte,  
 un espace intérieur se déploie,  
