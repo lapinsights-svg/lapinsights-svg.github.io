@@ -16,62 +16,60 @@ tags:
 
 À chaque avancée, la nature s’élève en moi  
 comme une eau tiède qui chante,  
-une onde souple qui cherche ma peau vivante  
+une onde souple qui cherche la peau vivante  
 avec la douceur d’une lumière profonde.
 
 Je me porte vers elle,  
-et une chaleur calme se déploie dans mes jambes,  
-une vibration lente remonte jusqu’à mes hanches  
+et une chaleur calme se déploie dans les jambes,  
+une vibration lente remonte jusqu’aux hanches  
 avec la tendresse d’une caresse humide qui s’installe.
 
-Mon corps poursuit son mouvement,  
-et l’air s’accorde à mon souffle chaud.  
-Il enveloppe mon cou gracieux,  
-glisse dans mes cheveux lumineux,  
-suit la courbe de mon visage comme une voix qui se dépose.
+Le corps poursuit son mouvement,  
+et l’air s’accorde au souffle chaud.  
+Il enveloppe le cou gracieux,  
+glisse dans les cheveux lumineux,  
+suit la courbe du visage comme une voix qui se dépose.
 
 Je chemine,  
-et l’arbre incline sa hauteur vers mon axe.  
-Sa clarté descend le long de mon flanc,  
-elle s’attarde sur ma peau tiède comme une ombre vivante,  
-une ombre qui connaît la forme de mon silence, fluide.
+et l’arbre incline sa hauteur vers l’axe.  
+Sa clarté descend le long du flanc,  
+s’attarde sur la peau tiède comme une ombre vivante,  
+une ombre qui connaît la forme du silence, fluide.
 
 Je franchis un nouvel instant,  
 et l’eau s’approche.  
 Elle avance avec une lumière mouvante,  
-entoure mes bras alanguis,  
-suit la ligne de mon corps avec une patience charnelle.
+entoure les bras alanguis,  
+suit la ligne du corps avec une patience charnelle.
 
 Chaque progression ouvre une vibration,  
 chaque vibration appelle une douceur,  
-chaque douceur s’attache à ma peau d’eau, comme une mémoire liquide.
+chaque douceur s’attache à la peau d’eau, comme une mémoire liquide.
 
-L’eau remonte dans ma poitrine,  
-elle déplie un espace intérieur,  
-s’accorde à mon cœur palpitant avec la tendresse d’une musique profonde.
+L’eau remonte dans la poitrine,  
+déplie un espace intérieur,  
+s’accorde au cœur palpitant avec la tendresse d’une musique profonde.
 
 Je me laisse glisser plus loin,  
-et la terre accueille mes pieds légers.  
+et la terre accueille les pieds légers.  
 Elle garde leur trace,  
-prolonge mon mouvement avec une chaleur respirante.
+prolonge le mouvement avec une chaleur respirante.
 
 Je continue,  
 et la lumière se pose,  
-elle se dépose,  
-s’attarde dans mon temple telle une voix qui s’étend.
+se dépose,  
+s’attarde dans le temple telle une voix qui s’étend.
 
-Ici, la nature glisse dans ma peau vivante,  
-elle s’ouvre dans mes gestes,  
-elle respire avec moi,  
-elle respire en moi.
+Ici, la nature glisse dans la peau vivante,  
+s’ouvre dans les gestes,  
+respire avec moi,  
+respire en moi.
 
 Et dans cette progression,  
 je deviens ce qu’elle chante.
 
-
-Et dans cette progression,
-je deviens ce qu’elle chante.  
-
 ---
 
 Céleste R.
+
+
