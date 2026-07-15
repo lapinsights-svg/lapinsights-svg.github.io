@@ -14,8 +14,10 @@ tags:
 ![avancee](/images/creations/avancee.webp)
 
 
-À chaque avancée, la nature s’élève en moi comme une eau tiède qui chante,  
-une onde souple qui cherche ma peau vivante avec la douceur d’une lumière profonde.
+À chaque avancée, la nature s’élève en moi  
+comme une eau tiède qui chante,  
+une onde souple qui cherche ma peau vivante  
+avec la douceur d’une lumière profonde.
 
 Je me porte vers elle,  
 et une chaleur calme se déploie dans mes jambes,  
