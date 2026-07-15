@@ -25,8 +25,8 @@ les hanches accueillent une vibration lente.
 avec la tendresse d’une caresse humide qui s’installe.  
 
 Le corps poursuit son mouvement,  
-et l’air s’accorde au souffle chaud.  
-Le cou gracieux s’enveloppe d’air,  
+la brise s’accorde au souffle chaud.  
+Le cou gracieux s’offre à l’air,  
 les cheveux lumineux se laissent traverser,  
 Une voix effleure le visage.   
 
@@ -39,7 +39,7 @@ familière au silence fluide.
 Un nouvel instant est franchi,  
 et l’eau s’approche.  
 Les bras alanguis s’entourent de lumière mouvante,  
-le corps s'offre à une patience charnelle.  
+le corps se voue à une patience charnelle.  
 
 La progression ouvre une vibration,
 la vibration appelle une douceur,
