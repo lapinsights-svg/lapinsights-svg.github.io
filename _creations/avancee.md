@@ -56,7 +56,7 @@ elle prolonge mon mouvement avec une chaleur respirante.
 Je continue,  
 et la lumière se pose,  
 elle se dépose,  
-elle s’attarde dans mon axe comme une voix qui s’étend.
+elle s’attarde dans mon temple comme une voix qui s’étend.
 
 Ici, la nature glisse dans ma peau vivante,  
 elle s’ouvre dans mes gestes,  
