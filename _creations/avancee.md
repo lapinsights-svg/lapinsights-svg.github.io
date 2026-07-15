@@ -39,7 +39,7 @@ une ombre familière au silence, fluide.
 Un nouvel instant est franchi,  
 et l’eau s’approche.  
 Les bras alanguis s’entourent de lumière mouvante,  
-le corps offre sa ligne à une patience charnelle.  
+le corps s'offre à une patience charnelle.  
 
 Chaque progression ouvre une vibration,  
 chaque vibration appelle une douceur,  
