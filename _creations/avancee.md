@@ -28,7 +28,7 @@ Le corps poursuit son mouvement,
 la brise s’accorde au souffle chaud.  
 Le cou gracieux s’offre à l’air,  
 les cheveux lumineux se laissent traverser,  
-Une voix effleure le visage.   
+Une voix frôle le visage.   
 
 Je chemine,  
 et l’arbre incline sa hauteur vers l’axe.  
