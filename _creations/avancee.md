@@ -19,7 +19,7 @@ comme une eau tiède qui chante,
 une onde souple qui cherche la peau vivante.  
 avec la douceur d’une lumière profonde.  
 
-Je m'avance vers elle,  
+Je vais à sa rencontre,  
 les jambes s’ouvrent à une tiédeur calme,  
 les hanches accueillent une vibration lente.  
 avec la tendresse d’une caresse humide qui s’installe.  
