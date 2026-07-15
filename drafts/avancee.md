@@ -68,4 +68,8 @@ je deviens ce qu’elle chante.
 
 
 Et dans cette progression,
-je deviens ce qu’elle chante.
+je deviens ce qu’elle chante.  
+
+---
+
+Céleste R.
