@@ -16,12 +16,12 @@ tags:
 
 À chaque avancée, la nature s’élève en moi  
 comme une eau tiède qui chante,  
-une onde souple qui cherche la peau vivante. 
+une onde souple qui cherche la peau vivante.  
 avec la douceur d’une lumière profonde.  
 
 Je me porte vers elle,  
 les jambes s’ouvrent à une chaleur calme,  
-et les hanches accueillent une vibration lente. 
+et les hanches accueillent une vibration lente.  
 avec la tendresse d’une caresse humide qui s’installe.  
 
 Le corps poursuit son mouvement,  
@@ -43,7 +43,8 @@ le corps offre sa ligne à une patience charnelle.
 
 Chaque progression ouvre une vibration,  
 chaque vibration appelle une douceur,  
-chaque douceur s’attache à la peau d’eau, comme une mémoire liquide.  
+chaque douceur s’attache à la peau d’eau,  
+comme une mémoire liquide.  
 
 La poitrine accueille l’eau qui remonte,  
 un espace intérieur se déplie,  
