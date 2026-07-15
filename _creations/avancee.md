@@ -66,7 +66,7 @@ le souffle s’accorde à son mouvement,
 et la présence s’ouvre en moi.  
 
 Et dans cette progression,  
-je deviens ce qu’elle chante.  
+je me fonds dans son chant. 
 ---
 
 Céleste R.
