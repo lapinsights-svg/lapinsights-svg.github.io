@@ -63,10 +63,12 @@ le temple reçoit la voix qui se répand
 Ici, la peau vivante révèle la nature,  
 les gestes prolongent sa lumière,  
 le souffle s’accorde à son mouvement,  
-et la présence s’ouvre en moi.  
+la présence s’ouvre en moi.  
 
 Et dans cette progression,  
-je me fonds dans son chant. 
+je me fonds dans son chant.  
+
+
 ---
 
 Céleste R.
