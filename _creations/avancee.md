@@ -60,10 +60,10 @@ et la lumière se pose,
 se dépose,  
 le temple reçoit la voix qui se répand  
 
-Ici, la peau vivante révèle la nature,
-les gestes prolongent sa lumière,
-le souffle s’accorde à son mouvement,
-et la présence s’ouvre en moi.
+Ici, la peau vivante révèle la nature,  
+les gestes prolongent sa lumière,  
+le souffle s’accorde à son mouvement,  
+et la présence s’ouvre en moi.  
 
 Et dans cette progression,  
 je deviens ce qu’elle chante.  
