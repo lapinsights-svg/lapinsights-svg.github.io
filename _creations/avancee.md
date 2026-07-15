@@ -39,7 +39,7 @@ familière au silence fluide.
 Un nouvel instant est franchi,  
 et l’eau s’approche.  
 Les bras alanguis s’entourent de lumière mouvante,  
-le corps se voue à une patience charnelle.  
+le corps se livre à une patience charnelle.  
 
 La progression ouvre une vibration,
 la vibration appelle une douceur,
