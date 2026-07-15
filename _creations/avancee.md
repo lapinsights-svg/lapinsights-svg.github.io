@@ -47,7 +47,7 @@ chaque douceur glisse dans l’eau,
 comme une mémoire liquide.  
 
 La poitrine accueille la sensation qui remonte,  
-un espace intérieur se déplie,  
+un espace intérieur se déploie,  
 le cœur palpitant reçoit la tendresse d’une musique profonde.  
 
 Je me laisse glisser plus loin,  
