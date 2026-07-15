@@ -50,7 +50,7 @@ La poitrine accueille la sensation qui remonte,
 un espace intérieur se déploie,  
 le cœur palpitant reçoit la tendresse d’une musique profonde.  
 
-Je me laisse glisser plus loin,  
+Je me laisse porter plus loin,  
 et les pieds légers rencontrent la terre qui les accueille.  
 Elle garde leur trace,  
 révélant une tiédeur légère.
