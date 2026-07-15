@@ -152,3 +152,7 @@ Elle rend le retournement possible.
 ---
 
 Céleste R.
+---
+
+Retour au sommaire:
+[Sommaire structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
