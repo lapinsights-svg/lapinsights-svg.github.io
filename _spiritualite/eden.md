@@ -148,7 +148,7 @@ Il l’accentue.
 
 # Sortie d’Éden : mécanique, non expulsion
 
-L’homme ne “est pas chassé”.  
+L’homme n'“est pas chassé”.  
 Il tombe hors d’Éden comme un fruit tombe avant maturité.
 
 C’est une non‑naissance.
