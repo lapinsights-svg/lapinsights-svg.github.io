@@ -120,3 +120,8 @@ Je suis dans la vision.
 ---
 
 Céleste R.
+
+---
+
+Retour au sommaire:
+[Sommaire structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
