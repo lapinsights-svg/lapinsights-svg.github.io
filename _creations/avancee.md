@@ -20,7 +20,7 @@ une onde souple qui cherche la peau vivante.
 avec la douceur d’une lumière profonde.  
 
 Je me porte vers elle,  
-les jambes s’ouvrent à une chaleur calme,  
+les jambes s’ouvrent à une tiédeur calme,  
 les hanches accueillent une vibration lente.  
 avec la tendresse d’une caresse humide qui s’installe.  
 
