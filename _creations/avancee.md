@@ -34,7 +34,7 @@ Je chemine,
 et l’arbre incline sa hauteur vers l’axe.  
 Le flanc s'ouvre à la clarté qui descend,  
 la peau tiède invite une ombre mouvante,  
-une ombre familière au silence, fluide.  
+familière au silence fluide.  
 
 Un nouvel instant est franchi,  
 et l’eau s’approche.  
