@@ -14,14 +14,14 @@ tags:
 ![avancee](/images/creations/avancee.webp)
 
 
-À chaque avancée, la nature s’élève en moi  
+À chaque avancée, la nature afflue
 comme une eau tiède qui chante,  
 une onde souple qui cherche la peau vivante.  
 avec la douceur d’une lumière profonde.  
 
 Je me porte vers elle,  
 les jambes s’ouvrent à une chaleur calme,  
-et les hanches accueillent une vibration lente.  
+les hanches accueillent une vibration lente.  
 avec la tendresse d’une caresse humide qui s’installe.  
 
 Le corps poursuit son mouvement,  
@@ -32,8 +32,8 @@ le visage reçoit une voix qui se dépose.
 
 Je chemine,  
 et l’arbre incline sa hauteur vers l’axe.  
-Le flanc accueille la clarté qui descend,  
-la peau tiède reçoit une ombre vivante,  
+Le flanc s'ouvre à la clarté qui descend,  
+la peau tiède invite une ombre vivante,  
 une ombre qui connaît la forme du silence, fluide.  
 
 Un nouvel instant est franchi,  
@@ -43,10 +43,10 @@ le corps offre sa ligne à une patience charnelle.
 
 Chaque progression ouvre une vibration,  
 chaque vibration appelle une douceur,  
-chaque douceur s’attache à la peau d’eau,  
+chaque douceur glisse dans l’eau,  
 comme une mémoire liquide.  
 
-La poitrine accueille l’eau qui remonte,  
+La poitrine accueille la sensation qui remonte,  
 un espace intérieur se déplie,  
 le cœur palpitant reçoit la tendresse d’une musique profonde.  
 
@@ -58,12 +58,12 @@ prolonge le mouvement avec une chaleur respirante.
 Je continue,  
 et la lumière se pose,  
 se dépose,  
-mon temple reçoit la voix qui s’étend.  
+le temple reçoit la voix qui se répand  
 
-Ici, la peau vivante laisse la nature glisser,  
-les gestes s’ouvrent à elle,  
-le souffle respire avec elle,  
-le souffle respire en elle.  
+Ici, la peau vivante laisse la nature glisser,
+les gestes s’ouvrent à sa clarté,
+le souffle reçoit sa douceur,
+le souffle se déploie en elle.
 
 Et dans cette progression,  
 je deviens ce qu’elle chante.  
