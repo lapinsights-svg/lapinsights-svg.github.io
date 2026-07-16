@@ -2,7 +2,7 @@
 title: "La loi létale comme symptôme de l’époque"
 categories: idees
 layout: article
-date: 2026-07-16
+date: "2026-07-16"
 resume: "Analyse de la loi létale comme révélateur du désir, de la peur, des coûts et de la rupture anthropologique."
 og_image: /images/idees/symptome.webp
 ---
