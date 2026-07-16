@@ -10,6 +10,9 @@ og_image: /images/idees/symptome.webp
 ![symptome](/images/idees/symptome.webp)
 
 
+## I. Le passage en force  
+
+
 En onze mois, la France a introduit et voté une loi létale.  
 
 Un calendrier compressé pour empêcher toute maturation collective.  
@@ -38,6 +41,11 @@ Ce n’est pas un processus démocratique : c’est un passage en force.
 
 On n’a pas manqué le débat : on nous l’a retiré.  
 
+
+## II. Le désir comme moteur
+
+  
+
 On est à l’ère où chacun ne regarde que son propre périmètre.  
   
 Le “moi” comme cadre, le “désir” comme horizon.  
@@ -58,6 +66,10 @@ ni dans cette loi,
 ni dans leur esprit,  
 ni au moment où il faut décider,  
 ni maintenant quand ils croient pouvoir l’imaginer.  
+
+## III. La rupture anthropologique
+
+
 
 Et derrière cela, il y a les coûts,  
 et les logiques de bénéfices et de gains d’argent :  
