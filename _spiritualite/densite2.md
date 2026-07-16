@@ -144,7 +144,7 @@ Une seule réalité.
 Quatre densités.  
 Un seul mouvement.
 
-La densité ne “explique” pas la Bible.  
+La densité n'“explique” pas la Bible.  
 Elle la rend cohérente.  
 Elle rend le monde intelligible.  
 Elle rend le retournement possible.
