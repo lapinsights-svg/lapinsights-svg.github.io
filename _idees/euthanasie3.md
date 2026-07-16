@@ -103,3 +103,10 @@ et le citoyen un consommateur de fin de vie.
 
 ---
 Céleste R.
+
+
+
+Articles précédents sur ce thème :
+
+[Article 1 – La décohérence du droit](https://lapinsights.org/idees/euthanasie1/)
+[Article 2 – Le point de rupture](https://lapinsights.org/idees/euthanasie2/)
