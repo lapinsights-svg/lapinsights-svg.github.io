@@ -4,7 +4,11 @@ categories: idees
 layout: article
 date: 2026-07-16
 resume: "Analyse de la loi létale comme révélateur du désir, de la peur, des coûts et de la rupture anthropologique."
+og_image: /images/idees/symptome.webp
 ---
+
+![symptome](/images/idees/symptome.webp)
+
 
 En onze mois, la France a introduit et voté une loi létale.  
 
