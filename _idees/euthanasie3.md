@@ -10,7 +10,7 @@ og_image: /images/idees/symptome.webp
 ![symptome](/images/idees/symptome.webp)
 
 
-## I. Le passage en force  
+## 1. Le passage en force  
 
 
 En onze mois, la France a introduit et voté une loi létale.  
@@ -42,7 +42,7 @@ Ce n’est pas un processus démocratique : c’est un passage en force.
 On n’a pas manqué le débat : on nous l’a retiré.  
 
 
-## II. Le désir comme moteur
+## 2. Le désir comme moteur
 
   
 
@@ -67,7 +67,7 @@ ni dans leur esprit,
 ni au moment où il faut décider,  
 ni maintenant quand ils croient pouvoir l’imaginer.  
 
-## III. La rupture anthropologique
+## 3. La rupture anthropologique
 
 
 
