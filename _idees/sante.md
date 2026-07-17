@@ -1,5 +1,5 @@
 ---
-title: "2027 : Lettre aux lecteurs sur un système de santé qui s’effondre en silence"
+title: "2027 : Un système de santé qui s’effondre en silence"
 categories: idees
 "tags": ["santé", "politique publique", "financement", "capacité", "France 2027"]
 resume: "Le système de santé français s’effondre et il faut faire contribuer les payeurs invisibles."
