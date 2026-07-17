@@ -108,7 +108,7 @@ Les taxes actuelles ne couvrent pas ces coûts.
 L’opinion est prête.  
 Le rendement est immédiat.
 
-Une **taxe santé comportementale** calibrée sur les coûts réels.
+Alors pourquoi pas une **taxe santé comportementale** calibrée sur les coûts réels ?
 
 ---
 
@@ -121,7 +121,7 @@ Ces secteurs abîment les corps, et les pathologies qu’ils génèrent finissen
 Aujourd’hui, ce sont les ménages qui paient pour des risques qu’ils ne produisent pas.  
 Demain, il est juste que les entreprises qui créent la sinistralité financent la réparation sanitaire qu’elles provoquent.
 
-Une **cotisation sinistralité santé** indexée sur l’absentéisme et les pathologies professionnelles.
+Alors pourquoi pas une **cotisation sinistralité santé** indexée sur l’absentéisme et les pathologies professionnelles ?
 
 Ce serait juste, cohérent, difficile à contester.
 
