@@ -87,10 +87,10 @@ Donc il faut les faire contribuer **sans leur permettre de répercuter la charge
 
 Comment :
 
-- **Plafonner leurs frais de gestion**.  
-- **Encadrer les hausses de cotisations**.  
-- **Taxer les segments où elles font des profits excessifs** : optique, dentaire, téléconsultation.  
-- **Conditionner la contribution à des avantages réglementaires**.
+- Plafonner leurs frais de gestion.  
+- Encadrer les hausses de cotisations.  
+- Taxer les segments où elles font des profits excessifs : optique, dentaire, téléconsultation.  
+- Conditionner la contribution à des avantages réglementaire.
 
 Résultat :  
 elles contribuent,  
@@ -108,7 +108,7 @@ Les taxes actuelles ne couvrent pas ces coûts.
 L’opinion est prête.  
 Le rendement est immédiat.
 
-→ Une **taxe santé comportementale** calibrée sur les coûts réels.
+Une **taxe santé comportementale** calibrée sur les coûts réels.
 
 ---
 
@@ -117,15 +117,13 @@ Le rendement est immédiat.
 Transport, logistique, BTP :  
 des secteurs où les corps s’abîment, où les pathologies professionnelles explosent.
 
-**Ces secteurs abîment les corps, et les pathologies qu’ils génèrent finissent dans les comptes de l’Assurance maladie.  
+Ces secteurs abîment les corps, et les pathologies qu’ils génèrent finissent dans les comptes de l’Assurance maladie.  
 Aujourd’hui, ce sont les ménages qui paient pour des risques qu’ils ne produisent pas.  
-Demain, il est juste que les entreprises qui créent la sinistralité financent la réparation sanitaire qu’elles provoquent.**
+Demain, il est juste que les entreprises qui créent la sinistralité financent la réparation sanitaire qu’elles provoquent.
 
 → Une **cotisation sinistralité santé** indexée sur l’absentéisme et les pathologies professionnelles.
 
-C’est juste.  
-C’est cohérent.  
-C’est difficile à contester.
+Ce serait juste, cohérent, difficile à contester.
 
 ---
 
