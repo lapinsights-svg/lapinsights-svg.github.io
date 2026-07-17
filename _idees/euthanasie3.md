@@ -103,7 +103,7 @@ et la vulnérabilité un terrain.
 ## 4. Conclusion
 
 
-C’est ce que je pointe : le dispositif révèle l’époque,  
+Le dispositif révèle l’époque,  
 et l’époque ne va pas plus loin que son propre vouloir non libre.  
 
 C’est le désir comme horizon politique,  
