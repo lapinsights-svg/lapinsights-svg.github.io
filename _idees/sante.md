@@ -14,7 +14,7 @@ og_image: /images/idees/sante.webp
  
 Vous connaissez la scène.  
 Chaque hiver, les mêmes couloirs saturés, les mêmes brancards alignés, les mêmes visages tirés.  
-Et, au-dessus, les mêmes responsables qui découvrent la situation comme si elle n’était pas écrite depuis quinze ans.
+Et, au-dessus, les mêmes responsables qui découvrent la situation comme si elle n’était pas écrite depuis vingt ans.
 
 2027 ne sera pas une surprise.  
 Ce sera une répétition.
