@@ -2,9 +2,12 @@
 title: "2027 : Lettre aux lecteurs sur un système de santé qui s’effondre en silence"
 categories: idees
 "tags": ["santé", "politique publique", "financement", "capacité", "France 2027"]
-resume: "Pourquoi le système de santé français s’effondre et pourquoi il faut faire contribuer les payeurs invisibles."
-date: 2026-07-04
+resume: "Le système de santé français s’effondre et il faut faire contribuer les payeurs invisibles."
+date: 2026-07-17
+og_image: /images/idees/sante.webp
 ---
+
+![sante](/images/idees/sante.webp)
 
 # 2027 : Un système de santé qui s’effondre en silence
 
@@ -14,7 +17,7 @@ Chaque hiver, les mêmes couloirs saturés, les mêmes brancards alignés, les m
 Et, au-dessus, les mêmes responsables qui découvrent la situation comme si elle n’était pas écrite depuis quinze ans.
 
 2027 ne sera pas une surprise.  
-2027 sera une répétition.
+Ce sera une répétition.
 
 Parce que le pays continue de serrer la vis sur un système déjà exsangue.
 
@@ -128,8 +131,8 @@ C’est difficile à contester.
 
 ## Le point stratégique : choisir ce qu’on protège
 
-Lecteurs,  
-on ne peut pas tout faire :  
+
+On ne peut pas tout faire :  
 réduire le déficit, respecter les plafonds, reconstruire la santé.
 
 Il faut choisir.
