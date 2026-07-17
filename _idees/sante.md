@@ -121,7 +121,7 @@ Ces secteurs abîment les corps, et les pathologies qu’ils génèrent finissen
 Aujourd’hui, ce sont les ménages qui paient pour des risques qu’ils ne produisent pas.  
 Demain, il est juste que les entreprises qui créent la sinistralité financent la réparation sanitaire qu’elles provoquent.
 
-→ Une **cotisation sinistralité santé** indexée sur l’absentéisme et les pathologies professionnelles.
+Une **cotisation sinistralité santé** indexée sur l’absentéisme et les pathologies professionnelles.
 
 Ce serait juste, cohérent, difficile à contester.
 
