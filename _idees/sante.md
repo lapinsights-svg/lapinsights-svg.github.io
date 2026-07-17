@@ -101,7 +101,7 @@ le système respire.
 
 # 2. Les industries alcool / tabac
 
-Ici, la légitimité est totale.
+Ici, leur contribution serait d'une légitimité totale.
 
 Ces industries génèrent des coûts sanitaires massifs.  
 Les taxes actuelles ne couvrent pas ces coûts.  
