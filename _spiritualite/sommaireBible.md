@@ -24,7 +24,7 @@ Vous trouverez en lien les fichiers déjà publiés.
 ## I. Fondations structurelles  
 Les fichiers qui posent la topologie du Fils étendu.
 
-- Axe  
+- Axe      [Axe 1](https://lapinsights.org/spiritualite/axe1/)
 - Densité  [Densité 2](https://lapinsights.org/spiritualite/densite2/)
 - Polarité  
 - Séparation  
