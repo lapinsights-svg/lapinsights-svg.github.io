@@ -89,19 +89,27 @@ Une réunion.
 
 ## L’axe comme structure du Fils étendu
 
-Le Fils est l’unité étendue dans la dualité.  
-L’axe est la structure de cette extension.
+Le Fils est l’unité qui s’étire dans la dualité,  
+non pas divisée,  
+mais déployée.  
+
+L’axe est la forme de cette extension :  
+un fil qui descend,  
+un souffle qui remonte,  
+une circulation entre les pôles.  
 
 Un mouvement de source en forme.  
-Une circulation qui relie le haut et le bas.  
-Une respiration.
+Une colonne vivante.  
+Une respiration.  
 
-"En lui tout subsiste" (Col 1,17)  
-dit la réunion.
+« En lui tout subsiste » (Col 1,17). 
+n’indique pas seulement la cohésion.  
+Il montre l’étendue tenue dans un seul centre.  
 
 Non pas un point fixe,  
-mais une unité qui tient le monde,  
-un passage où tout se rejoint.  
+mais une unité qui traverse les deux faces,  
+un passage où l’unité se fait espace,  
+où la dualité devient souffle.  
 
 ---
 
