@@ -102,7 +102,7 @@ Un mouvement de source en forme.
 Une colonne vivante.  
 Une respiration.  
 
-« En lui tout subsiste » (Col 1,17). 
+« En lui tout subsiste » (Col 1,17).  
 n’indique pas seulement la cohésion.  
 Il montre l’étendue tenue dans un seul centre.  
 
