@@ -10,7 +10,10 @@ tags:
   - Unité
   - Dualité
   - Fils étendu
+og_image: /images/spiritualite/axe.webp
 ---
+
+![axe](/images/spiritualite/axe.webp)
 
 # Axe  
 ## Le lieu où les deux pôles se tiennent ensemble
@@ -158,5 +161,6 @@ La source étendue.
 
 Céleste R.
 
+Pour revenir au sommaire:
 [Sommaire Structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
 
