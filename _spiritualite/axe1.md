@@ -100,9 +100,7 @@ Une respiration.
 dit la réunion.
 
 Non pas un point fixe,  
-mais une unité qui tient le monde.  
-Ce n’est pas une séparation.  
-C’est un fil qui traverse,  
+mais une unité qui tient le monde,  
 un passage où tout se rejoint.  
 
 ---
