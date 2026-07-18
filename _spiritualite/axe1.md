@@ -99,8 +99,11 @@ Une respiration.
 "En lui tout subsiste" (Col 1,17)  
 dit la réunion.
 
+Non pas un point fixe,  
+mais une unité qui tient le monde.  
 Ce n’est pas une séparation.  
-C’est un passage.
+C’est un fil qui traverse,  
+un passage où tout se rejoint.  
 
 ---
 
