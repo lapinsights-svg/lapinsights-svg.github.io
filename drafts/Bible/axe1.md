@@ -1,5 +1,5 @@
 ---
-title: "L’Axe — version retournement + versets"
+title: "L’Axe"
 resume: "Le lieu où l’unité et la dualité se tiennent ensemble"
 episode: "La structure intérieure de la Bible"
 date: 2026-07-12
