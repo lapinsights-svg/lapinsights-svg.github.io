@@ -28,7 +28,7 @@ Il montre un centre.
 Une verticalité intérieure, un fil qui remonte, un point qui ne se déplace pas.  
 Un lieu où la densité se rassemble.
 
-« Une échelle dressée sur la terre, dont le sommet touchait le ciel » (Gn 28,12)  
+"Une échelle dressée sur la terre, dont le sommet touchait le ciel " (Gn 28,12)  
 dit la même structure sous une autre forme :  
 un passage.
 
