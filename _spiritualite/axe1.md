@@ -21,7 +21,7 @@ og_image: /images/spiritualite/axe.webp
 L’axe n’est pas une idée.  
 Il est le lieu où l’unité et la dualité se tiennent ensemble.
 
-« L’arbre de vie au milieu du jardin » (Gn 2,9)  
+"L’arbre de vie au milieu du jardin" (Gn 2,9)  
 ne décrit pas un décor.  
 Il montre un centre.
 
@@ -35,7 +35,7 @@ un passage.
 La colonne, la montagne, le Temple :  
 des images d’un seul axe.
 
-« Le Seigneur allait devant eux, le jour dans une colonne de nuée » (Ex 13,21)  
+"Le Seigneur allait devant eux, le jour dans une colonne de nuée" (Ex 13,21)  
 montre la densité qui guide.  
 Un centre en mouvement.
 
@@ -59,7 +59,7 @@ Quand tout se fragmente, il rassemble.
 Ce mouvement n’est pas psychologique.  
 C’est la densité qui revient à son lieu.
 
-« Le Royaume de Dieu est au-dedans de vous » (Lc 17,21)  
+"Le Royaume de Dieu est au-dedans de vous" (Lc 17,21)  
 dit ce centre intérieur.
 
 L’axe est ce retour :  
@@ -77,7 +77,7 @@ Une direction qui relie.
 Un lieu où la voix descend.  
 Un vide autour duquel tout s’organise.
 
-« Je remplirai cette maison de ma gloire » (Ag 2,7)  
+"Je remplirai cette maison de ma gloire" (Ag 2,7)  
 montre le centre vide comme lieu de densité.
 
 Éden en donne la structure :  
@@ -96,7 +96,7 @@ Un mouvement de source en forme.
 Une circulation qui relie le haut et le bas.  
 Une respiration.
 
-« En lui tout subsiste » (Col 1,17)  
+"En lui tout subsiste" (Col 1,17)  
 dit la réunion.
 
 Ce n’est pas une séparation.  
@@ -113,7 +113,7 @@ Unité et dualité se tiennent ensemble.
 Ni opposées, ni confondues.  
 Reliées.
 
-« La lumière brille dans les ténèbres » (Jn 1,5)  
+"La lumière brille dans les ténèbres" (Jn 1,5)  
 montre les deux pôles tenus ensemble.
 
 La polarité est le mouvement.  
@@ -143,7 +143,7 @@ Le point où l’unité et la dualité se rencontrent.
 Le lieu où la polarité peut être traversée.  
 Le lieu où les deux arbres se reconnaissent.
 
-« Afin que tous soient un » (Jn 17,21)  
+"Afin que tous soient un" (Jn 17,21)  
 dit la réunion comme mouvement intérieur.
 
 L’homme est la conscience de l’axe dans la création.  
