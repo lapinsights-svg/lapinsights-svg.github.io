@@ -42,7 +42,7 @@ Certains médecins s’interrogent sur la poursuite des soins aux non‑vacciné
 Ce glissement n’est pas anecdotique :  
 il marque la première fissure visible dans la verticalité du soin.  
 
-Le principe inconditionnel, *on soigne, point* , vacille.  
+Le principe inconditionnel: **on soigne, point** , vacille.  
 Le mérite entre dans la salle d’attente.
 
 Sous pression, le système médical cherche à optimiser.  
