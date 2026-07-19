@@ -180,7 +180,7 @@ Elle parlait à ceux qui, objectivement, avaient les moyens de continuer.
 Un rapport. Un réseau. Un message. Une mort.
 
 Et une question que personne n’ose formuler, mais qu’il serait malhonnête d’écarter :  
-**quelle est la cause de sa mort — accidentelle, naturelle, ou criminelle**.
+**quelle est la cause de sa mort - accidentelle, naturelle, ou criminelle**.
 
 Christine Cotton n’était pas une héroïne mythifiée.  
 Elle était une technicienne qui a vu quelque chose qui ne lui semblait pas normal.  
