@@ -37,7 +37,7 @@ Mais la nuit savait. La nuit sait toujours.
 
 Elle fuyait l’amour. Le vrai. Celui qui ouvre. Celui qui expose. Celui qui oblige à descendre de soi.  
 
-Elle fuyait l’amour — et la nuit, autour d’eux, refermait doucement la scène, comme si rien n’avait eu lieu, comme si tout devait rester dans l’ombre.  
+Elle fuyait l’amour, et la nuit autour d’eux, refermait doucement la scène, comme si rien n’avait eu lieu, comme si tout devait rester dans l’ombre.  
 
 La nuit continuait autour d’eux, vaste, immobile, presque sans air. Ils marchaient encore, mais ce n’était plus une marche : c’était une manière de rester dans le monde sans vraiment y être.
 
