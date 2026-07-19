@@ -121,7 +121,7 @@ La verticalité - ce qui ne se négocie pas - est remplacée par une horizontali
 - ce qui optimise  
 
 Une société ne glisse jamais frontalement vers cette logique.  
-Elle le fait par petites dérogations, justifiées par des contextes « exceptionnels ».  
+Elle le fait par petites dérogations, justifiées par des contextes "exceptionnels".  
 
 Jusqu’à ce que l’exception devienne structure.
 
