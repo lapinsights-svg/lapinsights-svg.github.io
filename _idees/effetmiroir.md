@@ -1,6 +1,6 @@
 ---
 title: "L’effet miroir : réécriture des fondements éthiques sous pression"
-date: "2026-07-16"
+date: "2026-07-19"
 categories: idees
 layout: article
 source: "https://www.lespecialiste.be/fr/actualites/ras-le-bol-des-medecins-nbsp-laquo-ils-se-posent-la-question-de-continuer-a-soigner-des-nbsp-non-vaccines-nbsp-raquo.html"
@@ -139,3 +139,6 @@ Une société qui accepte de conditionner le soin finit, tôt ou tard, par condi
 
 Et ce jour‑là, ce ne sont plus les lois qui ont changé.  
 C’est l’axe.
+
+---
+Céleste R.
