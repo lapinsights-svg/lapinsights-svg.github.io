@@ -15,7 +15,7 @@ La nuit les enveloppait. Une nuit sans contours, une nuit qui effaçait les dist
   
 Ils marchaient côte à côte, mais rien ne les reliait vraiment, sinon cette respiration hésitante qui cherchait un rythme.
 
-Il crut comprendre quelque chose — une idée douce, presque tiède, presque faite pour le consoler : qu’elle ne fuyait pas l’amour, mais seulement sa vitesse, son attention, sa gravité.
+Il crut comprendre quelque chose - une idée douce, presque tiède, presque faite pour le consoler : qu’elle ne fuyait pas l’amour, mais seulement sa vitesse, son attention, sa gravité.
 
 La nuit, parfois, laisse croire ce qu’on a besoin de croire.  
 
