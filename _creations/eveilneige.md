@@ -11,7 +11,7 @@ layout: article
 ![Eveil dans la neige](/images/creations/eveil-neige.png)
 
 
-La neige tombait comme une mémoire ancienne — cendre de lumière revenue caresser la terre pour réveiller ce qu'elle avait oublié.
+La neige tombait comme une mémoire ancienne, cendre de lumière revenue caresser la terre pour réveiller ce qu'elle avait oublié.
 
 La femme avançait, fine silhouette dans l'immensité blanche, et chaque pas semblait ouvrir un passage dans le silence. Il la suivait, non par nécessité, mais parce qu'il sentait que là où elle allait, quelque chose du monde se révélait.
 
