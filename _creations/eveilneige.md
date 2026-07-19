@@ -15,7 +15,7 @@ La neige tombait comme une mémoire ancienne, cendre de lumière revenue caresse
 
 La femme avançait, fine silhouette dans l'immensité blanche, et chaque pas semblait ouvrir un passage dans le silence. Il la suivait, non par nécessité, mais parce qu'il sentait que là où elle allait, quelque chose du monde se révélait.
 
-Le vent murmurait autour d’eux, un souffle venu d’avant les hommes. Elle marchait comme on suit un appel, un fil invisible tendu entre son cœur et un lieu que nul regard n’avait encore atteint. Il la regardait, et parfois il avait l’impression qu’elle n’était pas tout à fait de ce monde — ou qu’elle en était la part la plus secrète.
+Le vent murmurait autour d’eux, un souffle venu d’avant les hommes. Elle marchait comme on suit un appel, un fil invisible tendu entre son cœur et un lieu que nul regard n’avait encore atteint. Il la regardait, et parfois il avait l’impression qu’elle n’était pas tout à fait de ce monde, ou qu’elle en était la part la plus secrète.
 
 Elle s’arrêta. La neige se suspendit autour d’eux, comme si le temps retenait son souffle.
 
