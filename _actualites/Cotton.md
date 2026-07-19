@@ -3,10 +3,10 @@ title: "Christine Cotton : la statistique comme dernier acte"
 categories: actualites
 date: 2026-06-02
 resume: "Christine Cotton, biostatisticienne, son travail, son état de santé et les zones d’ombre entourant sa mort."
-og_image: /images/actualites/cotton.jpg
+og_image: /images/actualites/cotton.png
 ---
 
-![Cotton](/images/actualites/cotton.jpg)
+![Cotton](/images/actualites/cotton.png)
 
 
 On ne meurt pas d’un chiffre.  
