@@ -1,5 +1,5 @@
 ---
-title: "L’effet miroir : réécriture des fondements éthiques sous pression"
+title: "L’effet miroir, ou la réécriture des fondements éthiques sous pression"
 date: "2026-07-19"
 categories: idees
 layout: article
