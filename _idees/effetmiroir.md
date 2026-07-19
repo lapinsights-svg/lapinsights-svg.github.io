@@ -90,7 +90,7 @@ Le pattern est net :
 - conditionnalité
 
 **2021** : surcharge → fatigue → moralisation → idéologie → conditionnalité du soin.  
-**2024–2026** : surcharge → fatigue → idéologie → conditionnalité de la vie.
+**2026** : surcharge → fatigue → idéologie → conditionnalité de la vie.
 
 Dans les deux cas, la société accepte que des principes fondamentaux soient ajustés pour répondre à une pression.
 
