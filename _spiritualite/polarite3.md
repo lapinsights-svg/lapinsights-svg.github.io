@@ -225,6 +225,12 @@ Sans Christ, il n’y a pas de voie.
 > *Jean 14,6*  
 Le Christ est le repli de l’axe.
 
+L’extension = connaissance.
+Le retournement = reconnaissance.  
+
+**Dieu ouvre l’axe pour que le Fils puisse se connaître.
+Le Christ referme l’axe pour que le Fils puisse se retrouver.**
+
 ---
 
 # 9. Synthèse
