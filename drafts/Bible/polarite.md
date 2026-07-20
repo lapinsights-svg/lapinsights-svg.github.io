@@ -213,3 +213,5 @@ Elle est la condition du monde, du moi, et du retournement.
 
 Céleste R.
 
+Pour revenir au sommaire:
+[Sommaire Structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
