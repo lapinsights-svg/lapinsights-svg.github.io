@@ -145,6 +145,30 @@ Il est **ce qui reste de l’axe dans l’ouverture**.
 
 ---
 
+# 6 bis. Polarité = polarité intérieure du Fils
+
+La polarité ne se manifeste pas seulement dans l’univers étendu.  
+Elle se manifeste **à l’intérieur du Fils**, dans sa forme locale : l’humain.
+
+Quand l’axe s’ouvre, la densité se relâche et la lumière se dissocie.  
+Cette dissociation devient perceptible de l’intérieur sous la forme :
+
+- du moi,  
+- de l’ego,  
+- de la dispersion psychique,  
+- de la tension entre “dedans” et “dehors”.
+
+Ce ne sont pas des réalités psychologiques.  
+Ce sont les **formes locales de l’ouverture de l’axe**.
+
+Le moi est le **pôle vertical résiduel** de l’ouverture.  
+L’ego est la **tentative locale de repli** dans une structure ouverte.  
+La confusion interne est la **dissociation de la lumière**, vue de l’intérieur.
+
+L’humain est le point où l’ouverture du Fils devient **visible comme tension interne**.
+
+---
+
 # 7. Polarité = impossibilité de l’unité
 
 Dans la polarité :
