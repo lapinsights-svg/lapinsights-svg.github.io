@@ -26,7 +26,7 @@ Les fichiers qui posent la topologie du Fils étendu.
 
 - Axe      [Axe 1](https://lapinsights.org/spiritualite/axe1/)
 - Densité  [Densité 2](https://lapinsights.org/spiritualite/densite2/)
-- Polarité  
+- Polarité [Polarite3](https://lapinsights.org/spiritualite/polarite/)
 - Séparation  
 - Conscience  
 - Deux arbres  
