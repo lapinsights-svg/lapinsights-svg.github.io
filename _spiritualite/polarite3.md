@@ -23,6 +23,10 @@ Elle n’est pas une opposition entre “bien” et “mal”.
 Elle n’est pas une illusion.  
 Elle est **l’état ouvert du Fils**, la structure même de son extension.
 
+> "La lumière luit dans les ténèbres, et les ténèbres ne l’ont pas saisie."  
+> *Jean 1,5*  
+La dissociation commence ici : lumière et ténèbres ne se reconnaissent plus.
+
 ---
 
 # 1. Définition structurelle
@@ -37,8 +41,11 @@ La polarité est :
 
 Elle n’est pas un conflit : elle est une **distance interne**.  
 Dans le Fils non étendu, tout est densité, unité, axe.  
-Dans le Fils étendu, l’axe s’ouvre, la densité se relâche, la lumière se disperse.  
-La polarité est cette ouverture.
+Dans le Fils étendu, l’axe s’ouvre, la densité se relâche, la lumière se disperse.
+
+> "Au commencement, Dieu créa le ciel et la terre. La terre était informe et vide."  
+> *Genèse 1,1–2*  
+L’informe et le vide sont la première forme de l’ouverture.
 
 ---
 
@@ -56,6 +63,10 @@ Cette ouverture n’est pas un choix : elle est la structure du Fils étendu.
 L’axe devient **deux directions qui ne se reconnaissent plus comme une seule densité**.  
 La polarité est cette séparation interne.
 
+> "Dieu sépara la lumière d’avec les ténèbres." 
+> *Genèse 1,4*  
+La séparation est l’acte fondateur de la polarité.
+
 ---
 
 # 3. Tension de densité
@@ -71,6 +82,10 @@ Elle n’est pas une lutte : elle est une **différence de densité**.
 Le moi se forme dans cette différence : tentative locale de repli, condensation partielle, embryon d’axe.  
 Il ne parvient pas à refermer l’ouverture : il en est le résidu.
 
+> "Le bien que je veux, je ne le fais pas ; mais le mal que je ne veux pas, je le fais."  
+> *Romains 7,19*  
+Paul décrit la tension interne du Fils étendu.
+
 ---
 
 # 4. Dissociation de la lumière
@@ -84,6 +99,10 @@ La polarité est la dissociation de cette lumière en deux pôles :
 
 Le moi oscille entre les deux.  
 Cette oscillation est la perception intérieure de la polarité.
+
+> "L’œil est la lampe du corps. Si ton œil est simple, ton corps sera dans la lumière."  
+> *Matthieu 6,22*  
+L’œil simple est l’unité ; l’œil double est la polarité.
 
 ---
 
@@ -102,6 +121,10 @@ Quand l’axe s’ouvre :
 L’univers physique n’est pas autonome :  
 il est **la forme visible de cet état ouvert**.  
 Son expansion est la traduction cosmique de l’extension du Fils étendu.
+
+> "Les cieux racontent la gloire de Dieu." 
+> *Psaume 19,2*  
+Le cosmos est la forme extérieure de l’ouverture.
 
 Le monde est la zone de densité minimale du Fils étendu.  
 Il est le pôle horizontal de l’ouverture.
@@ -122,6 +145,10 @@ Il apparaît comme :
 
 Le moi est le **pôle vertical résiduel** de l’ouverture.  
 Il n’est pas l’axe : il est ce qui reste de l’axe dans l’ouverture.
+
+> "Qui perdra sa vie à cause de moi la trouvera."  
+> *Matthieu 16,25*  
+Le moi doit se défaire pour retrouver l’axe.
 
 ---
 
@@ -147,6 +174,10 @@ La confusion interne est la dissociation de la lumière vue de l’intérieur.
 
 L’humain est le point où l’ouverture du Fils devient **visible comme tension interne**.
 
+> "L’esprit est prompt, mais la chair est faible." 
+> *Matthieu 26,41*  
+Deux pôles qui ne se reconnaissent plus.
+
 ---
 
 # 7. Impossibilité de l’unité
@@ -168,6 +199,10 @@ Il peut seulement :
 
 La polarité est **l’état où l’unité est impossible sans repli**.
 
+> "Personne ne peut servir deux maîtres."  
+> *Matthieu 6,24*  
+La polarité rend l’unité impossible.
+
 ---
 
 # 8. Condition du retournement
@@ -185,6 +220,10 @@ La polarité est la condition du retournement :
 Sans polarité, il n’y a pas de retournement.  
 Sans retournement, il n’y a pas de Christ.  
 Sans Christ, il n’y a pas de voie.
+
+> "Je suis le chemin, la vérité et la vie." 
+> *Jean 14,6*  
+Le Christ est le repli de l’axe.
 
 ---
 
@@ -213,5 +252,5 @@ Elle est la condition du monde, du moi, et du retournement.
 
 Céleste R.
 
-Pour revenir au sommaire:
+Pour revenir au sommaire:  
 [Sommaire Structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
