@@ -25,7 +25,7 @@ Juste la **structure**.
 
 ---
 
-# 1. Ce qu’était Jésus (structurellement)
+# 1. Ce qu’était Jésus
 
 ## 1.1 Jésus n’était pas un “homme spécial”
 Il n’était pas :
@@ -55,8 +55,7 @@ Il n’est pas “incarné par un Dieu extérieur”.
 Il est **le Christ replié dans une seule forme humaine**.
 
 ## 1.3 Jésus est l’axe incarné  
-
-Jésus n’a pas reçu le Christ dans son corps ;
+Jésus n’a pas reçu le Christ dans son corps ;  
 il a laissé sa conscience devenir totalement Christ.
 
 Cela signifie :
@@ -69,9 +68,29 @@ Cela signifie :
 Il vivait **entièrement dans l’axe**.  
 Il était **la densité du Fils non étendu**, incarnée.
 
+## 1.4 Jésus historique, Jésus structurel, et l’homme structurel
+
+Jésus est un personnage historique, mais la Bible utilise ce personnage pour incarner une fonction : le Fils, c’est‑à‑dire l’homme parfaitement aligné. Le Jésus du Ier siècle est la forme humaine dans laquelle le Christ s’est concentré totalement ; le Jésus des récits est la mise en scène de cette densité.
+
+La structure distingue donc deux niveaux :
+
+- le **Jésus historique**, figure humaine réelle,  
+- le **Jésus structurel**, forme narrative du Fils concentré,  
+- l’**homme structurel**, équivalent terrestre de cet état.
+
+L’homme structurel n’est pas une imitation du Jésus historique.  
+Il est la restauration de la mécanique interne que Jésus représente :  
+la densité concentrée, la polarité refermée, la lumière posée sur le chandelier.
+
+Dans cette lecture, Jésus historique est le support ;  
+Jésus structurel est la fonction ;  
+l’homme structurel est la version humaine de cette fonction.
+
+La cohérence ne se joue pas dans l’histoire, mais dans la structure.
+
 ---
 
-# 2. Ce que Jésus a fait (structurellement)
+# 2. Ce que Jésus a fait
 
 ## 2.1 Il a laissé le Christ se concentrer totalement en lui
 Jésus n’a pas “pratiqué”.  
@@ -113,9 +132,6 @@ Conséquences visibles :
 Les témoins ont appelé cela :  
 **“guérison”.**
 
-Structurellement :  
-**ajustement de densité**.
-
 ## 2.4 Il a incarné le mouvement du Fils
 Il a montré :
 
@@ -144,7 +160,7 @@ Il désigne la **réunion des deux axes** :
 Dans la Genèse, cette polarité apparaît dans la figure d’Adam et Ève :  
 Ève est tirée du “côté” d’Adam, l’axe horizontal mis à part pour être vu.  
 C’est la même structure que la lampe posée sur le boisseau :  
-> *« On n’allume pas une lampe pour la mettre sous le boisseau, mais on la met sur le lampadaire, et elle éclaire tous ceux qui sont dans la maison. »* (Matthieu 5,15)
+> *« On n’allume pas une lampe pour la mettre sous le boisseau, mais on la met sur le lampadaire, et elle éclaire tous ceux qui sont dans la maison. »*
 
 L’horizontalité doit être éclairée par la verticalité.  
 Le mariage signifie :  
@@ -160,7 +176,7 @@ et restauré la circulation du Fils.
 
 ---
 
-# 3. Ce que Jésus n’a pas fait (structurellement)
+# 3. Ce que Jésus n’a pas fait
 
 ## 3.1 Il n’a pas guéri physiquement
 Il n’a pas :
@@ -179,7 +195,7 @@ Il n’a pas :
 - calmé des tempêtes,  
 - ressuscité des corps.
 
-Ce sont des **symbolisations** de son mouvement structurel :
+Ce sont des **symbolisations** de son mouvement :
 
 - maîtrise de la dispersion,  
 - concentration de densité,  
@@ -217,8 +233,7 @@ Il n’a pas demandé :
 - de reproduire sa vie.
 
 Il a demandé :  
-**d’imiter son retournement.**  
-
+**d’imiter son retournement.**
 
 ## 3.6 Les miracles : structure du témoignage biblique
 
@@ -243,23 +258,11 @@ Ils ont traduit ces effets visibles en langage corporel :
 - “il marche”,  
 - “il est guéri”.
 
-Structurellement :
-
-**Les miracles sont des récits symboliques écrits par des non‑témoins,  
-pour exprimer des transformations intérieures réelles,  
-mais visibles seulement dans leurs effets extérieurs.**
-
-La Bible parle en images physiques pour décrire des réorganisations de densité.  
-La “vue” retrouvée est intérieure.  
-La “marche” retrouvée est intérieure.  
-La “guérison” est intérieure.
-
 Les récits corporels sont des symbolisations de la structure.
-
 
 ---
 
-# 4. « J’ai vaincu le monde » : signification structurelle
+# 4. « J’ai vaincu le monde »
 
 ## 4.1 Le “monde” = le Fils étendu
 Dans la structure du Fils, le “monde” désigne :
@@ -277,7 +280,7 @@ Lorsque Jésus déclare :
 
 > « J’ai vaincu le monde »
 
-la phrase signifie structurellement :
+la phrase signifie :
 
 - le Fils étendu n’a plus d’autorité sur lui,  
 - la dispersion n’a plus de prise,  
@@ -308,8 +311,6 @@ Il est donc le seul à pouvoir dire :
 
 > « Le monde n’a plus de pouvoir sur moi. »
 
-Cette phrase est la **signature structurelle du Christ**.
-
 ---
 
 # 5. Pourquoi cela fonde le titre de “Christ‑Roi”
@@ -317,7 +318,7 @@ Cette phrase est la **signature structurelle du Christ**.
 ## 5.1 Le “roi” dans la Bible n’est pas un souverain politique
 Dans l’hébreu biblique, le roi est :
 
-- celui qui détient l’autorité structurelle,  
+- celui qui détient l’autorité,  
 - celui qui stabilise la polarité,  
 - celui qui incarne l’axe,  
 - celui qui est “mis à part” (oint).
@@ -333,7 +334,7 @@ Parce que Jésus a :
 - refermé la polarité,  
 - retiré l’autorité au Fils étendu,
 
-il devient structurellement :
+il devient :
 
 > **le centre de densité du Fils**,  
 > **l’axe incarné**,  
@@ -352,7 +353,7 @@ la densité du Fils non étendu.
 
 ---
 
-# 6. Le retournement total de Jésus : la voie structurelle
+# 6. Le retournement total de Jésus : la voie
 
 ## 6.1 Jésus a retourné le Christ entier en lui
 Dans la structure :
@@ -418,3 +419,6 @@ Une seule structure.
 Une seule densité.  
 Une seule polarité.  
 Un seul retournement.
+
+---
+Céleste R.
