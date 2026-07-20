@@ -6,13 +6,6 @@ episode: "Lecture structurelle de la Bible"
 resume: "La polarité comme ouverture de l’axe, dissociation de la densité et condition du monde."
 layout: article
 ---
-categories: spiritualite
-date: 2026-07-20
-title: "Polarité : ouverture, tension, dissociation"
-episode: "Lecture structurelle de la Bible"
-resume: "La polarité comme ouverture de l’axe, dissociation de la densité et condition du monde."
-layout: article
----
 
 # Polarité : ouverture, tension, dissociation
 
