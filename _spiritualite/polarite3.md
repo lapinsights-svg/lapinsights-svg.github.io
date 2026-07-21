@@ -248,7 +248,7 @@ Elle n’est pas une opposition.
 Elle est une ouverture.
 
 La polarité est la topologie du Fils étendu.  
-Elle est la condition du monde, du moi, et du repli.
+Elle est la condition du monde, du moi, et du retournement.
 
 ---
 
