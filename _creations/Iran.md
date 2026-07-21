@@ -24,7 +24,7 @@ le feu éclaire nos cœurs comme une lampe dans la nuit intérieure.
 Les tyrans dressent leurs ombres, mais le vent les disperse :  
 nul pouvoir ne résiste à la vérité qui brûle sans bruit.
 
-Je lève ma coupe vers tes ruines, non pour oublier :  
+Je lève ma coupe vers tes ruines, pour saisir l'instant :  
 le vin révèle le passage secret que la guerre tente de couvrir.
 
 Tes jardins brûlent, mais la rose, obstinée, garde son parfum,  
