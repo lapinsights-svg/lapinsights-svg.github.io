@@ -1,5 +1,5 @@
 ---
-title: "Réguler l’information ou contrôler la pensée ? Le glissement silencieux du Sénat"
+title: "La régulation comme matrice du contrôle. Le glissement silencieux du Sénat"
 date: "2026-07-21"
 categories: actualites
 resume: "Le Sénat redéfinit le périmètre du pensable sous couvert de sécurité informationnelle."
@@ -10,7 +10,7 @@ og_image: /images/actualites/malinformation.webp
 ![malinformation](/images/actualites/malinformation.webp)
 
 
-# Réguler l’information ou contrôler la pensée ?  
+# La régulation comme matrice du contrôle.  
 ## Le glissement silencieux du Sénat
 
 **Rapport du Sénat :**  
