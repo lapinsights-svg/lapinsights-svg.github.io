@@ -16,7 +16,7 @@ tags:
 
 ![Iran](/images/creations/Iran.webp)
 
-# *Iran en feu*
+# *La rose dans la cendre.*
 
 Dans la poussière rouge du matin, ô Iran,  
 le feu éclaire nos cœurs comme une lampe dans la nuit intérieure.
