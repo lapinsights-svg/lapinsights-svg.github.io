@@ -1,8 +1,8 @@
 ---
-title: "Iran en feu"
+title: "La rose dans la cendre"
 categories: creation
 date: "2026-07-21"
-resume: "Voyage intérieur dans l’incendie révélant la lumière"
+resume: "L'Iran cherche la lumière au cœur de la cendre."
 og_image: /images/creations/Iran.webp
 tags:
   - iran
