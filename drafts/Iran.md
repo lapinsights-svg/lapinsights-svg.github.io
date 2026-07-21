@@ -42,4 +42,5 @@ car même en feu, tu restes plus vaste que le destin et plus profond que l’âm
 
 ---
 
-Céleste R.
+ © Céleste R. — CC BY‑NC‑ND
+
