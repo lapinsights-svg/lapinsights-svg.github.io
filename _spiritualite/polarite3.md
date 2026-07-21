@@ -13,15 +13,19 @@ og_image: /images/spiritualite/polarite.webp
 # Polarité : ouverture, tension, dissociation
 
 La polarité est la troisième plaque de la topologie du Fils étendu.  
-Elle décrit **l’ouverture de l’axe**, la **dissociation de la densité**, et la **tension interne** qui en résulte.  
+Elle décrit l’ouverture de l’axe, la dissociation de la densité,  
+et la tension interne qui apparaît lorsque l’unité se relâche.  
 Sans polarité, il n’y a ni monde, ni moi, ni dispersion.  
-La polarité est la condition d’existence du Fils étendu.
+Elle est la condition d’existence du Fils étendu.
 
 Elle n’est pas un concept psychologique.  
 Elle n’est pas un dualisme moral.  
 Elle n’est pas une opposition entre “bien” et “mal”.  
 Elle n’est pas une illusion.  
-Elle est **l’état ouvert du Fils**, la structure même de son extension.
+Elle est la structure réelle de l’ouverture :  
+l’état où la densité cesse d’être une,  
+où la lumière se déplie,  
+où l’axe se sépare.
 
 > "La lumière luit dans les ténèbres, et les ténèbres ne l’ont pas saisie."  
 > *Jean 1,5*  
@@ -33,15 +37,17 @@ La dissociation commence ici : lumière et ténèbres ne se reconnaissent plus.
 
 La polarité est :
 
-- l’axe vertical **ouvert**,  
-- la densité **relâchée**,  
-- la lumière **dissociée**,  
-- la cohérence **dépliée**,  
-- l’unité **mise en tension**.
+- l’axe vertical ouvert,  
+- la densité relâchée,  
+- la lumière dissociée,  
+- la cohérence dépliée,  
+- l’unité mise en tension.
 
-Elle n’est pas un conflit : elle est une **distance interne**.  
+Ce n’est pas un conflit : c’est une distance interne.  
 Dans le Fils non étendu, tout est densité, unité, axe.  
-Dans le Fils étendu, l’axe s’ouvre, la densité se relâche, la lumière se disperse.
+Dans le Fils étendu, l’axe cesse d’être une seule direction,  
+la densité se relâche,  
+la lumière se disperse.
 
 > "Au commencement, Dieu créa le ciel et la terre. La terre était informe et vide."  
 > *Genèse 1,1–2*  
@@ -59,11 +65,11 @@ Quand il s’ouvre, il se dédouble :
 - centre / périphérie,  
 - moi / monde.
 
-Cette ouverture n’est pas un choix : elle est la structure du Fils étendu.  
-L’axe devient **deux directions qui ne se reconnaissent plus comme une seule densité**.  
+Cette ouverture n’est pas un choix : c’est la structure de l’extension.  
+L’axe devient deux directions qui ne se reconnaissent plus comme une seule densité.  
 La polarité est cette séparation interne.
 
-> "Dieu sépara la lumière d’avec les ténèbres." 
+> "Dieu sépara la lumière d’avec les ténèbres."  
 > *Genèse 1,4*  
 La séparation est l’acte fondateur de la polarité.
 
@@ -77,9 +83,10 @@ Quand la densité se relâche, elle produit :
 - une zone moins dense (extension),  
 - une tension entre les deux.
 
-Cette tension est la polarité.  
-Elle n’est pas une lutte : elle est une **différence de densité**.  
-Le moi se forme dans cette différence : tentative locale de repli, condensation partielle, embryon d’axe.  
+Cette tension n’est pas une lutte : c’est une différence de densité.  
+Le moi se forme dans cette différence : tentative locale de repli,  
+condensation partielle,  
+embryon d’axe.  
 Il ne parvient pas à refermer l’ouverture : il en est le résidu.
 
 > "Le bien que je veux, je ne le fais pas ; mais le mal que je ne veux pas, je le fais."  
@@ -109,7 +116,7 @@ L’œil simple est l’unité ; l’œil double est la polarité.
 # 5. Naissance du monde
 
 Le monde n’est pas une création extérieure.  
-Il est la **conséquence de l’ouverture**.
+Il est la conséquence de l’ouverture.
 
 Quand l’axe s’ouvre :
 
@@ -119,10 +126,10 @@ Quand l’axe s’ouvre :
 - la matière apparaît.
 
 L’univers physique n’est pas autonome :  
-il est **la forme visible de cet état ouvert**.  
+il est la forme visible de cet état ouvert.  
 Son expansion est la traduction cosmique de l’extension du Fils étendu.
 
-> "Les cieux racontent la gloire de Dieu." 
+> "Les cieux racontent la gloire de Dieu."  
 > *Psaume 19,2*  
 Le cosmos est la forme extérieure de l’ouverture.
 
@@ -134,7 +141,7 @@ Il est le pôle horizontal de l’ouverture.
 # 6. Naissance du moi
 
 Le moi n’est pas une entité psychologique.  
-Il est une **fonction structurelle**.
+Il est une fonction structurelle.
 
 Il apparaît comme :
 
@@ -143,7 +150,7 @@ Il apparaît comme :
 - embryon d’axe,  
 - point de tension.
 
-Le moi est le **pôle vertical résiduel** de l’ouverture.  
+Le moi est le pôle vertical résiduel de l’ouverture.  
 Il n’est pas l’axe : il est ce qui reste de l’axe dans l’ouverture.
 
 > "Qui perdra sa vie à cause de moi la trouvera."  
@@ -155,10 +162,10 @@ Le moi doit se défaire pour retrouver l’axe.
 # 6 bis. Polarité intérieure du Fils
 
 La polarité ne se manifeste pas seulement dans l’univers étendu.  
-Elle se manifeste **à l’intérieur du Fils**, dans sa forme locale : l’humain.
+Elle se manifeste à l’intérieur du Fils, dans sa forme locale : l’humain.
 
 Quand l’axe s’ouvre, la densité se relâche et la lumière se dissocie.  
-Cette dissociation devient perceptible de l’intérieur sous la forme :
+Cette dissociation devient perceptible sous la forme :
 
 - du moi,  
 - de l’ego,  
@@ -166,15 +173,15 @@ Cette dissociation devient perceptible de l’intérieur sous la forme :
 - de la tension entre “dedans” et “dehors”.
 
 Ce ne sont pas des réalités psychologiques.  
-Ce sont les **formes internes de l’ouverture de l’axe**.
+Ce sont les formes internes de l’ouverture de l’axe.
 
 Le moi est le pôle vertical résiduel.  
 L’ego est la tentative locale de repli dans une structure ouverte.  
 La confusion interne est la dissociation de la lumière vue de l’intérieur.
 
-L’humain est le point où l’ouverture du Fils devient **visible comme tension interne**.
+L’humain est le point où l’ouverture devient visible comme tension interne.
 
-> "L’esprit est prompt, mais la chair est faible." 
+> "L’esprit est prompt, mais la chair est faible."  
 > *Matthieu 26,41*  
 Deux pôles qui ne se reconnaissent plus.
 
@@ -195,9 +202,9 @@ Il peut seulement :
 - réduire la dispersion,  
 - augmenter la densité,  
 - stabiliser l’axe local,  
-- préparer le retournement.
+- préparer le repli.
 
-La polarité est **l’état où l’unité est impossible sans repli**.
+La polarité est l’état où l’unité est impossible sans fermeture.
 
 > "Personne ne peut servir deux maîtres."  
 > *Matthieu 6,24*  
@@ -207,29 +214,18 @@ La polarité rend l’unité impossible.
 
 # 8. Condition du retournement
 
-Le retournement n’est pas un geste moral.  
-Il est un **mouvement de densité**.
+La polarité crée la tension,  
+ouvre l’axe,  
+disperse la lumière,  
+et rend nécessaire le repli.
 
-La polarité est la condition du retournement :
+Sans polarité, il n’y a pas de voie.  
+Sans tension, il n’y a pas de retour.  
+Sans ouverture, il n’y a pas de densité retrouvée.
 
-- elle crée la tension,  
-- elle ouvre l’axe,  
-- elle disperse la lumière,  
-- elle rend nécessaire le repli.
-
-Sans polarité, il n’y a pas de retournement.  
-Sans retournement, il n’y a pas de Christ.  
-Sans Christ, il n’y a pas de voie.
-
-> "Je suis le chemin, la vérité et la vie." 
+> "Je suis le chemin, la vérité et la vie."  
 > *Jean 14,6*  
-Le Christ est le repli de l’axe.
-
-L’extension = connaissance.  
-Le retournement = reconnaissance.  
-
-**Dieu ouvre l’axe pour que le Fils puisse se connaître.  
-Le Christ referme l’axe pour que le Fils puisse se retrouver.**
+Le chemin existe parce que l’ouverture existe.
 
 ---
 
@@ -245,14 +241,14 @@ La polarité est :
 - la tension interne du Fils étendu.
 
 Elle n’est pas un conflit.  
-Elle est une **structure**.  
+Elle est une structure.  
 Elle n’est pas un dualisme.  
-Elle est une **distance interne**.  
+Elle est une distance interne.  
 Elle n’est pas une opposition.  
-Elle est une **ouverture**.
+Elle est une ouverture.
 
 La polarité est la topologie du Fils étendu.  
-Elle est la condition du monde, du moi, et du retournement.
+Elle est la condition du monde, du moi, et du repli.
 
 ---
 
