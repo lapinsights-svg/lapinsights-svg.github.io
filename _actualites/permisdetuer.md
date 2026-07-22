@@ -24,7 +24,7 @@ og_image: /images/actualites/permisdetuer.webp
 
 ---
 
-## I. Le geste
+## 1. Le geste
 
 **35 députés** ont décidé de **classer** une pétition signée par **720 000 personnes**.  
 Minuit passé. 22 juillet 2026. 35 contre 21.  
@@ -33,7 +33,7 @@ Un vote qui **efface**.
 
 ---
 
-## II. Le dispositif
+## 2. Le dispositif
 
 La loi a été construite **avec les syndicats policiers**, sans les avocats, sans les associations, sans les familles.  
 Le contradictoire a été retiré du texte.  
@@ -45,7 +45,7 @@ Deux effacements successifs :
 
 ---
 
-## III. La fracture
+## 3. La fracture
 
 Les magistrats ont été **réservés**.  
 Réserve froide. Réserve technique. Réserve constitutionnelle.  
@@ -60,7 +60,7 @@ C’est insupportable. Parce que c’est structurel.
 
 ---
 
-## IV. Le retour
+## 4. Le retour
 
 Le **19 septembre 2026**, la société civile revient avec une manifestation.  
 Avocats. Familles. Associations. Collectifs.  
@@ -78,7 +78,7 @@ mais pour montrer que **l’effacement n’a pas supprimé la volonté**.
 
 ---
 
-## V. La ligne
+## 5. La ligne
 
 Ce n’est pas fini.  
 Parce que le droit lui‑même a exprimé une réserve.  
