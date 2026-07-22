@@ -1,5 +1,5 @@
 ---
-title: "Loi permis de tuer, effacement démocratique"
+title: "Loi permis de tuer et effacement démocratique"
 resume: "35 députés ont neutralisé une pétition de 720 000 citoyens."
 layout: article
 categories: actualites
