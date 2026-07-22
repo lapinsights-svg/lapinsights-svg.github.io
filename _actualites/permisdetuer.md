@@ -1,6 +1,6 @@
 ---
 title: "Loi permis de tuer"
-resume: "Effacement démocratique : 35 députés ont neutralisé une pétition de 720 000 citoyens."
+resume: "Effacement démocratique, 35 députés ont neutralisé une pétition de 720 000 citoyens."
 layout: article
 categories: actualites
 tags:
@@ -10,7 +10,10 @@ tags:
   - "societe-civile"
   - "parlement"
 date: "2026-07-22"
+og_image: /images/actualites/permisdetuer.webp
 ---
+
+![permisdetuer](/images/actualites/permisdetuer.webp)
 
 # Effacement
 
