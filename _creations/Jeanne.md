@@ -4,7 +4,7 @@ date: 2026-04-23
 categories: creations
 og_image: /images/creations/Jeanne.png
 ---
-*Cliquer sur play pour entrer dans la métamorphose.*
+*Cliquer sur play pour suivre Jeanne.*
 
 <video controls playsinline width="100%">
   <source src="/assets/videos/Jeanne4.mp4" type="video/mp4">
