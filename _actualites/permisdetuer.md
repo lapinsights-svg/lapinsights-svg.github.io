@@ -20,7 +20,7 @@ og_image: /images/actualites/permisdetuer.webp
 ## Loi concernée
 
 **Proposition de loi instaurant une présomption de légitime défense pour les policiers**  
-*(appelée dans le débat public : « loi permis de tuer »)*
+*(appelée dans le débat public : "loi permis de tuer")*
 
 ---
 
