@@ -16,7 +16,7 @@ une spirale de lumière lente, presque immobile,
 un murmure d'origine flottant dans l'espace intérieur,  
 une présence douce, diffuse, sans contour.
 
-Je flotte — plus que je marche —  
+Je flotte, plus que je marche,  
 dans une poussière d'astres qui reconnaît ma vibration,  
 un halo d'étoiles fines glissant autour de mon axe d'or,  
 comme si chaque particule me saluait en silence.  
@@ -65,7 +65,7 @@ savoirs en suspension, doutes en apesanteur,
 éclats, silences, transparences,  
 ascension douce, élargissement de moi-même.
 
-Et quand la nuit — la vraie — s'étend,  
+Et quand la nuit - la vraie - s'étend,  
 mon royaume se déploie dans l'infini,  
 murs de vide vibrant, ombres constellées,  
 souffle d'étoiles naissantes glissant dans mes contours.
@@ -81,7 +81,8 @@ présence douce dans l'immensité.
 
 Je suis la brume, la lumière, la matière noire,  
 je suis mon royaume,  
-et mon royaume, un cosmos en mouvement.
+et mon royaume, un cosmos en mouvement.  
+
 ---
 
 © Céleste R. — CC BY-NC-ND
