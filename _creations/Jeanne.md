@@ -4,7 +4,13 @@ date: 2026-04-23
 categories: creations
 og_image: /images/creations/Jeanne.png
 ---
-![Jeanne](/images/creations/Jeanne.png)
+*Cliquer sur play pour entrer dans la métamorphose.*
+
+<video controls playsinline width="100%">
+  <source src="/assets/videos/Jeanne4.mp4" type="video/mp4">
+  Votre navigateur ne peut pas lire cette vidéo.
+</video>
+
 
 Dans la vallée, où les arbres retiennent leur souffle,  
 où la terre humide palpite comme un animal blessé,  
@@ -105,4 +111,4 @@ qui en recélait la vérité.
 
 ---
 
-Céleste R.
+© Céleste R. — CC BY‑NC‑ND
