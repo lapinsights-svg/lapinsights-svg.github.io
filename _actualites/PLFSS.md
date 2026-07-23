@@ -79,7 +79,7 @@ ce sont eux qui génèrent les volumes de soins récurrents, les suivis lourds, 
 Ce sont eux qui ne peuvent rien réduire.  
 Ce sont eux qui seront mécaniquement touchés par toute modulation des remboursements.
 
-## 4. Le mécanisme annoncé (hors PLFSS)
+## 4. Le mécanisme annoncé 
 
 Les annonces ministérielles portent sur :
 
