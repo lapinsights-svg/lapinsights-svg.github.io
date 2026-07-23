@@ -194,7 +194,7 @@ C’est la séparation de l’Arbre de la Connaissance, celle du voile du Temple
 une séparation saturée, infranchissable, où l’axe n’est plus perceptible.
 
 Le Fils étendu assume la séparation originaire,  
-mais Jésus doit **retourner** la séparation figée —  
+mais Jésus doit **retourner** la séparation figée,    
 celle qui enferme la conscience dans l’opacité.  
 Il intervient là où la séparation n’est plus un espace de vision mais une clôture,  
 là où la conscience ne peut plus traverser la densité par elle-même,  
@@ -202,7 +202,7 @@ là où le passage est devenu impossible.
 
 Il traverse la densité saturée sans s’y dissoudre,  
 tient l’axe là où il n’est plus visible,  
-et ouvre un passage dans ce qui semblait fermé.
+et ouvre un passage dans ce qui semblait fermé.  
 
 Le déchirement du voile du Temple en est la figure :  
 **la séparation opaque se retourne et devient traversable.**
@@ -277,7 +277,7 @@ Le déchirement du voile du Temple en est la figure :
 
 ## 12. Synthèse : un motif unique, déployé à plusieurs niveaux
 
-La séparation des eaux est un **motif structurel** qui traverse toute la Bible :
+La séparation est un **motif structurel** qui traverse toute la Bible :
 
 - Genèse : espace intérieur.  
 - Mer Rouge : sortie d’un régime.  
@@ -302,7 +302,7 @@ la structure même du Fils étendu dans la densité du monde.
 La séparation n’est pas un événement : c’est une structure.  
 Elle ouvre l’espace où la conscience peut se tenir, voir, traverser.
 
-La Bible déploie cette structure sous plusieurs formes — lumière et ténèbres, eaux séparées, seuils franchis, voile déchiré —  
+La Bible déploie cette structure sous plusieurs formes - lumière et ténèbres, eaux séparées, seuils franchis, voile déchiré -  
 pour montrer que toute traversée véritable passe par une reconfiguration de la densité.
 
 De Genèse à la résurrection, la séparation n’éloigne jamais :  
