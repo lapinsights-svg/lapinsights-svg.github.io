@@ -36,7 +36,7 @@ Et juste après, elle a écrit un message d’adieu sur X :
 Les tags qu’elle avait ajoutés, ainsi que la phrase finale, ont disparu de l’affichage public.  
 Seule subsiste une version tronquée du post.
 
-Ce n’est pas une interprétation : c’est un fait technique.  
+C’est un fait technique.  
 X applique parfois des filtres automatiques sur les contenus sensibles, notamment après un décès.  
 La version complète, que j'ai vue dans les premières heures, n’est plus accessible.
 
