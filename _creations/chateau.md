@@ -7,6 +7,19 @@ categories: creations
 tags: ["château", "ruines", "mémoire", "XIIe siècle", "secret", "dispositif", "immersion"]
 ---
 
+
+*Cliquer sur play pour entrer dans l'histoire.*
+
+<video controls playsinline width="100%">
+  <source src="/assets/videos/chateau.mp4" type="video/mp4">
+  Votre navigateur ne peut pas lire cette vidéo.
+</video>
+
+
+<br><br>
+<p></p>
+
+
 # Le château qui se souvient  
 
 
