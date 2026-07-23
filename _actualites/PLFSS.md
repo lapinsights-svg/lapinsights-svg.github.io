@@ -51,6 +51,9 @@ RTL a même publié un second papier, encore plus explicite :
 
 **Mais il faut le dire clairement : la logique n’est pas les “gros consommateurs”. Ce discours culpabilisant sert à masquer une trajectoire d’économies déjà programmée dans la loi, indépendante du taux de croissance, et qui n’a rien à voir avec la consommation réelle des patients.**
 
+**Le texte du PLFSS le dit explicitement : les économies passent de 6 milliards en 2026 à 14 milliards en 2027. Autrement dit, même si la croissance remonte, la logique d’économie drastique continuera de s’appliquer. Ce n’est pas le comportement des assurés qui détermine les coupes, mais la programmation budgétaire elle-même.**
+
+
 
 ## 3. Le levier budgétaire réel
 
