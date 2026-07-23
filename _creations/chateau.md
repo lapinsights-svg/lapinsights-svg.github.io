@@ -23,7 +23,7 @@ tags: ["château", "ruines", "mémoire", "XIIe siècle", "secret", "dispositif",
 # Le château qui se souvient  
 
 
-Elle était venue seule, un après‑midi gris, visiter les ruines du château de Montfaucon‑sur‑Sambre.  
+Elle était venue seule, un après‑midi gris, visiter les ruines du château médiéval de Montfaucon‑sur‑Sambre.  
 Le mot *ruines* était faible : Montfaucon n’était plus un château, mais un squelette.  
 Un amas de pierres ouvertes au vent, un corps vidé de sa fonction, un lieu qui ne respirait plus.
 
