@@ -311,6 +311,11 @@ Tout le mouvement biblique repose sur elle :
 non comme rupture,  
 mais comme **structure du passage**.
 
+Chaque séparation est un acte de traversabilité.  
+Donc : Dieu voit que la traversée est possible.  
+**Dieu vit que c’était bon.**
+
+
 ---
 
 Céleste R.
