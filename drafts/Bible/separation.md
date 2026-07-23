@@ -252,15 +252,20 @@ Le baptême préfigure la résurrection.
 
 ### Mort et Résurrection : densité ultime reconfigurée
 
-La mort est la densité maximale.  
-La résurrection est sa reconfiguration.
+La “mort” n’est pas un événement biologique :  
+c’est le régime où la densité atteint son point de saturation,  
+l’opacité où la conscience ne peut plus avancer par elle-même.  
 
-Le motif des eaux séparées trouve ici son point culminant :
+La “résurrection” n’est pas un retour à la vie :  
+c’est la reconfiguration de cette densité,  
+le moment où ce qui était obstacle devient passage,  
+où ce qui était fermeture devient axe.
 
-- la densité ne détruit plus,  
-- elle devient passage,  
-- elle devient axe,  
-- elle devient transfiguration.
+Jésus traverse la mort en traversant la densité saturée sans s’y dissoudre,  
+en tenant l’axe là où il n’est plus perceptible et en ouvrant un passage dans ce qui semblait fermé.  
+Le déchirement du voile du Temple en est la figure : **la séparation opaque se retourne et devient traversable.**
+
+
 
 ---
 
