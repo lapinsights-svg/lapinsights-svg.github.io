@@ -143,16 +143,16 @@ C’est le nombre de gens que le système pousse vers elle.
 
 # Sources
 
-1. France Info, entretien politique avec Stéphanie Rist — 12 février 2026  
+1. France Info, entretien politique avec Stéphanie Rist - 12 février 2026  
    Déclaration : "Certains patients consomment beaucoup de soins."
 
-2. France Inter, invité politique — 21 février 2026  
+2. France Inter, invité politique - 21 février 2026  
    Déclaration : "Nous devons revoir la prise en charge des soins récurrents et des parcours à forte intensité."
 
-3. Assemblée nationale, Commission des affaires sociales — avril 2026  
+3. Assemblée nationale, Commission des affaires sociales - avril 2026  
    Compte rendu : "Certains parcours sont très consommateurs de soins."
 
-4. Ministère de la Santé, communiqué — mars 2026  
+4. Ministère de la Santé, communiqué - mars 2026  
    Déclaration : "Une réflexion est engagée sur l’adaptation des remboursements pour les soins récurrents."
 
 
