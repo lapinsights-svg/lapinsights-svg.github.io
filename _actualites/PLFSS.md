@@ -23,7 +23,7 @@ Il ne contient aucune mention explicite de "gros consommateurs de soins", ni de 
 Et il faut rappeler une chose essentielle : le PLFSS n’est plus, depuis quelques années, un budget de santé construit à partir des besoins médicaux.  
 **À partir de 2018–2023, il a basculé : il est désormais aligné sur les objectifs macroéconomiques du gouvernement - croissance, trajectoire de déficit, engagements européens.**  
 Autrement dit : **ce n’est plus la santé qui détermine son budget, mais la macroéconomie.**  
-Quand la croissance est faible ou que Bruxelles exige une trajectoire stricte, le PLFSS sert de variable d’ajustement — et ce sont les soins qui sont rationnés.
+Quand la croissance est faible ou que Bruxelles exige une trajectoire stricte, le PLFSS sert de variable d’ajustement - et ce sont les soins qui sont rationnés.
 
 Cette logique vient des déclarations publiques de la ministre de la Santé, Stéphanie Rist, qui a affirmé :
 
