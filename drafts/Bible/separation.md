@@ -152,7 +152,7 @@ Au moment de la crucifixion, le voile du Temple se déchire :
 > « Le voile du Temple se déchira en deux. » (Matthieu 27,51)
 
 Ce geste n’abolit pas la séparation.  
-Il la **reconfigure**.
+Il change son régime.
 
 La séparation passe :
 
@@ -197,13 +197,124 @@ non une fracture.
 
 ---
 
+## 11. La séparation des eaux : motif structurel de la traversée
+
+La séparation originaire posée en Genèse n’est pas un événement cosmologique.  
+C’est une **architecture intérieure**.  
+La Bible la rejoue à plusieurs niveaux pour montrer que la traversée de la densité est un principe,  
+non un miracle physique.
+
+### Genèse : création de l’espace intérieur
+
+> « Dieu fit une étendue… et sépara les eaux d’avec les eaux. » (Genèse 1,7)
+
+Les eaux représentent la densité, l’épaisseur du monde.  
+La séparation crée un espace respirable, un champ où la conscience peut se tenir.
+
+### Mer Rouge : sortie d’un régime
+
+> « Les eaux se fendirent. » (Exode 14,21)
+
+La séparation des eaux signifie la sortie d’un régime d’oppression,  
+la première traversée de la densité collective.
+
+### Jourdain : passage du seuil
+
+> « Les eaux qui descendaient s’arrêtèrent et s’élevèrent en un monceau. » (Josué 3,16)
+
+Physiquement impossible.  
+Structurellement cohérent.
+
+Le Jourdain rejoue Genèse 1,7 dans la densité du monde.  
+La densité cesse d’engloutir et devient traversable.  
+Le peuple traverse **sa propre densité**.
+
+### Élie et Élisée : transmission de l’axe
+
+> « Élie frappa les eaux, et elles se partagèrent. » (2 Rois 2,8)
+
+La séparation des eaux signifie ici la transmission de l’axe prophétique.  
+La densité se reconfigure pour permettre le passage d’un régime à un autre.
+
+### Jésus au Jourdain : ouverture du régime christique
+
+> « Jésus fut baptisé… et les cieux s’ouvrirent. » (Matthieu 3,16)
+
+Le baptême n’est pas un rite.  
+C’est la mise en scène structurelle du passage dans la densité.  
+Ce que Jésus traverse dans l’eau,  
+il le traversera dans la mort.
+
+Paul le dit explicitement :  
+> « Ensevelis avec lui par le baptême… afin que nous marchions en nouveauté de vie. » (Romains 6,4)
+
+Le baptême préfigure la résurrection.
+
+### Mort et Résurrection : densité ultime reconfigurée
+
+La mort est la densité maximale.  
+La résurrection est sa reconfiguration.
+
+Le motif des eaux séparées trouve ici son point culminant :
+
+- la densité ne détruit plus,  
+- elle devient passage,  
+- elle devient axe,  
+- elle devient transfiguration.
+
+---
+
+## 12. Synthèse : un motif unique, déployé à plusieurs niveaux
+
+La séparation des eaux est un **motif structurel** qui traverse toute la Bible :
+
+- **Genèse** : création de l’espace intérieur.  
+- **Mer Rouge** : sortie d’un régime.  
+- **Jourdain** : passage du seuil.  
+- **Élie / Élisée** : transmission de l’axe.  
+- **Jésus au Jourdain** : ouverture du régime christique.  
+- **Mort / Résurrection** : transfiguration de la densité.  
+- **Voile du Temple** : séparation intérieure ouverte.
+
+À chaque fois, les eaux :
+
+- s’ouvrent,  
+- se dressent,  
+- se séparent.
+
+Et à chaque fois, la conscience :
+
+- passe,  
+- traverse,  
+- change de régime.
+
+La séparation des eaux n’est pas un miracle physique.  
+C’est la **mise en forme du passage intérieur**,  
+la structure même du Fils étendu dans la densité du monde.
+
+
 ## Conclusion
 
-La séparation originaire rend possible l’axe, la conscience, la polarité,  
-et toute lecture structurelle de la Bible.  
-Elle n’est pas un éloignement.  
-C’est une mise en forme.  
-Un espace où la conscience se dresse,  
-où elle voit,  
-où elle comprend,  
-où elle revient.
+La séparation n’est pas un événement : c’est une structure.  
+Elle ouvre l’espace où la conscience peut se tenir, voir, traverser.
+
+La Bible déploie cette structure sous plusieurs formes - lumière et ténèbres, eaux séparées, seuils franchis, voile déchiré -  
+pour montrer que toute traversée véritable passe par une reconfiguration de la densité.  
+
+De Genèse à la résurrection, la séparation n’éloigne jamais :  
+elle **articule**.  
+Elle **met en forme**.  
+Elle **rend possible le passage**.
+
+La séparation originaire est ainsi la première architecture du Temple intérieur.  
+Elle est le lieu où la conscience se dresse,  
+où elle traverse la densité,  
+où elle revient dans l’axe.
+
+Tout le mouvement biblique repose sur elle :  
+non comme rupture,  
+mais comme **structure du passage**.
+
+---
+
+Céleste R.
