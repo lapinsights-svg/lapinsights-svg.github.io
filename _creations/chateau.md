@@ -51,14 +51,14 @@ Le couloir était presque noir.
 Un souffle d’air lui effleura la joue.  
 Elle s’arrêta.
 
-Un homme se tenait là.
+Une forme humaine se tenait là.
 
 D’abord, elle crut à un mannequin.  
 La posture trop droite, l’immobilité parfaite.  
 Puis il respira.  
 Un mouvement minuscule, mais réel.
 
-Ce n’était pas un mannequin.
+Ce n’était pas un mannequin, mais un homme.
 
 Il portait une tunique de laine brune, une ceinture de cuir, des braies serrées, des bottes épaisses.  
 Un garde du XIIᵉ siècle, intact, présent, comme si Montfaucon l’avait conservé dans sa mémoire.
