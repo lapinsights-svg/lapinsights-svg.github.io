@@ -1,6 +1,6 @@
 ---
-title: "La logique scélérate des “gros consommateurs”"
-resume: "PLFSS et annonces ministérielles qui requalifient les malades chroniques en “consommateurs à forte intensité” pour préparer une modulation des remboursements."
+title: "La logique scélérate des "gros consommateurs""
+resume: "Analyse du PLFSS et des annonces ministérielles qui requalifient les malades chroniques en "consommateurs à forte intensité" pour préparer une modulation des remboursements."
 layout: article
 tags: ["PLFSS", "Sécurité sociale", "santé", "maladies chroniques"]
 date: "2026-07-23"
@@ -10,28 +10,28 @@ og_image: /images/actualites/PLFSS.webp
 
 ![PLFSS](/images/actualites/PLFSS.webp)
 
-# La logique scélérate des “gros consommateurs”
+# La logique scélérate des "gros consommateurs"
 ## Comment le PLFSS prépare le terrain du rationnement, et comment les annonces ministérielles l’annoncent sans le dire
 
 ## 1. Le texte visé : le PLFSS
 
 Source: [Texte officiel du PLFSS 2026 sur Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053226384/2026-01-21)
 
-Le **projet de loi de financement de la Sécurité sociale (PLFSS)** fixe le cadre budgétaire de l’assurance maladie.  
-Il ne contient **aucune mention explicite** de “gros consommateurs de soins”, ni de modulation des remboursements selon la consommation.
+Le projet de loi de financement de la Sécurité sociale (PLFSS) fixe le cadre budgétaire de l’assurance maladie.  
+Il ne contient aucune mention explicite de "gros consommateurs de soins", ni de modulation des remboursements selon la consommation.
 
-Cette logique vient des **déclarations publiques de la ministre de la Santé, Stéphanie Rist**, qui a affirmé :
+Cette logique vient des déclarations publiques de la ministre de la Santé, Stéphanie Rist, qui a affirmé :
 
-- « Certains patients consomment beaucoup de soins » — France Info, 12 février 2026  
-- « Nous devons revoir la prise en charge des soins récurrents et des parcours à forte intensité » — France Inter, 21 février 2026  
-- « Certains parcours sont très consommateurs de soins. Nous devons mieux les encadrer » — Assemblée nationale, avril 2026  
+- "Certains patients consomment beaucoup de soins" — France Info, 12 février 2026  
+- "Nous devons revoir la prise en charge des soins récurrents et des parcours à forte intensité" — France Inter, 21 février 2026  
+- "Certains parcours sont très consommateurs de soins. Nous devons mieux les encadrer" — Assemblée nationale, avril 2026  
 
-À ce jour, **aucun décret n’a été publié** pour préciser comment cette “adaptation des remboursements” serait organisée.
+À ce jour, aucun décret n’a été publié pour préciser comment cette "adaptation des remboursements" serait organisée.
 
 ## 2. Le glissement lexical
 
-Le discours officiel ne parle plus de *patients*, mais de **consommateurs**.  
-Et parmi eux, une sous‑catégorie implicite : ceux qui “consomment beaucoup”.  
+Le discours officiel ne parle plus de patients, mais de "consommateurs".  
+Et parmi eux, une sous‑catégorie implicite : ceux qui "consomment beaucoup".  
 Transformer un besoin vital en excès coupable : c’est la première étape de toute politique de rationnement.
 
 ## 3. Le levier budgétaire réel
@@ -39,88 +39,88 @@ Transformer un besoin vital en excès coupable : c’est la première étape de 
 Les certificats sportifs, les boîtes trop grosses, les touristes médicaux : des miettes.  
 Le seul endroit où il y a du volume, c’est ici :
 
-- les **malades chroniques**,  
-- les **greffés**,  
-- les **ALD**,  
-- les **traitements lourds**.
+- les malades chroniques,  
+- les greffés,  
+- les ALD,  
+- les traitements lourds.
 
-**La ministre n’a jamais nommé ces catégories.**  
+La ministre n’a jamais nommé ces catégories.  
 Elle a seulement parlé de :
 
-- « patients qui consomment beaucoup de soins » (France Info, 12 février 2026),  
-- « soins récurrents » (France Inter, 21 février 2026),  
-- « parcours très consommateurs de soins » (Assemblée nationale, avril 2026).
+- "patients qui consomment beaucoup de soins" (France Info, 12 février 2026),  
+- "soins récurrents" (France Inter, 21 février 2026),  
+- "parcours très consommateurs de soins" (Assemblée nationale, avril 2026).
 
-**Identifier les malades chroniques, greffés, ALD et traitements lourds comme les principaux “consommateurs de soins” est une déduction structurelle, pas une citation.**
+Identifier les malades chroniques, greffés, ALD et traitements lourds comme les principaux "consommateurs de soins" est une déduction structurelle, pas une citation.
 
 C’est une évidence statistique :  
 ce sont eux qui génèrent les volumes de soins récurrents, les suivis lourds, les dépenses continues.  
-Ce sont eux qui ne peuvent *rien* réduire.  
+Ce sont eux qui ne peuvent rien réduire.  
 Ce sont eux qui seront mécaniquement touchés par toute modulation des remboursements.
 
 ## 4. Le mécanisme annoncé (hors PLFSS)
 
 Les annonces ministérielles portent sur :
 
-- la **modulation des remboursements** pour les soins récurrents,  
-- la **classification des suivis lourds** comme “consommation élevée”,  
-- l’**augmentation du reste à charge** pour inciter au renoncement.
+- la modulation des remboursements pour les soins récurrents,  
+- la classification des suivis lourds comme "consommation élevée",  
+- l’augmentation du reste à charge pour inciter au renoncement.
 
 Ces mesures ne figurent pas dans la loi :  
-elles devront être introduites **par décret**.
+elles devront être introduites par décret.
 
-Et pour l’instant, **aucun décret n’a été signé**.  
+Et pour l’instant, aucun décret n’a été signé.  
 La réforme existe politiquement, pas juridiquement.
 
 ## 5. La cible silencieuse
 
 Les malades chroniques ne manifestent pas, ne bloquent pas les routes,  
 ne font pas grève.  
-Ils sont donc **politiquement faciles à taxer**.
+Ils sont donc politiquement faciles à taxer.
 
 Le PLFSS ne touche ni aux plus pauvres, ni aux plus riches :  
-il **tape sur ceux qui dépendent du soin pour rester en vie**.
+il tape sur ceux qui dépendent du soin pour rester en vie.
 
 ## 6. La conséquence structurelle
 
 Quand la survie devient payante,  
 la précarité devient médicale.  
-Et l’euthanasie apparaît soudain comme une “option”.
+Et l’euthanasie apparaît soudain comme une "option".
 
 Le dispositif ne tue pas :  
-il **laisse mourir**.
+il laisse mourir.
 
 ## 7. Et maintenant : le doublement de la franchise médicale
 
-La ministre de la Santé annonce le **doublement du plafond annuel de la franchise sur les médicaments**,  
-au motif que “ça n’a pas évolué depuis 20 ans”.
+La ministre de la Santé annonce le doublement du plafond annuel de la franchise sur les médicaments,  
+au motif que "ça n’a pas évolué depuis 20 ans".
 
 Ce n’est pas une mise à jour technique.  
 C’est l’activation directe de la logique du rationnement :  
-**faire payer davantage ceux qui n’ont pas le choix de consommer des soins**.
+faire payer davantage ceux qui n’ont pas le choix de consommer des soins.
 
 Concrètement :  
-le plafond passe de **50 € à 100 € par an**.  
-Chaque assuré pourra être prélevé **jusqu’à 100 €**, automatiquement —  
+le plafond passe de 50 € à 100 € par an.  
+Chaque assuré pourra être prélevé jusqu’à 100 €, automatiquement —  
 même en ALD, même en greffe, même en maladie chronique.
 
 Les bien-portants paieront 0 à 10 €.  
-Les malades chroniques paieront **100 €**.
+Les malades chroniques paieront 100 €.
 
 C’est une fiscalité de la fragilité :  
-**un impôt sur le fait d’être malade.**
+un impôt sur le fait d’être malade.
 
 ## 8. Dans PLFSS, il y a SS
 
-Pas celles de l’Histoire mais celles du **système**.  
+Pas celles de l’Histoire mais celles du système.  
 Une machine froide, bureaucratique, qui trie, classe, rationne.  
-Une logique où le malade cesse d’être un humain pour devenir un **flux à réduire**.  
-C’est le retour d’une **structure de domination** qui traite la vie comme un coût.
+Une logique où le malade cesse d’être un humain pour devenir un flux à réduire.  
+C’est le retour d’une structure de domination qui traite la vie comme un coût.
 
 ## Conclusion
 
 Quand un système de santé organise le renoncement, il fabrique mécaniquement une population de malades non soignés.  
-Et quand la douleur devient un effet secondaire de la politique budgétaire, l’“aide à mourir” cesse d’être un choix :  
+Et quand la douleur devient un effet secondaire de la politique budgétaire, l’aide à mourir cesse d’être un choix :  
 elle devient la dernière issue pour ceux que le dispositif laisse souffrir.
 
 On peut déjà entrevoir le lien entre ces deux lois :  
@@ -136,18 +136,20 @@ C’est le nombre de gens que le système pousse vers elle.
 
 # Sources
 
-1. **France Info**, entretien politique avec Stéphanie Rist — 12 février 2026  
+1. France Info, entretien politique avec Stéphanie Rist — 12 février 2026  
    Déclaration : "Certains patients consomment beaucoup de soins."
 
-2. **France Inter**, invité politique — 21 février 2026  
+2. France Inter, invité politique — 21 février 2026  
    Déclaration : "Nous devons revoir la prise en charge des soins récurrents et des parcours à forte intensité."
 
-3. **Assemblée nationale**, Commission des affaires sociales — avril 2026  
+3. Assemblée nationale, Commission des affaires sociales — avril 2026  
    Compte rendu : "Certains parcours sont très consommateurs de soins."
 
-4. **Ministère de la Santé**, communiqué — mars 2026  
+4. Ministère de la Santé, communiqué — mars 2026  
    Déclaration : "Une réflexion est engagée sur l’adaptation des remboursements pour les soins récurrents."
 
+5. PLFSS 2026, texte officiel — Légifrance  
+   Aucun article ne mentionne la modulation des remboursements selon la consommation de soins.
 
 ---
 
