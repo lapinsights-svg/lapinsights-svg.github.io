@@ -22,9 +22,9 @@ Il ne contient aucune mention explicite de "gros consommateurs de soins", ni de 
 
 Cette logique vient des déclarations publiques de la ministre de la Santé, Stéphanie Rist, qui a affirmé :
 
-- "Certains patients consomment beaucoup de soins" — France Info, 12 février 2026  
-- "Nous devons revoir la prise en charge des soins récurrents et des parcours à forte intensité" — France Inter, 21 février 2026  
-- "Certains parcours sont très consommateurs de soins. Nous devons mieux les encadrer" — Assemblée nationale, avril 2026  
+- "Certains patients consomment beaucoup de soins" - France Info, 12 février 2026  
+- "Nous devons revoir la prise en charge des soins récurrents et des parcours à forte intensité" - France Inter, 21 février 2026  
+- "Certains parcours sont très consommateurs de soins. Nous devons mieux les encadrer" - Assemblée nationale, avril 2026  
 
 À ce jour, aucun décret n’a été publié pour préciser comment cette "adaptation des remboursements" serait organisée.
 
@@ -148,8 +148,6 @@ C’est le nombre de gens que le système pousse vers elle.
 4. Ministère de la Santé, communiqué — mars 2026  
    Déclaration : "Une réflexion est engagée sur l’adaptation des remboursements pour les soins récurrents."
 
-5. PLFSS 2026, texte officiel — Légifrance  
-   Aucun article ne mentionne la modulation des remboursements selon la consommation de soins.
 
 ---
 
