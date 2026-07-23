@@ -1,7 +1,7 @@
 ---
 title: "La loi scélérate sur les “gros consommateurs”"
 resume: "Analyse du PLFSS qui requalifie les malades chroniques en “gros consommateurs” pour réduire leurs remboursements."
-layout: 
+layout: article
 tags: ["PLFSS", "Sécurité sociale", "santé", "maladies chroniques"]
 date: 2026-07-22
 categories: actualites
