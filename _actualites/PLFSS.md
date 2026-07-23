@@ -25,7 +25,7 @@ Et il faut rappeler une chose essentielle : le PLFSS n’est plus, depuis quelqu
 Autrement dit : **ce n’est plus la santé qui détermine son budget, mais la macroéconomie.**  
 Quand la croissance est faible ou que Bruxelles exige une trajectoire stricte, le PLFSS sert de variable d’ajustement - et ce sont les soins qui sont rationnés.
 
-**Le texte de loi lui-même confirme ce renversement : il programme 6 milliards d’économies en 2026 et 14 milliards en 2027, indépendamment du taux de croissance. La logique d’économie drastique s’appliquera même si la croissance ne revient pas. C’est un rationnement structurel, pas conjoncturel.**
+**Le texte de loi lui-même confirme ce renversement : il programme 6 milliards d’économies en 2026 et 14 milliards en 2027, indépendamment du taux de croissance. La logique d’économie drastique s’appliquera que la croissance revienne ou non. C’est un rationnement structurel, pas conjoncturel.**
 
 Cette logique vient des déclarations publiques de la ministre de la Santé, Stéphanie Rist, qui a affirmé :
 
