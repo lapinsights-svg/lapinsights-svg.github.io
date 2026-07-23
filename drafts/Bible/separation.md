@@ -13,7 +13,12 @@ tags:
   - deux-arbres
   - temple-intérieur
   - séparation-originaire
+og_image: /images/spiritualite/separation.webp
 ---
+
+![separation](/images/spiritualite/separation.webp)
+
+
 
 # Séparation  
 *Fondations structurelles*
