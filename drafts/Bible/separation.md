@@ -173,17 +173,16 @@ Elle rend proche autrement.
 Le Fils étendu ne supprime pas la séparation.  
 Il l’assume et la traverse.
 
-Mais la séparation peut se figer :  
-devenir opaque, dense, close.  
-Elle cesse alors d’être passage.  
-Elle devient clôture.
+Mais la séparation peut changer de régime :  
+elle peut perdre sa fonction de passage  
+et cesser de s’ouvrir.
 
-Le Fils étendu avance toujours,  
-mais la séparation ne s’ouvre plus.  
-Elle ne respire plus.
+Elle devient alors un espace qui ne respire plus,  
+où l’axe n’est plus perceptible.
 
-Elle doit être retournée pour retrouver sa fonction :  
-la traversabilité.
+Dans ce cas, la séparation doit être réorientée  
+pour retrouver sa traversabilité.
+
 
 ---
 
