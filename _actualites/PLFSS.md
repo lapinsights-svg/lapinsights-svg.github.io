@@ -48,7 +48,9 @@ RTL a même publié un second papier, encore plus explicite :
 
 - "Le Premier ministre propose de réduire les remboursements pour ceux qu’il appelle les gros consommateurs de soins."  
 - "Plus de 50 boîtes ou plus de 25 consultations."
-- 
+
+**Mais il faut le dire clairement : la logique n’est pas les “gros consommateurs”. Ce discours culpabilisant sert à masquer une trajectoire d’économies déjà programmée dans la loi, indépendante du taux de croissance, et qui n’a rien à voir avec la consommation réelle des patients.**
+
 
 ## 3. Le levier budgétaire réel
 
