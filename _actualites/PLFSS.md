@@ -41,6 +41,13 @@ Le discours officiel ne parle plus de patients, mais de "consommateurs".
 Et parmi eux, une sous‑catégorie implicite : ceux qui "consomment beaucoup".  
 Transformer un besoin vital en excès coupable : c’est la première étape de toute politique de rationnement.
 
+Cette rhétorique n’est plus seulement gouvernementale : elle est désormais reprise par certains médias généralistes.  
+RTL a même publié un second papier, encore plus explicite :
+
+- "Le Premier ministre propose de réduire les remboursements pour ceux qu’il appelle les gros consommateurs de soins."  
+- "Plus de 50 boîtes ou plus de 25 consultations."
+- 
+
 ## 3. Le levier budgétaire réel
 
 Les certificats sportifs, les boîtes trop grosses, les touristes médicaux : des miettes.  
@@ -154,6 +161,10 @@ C’est le nombre de gens que le système pousse vers elle.
 
 4. Ministère de la Santé, communiqué - mars 2026  
    Déclaration : "Une réflexion est engagée sur l’adaptation des remboursements pour les soins récurrents."
+
+5. RTL, émission "Les Auditeurs ont la parole" - 2026  
+   Déclarations : "Le Premier ministre propose de réduire les remboursements pour ceux qu’il appelle les gros consommateurs de soins."  
+   "Plus de 50 boîtes ou plus de 25 consultations."
 
 
 ---
