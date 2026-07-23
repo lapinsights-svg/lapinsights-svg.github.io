@@ -1,6 +1,6 @@
 ---
 title: "La logique scélérate des “gros consommateurs”"
-resume: "Analyse du PLFSS et des annonces ministérielles qui requalifient les malades chroniques en “consommateurs à forte intensité” pour préparer une modulation des remboursements."
+resume: "PLFSS et annonces ministérielles qui requalifient les malades chroniques en “consommateurs à forte intensité” pour préparer une modulation des remboursements."
 layout: article
 tags: ["PLFSS", "Sécurité sociale", "santé", "maladies chroniques"]
 date: "2026-07-23"
