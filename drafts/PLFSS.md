@@ -17,7 +17,6 @@ og_image: /images/actualites/PLFSS.webp
 
 Source: [Texte officiel du PLFSS 2026 sur Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053226384/2026-01-21)  
 
-
 Le **projet de loi de financement de la Sécurité sociale (PLFSS)** introduit une nouvelle catégorie :  
 les **“gros consommateurs de soins”**.  
 Ce glissement lexical n’est pas anodin : il prépare une réduction des remboursements pour les traitements récurrents et les suivis lourds.
@@ -53,14 +52,38 @@ Quand la survie devient payante,
 la précarité devient médicale.  
 Et l’euthanasie apparaît soudain comme une “option”.  
 Le dispositif ne tue pas :  
-il **laisse mourir**.  
+il **laisse mourir**.
 
-Et dans PLFSS, il y a SS.
-Une machine froide, bureaucratique, qui trie, classe, rationne.
-Une logique où le malade cesse d’être un humain pour devenir un flux à réduire.
-c’est le retour d’une structure de domination qui traite la vie comme un coût. 
+## 7. Et maintenant : le doublement de la franchise médicale
+La ministre de la Santé annonce le **doublement du plafond annuel de la franchise sur les médicaments**,  
+au motif que “ça n’a pas évolué depuis 20 ans”.
+
+Ce n’est pas une mise à jour technique.  
+C’est l’activation directe de la logique du PLFSS :  
+**faire payer davantage ceux qui n’ont pas le choix de consommer des soins**.
+
+Concrètement :  
+le plafond passe de **50 € à 100 € par an**.  
+Chaque assuré pourra être prélevé **jusqu’à 100 €**, automatiquement, sans échappatoire —  
+même en ALD, même en greffe, même en maladie chronique.
+
+Les bien-portants paieront 0 à 10 €.  
+Les malades chroniques paieront **100 €**.  
+La franchise double.  
+La maladie, elle, ne se divise pas.
+
+C’est une fiscalité de la fragilité :  
+**un impôt sur le fait d’être malade.**
+
+## 8. Dans PLFSS, il y a SS
+Pas celles de l’Histoire mais celles du **système**.  
+Une machine froide, bureaucratique, qui trie, classe, rationne.  
+Une logique où le malade cesse d’être un humain pour devenir un **flux à réduire**.  
+C’est le retour d’une **structure de domination** qui traite la vie comme un coût.
 
 ---
 
 Céleste R.
+
+
 
