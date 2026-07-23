@@ -20,6 +20,11 @@ Source: [Texte officiel du PLFSS 2026 sur Légifrance](https://www.legifrance.go
 Le projet de loi de financement de la Sécurité sociale (PLFSS) fixe le cadre budgétaire de l’assurance maladie.  
 Il ne contient aucune mention explicite de "gros consommateurs de soins", ni de modulation des remboursements selon la consommation.
 
+Et il faut rappeler une chose essentielle : le PLFSS n’est plus, depuis quelques années, un budget de santé construit à partir des besoins médicaux.  
+**À partir de 2018–2023, il a basculé : il est désormais aligné sur les objectifs macroéconomiques du gouvernement - croissance, trajectoire de déficit, engagements européens.**  
+Autrement dit : **ce n’est plus la santé qui détermine son budget, mais la macroéconomie.**  
+Quand la croissance est faible ou que Bruxelles exige une trajectoire stricte, le PLFSS sert de variable d’ajustement — et ce sont les soins qui sont rationnés.
+
 Cette logique vient des déclarations publiques de la ministre de la Santé, Stéphanie Rist, qui a affirmé :
 
 - "Certains patients consomment beaucoup de soins" - France Info, 12 février 2026  
@@ -27,6 +32,8 @@ Cette logique vient des déclarations publiques de la ministre de la Santé, St�
 - "Certains parcours sont très consommateurs de soins. Nous devons mieux les encadrer" - Assemblée nationale, avril 2026  
 
 À ce jour, aucun décret n’a été publié pour préciser comment cette "adaptation des remboursements" serait organisée.
+
+
 
 ## 2. Le glissement lexical
 
