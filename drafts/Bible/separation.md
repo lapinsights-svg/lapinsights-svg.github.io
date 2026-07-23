@@ -171,15 +171,19 @@ Elle rend proche autrement.
 ## 10. La séparation dans le Fils étendu
 
 Le Fils étendu ne supprime pas la séparation.  
-Il l’assume et la transfigure.
+Il l’assume et la traverse.
 
-Il traverse la densité, la polarité, les arbres,  
-et fait de la séparation un chemin.  
-Un axe.  
-Une respiration.
+Mais la séparation peut se figer :  
+devenir opaque, dense, close.  
+Elle cesse alors d’être passage.  
+Elle devient clôture.
 
-La séparation devient alors une fondation,  
-non une fracture.
+Le Fils étendu avance toujours,  
+mais la séparation ne s’ouvre plus.  
+Elle ne respire plus.
+
+Elle doit être retournée pour retrouver sa fonction :  
+la traversabilité.
 
 ---
 
