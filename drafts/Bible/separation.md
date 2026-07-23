@@ -35,7 +35,7 @@ Séparer, c’est distinguer.
 Non pour exclure, mais pour rendre visible.
 
 Dès l’ouverture de la Bible, la séparation est posée comme acte fondateur :  
-> « Dieu sépara la lumière d’avec les ténèbres. » (Genèse 1,4)
+" Dieu sépara la lumière d’avec les ténèbres. " (Genèse 1,4)
 
 La séparation crée l’intervalle où la conscience devient capable de percevoir ce qui la traverse.  
 Elle n’est pas un éloignement :  
@@ -54,7 +54,7 @@ Cette ligne devient une verticalité.
 L’axe n’est pas imposé : il est révélé.
 
 La Bible inscrit cette verticalité dès l’origine :  
-> « Il y eut un soir, il y eut un matin. » (Genèse 1,5)
+" Il y eut un soir, il y eut un matin. " (Genèse 1,5)
 
 Deux régimes, une ligne, un axe.
 
@@ -70,7 +70,7 @@ Elle la rend traversable.
 Elle ouvre un passage dans l’épaisseur.
 
 La Genèse montre cette ouverture dans la densité :  
-> « Dieu fit une étendue… et sépara les eaux d’avec les eaux. » (Genèse 1,7)
+" Dieu fit une étendue… et sépara les eaux d’avec les eaux. " (Genèse 1,7)
 
 La séparation crée un espace respirable.
 
@@ -87,7 +87,7 @@ C’est une dynamique.
 La polarité est une circulation rendue possible par la séparation.
 
 La Bible inscrit cette polarité dès le début :  
-> « Dieu appela la lumière jour, et les ténèbres nuit. » (Genèse 1,5)
+" Dieu appela la lumière jour, et les ténèbres nuit. " (Genèse 1,5)
 
 Deux pôles, un champ, une dynamique.
 
@@ -104,7 +104,7 @@ Un espace où la conscience peut percevoir
 ce qui était trop proche pour être vu.
 
 La Bible montre que la conscience naît dans cet espace :  
-> « Leurs yeux s’ouvrirent. » (Genèse 3,7)
+" Leurs yeux s’ouvrirent. " (Genèse 3,7)
 
 La séparation rend possible la vision.
 
@@ -118,7 +118,7 @@ Les deux arbres représentent deux manières de séparer :
 - **L’Arbre de la Connaissance** : séparer pour posséder.
 
 La Bible pose explicitement ces deux régimes :  
-> « L’arbre de vie… et l’arbre de la connaissance du bien et du mal. » (Genèse 2,9)
+" L’arbre de vie… et l’arbre de la connaissance du bien et du mal. " (Genèse 2,9)
 
 La séparation peut donc être un passage ou un enfermement.  
 Elle peut ouvrir ou figer.  
@@ -139,7 +139,7 @@ Le voile sépare le lieu saint du Saint des Saints.
 Il matérialise la séparation entre **la conscience** et **la source**.
 
 Paul le dit explicitement :  
-> « Vous êtes le temple de Dieu. » (1 Corinthiens 3,16)
+" Vous êtes le temple de Dieu. " (1 Corinthiens 3,16)
 
 Le Temple extérieur révèle le Temple intérieur.  
 Le voile extérieur révèle le voile intérieur.
@@ -149,7 +149,7 @@ Le voile extérieur révèle le voile intérieur.
 ## 8. Le déchirement du voile : la séparation reconfigurée
 
 Au moment de la crucifixion, le voile du Temple se déchire :  
-> « Le voile du Temple se déchira en deux. » (Matthieu 27,51)
+" Le voile du Temple se déchira en deux. " (Matthieu 27,51)
 
 Ce geste n’abolit pas la séparation.  
 Il change son régime.
@@ -206,21 +206,21 @@ non un miracle physique.
 
 ### Genèse : création de l’espace intérieur
 
-> « Dieu fit une étendue… et sépara les eaux d’avec les eaux. » (Genèse 1,7)
+" Dieu fit une étendue… et sépara les eaux d’avec les eaux. " (Genèse 1,7)
 
 Les eaux représentent la densité, l’épaisseur du monde.  
 La séparation crée un espace respirable, un champ où la conscience peut se tenir.
 
 ### Mer Rouge : sortie d’un régime
 
-> « Les eaux se fendirent. » (Exode 14,21)
+" Les eaux se fendirent. " (Exode 14,21)
 
 La séparation des eaux signifie la sortie d’un régime d’oppression,  
 la première traversée de la densité collective.
 
 ### Jourdain : passage du seuil
 
-> « Les eaux qui descendaient s’arrêtèrent et s’élevèrent en un monceau. » (Josué 3,16)
+" Les eaux qui descendaient s’arrêtèrent et s’élevèrent en un monceau. " (Josué 3,16)
 
 Physiquement impossible.  
 Structurellement cohérent.
@@ -231,14 +231,14 @@ Le peuple traverse **sa propre densité**.
 
 ### Élie et Élisée : transmission de l’axe
 
-> « Élie frappa les eaux, et elles se partagèrent. » (2 Rois 2,8)
+" Élie frappa les eaux, et elles se partagèrent. " (2 Rois 2,8)
 
 La séparation des eaux signifie ici la transmission de l’axe prophétique.  
 La densité se reconfigure pour permettre le passage d’un régime à un autre.
 
 ### Jésus au Jourdain : ouverture du régime christique
 
-> « Jésus fut baptisé… et les cieux s’ouvrirent. » (Matthieu 3,16)
+" Jésus fut baptisé… et les cieux s’ouvrirent. " (Matthieu 3,16)
 
 Le baptême n’est pas un rite.  
 C’est la mise en scène structurelle du passage dans la densité.  
@@ -246,7 +246,7 @@ Ce que Jésus traverse dans l’eau,
 il le traversera dans la mort.
 
 Paul le dit explicitement :  
-> « Ensevelis avec lui par le baptême… afin que nous marchions en nouveauté de vie. » (Romains 6,4)
+" Ensevelis avec lui par le baptême… afin que nous marchions en nouveauté de vie. " (Romains 6,4)
 
 Le baptême préfigure la résurrection.
 
@@ -303,8 +303,8 @@ pour montrer que toute traversée véritable passe par une reconfiguration de la
 
 De Genèse à la résurrection, la séparation n’éloigne jamais :  
 elle **articule**.  
-Elle **met en forme**.  
-Elle **rend possible le passage**.
+elle **met en forme**.  
+elle **rend possible le passage**.
 
 La séparation originaire est ainsi la première architecture du Temple intérieur.  
 Elle est le lieu où la conscience se dresse,  
