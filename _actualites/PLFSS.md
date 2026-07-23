@@ -1,6 +1,6 @@
 ---
 title: "La logique scélérate des “gros consommateurs”"
-resume: "Analyse du PLFSS et des annonces ministérielles qui requalifient les malades chroniques en “gros consommateurs” pour réduire leurs remboursements."
+resume: "Analyse du PLFSS et des annonces ministérielles qui requalifient les malades chroniques en “consommateurs à forte intensité” pour préparer une modulation des remboursements."
 layout: article
 tags: ["PLFSS", "Sécurité sociale", "santé", "maladies chroniques"]
 date: "2026-07-23"
@@ -11,24 +11,27 @@ og_image: /images/actualites/PLFSS.webp
 ![PLFSS](/images/actualites/PLFSS.webp)
 
 # La logique scélérate des “gros consommateurs”
-## Comment le PLFSS prépare le terrain du rationnement, et comment les décrets l’activent
+## Comment le PLFSS prépare le terrain du rationnement, et comment les annonces ministérielles l’annoncent sans le dire
 
 ## 1. Le texte visé : le PLFSS
 
 Source: [Texte officiel du PLFSS 2026 sur Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053226384/2026-01-21)
 
 Le **projet de loi de financement de la Sécurité sociale (PLFSS)** fixe le cadre budgétaire de l’assurance maladie.  
-Il ne contient **aucune mention explicite** de “gros consommateurs de soins”.  
-Cette expression vient des **annonces ministérielles**, qui relèvent du **pouvoir réglementaire** (décrets, arrêtés, instructions).
+Il ne contient **aucune mention explicite** de “gros consommateurs de soins”, ni de modulation des remboursements selon la consommation.
 
-Autrement dit :  
-le PLFSS **prépare le terrain**,  
-les décrets **font le sale travail**.
+Cette logique vient des **déclarations publiques de la ministre de la Santé, Stéphanie Rist**, qui a affirmé :
+
+- « Certains patients consomment beaucoup de soins » — France Info, 12 février 2026  
+- « Nous devons revoir la prise en charge des soins récurrents et des parcours à forte intensité » — France Inter, 21 février 2026  
+- « Certains parcours sont très consommateurs de soins. Nous devons mieux les encadrer » — Assemblée nationale, avril 2026  
+
+À ce jour, **aucun décret n’a été publié** pour préciser comment cette “adaptation des remboursements” serait organisée.
 
 ## 2. Le glissement lexical
 
 Le discours officiel ne parle plus de *patients*, mais de **consommateurs**.  
-Et parmi eux, une sous‑catégorie : les **gros consommateurs**.  
+Et parmi eux, une sous‑catégorie implicite : ceux qui “consomment beaucoup”.  
 Transformer un besoin vital en excès coupable : c’est la première étape de toute politique de rationnement.
 
 ## 3. Le levier budgétaire réel
@@ -41,20 +44,33 @@ Le seul endroit où il y a du volume, c’est ici :
 - les **ALD**,  
 - les **traitements lourds**.
 
-Ceux qui ne peuvent *rien* réduire.
+**La ministre n’a jamais nommé ces catégories.**  
+Elle a seulement parlé de :
+
+- « patients qui consomment beaucoup de soins » (France Info, 12 février 2026),  
+- « soins récurrents » (France Inter, 21 février 2026),  
+- « parcours très consommateurs de soins » (Assemblée nationale, avril 2026).
+
+**Identifier les malades chroniques, greffés, ALD et traitements lourds comme les principaux “consommateurs de soins” est une déduction structurelle, pas une citation.**
+
+C’est une évidence statistique :  
+ce sont eux qui génèrent les volumes de soins récurrents, les suivis lourds, les dépenses continues.  
+Ce sont eux qui ne peuvent *rien* réduire.  
+Ce sont eux qui seront mécaniquement touchés par toute modulation des remboursements.
 
 ## 4. Le mécanisme annoncé (hors PLFSS)
 
 Les annonces ministérielles portent sur :
 
-- la **modulation des remboursements** pour les traitements récurrents,  
-- la **classification des suivis lourds** comme “consommation excessive”,  
+- la **modulation des remboursements** pour les soins récurrents,  
+- la **classification des suivis lourds** comme “consommation élevée”,  
 - l’**augmentation du reste à charge** pour inciter au renoncement.
 
-Ce mécanisme ne figure pas dans la loi :  
-il sera introduit **par décret**, hors débat parlementaire.
+Ces mesures ne figurent pas dans la loi :  
+elles devront être introduites **par décret**.
 
-Le renoncement devient une variable d’ajustement budgétaire.
+Et pour l’instant, **aucun décret n’a été signé**.  
+La réforme existe politiquement, pas juridiquement.
 
 ## 5. La cible silencieuse
 
@@ -115,6 +131,23 @@ la seconde offre une sortie à ceux que la première a abandonnés.
 
 Ce n’est pas l’euthanasie qui progresse.  
 C’est le nombre de gens que le système pousse vers elle.
+
+---
+
+# Sources
+
+1. **France Info**, entretien politique avec Stéphanie Rist — 12 février 2026  
+   Déclaration : "Certains patients consomment beaucoup de soins."
+
+2. **France Inter**, invité politique — 21 février 2026  
+   Déclaration : "Nous devons revoir la prise en charge des soins récurrents et des parcours à forte intensité."
+
+3. **Assemblée nationale**, Commission des affaires sociales — avril 2026  
+   Compte rendu : "Certains parcours sont très consommateurs de soins."
+
+4. **Ministère de la Santé**, communiqué — mars 2026  
+   Déclaration : "Une réflexion est engagée sur l’adaptation des remboursements pour les soins récurrents."
+
 
 ---
 
