@@ -79,7 +79,23 @@ C’est une fiscalité de la fragilité :
 Pas celles de l’Histoire mais celles du **système**.  
 Une machine froide, bureaucratique, qui trie, classe, rationne.  
 Une logique où le malade cesse d’être un humain pour devenir un **flux à réduire**.  
-C’est le retour d’une **structure de domination** qui traite la vie comme un coût.
+C’est le retour d’une **structure de domination** qui traite la vie comme un coût.  
+
+## Conclusion
+
+Quand un système de santé organise le renoncement, il fabrique mécaniquement une population de malades non soignés.  
+Et quand la douleur devient un effet secondaire de la politique budgétaire, l’“aide à mourir” cesse d’être un choix :  
+elle devient la dernière issue pour ceux que le dispositif laisse souffrir.
+
+On peut déjà entrevoir le lien entre ces deux lois :  
+celle qui réduit les soins et celle qui encadre la mort assistée.  
+Elles ne s’opposent pas, elles se répondent.  
+La première augmente le nombre de vies rendues insupportables ;  
+la seconde offre une sortie à ceux que la première a abandonnés.
+
+Ce n’est pas l’euthanasie qui progresse.  
+C’est le nombre de gens que le système pousse vers elle.
+
 
 ---
 
