@@ -93,7 +93,7 @@ elles devront être introduites par décret.
 Et pour l’instant, aucun décret n’a été signé.  
 La réforme existe politiquement, pas juridiquement.
 
-**Ils commencent par les boîtes de médicaments. Mais la logique qu’ils installent va jusqu’aux soins lourds et aux suivis chroniques — même s’ils ne l’ont pas encore dit.**
+**Ils commencent par les boîtes de médicaments. Mais la logique qu’ils installent va jusqu’aux soins lourds et aux suivis chroniques - même s’ils ne l’ont pas encore dit.**
 
 
 ## 5. La cible silencieuse
