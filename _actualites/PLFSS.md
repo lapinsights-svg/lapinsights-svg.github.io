@@ -44,7 +44,7 @@ Et parmi eux, une sous‑catégorie implicite : ceux qui "consomment beaucoup".
 Transformer un besoin vital en excès coupable : c’est la première étape de toute politique de rationnement.
 
 Cette rhétorique n’est plus seulement gouvernementale : elle est désormais reprise par certains médias généralistes.  
-RTL a même publié un second papier, encore plus explicite :
+RTL a même publié un papier très explicite :
 
 - "Le Premier ministre propose de réduire les remboursements pour ceux qu’il appelle les gros consommateurs de soins."  
 - "Plus de 50 boîtes ou plus de 25 consultations."
