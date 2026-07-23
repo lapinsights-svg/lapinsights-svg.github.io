@@ -237,7 +237,7 @@ Un geste qui disait : *c’est assez*.
 ## Le retour
 
 La lettre était encore dans sa main.  
-Ou plutôt : quelque chose qui avait la forme d’une lettre.  
+Ou plutôt, quelque chose qui avait la forme d’une lettre.  
 Déjà, le monde commençait à se défaire.
 
 La lumière perdit sa cohérence.  
