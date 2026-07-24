@@ -295,7 +295,7 @@ Il s’était simplement retiré du monde.
 
 Si elle parlait,  
 si elle brisait le silence,  
-Montfaucon pourrait revenir -  
+Montfaucon pourrait revenir,    
 pas comme un lieu,  
 mais comme une conséquence.
 
