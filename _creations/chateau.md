@@ -7,7 +7,6 @@ categories: creations
 tags: ["château", "ruines", "mémoire", "XIIe siècle", "secret", "dispositif", "immersion"]
 ---
 
-
 *Cliquer sur play pour entrer dans l'histoire.*
 
 <video controls playsinline width="100%">
@@ -15,13 +14,10 @@ tags: ["château", "ruines", "mémoire", "XIIe siècle", "secret", "dispositif",
   Votre navigateur ne peut pas lire cette vidéo.
 </video>
 
-
 <br><br>
 <p></p>
 
-
 # Le château qui se souvient  
-
 
 Elle était venue seule, un après‑midi gris, visiter les ruines du château médiéval de Montfaucon‑sur‑Sambre.  
 Le mot *ruines* était faible : Montfaucon n’était plus un château, mais un squelette.  
@@ -110,6 +106,20 @@ Le lit massif exhalait une odeur de cire, de suif, de nuit.
 Sur les murs, des portraits sévères.  
 Des visages qui ne souriaient pas.  
 Des regards qui semblaient connaître le garde.
+
+Un portrait attirait la lumière plus que les autres.  
+Une dame, drapée de laine sombre, le visage légèrement tourné.  
+Elle s’arrêta.  
+La ressemblance était trop nette pour être un hasard :  
+la même ligne du menton,  
+la même manière de tenir la tête,  
+la même fixité dans le regard.  
+Une dame d’antan, épouse d’un seigneur disparu,  
+et pourtant —  
+quelque chose d’elle.
+
+Le garde ne regarda pas le tableau.  
+Comme s’il savait déjà.
 
 Sur une table :  
 un peigne en os,  
@@ -218,6 +228,15 @@ Dense.
 Elle déroula.
 
 Elle lut.
+
+Le parchemin ne parlait pas d’un lieu, ni d’une bataille.  
+Il parlait d’elle.  
+Ou plutôt : de la dame du portrait.  
+Un nom ancien,  
+une accusation,  
+un acte caché,  
+un secret scellé pour protéger le château.  
+Et une phrase finale, brève, qui semblait la viser à travers les siècles.
 
 Une phrase.  
 Courte.  
