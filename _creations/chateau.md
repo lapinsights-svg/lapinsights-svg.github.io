@@ -1,7 +1,7 @@
 ---
 title: "Montfaucon-sur-Sambre, château qui se souvient"
 resume: "Dans les ruines d’un château du XIIᵉ siècle, un secret ancien se réveille et traverse celle qui le découvre."
-date: "2026-07-23"
+date: "2026-07-24"
 layout: article
 categories: creations
 tags: ["château", "ruines", "mémoire", "XIIe siècle", "secret", "dispositif", "immersion"]
