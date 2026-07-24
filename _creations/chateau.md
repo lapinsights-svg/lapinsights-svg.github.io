@@ -1,5 +1,5 @@
 ---
-title: "Montfaucon-sur-Sambre, château qui se souvient"
+title: "Le château qui se souvient"
 resume: "Dans les ruines d’un château du XIIᵉ siècle, un secret ancien se réveille et traverse celle qui le découvre."
 date: "2026-07-24"
 layout: article
