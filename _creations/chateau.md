@@ -301,7 +301,7 @@ mais comme une conséquence.
 
 Elle décida de se taire.
 
-Elle, maintenant, devait apprendre à oublier.
+Et maintenant, devait apprendre à oublier.
 
 ---
 
