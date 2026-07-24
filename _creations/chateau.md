@@ -5,7 +5,7 @@ date: "2026-07-24"
 layout: article
 categories: creations
 tags: ["château", "ruines", "mémoire", "XIIe siècle", "secret", "dispositif", "immersion"]
-og_image: /images/creations/nchateauimage.png
+og_image: /images/creations/nchateauimage.webp
 ---
 
 *Cliquer sur play pour entrer dans l'histoire.*
