@@ -10,7 +10,7 @@ tags: ["château", "ruines", "mémoire", "XIIe siècle", "secret", "dispositif",
 *Cliquer sur play pour entrer dans l'histoire.*
 
 <video controls width="100%">
-  <source src="/assets/videos/chateau.mp4" type="video/mp4">
+  <source src="/assets/videos/chateau4.mp4" type="video/mp4">
   Votre navigateur ne peut pas lire cette vidéo.
 </video>
 
