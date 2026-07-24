@@ -233,7 +233,7 @@ Elle lut.
 
 Le parchemin ne parlait pas d’un lieu, ni d’une bataille.  
 Il parlait d’elle.  
-Ou plutôt : de la dame du portrait.  
+Ou plutôt, de la dame du portrait.  
 Un nom ancien,  
 une accusation,  
 un acte caché,  
