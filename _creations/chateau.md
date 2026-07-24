@@ -305,4 +305,4 @@ Elle, maintenant, devait apprendre à oublier.
 
 ---
 
-Céleste R.
+© Céleste R. — CC BY‑NC‑ND
