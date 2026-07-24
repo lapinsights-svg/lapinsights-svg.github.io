@@ -20,7 +20,7 @@ tags: ["château", "ruines", "mémoire", "XIIe siècle", "secret", "dispositif",
 # Le château qui se souvient  
 
 Elle était venue seule, un après‑midi gris, visiter les ruines du château médiéval de Montfaucon‑sur‑Sambre.  
-Le mot *ruines* était faible : Montfaucon n’était plus un château, mais un squelette.  
+Le mot "ruines" était faible : Montfaucon n’était plus un château, mais un squelette.  
 Un amas de pierres ouvertes au vent, un corps vidé de sa fonction, un lieu qui ne respirait plus.
 
 Le fossé sec l’obligea à ralentir.  
@@ -115,7 +115,7 @@ la même ligne du menton,
 la même manière de tenir la tête,  
 la même fixité dans le regard.  
 Une dame d’antan, épouse d’un seigneur disparu,  
-et pourtant —  
+et pourtant :  
 quelque chose d’elle.
 
 Le garde ne regarda pas le tableau.  
@@ -146,9 +146,9 @@ Le métal avait une odeur : fer, huile, sueur.
 Les armes portaient des traces : entailles, frottements, rouille.
 
 Les gardes parlaient bas :  
-« …la porte nord… »  
-« …pas sûr que les renforts… »  
-« …il faut cacher… »
+"…la porte nord…"  
+"…pas sûr que les renforts…"  
+"…il faut cacher…"
 
 Elle comprit que le secret avait été protégé par la menace.  
 Par la tension.  
@@ -183,12 +183,12 @@ Une autre découpait le chevreuil.
 Le sang coulait en un filet sombre.
 
 Les conversations étaient rapides :  
-« Passe-moi le couteau. »  
-« Le seigneur veut du chevreuil ce soir. »  
-« Mets les perdrix à la broche. »
+"Passe-moi le couteau."  
+"Le seigneur veut du chevreuil ce soir."  
+"Mets les perdrix à la broche."
 
 Puis une phrase, glissée :  
-« …pas un mot sur la lettre… »
+"…pas un mot sur la lettre…"
 
 Elle sentit un frisson.  
 Le secret circulait malgré lui.
@@ -201,9 +201,9 @@ Les casemates étaient sombres.
 Lits de bois, couvertures grossières, armes posées contre les murs.
 
 Des voix basses :  
-« Le seigneur a caché la lettre.  
+"Le seigneur a caché la lettre.  
 Si elle ressort un jour, tout s’effondre.  
-Le royaume ne doit jamais savoir. »
+Le royaume ne doit jamais savoir."
 
 Ce n’était plus une rumeur.  
 C’était une instruction.
@@ -249,7 +249,7 @@ Comme si la phrase avait traversé son corps pour s’y loger.
 
 Le garde leva une main.  
 Un geste bref.  
-Un geste qui disait : *c’est assez*.
+Un geste qui disait : "c’est assez".
 
 ---
 
