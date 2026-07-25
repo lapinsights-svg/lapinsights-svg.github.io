@@ -125,7 +125,7 @@ la liberté de contester sans être assimilé à une puissance étrangère.
 > Il n’est pas un relais d’une puissance étrangère.  
 > Pourtant, son nom suffit à activer le cadre narratif de l’ingérence.
 >
-> Ce glissement confirme ce qui était écrit en juin :
+> Ce glissement confirme ce que j'ai écrit en juin :
 >
 > > "Le récit ne répond pas à un événement : il crée le contexte dans lequel tout événement sera lu."
 >
