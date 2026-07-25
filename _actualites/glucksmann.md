@@ -106,9 +106,9 @@ la liberté de contester sans être assimilé à une puissance étrangère.
 >
 > Et voici le point décisif :
 >
-> > **« Le gouvernement a présenté un projet de loi pour mieux lutter contre les ingérences,  
+> > **" Le gouvernement a présenté un projet de loi pour mieux lutter contre les ingérences,  
 > > prévoyant de durcir les peines pour les personnes diffusant des fausses nouvelles  
-> > dans un contexte électoral. »**
+> > dans un contexte électoral. "**
 >
 > C’est le résultat concret d’une attaque abstraite.
 >
