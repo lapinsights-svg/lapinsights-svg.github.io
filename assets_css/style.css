@@ -568,9 +568,10 @@ footer.footer-fixed {
   max-width: 1100px;
 
   display: flex;
-  justify-content: center; /* RSS + © à gauche, newsletter à droite */
+  justify-content: flex-end; /* RSS + © à gauche, newsletter à droite */
   align-items: center;             /* alignement vertical */
-  gap: 60px; /* ≈ 2 cm */
+  gap: 2rem; /* espace entre bloc RSS+© et bloc newsletter */
+
 }
 
 /* Bloc gauche (RSS + signature) */
