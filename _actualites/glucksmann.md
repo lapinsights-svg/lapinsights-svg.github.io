@@ -92,7 +92,51 @@ Ce verrouillage n’est pas seulement politique.
 Il touche au cœur de l’État de droit :  
 la liberté de contester sans être assimilé à une puissance étrangère.
 
----
+> ---
+> ## 🟦 EDIT — en date du 25 juillet 2026  
+> ### Quand le récit rencontre enfin un fait
+>
+> Un mois après la rédaction de ce texte, un événement est venu **confirmer la mécanique décrite** :  
+> Édouard Philippe a été visé par une opération de désinformation attribuée à un réseau prorusse.
+>
+> L’attaque est qualifiée de **mineure**, **peu visible**, **facile à démentir**.  
+> Mais dans un récit pré‑installé, **l’intensité du fait n’est pas le critère** :  
+> c’est sa **fonction narrative** qui compte.
+>
+> L’incident, même marginal, devient :
+> - une preuve que « l’ingérence est là »  
+> - un signal que « les candidats seront ciblés »  
+> - un élément qui renforce le cadre préemptif  
+> - un argument pour durcir les dispositifs législatifs  
+>
+> Ce n’est pas l’événement qui produit le récit.  
+> C’est le récit qui **absorbe l’événement**.
+>
+> ### Le glissement se confirme
+>
+> Édouard Philippe n’est ni un candidat anti‑UE, ni un relais d’une puissance étrangère.  
+> Pourtant, il est désormais **intégré dans la dramaturgie géopolitique**.
+>
+> Ce glissement confirme ce qui était écrit en juin :
+>
+> > « Le récit ne répond pas à un événement : il crée le contexte dans lequel tout événement sera lu. »
+>
+> L’affaire Philippe n’est pas une preuve d’ingérence.  
+> C’est une **preuve de la puissance du récit d’ingérence**.
+>
+> ### Le risque structurel devient visible
+>
+> L’incident, faible en intensité mais fort en utilité narrative, montre que :
+> - le récit préemptif fonctionne  
+> - la suspicion s’étend  
+> - le cadre se referme  
+> - la tension monte  
+> - la démocratie se retrouve **sous surveillance interprétative**
+>
+> Ce n’est pas la Russie qui gagne.  
+> C’est le **dispositif narratif** qui se renforce.
+> ---
+
 
 ## La stratégie de tension : un mécanisme éprouvé
 
