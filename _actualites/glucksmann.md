@@ -131,6 +131,10 @@ la liberté de contester sans être assimilé à une puissance étrangère.
 >
 > Désormais, il crée aussi le contexte dans lequel **la loi sera écrite**.
 >
+> En présentant certains candidats comme victimes d’une attaque russe,
+> le récit transforme leur vulnérabilité en vertu démocratique
+> et requalifie le vote pour eux en acte de loyauté plutôt qu’en choix politique.  
+>
 > ### Le risque pour l’État de droit
 >
 > L’incident Philippe montre que :
