@@ -112,9 +112,9 @@ la liberté de contester sans être assimilé à une puissance étrangère.
 >
 > C’est le résultat concret d’une attaque abstraite.
 >
-> Un incident faible → une réponse législative forte.  
-> Un fait marginal → une justification majeure.  
-> Une rumeur isolée → un durcissement du droit.
+> Un incident faible = une réponse législative forte.  
+> Un fait marginal = une justification majeure.  
+> Une rumeur isolée = un durcissement du droit.
 >
 > Le récit ne se contente plus d’absorber les événements :  
 > il **produit des normes**.
