@@ -98,7 +98,7 @@ la liberté de contester sans être assimilé à une puissance étrangère.
 >
 > Un mois après la rédaction de ce texte, un événement est venu **activer le dispositif narratif** :  
 > Édouard Philippe a été visé par une opération de désinformation attribuée à un réseau prorusse.  
-> 👉 [Article du Figaro](https://www.lefigaro.fr/elections/presidentielles/edouard-philippe-vise-par-une-operation-de-desinformation-russe-une-premiere-pour-un-candidat-a-la-presidentielle-2027-20260724?utm_content=link&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook)
+> [Article du Figaro](https://www.lefigaro.fr/elections/presidentielles/edouard-philippe-vise-par-une-operation-de-desinformation-russe-une-premiere-pour-un-candidat-a-la-presidentielle-2027-20260724?utm_content=link&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook)
 >
 > L’attaque est décrite comme **mineure**, **peu visible**, **facile à démentir**.  
 > Mais cela n’a aucune importance.  
