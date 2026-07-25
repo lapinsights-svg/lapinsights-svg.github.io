@@ -568,7 +568,7 @@ footer.footer-fixed {
   max-width: 1100px;
 
   display: flex;
-  justify-content: space-between; /* RSS + © à gauche, newsletter à droite */
+  justify-content: center; /* RSS + © à gauche, newsletter à droite */
   align-items: center;             /* alignement vertical */
   gap: 60px; /* ≈ 2 cm */
 }
