@@ -570,7 +570,7 @@ footer.footer-fixed {
   display: flex;
   justify-content: space-between; /* RSS + © à gauche, newsletter à droite */
   align-items: center;             /* alignement vertical */
-  gap: 2rem;
+  gap: 60px; /* ≈ 2 cm */
 }
 
 /* Bloc gauche (RSS + signature) */
