@@ -94,47 +94,54 @@ la liberté de contester sans être assimilé à une puissance étrangère.
 
 > ---
 > ## 🟦 EDIT — en date du 25 juillet 2026  
-> ### Quand le récit rencontre enfin un fait
+> ### Quand une attaque abstraite produit un effet concret
 >
-> Un mois après la rédaction de ce texte, un événement est venu **confirmer la mécanique décrite** :  
-> Édouard Philippe a été visé par une opération de désinformation attribuée à un réseau prorusse.
+> Un mois après la rédaction de ce texte, un événement est venu **activer le dispositif narratif** :  
+> Édouard Philippe a été visé par une opération de désinformation attribuée à un réseau prorusse.  
+> 👉 [Article du Figaro](https://www.lefigaro.fr/elections/presidentielles/edouard-philippe-vise-par-une-operation-de-desinformation-russe-une-premiere-pour-un-candidat-a-la-presidentielle-2027-20260724?utm_content=link&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook)
 >
-> L’attaque est qualifiée de **mineure**, **peu visible**, **facile à démentir**.  
-> Mais dans un récit pré‑installé, **l’intensité du fait n’est pas le critère** :  
-> c’est sa **fonction narrative** qui compte.
+> L’attaque est décrite comme **mineure**, **peu visible**, **facile à démentir**.  
+> Mais cela n’a aucune importance.  
+> Dans un récit pré‑installé, **la fonction narrative prime sur la gravité du fait**.
 >
-> L’incident, même marginal, devient :
-> - une preuve que « l’ingérence est là »  
-> - un signal que « les candidats seront ciblés »  
-> - un élément qui renforce le cadre préemptif  
-> - un argument pour durcir les dispositifs législatifs  
+> Et voici le point décisif :
 >
-> Ce n’est pas l’événement qui produit le récit.  
-> C’est le récit qui **absorbe l’événement**.
+> > **« Le gouvernement a présenté un projet de loi pour mieux lutter contre les ingérences,  
+> > prévoyant de durcir les peines pour les personnes diffusant des fausses nouvelles  
+> > dans un contexte électoral. »**
 >
-> ### Le glissement se confirme
+> C’est le résultat concret d’une attaque abstraite.
 >
-> Édouard Philippe n’est ni un candidat anti‑UE, ni un relais d’une puissance étrangère.  
-> Pourtant, il est désormais **intégré dans la dramaturgie géopolitique**.
+> Un incident faible → une réponse législative forte.  
+> Un fait marginal → une justification majeure.  
+> Une rumeur isolée → un durcissement du droit.
+>
+> Le récit ne se contente plus d’absorber les événements :  
+> il **produit des normes**.
+>
+> ### Le glissement devient structurel
+>
+> Édouard Philippe n’est pas un candidat anti‑UE.  
+> Il n’est pas un relais d’une puissance étrangère.  
+> Pourtant, son nom suffit à activer le cadre narratif de l’ingérence.
 >
 > Ce glissement confirme ce qui était écrit en juin :
 >
 > > « Le récit ne répond pas à un événement : il crée le contexte dans lequel tout événement sera lu. »
 >
-> L’affaire Philippe n’est pas une preuve d’ingérence.  
-> C’est une **preuve de la puissance du récit d’ingérence**.
+> Désormais, il crée aussi le contexte dans lequel **la loi sera écrite**.
 >
-> ### Le risque structurel devient visible
+> ### Le risque pour l’État de droit
 >
-> L’incident, faible en intensité mais fort en utilité narrative, montre que :
+> L’incident Philippe montre que :
 > - le récit préemptif fonctionne  
-> - la suspicion s’étend  
-> - le cadre se referme  
-> - la tension monte  
-> - la démocratie se retrouve **sous surveillance interprétative**
+> - la suspicion devient opératoire  
+> - le cadre narratif produit des effets juridiques  
+> - la démocratie entre dans une logique de **surveillance interprétative**  
+> - la liberté de contester peut être requalifiée en **risque stratégique**
 >
 > Ce n’est pas la Russie qui gagne.  
-> C’est le **dispositif narratif** qui se renforce.
+> C’est le **dispositif narratif** qui devient législatif.
 > ---
 
 
