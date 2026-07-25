@@ -558,7 +558,7 @@ footer.footer-fixed {
   backdrop-filter: none;
 
   display: flex;
-  justify-content: flex-end;
+  justify-content: center; /* centrer le contenu */
   z-index: 3000;
 }
 
@@ -568,16 +568,17 @@ footer.footer-fixed {
   max-width: 1100px;
 
   display: flex;
-  justify-content: flex-end;
-  align-items: center;
+  justify-content: space-between; /* RSS + © à gauche, newsletter à droite */
+  align-items: center;             /* alignement vertical */
   gap: 2rem;
 }
 
+/* Bloc gauche (RSS + signature) */
 .footer-left {
   flex: 0;
 }
 
-/* Tout le footer reste en ligne */
+/* Bloc droit (newsletter) */
 .footer-right {
   display: flex;
   flex-direction: row;
@@ -585,16 +586,19 @@ footer.footer-fixed {
   align-items: center;
 }
 
-/* Liens horizontaux */
+/* Liens horizontaux (RSS + ©) */
 .footer-links {
   display: flex;
-  gap: 0.8rem;
+  gap: 1rem;
   align-items: center;
   opacity: 0.85;
 }
 
-.sep {
-  opacity: 0.5;
+/* Signature sur la même ligne que RSS */
+.footer-signature {
+  font-size: 0.85rem;
+  opacity: 0.85;
+  color: var(--accent);
 }
 
 /* Newsletter : colonne interne */
@@ -605,39 +609,24 @@ footer.footer-fixed {
   gap: 0.4rem;
 }
 
-/* Signature au-dessus du champ */
-.footer-signature {
-  font-size: 0.85rem;
-  opacity: 0.85;
-  color: var(--accent);
-  text-align: right;
-}
-
 /* Couleur globale */
 .footer-fixed,
 .footer-fixed a,
 .footer-signature,
 .newsletter-mini-title {
-  color: var(--texte); /* ton blanc/beige clair */
+  color: var(--texte);
 }
 
 /* ----------------------------------------------------
    ESPACE POUR NE PAS QUE LE CONTENU PASSE SOUS LE FOOTER
 ---------------------------------------------------- */
 main.contenu-scroll {
-  padding-bottom: 90px; /* hauteur du footer + respiration */
+  padding-bottom: 90px;
 }
 
 /* ----------------------------------------------------
    NEWSLETTER MINI
 ---------------------------------------------------- */
-.newsletter-mini {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: 0.4rem;
-}
-
 .newsletter-mini-title {
   font-size: 0.9rem;
   color: var(--texte);
