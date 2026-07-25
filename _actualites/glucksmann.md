@@ -24,7 +24,7 @@ og_image: /images/actualites/glucksmann.png
 
 ## Le futur comme matière première
 
-Dans ce discours,  Raphaël Glucksmann dit que « des campagnes d’une violence inédite viseront les candidats pro‑UE et favoriseront les forces prorusses »  
+Dans ce discours,  Raphaël Glucksmann dit que "des campagnes d’une violence inédite viseront les candidats pro‑UE et favoriseront les forces prorusses"  
 Ce qui revient à écrire le scénario avant le tournage.  
 Le réel n’a pas commencé que le récit est déjà verrouillé.  
 
@@ -127,7 +127,7 @@ la liberté de contester sans être assimilé à une puissance étrangère.
 >
 > Ce glissement confirme ce qui était écrit en juin :
 >
-> > « Le récit ne répond pas à un événement : il crée le contexte dans lequel tout événement sera lu. »
+> > "Le récit ne répond pas à un événement : il crée le contexte dans lequel tout événement sera lu."
 >
 > Désormais, il crée aussi le contexte dans lequel **la loi sera écrite**.
 >
