@@ -77,6 +77,7 @@ Ces fichiers préparent la lecture structurelle de la Bible.
 ---
 
 ## VIII. Résolution  
+- Pardon  
 - Apocalypse  
 
 ---
