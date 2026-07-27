@@ -3,7 +3,7 @@ title: "Séparation"
 categories: spiritualite
 resume: " La séparation originaire comme structure de la conscience, fondation de l’axe et articulation du Temple intérieur"
 episode: "La structure intérieure de la Bible"
-date: "2026-07-23"
+date: "2026-07-27"
 layout: article
 tags:
   - axe
