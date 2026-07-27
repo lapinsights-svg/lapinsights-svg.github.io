@@ -327,3 +327,8 @@ Donc : Dieu voit que la traversée est possible.
 ---
 
 Céleste R.
+
+---
+
+Pour revenir au sommaire:
+[Sommaire Structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
