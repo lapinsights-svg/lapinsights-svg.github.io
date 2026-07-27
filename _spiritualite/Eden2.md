@@ -16,8 +16,6 @@ og_image: /images/spiritualite/eden.webp
 La lecture littérale présente Éden comme un jardin situé entre quatre fleuves.  
 Mais plusieurs éléments du texte montrent que cette lecture ne peut pas suffire.  
 La Bible utilise des images géographiques pour décrire des **états intérieurs**, et Éden est le premier de ces états.  
-Les quatre fleuves ne sont pas géographiques : ils représentent la diffusion de l’état d’Éden dans l’horizontalité,  
-les quatre modalités par lesquelles la cohérence intérieure se déploie dans la conscience humaine.
 
 
 Ce fichier explique pourquoi Éden doit être compris comme une **architecture de la conscience**, et comment les motifs du récit soutiennent cette lecture.
@@ -43,6 +41,9 @@ Le verbe “planter” indique une **mise en forme**, non une localisation.
 ### 1.3. Les quatre fleuves ne correspondent à aucune géographie réelle  
 Les fleuves cités n’existent pas ensemble dans le monde connu.  
 Ils sont des **marqueurs symboliques**, non des coordonnées.
+Ils ne sont pas géographiques : ils représentent la diffusion de l’état d’Éden dans l’horizontalité,  
+les quatre modalités par lesquelles la cohérence intérieure se déploie dans la conscience humaine.
+
 
 **Conclusion :**  
 Éden est une **forme intérieure**, une cohérence de la conscience.
