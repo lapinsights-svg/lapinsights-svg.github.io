@@ -42,6 +42,14 @@ Une conscience, oui.
 Éden est l’état où ces deux axes se rejoignent.  
 La rupture commence lorsqu’ils cessent de se rencontrer.
 
+### Relier les deux arbres
+
+Relier les deux arbres, c’est restaurer la conscience capable de  
+distinguer sans se séparer,  
+percevoir sans se replier,  
+connaître sans posséder.  
+
+
 ---
 
 # La chute : rupture de densité
