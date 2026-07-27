@@ -28,6 +28,14 @@ C’est la **séparation originaire** : celle qui distingue **ce qui perçoit** 
 Elle est le premier geste de la conscience.  
 Elle ouvre l’espace où quelque chose peut enfin être vu.
 
+Cette séparation n’est pas la “Séparation” métaphysique d’autres traditions,  
+celle qui décrit une rupture d’avec Dieu ou une chute ontologique.  
+Ici, la séparation est une fonction de la conscience :  
+le geste par lequel elle distingue sans se détacher,  
+ouvre sans exclure,  
+et rend visible ce qui était confondu.
+
+
 Avant elle, tout est confondu.  
 Après elle, une ligne apparaît.  
 Cette ligne n’est pas un mur : c’est un axe.
