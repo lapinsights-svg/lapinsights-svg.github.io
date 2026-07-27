@@ -130,7 +130,7 @@ Dans ce verset, “mari” traduit le mot hébreu *ish*, qui ne désigne pas un 
 le pôle profond et structurant vers lequel l’horizontalité se tourne lorsque la polarité est brisée.  
 
 
-**La “domination” est la **rigidité de l’axe vertical** quand il n’est plus nourri par la perception ouverte.**
+**La “domination” est la rigidité de l’axe vertical quand il n’est plus nourri par la perception ouverte.**
 
 ### 3. « Tu mangeras ton pain à la sueur de ton front » (Gn 3,19)
 
