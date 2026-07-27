@@ -102,7 +102,7 @@ il perd **l’unité de ses axes**.
 ## 4.1. Ce qu’engendre la chute dans le texte biblique
 
 Après la rupture, le récit énumère une série de “conséquences” souvent lues comme des punitions.  
-La lecture structurelle montre qu’il s’agit de **effets mécaniques** de la fermeture de l’axe.
+La lecture structurelle montre qu’il s’agit d' **effets mécaniques** de la fermeture de l’axe.
 
 ### 1. « Tu enfanteras dans la douleur » (Gn 3,16)
 
