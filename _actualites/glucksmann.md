@@ -202,7 +202,7 @@ Elle survit moins bien à la suspicion généralisée.
 
 Une nouvelle actualité complexifie le récit d’ingérence : **Matignon étudie un mécanisme permettant aux banques françaises de prêter au Rassemblement national**,  
 afin d’éviter tout recours à des financements étrangers.  
-Voir  [Article de Libération](https://l.liberation.fr/Oiv)
+Voir  [Article de 21news](https://www.21news.be/matignon-planche-sur-un-dispositif-inedit-pour-financer-la-campagne-du-rn/)
 
 Ce geste crée un paradoxe : le RN devient **simultanément protégé et suspect**.  
 Trop risqué pour être laissé sans financement, trop risqué pour dépendre de l’étranger,  
