@@ -197,6 +197,28 @@ Elle survit moins bien à la suspicion généralisée.
 
 ---
 
+## 🟦 EDIT — 29 juillet 2026  
+### Le paradoxe de Schrödinger : protéger un parti qu’on accuse
+
+Une nouvelle actualité complexifie le récit d’ingérence : **Matignon étudie un mécanisme permettant aux banques françaises de prêter au Rassemblement national**,  
+afin d’éviter tout recours à des financements étrangers.  
+Voir  [Article de Libération](https://l.liberation.fr/Oiv)
+
+Ce geste crée un paradoxe : le RN devient **simultanément protégé et suspect**.  
+Trop risqué pour être laissé sans financement, trop risqué pour dépendre de l’étranger,  
+trop risqué pour être accusé d’ingérence si l’État lui-même garantit sa souveraineté financière.
+
+Ce mouvement ne dissipe pas le récit d’ingérence : il le **déplace**.  
+Si la piste financière se ferme, l’accusation peut se reconfigurer autour de l’ingérence **informationnelle** ou **idéologique**.
+
+Surtout, cette intervention **renforce l’idée que l’ingérence est réelle**, alors même qu’elle n’est pas démontrée.  
+Si l’État doit sécuriser un parti pour éviter une influence étrangère, la menace est installée comme évidence narrative, avant d’être prouvée.
+
+Ce nouvel épisode confirme la mécanique décrite plus haut :  
+**le récit d’ingérence change de forme pour survivre, jamais de fonction.**
+
+---
+
 ## Conclusion
 
 Le discours de Glucksmann n’est pas un avertissement.  
