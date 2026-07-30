@@ -2,6 +2,7 @@
 title: "Souveraineté distribuée : tenir sa place sans absorber l’autre"
 layout: article
 categories: idees
+date: 2026-07-30
 tags: [souveraineté, politique, cadre, réel]
 ---
 
@@ -9,7 +10,7 @@ tags: [souveraineté, politique, cadre, réel]
 
 Il y a quelques années, on m’a accusée d’être libertaire.  
 C’est faux.  
-Le contresens est révélateur : beaucoup confondent critique de l’État avec volonté de le dissoudre.
+Mais le contresens est révélateur : beaucoup confondent critique de l’État avec volonté de le dissoudre.
 
 Je ne veux pas un État absent.  
 Je refuse un État qui se substitue à la souveraineté des personnes.  
