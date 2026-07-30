@@ -4,15 +4,20 @@ layout: article
 categories: idees
 date: 2026-07-30
 tags: [souveraineté, politique, cadre, réel]
+og_image: /images/idees/souverainete.webp
 ---
+
+![souverainete](/images/idees/souverainete.webp)
+
+
 
 ## Souveraineté distribuée : tenir sa place sans absorber l’autre
 
 On m’a déjà accusée d’être libertaire.  
-C’est faux — et révélateur : critiquer l’État n’est pas vouloir le dissoudre.
+C’est faux et révélateur : critiquer l’État n’est pas vouloir le dissoudre.
 
 Je ne veux ni un État absent, ni un État qui se substitue à la souveraineté des personnes.  
-La souveraineté personnelle n’est pas un supplément : c’est la première brique de toute responsabilité réelle.  
+La souveraineté personnelle n’est pas un supplément, c’est la première brique de toute responsabilité réelle.  
 Sans elle, il n’y a plus de citoyen.  
 Seulement un administré.
 
@@ -44,7 +49,7 @@ Cet engagement suppose une chose essentielle :
 Former la tenue, le discernement, la capacité à porter sa part de souveraineté.  
 Sans cette éducation, l’équilibre se rompt.
 
-Un malentendu persiste : confondre État-nation avec verticalité absolue.  
+Un malentendu persiste, consistant à confondre État-nation avec **verticalité absolue**.  
 Croire que l’État doit primer sur tout, absorber les souverainetés au lieu de les articuler.  
 Pourtant, l’État-nation est conçu pour tenir ensemble des souverainetés distinctes.  
 Articuler, pas fusionner.  
