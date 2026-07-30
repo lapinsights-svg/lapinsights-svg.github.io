@@ -23,7 +23,7 @@ Seulement un administré.
 
 Je ne me tiens ni dans la ligne libertaire, qui voit l’État comme obstacle,  
 ni dans la ligne étatiste, qui le sacralise au-dessus de la personne.  
-Ma ligne articule souveraineté personnelle et souveraineté nationale — sans jamais les confondre.
+Ma ligne articule souveraineté personnelle et souveraineté nationale, sans jamais les confondre.
 
 La souveraineté commence par soi : jugement, responsabilité, tenue intérieure.  
 Elle doit s’inscrire dans un cadre national solide.  
