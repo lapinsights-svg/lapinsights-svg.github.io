@@ -36,7 +36,7 @@ C’est le modèle de la **souveraineté distribuée** :
 La personne souveraine dans son jugement.  
 Le réel souverain dans ses limites.  
 Le cadre national souverain dans ses décisions.  
-L’État souverain dans sa mission de protection — jamais au-dessus de la personne.
+L’État souverain dans sa mission de protection, jamais au-dessus de la personne.
 
 Ce modèle est un **équilibre** : à tenir, à ajuster, toujours fragile.  
 Il exige un engagement collectif :  
