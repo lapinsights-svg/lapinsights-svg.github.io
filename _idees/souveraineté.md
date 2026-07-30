@@ -13,7 +13,7 @@ og_image: /images/idees/souverainete.webp
 
 ## Souveraineté distribuée : tenir sa place sans absorber l’autre
 
-Il y a quelques années, on m’a déjà accusée d’être libertaire.  
+Il y a quelques années, on m’a accusée d’être libertaire.  
 C’est faux et révélateur : critiquer l’État n’est pas vouloir le dissoudre.
 
 Je ne veux ni un État absent, ni un État qui se substitue à la souveraineté des personnes.  
