@@ -3,9 +3,8 @@ categories: actualites
 date: 2026-07-31
 layout: article
 title: "Quand la Terre se lève"
-og_image: /images/creations/elephant.webp
+og_image: /images/actualites/elephant.webp
 ---
-![elephant](/images/creations/elephant.webp)
 
 *Cliquer sur play pour voir l'éléphant protéger son monde.*
 
