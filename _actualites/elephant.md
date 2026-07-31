@@ -36,7 +36,7 @@ Et c’est l’animal qui se lève pour rappeler l’alliance que nous avons dé
 
 Les animaux n’ont pas nos discours, nos lois, nos excuses.  
 Ils ont une conscience plus nue, plus directe :  
-celle de l’espace qu’ils habitent, de la vie qu’ils protègent, du monde qu’ils sentent glisser sous leurs pieds.  
+celle de l’espace qu’ils habitent, de la vie qu’ils protègent, du monde qu’ils sentent glisser sous leurs empreintes.  
 Parfois, ils semblent comprendre la tragédie mieux que nous.  
 Ils savent que la Terre n’est pas un décor, mais un corps.  
 Et que ce corps souffre.
