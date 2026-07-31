@@ -29,10 +29,10 @@ Et dans ce vacarme de moteurs, quelque chose de plus ancien que nous se cabre en
 Dans la lecture structurelle des récits anciens, le monde animal partage la force et la faiblesse du fils étendu.  
 Il peut se dérégler lorsque l’écosystème se brise, rompre l’équilibre, dévier de sa fonction.  
 Mais il peut aussi manifester une conscience verticale, un geste qui dépasse l’instinct, une fidélité au vivant que l’homme a souvent oubliée.  
+En réalité, c’est la densité du vivant qui tente de résister à sa propre dispersion.  
 Dans cette scène de l’été 2024, ce n’est pas l’animal qui trahit la Terre.  
 C’est l’homme.  
 Et c’est l’animal qui se lève pour rappeler l’alliance que nous avons délaissée.
-
 
 Les animaux n’ont pas nos discours, nos lois, nos excuses.  
 Ils ont une conscience plus nue, plus directe :  
