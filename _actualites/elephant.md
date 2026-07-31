@@ -39,6 +39,7 @@ celle de l’espace qu’ils habitent, de la vie qu’ils protègent, du monde q
 Parfois, ils semblent comprendre la tragédie mieux que nous.  
 Ils savent que la Terre n’est pas un décor, mais un corps.  
 Et que ce corps souffre.
+Et, bien plus, ils sentent la densité elle-même se fracturer.
 
 Alors ils se dressent.  
 Ils barrent la route.  
