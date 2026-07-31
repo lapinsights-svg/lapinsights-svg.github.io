@@ -16,6 +16,8 @@ og_image: /images/actualites/elephant.webp
 <br><br>
 <p></p>
 
+
+
 Il y a des instants où la Terre semble parler.  
 Pas avec des mots, mais avec des gestes immenses.  
 À l’été 2024, en Assam, un éléphant s’est dressé devant une pelleteuse.  
@@ -29,8 +31,10 @@ Et dans ce vacarme de moteurs, quelque chose de plus ancien que nous se cabre en
 Dans la lecture structurelle des récits anciens, le monde animal partage la force et la faiblesse du fils étendu.  
 Il peut se dérégler lorsque l’écosystème se brise, rompre l’équilibre, dévier de sa fonction.  
 Mais il peut aussi manifester une conscience verticale, un geste qui dépasse l’instinct, une fidélité au vivant que l’homme a souvent oubliée.  
-En réalité, c’est la densité du vivant qui tente de résister à sa propre dispersion.  
-Dans cette scène de l’été 2024, c'est l'homme qui trahit la Terre.  
+C’est la densité du vivant qui tente de résister à sa propre dispersion.  
+Et eux, qui vivent dans la densité phénoménale, sentent bien plus que le corps souffre : ils sentent la fracture du monde, la rupture de l’axe, la dispersion qui gagne.  
+Dans cette scène de l’été 2024, ce n’est pas l’animal qui trahit la Terre.  
+C’est l’homme.  
 Et c’est l’animal qui se lève pour rappeler l’alliance que nous avons délaissée.
 
 Les animaux n’ont pas nos discours, nos lois, nos excuses.  
@@ -39,7 +43,6 @@ celle de l’espace qu’ils habitent, de la vie qu’ils protègent, du monde q
 Parfois, ils semblent comprendre la tragédie mieux que nous.  
 Ils savent que la Terre n’est pas un décor, mais un corps.  
 Et que ce corps souffre.
-Et, bien plus, ils sentent la densité elle-même se fracturer.
 
 Alors ils se dressent.  
 Ils barrent la route.  
