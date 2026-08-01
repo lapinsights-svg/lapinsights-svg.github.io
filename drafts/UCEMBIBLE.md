@@ -48,29 +48,38 @@ Ce texte est le résultat de cette reconstruction.
 
 
 
-Thèse
+## Thèse
 
 Le problème n’a jamais été UCEM.
 Le problème a été la lecture de Wapnick, qui a contaminé :
 
-    Groom,
-
-    les enseignants francophones,
-
-    les groupes UCEM,
-
-    les interprétations psychologiques,
-
-    les “pratiques”,
-
-    les exercices transformés en thérapie.
+- Groom,
+- les enseignants francophones,
+- les groupes UCEM,
+- les interprétations psychologiques,
+- les “pratiques”,
+- les exercices transformés en thérapie.
 
 Cette lecture a déplacé UCEM du plan ontologique au plan psychologique,
 du plan non‑duel au plan thérapeutique,
 du plan biblique au plan mental.
 
-Donc, si je retire cette couche.
+Donc, si je retire cette couche,
 tout redevient cohérent.
+
+### Une conséquence directe : la confusion de Helen Shucman
+
+Cette confusion des plans - ontologique dans UCEM, psychologique chez Wapnick - explique aussi l’inconfort profond de Helen Shucman, la scribe du Cours.  
+Formée en psychologie freudienne, elle recevait un texte ontologique mais tentait de le comprendre avec des catégories mentales.
+
+À propos du monde qu’elle voyait, elle écrit :  
+> « Je vois un monde, et pourtant on me dit qu’il n’est pas réel. »
+
+Ce n’est pas UCEM qu’elle ne comprenait pas :  
+c’est **la lecture psychologique** qu’elle croyait devoir appliquer au texte.
+
+Helen transcrivait un enseignement non‑duel, mais on lui a appris à le lire comme une thérapie.  
+Cette dissonance est la source de son trouble, et l’origine de la confusion qui s’est ensuite propagée dans l’enseignement de Wapnick et de Groom.
 
 ---
 
