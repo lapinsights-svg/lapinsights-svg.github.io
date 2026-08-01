@@ -81,6 +81,47 @@ c’est **la lecture psychologique** qu’elle croyait devoir appliquer au texte
 Helen transcrivait un enseignement non‑duel, mais on lui a appris à le lire comme une thérapie.  
 Cette dissonance est la source de son trouble, et l’origine de la confusion qui s’est ensuite propagée dans l’enseignement de Wapnick et de Groom.
 
+### Clarification essentielle : la pratique dans UCEM n’est pas une pratique psychologique. 
+
+Le Livre d’exercices parle de pratique, mais jamais dans le sens où Wapnick l’a enseignée.  
+UCEM entraîne la perception du monde, pas les émotions.  
+Il corrige la vision ontologique, pas les réactions psychologiques.
+
+UCEM dit : « applique les idées ».  
+Wapnick dit : « analyse tes rancœurs ».  
+
+UCEM dit : « tu n’as pas besoin d’y croire ».  
+Wapnick dit : « tu dois comprendre ».
+
+Cette confusion a transformé une pratique ontologique en thérapie intérieure.  
+C’est cette déformation qui a rendu UCEM impraticable pour Helen, et qui a ensuite été transmise par Groom en France.
+
+### Le joug léger : la clé biblique de la pratique UCEM
+
+UCEM dit, à propos des exercices :  
+« Rien d’autre que cela n’est requis. »
+
+Cette phrase est structurellement identique à :  
+« Mon joug est léger. » (Matthieu 11:30)
+
+La pratique du Livre d’exercices n’est pas un travail intérieur,  
+ni une introspection,  
+ni une analyse des émotions,  
+ni une lutte contre l’ego.
+
+Elle est légère parce qu’elle ne demande rien d’autre que de voir.  
+Elle n’exige aucun effort psychologique.  
+Elle n’impose aucune discipline mentale.  
+Elle ne demande pas de “mettre l’ego de côté”.
+
+Elle demande seulement d’exposer l’esprit à des idées ontologiques  
+qui défont la perception du monde.
+
+C’est cette simplicité - cette légèreté -  
+que la lecture psychologique de Wapnick a obscurcie,  
+et que la lecture structurelle UCEM–Bible restaure.
+
+
 ---
 
 ## 1. Pour ceux qui ne connaissent pas UCEM
