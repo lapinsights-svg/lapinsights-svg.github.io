@@ -19,29 +19,58 @@ tags:
 
 ## Préambule
 
-Il y a six ans, j’ai quitté l’enseignement d’Un Cours en miracles.  
-Non pas par lassitude, mais parce que sa métaphysique me paraissait **impossible**.  
-Impossible à croire.  
-Impossible à vivre.  
+Il y a six ans, j’ai quitté l’enseignement d’Un Cours en miracles.
+Non pas par lassitude, mais parce que sa métaphysique me paraissait impossible.
+Impossible à croire.
+Impossible à vivre.
 Impossible à réconcilier avec la réalité du monde.
+
+J’avais suivi cet enseignement au travers de Bernard Groom,
+lui-même formé par Kenneth Wapnick,
+considéré comme le plus grand interprète du Cours.
 
 J’ai pensé que le problème venait du Cours lui-même.
 
-Puis, des années plus tard, une fissure s’est ouverte :  
-et si ce qui était impossible n’était pas UCEM,  
-mais **la lecture qu’en avait faite Kenneth Wapnick**,  
-considéré comme son plus grand enseignant ?
+Puis, des années plus tard, une fissure s’est ouverte :
+et si ce qui était impossible n’était pas UCEM,
+mais la lecture qu’en avait faite Kenneth Wapnick,
+et que Groom avait transmise sans la questionner ?
 
 Cette question a tout renversé.
 
-Aujourd’hui, je rassemble les morceaux.  
-Je propose une lecture différente :  
-une lecture **ontologique**,  
-cohérente,  
-verticale,  
-et conforme à la **lecture structurelle de la Bible**.
+Aujourd’hui, je rassemble les morceaux.
+Je propose une lecture différente :
+une lecture ontologique,
+cohérente,
+verticale,
+et conforme à la lecture structurelle de la Bible.
+Ce texte est le résultat de cette reconstruction.  
 
-Ce texte est le résultat de cette reconstruction.
+
+
+Thèse
+
+Le problème n’a jamais été UCEM.
+Le problème a été la lecture de Wapnick, qui a contaminé :
+
+    Groom,
+
+    les enseignants francophones,
+
+    les groupes UCEM,
+
+    les interprétations psychologiques,
+
+    les “pratiques”,
+
+    les exercices transformés en thérapie.
+
+Cette lecture a déplacé UCEM du plan ontologique au plan psychologique,
+du plan non‑duel au plan thérapeutique,
+du plan biblique au plan mental.
+
+Donc, si je retire cette couche.
+tout redevient cohérent.
 
 ---
 
