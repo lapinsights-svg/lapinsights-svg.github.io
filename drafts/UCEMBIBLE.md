@@ -189,8 +189,9 @@ C’est une **projection** :
 Adam n’est pas un homme.  
 C’est un **axe intact**.
 
-Jésus n’est pas un personnage.  
-C’est une **fermeture de la polarité**.
+Jésus, dans la forme, est un homme historique.
+Jésus-christ, dans l’unité, n’est pas un personnage :
+c’est la **fermeture de la polarité**.
 
 Paul n’est pas un moraliste.  
 C’est la voix qui dit :
