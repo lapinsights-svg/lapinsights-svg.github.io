@@ -66,9 +66,9 @@ du plan biblique au plan mental.
 
 Si je retire cette couche, tout redevient cohérent.
 
-### Une conséquence directe : la confusion de Helen Shucman
+### Une conséquence directe : la confusion de Helen Schucman
 
-Cette confusion des plans — ontologique dans UCEM, psychologique chez Wapnick — explique aussi l’inconfort profond de Helen Shucman, la scribe du Cours.  
+Cette confusion des plans — ontologique dans UCEM, psychologique chez Wapnick — explique aussi l’inconfort profond de Helen Schucman, la scribe du Cours.  
 Formée en psychologie freudienne, elle recevait un texte ontologique mais tentait de le comprendre avec des catégories mentales.
 
 À propos du monde qu’elle voyait, elle écrit :
@@ -122,7 +122,7 @@ Elle ne demande pas de “mettre l’ego de côté”.
 Elle demande seulement d’exposer l’esprit à des idées ontologiques  
 qui défont la perception du monde.
 
-C’est cette simplicité — cette légèreté —  
+C’est cette simplicité - cette légèreté -  
 que la lecture psychologique de Wapnick a obscurcie,  
 et que la lecture structurelle UCEM–Bible restaure.
 
@@ -130,7 +130,7 @@ et que la lecture structurelle UCEM–Bible restaure.
 
 ## 1. Pour ceux qui ne connaissent pas UCEM
 
-**Un Cours en miracles** est un texte spirituel du XXᵉ siècle affirmant que la séparation d’avec Dieu n’a jamais eu lieu  
+**Un Cours en miracles** est un texte spirituel du 20ème siècle affirmant que la séparation d’avec Dieu n’a jamais eu lieu  
 et que le monde que nous percevons n’a pas de réalité en Dieu.
 
 Kenneth Wapnick, son principal commentateur, lit cette métaphysique comme une négation totale du monde :  
