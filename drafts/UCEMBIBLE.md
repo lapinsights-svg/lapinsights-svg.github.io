@@ -1,7 +1,7 @@
 ---
 title: "Il n’y a pas de monde : UCEM, Bible et l’erreur de Wapnick"
 resume: "Métaphysique unifiée UCEM–Bible et critique structurelle de la lecture de Kenneth Wapnick."
-date: "2026-08-01"
+date: "2026-08-02"
 layout: article
 categories:
   - spiritualite
@@ -19,90 +19,95 @@ tags:
 
 ## Préambule
 
-Il y a six ans, j’ai quitté l’enseignement d’Un Cours en miracles.
-Non pas par lassitude, mais parce que sa métaphysique me paraissait impossible.
-Impossible à croire.
-Impossible à vivre.
+Il y a six ans, j’ai quitté l’enseignement d’Un Cours en miracles.  
+Non pas par lassitude, mais parce que sa métaphysique me paraissait impossible.  
+Impossible à croire.  
+Impossible à vivre.  
 Impossible à réconcilier avec la réalité du monde.
 
-J’avais suivi cet enseignement au travers de Bernard Groom,
-lui-même formé par Kenneth Wapnick,
+J’avais suivi cet enseignement au travers de Bernard Groom,  
+lui-même formé par Kenneth Wapnick,  
 considéré comme le plus grand interprète du Cours.
 
 J’ai pensé que le problème venait du Cours lui-même.
 
-Puis, des années plus tard, une fissure s’est ouverte :
-et si ce qui était impossible n’était pas UCEM,
-mais la lecture qu’en avait faite Kenneth Wapnick,
+Puis, des années plus tard, une fissure s’est ouverte :  
+et si ce qui était impossible n’était pas UCEM,  
+mais la lecture qu’en avait faite Kenneth Wapnick,  
 et que Groom avait transmise sans la questionner ?
 
 Cette question a tout renversé.
 
-Aujourd’hui, je rassemble les morceaux.
-Je propose une lecture différente :
-une lecture ontologique,
-cohérente,
-verticale,
-et conforme à la lecture structurelle de la Bible.
-Ce texte est le résultat de cette reconstruction.  
+Aujourd’hui, je rassemble les morceaux.  
+Je propose une lecture différente :  
+une lecture ontologique,  
+cohérente,  
+verticale,  
+et conforme à la lecture structurelle de la Bible.  
+Ce texte est le résultat de cette reconstruction.
 
-
+---
 
 ## Thèse
 
-Le problème n’a jamais été UCEM.
+Le problème n’a jamais été UCEM.  
 Le problème a été la lecture de Wapnick, qui a contaminé :
 
-- Groom,
-- les enseignants francophones,
-- les groupes UCEM,
-- les interprétations psychologiques,
-- les “pratiques”,
+- Groom,  
+- les enseignants francophones,  
+- les groupes UCEM,  
+- les interprétations psychologiques,  
+- les “pratiques”,  
 - les exercices transformés en thérapie.
 
-Cette lecture a déplacé UCEM du plan ontologique au plan psychologique,
-du plan non‑duel au plan thérapeutique,
+Cette lecture a déplacé UCEM du plan ontologique au plan psychologique,  
+du plan non-duel au plan thérapeutique,  
 du plan biblique au plan mental.
 
-Donc, si je retire cette couche,
-tout redevient cohérent.
+Si je retire cette couche, tout redevient cohérent.
 
 ### Une conséquence directe : la confusion de Helen Shucman
 
-Cette confusion des plans - ontologique dans UCEM, psychologique chez Wapnick - explique aussi l’inconfort profond de Helen Shucman, la scribe du Cours.  
+Cette confusion des plans — ontologique dans UCEM, psychologique chez Wapnick — explique aussi l’inconfort profond de Helen Shucman, la scribe du Cours.  
 Formée en psychologie freudienne, elle recevait un texte ontologique mais tentait de le comprendre avec des catégories mentales.
 
-À propos du monde qu’elle voyait, elle écrit :  
+À propos du monde qu’elle voyait, elle écrit :
+
 > « Je vois un monde, et pourtant on me dit qu’il n’est pas réel. »
 
 Ce n’est pas UCEM qu’elle ne comprenait pas :  
 c’est **la lecture psychologique** qu’elle croyait devoir appliquer au texte.
 
-Helen transcrivait un enseignement non‑duel, mais on lui a appris à le lire comme une thérapie.  
-Cette dissonance est la source de son trouble, et l’origine de la confusion qui s’est ensuite propagée dans l’enseignement de Wapnick et de Groom.
+Helen transcrivait un enseignement non-duel,  
+mais sa formation psychologique l’obligeait à le lire comme une thérapie.  
+Cette dissonance est la source de son trouble,  
+et l’origine de la confusion qui s’est ensuite propagée dans l’enseignement de Wapnick et de Groom.
 
-### Clarification essentielle : la pratique dans UCEM n’est pas une pratique psychologique. 
+### Clarification essentielle : la pratique dans UCEM n’est pas une pratique psychologique
 
 Le Livre d’exercices parle de pratique, mais jamais dans le sens où Wapnick l’a enseignée.  
 UCEM entraîne la perception du monde, pas les émotions.  
 Il corrige la vision ontologique, pas les réactions psychologiques.
 
 UCEM dit : « applique les idées ».  
-Wapnick dit : « analyse tes rancœurs ».  
+Wapnick dit : « analyse tes rancœurs ».
 
 UCEM dit : « tu n’as pas besoin d’y croire ».  
 Wapnick dit : « tu dois comprendre ».
 
 Cette confusion a transformé une pratique ontologique en thérapie intérieure.  
-C’est cette déformation qui a rendu UCEM impraticable pour Helen, et qui a ensuite été transmise par Groom en France.
+C’est cette déformation qui a rendu UCEM impraticable pour Helen,  
+et qui a ensuite été transmise par Groom en France.
 
 ### Le joug léger : la clé biblique de la pratique UCEM
 
-UCEM dit, à propos des exercices :  
-« Rien d’autre que cela n’est requis. »
+UCEM dit, à propos des exercices :
 
-Cette phrase est structurellement identique à :  
-« Mon joug est léger. » (Matthieu 11:30)
+> « Rien d’autre que cela n’est requis. »
+
+Cette phrase est structurellement identique à :
+
+> « Mon joug est léger. » (Matthieu 11:30)
 
 La pratique du Livre d’exercices n’est pas un travail intérieur,  
 ni une introspection,  
@@ -117,17 +122,19 @@ Elle ne demande pas de “mettre l’ego de côté”.
 Elle demande seulement d’exposer l’esprit à des idées ontologiques  
 qui défont la perception du monde.
 
-C’est cette simplicité - cette légèreté -  
+C’est cette simplicité — cette légèreté —  
 que la lecture psychologique de Wapnick a obscurcie,  
 et que la lecture structurelle UCEM–Bible restaure.
-
 
 ---
 
 ## 1. Pour ceux qui ne connaissent pas UCEM
 
-**Un Cours en miracles** est un texte spirituel du XXᵉ siècle affirmant que la séparation d’avec Dieu n’a jamais eu lieu et que le monde que nous percevons n’a pas de réalité en Dieu.  
-Kenneth Wapnick, son principal commentateur, lit cette métaphysique comme une négation totale du monde : pour lui, si Dieu ne l’a pas créé, il n’existe pas du tout.
+**Un Cours en miracles** est un texte spirituel du XXᵉ siècle affirmant que la séparation d’avec Dieu n’a jamais eu lieu  
+et que le monde que nous percevons n’a pas de réalité en Dieu.
+
+Kenneth Wapnick, son principal commentateur, lit cette métaphysique comme une négation totale du monde :  
+pour lui, si Dieu ne l’a pas créé, il n’existe pas du tout.
 
 Cette lecture est le point où tout se fracture.
 
@@ -149,14 +156,16 @@ Deux phrases.
 Deux langues.  
 Une seule ontologie.
 
-Le monde n’est pas nié dans la forme.
+Le monde n’est pas nié dans la forme.  
 Il est nié dans l’unité.
 
-Il n’est pas irréel : il est irréel en Dieu, mais réel dans la fracture.  
-Il est sans fondement ontologique.
+Il n’est pas irréel :  
+il est irréel **en Dieu**,  
+mais réel **dans la fracture**.
 
-Il n’est pas une "erreur de perception".  
-Il est une **conséquence d’une idée impossible**.
+Il n’est pas une “erreur psychologique”.  
+Il est une **erreur ontologique** :  
+une perception issue d’une idée impossible.
 
 ---
 
@@ -165,7 +174,7 @@ Il est une **conséquence d’une idée impossible**.
 Pour prouver son glissement, une seule ligne suffit :
 
 > « Le monde n’existe pas. »  
-> *(Kenneth Wapnick, *Journey Without Distance*)*
+> *(Kenneth Wapnick, Journey Without Distance)*
 
 Wapnick nie :
 
@@ -240,8 +249,8 @@ Adam n’est pas un homme.
 C’est un **axe intact**.
 
 Jésus, dans la forme, est un homme historique.  
-Jésus-christ, dans l’unité, n’est pas un personnage :  
-c’est la **fermeture de la polarité**.
+Jésus‑Christ, dans l’unité, n’est pas un personnage :  
+c’est la **mémoire intacte de l’unité**.
 
 Paul n’est pas un moraliste.  
 C’est la voix qui dit :
@@ -274,10 +283,10 @@ Il est fait.
 Il n’est pas fondé.  
 Il est projeté.
 
-Projeter ne signifie pas rêver.
-Projeter signifie déployer une forme sans fondement ontologique.
-Réel dans la fracture.
-Irréel en Dieu.
+Projeter ne signifie pas rêver.  
+Projeter signifie déployer une forme sans fondement ontologique.  
+Réel dans la fracture.  
+Irréel en Dieu.  
 Il n’est pas éternel.  
 Il est dissous.
 
@@ -333,7 +342,7 @@ Avec la bonne lecture :
 - Le serpent = l’idée impossible.  
 - La fracture = la projection.  
 - Le monde = illusion ontologique.  
-- Jésus = fermeture de la polarité.  
+- Jésus = mémoire intacte de l’unité.  
 - Paul = séparation impossible.  
 - Dieu = unité intacte.  
 - Le Fils = extension capable de projection.  
@@ -361,3 +370,5 @@ C’est la seule lecture qui :
 ---
 
 Céleste R.
+
+
