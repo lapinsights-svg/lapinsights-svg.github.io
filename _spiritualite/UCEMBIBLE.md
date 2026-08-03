@@ -212,7 +212,7 @@ elles apparaissent dans le corps, mais n’atteignent pas la conscience unifiée
 là où la phénoménalité du corps n’a plus aucun pouvoir sur l’esprit.
 
 
-Cette position est incompatible :
+La position de Wapnick est incompatible :
 
 - avec la Bible, qui affirme explicitement la souffrance corporelle de Jésus dans la forme,  
 - et avec UCEM, qui ne nie jamais la phénoménalité du corps dans la fracture.
