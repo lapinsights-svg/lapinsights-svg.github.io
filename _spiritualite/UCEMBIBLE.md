@@ -353,6 +353,25 @@ Mais il y a un monde **dans la fracture**.
 Il n’est pas réel **ontologiquement**.  
 Il est réel **phénoménalement**.
 
+### Clarification ontologique essentielle : ce que UCEM dit, et ce que Kenneth a déformé
+
+Le monde n’est pas un rêve ontologique, car la séparation n’a jamais eu lieu :  
+rien n’a été créé en dehors de Dieu.  
+Mais il est un rêve phénoménal, car l’esprit peut percevoir une forme sans fondement ontologique.   
+Ainsi, le monde apparaît, mais il n’a pas d’être ; il est perçu, mais il n’est pas créé ;  
+il est réel dans la perception, mais inexistant dans l’unité.  
+UCEM peut donc dire simultanément : « Le monde est irréel » (irréel en Dieu)  
+et « Tu sembles vivre dans un monde » (réel dans la fracture).  
+
+Kenneth Wapnick contredit cette structure lorsqu’il affirme :  
+« Le monde est une projection de notre culpabilité » et « Le corps n’est qu’une pensée dans l’esprit ».  
+Ces phrases psychologisent la projection, réduisent la phénoménalité à un contenu mental, et nient la réalité perceptive du monde et du corps.  
+Pour Kenneth, le monde est une construction psychologique intérieure ; pour UCEM, il est une phénoménalité sans ontologie.
+
+Cette distinction est capitale : elle explique comment Dieu ne voit pas le monde, mais connaît le Fils qui se croit dans le monde.  
+C’est le sens réel de Jean 3,16 : Dieu n’aime pas la phénoménalité, mais le Fils qui s’y perçoit.
+
+
 Il n’est pas créé.  
 Il est fait.
 
