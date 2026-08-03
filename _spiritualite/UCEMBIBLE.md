@@ -57,6 +57,7 @@ Cette lecture déplace UCEM du plan ontologique au plan psychologique, du non-du
 Wapnick écrit :
 
 > « The world is not outside us; it is a projection of our own guilt. »
+> « Le monde n’est pas en dehors de nous ; il est une projection de notre propre culpabilité. »
 
 Cette phrase réduit la fracture ontologique à un mécanisme psychologique.  
 La projection — notion ontologique dans UCEM — devient dynamique émotionnelle.
@@ -64,6 +65,7 @@ La projection — notion ontologique dans UCEM — devient dynamique émotionnel
 Il écrit aussi :
 
 > « The body is simply a thought in the mind. »
+> « Le corps est simplement une pensée dans l’esprit. »
 
 Ce glissement nie la réalité phénoménale du corps et ramène UCEM au mental.
 
