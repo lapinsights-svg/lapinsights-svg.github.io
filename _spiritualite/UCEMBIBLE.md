@@ -152,6 +152,70 @@ Ne pas faire par soi-même.
 Se rappeler que tout est déjà guéri.  
 Revenir à la paix.
 
+### Le problème de la douleur : la conséquence directe de l’irréalité physique du corps chez Wapnick
+
+La lecture de Wapnick produit une difficulté majeure :  
+si le corps est « simplement une pensée dans l’esprit », alors **la douleur physique n’a aucun statut phénoménal**.  
+Elle devient une illusion psychologique, un effet de la culpabilité, un contenu mental à observer.
+
+Mais UCEM ne dit jamais cela.
+
+UCEM nie la création du corps en Dieu,  
+mais **ne nie jamais la phénoménalité du corps dans la fracture**.  
+Il dit explicitement :
+
+> « Tu sembles avoir un corps. »  
+> *(UCEM, T‑2.IV.3)*
+
+La douleur est donc **réelle phénoménalement**, même si elle est **inexistante ontologiquement**.
+
+Wapnick, en niant la réalité phénoménale du corps,  
+se retrouve obligé de nier la douleur elle-même.  
+Il doit dire qu’elle n’est qu’une « perception erronée »,  
+une « croyance »,  
+ou une « projection de la culpabilité ».
+
+Cela crée une contradiction interne :
+
+- la douleur est ressentie,  
+- mais elle est déclarée inexistante ;  
+- elle apparaît dans la fracture,  
+- mais elle est traitée comme une erreur psychologique intérieure.
+
+Cette position est intenable :  
+elle demande à l’étudiant de **nier son expérience phénoménale**,  
+et transforme UCEM en une forme de dissociation spirituelle.
+
+UCEM ne demande jamais cela.
+
+La douleur n’est pas une faute,  
+ni une erreur mentale,  
+ni un échec spirituel.  
+Elle est simplement **un effet phénoménal d’un corps non fondé ontologiquement**.
+
+Et c’est précisément parce que Wapnick nie la phénoménalité du monde et du corps  
+qu’il en vient à **nier la douleur de Jésus**.
+
+Pour lui, si le corps n’est qu’une pensée dans l’esprit,  
+alors la souffrance physique de Jésus n’est qu’un symbole mental,  
+une représentation intérieure,  
+et non une douleur réellement ressentie dans la forme.
+
+Cette position est incompatible :
+
+- avec la Bible, qui affirme explicitement la souffrance corporelle de Jésus,  
+- et avec UCEM, qui ne nie jamais la phénoménalité du corps dans la fracture.
+
+La lecture structurelle UCEM–Bible permet de maintenir les deux axes :
+
+- la douleur de Jésus est **réelle phénoménalement**,  
+- mais elle n’a **aucun statut ontologique** en Dieu.
+
+Wapnick, en niant la phénoménalité,  
+fait disparaître la douleur de Jésus,  
+et avec elle, toute possibilité de comprendre la croix autrement que comme une abstraction psychologique.
+
+
 ---
 
 ### La nuance cruciale
