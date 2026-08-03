@@ -229,6 +229,12 @@ Il n’est pas une “erreur psychologique”.
 Il est une **erreur ontologique** :  
 une perception issue d’une idée impossible.
 
+Le monde est simplement non-fondé ontologiquement.  
+
+C’est la position UCEM.  
+C’est la position Paul.  
+C’est la position Jésus.
+
 ---
 
 ## 3. L’erreur de Wapnick : la confusion des plans
