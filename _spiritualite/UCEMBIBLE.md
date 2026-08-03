@@ -83,7 +83,7 @@ Ce texte est le résultat de cette reconstruction.
 Le problème n’a jamais été UCEM.  
 Le problème a été la lecture de Wapnick, qui a contaminé :
  
-- les enseignants francophones,  
+- les enseignants francophones et anglophones,  
 - les groupes UCEM,  
 - les interprétations psychologiques,  
 - les “pratiques”,  
