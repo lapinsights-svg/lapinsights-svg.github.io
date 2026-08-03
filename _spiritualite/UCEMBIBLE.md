@@ -84,25 +84,76 @@ Wapnick dit : « tu dois comprendre ».
 
 Cette confusion transforme une pratique ontologique en introspection émotionnelle.
 
-### Le joug léger : la clé biblique
+### Le joug léger : la clé biblique de la pratique UCEM
 
-UCEM dit :
+UCEM dit, à propos des exercices :
 
 > « Rien d’autre que cela n’est requis. »
 
-Comme :
+Structurellement identique à :
 
 > « Mon joug est léger. » (Matthieu 11:30)
 
-La pratique n’est ni introspection ni lutte contre l’ego.  
-Elle ne demande qu’un acte perceptif.
+La pratique du Livre d’exercices n’est pas un travail intérieur, ni une introspection, ni une analyse émotionnelle.  
+Elle est légère parce qu’elle ne demande qu’un acte perceptif.
 
 **Il n’y a pas de travail ontologique à accomplir, mais un geste de perception à poser.**
 
 La correction est déjà faite : l’être est intact, la séparation n’a jamais eu lieu.  
 Le pardon n’est pas un effort, mais un interrupteur.
 
-Cette simplicité a été obscurcie par la lecture psychologique de Wapnick.
+Cette simplicité a été obscurcie par la lecture psychologique de Wapnick.  
+Car Wapnick transforme ce joug léger en une discipline intérieure lourde, en demandant à l’étudiant d’accomplir une série d’actes psychologiques :
+
+Observer l’anxiété.  
+Identifier le petit soi.  
+Se tourner vers le Soi.  
+Choisir la vision.  
+Prioriser la paix.  
+Transformer l’attaque.  
+Voir l’autre innocent.  
+Renoncer à la peur.  
+Corriger la perception.  
+Examiner les pensées.  
+Démasquer la culpabilité.  
+Regarder la honte.  
+Reconnaître la défense.  
+Questionner les jugements.  
+Relâcher le contrôle.  
+Remettre les conflits.  
+Demander l’aide intérieure.  
+Renoncer aux attentes.  
+Voir l’ego à l’œuvre.  
+Ne pas croire les pensées.  
+Identifier les projections.  
+Revenir au présent.  
+Choisir à nouveau.  
+Renoncer au sacrifice.  
+Laisser tomber les rôles.  
+Ne pas se justifier.  
+Accepter la responsabilité.  
+Cesser de blâmer.  
+Regarder la peur de Dieu.  
+Voir la peur de l’amour.  
+Reconnaître la résistance.  
+Accepter la correction.  
+Renoncer à l’attaque.  
+Voir l’innocence en soi.  
+Voir l’innocence en l’autre.  
+Laisser l’Esprit corriger.  
+Ne pas faire par soi-même.  
+Se rappeler que tout est déjà guéri.  
+Revenir à la paix.
+
+Cette liste montre la déformation :  
+ce qui est dans UCEM un **acte perceptif simple** devient chez Wapnick un **travail psychologique complexe**.
+
+Le joug léger devient un joug intérieur.  
+La pratique ontologique devient thérapie.  
+La vision devient introspection.
+
+La lecture structurelle UCEM–Bible restaure la simplicité :  
+**voir**, et laisser la correction déjà accomplie se déployer.
 
 ---
 
@@ -218,67 +269,6 @@ Dans UCEM, la culpabilité est un **effet** de la croyance en la séparation.
 La seule “cause” du monde est la **séparation ontologique**, antérieure à toute psychologie.  
 Le monde est donc la projection de la **croyance en la séparation**, non de la culpabilité.  
 La lecture de Wapnick inverse la causalité et place la psychologie avant la phénoménalité.
-
----
-
-## 7. La contradiction finale de Wapnick
-
-Wapnick dit :
-
-> « Il n’y a rien à faire. »
-
-Puis enseigne :
-
-> « Voici 40 choses à faire. »
-
-Observer l’anxiété.  
-Identifier le petit soi.  
-Se tourner vers le Soi.  
-Choisir la vision.  
-Prioriser la paix.  
-Transformer l’attaque.  
-Voir l’autre innocent.  
-Renoncer à la peur.  
-Corriger la perception.  
-Examiner les pensées.  
-Démasquer la culpabilité.  
-Regarder la honte.  
-Reconnaître la défense.  
-Questionner les jugements.  
-Relâcher le contrôle.  
-Remettre les conflits.  
-Demander l’aide intérieure.  
-Renoncer aux attentes.  
-Voir l’ego à l’œuvre.  
-Ne pas croire les pensées.  
-Identifier les projections.  
-Revenir au présent.  
-Choisir à nouveau.  
-Renoncer au sacrifice.  
-Laisser tomber les rôles.  
-Ne pas se justifier.  
-Accepter la responsabilité.  
-Cesser de blâmer.  
-Regarder la peur de Dieu.  
-Voir la peur de l’amour.  
-Reconnaître la résistance.  
-Accepter la correction.  
-Renoncer à l’attaque.  
-Voir l’innocence en soi.  
-Voir l’innocence en l’autre.  
-Laisser l’Esprit corriger.  
-Ne pas faire par soi-même.  
-Se rappeler que tout est déjà guéri.  
-Revenir à la paix.
-
-Il dit que tout est déjà guéri, mais enseigne comme si rien ne l’était.  
-Il dit que la séparation n’a jamais eu lieu, mais la traite comme si elle produisait des effets.  
-Il dit que le monde est une illusion ontologique, mais le traite comme une erreur psychologique.
-
-Il transforme des actes ontologiques en introspection émotionnelle.  
-La projection devient mécanisme psychique.  
-La vision devient thérapie.
-
 
 ---
 
