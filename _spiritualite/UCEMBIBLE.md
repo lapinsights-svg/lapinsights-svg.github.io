@@ -342,16 +342,13 @@ Réel phénoménalement.
 
 ### Clarification ontologique essentielle
 
-Le monde n’est pas un rêve ontologique, mais un rêve phénoménal : une forme perçue sans fondement ontologique.  
-Il apparaît, mais n’a pas d’être ; il est perçu, mais non créé.
-
-UCEM peut dire : « Le monde est irréel » (en Dieu) et « Tu sembles vivre dans un monde » (dans la fracture).
-
-Wapnick psychologise la projection et nie la phénoménalité.
-
-Cette distinction explique pourquoi Dieu ne voit pas le monde, mais connaît le Fils qui s’y perçoit.
-
-Le monde est une **perception**, non une réalité.
+Le monde est un rêve phénoménal, non un rêve ontologique.  
+Il apparaît dans la conscience, mais n’a aucun être dans l’esprit.  
+Il est perçu, mais non créé.  
+Dieu ne voit pas le monde, mais connaît le Fils qui s’y perçoit.  
+La douleur apparaît dans la perception du corps, mais n’atteint pas la conscience unifiée, et n’atteint jamais l’esprit.  
+UCEM distingue l’esprit (unité ontologique) de la conscience (phénoménalité).  
+Kenneth psychologise la projection et nie la phénoménalité, ce qui déforme UCEM.
 
 ---
 
