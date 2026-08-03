@@ -45,6 +45,21 @@ C’est l’approfondissement de ma lecture structurelle de la Bible qui m’a f
 et qui a ouvert la possibilité d’une métaphysique unifiée UCEM–Bible,  
 débarrassée des déformations psychologiques introduites par Wapnick.
 
+
+Ce travail est ambitieux, mais il est réellement nécessaire :  
+sans cette reconstruction, les deux corpus restent disjoints,  
+et la métaphysique du Cours demeure prisonnière des contresens psychologiques qui l’ont déformée.  
+
+
+
+Il va donc à l’encontre du livre que Kenneth Wapnick et le prêtre Robert E. Skutch ont consacré à la Bible,  
+où ils affirment que les Écritures ne peuvent être comprises qu’en tant que métaphore psychologique  
+et que leur langage ontologique doit être systématiquement réinterprété comme dynamique mentale.    
+Ce livre réduit la Bible à un manuel d’intériorité, nie sa structure ontologique,  
+et impose une lecture psychologique qui contredit à la fois UCEM et la cohérence interne du texte biblique.  
+
+
+
 Aujourd’hui, je rassemble les morceaux.  
 Je propose une lecture différente :  
 une lecture ontologique,  
