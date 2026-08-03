@@ -51,12 +51,20 @@ sans cette reconstruction, les deux corpus restent disjoints,
 et la métaphysique du Cours demeure prisonnière des contresens psychologiques qui l’ont déformée.  
 
 
+Il va donc à l’encontre du livre que Kenneth Wapnick et le prêtre Robert E. Skutch ont consacré à la Bible.  
 
-Il va donc à l’encontre du livre que Kenneth Wapnick et le prêtre Robert E. Skutch ont consacré à la Bible,  
-où ils affirment que les Écritures ne peuvent être comprises qu’en tant que métaphore psychologique  
-et que leur langage ontologique doit être systématiquement réinterprété comme dynamique mentale.    
-Ce livre réduit la Bible à un manuel d’intériorité, nie sa structure ontologique,  
-et impose une lecture psychologique qui contredit à la fois UCEM et la cohérence interne du texte biblique.  
+Ils y affirment que les Écritures ne peuvent être comprises qu’en tant que métaphore psychologique,  
+et que leur langage ontologique doit être systématiquement réinterprété comme dynamique mentale.  
+
+Ils ajoutent que la Bible est un texte duelle,  
+fondé sur la séparation,  
+et qu’elle est ontologiquement incompatible avec UCEM,  
+que les deux corpus ne peuvent pas être réconciliés.  
+
+Ce livre réduit la Bible à un manuel d’intériorité,  
+nie sa structure ontologique,  
+et impose une lecture psychologique qui contredit UCEM. 
+et la cohérence interne du texte biblique.  
 
 
 
