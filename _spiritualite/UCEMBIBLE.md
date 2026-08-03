@@ -56,7 +56,7 @@ Cette lecture déplace UCEM du plan ontologique au plan psychologique, du non-du
 
 Wapnick écrit :
 
-> « The world is not outside us; it is a projection of our own guilt. »
+> « The world is not outside us; it is a projection of our own guilt. »  
 > « Le monde n’est pas en dehors de nous ; il est une projection de notre propre culpabilité. »
 
 Cette phrase réduit la fracture ontologique à un mécanisme psychologique.  
@@ -64,7 +64,7 @@ La projection — notion ontologique dans UCEM — devient dynamique émotionnel
 
 Il écrit aussi :
 
-> « The body is simply a thought in the mind. »
+> « The body is simply a thought in the mind. »  
 > « Le corps est simplement une pensée dans l’esprit. »
 
 Ce glissement nie la réalité phénoménale du corps et ramène UCEM au mental.
@@ -223,9 +223,9 @@ Elle est simplement **un effet phénoménal d’un corps non fondé ontologiquem
 Parce qu’il nie la phénoménalité du corps,  
 Wapnick est conduit à nier la douleur de Jésus lui-même.
 
-Pour lui, si le corps n’est qu’une pensée dans l’esprit,  
-alors la souffrance physique de Jésus sur la croix n’est pas une douleur réelle,  
-mais une représentation mentale, un symbole psychologique.
+Pour Kenneth Wapnick, Jésus n’a pas souffert physiquement sur la croix.
+Il enseignait que, puisque le corps n’est qu’une pensée dans l’esprit, et que Jésus était “guéri” de la croyance dans la séparation,  
+la crucifixion n’a produit aucune douleur réelle.
 
 Or Jésus ne souffrait pas ontologiquement : il ne se percevait pas séparé, et sa conscience unifiée voyait le corps comme irréel,  
 incapable de produire une souffrance dans l’esprit.  
