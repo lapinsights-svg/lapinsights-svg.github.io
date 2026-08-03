@@ -223,7 +223,54 @@ La lecture de Wapnick inverse la causalité et place la psychologie avant la ph�
 
 ## 7. La contradiction finale de Wapnick
 
-Wapnick dit : « Il n’y a rien à faire », puis enseigne 40 choses à faire.  
+Wapnick dit :
+
+> « Il n’y a rien à faire. »
+
+Puis enseigne :
+
+> « Voici 40 choses à faire. »
+
+Observer l’anxiété.  
+Identifier le petit soi.  
+Se tourner vers le Soi.  
+Choisir la vision.  
+Prioriser la paix.  
+Transformer l’attaque.  
+Voir l’autre innocent.  
+Renoncer à la peur.  
+Corriger la perception.  
+Examiner les pensées.  
+Démasquer la culpabilité.  
+Regarder la honte.  
+Reconnaître la défense.  
+Questionner les jugements.  
+Relâcher le contrôle.  
+Remettre les conflits.  
+Demander l’aide intérieure.  
+Renoncer aux attentes.  
+Voir l’ego à l’œuvre.  
+Ne pas croire les pensées.  
+Identifier les projections.  
+Revenir au présent.  
+Choisir à nouveau.  
+Renoncer au sacrifice.  
+Laisser tomber les rôles.  
+Ne pas se justifier.  
+Accepter la responsabilité.  
+Cesser de blâmer.  
+Regarder la peur de Dieu.  
+Voir la peur de l’amour.  
+Reconnaître la résistance.  
+Accepter la correction.  
+Renoncer à l’attaque.  
+Voir l’innocence en soi.  
+Voir l’innocence en l’autre.  
+Laisser l’Esprit corriger.  
+Ne pas faire par soi-même.  
+Se rappeler que tout est déjà guéri.  
+Revenir à la paix.
+
 Il dit que tout est déjà guéri, mais enseigne comme si rien ne l’était.  
 Il dit que la séparation n’a jamais eu lieu, mais la traite comme si elle produisait des effets.  
 Il dit que le monde est une illusion ontologique, mais le traite comme une erreur psychologique.
@@ -231,6 +278,7 @@ Il dit que le monde est une illusion ontologique, mais le traite comme une erreu
 Il transforme des actes ontologiques en introspection émotionnelle.  
 La projection devient mécanisme psychique.  
 La vision devient thérapie.
+
 
 ---
 
