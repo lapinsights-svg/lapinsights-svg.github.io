@@ -31,7 +31,7 @@ Puis une fissure s’est ouverte : et si l’impossibilité venait non d’UCEM,
 Ma lecture structurelle de la Bible a permis de reconstruire une métaphysique UCEM–Bible cohérente, débarrassée des déformations psychologiques.  
 Sans cette reconstruction, les deux corpus restent disjoints et UCEM demeure prisonnier de contresens.
 
-Wapnick et Skutch affirment que la Bible n’est qu’une métaphore psychologique, que son langage ontologique doit être réinterprété comme dynamique mentale, et qu’elle est incompatible avec UCEM.  
+Wapnick et Skutch affirment, dans leur livre *A Course in Miracles and the Bible*, que la Bible n’est qu’une métaphore psychologique, que son langage ontologique doit être réinterprété comme dynamique mentale, et qu’elle est incompatible avec UCEM.  
 Cette lecture réduit la Bible à un manuel d’intériorité et contredit sa structure ontologique.
 
 Aujourd’hui, je propose une lecture ontologique, verticale, conforme à la structure biblique.  
