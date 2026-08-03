@@ -104,8 +104,17 @@ Cette phrase réduit la fracture ontologique à un mécanisme psychologique.
 Elle transforme la projection - notion ontologique dans UCEM - en dynamique émotionnelle.  
 C’est le glissement : du plan non-duel au plan thérapeutique.
 
+Kenneth Wapnick écrit également :
 
-Si je retire cette couche, tout redevient cohérent.
+> «  The body is simply a thought in the mind. »
+
+> « Le corps n’est qu'une pensée dans l'esprit » (The Message of A Course in Miracles)  
+
+Cette phrase nie la réalité phénoménale du corps, comme si la forme physique n’existait pas.  
+Elle déplace UCEM du plan ontologique au plan psychologique, en réduisant le corps à un état intérieur.
+
+
+Mais si je retire cette couche, la lecture psychologique que Wapnick superpose à UCEM, tout redevient cohérent.
 
 ### Une conséquence directe : la confusion de Helen Schucman
 
