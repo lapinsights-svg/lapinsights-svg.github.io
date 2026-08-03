@@ -150,6 +150,21 @@ ni une analyse des émotions,
 ni une lutte contre l’ego.
 
 Elle est légère parce qu’elle ne demande rien d’autre que de voir.  
+
+**Clarification essentielle : il n’y a pas de travail ontologique à faire, mais il y a un acte perceptif à poser.**
+
+La correction est déjà accomplie : l’être est intact, la séparation n’a jamais eu lieu.  
+C’est pourquoi UCEM dit qu’il n’y a “rien d’autre que cela à faire”.
+
+Mais cela ne signifie pas que l’étudiant ne fait rien.  
+Cela signifie qu’il ne fait pas un travail psychologique ou introspectif.
+
+Ce n’est pas un effort : c’est un interrupteur.  
+Le pardon n’est pas un travail intérieur : c’est une décision perceptive qui ouvre l’esprit à la correction déjà accomplie.
+
+Le joug est léger parce que l’acte est simple,  
+pas parce qu’il est absent.
+
 Elle n’exige aucun effort psychologique.  
 Elle n’impose aucune discipline mentale.  
 Elle ne demande pas de “mettre l’ego de côté”.
