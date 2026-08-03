@@ -90,7 +90,7 @@ Si je retire cette couche, tout redevient cohérent.
 
 ### Une conséquence directe : la confusion de Helen Schucman
 
-Cette confusion des plans — ontologique dans UCEM, psychologique chez Wapnick — explique aussi l’inconfort profond de Helen Schucman, la scribe du Cours.  
+Cette confusion des plans - ontologique dans UCEM, psychologique chez Wapnick - explique aussi l’inconfort profond de Helen Schucman, la scribe du Cours.  
 Formée en psychologie freudienne, elle recevait un texte ontologique mais tentait de le comprendre avec des catégories mentales.
 
 À propos du monde qu’elle voyait, elle écrit :
