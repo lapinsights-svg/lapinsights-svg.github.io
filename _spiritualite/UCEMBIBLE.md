@@ -103,15 +103,20 @@ Formée en psychologie freudienne, elle recevait un texte ontologique mais tenta
 
 À propos du monde qu’elle voyait, elle écrit :
 
-> « Je vois un monde, et pourtant on me dit qu’il n’est pas réel. »
+« Je vois un monde, et pourtant on me dit qu’il n’est pas réel. »
 
-Ce n’est pas UCEM qu’elle ne comprenait pas :  
-c’est **la lecture psychologique** qu’elle croyait devoir appliquer au texte.
+Ce n’est pas seulement la lecture psychologique qui la troublait.  
+C’est la métaphysique du Cours elle-même qu’elle ne parvenait pas à saisir :  
+une ontologie non-duelle,  
+radicale,  
+étrangère à sa formation,  
+et incompatible avec les catégories mentales qu’elle utilisait pour comprendre le texte.  
 
-Helen transcrivait un enseignement non-duel,  
-mais sa formation psychologique l’obligeait à le lire comme une thérapie.  
+Helen transcrivait un enseignement ontologique,  
+mais elle tentait de le comprendre avec des outils psychologiques.  
 Cette dissonance est la source de son trouble,  
-et l’origine de la confusion qui s’est ensuite propagée dans l’enseignement de Wapnick et de Groom.
+et l’origine de la confusion qui s’est ensuite propagée dans l’enseignement de Wapnick et de Groom.  
+
 
 ### Clarification essentielle : la pratique dans UCEM n’est pas une pratique psychologique
 
