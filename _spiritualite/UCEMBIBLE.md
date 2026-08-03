@@ -364,7 +364,6 @@ Projeter signifie déployer une forme sans fondement ontologique.
 Réel dans la fracture.  
 Irréel en Dieu.  
 Il n’est pas éternel.  
-Il est dissous (= la forme demeure tant que la fracture demeure).   
 Ce qui est dissous, c’est sa réalité ontologique - son “être” en Dieu.  
 La forme apparaît encore, mais elle n’a plus de fondement ontologique lorsque la séparation se résorbe.
 
