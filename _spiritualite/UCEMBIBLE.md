@@ -386,3 +386,33 @@ La seule lecture qui respecte UCEM, respecte la Bible, corrige Wapnick et unifie
 ---
 
 Céleste R.
+
+---
+
+# Note sur la traduction des termes UCEM
+
+UCEM utilise le mot *mind* dans deux sens distincts :
+
+1. **mind = esprit**  
+   Lorsque UCEM parle de l’unité, de la création, du Christ, du Fils, de la Source.  
+   Exemple :  
+   « The body is simply a thought in the mind. »  
+   → « Le corps est simplement une pensée dans l’esprit. »  
+   Ici, *mind* désigne l’**esprit unifié**, non la conscience.
+
+2. **mind = conscience / mental**  
+   Lorsque UCEM parle du domaine de l’ego, du choix, de la perception, de la fracture.  
+   Exemple :  
+   « Consciousness is the domain of the ego. »  
+   → « La conscience est le domaine de l’ego. »  
+   Ici, *mind* désigne la **conscience**, c’est‑à‑dire le mental phénoménal.
+
+Cette distinction est ontologique :
+
+- *mind* = **esprit** dans l’unité,  
+- *mind* = **conscience / mental** dans la séparation.
+
+Donc *mind* est traduit par **mental** lorsque Kenneth parle du « mental décisionnel », car il s’agit de la conscience, non de l’esprit.
+
+Cette règle de traduction est essentielle pour comprendre la confusion entre esprit et conscience, et pour distinguer la paix psychologique de la paix phénoménale et de la Paix de Dieu.
+
