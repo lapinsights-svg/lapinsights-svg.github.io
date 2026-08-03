@@ -205,12 +205,12 @@ Pour lui, si le corps n’est qu’une pensée dans l’esprit,
 alors la souffrance physique de Jésus sur la croix n’est pas une douleur réelle,  
 mais une représentation mentale, un symbole psychologique.
 
-Or Jésus ne souffrait pas **pour une raison ontologique précise** :  
-**sa perception était entièrement unifiée, il voyait le corps comme irréel ontologiquement,  
-donc aucun phénomène corporel ne pouvait produire de douleur dans sa conscience.**  
-**La douleur appartient exclusivement à la fracture perceptive ;   
-or Jésus n’était plus dans la fracture, il était dans la Vision,  
-là où la phénoménalité du corps n’a plus aucun pouvoir sur l’esprit.**
+Or Jésus ne souffrait pas ontologiquement : il ne se percevait pas séparé, et sa conscience unifiée voyait le corps comme irréel,  
+incapable de produire une souffrance dans l’esprit.  
+Mais il avait des douleurs physiques phénoménales, qui appartiennent à la fracture perceptive :  
+elles apparaissent dans le corps, mais n’atteignent pas la conscience unifiée,  
+là où la phénoménalité du corps n’a plus aucun pouvoir sur l’esprit.
+
 
 Cette position est incompatible :
 
