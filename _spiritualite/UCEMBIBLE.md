@@ -1,7 +1,7 @@
 ---
 title: "Il n’y a pas de monde : UCEM, Bible et l’erreur de Wapnick"
 resume: "Métaphysique unifiée UCEM–Bible et critique structurelle de la lecture de Kenneth Wapnick."
-date: "2026-08-02"
+date: "2026-08-03"
 layout: article
 categories:
   - spiritualite
@@ -30,7 +30,7 @@ Impossible à réconcilier avec la réalité du monde.
 
 J’avais suivi cet enseignement au travers de Bernard Groom,  
 lui-même formé par Kenneth Wapnick,  
-considéré comme le plus grand interprète du Cours.
+considéré comme le plus grand interprète et enseignant du Cours.
 
 J’ai pensé que le problème venait du Cours lui-même.
 
@@ -40,6 +40,10 @@ mais la lecture qu’en avait faite Kenneth Wapnick,
 et que Groom avait transmise sans la questionner ?
 
 Cette question a tout renversé.
+
+C’est l’approfondissement de ma lecture structurelle de la Bible qui m’a fait reconsidérer l’ensemble,  
+et qui a ouvert la possibilité d’une métaphysique unifiée UCEM–Bible,  
+débarrassée des déformations psychologiques introduites par Wapnick.
 
 Aujourd’hui, je rassemble les morceaux.  
 Je propose une lecture différente :  
@@ -51,7 +55,7 @@ Ce texte est le résultat de cette reconstruction.
 
 ---
 
-## Thèse
+## Thèse présentée
 
 Le problème n’a jamais été UCEM.  
 Le problème a été la lecture de Wapnick, qui a contaminé :
