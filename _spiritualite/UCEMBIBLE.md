@@ -103,20 +103,6 @@ La correction est déjà faite : l’être est intact, la séparation n’a jama
 Le pardon n’est pas un effort, mais un interrupteur.
 
 
-### La nuance cruciale
-
-Dans UCEM, ces expressions sont **des bascules ontologiques**, des *switchs* de perception.  
-Elles ne demandent **aucun travail psychologique**, aucune introspection, aucune analyse des émotions.
-
-Dans la lecture de Wapnick, elles deviennent **des tâches mentales**, des exercices d’observation intérieure, des pratiques psychothérapeutiques.
-
-C’est là que le joug léger devient lourd.  
-C’est là que la pratique ontologique devient thérapie.  
-C’est là que la vision devient introspection.
-
-La lecture structurelle UCEM–Bible restaure la simplicité :  
-**voir**, et laisser la correction déjà accomplie se déployer.
-
 ---
 
 ### Là où Wapnick déforme : il transforme un acte perceptif en discipline psychologique
@@ -166,6 +152,21 @@ Laisser l’Esprit corriger.
 Ne pas faire par soi-même.  
 Se rappeler que tout est déjà guéri.  
 Revenir à la paix.
+
+### La nuance cruciale
+
+Dans UCEM, ces expressions sont **des bascules ontologiques**, des *switchs* de perception.  
+Elles ne demandent **aucun travail psychologique**, aucune introspection, aucune analyse des émotions.
+
+Dans la lecture de Wapnick, elles deviennent **des tâches mentales**, des exercices d’observation intérieure, des pratiques psychothérapeutiques.
+
+C’est là que le joug léger devient lourd.  
+C’est là que la pratique ontologique devient thérapie.  
+C’est là que la vision devient introspection.
+
+La lecture structurelle UCEM–Bible restaure la simplicité :  
+**voir**, et laisser la correction déjà accomplie se déployer.
+
 
 ### Le problème de la douleur : la conséquence directe de l’irréalité physique du corps chez Wapnick
 
