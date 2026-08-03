@@ -94,6 +94,18 @@ Cette lecture a déplacé UCEM du plan ontologique au plan psychologique,
 du plan non-duel au plan thérapeutique,  
 du plan biblique au plan mental.
 
+Kenneth Wapnick l’exprime explicitement lorsqu’il écrit :
+
+> « The world is not outside us; it is a projection of our own guilt. »  
+> *(Journey Without Distance)*
+
+> « Le monde n’est pas extérieur à nous ; il est une projection de notre propre culpabilité. »
+
+Cette phrase réduit la fracture ontologique à un mécanisme psychologique.  
+Elle transforme la projection — notion ontologique dans UCEM — en dynamique émotionnelle.  
+C’est le glissement : du plan non-duel au plan thérapeutique.
+
+
 Si je retire cette couche, tout redevient cohérent.
 
 ### Une conséquence directe : la confusion de Helen Schucman
