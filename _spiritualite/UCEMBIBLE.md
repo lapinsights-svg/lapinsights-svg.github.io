@@ -72,7 +72,7 @@ Si l’on retire cette couche psychologique, tout redevient cohérent.
 ### La confusion de Helen Schucman
 
 Helen Schucman, formée en psychologie freudienne, recevait un texte ontologique mais tentait de le comprendre avec des catégories mentales.  
-Elle écrit : « Je vois un monde, et pourtant on me dit qu’il n’est pas réel. »
+Elle écrit : « Je vois un monde, et pourtant on me dit qu’il n’est pas réel. » (Notes de Helen)  
 
 Elle transcrivait un enseignement ontologique, mais le lisait psychologiquement.  
 Cette dissonance est l’origine de son trouble et de la confusion transmise par Wapnick et Groom.
