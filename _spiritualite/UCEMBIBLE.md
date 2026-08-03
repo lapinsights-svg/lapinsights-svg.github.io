@@ -102,7 +102,7 @@ Kenneth Wapnick l’exprime explicitement lorsqu’il écrit :
 > « Le monde n’est pas extérieur à nous ; il est une projection de notre propre culpabilité. »
 
 Cette phrase réduit la fracture ontologique à un mécanisme psychologique.  
-Elle transforme la projection — notion ontologique dans UCEM — en dynamique émotionnelle.  
+Elle transforme la projection - notion ontologique dans UCEM - en dynamique émotionnelle.  
 C’est le glissement : du plan non-duel au plan thérapeutique.
 
 
