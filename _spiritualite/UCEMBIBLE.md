@@ -224,14 +224,15 @@ Parce qu’il nie la phénoménalité du corps,
 Wapnick est conduit à nier la douleur de Jésus lui-même.
 
 Pour Kenneth Wapnick, Jésus n’a pas souffert physiquement sur la croix.
-Il enseignait que, puisque le corps n’est qu’une pensée dans l’esprit, et que Jésus était “guéri” de la croyance dans la séparation,  
+Il enseignait que, puisque le corps n’est qu’une pensée dans l’esprit,  
+et que Jésus était “guéri” de la croyance dans la séparation,  
 la crucifixion n’a produit aucune douleur réelle.
 
 Or Jésus ne souffrait pas ontologiquement : il ne se percevait pas séparé, et sa conscience unifiée voyait le corps comme irréel,  
 incapable de produire une souffrance dans l’esprit.  
 Mais il avait des douleurs physiques phénoménales, qui appartiennent à la fracture perceptive :  
-elles apparaissent dans le corps, mais n’atteignent pas la conscience unifiée,  
-là où la phénoménalité du corps n’a plus aucun pouvoir sur l’esprit.
+Elles apparaissent dans le corps, mais n’atteignent pas la conscience unifiée (ou esprit juste),  
+et encore moins l’esprit, qui demeure intact.
 
 
 La position de Wapnick est incompatible :
