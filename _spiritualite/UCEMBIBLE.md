@@ -396,6 +396,12 @@ Mais il enseigne comme si elle produisait des effets réels.
 Il dit que le monde est une illusion ontologique.  
 Mais il enseigne comme si le monde était une erreur psychologique.
 
+Wapnick transforme ces actes ontologiques en introspection émotionnelle,  
+en demandant d’observer ses affects, ses peurs et sa culpabilité.  
+Il ramène la projection - notion ontologique dans UCEM - à un mécanisme psychique intérieur.  
+Ainsi, ce qui est dans UCEM un acte de vision devient chez lui un travail psychologique sur l’ego.
+
+
 C’est la contradiction interne.  
 C’est la faille structurelle.  
 C’est l’origine de la dissociation.
