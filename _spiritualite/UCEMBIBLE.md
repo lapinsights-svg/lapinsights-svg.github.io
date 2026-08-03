@@ -1,6 +1,6 @@
 ---
 title: "Il n’y a pas de monde : UCEM, Bible et l’erreur de Wapnick"
-resume: "Métaphysique unifiée UCEM–Bible et critique structurelle de la lecture de Kenneth Wapnick."
+resume: "Métaphysique unifiée UCEM–Bible et critique structurelle de la lecture de Wapnick."
 date: "2026-08-03"
 layout: article
 categories:
