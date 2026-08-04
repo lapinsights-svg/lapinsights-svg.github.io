@@ -21,10 +21,10 @@ og_image: /images/spiritualite/separation.webp
 # Articulation  
 
 L’articulation n’est pas un concept.  
-Elle est le premier souffle de la conscience.  
-Ce qui perçoit se dresse.  
-Ce qui est perçu se laisse voir.  
-Entre les deux, un espace apparaît.
+Elle est le premier souffle de la Création.  
+Ce qui apparaît se tient.  
+Ce qui est articulé devient visible.  
+Entre les deux, un espace se forme.
 
 Ce n’est pas une rupture.  
 Ce n’est pas un éloignement.  
@@ -43,8 +43,8 @@ Dans l’intervalle, quelque chose devient lisible.
 Articuler, c’est laisser apparaître.  
 Non pour exclure, mais pour voir.
 
-La conscience n’érige pas un mur.  
-Elle ouvre un passage.
+Dans la Création, l’articulation ouvre un espace visible.  
+La conscience ne viendra qu’après : elle lira ce qui est déjà articulé.
 
 > “Il y eut un soir, il y eut un matin.” (Genèse 1,5)
 
@@ -55,7 +55,7 @@ Un axe.
 La première articulation n’est pas une faute :  
 c’est un seuil de vision.
 
-**Cette vision est phénoménale : elle relève de la conscience et de l’ordre du monde.  
+**Cette vision est phénoménale : elle relève de l’ordre du monde.  
 L’articulation ouvre un espace de perception, pas une réalité ontologique.**
 
 ---
@@ -216,8 +216,3 @@ C’est la structure du passage.
 ---
 
 Céleste R.
-
----
-
-Pour revenir au sommaire :  
-[Sommaire Structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
