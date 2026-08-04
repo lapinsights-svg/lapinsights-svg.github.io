@@ -147,16 +147,24 @@ Traversée ou fixation.
 ## 7. Le Temple : l’intervalle comme architecture
 
 Le Temple n’est pas un lieu.  
-Il est la forme visible de l’intervalle intérieur.
+Il est la forme visible de l’intervalle intérieur.  
+**Ce qui s’y tient n’est pas la forme elle‑même, mais l’Esprit :  
+le Temple est la figure phénoménale de la Présence,  
+non sa substance.**
 
-- Le parvis : ce qui apparaît.  
-- Le lieu saint : ce qui se comprend.  
-- Le Saint des Saints : ce qui se tient.
+    Le parvis : ce qui apparaît.  
+    Le lieu saint : ce qui se comprend.  
+    Le Saint des Saints : ce qui se tient.
 
 Le voile n’est pas une barrière.  
 C’est un seuil.
 
 > “Vous êtes le temple de Dieu.” (1 Corinthiens 3,16)
+
+Ce verset ne dit pas que l’humain est l’Esprit,  
+mais que l’Esprit se tient dans l’intervalle intérieur  
+comme dans une architecture visible.
+
 
 ---
 
