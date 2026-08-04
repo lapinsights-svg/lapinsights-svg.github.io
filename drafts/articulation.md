@@ -176,7 +176,11 @@ Ce n’est pas une abolition.
 C’est un retournement.
 
 L’articulation cesse d’être opaque.  
-Elle devient traversable.
+Elle devient traversable.  
+Ce retournement ne touche pas l’Esprit :  
+il ouvre la forme phénoménale,  
+rendant visible ce qui se tenait déjà au-delà du voile.
+
 
 ---
 
