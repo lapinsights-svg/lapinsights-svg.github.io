@@ -1,6 +1,6 @@
 ---
 title: "La régulation comme matrice du contrôle. Le glissement silencieux du Sénat"
-date: "2026-07-21"
+date: "2026-08-04"
 categories: actualites
 resume: "Le Sénat redéfinit le périmètre du pensable sous couvert de sécurité informationnelle."
 tags: ["Sénat", "régulation", "information", "désinformation", "malinformation", "ingérence intérieure", "Observatoire"]
