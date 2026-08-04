@@ -52,11 +52,11 @@ Deux régimes.
 Une ligne.  
 Un axe.
 
-> “the tiny mad idea” (T‑27.VIII.6:2)  
-> « la petite idée folle »
-
 La première scission n’est pas une faute :  
 c’est un seuil de vision.
+
+**Cette vision est phénoménale : elle relève de la conscience et de l’ordre du monde.  
+La séparation ouvre un espace de perception, pas une réalité ontologique.**
 
 ---
 
@@ -68,9 +68,6 @@ Cette ligne n’est pas pensée : elle est vécue.
 
 L’axe n’est pas construit.  
 Il se révèle.
-
-> “the first split” (T‑5.V.3:5)  
-> « la première division »
 
 La division originaire n’est pas une rupture :  
 c’est l’apparition d’un axe.
@@ -117,11 +114,7 @@ Un seuil où la vision se forme.
 
 > “Leurs yeux s’ouvrirent.” (Genèse 3,7)
 
-La vision naît dans l’intervalle.
-
-> “Consciousness is the domain of the ego.” (T‑3.IV.2:1)  
-> « La conscience est le domaine de l’ego. »
-
+La vision naît dans l’intervalle.  
 La conscience est le lieu où la séparation devient lisible.
 
 ---
@@ -198,9 +191,6 @@ Il ouvre un passage dans ce qui semblait fermé.
 Le voile déchiré en est la figure :  
 la séparation opaque devient traversable.
 
-> “The separation never occurred.” (T‑6.II.10:7)  
-> « La séparation n’a jamais eu lieu. »
-
 La séparation n’est pas une rupture réelle :  
 elle est un seuil phénoménal retourné.
 
@@ -231,3 +221,4 @@ Céleste R.
 
 Pour revenir au sommaire :  
 [Sommaire Structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
+
