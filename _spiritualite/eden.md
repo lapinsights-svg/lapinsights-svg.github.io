@@ -173,7 +173,7 @@ il deviendrait éternellement séparé.
 
 Ce n’est pas Dieu qui bloque :  
 c’est la structure qui empêche la coexistence de deux régimes incompatibles.  
-L’interdit garde l’unité pour le moment où elle pourra être reçue.
+L'unité est préservée pour le moment où elle pourra être reçue.
 
 
 ---
