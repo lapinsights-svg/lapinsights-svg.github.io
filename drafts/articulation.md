@@ -105,18 +105,22 @@ C’est un mouvement.
 
 ## 5. La conscience dans l’axe
 
-La conscience n’abolit pas l’articulation.
-Elle ne s’y tient pas : elle la lit.
+La conscience n’abolit pas l’articulation.  
+**Elle ne s’y tient pas : elle se tient devant elle, dans le régime perceptif qui apparaît après le fruit.  
+Elle lit ce qui est articulé, sans jamais le produire.**
 
-L’articulation n’est pas un vide.
-C’est un lieu.
+L’articulation n’est pas un vide.  
+C’est un lieu.  
 Un seuil où la vision se forme.
 
-“Leurs yeux s’ouvrirent.” (Genèse 3,7)
+> “Leurs yeux s’ouvrirent.” (Genèse 3,7)
 
-La vision naît dans l’intervalle.
-La conscience est le lieu où l’articulation devient apparente,
-non le lieu où elle se déploie.
+**À partir de cet instant, la conscience lit le monde selon ce qui lui apparaît,  
+non selon ce qui est.**
+
+La vision naît dans l’intervalle.  
+**La conscience est le lieu où l’articulation devient apparente,  
+non le lieu où elle se déploie.**
 
 ---
 
