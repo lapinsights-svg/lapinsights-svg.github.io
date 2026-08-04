@@ -3,7 +3,7 @@ title: "Séparation"
 categories: spiritualite
 resume: "La séparation originaire comme seuil de vision, naissance de l’axe et articulation du Temple intérieur"
 episode: "La structure intérieure de la Bible"
-date: "2026-07-27"
+date: "2026-08-04"
 layout: article
 tags:
   - axe
@@ -52,6 +52,12 @@ Deux régimes.
 Une ligne.  
 Un axe.
 
+> “the tiny mad idea” (T‑27.VIII.6:2)  
+> « la petite idée folle »
+
+La première scission n’est pas une faute :  
+c’est un seuil de vision.
+
 ---
 
 ## 2. L’axe dans l’intervalle
@@ -62,6 +68,12 @@ Cette ligne n’est pas pensée : elle est vécue.
 
 L’axe n’est pas construit.  
 Il se révèle.
+
+> “the first split” (T‑5.V.3:5)  
+> « la première division »
+
+La division originaire n’est pas une rupture :  
+c’est l’apparition d’un axe.
 
 ---
 
@@ -106,6 +118,11 @@ Un seuil où la vision se forme.
 > “Leurs yeux s’ouvrirent.” (Genèse 3,7)
 
 La vision naît dans l’intervalle.
+
+> “Consciousness is the domain of the ego.” (T‑3.IV.2:1)  
+> « La conscience est le domaine de l’ego. »
+
+La conscience est le lieu où la séparation devient lisible.
 
 ---
 
@@ -181,39 +198,11 @@ Il ouvre un passage dans ce qui semblait fermé.
 Le voile déchiré en est la figure :  
 la séparation opaque devient traversable.
 
----
+> “The separation never occurred.” (T‑6.II.10:7)  
+> « La séparation n’a jamais eu lieu. »
 
-## 11. Les eaux : motif de l’intervalle
-
-Chaque séparation des eaux est un retournement de densité.
-
-> “Dieu fit une étendue…” (Genèse 1,7)  
-> “Les eaux se fendirent.” (Exode 14,21)  
-> “Les eaux s’arrêtèrent.” (Josué 3,16)  
-> “Élie frappa les eaux…” (2 Rois 2,8)  
-> “Les cieux s’ouvrirent.” (Matthieu 3,16)
-
-Ce ne sont pas des miracles.  
-Ce sont des seuils.
-
-La densité se retourne.  
-Le passage apparaît.
-
----
-
-## 12. Mort et Résurrection : densité ultime retournée
-
-La mort est la densité saturée.  
-La conscience ne peut plus avancer.
-
-La résurrection n’est pas un retour.  
-C’est une ouverture.
-
-Ce qui était obstacle devient passage.  
-Ce qui était opaque devient axe.
-
-Le voile déchiré en est la figure :  
-la séparation retournée.
+La séparation n’est pas une rupture réelle :  
+elle est un seuil phénoménal retourné.
 
 ---
 
@@ -240,7 +229,5 @@ Céleste R.
 
 ---
 
-
 Pour revenir au sommaire :  
 [Sommaire Structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
-
