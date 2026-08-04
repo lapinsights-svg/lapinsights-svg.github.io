@@ -194,14 +194,16 @@ C’est la description de ce que devient la densité quand la polarité s’ouvr
 
 ---
 
-# 5. L’interdit : protection de l’unité
+# 5. L’interdit : protection structurelle
 
 > « Il ne faut pas qu’il avance sa main… » (Gn 3,22)
 
 Ce verset protège l’homme d’une fixation définitive de la rupture.  
-Si l’homme fracturé accédait à l’Arbre de Vie, il deviendrait **éternellement séparé**.
+Si l’homme fracturé accédait à l’Arbre de Vie, il deviendrait éternellement séparé.
 
-L’interdit garde l’unité pour le moment où elle pourra être reçue.
+La structure empêche la coexistence de deux régimes incompatibles.  
+Une fois la conscience séparée apparue, le régime de la vie devient impossible.  
+L’interdit maintient l’accès à l’unité pour le moment où elle pourra être reçue.
 
 ---
 
