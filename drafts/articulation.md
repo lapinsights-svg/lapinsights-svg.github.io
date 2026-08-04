@@ -183,12 +183,11 @@ rendant visible ce qui se tenait déjà au-delà du voile.
 
 
 ---
-
 ## 9. Le seuil
 
 L’articulation est un seuil.  
-Un lieu où la conscience se tient entre ce qu’elle traverse  
-et ce qui la porte.
+Un espace où ce qui est articulé devient visible,  
+et où la conscience vient lire ce qui apparaît.
 
 Ce seuil n’éloigne pas.  
 Il ouvre.
