@@ -1,7 +1,7 @@
 ---
-title: "Séparation"
+title: "Articulation"
 categories: spiritualite
-resume: "La séparation originaire comme seuil de vision, naissance de l’axe et articulation du Temple intérieur"
+resume: "L’articulation originaire comme seuil de vision, naissance de l’axe et architecture du Temple intérieur"
 episode: "La structure intérieure de la Bible"
 date: "2026-08-04"
 layout: article
@@ -12,15 +12,15 @@ tags:
   - conscience
   - deux-arbres
   - temple-intérieur
-  - séparation-originaire
+  - articulation-originaire
 og_image: /images/spiritualite/separation.webp
 ---
 
 ![separation](/images/spiritualite/separation.webp)
 
-# Séparation  
+# Articulation  
 
-La séparation n’est pas un concept.  
+L’articulation n’est pas un concept.  
 Elle est le premier souffle de la conscience.  
 Ce qui perçoit se dresse.  
 Ce qui est perçu se laisse voir.  
@@ -38,9 +38,9 @@ Dans l’intervalle, quelque chose devient lisible.
 
 ---
 
-## 1. La séparation comme naissance de la vision
+## 1. L’articulation comme naissance de la vision
 
-Séparer, c’est laisser apparaître.  
+Articuler, c’est laisser apparaître.  
 Non pour exclure, mais pour voir.
 
 La conscience n’érige pas un mur.  
@@ -52,24 +52,24 @@ Deux régimes.
 Une ligne.  
 Un axe.
 
-La première scission n’est pas une faute :  
+La première articulation n’est pas une faute :  
 c’est un seuil de vision.
 
 **Cette vision est phénoménale : elle relève de la conscience et de l’ordre du monde.  
-La séparation ouvre un espace de perception, pas une réalité ontologique.**
+L’articulation ouvre un espace de perception, pas une réalité ontologique.**
 
 ---
 
 ## 2. L’axe dans l’intervalle
 
 Quand tout est mêlé, rien ne peut se tenir.  
-La séparation trace une ligne intérieure.  
+L’articulation trace une ligne intérieure.  
 Cette ligne n’est pas pensée : elle est vécue.
 
 L’axe n’est pas construit.  
 Il se révèle.
 
-La division originaire n’est pas une rupture :  
+L’articulation originaire n’est pas une rupture :  
 c’est l’apparition d’un axe.
 
 ---
@@ -80,7 +80,7 @@ La densité n’est pas un obstacle.
 Elle est l’épaisseur du monde.  
 Pour la traverser, il faut un espace.
 
-La séparation ouvre cet espace.  
+L’articulation ouvre cet espace.  
 Elle ne fend pas la densité :  
 elle la rend respirable.
 
@@ -105,17 +105,17 @@ C’est un mouvement.
 
 ## 5. La conscience dans l’axe
 
-La conscience n’abolit pas la séparation.  
+La conscience n’abolit pas l’articulation.  
 Elle s’y tient.
 
-La séparation n’est pas un vide.  
+L’articulation n’est pas un vide.  
 C’est un lieu.  
 Un seuil où la vision se forme.
 
 > “Leurs yeux s’ouvrirent.” (Genèse 3,7)
 
 La vision naît dans l’intervalle.  
-La conscience est le lieu où la séparation devient lisible.
+La conscience est le lieu où l’articulation devient lisible.
 
 ---
 
@@ -157,14 +157,14 @@ C’est un seuil.
 Ce n’est pas une abolition.  
 C’est un retournement.
 
-La séparation cesse d’être opaque.  
+L’articulation cesse d’être opaque.  
 Elle devient traversable.
 
 ---
 
 ## 9. Le seuil
 
-La séparation est un seuil.  
+L’articulation est un seuil.  
 Un lieu où la conscience se tient entre ce qu’elle traverse  
 et ce qui la porte.
 
@@ -189,16 +189,16 @@ Il tient l’axe là où il n’est plus visible.
 Il ouvre un passage dans ce qui semblait fermé.
 
 Le voile déchiré en est la figure :  
-la séparation opaque devient traversable.
+l’articulation opaque devient traversable.
 
-La séparation n’est pas une rupture réelle :  
+L’articulation n’est pas une rupture réelle :  
 elle est un seuil phénoménal retourné.
 
 ---
 
 ## Conclusion
 
-La séparation n’éloigne jamais.  
+L’articulation n’éloigne jamais.  
 Elle ouvre.  
 Elle articule.  
 Elle révèle l’axe.
@@ -208,7 +208,7 @@ l’intervalle où la vision naît,
 où la densité se retourne,  
 où le passage apparaît.
 
-La séparation n’est pas une rupture.  
+L’articulation n’est pas une rupture.  
 C’est la structure du passage.
 
 > “Dieu vit que c’était bon.”
@@ -221,4 +221,3 @@ Céleste R.
 
 Pour revenir au sommaire :  
 [Sommaire Structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
-
