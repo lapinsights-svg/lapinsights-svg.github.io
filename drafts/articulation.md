@@ -103,11 +103,13 @@ C’est un mouvement.
 
 ---
 
-## 5. La conscience dans l’axe
+## 5. La conscience et l’apparition de la vision 
 
 La conscience n’abolit pas l’articulation.  
-**Elle ne s’y tient pas : elle se tient devant elle, dans le régime perceptif qui apparaît après le fruit.  
-Elle lit ce qui est articulé, sans jamais le produire.**
+Elle ne s’y tient pas : elle se tient devant elle, dans le régime perceptif qui apparaît après le fruit.  
+Elle lit ce qui est articulé, sans jamais le produire.  
+Ce régime n’est pas un lieu réel : c’est le lieu où l’erreur apparaît,  
+et donc le lieu où la correction peut se faire.
 
 L’articulation n’est pas un vide.  
 C’est un lieu.  
@@ -116,11 +118,14 @@ Un seuil où la vision se forme.
 > “Leurs yeux s’ouvrirent.” (Genèse 3,7)
 
 **À partir de cet instant, la conscience lit le monde selon ce qui lui apparaît,  
-non selon ce qui est.**
+non selon ce qui est.  
+Elle reçoit l’articulation dans une vision séparée,  
+mais c’est dans cette vision séparée que le retournement pourra s’opérer.**
 
 La vision naît dans l’intervalle.  
 **La conscience est le lieu où l’articulation devient apparente,  
 non le lieu où elle se déploie.**
+
 
 ---
 
