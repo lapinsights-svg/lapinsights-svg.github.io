@@ -228,7 +228,7 @@ Il enseignait que, puisque le corps n’est qu’une pensée dans l’esprit,
 et que Jésus était “guéri” de la croyance dans la séparation,  
 la crucifixion n’a produit aucune douleur réelle.
 
-Or Jésus ne souffrait pas ontologiquement : il ne se percevait pas séparé, et sa conscience unifiée voyait le corps comme irréel,  
+Or Jésus ne souffrait pas ontologiquement : il ne se percevait pas séparé, et sa conscience unifiée voyait le corps comme irréel ontologiquement,  
 incapable de produire une souffrance dans l’esprit.  
 Mais il avait des douleurs physiques phénoménales, qui appartiennent à la fracture perceptive :  
 Elles apparaissent dans le corps, mais n’atteignent pas la conscience unifiée (ou esprit juste),  
