@@ -368,7 +368,7 @@ La lecture de Wapnick inverse la causalité et place la psychologie avant la ph�
 Avec la bonne lecture :
 
 - UCEM et la Bible s’unifient,  
-- le serpent = idée impossible,  
+- le serpent = idée impossible (ou minuscule et folle idée),  
 - la fracture = projection,  
 - le monde = illusion ontologique,  
 - Jésus = mémoire de l’unité,  
