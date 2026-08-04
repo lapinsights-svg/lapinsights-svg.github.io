@@ -162,7 +162,6 @@ Il tombe hors d’Éden comme un fruit tombe avant maturité.
 C’est une non‑naissance.
 
 ---
-
 # L’interdit : protection ontologique
 
 « Il ne faut pas qu’il avance sa main… » (Gn 3,22)  
@@ -172,7 +171,10 @@ Il protège l’homme de la fixation éternelle de la rupture.
 Si l’homme brisé accédait à l’Arbre de Vie,  
 il deviendrait éternellement séparé.
 
+Ce n’est pas Dieu qui bloque :  
+c’est la structure qui empêche la coexistence de deux régimes incompatibles.  
 L’interdit garde l’unité pour le moment où elle pourra être reçue.
+
 
 ---
 
