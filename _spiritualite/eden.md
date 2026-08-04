@@ -162,7 +162,7 @@ Il tombe hors d’Éden comme un fruit tombe avant maturité.
 C’est une non‑naissance.
 
 ---
-# L’interdit : protection ontologique
+# L’interdit : protection structurelle
 
 « Il ne faut pas qu’il avance sa main… » (Gn 3,22)  
 ne décrit pas une vengeance.  
