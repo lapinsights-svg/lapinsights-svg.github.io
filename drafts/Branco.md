@@ -19,7 +19,9 @@ Le programme “2027” de Juan Branco ne fonctionne pas comme un programme poli
 Il fonctionne comme un **dispositif narratif** destiné à occuper l’espace de la contestation, absorber la colère, et empêcher qu’elle se structure en force politique réelle.
 
 Sous un vernis de “priorités” modérées, il déploie une architecture institutionnelle inapplicable, juridiquement impossible, économiquement irréalisable, et politiquement non-gagnante.  
-Ce texte n’a pas été conçu pour gouverner : il a été conçu pour **neutraliser la possibilité même d’un changement réel**.
+Ce texte n’a pas été conçu pour gouverner : il a été conçu pour **neutraliser la possibilité même d’un changement réel**.  
+
+**Il s’agit d’une lecture structurelle, non d’une accusation.**
 
 ---
 
