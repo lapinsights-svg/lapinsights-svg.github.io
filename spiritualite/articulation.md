@@ -156,19 +156,31 @@ La conscience est le lieu où l’articulation devient **apparente**,
 non le lieu où elle se déploie.
 
 ---
-
 ## 6. Les Deux arbres : deux régimes de l’intervalle
 
 Les deux arbres ne sont pas des objets.  
-Ils sont deux manières de se tenir dans l’intervalle :
+Ils sont deux manières de se tenir dans l’intervalle,  
+dans la vision intérieure de l’Esprit.
 
-- **Arbre de Vie** : l’intervalle relie, ouvre, traverse.  
-- **Arbre de la Connaissance** : l’intervalle se referme, enferme, fixe.
+- **Arbre de Vie** : l’intervalle se donne comme passage, ouverture, circulation.  
+- **Arbre de la Connaissance** : l’intervalle se donne comme distinction, lisibilité, articulation.
 
 > “L’arbre de vie… et l’arbre de la connaissance du bien et du mal.” (Genèse 2,9)
 
-Passage ou clôture.  
-Traversée ou fixation.
+Dans Eden, les deux arbres ne s’opposent pas :  
+ils doivent être **réunis** pour que l’intervalle soit complet.
+
+L’Arbre de la Connaissance ne peut être reçu sans l’Arbre de Vie.  
+Car sans la circulation vivante de l’intervalle,  
+la distinction devient fixation,  
+et la fixation devient horizontalité.
+
+Ce n’est pas l’Arbre de la Connaissance qui produit la séparation,  
+mais la **lecture séparée** de la conscience,  
+qui apparaît **après** que le “fruit” soit “mangé”.
+
+Les deux arbres appartiennent à la Création intérieure.  
+La fracture appartient à la conscience.
 
 ---
 
