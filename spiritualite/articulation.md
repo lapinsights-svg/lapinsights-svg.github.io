@@ -54,7 +54,7 @@ Deux régimes.
 Une ligne.  
 Un axe.
 
-La première articulation un **seuil de vision intérieure**.
+La première articulation est un **seuil de vision intérieure**.
 
 Elle ne concerne pas le monde physique.  
 Elle décrit la manière dont l’Esprit se rend visible dans la Création.
@@ -79,8 +79,7 @@ Ainsi, Paul ne dit pas que les perfections de Dieu se voient dans la nature phys
 mais qu’elles deviennent visibles **dans l’articulation intérieure de la Création**,  
 là où l’Esprit se rend lisible dans ses propres formes.
 
-
-> Et c'est pour cela que “Dieu vit que c’était bon.”
+Et c’est pour cela que Dieu vit que c’était bon.
 
 ---
 
@@ -127,7 +126,7 @@ c’est un mouvement intérieur entre deux points visibles à l’Esprit.
 
 ## 5. La conscience : deuxième articulation, non une faute
 
-La conscience n’abolit pas l’articulation.  
+Lorsque la conscience apparaît, elle n’abolit pas l’articulation.  
 Elle ne se tient pas dans l’articulation : elle se tient **devant** elle.
 
 Elle lit ce qui est articulé, mais ne le produit jamais.  
