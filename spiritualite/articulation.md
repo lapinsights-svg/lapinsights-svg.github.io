@@ -260,7 +260,10 @@ elle est un seuil phénoménal retourné.
 
 # Conclusion
 
-La première articulation ouvre la vision intérieure.
+# Conclusion
+
+La première articulation n’est pas une faute :  
+elle ouvre la vision intérieure.
 
 La deuxième articulation n’est pas une faute :  
 elle ouvre la vision séparée.
@@ -277,7 +280,8 @@ Le monde tel que nous le percevons n’est pas la Création :
 il est la **projection de la fracture** dans la conscience.
 
 Toute la Bible déploie ce motif :  
-le retour de la conscience unifiée vers l’Esprit, vers la Création intérieure. 
+le **retour de la conscience unifiée** vers l’Esprit,  
+vers la Création intérieure,  
 la restauration de l’axe,  
 la réouverture de l’intervalle,  
 la réunion des deux arbres,  
