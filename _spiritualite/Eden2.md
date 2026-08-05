@@ -227,6 +227,18 @@ celui qui **rouvrira le chemin de l’Arbre de Vie**.
 
 # Conclusion
 
+La Bible n’explique pas comment Éden est “créé”,
+car Éden n’est pas un lieu.
+Elle montre comment Éden apparaît :
+dans la première articulation,
+là où l’Esprit devient visible à lui-même
+et où la densité se tient sans fracture.
+
+La fracture n’est pas dans Éden.
+Elle apparaît dans la conscience,
+comme une illusion perceptive
+lorsque l’horizontalité est reçue sans la verticalité.
+
 Éden est une **densité non fracturée**, non un lieu.  
 La Bible commence par une polarité qui s’ouvre ; tout le reste tente de la refermer.
 
