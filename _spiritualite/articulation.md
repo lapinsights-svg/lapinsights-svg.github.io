@@ -257,13 +257,9 @@ L’articulation n’est pas une rupture réelle :
 elle est un seuil phénoménal retourné.
 
 ---
-
 # Conclusion
 
-# Conclusion
-
-La première articulation n’est pas une faute :  
-elle ouvre la vision intérieure.
+La première articulation ouvre la vision intérieure.
 
 La deuxième articulation n’est pas une faute :  
 elle ouvre la vision séparée.
