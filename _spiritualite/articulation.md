@@ -292,3 +292,6 @@ Elle révèle l’axe.
 ---
 
 Céleste R.
+
+Retour au sommaire :  
+[Sommaire structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
