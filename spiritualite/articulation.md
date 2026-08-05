@@ -260,21 +260,34 @@ elle est un seuil phénoménal retourné.
 
 # Conclusion
 
-La première articulation n’est pas une faute :  
-elle ouvre la vision intérieure.
+La première articulation ouvre la vision intérieure.
 
 La deuxième articulation n’est pas une faute :  
 elle ouvre la vision séparée.
 
+La fracture n’est pas réelle :  
+elle est une **illusion perceptive** apparue dans la conscience  
+lorsque l’horizontalité a été reçue sans la verticalité.
+
+La Création divine, elle, demeure intacte :  
+elle est un **déploiement intérieur de l’Esprit**,  
+où l’intervalle, la densité et les axes se tiennent sans rupture.
+
+Le monde tel que nous le percevons n’est pas la Création :  
+il est la **projection de la fracture** dans la conscience.
+
 Toute la Bible déploie ce motif :  
-l’intervalle où la vision naît,  
-où la densité de l’Esprit se retourne,  
-où le passage apparaît.
+le retour de la conscience unifiée vers l’Esprit, vers la Création intérieure. 
+la restauration de l’axe,  
+la réouverture de l’intervalle,  
+la réunion des deux arbres,  
+et la traversée de la densité opaque par le Fils étendu.
 
 L’articulation n’éloigne jamais.  
 Elle ouvre.  
 Elle articule.  
 Elle révèle l’axe.
+
 
 ---
 
