@@ -13,7 +13,7 @@ og_image: /images/spiritualite/eden.webp
 # Éden : comprendre la lecture structurelle  
 *Version pédagogique*
 
-La lecture littérale présente Éden comme un jardin situé entre quatre fleuves.  
+La lecture littérale présente Éden comme un jardin situé entre quatre fleuves.    
 Mais plusieurs éléments du texte montrent que cette lecture ne peut pas suffire.  
 La Bible utilise des images géographiques pour décrire des **états de densité**, et Éden est le premier de ces états.
 
