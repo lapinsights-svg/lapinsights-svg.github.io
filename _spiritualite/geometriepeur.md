@@ -78,7 +78,7 @@ Mais la faille voyage avec moi.
 
 ---
 
-Autour de mes réactions — retrait ou fuite —  
+Autour de mes réactions, retrait ou fuite,   
 il y a souvent des amis, des proches, des soutiens,  
 des voix humaines qui se penchent avec douceur.
 
@@ -91,10 +91,10 @@ Ils valident le retrait.
 Ils transforment l’absence en vertu.
 
 Ils disent :  
-« Tu as bien fait. »  
-« Tu es courageux. »  
-« Tu es lumineux. »  
-« Tu as évité un schéma. »
+"Tu as bien fait."  
+"Tu es courageux."  
+"Tu es lumineux."   
+"Tu as évité un schéma."  
 
 Ce n’est pas de la compassion.  
 C’est une **douceur qui étouffe**,  
@@ -112,7 +112,7 @@ Je l’ai connu, je le redoute, je le rejoue.
 
 Chaque limite que je pose est une réplique du conflit que je fuis.  
 Je crois me libérer du rapport de force,  
-mais j’en reproduis la structure —  
+mais j’en reproduis la structure ,    
 simplement déplacée à l’intérieur de moi.
 
 Ce que j’appelle “limite” est une **géométrie défensive**,  
@@ -133,7 +133,7 @@ sculptée dans la lumière.
 
 ---
 
-« Ombres », « tendresse », « élans arrêtés », « paix intérieure »…  
+"Ombres", "tendresse", "élans arrêtés", "paix intérieure"…  
 Ces mots ne descendent jamais dans la roche.  
 Ils restent suspendus,  
 loin du sol,  
@@ -156,7 +156,7 @@ mais d’un personnage qu’ils croient être —
 une silhouette apaisée, construite pour ne pas sentir.
 
 Des êtres vivants,  
-mais qui se retirent pour se croire indemnes —  
+mais qui se retirent pour se croire indemnes,    
 alors que la fissure travaille déjà.
 
 Des êtres qui fuient,  
