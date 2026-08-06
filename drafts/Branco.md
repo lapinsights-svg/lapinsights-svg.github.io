@@ -1,8 +1,8 @@
 ---
-title: "Analyse structurelle du dispositif « Branco 2027 »"
-author: "Céleste"
-date: "2026-08-05"
-description: "Étude conceptuelle et structurelle du programme et du mouvement associés à Juan Branco."
+title: "Analyse structurelle du dispositif Branco 2027"
+date: "2026-08-06"
+categories: idees
+resume: "Étude conceptuelle et structurelle du programme et du mouvement associés à Juan Branco."
 tags:
   - analyse
   - politique
