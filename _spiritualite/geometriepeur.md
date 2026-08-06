@@ -10,10 +10,11 @@ og_image: /images/spiritualite/geometrie.png
 
 ![geometrie](/images/spiritualite/geometrie.png)
 
+
 # **La géométrie de la peur**  
 ### *Là où le retrait devient fuite, et la fuite devient oubli de soi*
 
-Il existe des spiritualités qui parlent d’éveil mais qui vivent dans la pénombre.  
+Il existe des spiritualités qui parlent d’éveil mais vivent dans une clarté qui ne chauffe plus.  
 Elles se couvrent de douceur, de symboles pâles, de mots qui flottent,  
 mais sous la surface, quelque chose se contracte,  
 se retire,  
@@ -21,7 +22,7 @@ se fissure.
 
 Dans ces univers, le ressenti n’est plus une traversée :  
 c’est une menace.  
-Une faille.  
+Une faille qu’on redoute.  
 Un tremblement qu’il faut étouffer avant qu’il ne devienne vivant.
 
 Alors, dès que la terre bouge sous les pieds,  
@@ -33,10 +34,10 @@ Le retrait se présente comme un choix.
 La fuite se déguise en sagesse.  
 La nuit, elle, sait reconnaître les deux.
 
----  
+---
 
 Le retrait est un mouvement lent, presque cérémoniel.  
-Je me retire comme on ferme une porte sans bruit.  
+Je me retire comme on ferme une porte sur soi.  
 Je me mets à distance.  
 Je me place hors du champ.
 
@@ -44,13 +45,13 @@ Je dis que c’est pour préserver la paix.
 Je dis que c’est pour éviter le conflit.  
 Je dis que c’est pour rester “aligné”.
 
-Les limites que je veux poser ne me protègent pas : elles m'enferment.  
+Mais les limites que je pose ne me protègent pas : elles m’enferment.  
 Elles dessinent une **géométrie de la peur**,  
 des cercles concentriques autour du ressenti,  
 autour du corps,  
 autour de la possibilité d’être atteint.  
 Chaque ligne tracée pour me protéger devient une frontière contre le vivant.  
-Et à force de poser des limites
+Et à force de poser des limites,  
 je finis par me barricader dans ma propre absence.
 
 ---
@@ -106,19 +107,19 @@ Une communauté qui préfère la paix morte
 ---
 
 Je dis que je ne veux plus vivre de conflit.  
-Mais j'en parle sans cesse.  
-Je l'ai connu, je le redoute, je le rejoue.
+Mais j’en parle sans cesse.  
+Je l’ai connu, je le redoute, je le rejoue.
 
 Chaque limite que je pose est une réplique du conflit que je fuis.  
 Je crois me libérer du rapport de force,  
-mais j'en reproduis la structure —  
+mais j’en reproduis la structure —  
 simplement déplacée à l’intérieur de moi.
 
-Ce que j'appelle “limite” est une **géométrie défensive**,  
+Ce que j’appelle “limite” est une **géométrie défensive**,  
 un dessin invisible qui protège du contact,  
 mais aussi du vivant.
 
----  
+---
 
 Je ne veux plus être atteint,  
 alors je me retire avant d’être touché.  
@@ -126,8 +127,8 @@ Je ne veux plus être envahi,
 alors je construis des murs autour de mon propre ressenti.
 
 Et les murs se resserrent en tour d’ivoire.  
-La limite conserve la forme fossile du rapport de force.
-Une architecture de peur,
+La limite conserve la forme fossile du rapport de force.  
+Une architecture de peur,  
 sculptée dans la lumière.
 
 ---
@@ -144,7 +145,7 @@ en refusant de la nommer.
 
 Une langue qui flotte pour ne jamais toucher la terre.
 
----  
+---
 
 Celui qui a quitté ces clartés factices voit ce que d’autres ne voient plus :
 
@@ -192,5 +193,6 @@ Et c’est seulement en touchant la terre noire
 que l’on retrouve enfin  
 la lumière qui respire.
 
+---
 
 Céleste R.
