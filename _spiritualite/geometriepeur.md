@@ -19,7 +19,7 @@ og_image: /images/spiritualite/geometrie.png
 
 
 # **La géométrie de la peur**  
-### *Là où le retrait devient fuite, et la fuite devient oubli de soi*
+### *Là où le retrait devient fuite, et la fuite devient oubli de soi*.
 
 Il existe des spiritualités qui parlent d’éveil mais vivent dans une clarté qui ne chauffe plus.  
 Elles se couvrent de douceur, de symboles pâles, de mots qui flottent,  
