@@ -8,7 +8,14 @@ tags: ["spiritualité", "évitement", "psychologie", "nocturne", "tellurique", "
 og_image: /images/spiritualite/geometrie.png
 ---
 
-![geometrie](/images/spiritualite/geometrie.png)
+*Cliquer sur play pour voir la géométrie de la peur.*
+
+<video controls playsinline width="100%">
+  <source src="/assets/videos/geometrie.mp4" type="video/mp4">
+  Votre navigateur ne peut pas lire cette vidéo.
+</video>
+
+<br><br>
 
 
 # **La géométrie de la peur**  
