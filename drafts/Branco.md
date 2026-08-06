@@ -9,11 +9,14 @@ tags:
   - structure
   - narration
   - mouvement
+og_image: /images/idees/Branco.webp
 ---
+
+![Branco](/images/idees/Branco.webp)
+
 
 # Analyse structurelle du dispositif “Branco 2027”
 
-## Résumé
 
 Le programme “2027” de Juan Branco n’a pas la texture d’un programme politique.  
 Il avance comme une forme  narrative qui se glisse dans l’espace de la contestation, qui absorbe la colère comme une matière chaude, qui la retient, la détourne, la dissout lentement dans un récit qui promet beaucoup mais ne construit rien.
@@ -48,7 +51,7 @@ Dès qu’on ouvre le PDF, le ton bascule.
 La première phrase "L’irrésistible est au fondement des révolutions. Ils ont décidé de se lever." sonne comme une entrée en scène.  
 On quitte le terrain du réformisme pour entrer dans une dramaturgie de la rupture.
 
-### Mesures institutionnelles irréalisables
+### Les mesures institutionnelles sont irréalisables
 
 Le programme empile des propositions qui ne peuvent pas tenir ensemble :
 
@@ -64,7 +67,7 @@ Le programme empile des propositions qui ne peuvent pas tenir ensemble :
 Ce n’est pas un plan.  
 C’est une carte d’un pays qui n’existe pas, dessinée après un effondrement qui n’a pas eu lieu.
 
-### Mesures économiques impossibles
+### Les mesures économiques sont impossibles
 
 On lit :
 
@@ -78,7 +81,7 @@ L’ensemble ressemble à une équation écrite trop vite, avec des signes qui s
 On enlève les recettes, on augmente les dépenses, on casse les structures, on promet des investissements massifs.  
 Le tout ne tient pas, même dans l’imaginaire.
 
-### Mesures juridiques incompatibles
+### Les mesures juridiques sont incompatibles
 
 Tribunaux rétroactifs, purges administratives, publication des communications des élus, levée du secret-défense, expropriations médiatiques :  
 un bloc entier qui heurte les principes fondamentaux du droit.  
