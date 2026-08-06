@@ -142,7 +142,7 @@ En multipliant les thèmes, il disperse les colères.
 Il segmente les publics.  
 Il empêche la formation d’un bloc politique cohérent.  
 
-C'est un programme trop radical ne peut pas être appliqué.  
+Ce programme trop radical ne peut pas être appliqué.  
 Il reste suspendu, comme un décor qu’on n’a jamais prévu d’utiliser.  
 Il neutralise en promettant ce qu’il ne peut pas accomplir.
 
