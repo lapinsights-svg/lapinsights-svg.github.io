@@ -12,7 +12,7 @@ Dans un entretien publié par *Le Figaro*, Jean‑Michel Jarre déclare :
 
 > « C’est grâce à l’invention du violon que Vivaldi a existé. Ce sera bientôt grâce à l’invention d’un nouveau modèle d’apprentissage, d’un nouvel algorithme d’IA, que de prochains genres cinématographiques et musicaux verront le jour. »
 
-Cette analogie semble brillante, mais elle repose sur une confusion fondamentale.
+Cette analogie semble brillante, mais elle repose en fait sur une confusion fondamentale.
 
 Comparer l’IA au violon permet de maintenir l’artiste au centre.  
 C’est une métaphore de continuité : un nouvel outil, un prolongement de la main, rien de plus.
