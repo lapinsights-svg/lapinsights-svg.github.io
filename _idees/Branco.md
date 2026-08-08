@@ -2,7 +2,7 @@
 title: "Analyse structurelle du dispositif Branco 2027"
 date: "2026-08-08"
 categories: idees
-resume: "Étude conceptuelle et structurelle du programme et du mouvement associés à Juan Branco."
+resume: "Étude du programme et du mouvement associés à Juan Branco."
 tags:
   - analyse
   - politique
@@ -15,7 +15,7 @@ og_image: /images/idees/Branco.webp
 ![Branco](/images/idees/Branco.webp)
 
 
-# Analyse structurelle du dispositif “Branco 2027”
+# Analyse du dispositif “Branco 2027”
 
 
 Le programme “2027” de Juan Branco n’a pas la texture d’un programme politique.  
