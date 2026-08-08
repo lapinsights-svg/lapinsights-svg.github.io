@@ -180,14 +180,14 @@ Comme si le mouvement n’était qu’un halo autour d’un centre unique.
 ### Trajectoire improbable
 
 Diplômes élitistes, postes prestigieux, prix institutionnels, expériences extrêmes :  
-une trajectoire dense, presque trop dense pour être crédible sans aspérités.  
-Un récit qui semble avoir été poli.
+une trajectoire de Branco est dense, presque trop dense pour être crédible sans aspérités.  
+C'est un récit qui semble avoir été poli.
 
 ### Structure hybride
 
 Humanitaire, militant, paramilitaire, politique, anti-surveillance, campagne présidentielle :  
 c'est un mélange instable, mais efficace pour occuper le terrain.  
-Une hybridation qui intrigue.
+C'est une hybridation qui intrigue.
 
 ---
 
