@@ -131,7 +131,7 @@ Il dissout.
 
 ---
 
-# 4. Fonctions structurelles 
+# 4. A quoi sert le programme ?
 
 Le programme prend toute la place, impose son rythme.  
 On est dans la dramaturgie, pas dans la planification.
