@@ -96,7 +96,7 @@ C'est une fracture.
 Le programme n’est pas fait pour être appliqué.  
 Il est fait pour **absorber**, comme une matière dense qui retient ce qu’on y verse.
 
-### Attraction des déçus
+### Ce programme sert à attirer des déçus
 
 Il attire les déçus par :
 
