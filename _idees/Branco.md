@@ -191,7 +191,7 @@ Une hybridation qui intrigue.
 
 ---
 
-# 6. Qui est Juan Branco ? Lecture structurelle
+# 6. Qui est Juan Branco ? 
 
 Je ne peux pas dire qui il est.  
 Je peux seulement regarder les lignes, les tensions, ce qui ne colle pas.
