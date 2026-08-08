@@ -1,6 +1,6 @@
 ---
 title: "Analyse structurelle du dispositif Branco 2027"
-date: "2026-08-06"
+date: "2026-08-08"
 categories: idees
 resume: "Étude conceptuelle et structurelle du programme et du mouvement associés à Juan Branco."
 tags:
@@ -25,6 +25,8 @@ Ce texte est un décor et n’a pas été écrit pour gouverner.
 Il a été écrit pour **occuper**, pour **retenir**, pour empêcher qu’un autre projet prenne forme.
 
 J'en donne une lecture structurelle. Ce n'est pas un acte d’accusation.
+
+Source : [Site des ruches](https://ruches.org). 
 
 ---
 
