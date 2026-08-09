@@ -178,8 +178,7 @@ C'est un dispositif qui :
 La transparence est un discours.  
 La structure, elle, dit autre chose.
 
-Ce qui manque, ce n’est pas la loi.  
-C’est l’encadrement réel.
+Ce qui manque, c'est l’encadrement réel.
 
 ---
 
