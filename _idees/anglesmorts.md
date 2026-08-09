@@ -22,7 +22,6 @@ En réalité, c'est une mécanique qui efface ses propres traces, filtre ses pro
 Dans la loi française, une aide à mourir est inscrite sur le certificat de décès comme **mort naturelle**.
 
 Ce n’est pas une erreur.  
-Ce n’est pas un abus.  
 C’est un **choix juridique volontaire**.
 
 Objectifs :
