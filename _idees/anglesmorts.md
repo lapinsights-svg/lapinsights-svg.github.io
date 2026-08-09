@@ -123,7 +123,7 @@ Quatrième zone d’ombre.
 ---
 
 ## 5. Le glissement structurel : du ET vers le OU  
-### Et surtout : la dérive a **déjà commencé** entre Assemblée nationale et Sénat
+### La dérive a **déjà commencé** entre Assemblée nationale et Sénat
 
 Officiellement, la loi française impose des conditions **cumulatives** (ET) :
 - maladie grave,
