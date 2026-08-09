@@ -17,7 +17,7 @@ En réalité, c'est une mécanique qui efface ses propres traces, filtre ses pro
 
 ---
 
-## 1 — La fiction fondatrice : “mort naturelle”
+## 1. La fiction fondatrice : “mort naturelle”
 
 Dans la loi française, une aide à mourir est inscrite sur le certificat de décès comme **mort naturelle**.
 
@@ -39,7 +39,7 @@ Première zone d’ombre.
 
 ---
 
-## 2 — La commission nationale : ce qu’elle est réellement
+## 2. La commission nationale : ce qu’elle est réellement
 
 La **Commission nationale de contrôle de l’aide à mourir** est un organe administratif.  
 Pas un tribunal.  
@@ -67,7 +67,7 @@ Deuxième zone d’ombre.
 
 ---
 
-## 3 — Nature du doute : gravité maximale
+## 3. Nature du doute : gravité maximale
 
 Les “doutes” que la commission peut rencontrer ne sont pas des détails.  
 Ce sont des signaux critiques :
@@ -90,7 +90,7 @@ Troisième zone d’ombre.
 
 ---
 
-## 4 — Effet statistique : dérives invisibles
+## 4. Effet statistique : dérives invisibles
 
 Les rapports officiels ne comptent que les dérives **reconnues**.  
 Ils ne comptent pas les dérives **réelles**.
@@ -122,7 +122,7 @@ Quatrième zone d’ombre.
 
 ---
 
-## 5 — Le glissement structurel : du ET vers le OU  
+## 5. Le glissement structurel : du ET vers le OU  
 ### Et surtout : la dérive a **déjà commencé** entre Assemblée nationale et Sénat
 
 Officiellement, la loi française impose des conditions **cumulatives** (ET) :
@@ -163,7 +163,7 @@ Cinquième zone d’ombre.
 
 ---
 
-## 6 — Conclusion 
+## Conclusion 
 
 C'est un dispositif qui :
 
