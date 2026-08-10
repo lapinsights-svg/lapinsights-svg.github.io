@@ -86,6 +86,79 @@ Le bien‑être suppose une personne vivante ; quand l’être disparaît, le mo
 Les mots ne sont pas des accessoires :  
 ils structurent le droit, la pratique médicale, et les protections des personnes.
 
+---
+
+# 5. Cas pratique : anthologie d’un renversement ontologique
+
+Pour montrer concrètement ce qui se joue lorsque l’on confond *soin* et *acte létal*, voici un échange réel sur Facebook.  
+Il illustre un phénomène désormais courant : la **dissolution du réel par glissement sémantique**.
+
+## 5.1. La conversation 
+
+> **Mati Oups**  
+> Mon papa de 85 ans atteint de leucémie a agonisé pendant une semaine…  
+> *(témoignage affectif, souffrance extrême)*  
+> Je trouve bien plus humain d’accepter d’arrêter les souffrances…  
+> Pour moi, c’est du soin aussi.
+
+> **Cé Leste**  
+> Votre témoignage est bouleversant, et je ne le discute pas.  
+> Mais un acte qui met fin à la vie n’est pas un soin.  
+> Le cadre légal exige des catégories stables.
+
+> **Mati Oups**  
+> J’ai très bien compris et on n’est pas d’accord 
+
+> **Cé Leste**  
+> Le désaccord ne change pas la définition d’un mot.
+
+> **Mati Oups**  
+> La définition du mot soin dépend de la définition que l’on retient.
+
+> **Cé Leste**  
+> Non. Une définition n’est pas un choix personnel.  
+> Le soin vise un être vivant ; il n’y a pas de bien‑être quand il n’y a plus d’être.
+
+> **Mati Oups**  
+> L’ultime bien‑être, c’est d’éviter les souffrances.
+
+> **Cé Leste**  
+> Là, c’est grave.  
+> Vous redéfinissez maintenant le bien‑être pour qu’il devienne la mort.  
+> C’est un renversement ontologique : vous inversez la structure même du réel pour sauver une position.  
+> À ce stade, on peut aussi changer la définition de vie, de mort, de soin, de droit, de vérité, de mensonge, de souffrance…  
+> Mais quand on change les définitions pour que le réel corresponde à ce qu’on ressent, on ne parle plus du monde réel.  
+> Un soin vise un être vivant ; un acte létal met fin à cet être.  
+> Si vous refusez cette distinction, la discussion ne sert plus à rien.  
+> Je m’arrête là.
+
+---
+
+## 5.2. Synthèse conceptuelle
+
+Cette discussion est une **pièce d’anthologie** parce qu’elle montre,  
+étape par étape, comment un débat se dissout lorsque les mots cessent d’avoir un sens stable.
+
+### 1. Déplacement du registre  
+Je parle de catégories ; elle répond par un témoignage affectif.  
+Le vécu est réel, mais il ne répond pas à la structure conceptuelle.
+
+### 2. Relativisme lexical  
+Elle affirme que la définition d’un mot dépend de « ce qu’on retient ».  
+Le langage devient une opinion.  
+C’est du relativisme lexical.
+
+### 3. Glissement sémantique  
+Elle étend le mot *soin* pour y inclure un acte létal.  
+C’est l’effondrement des catégories.
+
+### 4. Renversement ontologique  
+Elle finit par redéfinir le bien‑être pour qu’il devienne la mort.  
+C’est un renversement ontologique.
+
+### 5. Sortie du réel  
+Si les mots changent selon le ressenti, le réel devient optionnel.  
+C’est une sortie du réel.
 
 ---
 
@@ -100,4 +173,5 @@ Le fait même de devoir le rappeler montre une **fatigue du sens** :
 quand une société confond *soigner* et *supprimer*, c’est qu’elle ne sait plus ce qu’elle protège.
 
 ---
+
 Céleste R.
