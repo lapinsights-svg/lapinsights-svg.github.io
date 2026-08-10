@@ -124,7 +124,10 @@ Il illustre un phénomène désormais courant : la **dissolution du réel par gl
 
 > **Cé Leste**  
 > Là, c’est grave.  
-> Vous redéfinissez maintenant le bien‑être pour qu’il devienne la mort.  
+> Vous redéfinissez maintenant le bien‑être pour qu’il devienne la mort.
+> Vous ne l’énoncez pas explicitement, mais c’est exactement ce que votre phrase implique :
+> si “l’ultime bien‑être” consiste à “éviter les souffrances”, et que le seul moyen que vous envisagez pour éviter ces souffrances est la mort,
+> alors vous posez la mort comme **bien‑être**. **La mort comme bien-être**. Il fallait oser.
 > C’est un renversement ontologique : vous inversez la structure même du réel pour sauver une position.  
 > À ce stade, on peut aussi changer la définition de vie, de mort, de soin, de droit, de vérité, de mensonge, de souffrance…  
 > Mais quand on change les définitions pour que le réel corresponde à ce qu’on ressent, on ne parle plus du monde réel.  
