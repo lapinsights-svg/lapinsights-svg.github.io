@@ -43,7 +43,7 @@ Un acte euthanasique vise un résultat précis : **la mort**.
 - **Finalité terminale** : la mort n’est pas un effet secondaire, mais la finalité.
 
 Ce n’est pas un soin.  
-C’est un acte létal encadré par le droit — ou qui devrait l’être.
+C’est un acte létal encadré par le droit (ou qui devrait l’être).
 
 ---
 
