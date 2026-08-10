@@ -149,10 +149,12 @@ Il illustre un phénomène désormais courant : la **dissolution du réel par gl
 > Là, c’est grave.  
 > Vous redéfinissez maintenant le bien‑être pour qu’il devienne la mort.  
 > Vous ne l’énoncez pas explicitement, mais c’est exactement ce que votre phrase implique :  
-> vous dites que le soin vise le bien‑être, puis que l’ultime bien‑être consiste à éviter les souffrances — et dans votre cadre, éviter les souffrances signifie la mort.  
+> vous dites que le soin vise le bien‑être, puis que l’ultime bien‑être consiste à éviter les souffrances,
+>  et dans votre cadre, éviter les souffrances signifie la mort.  
 > Autrement dit : vous posez la mort comme bien‑être, sans oser le dire directement.  
 > C’est un renversement ontologique : vous inversez la structure même du réel pour sauver une position.  
-> À ce stade, on peut aussi changer la définition de vie, de mort, de soin, de droit, de vérité, de mensonge, de souffrance… de tous les mots que l’on veut.  
+> À ce stade, on peut aussi changer la définition de vie, de mort, de soin, de droit,  
+> de vérité, de mensonge, de souffrance… de tous les mots que l’on veut.  
 > Mais quand on change les définitions pour que le réel corresponde à ce qu’on ressent, on ne parle plus du monde réel.  
 > Un soin vise un être vivant ; un acte létal met fin à cet être.  
 > Si vous refusez cette distinction, la discussion ne sert plus à rien.  
