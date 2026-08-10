@@ -173,7 +173,7 @@ Je parle de catégories ; elle répond par un témoignage affectif.
 Le vécu est réel, mais il ne répond pas à la structure conceptuelle.
 
 ### Relativisme lexical  
-Elle affirme que la définition d’un mot dépend de « ce qu’on retient ».  
+Elle affirme que la définition d’un mot dépend de "ce qu’on retient".  
 Le langage devient une opinion.  
 C’est du relativisme lexical.
 
