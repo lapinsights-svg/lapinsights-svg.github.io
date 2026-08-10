@@ -80,8 +80,12 @@ Dire qu’un acte euthanasique est un soin revient à dire qu’un acte qui met 
 C’est une contradiction interne.  
 On ne peut pas faire tenir les deux dans le même mot sans détruire le sens du mot.
 
+Et surtout : **il n’y a pas de bien‑être quand il n’y a plus d’être**.  
+Le bien‑être suppose une personne vivante ; quand l’être disparaît, le mot n’a plus de sens.
+
 Les mots ne sont pas des accessoires :  
 ils structurent le droit, la pratique médicale, et les protections des personnes.
+
 
 ---
 
