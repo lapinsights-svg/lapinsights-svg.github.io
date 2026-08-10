@@ -168,24 +168,24 @@ Il illustre un phénomène désormais courant : la **dissolution du réel par gl
 Cette discussion est une **pièce d’anthologie** parce qu’elle montre,  
 étape par étape, comment un débat se dissout lorsque les mots cessent d’avoir un sens stable.
 
-### 1. Déplacement du registre  
+### Déplacement du registre  
 Je parle de catégories ; elle répond par un témoignage affectif.  
 Le vécu est réel, mais il ne répond pas à la structure conceptuelle.
 
-### 2. Relativisme lexical  
+### Relativisme lexical  
 Elle affirme que la définition d’un mot dépend de « ce qu’on retient ».  
 Le langage devient une opinion.  
 C’est du relativisme lexical.
 
-### 3. Glissement sémantique  
+### Glissement sémantique  
 Elle étend le mot *soin* pour y inclure un acte létal.  
 C’est l’effondrement des catégories.
 
-### 4. Renversement ontologique  
+### Renversement ontologique  
 Elle finit par redéfinir le bien‑être pour qu’il devienne la mort.  
 C’est un renversement ontologique.
 
-### 5. Sortie du réel  
+### Sortie du réel  
 Si les mots changent selon le ressenti, le réel devient optionnel.  
 C’est une sortie du réel.
 
