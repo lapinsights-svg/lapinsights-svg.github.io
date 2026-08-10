@@ -101,39 +101,63 @@ Il illustre un phénomène désormais courant : la **dissolution du réel par gl
 > Je trouve bien plus humain d’accepter d’arrêter les souffrances…  
 > Pour moi, c’est du soin aussi.
 
-> **Cé Leste**  
+> **Céleste**  
 > Votre témoignage est bouleversant, et je ne le discute pas.  
 > Mais un acte qui met fin à la vie n’est pas un soin.  
 > Le cadre légal exige des catégories stables.
 
 > **Mati Oups**  
-> J’ai très bien compris et on n’est pas d’accord 
+> J’ai très bien compris et on n’est pas d’accord 🤷‍♀️
 
-> **Cé Leste**  
+> **Céleste**  
 > Le désaccord ne change pas la définition d’un mot.
 
 > **Mati Oups**  
-> La définition du mot soin dépend de la définition que l’on retient.
+> Le mot soin désigne l'attention, les actes ou les traitements portés à une personne,
+> un animal ou une chose pour assurer sa santé, son bien-être ou son entretien.  
+> Pour moi, c'est un acte qui préserve le bien‑être de la personne. C'est tout.  
+> On a le droit d'être en désaccord, oui.
 
-> **Cé Leste**  
-> Non. Une définition n’est pas un choix personnel.  
+> **Céleste**  
+> Votre définition confirme précisément ce que je dis :  
+> un soin vise le bien‑être, pas la disparition de la personne.  
+> Il n’y a pas de bien‑être quand il n’y a plus d’être. Le bien‑être suppose un être.  
+> On peut être en désaccord, mais la novlangue ne change pas les catégories.
+
+> **Mati Oups**  
+> Ça confirme qu’on n’est pas d’accord.
+
+> **Céleste**  
+> Oui, ça confirme surtout que vous déplacez le sujet.  
+> On peut être en désaccord, bien sûr, mais un désaccord ne change pas une définition,
+> pas plus qu’il ne ferait de 1+1 autre chose que 2.
+
+> **Mati Oups**  
+> La définition du mot “soin” dépend de la définition que l’on retient.
+
+> **Céleste**  
+> Non. Une définition n’est pas un choix personnel :
+> c’est une catégorie stable qui permet de penser clairement.  
+> Si chacun “retient sa définition”, alors plus rien n’a de sens,
+> comme si 1+1 pouvait valoir autre chose que 2 selon l’humeur du jour.  
 > Le soin vise un être vivant ; il n’y a pas de bien‑être quand il n’y a plus d’être.
 
 > **Mati Oups**  
-> L’ultime bien‑être, c’est d’éviter les souffrances.
+> L’ultime bien‑être c’est d’éviter les souffrances.
 
-> **Cé Leste**  
+> **Céleste**  
 > Là, c’est grave.  
-> Vous redéfinissez maintenant le bien‑être pour qu’il devienne la mort.
-> Vous ne l’énoncez pas explicitement, mais c’est exactement ce que votre phrase implique :
-> si “l’ultime bien‑être” consiste à “éviter les souffrances”, et que le seul moyen que vous envisagez pour éviter ces souffrances est la mort,
-> alors vous posez la mort comme **bien‑être**. **La mort comme bien-être**. Il fallait oser.
+> Vous redéfinissez maintenant le bien‑être pour qu’il devienne la mort.  
+> Vous ne l’énoncez pas explicitement, mais c’est exactement ce que votre phrase implique :  
+> vous dites que le soin vise le bien‑être, puis que l’ultime bien‑être consiste à éviter les souffrances — et dans votre cadre, éviter les souffrances signifie la mort.  
+> Autrement dit : vous posez la mort comme bien‑être, sans oser le dire directement.  
 > C’est un renversement ontologique : vous inversez la structure même du réel pour sauver une position.  
-> À ce stade, on peut aussi changer la définition de vie, de mort, de soin, de droit, de vérité, de mensonge, de souffrance…  
+> À ce stade, on peut aussi changer la définition de vie, de mort, de soin, de droit, de vérité, de mensonge, de souffrance… de tous les mots que l’on veut.  
 > Mais quand on change les définitions pour que le réel corresponde à ce qu’on ressent, on ne parle plus du monde réel.  
 > Un soin vise un être vivant ; un acte létal met fin à cet être.  
 > Si vous refusez cette distinction, la discussion ne sert plus à rien.  
 > Je m’arrête là.
+
 
 ---
 
