@@ -206,6 +206,7 @@ Elle moralise.
 Attal ne dit pas que le RN est aveugle.  
 Il dit que le RN est **objectivement aligné avec la Russie**.  
 C’est un saut narratif majeur.
+Mais sans aucune preuve.
 
 ### Le double mouvement : ingérence contre certains, ingérence pour le RN
 
