@@ -275,7 +275,7 @@ il désigne, il moralise, il discipline, il cadre.
 Et surtout, il **neutralise la souveraineté du citoyen**  
 en le plaçant sous surveillance interprétative permanente.
 
-Attendez, ce n'est pas terminé.
+Attendez, ce n'est pas terminé.  
 Quelques heures plus tard, Xavier Bertrand déclare lui aussi être “attaqué par les Russes”  
 et affirme que ces attaques viseraient à “saboter la démocratie”.  
 Le récit s’étend : chaque acteur politique peut désormais s’y inscrire pour se légitimer.  
