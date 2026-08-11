@@ -154,7 +154,7 @@ Dans ce nouveau régime discursif :
 - contester le récit = complicité  
 - refuser la grille de lecture = menace intérieure
 
-(tiens, On retrouve la mécanique du Covid : ceux qui ne répètent pas la version officielle sont immédiatement disqualifiés.)
+(tiens, on retrouve la mécanique du Covid : ceux qui ne répètent pas la version officielle sont immédiatement disqualifiés.)
 
 Le RN n’est pas accusé d’être prorusse.  
 Il est accusé de **ne pas croire suffisamment à l’ingérence**.
