@@ -139,7 +139,7 @@ Le récit d’ingérence change de forme pour survivre, jamais de fonction.
 ## 🟦 EDIT du 11 août 2026  
 ### L’étape suivante : quand le récit exige l’adhésion
 
-Un nouvel article de *L’Express* renforce la mécanique décrite depuis juin :  
+Un nouvel article de *L’Express* renforce la mécanique que je décris depuis juin :  
 **le RN est accusé d’“aveuglement coupable” face aux ingérences russes**,  
 non pour des faits établis, mais pour **ne pas adopter le récit** déjà installé.  
 [Lire l’article](https://www.lexpress.fr/politique/ingerences-russes-laveuglement-coupable-du-rn-avant-la-presidentielle-2027-QPU3G5T6TRBGHPPTQXWJJFNLHY/)
