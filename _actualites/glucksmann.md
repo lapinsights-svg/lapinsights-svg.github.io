@@ -14,7 +14,7 @@ og_image: /images/actualites/glucksmann.png
 ---
 ![glucksmann](/images/actualites/glucksmann.png)
 
-# CAMPAGNE PRESIDENTIELLE SOUS INFLUENCE RUSSE ? 
+# CAMPAGNE PRÉSIDENTIELLE SOUS INFLUENCE RUSSE ? 
 ### Comment un discours peut façonner l’avenir avant même que les faits n’existent
 
 > 🎥 **Vidéo source :**  
@@ -24,16 +24,15 @@ og_image: /images/actualites/glucksmann.png
 
 ## Le futur comme matière première
 
-Dans ce discours,  Raphaël Glucksmann dit que "des campagnes d’une violence inédite viseront les candidats pro‑UE et favoriseront les forces prorusses"  
+Dans ce discours, Raphaël Glucksmann dit que "des campagnes d’une violence inédite viseront les candidats pro‑UE et favoriseront les forces prorusses".  
 Ce qui revient à écrire le scénario avant le tournage.  
-Le réel n’a pas commencé que le récit est déjà verrouillé.  
+Le réel n’a pas commencé que le récit est déjà verrouillé.
 
 La phrase de Raphaël Glucksmann n’est pas une analyse.  
 C’est une **architecture narrative**.
 
 Elle ne décrit pas un risque : elle **installe un cadre**.  
 Un cadre qui précède les faits, les absorbe, les oriente.
-
 
 Dans cette logique, tout devient signe :
 
@@ -81,7 +80,7 @@ Il ne répond pas à un événement : il **crée le contexte** dans lequel tout 
 Le mécanisme est circulaire :
 
 - victoire pro‑UE : "nous avons résisté"  
-- défaite : "l’ingérence a gagné" 
+- défaite : "l’ingérence a gagné"  
 - progression d’un opposant : "influence russe"  
 - scandale : "attaque hostile"
 
@@ -92,117 +91,40 @@ Ce verrouillage n’est pas seulement politique.
 Il touche au cœur de l’État de droit :  
 la liberté de contester sans être assimilé à une puissance étrangère.
 
-> ---
-> ## 🟦 EDIT — en date du 25 juillet 2026  
-> ### Quand une attaque abstraite produit un effet concret
->
-> Un mois après la rédaction de ce texte, un événement est venu **activer le dispositif narratif** :  
-> Édouard Philippe a été visé par une opération de désinformation attribuée à un réseau prorusse.  
-> [Article du Figaro](https://www.lefigaro.fr/elections/presidentielles/edouard-philippe-vise-par-une-operation-de-desinformation-russe-une-premiere-pour-un-candidat-a-la-presidentielle-2027-20260724?)
->
-> L’attaque est décrite comme **mineure**, **peu visible**, **facile à démentir**.  
-> Mais cela n’a aucune importance.  
-> Dans un récit pré‑installé, **la fonction narrative prime sur la gravité du fait**.
->
-> Et voici le point décisif :
->
-> > **" Le gouvernement a présenté un projet de loi pour mieux lutter. 
-> > contre les ingérences, prévoyant de durcir les peines pour les  
-> > personnes diffusantdes fausses nouvelles dans un contexte électoral."**  
->
-> C’est le résultat concret d’une attaque abstraite.
->
-> Un incident faible = une réponse législative forte.  
-> Un fait marginal = une justification majeure.  
-> Une rumeur isolée = un durcissement du droit.
->
-> Le récit ne se contente plus d’absorber les événements :  
-> il **produit des normes**.
->
-> ### Le glissement devient structurel
->
-> Édouard Philippe n’est pas un candidat anti‑UE.  
-> Il n’est pas un relais d’une puissance étrangère.  
-> Pourtant, son nom suffit à activer le cadre narratif de l’ingérence.
->
-> Ce glissement confirme ce que j'ai écrit en juin :
->
-> > "Le récit ne répond pas à un événement : il crée le contexte dans lequel tout événement sera lu."
->
-> Désormais, il crée aussi le contexte dans lequel **la loi sera écrite**.
->
-> En présentant certains candidats comme victimes d’une attaque russe,  
-> le récit transforme leur vulnérabilité en vertu démocratique  
-> et requalifie le vote pour eux en acte de loyauté plutôt qu’en choix politique.  
->
-> ### Le risque pour l’État de droit
->
-> L’incident Philippe montre que :
-> - le récit préemptif fonctionne  
-> - la suspicion devient opératoire  
-> - le cadre narratif produit des effets juridiques  
-> - la démocratie entre dans une logique de **surveillance interprétative**  
-> - la liberté de contester peut être requalifiée en **risque stratégique**
->
-> Ce n’est pas la Russie qui gagne.  
-> C’est le **dispositif narratif** qui devient législatif.
-> ---
-
-
-## La stratégie de tension : un mécanisme éprouvé
-
-Le discours de Glucksmann suit une mécanique connue : la **stratégie de tension**.
-
-1. Annoncer une menace  
-2. Désigner les coupables  
-3. Lire tout événement comme confirmation  
-
-Dans ce cadre, n’importe quel débordement, spontané, opportuniste ou instrumentalisé, peut servir à :
-
-- renforcer le récit officiel  
-- justifier des mesures d’exception  
-- restreindre certaines libertés  
-- délégitimer un camp entier  
-
-Ce n’est pas une prophétie.  
-C’est un **risque structurel**.
-
-Quand un pouvoir désigne un ennemi intérieur, certains se sentent autorisés.  
-D’autres se sentent menacés.  
-La société se tend.  
-La démocratie se fissure.  
-Et dans cette fissure, **l’État de droit peut continuer à glisser**.
-
 ---
 
-## Le vote sous surveillance narrative
+## 🟦 EDIT — 25 juillet 2026  
+### Quand une attaque abstraite produit un effet concret
 
-Le danger n’est pas seulement institutionnel.  
-Il est psychologique.
+Un mois après la rédaction de ce texte, un événement est venu **activer le dispositif narratif** :  
+Édouard Philippe a été visé par une opération de désinformation attribuée à un réseau prorusse.  
+[Article du Figaro](https://www.lefigaro.fr/elections/presidentielles/edouard-philippe-vise-par-une-operation-de-desinformation-russe-une-premiere-pour-un-candidat-a-la-presidentielle-2027-20260724?)
 
-Si l’on répète que :
+L’attaque est décrite comme **mineure**, **peu visible**, **facile à démentir**.  
+Mais cela n’a aucune importance.  
+Dans un récit pré‑installé, **la fonction narrative prime sur la gravité du fait**.
 
-- voter pour un camp c'est voter pour la Russie  
-- critiquer un candidat c'est servir une puissance hostile  
-- contester un récit c'est participer à une manipulation  
+Et voici le point décisif :
 
-… alors le vote n’est plus un choix.  
-C’est un **test de loyauté**.
+> **"Le gouvernement a présenté un projet de loi pour mieux lutter contre les ingérences, prévoyant de durcir les peines pour les personnes diffusant des fausses nouvelles dans un contexte électoral."**
 
-Le citoyen n’est plus souverain.  
-Il devient un acteur suspect, évalué non sur son vote, mais sur sa conformité au récit.
+C’est le résultat concret d’une attaque abstraite.
 
-Une démocratie peut survivre à la conflictualité.  
-Elle survit moins bien à la suspicion généralisée.
+Un incident faible = une réponse législative forte.  
+Un fait marginal = une justification majeure.  
+Une rumeur isolée = un durcissement du droit.
+
+Le récit ne se contente plus d’absorber les événements :  
+il **produit des normes**.
 
 ---
 
 ## 🟦 EDIT — 29 juillet 2026  
 ### Le paradoxe de Schrödinger : protéger un parti qu’on accuse
 
-Une nouvelle actualité complexifie le récit d’ingérence : **Matignon étudie un mécanisme permettant aux banques françaises de prêter au Rassemblement national**,  
+Matignon étudie un mécanisme permettant aux banques françaises de prêter au Rassemblement national,  
 afin d’éviter tout recours à des financements étrangers.  
-Voir  [Article de 21news](https://www.21news.be/matignon-planche-sur-un-dispositif-inedit-pour-financer-la-campagne-du-rn/)
+[Article de 21news](https://www.21news.be/matignon-planche-sur-un-dispositif-inedit-pour-financer-la-campagne-du-rn/)
 
 Ce geste crée un paradoxe : le RN devient **simultanément protégé et suspect**.  
 Trop risqué pour être laissé sans financement, trop risqué pour dépendre de l’étranger,  
@@ -211,11 +133,68 @@ trop risqué pour être accusé d’ingérence si l’État lui-même garantit s
 Ce mouvement ne dissipe pas le récit d’ingérence : il le **déplace**.  
 Si la piste financière se ferme, l’accusation peut se reconfigurer autour de l’ingérence **informationnelle** ou **idéologique**.
 
-Surtout, cette intervention **renforce l’idée que l’ingérence est réelle**, alors même qu’elle n’est pas démontrée.  
-Si l’État doit sécuriser un parti pour éviter une influence étrangère, la menace est installée comme évidence narrative, avant d’être prouvée.
+Le récit d’ingérence change de forme pour survivre, jamais de fonction.
 
-Ce nouvel épisode confirme la mécanique décrite plus haut :  
-**le récit d’ingérence change de forme pour survivre, jamais de fonction.**
+---
+
+## 🟦 EDIT — 11 août 2026  
+### L’étape suivante : quand le récit exige l’adhésion
+
+Un nouvel article de *L’Express* renforce la mécanique que je décris depuis juin :  
+**le RN est accusé d’“aveuglement coupable” face aux ingérences russes**,  
+non pour des faits établis, mais pour **ne pas adopter le récit** déjà installé.  
+[Lire l’article](https://www.lexpress.fr/politique/ingerences-russes-laveuglement-coupable-du-rn-avant-la-presidentielle-2027-QPU3G5T6TRBGHPPTQXWJJFNLHY/)
+
+Ce glissement est décisif :  
+l’ingérence devient **une orthodoxie politique**.
+
+Dans ce nouveau régime discursif :
+
+- douter = faute  
+- demander des preuves = déviance  
+- contester le récit = complicité  
+- refuser la grille de lecture = menace intérieure  
+
+Le RN est accusé de **ne pas croire suffisamment à l’ingérence**.
+
+Le récit ne crée plus seulement le contexte dans lequel les faits seront lus.  
+Il crée le contexte dans lequel **tout désaccord sera jugé**.
+
+### La discipline narrative
+
+L’article illustre une nouvelle fonction du récit :  
+la **discipline narrative**.
+
+Elle impose une lecture obligatoire des événements.  
+Elle transforme une hypothèse en norme.  
+Elle fait de l’adhésion au récit un critère de légitimité démocratique.
+
+Ce mécanisme produit un effet mécanique :
+
+- le récit n’est plus discuté  
+- il devient un test de loyauté  
+- ceux qui ne s’y conforment sont disqualifiés  
+- la suspicion se déplace du fait vers la personne  
+
+Le RN doit prouver qu’il n’est pas influencé par Moscou  
+en adoptant le récit qui le désigne comme influençable.  
+Structure circulaire.  
+Boucle fermée.  
+Piège narratif.
+
+### Le récit comme instrument de normalisation politique
+
+Ce nouvel épisode confirme que le récit d’ingérence n’a plus pour fonction de protéger la démocratie.  
+Il sert à **normaliser le champ politique**.
+
+En exigeant que tous les acteurs reconnaissent la menace russe,  
+le récit devient un outil de tri :
+
+- ceux qui adhèrent = responsables  
+- ceux qui doutent = suspects  
+
+Ce n’est plus un débat.  
+C’est une **procédure de conformité**.
 
 ---
 
@@ -229,10 +208,10 @@ Il repose sur une équation simple :
 - pro‑UE = démocratie  
 - anti‑UE = Russie  
 
-Cette équation n’est pas factuelle, ni neutre.  
+Cette équation n’est pas factuelle, ni neutre.
 
 Elle oriente.  
-Elle conditionne.  
+Elle conditionne.
 
 Et c’est précisément pour cela qu’elle doit être analysée, démontée, exposée.  
 Non pour défendre un camp, mais pour rappeler ceci :
@@ -240,5 +219,5 @@ Non pour défendre un camp, mais pour rappeler ceci :
 **dans une démocratie, le récit ne doit jamais précéder les faits.**  
 **et l’État de droit ne survit pas longtemps à la désignation d’un ennemi intérieur.**
 
-.  
+  
 Céleste R.
