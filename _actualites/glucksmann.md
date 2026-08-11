@@ -263,11 +263,9 @@ Ce mécanisme requalifie le scrutin :
 - voter pro‑UE = voter pour la démocratie  
 
 Ce n’est pas une analyse factuelle.  
-C’est une **architecture narrative**.
+C’est une construction et une sanction narratives.
 
-La vidéo d’Attal n’est pas un commentaire.  
-C’est une **sanction narrative**.  
-Elle montre que le récit d’ingérence est désormais pleinement opérationnel :  
+La vidéo d’Attal montre que le récit d’ingérence est désormais pleinement opérationnel :  
 il désigne, il moralise, il discipline, il cadre.
 
 Et surtout, il **neutralise la souveraineté du citoyen**  
