@@ -51,7 +51,8 @@ En désignant l’extrême droite comme bénéficiaire de l’ingérence, Glucks
 Il parle de **Français**.
 
 Ce déplacement est décisif.  
-Il transforme un camp politique, légal, représenté, inscrit dans le jeu démocratique, en **prolongement d’une puissance hostile**.
+Il transforme un camp politique, légal, représenté, inscrit dans le jeu démocratique,  
+en **prolongement d’une puissance hostile**.
 
 Ce n’est plus un adversaire.  
 C’est un **vecteur**.
@@ -108,8 +109,6 @@ Et voici le point décisif :
 
 > **"Le gouvernement a présenté un projet de loi pour mieux lutter contre les ingérences, prévoyant de durcir les peines pour les personnes diffusant des fausses nouvelles dans un contexte électoral."**
 
-C’est le résultat concret d’une attaque abstraite.
-
 Un incident faible = une réponse législative forte.  
 Un fait marginal = une justification majeure.  
 Une rumeur isolée = un durcissement du droit.
@@ -140,7 +139,7 @@ Le récit d’ingérence change de forme pour survivre, jamais de fonction.
 ## 🟦 EDIT — 11 août 2026  
 ### L’étape suivante : quand le récit exige l’adhésion
 
-Un nouvel article de *L’Express* renforce la mécanique que je décris depuis juin :  
+Un nouvel article de *L’Express* renforce la mécanique décrite depuis juin :  
 **le RN est accusé d’“aveuglement coupable” face aux ingérences russes**,  
 non pour des faits établis, mais pour **ne pas adopter le récit** déjà installé.  
 [Lire l’article](https://www.lexpress.fr/politique/ingerences-russes-laveuglement-coupable-du-rn-avant-la-presidentielle-2027-QPU3G5T6TRBGHPPTQXWJJFNLHY/)
@@ -155,7 +154,8 @@ Dans ce nouveau régime discursif :
 - contester le récit = complicité  
 - refuser la grille de lecture = menace intérieure  
 
-Le RN est accusé de **ne pas croire suffisamment à l’ingérence**.
+Le RN n’est pas accusé d’être prorusse.  
+Il est accusé de **ne pas croire suffisamment à l’ingérence**.
 
 Le récit ne crée plus seulement le contexte dans lequel les faits seront lus.  
 Il crée le contexte dans lequel **tout désaccord sera jugé**.
@@ -182,19 +182,124 @@ Structure circulaire.
 Boucle fermée.  
 Piège narratif.
 
-### Le récit comme instrument de normalisation politique
+---
 
-Ce nouvel épisode confirme que le récit d’ingérence n’a plus pour fonction de protéger la démocratie.  
-Il sert à **normaliser le champ politique**.
+## 🟦 EDIT — 11 août 2026  
+### L’Express installe l’orthodoxie : le RN accusé “d’aveuglement coupable”
 
-En exigeant que tous les acteurs reconnaissent la menace russe,  
-le récit devient un outil de tri :
+Un nouvel article de *L’Express* renforce la mécanique décrite depuis juin :  
+le RN est accusé **d’“aveuglement coupable”** face aux ingérences russes,  
+non pour des faits établis, mais pour **ne pas adopter le récit** déjà installé.  
+[Lire l’article](https://www.lexpress.fr/politique/ingerences-russes-laveuglement-coupable-du-rn-avant-la-presidentielle-2027-QPU3G5T6TRBGHPPTQXWJJFNLHY/)
 
-- ceux qui adhèrent = responsables  
-- ceux qui doutent = suspects  
+Ce glissement est décisif :  
+l’ingérence devient **une orthodoxie politique**.
 
-Ce n’est plus un débat.  
-C’est une **procédure de conformité**.
+Dans ce régime discursif :
+
+- douter = faute  
+- demander des preuves = déviance  
+- contester le récit = complicité  
+- refuser la grille de lecture = menace intérieure  
+
+Le RN n’est pas accusé d’être prorusse.  
+Il est accusé de **ne pas croire suffisamment à l’ingérence**.
+
+L’article de *L’Express* ne démontre pas la menace.  
+Il démontre **l’obligation d’y croire**.
+
+---
+
+## 🟦 EDIT — 11 août 2026 (actualisation 2)  
+### Attal franchit le seuil : le RN désigné comme “allié objectif de la Russie”
+
+Quelques heures plus tard, Gabriel Attal publie une vidéo sur Facebook.  
+Il déclare que :
+
+- **“des ingérences se font en faveur de certains candidats, notamment du RN qui est un allié objectif de la Russie”**  
+- **“on veut voler les élections aux Français”**
+
+[▶️ Voir la vidéo d’Attal](https://www.facebook.com/watch/?ref=search&v=1044124218230897&external_log_id=ce626f8d-02a2-4ede-8e52-edf4dae652bc&q=Attal%20RN)
+
+Cette séquence n’a plus rien à voir avec l’article de *L’Express*.  
+Elle va **plus loin**.  
+Elle **accuse**.  
+Elle **désigne**.  
+Elle **moralise**.
+
+Attal ne dit pas que le RN est aveugle.  
+Il dit que le RN est **objectivement aligné avec la Russie**.  
+C’est un saut narratif majeur.
+
+### Le double mouvement : ingérence contre certains, ingérence pour le RN
+
+Attal affirme simultanément que :
+
+- certains candidats seraient attaqués par la Russie  
+- le RN serait soutenu par la Russie  
+- les Français seraient menacés d’un “vol” électoral
+
+Ce triptyque produit un effet narratif puissant :
+
+1. les candidats pro‑UE deviennent des victimes légitimes  
+2. le RN devient un bénéficiaire suspect  
+3. les Français deviennent un public vulnérable qu’il faut protéger
+
+Le citoyen est implicitement présenté comme influençable.  
+La souveraineté du vote se déplace du citoyen vers le récit.
+
+---
+
+## 🟦 Le paradoxe financier : protéger un parti que l’on accuse
+
+Ce nouvel épisode entre en collision directe avec l’actualité du 29 juillet :  
+l’État étudiait un mécanisme pour **sécuriser le financement du RN** afin d’éviter tout recours à des fonds étrangers.
+
+Ce geste crée une contradiction structurelle :
+
+- on accuse le RN d’être prorusse  
+- on affirme que Moscou le soutient  
+- on dit que son vote serait une menace  
+- mais on organise son financement pour garantir sa souveraineté nationale
+
+Un parti présenté comme dangereux est simultanément traité comme vulnérable.  
+Un parti accusé d’être influencé par l’étranger est protégé pour éviter qu’il ne le soit.
+
+Dans cette dynamique, le récit d’ingérence ne décrit pas une menace.  
+Il **organise une tension**.  
+Il maintient un camp dans une position défensive permanente.  
+Il installe une suspicion qui ne dépend plus des faits.
+
+Ce paradoxe financier confirme ce que j’écrivais dès juin :  
+le récit d’ingérence n’est pas un outil de vigilance.  
+C’est un **dispositif narratif**.  
+Il change de forme pour survivre, jamais de fonction.
+
+---
+
+## 🟦 Le récit comme instrument de cadrage du vote
+
+En affirmant que “on veut voler les élections aux Français”,  
+Attal installe une idée :  
+le vote pourrait être détourné, orienté, capturé.
+
+Ce mécanisme requalifie le scrutin :
+
+- voter RN = voter contre la France  
+- voter pro‑UE = voter pour la démocratie  
+
+Ce n’est pas une analyse factuelle.  
+C’est une **architecture narrative**.
+
+La vidéo d’Attal n’est pas un commentaire.  
+C’est une **sanction narrative**.  
+Elle montre que le récit d’ingérence est désormais pleinement opérationnel :  
+il désigne, il moralise, il discipline, il cadre.
+
+Et surtout, il **neutralise la souveraineté du citoyen**  
+en le plaçant sous surveillance interprétative permanente.
+
+
 
 ---
 
@@ -213,11 +318,30 @@ Cette équation n’est pas factuelle, ni neutre.
 Elle oriente.  
 Elle conditionne.
 
-Et c’est précisément pour cela qu’elle doit être analysée, démontée, exposée.  
-Non pour défendre un camp, mais pour rappeler ceci :
+Les mises à jour de juillet et d’août montrent que le récit d’ingérence ne se contente plus de cadrer les événements.  
+Il **produit des normes**,  
+il **désigne des coupables**,  
+il **moralise le vote**,  
+il **installe une orthodoxie**.
 
-**dans une démocratie, le récit ne doit jamais précéder les faits.**  
-**et l’État de droit ne survit pas longtemps à la désignation d’un ennemi intérieur.**
+Et surtout, il crée des paradoxes :  
+accuser un parti d’être prorusse tout en organisant son financement pour éviter qu’il dépende de l’étranger.  
+Désigner un camp comme menace stratégique tout en le protégeant administrativement.  
+Affirmer une ingérence sans en démontrer les mécanismes.
 
+Pour moi, cette contradiction structurelle révèle la nature du dispositif.  
+Elle montre que l’ingérence, telle qu’elle est présentée dans le débat public,  
+fonctionne moins comme une menace démontrée que comme un théâtre narratif.  
+Un théâtre qui organise la tension,  
+qui moralise la loyauté,  
+qui requalifie le vote,  
+qui place le citoyen sous surveillance interprétative.
+
+Dans une démocratie, le récit ne doit jamais précéder les faits.  
+Et l’État de droit ne survit pas longtemps à la désignation d’un ennemi intérieur.
+---
   
 Céleste R.
+
+  
+
