@@ -17,7 +17,7 @@ og_image: /images/actualites/glucksmann.png
 # CAMPAGNE PRÉSIDENTIELLE SOUS INFLUENCE RUSSE ? 
 ### Comment un discours peut façonner l’avenir avant même que les faits n’existent
 
-> 🎥 **Vidéo source :**  
+>  **Vidéo source :**  
 > [Déclaration de Raphaël Glucksmann](https://x.com/BFMTV/status/2065852742178861129)
 
 ---
@@ -94,7 +94,7 @@ la liberté de contester sans être assimilé à une puissance étrangère.
 
 ---
 
-## 🟦 EDIT — 25 juillet 2026  
+## 🟦 EDIT du 25 juillet 2026  
 ### Quand une attaque abstraite produit un effet concret
 
 Un mois après la rédaction de ce texte, un événement est venu **activer le dispositif narratif** :  
@@ -118,7 +118,7 @@ il **produit des normes**.
 
 ---
 
-## 🟦 EDIT — 29 juillet 2026  
+## 🟦 EDIT du 29 juillet 2026  
 ### Le paradoxe de Schrödinger : protéger un parti qu’on accuse
 
 Matignon étudie un mécanisme permettant aux banques françaises de prêter au Rassemblement national,  
@@ -136,7 +136,7 @@ Le récit d’ingérence change de forme pour survivre, jamais de fonction.
 
 ---
 
-## 🟦 EDIT — 11 août 2026  
+## 🟦 EDIT du 11 août 2026  
 ### L’étape suivante : quand le récit exige l’adhésion
 
 Un nouvel article de *L’Express* renforce la mécanique décrite depuis juin :  
@@ -184,33 +184,7 @@ Piège narratif.
 
 ---
 
-## 🟦 EDIT — 11 août 2026  
-### L’Express installe l’orthodoxie : le RN accusé “d’aveuglement coupable”
-
-Un nouvel article de *L’Express* renforce la mécanique décrite depuis juin :  
-le RN est accusé **d’“aveuglement coupable”** face aux ingérences russes,  
-non pour des faits établis, mais pour **ne pas adopter le récit** déjà installé.  
-[Lire l’article](https://www.lexpress.fr/politique/ingerences-russes-laveuglement-coupable-du-rn-avant-la-presidentielle-2027-QPU3G5T6TRBGHPPTQXWJJFNLHY/)
-
-Ce glissement est décisif :  
-l’ingérence devient **une orthodoxie politique**.
-
-Dans ce régime discursif :
-
-- douter = faute  
-- demander des preuves = déviance  
-- contester le récit = complicité  
-- refuser la grille de lecture = menace intérieure  
-
-Le RN n’est pas accusé d’être prorusse.  
-Il est accusé de **ne pas croire suffisamment à l’ingérence**.
-
-L’article de *L’Express* ne démontre pas la menace.  
-Il démontre **l’obligation d’y croire**.
-
----
-
-## 🟦 EDIT — 11 août 2026 (actualisation 2)  
+## 🟦 EDIT du 11 août 2026 (actualisation 2)  
 ### Attal franchit le seuil : le RN désigné comme “allié objectif de la Russie”
 
 Quelques heures plus tard, Gabriel Attal publie une vidéo sur Facebook.  
@@ -250,7 +224,7 @@ La souveraineté du vote se déplace du citoyen vers le récit.
 
 ---
 
-## 🟦 Le paradoxe financier : protéger un parti que l’on accuse
+## Le paradoxe financier : protéger un parti que l’on accuse
 
 Ce nouvel épisode entre en collision directe avec l’actualité du 29 juillet :  
 l’État étudiait un mécanisme pour **sécuriser le financement du RN** afin d’éviter tout recours à des fonds étrangers.
@@ -277,7 +251,7 @@ Il change de forme pour survivre, jamais de fonction.
 
 ---
 
-## 🟦 Le récit comme instrument de cadrage du vote
+## Le récit comme instrument de cadrage du vote
 
 En affirmant que “on veut voler les élections aux Français”,  
 Attal installe une idée :  
@@ -300,7 +274,6 @@ Et surtout, il **neutralise la souveraineté du citoyen**
 en le plaçant sous surveillance interprétative permanente.
 
 
-
 ---
 
 ## Conclusion
@@ -318,7 +291,7 @@ Cette équation n’est pas factuelle, ni neutre.
 Elle oriente.  
 Elle conditionne.
 
-Les mises à jour de juillet et d’août montrent que le récit d’ingérence ne se contente plus de cadrer les événements.  
+Les mises à jour de juillet et d’août montrent aussi que le récit d’ingérence ne se contente plus de cadrer les événements.  
 Il **produit des normes**,  
 il **désigne des coupables**,  
 il **moralise le vote**,  
