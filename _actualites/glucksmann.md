@@ -189,7 +189,7 @@ Piège narratif.
 ## 🟦 EDIT du 11 août 2026 (actualisation 2)  
 ### Attal franchit le seuil : le RN désigné comme “allié objectif de la Russie”
 
-Quelques heures plus tard, Gabriel Attal publie une vidéo sur Facebook.  
+Dans le même temps, Gabriel Attal publie une vidéo sur Facebook.  
 Il déclare que :
 
 - **“des ingérences se font en faveur de certains candidats, notamment du RN qui est un allié objectif de la Russie”**  
