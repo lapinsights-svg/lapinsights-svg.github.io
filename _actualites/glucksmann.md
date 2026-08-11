@@ -197,9 +197,9 @@ Il déclare que :
 
 Cette séquence n’a plus rien à voir avec l’article de *L’Express*.  
 Elle va **plus loin**.  
-Elle **accuse**.  
-Elle **désigne**.  
-Elle **moralise**.
+Elle accuse.  
+Elle désigne.  
+Elle moralise.
 
 Attal ne dit pas que le RN est aveugle.  
 Il dit que le RN est **objectivement aligné avec la Russie**.  
@@ -310,6 +310,7 @@ qui place le citoyen sous surveillance interprétative.
 
 Dans une démocratie, le récit ne doit jamais précéder les faits.  
 Et l’État de droit ne survit pas longtemps à la désignation d’un ennemi intérieur.
+
 ---
   
 Céleste R.
