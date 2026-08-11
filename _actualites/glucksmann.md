@@ -225,6 +225,7 @@ Ce triptyque produit un effet narratif puissant :
 Le citoyen est implicitement présenté comme influençable.  
 La souveraineté du vote se déplace du citoyen vers le récit.
 
+
 ---
 
 ## Le paradoxe financier : protéger un parti que l’on accuse
@@ -274,6 +275,12 @@ il désigne, il moralise, il discipline, il cadre.
 Et surtout, il **neutralise la souveraineté du citoyen**  
 en le plaçant sous surveillance interprétative permanente.
 
+Attendez, ce n'est pas terminé.
+Quelques heures plus tard, Xavier Bertrand déclare lui aussi être “attaqué par les Russes”  
+et affirme que ces attaques viseraient à “saboter la démocratie”.  
+Le récit s’étend : chaque acteur politique peut désormais s’y inscrire pour se légitimer.  
+Dans ce théâtre, chaque candidat se proclame rempart de la démocratie,  
+et chaque désaccord devient une menace russe.
 
 ---
 
