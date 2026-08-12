@@ -20,8 +20,8 @@ Elle psychologise un problème social.
 Ce n’est pas l’enfant qui déborde.  
 C’est la société qui l’écrase.
 
-L’enfant n’est pas "nsupportable".  
-Il réagit à un environnement saturé :  
+L’enfant n’est pas "insupportable",  
+il réagit à un environnement saturé :  
 parents épuisés, école délabrée, communauté absente.  
 Goldman déplace la faute vers l’individu.  
 Elle exonère les structures.  
