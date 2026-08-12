@@ -3,10 +3,10 @@ title: "Le symptôme no‑kids"
 date: 2026-08-12
 categories: idees
 resume: "Analyse structurelle de la dérive no‑kids et de la logique d’exclusion contemporaine"
-og_image: /images/idees/no-kids.png
+og_image: /images/idees/nokids.webp
 ---
 
-![no-kids](/images/idees/no-kids.png)
+![nokids](/images/idees/nokids.webp)
 
 # Le symptôme “no‑kids” comme révélateur structurel
 
