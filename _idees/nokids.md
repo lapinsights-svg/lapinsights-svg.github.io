@@ -52,7 +52,6 @@ bruit, temps, imprévu, vulnérabilité.
 Notre société exige :  
 silence, optimisation, linéarité.
 
-Le conflit est structurel.  
 Le système s’est rigidifié.  
 Ce n’est pas l’enfant qui change.  
 C’est la société qui ne tolère plus ce qu’il représente.
