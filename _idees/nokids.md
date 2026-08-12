@@ -10,6 +10,10 @@ og_image: /images/idees/nokids.webp
 
 # Le symptôme “no‑kids” comme révélateur structurel
 
+**Lien vers l’article du Figaro :**  
+[Article du Figaro - Caroline Goldman et les espaces no‑kids](https://www.lefigaro.fr/actualite-france/caroline-goldman-la-proliferation-des-espaces-no-kids-est-la-consequence-du-laxisme-educatif-20260123?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook)
+
+
 **Dangereuse dérive…**  
 Caroline Goldman inverse la causalité.  
 Elle psychologise un problème social.  
@@ -122,5 +126,5 @@ fatigue, rigidité, incapacité à accueillir le réel.
 
 ---
 
-**Lien vers l’article du Figaro :**  
-<https://www.lefigaro.fr/actualite-france/caroline-goldman-la-proliferation-des-espaces-no-kids-est-la-consequence-du-laxisme-educatif-20260123?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook>
+Céleste R.
+
