@@ -61,8 +61,8 @@ C’est la société qui ne tolère plus ce qu’il représente.
 ## Les zones tampons
 
 Les espaces *no‑kids* protègent un dispositif qui ne tient plus.  
-C'est la même logique que :  
-les bancs anti‑SDF, les politiques anti‑jeunes, les dispositifs anti‑errance.
+Même logique que :  
+bancs anti‑SDF, politiques anti‑jeunes, dispositifs anti‑errance.
 
 On expulse ce qui ralentit.  
 On expulse ce qui ne s’ajuste pas.  
@@ -70,6 +70,13 @@ On expulse ce qui rappelle la fragilité.
 
 L’enfant est le premier sacrifié :  
 visible, bruyant, non‑compressible.
+
+Cette logique s’étend désormais au vivant le plus ordinaire.  
+La commune de Boivre‑la‑Vallée vient d’adopter un arrêté contre les aboiements répétés de chiens, au nom de la “tranquillité” et de la “qualité de vie”.  
+Ce glissement est révélateur : une société qui réglemente le bruit naturel d’un animal ne cherche plus à composer avec le réel, mais à le **neutraliser**.  
+L’intolérance ne vise plus seulement l’humain fragile : elle vise **tout ce qui déborde**, même un chien qui… vit.
+
+[Article – Arrêté contre les aboiements de chiens](https://infoccitanie.fr/un-arrete-contre-les-aboiements-de-chiens-dans-cette-commune/#google_vignette)
 
 ---
 
