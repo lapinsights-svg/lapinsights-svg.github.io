@@ -2,13 +2,13 @@
 title: "Le symptôme no‑kids"
 date: 2026-08-12
 categories: idees
-resume: "Analyse structurelle de la dérive no‑kids et de la logique d’exclusion contemporaine"
+resume: "Analyse de la dérive no‑kids et de la logique d’exclusion contemporaine"
 og_image: /images/idees/nokids.webp
 ---
 
 ![nokids](/images/idees/nokids.webp)
 
-# Le symptôme “no‑kids” comme révélateur structurel
+# Le symptôme “no‑kids” comme révélateur d'un système
 
 **Lien vers l’article du Figaro :**  
 [Article du Figaro - Caroline Goldman et les espaces no‑kids](https://www.lefigaro.fr/actualite-france/caroline-goldman-la-proliferation-des-espaces-no-kids-est-la-consequence-du-laxisme-educatif-20260123?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook)
