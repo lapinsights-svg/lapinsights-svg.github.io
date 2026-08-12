@@ -62,8 +62,8 @@ C’est la société qui ne tolère plus ce qu’il représente.
 ## Les zones tampons
 
 Les espaces *no‑kids* protègent un dispositif qui ne tient plus.  
-Même logique que :  
-bancs anti‑SDF, politiques anti‑jeunes, dispositifs anti‑errance.
+C'est la même logique que :  
+les bancs anti‑SDF, les politiques anti‑jeunes, les dispositifs anti‑errance.
 
 On expulse ce qui ralentit.  
 On expulse ce qui ne s’ajuste pas.  
