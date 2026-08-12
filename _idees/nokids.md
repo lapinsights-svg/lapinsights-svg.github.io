@@ -44,7 +44,7 @@ fatigue, saturation, intolérance au réel.
 
 ---
 
-## ⚡ L’enfant, incompatible avec la cadence
+## L’enfant, incompatible avec la cadence
 
 Un enfant apporte :  
 bruit, temps, imprévu, vulnérabilité.
