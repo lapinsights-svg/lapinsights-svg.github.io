@@ -20,7 +20,7 @@ Elle ne décrit pas un fait, mais une intention.
 Elle ne mesure pas un contenu, mais un soupçon.  
 Le dispositif cesse d’être technique : il devient normatif.
 
-L’« ingérence intérieure » élargit encore le cadre.  
+L’"ingérence intérieure" élargit encore le cadre.  
 Ce n’est plus l’action d’un État hostile : c’est tout discours jugé perturbateur.  
 La sécurité devient un langage qui absorbe le politique.  
 Le vocabulaire fabrique le périmètre du pensable.
@@ -32,9 +32,9 @@ Trier finit toujours par exclure.
 
 ## Le risque : l’extension du pouvoir de qualification
 
-Le rapport n° 767 ne crée pas un outil : il crée un **pouvoir**.  
+Le rapport n° 767 ne crée pas un outil, mais un **pouvoir**.  
 Un pouvoir de tri, de catégorisation, d’interprétation des intentions.  
-Dès que l’État nomme la « bonne » information, il institue la mauvaise.  
+Dès que l’État nomme la "bonne" information, il institue la mauvaise.  
 Et ce pouvoir, une fois créé, ne se retire jamais.
 
 Le risque n’est pas la censure explicite.  
@@ -46,7 +46,7 @@ La régulation cesse d’être un garde‑fou : elle devient une matrice du cont
 
 Le rapport n° 767 a été prolongé par un second texte :  
 **Rapport d’information n° 875 (2025‑2026), déposé le 8 juillet 2026**,  
-consacré aux « zones grises de l’information ».
+consacré aux "zones grises de l’information".
 
 Ce second rapport élargit le cadre :  
 - intégration dans le **Bouclier européen de la démocratie** (2025),  
