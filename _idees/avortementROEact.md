@@ -48,9 +48,9 @@ Conséquences :
 - pouvoir discrétionnaire du médecin.
 
 La loi de 2026 ne dit plus :  
-« après vingt-quatre semaines, seulement si… ».  
+"après vingt-quatre semaines, seulement si…".  
 Elle dit :  
-**« quand le médecin le juge nécessaire ».**
+**"quand le médecin le juge nécessaire".**
 
 C’est un changement de nature.  
 Le ROE Act encadrait.  
@@ -65,11 +65,11 @@ La loi de 2026 crée une **zone blanche** :
 aucune limite haute, aucune condition, aucune protection spécifique du fœtus viable.
 
 Le droit ne dit plus :  
-« interdit après trente semaines ».  
+"interdit après trente semaines".  
 Il ne dit plus :  
-« interdit après quarante semaines ».  
+"interdit après quarante semaines".  
 Il dit :  
-**« décision médicale ».**
+**"décision médicale".**
 
 Dans le droit américain, la santé inclut le physique, le mental, l’émotionnel.  
 Le médecin devient l’unique seuil.  
