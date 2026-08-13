@@ -142,7 +142,7 @@ La civilisation n’est pas un décor.
 C’est une hiérarchie de valeurs.  
 Quand la vie cesse d’être au sommet, tout le reste s’effondre.
 
-C’est cela, l’ensauvagement : la disparition des limites qui faisaient de nous des humains.  
+C’est ce que j'appelle **l’ensauvagement** : la disparition des limites qui faisaient de nous des humains.  
 Une barbarie froide, administrative, sans cris ni sauvages, mais avec des formulaires et des protocoles.  
 Une barbarie qui ne se voit pas, mais qui agit.  
 Quand la mort devient gestion, l’humain devient variable.  
