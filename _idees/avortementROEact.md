@@ -4,10 +4,10 @@ resume: "Quand une civilisation légalise la mort des vulnérables et des enfant
 layout: article
 date: 2026-08-13
 categories: idees
-og_image: /images/idees/ROEAct.webp
+og_image: /images/idees/avortement.webp
 ---
 
-![ROEAct](/images/idees/ROEAct.webp)
+![ROEAct](/images/idees/avortement.webp)
 
 # Le point de rupture civilisationnel
 
