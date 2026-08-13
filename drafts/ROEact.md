@@ -14,6 +14,9 @@ og_image: /images/idees/ROEAct.webp
 ## 1. Le réel juridique
 
 Le Massachusetts a adopté le ROE Act le 29 décembre 2020.  
+
+[Article du Figaro – Massachusetts et loi sur l’avortement](https://www.lefigaro.fr/actualite-france/etats-unis-le-massachusetts-promulgue-une-loi-permettant-l-avortement-jusqu-au-terme-de-la-grossesse-sur-decision-d-un-medecin-20260813)
+
 La loi fixe un seuil à vingt-quatre semaines.  
 Avant ce seuil, l’avortement est libre.  
 Après ce seuil, il devient possible sans limite haute, si un médecin invoque un danger pour la vie de la mère, un danger grave pour sa santé physique, mentale ou émotionnelle, ou une anomalie létale du fœtus.
