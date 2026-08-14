@@ -49,7 +49,7 @@ L’éducation positive “pure” n’est pas représentative des familles fran
 La majorité des foyers pratiquent une éducation mixte, pragmatique, loin des caricatures qu’elle mobilise.
 
 Surtout : son explication ne tient pas face aux faits.  
-Dans certains espaces — comme la SNCF — ce sont **tous** les enfants qui sont exclus.  
+Dans certains espaces - comme la SNCF - ce sont **tous** les enfants qui sont exclus.  
 Peu importe leur éducation.  
 Peu importe leur milieu.  
 Peu importe leur comportement.
