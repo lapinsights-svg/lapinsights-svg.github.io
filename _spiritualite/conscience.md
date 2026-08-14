@@ -33,7 +33,7 @@ La création est le corps ; l’homme est la conscience.
 
 ## La fonction réflexive de l’homme
 
-Dans la Bible, l’homme est le seul être créé **« à l’image »** : non une forme, mais une fonction.  
+Dans la Bible, l’homme est le seul être créé **"à l’image"** : non une forme, mais une fonction.  
 L’"image" désigne la capacité de **réfléchir la source**, de renvoyer la lumière, de faire retour.  
 La création est le corps ; l’homme en est la **conscience**.
 
