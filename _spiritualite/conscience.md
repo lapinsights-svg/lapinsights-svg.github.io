@@ -103,6 +103,27 @@ il est la **fonction réflexive du Fils** dans le monde.
 L’"image" est la vocation ontologique de l’homme :  
 refléter la source, réunir la polarité, restaurer l’unité de l’Arbre dans la conscience.
 
+### L’idole : l’image retournée
+
+Si l’homme est créé "à l’image", c’est-à-dire porteur de la fonction réflexive,
+il peut aussi retourner cette fonction vers la densité.
+La Bible dit alors que les hommes se fabriquent des images "selon leur propre entendement" :
+non des reflets de la source, mais des reflets de leur conscience figée.
+
+
+L’idole n’est pas un autre culte.
+C’est la fonction réflexive figée.
+Une image qui ne renvoie plus la lumière,
+qui ne fait plus retour,
+qui absorbe au lieu de réfléchir.
+
+Quand l’homme ne peut plus être l’image de Dieu,
+il devient l’image de sa propre densité.
+L’idole est l’image sans axe,
+l’image sans retour,
+l’image où l'articulation ne s’ouvre plus.
+
+
 ---
 Céleste R.
 
