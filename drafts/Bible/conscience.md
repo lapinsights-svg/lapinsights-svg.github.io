@@ -1,7 +1,7 @@
 ---
 title: "Ontologie de la conscience"
 resume: "La fonction réflexive de l’homme"
-date: 2026-07-12
+date: 2026-08-14
 tags:
   - Genèse
   - Ontologie
@@ -14,7 +14,7 @@ tags:
 # Ontologie de la conscience  
 
 
-> Ce fichier répond directement au premier : [Eden](eden.md).  
+> Ce fichier répond directement au premier : [Éden](https://lapinsights.org/spiritualite/eden/).   
 > Il en déploie l’axe intérieur : la conscience comme lieu de réunion des deux arbres.
 
 
