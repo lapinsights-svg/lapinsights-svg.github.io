@@ -9,7 +9,11 @@ tags:
   - Polarité
   - Arbre de Vie
   - Image
+og_image: /images/spiritualite/conscience.webp
 ---
+
+![conscience](/images/spiritualite/conscience.webp)
+
 
 # Ontologie de la conscience  
 
@@ -49,7 +53,7 @@ C’est pourquoi le “mariage” biblique n’est pas biologique : il désigne 
 L’homme n’est donc pas seulement un être vivant : il est la **conscience de la création**, le miroir du Fils dans le monde, celui par qui l’unité se reconnaît et se rétablit.  
 La fonction réflexive est sa vocation ontologique : refléter la source, réunir la polarité, restaurer l’unité de l’Arbre dans la conscience.
 
-## Le sens de l’« image » dans la Genèse
+## Le sens de l’"image" dans la Genèse
 
 Dans la Genèse, l’homme est le seul être créé **"à l’image"**.  
 Ce terme n’a rien de biologique : il ne désigne ni une forme, ni une apparence.  
@@ -77,3 +81,6 @@ L’"image" est la vocation ontologique de l’homme : refléter la source, réu
 
 ---
 Céleste R.
+
+Retour au sommaire :  
+[Sommaire structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
