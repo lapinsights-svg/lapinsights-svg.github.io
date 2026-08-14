@@ -164,13 +164,47 @@ son action reste confinée à une couche atmosphérique qui n’a aucun contact 
 
 ### Pourquoi HAARP ne peut pas modifier le climat
 
-HAARP ne peut pas modifier le climat parce que son action se limite à chauffer une zone minuscule de plasma dans l’ionosphère,  
+HAARP ne peut pas modifier le climat parce que son action  
+se limite à chauffer une zone minuscule de plasma dans l’ionosphère,  
 quelques mètres cubes de plasma à 200–300 km d’altitude,
 une couche située des centaines de kilomètres au‑dessus de la météo,  
 avec une énergie des millions de fois trop faible pour influencer la troposphère (0–12 km)    
 où se forment les nuages, les vents et les phénomènes climatiques.
 
 ---
+
+## La limite physique :  
+pourquoi ce ne sera jamais possible
+
+Pour déclencher un séisme,  
+il faudrait libérer l’énergie de milliers de bombes nucléaires.  
+
+Pour créer un ouragan,  
+il faudrait chauffer des centaines de kilomètres d’océan.  
+
+Pour fabriquer un dôme de chaleur,  
+il faudrait déplacer des masses d’air continentales.  
+
+Pour piloter une mousson,  
+il faudrait modifier la circulation atmosphérique globale.  
+
+Pour provoquer une sécheresse,  
+il faudrait changer des régimes de pression  
+sur des milliers de kilomètres carrés.
+
+Aucune technologie imaginable ne peut :  
+
+déplacer autant d’énergie sur des volumes aussi gigantesques,  
+avec une précision locale, dans un système chaotique,  
+sans détruire la planète au passage.
+
+Ce n’est pas une question de “pas encore”.  
+C’est une question de **jamais**.  
+Parce que la physique ne le permet pas.
+
+---
+
+
 
 ## Tempête de 1999, Haïti : l’argument du vide
 
