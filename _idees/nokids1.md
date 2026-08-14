@@ -11,7 +11,7 @@ og_image: /images/idees/nokids.webp
 # Le symptôme “no‑kids” comme révélateur d'un système
 
 **Lien vers l’article du Figaro :**  
-[Article du Figaro - Caroline Goldman et les espaces no‑kids](https://www.lefigaro.fr/actualite-france/caroline-goldman-la-proliferation-des-espaces-no-kids-est-la-consequence-du-laxisme-educatif-20260123?utm_content=photo&utm_term=lefigaro&utm_campaign=Nonli&utm_medium=Social&utm_source=Facebook)
+[Article du Figaro - Caroline Goldman et les espaces no‑kids](https://www.lefigaro.fr/actualite-france/caroline-goldman-la-proliferation-des-espaces-no-kids-est-la-consequence-du-laxisme-educatif-20260123?)
 
 
 **Dangereuse dérive…**  
@@ -30,6 +30,34 @@ Elle maquille l’autorité punitive en "frustration structurante".
 Elle confond limite et domination.  
 Cadre et verticalité.  
 Éducation et dressage.
+
+---
+
+# Mise à jour du 14‑06‑2026  
+*(Ajout d’un second angle de lecture proposé par Caroline Goldman, et de sa critique.)*
+
+## Le nouvel angle de Goldman : une explication qui ne correspond pas à la réalité
+
+Goldman ajoute un second axe : la parentalité positive dévoyée.  
+Elle affirme que les enfants seraient devenus ingérables à cause d’un excès de négociation, d’un manque de cadre, d’une confusion entre bienveillance et laxisme.
+
+**Lien vers l’article associé :**  
+[Article du Figaro – “Ma fille se coupe les cheveux en quatre…”](https://www.lefigaro.fr/actualite-france/ma-fille-se-coupe-les-cheveux-en-quatre-pour-tout-c-est-ca-la-grande-avancee-l-education-positive-dix-ans-d-un-grand-malentendu-francais-20260812?)
+
+Mais cette lecture repose sur un modèle éducatif **minoritaire**.  
+L’éducation positive “pure” n’est pas représentative des familles françaises.  
+La majorité des foyers pratiquent une éducation mixte, pragmatique, loin des caricatures qu’elle mobilise.
+
+Surtout : son explication ne tient pas face aux faits.  
+Dans certains espaces — comme la SNCF — ce sont **tous** les enfants qui sont exclus.  
+Peu importe leur éducation.  
+Peu importe leur milieu.  
+Peu importe leur comportement.
+
+On ne peut pas expliquer une exclusion totale par une cause minoritaire.  
+Le phénomène ne vise pas un type d’enfant : il vise **l’enfant en tant que vivant non‑compressible**.  
+Ce n’est pas un problème de parentalité.  
+C’est un problème de seuil social.
 
 ---
 
@@ -133,4 +161,3 @@ fatigue, rigidité, incapacité à accueillir le réel.
 ---
 
 Céleste R.
-
