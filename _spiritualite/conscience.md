@@ -42,7 +42,10 @@ Nommer, c’est percevoir, distinguer, signifier : c’est l’acte par lequel l
 
 L’homme porte ainsi la structure du Fils : dans le Nouveau Testament, le Fils est celui qui reflète le Père, le manifeste, le révèle.  
 Jean dit que la lumière véritable **éclaire tout homme** : la lumière du Fils devient conscience dans l’homme.  
-Paul dit que tout est créé **en** et **pour** le Fils : l’homme vient du Fils et retourne au Fils, portant sa structure.
+Paul dit que tout est créé **en** et **pour** le Fils : 
+L’homme procède du Fils et reconduit le Fils à la conscience.  
+Il n’est pas autre que lui,  
+mais le point où le Fils se réfléchit et se reconnaît.
 
 La création porte les deux axes - unité et dualité - mais passivement.  
 L’homme est le seul à pouvoir les **réunir consciemment**.  
