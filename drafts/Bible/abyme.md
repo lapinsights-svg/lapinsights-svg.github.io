@@ -55,3 +55,8 @@ Une mise en abyme systémique.
 Un seul schème.  
 Des variations.  
 Une structure.
+
+
+---
+
+Céleste R.
