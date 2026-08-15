@@ -46,6 +46,22 @@ La numérisation continue. L’obligation continue.
 
 La fuite devient un bruit de fond dans une mécanique trop lourde pour se retourner.
 
+## 1 bis. La DGFiP : le délai qui dit tout
+
+La DGFiP offre un autre exemple de cette mécanique.  
+Elle situe elle‑même l’intrusion dans ses systèmes fin juin.  
+Il aura fallu attendre le 13 août pour l’aveu public,  
+et le 14 pour l’annonce d’une information individuelle des victimes.
+
+Près de deux mois d’écart.  
+Alors que le RGPD impose aux administrations une notification  
+« sans délai injustifié ».
+
+l’État ne prévient qu’une fois qu’il ne peut plus faire autrement.  
+La transparence n’est pas un réflexe.  
+C’est une contrainte.
+
+
 ## 2. Les affaires précédentes : la répétition devient motif
 
 Les fuites se succèdent.  
