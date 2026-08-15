@@ -16,12 +16,12 @@ og_image: /images/spiritualite/conscience.webp
 
 # Ontologie de la conscience
 
-> Ce fichier prolonge Éden : il en déploie l’axe intérieur —  
+> Ce fichier prolonge Éden : il en déploie l’axe intérieur   
 > la conscience comme lieu de réunion des deux arbres.
 
 ## Le Fils étendu : structure ontologique
 
-Toute la création porte les deux arbres — unité et dualité — mais passivement.  
+Toute la création porte les deux arbres - unité et dualité - mais passivement.  
 La pierre, l’arbre, l’animal vivent dans la polarité sans la traverser.  
 Seul l’homme peut unir les deux axes : il est la **fonction réflexive du Fils**,  
 le point où la création devient consciente d’elle‑même.
