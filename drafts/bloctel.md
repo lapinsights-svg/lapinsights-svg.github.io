@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Quand l’État laisse fuir les données" 
+title: "Bloctel, quand l’État laisse fuir les données" 
 date: 2026-08-13
 categories: idees
 tags:
@@ -26,7 +26,7 @@ Une fissure dans le vernis.
 Une preuve que la machine avance sans regarder ce qu’elle menace.
 
 
-## 1. Bloctel : la faille qui montre la structure
+## 1. La faille qui montre la structure
 
 Trois millions de numéros évaporés.  
 Service public.  
