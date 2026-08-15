@@ -50,7 +50,8 @@ La fonction réflexive consiste à **voir** la polarité,
 **réunir** les deux axes dans une seule circulation.
 
 Le “mariage” biblique désigne cette réunion :  
-non un acte biologique, mais la restauration de l’unité dans la conscience.
+non un acte biologique ou social, 
+mais la restauration de l’unité dans la conscience.
 
 Ainsi, l’homme est la **conscience de la création**,  
 le miroir du Fils dans le monde,  
