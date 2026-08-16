@@ -1,7 +1,7 @@
 ---
 title: "Esprit vs Conscience : la clé de la transmission christologique"
 resume: "Distinction ontologique UCEM–Bible entre esprit et conscience"
-date: "2026-08-03"
+date: "2026-08-16"
 layout: article
 categories:
   - spiritualite
@@ -17,7 +17,7 @@ tags:
 
 # Esprit vs Conscience : la clé de la transmission christologique
 
-Dans UCEM comme dans la Bible, la distinction entre **esprit** et **conscience** n’est pas psychologique : elle est ontologique.  
+Dans Un Cours en Miracles, comme dans la Bible, la distinction entre **esprit** et **conscience** n’est pas psychologique : elle est ontologique.  
 Elle détermine la possibilité même de la correction, sa transmission, et la légèreté du joug.
 
 ## 1. La conscience : phénomène de la fracture
