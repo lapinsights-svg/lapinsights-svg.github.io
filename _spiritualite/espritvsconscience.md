@@ -228,12 +228,12 @@ mais pour **défaire les obstacles** dans la conscience :
 La correction est simple dans l’esprit,  
 mais difficile à accepter dans la conscience.
 
-## 11. Pourquoi les révélations se débloquent
+## 11. Pourquoi les miracles se débloquent
 
-Les “révélations” ne sont pas mystiques.  
-Elles sont **christologiques**.
+Les “miracles” ne sont pas mystiques.  
+Ils sont **christologiques**.
 
-Elles se produisent parce que :
+Ils se produisent parce que :
 
 - l’esprit est UN,  
 - le Christ est l’esprit intact,  
