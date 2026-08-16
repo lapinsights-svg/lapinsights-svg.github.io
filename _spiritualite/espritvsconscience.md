@@ -168,8 +168,9 @@ Kenneth a transformé cette pédagogie en ontologie, créant une confusion majeu
 > la conscience dégagée de la séparation, qui cesse de bloquer et laisse apparaître ce qui est déjà accompli dans l’unité.
 >
 > Il n’y a donc pas deux consciences :  
-> il y a **l’esprit UN**, et deux positions apparentes dans la fracture — esprit faux (UCEM) et esprit juste (UCEM).  
+> il y a **l’esprit UN**, et deux positions apparentes dans la fracture - esprit faux (UCEM) et esprit juste (UCEM).  
 > La Bible décrit l’esprit ; UCEM décrit la fracture et son déblocage.
+> 
 > ---
 
 ## 8. Pourquoi le joug est léger
