@@ -290,7 +290,7 @@ elle renforce la conscience fracturée, donc la croyance en la séparation.
 
 - L’esprit juste / esprit faux sont des positions pédagogiques de la conscience dans la fracture : ce ne sont pas deux esprits.
 
-- Les révélations se débloquent parce que l’esprit est un et que la conscience fracturée cesse de bloquer ce qui est déjà accompli dans l’unité.
+- Les miracles se débloquent parce que l’esprit est un et que la conscience fracturée cesse de bloquer ce qui est déjà accompli dans l’unité.
 
 ---
 
