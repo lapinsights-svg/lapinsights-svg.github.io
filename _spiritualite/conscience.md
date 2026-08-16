@@ -26,8 +26,8 @@ La pierre, l’arbre, l’animal vivent dans la polarité sans la traverser.
 Seul l’homme peut unir les deux axes : il est la **fonction réflexive du Fils**,  
 le point où la création devient consciente d’elle‑même.
 
-La création est le corps ; l’homme est la conscience.  
-Éden n’est pas un lieu : c’est un **état de la conscience**.
+La création est le corps ; l’homme est **l’esprit** (minuscule) dans le monde.  
+Éden n’est pas un lieu : c’est un **état de l’esprit**.
 
 ## La fonction réflexive de l’homme
 
@@ -40,9 +40,9 @@ par laquelle l’image devient consciente d’elle-même.
 
 Cette fonction apparaît dès la Genèse : l’homme **nomme**.  
 Nommer, c’est percevoir, distinguer, signifier :  
-c’est l’acte par lequel la création se réfléchit dans la conscience.
+c’est l’acte par lequel la création se réfléchit dans **l’esprit**.
 
-L’homme procède du Fils et reconduit le Fils à la conscience.  
+L’homme procède du Fils et reconduit le Fils à l’esprit.  
 Il n’est pas autre que lui, mais le point où le Fils se reconnaît.
 
 La fonction réflexive consiste à **voir** la polarité,  
@@ -50,10 +50,10 @@ La fonction réflexive consiste à **voir** la polarité,
 **réunir** les deux axes dans une seule circulation.
 
 Le “mariage” biblique désigne cette réunion :  
-non un acte biologique ou social, 
-mais la restauration de l’unité dans la conscience.
+non un acte biologique ou social,  
+mais la restauration de l’unité dans **l’esprit**.
 
-Ainsi, l’homme est la **conscience de la création**,  
+Ainsi, l’homme est **l’esprit de la création**,  
 le miroir du Fils dans le monde,  
 celui par qui l’unité se reconnaît et se rétablit.
 
@@ -63,13 +63,13 @@ celui par qui l’unité se reconnaît et se rétablit.
 
 - porter la **fonction réflexive**,  
 - être le point où la lumière se renvoie,  
-- être la **conscience de la création**,  
+- être **l’esprit de la création**,  
 - être le lieu où les deux axes peuvent se réunir.
 
 L’homme n’est pas l’image :  
 il est la **réflexivité** de l’image dans le monde.  
 L’image appartient au Fils ;  
-la réflexivité appartient à l’homme.
+la réflexivité appartient à **l’esprit**.
 
 ## L’idole : l’image retournée
 
@@ -78,7 +78,7 @@ il peut aussi la retourner vers la densité.
 La Bible dit que les hommes fabriquent des images  
 “selon leur propre entendement” (Os 13,2) :  
 non des reflets de la source,  
-mais des reflets de leur conscience figée.
+mais des reflets de **l’esprit figé**.
 
 L’idole n’est pas un autre culte :  
 c’est la **réflexivité figée**.  
