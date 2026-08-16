@@ -13,7 +13,11 @@ tags:
   - Non-dualité
   - Conscience
   - Esprit
+og_image: /images/spiritualite/conscience2.webp
 ---
+
+![conscience2](/images/spiritualite/conscience2.webp)
+
 
 # Esprit vs Conscience : la clé de la transmission christologique
 
@@ -152,19 +156,19 @@ Kenneth a transformé cette pédagogie en ontologie, créant une confusion majeu
 
 > ---
 > ### Clarification essentielle : la conscience dans la Bible n’est pas la conscience fracturée d’UCEM
-> 
-> La Bible utilise le mot “conscience” dans un sens ontologique :  
-> elle désigne la **fonction réflexive du Fils**, la capacité de refléter l’image, de voir la lumière dans la lumière, de réunir les deux axes.  
-> C’est la conscience **avant la fracture**, intacte, non-duelle.
-> 
-> Dans UCEM, la conscience désigne le domaine de l’ego :  
+>
+> La Bible ne nomme pas la conscience, mais elle en décrit la **fonction ontologique** :  
+> la **capacité réflexive du Fils**, la faculté de refléter l’image, de voir la lumière dans la lumière, de réunir les deux axes.  
+> C’est l’**esprit juste**, intact, non-duel.
+>
+> Dans UCEM, la conscience désigne le **domaine de l’ego** :  
 > la perception polarisée, fragmentée, dépendante du corps et du monde.  
-> C’est la conscience **après la fracture**, c’est-à-dire **la croyance en la séparation**.
-> 
-> Ce que la Bible appelle conscience correspond, dans UCEM, à ce que le Cours nomme **esprit juste** :  
+> C’est l’**esprit faux**, c’est-à-dire **la croyance en la séparation**.
+>
+> Ce que la Bible décrit comme conscience correspond, dans UCEM, à ce que le Cours nomme **esprit juste** :  
 > la conscience qui se tourne vers l’esprit, qui cesse de bloquer, et qui peut laisser apparaître ce qui est déjà accompli dans l’unité.
-> 
-> La conscience fracturée (UCEM) et la conscience intacte (Bible) ne sont pas deux réalités différentes :  
+>
+> La conscience fracturée - ou esprit faux (UCEM) - et la conscience intacte - ou esprit juste (Bible) - ne sont pas deux réalités différentes :  
 > ce sont deux états d’une même fonction, avant et après la fracture.
 > ---
 
