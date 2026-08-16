@@ -70,9 +70,9 @@ la fonction réflexive du Fils étendu.
 
 ## Le sens de l’“image” dans la Genèse
 
-Être *à l’image* ne désigne pas un individu dans le monde.  
-Ce que la Genèse appelle “l’homme” est **l’Axe vertical du Fils étendu**,  
-c’est‑à‑dire **l’esprit** (minuscule) dans son état intact, avant toute fracture.
+Être *à l’image* ne désigne pas un individu biologique.  
+Dans la Genèse, “l’homme” désigne **l’Axe vertical du Fils étendu**,  
+c’est‑à‑dire **l’esprit** (minuscule) dans son état intact, avant la fracture.
 
 Être à l’image signifie :
 
@@ -81,7 +81,7 @@ c’est‑à‑dire **l’esprit** (minuscule) dans son état intact, avant tout
 - être **l’esprit de la création**,  
 - être le lieu où les deux axes peuvent se réunir.
 
-L’Axe n’est pas l’image :  
+Ainsi, “l’homme” n’est pas l’image :  
 il est la **réflexivité** de l’image dans le monde.  
 L’image appartient au Fils ;  
 la réflexivité appartient à **l’esprit**.
