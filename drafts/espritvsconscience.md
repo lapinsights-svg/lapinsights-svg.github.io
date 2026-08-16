@@ -136,15 +136,38 @@ La conscience ne reçoit rien : elle **cesse d’empêcher**.
 
 ## 7. Pourquoi UCEM parle d’esprit juste et d’esprit faux
 
-UCEM utilise ces termes **pédagogiquement**, jamais ontologiquement.
+UCEM utilise ces termes pédagogiquement, jamais ontologiquement.
 
-- **Esprit faux** : la conscience identifiée à l’ego.  
-- **Esprit juste** : la conscience qui commence à se tourner vers l’esprit.
+- **Esprit faux** : la conscience fracturée, identifiée à l’ego, dépendante du corps et du monde.  
+  Cette conscience n’est pas une entité : elle est **la croyance en la séparation**.  
+  Elle apparaît uniquement dans la fracture.
+
+- **Esprit juste** : la conscience qui cesse de bloquer, qui se tourne vers l’esprit, et qui peut laisser apparaître ce qui est déjà accompli dans l’unité.  
+  Ce n’est pas une autre conscience : c’est la même fonction, mais **dégagée de la croyance en la séparation**.
 
 Ce ne sont pas deux esprits.  
-Ce sont deux **positions de la conscience** dans la fracture.
+Ce sont deux positions de la conscience dans la fracture.
 
 Kenneth a transformé cette pédagogie en ontologie, créant une confusion majeure.
+
+> ---
+> ### Clarification essentielle : la conscience dans la Bible n’est pas la conscience fracturée d’UCEM
+> 
+> La Bible utilise le mot “conscience” dans un sens ontologique :  
+> elle désigne la **fonction réflexive du Fils**, la capacité de refléter l’image, de voir la lumière dans la lumière, de réunir les deux axes.  
+> C’est la conscience **avant la fracture**, intacte, non-duelle.
+> 
+> Dans UCEM, la conscience désigne le domaine de l’ego :  
+> la perception polarisée, fragmentée, dépendante du corps et du monde.  
+> C’est la conscience **après la fracture**, c’est-à-dire **la croyance en la séparation**.
+> 
+> Ce que la Bible appelle conscience correspond, dans UCEM, à ce que le Cours nomme **esprit juste** :  
+> la conscience qui se tourne vers l’esprit, qui cesse de bloquer, et qui peut laisser apparaître ce qui est déjà accompli dans l’unité.
+> 
+> La conscience fracturée (UCEM) et la conscience intacte (Bible) ne sont pas deux réalités différentes :  
+> ce sont deux états d’une même fonction, avant et après la fracture.
+> ---
+
 
 ## 8. Pourquoi le joug est léger
 
@@ -187,7 +210,7 @@ Elle disparaît dès que :
 
 La culpabilité se dissout parce qu’elle n’a jamais été réelle.
 
-## 10. Pourquoi UCEM est long
+## 10. Pourquoi le corpus UCEM est long
 
 UCEM est long non pour produire la correction,  
 mais pour **défaire les obstacles** dans la conscience :
@@ -237,20 +260,35 @@ Il remplace l’œuvre du Christ par un travail psychologique.
 Il transforme le joug léger en joug lourd.
 
 La pleine conscience est une extension logique de cette erreur :  
-elle renforce la conscience, donc l’ego, donc la fracture.
+elle renforce la conscience fracturée, donc la croyance en la séparation.
 
 ---
 
-# Synthèse verticale
+# Synthèse 
 
-- La conscience est multiple : elle ne peut pas transmettre l’unité.  
-- L’esprit est un : il transmet la correction christologique à toute la filialité.  
-- Le Christ a accompli le plus difficile : la correction est déjà accomplie.  
+- La conscience fracturée (UCEM) est la croyance en la séparation : multiple, polarisée, dépendante du corps et du monde.  
+  Elle ne peut pas transmettre l’unité.
+
+- La conscience intacte (Bible) est la fonction réflexive du Fils : capacité de refléter l’image, de voir la lumière dans la lumière, de réunir les deux axes.  
+  Elle correspond à l’esprit juste dans UCEM.
+
+- L’esprit est un : il porte l’unité ontologique de la filialité et transmet la correction christologique à toute la création.
+
+- Le Christ a accompli le plus difficile : la correction est déjà accomplie dans l’unité et ne dépend pas de la conscience fracturée.
+
 - Le joug est léger : il n’y a rien à produire, seulement à voir.  
-- La culpabilité disparaît facilement : elle n’a jamais eu de réalité ontologique.  
-- La pleine conscience renforce la conscience, donc l’ego : elle est incompatible avec UCEM.  
-- L’esprit juste / esprit faux est une pédagogie pour la conscience, non une dualité ontologique.  
-- Les révélations se débloquent parce que l’esprit est UN et que la conscience cesse de bloquer.
+  La conscience cesse de bloquer ce qui est déjà dans l’esprit.
+
+- La culpabilité disparaît facilement : elle appartient à la conscience fracturée et n’a jamais eu de réalité ontologique.
+
+- La pleine conscience renforce la conscience fracturée : elle maintient l’attention dans le corps, le monde et le temps, donc dans la croyance en la séparation.
+
+- L’esprit juste / esprit faux sont des positions pédagogiques de la conscience dans la fracture : ce ne sont pas deux esprits.
+
+- La conscience biblique n’est pas la conscience UCEM :  
+  elle est la conscience avant la fracture, la réflexivité intacte du Fils, l’équivalent de l’esprit juste.
+
+- Les révélations se débloquent parce que l’esprit est un et que la conscience fracturée cesse de bloquer ce qui est déjà accompli dans l’unité.
 
 ---
 
