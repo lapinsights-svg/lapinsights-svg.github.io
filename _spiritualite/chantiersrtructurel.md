@@ -83,7 +83,7 @@ Elle renforce la cohérence interne.
  
 J’approfondis la vision.  
 J’affine.  
-Je précise.
+Je précise.  
 Je révèle.
 
 Le corpus structurel de la Bible  
