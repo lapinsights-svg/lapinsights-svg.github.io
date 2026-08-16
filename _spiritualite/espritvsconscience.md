@@ -18,7 +18,6 @@ og_image: /images/spiritualite/conscience2.webp
 
 ![conscience2](/images/spiritualite/conscience2.webp)
 
-
 # Esprit vs Conscience : la clé de la transmission christologique
 
 Dans Un Cours en Miracles, comme dans la Bible, la distinction entre **esprit** et **conscience** n’est pas psychologique : elle est ontologique.  
@@ -92,13 +91,13 @@ Donc :
 
 Bible :
 
-- "Nous avons un seul esprit." 
-- "En lui, nous sommes un." 
+- "Nous avons un seul esprit."  
+- "En lui, nous sommes un."  
 - "Il a réconcilié toutes choses en lui."
 
 UCEM :
 
-- "Le Christ est la mémoire de l’unité." 
+- "Le Christ est la mémoire de l’unité."  
 - "La correction est déjà accomplie."
 
 Le Christ n’est pas un individu.  
@@ -155,23 +154,23 @@ Ce sont deux positions de la conscience dans la fracture.
 Kenneth a transformé cette pédagogie en ontologie, créant une confusion majeure.
 
 > ---
-> ### Clarification essentielle : la conscience dans la Bible n’est pas la conscience fracturée d’UCEM
+> ### Clarification essentielle : la Bible ne parle jamais de conscience
 >
-> La Bible ne nomme pas la conscience, mais elle en décrit la **fonction ontologique** :  
-> la **capacité réflexive du Fils**, la faculté de refléter l’image, de voir la lumière dans la lumière, de réunir les deux axes.  
-> C’est l’**esprit juste**, intact, non-duel.
+> La Bible ne nomme pas la conscience et ne décrit aucune instance intérieure séparée.  
+> Elle parle uniquement de **l’esprit**, dans son unité, sa lumière, et sa capacité de refléter l’image.  
+> Ce que nous appelons aujourd’hui “fonction réflexive” est, dans la Bible, une **fonction de l’esprit**, non une conscience.
 >
-> Dans UCEM, la conscience désigne le **domaine de l’ego** :  
-> la perception polarisée, fragmentée, dépendante du corps et du monde.  
-> C’est l’**esprit faux**, c’est-à-dire **la croyance en la séparation**.
+> Dans UCEM, la conscience n’est pas une faculté réelle : elle est le **domaine de l’ego**,  
+> c’est-à-dire la perception polarisée, fragmentée, dépendante du corps et du monde.  
+> UCEM nomme cela **esprit faux** : la croyance en la séparation.
 >
-> Ce que la Bible décrit comme conscience correspond, dans UCEM, à ce que le Cours nomme **esprit juste** :  
-> la conscience qui se tourne vers l’esprit, qui cesse de bloquer, et qui peut laisser apparaître ce qui est déjà accompli dans l’unité.
+> Ce que la Bible décrit comme fonction de l’esprit correspond, dans UCEM, à **l’esprit juste** :  
+> la conscience dégagée de la séparation, qui cesse de bloquer et laisse apparaître ce qui est déjà accompli dans l’unité.
 >
-> La conscience fracturée - ou esprit faux (UCEM) - et la conscience intacte - ou esprit juste (Bible) - ne sont pas deux réalités différentes :  
-> ce sont deux états d’une même fonction, avant et après la fracture (croyance en la séparation).
+> Il n’y a donc pas deux consciences :  
+> il y a **l’esprit UN**, et deux positions apparentes dans la fracture — esprit faux (UCEM) et esprit juste (UCEM).  
+> La Bible décrit l’esprit ; UCEM décrit la fracture et son déblocage.
 > ---
-
 
 ## 8. Pourquoi le joug est léger
 
@@ -268,13 +267,16 @@ elle renforce la conscience fracturée, donc la croyance en la séparation.
 
 ---
 
-# Synthèse 
+# Synthèse
 
-- La conscience fracturée (UCEM) est la croyance en la séparation : multiple, polarisée, dépendante du corps et du monde.  
-  Elle ne peut pas transmettre l’unité.
+- La Bible ne parle pas de conscience : elle décrit **l’esprit** dans sa réflexivité intacte,  
+  ce que UCEM appelle esprit juste.
 
-- La conscience intacte (Bible) est la fonction réflexive du Fils : capacité de refléter l’image, de voir la lumière dans la lumière, de réunir les deux axes.  
-  Elle correspond à l’esprit juste dans UCEM.
+- UCEM parle de la conscience uniquement dans la fracture :  
+  la croyance en la séparation, la perception polarisée, le domaine de l’ego.
+
+- Ontologiquement, il n’y a que **l’esprit UN**.  
+  La conscience n’est qu’un effet de croyance dans un événement qui n’a jamais eu lieu.
 
 - L’esprit est un : il porte l’unité ontologique de la filialité et transmet la correction christologique à toute la création.
 
@@ -285,12 +287,7 @@ elle renforce la conscience fracturée, donc la croyance en la séparation.
 
 - La culpabilité disparaît facilement : elle appartient à la conscience fracturée et n’a jamais eu de réalité ontologique.
 
-- La pleine conscience renforce la conscience fracturée : elle maintient l’attention dans le corps, le monde et le temps, donc dans la croyance en la séparation.
-
 - L’esprit juste / esprit faux sont des positions pédagogiques de la conscience dans la fracture : ce ne sont pas deux esprits.
-
-- La conscience biblique n’est pas la conscience UCEM :  
-  elle est la conscience avant la fracture, la réflexivité intacte du Fils, l’équivalent de l’esprit juste.
 
 - Les révélations se débloquent parce que l’esprit est un et que la conscience fracturée cesse de bloquer ce qui est déjà accompli dans l’unité.
 
