@@ -160,13 +160,6 @@ UCEM adresse ses mots à la conscience parce que :
 La conscience est le **lieu apparent** de la fracture.  
 Elle n’a aucune réalité ontologique, mais c’est là que la confusion **se manifeste**.
 
-UCEM ne **utilise** jamais la conscience :  
-la correction ne se produit pas dans la conscience,  
-elle se produit **dans l’esprit**.
-
-La conscience ne reçoit rien :  
-elle **cesse d’empêcher** ce qui est déjà accompli dans l’Esprit.
-
 ---
 
 ## 7. Pourquoi UCEM parle d’esprit juste et d’esprit faux
@@ -188,22 +181,28 @@ Ce sont deux **positions apparentes** de la conscience dans la fracture.
 > ### Clarification essentielle : la Bible ne parle jamais de conscience
 >
 > La Bible ne nomme pas la conscience et ne décrit aucune instance intérieure séparée.  
-> Elle parle uniquement de **l’Esprit**, dans son unité, sa lumière, et sa capacité de refléter l’image.  
-> Ce que nous appelons aujourd’hui “fonction réflexive” est, dans la Bible, une **fonction de l’Esprit**, non une conscience.
+> Elle décrit la **fonction réflexive du Fils**, c’est‑à‑dire **l’esprit** (minuscule) :  
+> la capacité de voir, de discerner, de comprendre, de refléter la lumière.
+>
+> L’**Esprit** (majuscule) ne reflète rien :  
+> il est l’Unité, la Lumière, l’Être.  
+> Il n’a aucune fonction réflexive.  
+> Il ne perçoit pas, ne répond pas, ne se tourne pas : il **est**.
 >
 > Dans UCEM, la conscience n’est pas une faculté réelle : elle est le **domaine de l’ego**,  
 > c’est-à-dire la perception polarisée, fragmentée, dépendante du corps et du monde.  
 > UCEM nomme cela **esprit faux** : la croyance en la séparation.
 >
-> Ce que la Bible décrit comme fonction de l’Esprit correspond, dans UCEM, à **l’esprit juste** :  
-> la conscience dégagée de la séparation, qui cesse de bloquer et laisse apparaître ce qui est déjà accompli dans l’unité.
+> Ce que la Bible décrit comme fonction réflexive du Fils correspond, dans UCEM, à **l’esprit juste** :  
+> l’esprit (minuscule) dégagé de la séparation, qui cesse de bloquer et laisse apparaître  
+> ce qui est déjà accompli dans l’Esprit.
 >
 > Il n’y a donc pas deux consciences :  
-> il y a **l’Esprit UN**, et deux positions apparentes dans la fracture — esprit faux (UCEM) et esprit juste (UCEM).  
-> La Bible décrit l’Esprit ; UCEM décrit la fracture et son déblocage.
+> il y a **l’Esprit UN**, et deux positions apparentes de l’esprit dans la fracture —  
+> **esprit faux** (UCEM) et **esprit juste** (UCEM).  
+> La Bible décrit l’esprit ; UCEM décrit la fracture et son déblocage.
 > 
 > ---
-
 ---
 
 ## 8. Pourquoi le joug est léger
