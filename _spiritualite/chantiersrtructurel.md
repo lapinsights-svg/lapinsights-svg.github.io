@@ -34,8 +34,7 @@ Il s’aligne.
 Je n’écris pas des articles.  
 Je déploie une structure.  
 Un texte n’est jamais terminé.  
-Je ne corrige pas :  
-j’affine l’Axe.
+L'Axe est toujours affiné.
 
 Chaque fois qu’une distinction s’éclaire,  
 la structure bouge :
