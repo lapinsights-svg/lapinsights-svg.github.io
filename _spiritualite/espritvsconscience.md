@@ -202,7 +202,6 @@ Ce sont deux **positions apparentes** de la conscience dans la fracture.
 > **esprit faux** (UCEM) et **esprit juste** (UCEM).  
 > La Bible décrit l’esprit ; UCEM décrit la fracture et son déblocage.
 > 
-> ---
 ---
 
 ## 8. Pourquoi le joug est léger
