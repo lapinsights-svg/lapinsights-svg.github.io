@@ -28,7 +28,7 @@ Elle détermine la possibilité même de la correction, sa transmission, et la l
 
 UCEM affirme :
 
-> « La conscience est le domaine de l’ego. »
+> "La conscience est le domaine de l’ego."
 
 La conscience :
 
@@ -169,7 +169,7 @@ Kenneth a transformé cette pédagogie en ontologie, créant une confusion majeu
 > la conscience qui se tourne vers l’esprit, qui cesse de bloquer, et qui peut laisser apparaître ce qui est déjà accompli dans l’unité.
 >
 > La conscience fracturée - ou esprit faux (UCEM) - et la conscience intacte - ou esprit juste (Bible) - ne sont pas deux réalités différentes :  
-> ce sont deux états d’une même fonction, avant et après la fracture.
+> ce sont deux états d’une même fonction, avant et après la fracture (croyance en la séparation).
 > ---
 
 
