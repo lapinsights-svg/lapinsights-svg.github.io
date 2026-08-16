@@ -69,7 +69,7 @@ UCEM n’utilise jamais la conscience : il utilise l’esprit.
 
 UCEM dit :
 
-> « L’esprit est toujours un. »
+> "L’esprit est toujours un."
 
 L’esprit :
 
@@ -92,14 +92,14 @@ Donc :
 
 Bible :
 
-- « Nous avons un seul esprit. »  
-- « En lui, nous sommes un. »  
-- « Il a réconcilié toutes choses en lui. »
+- "Nous avons un seul esprit." 
+- "En lui, nous sommes un." 
+- "Il a réconcilié toutes choses en lui."
 
 UCEM :
 
-- « Le Christ est la mémoire de l’unité. »  
-- « La correction est déjà accomplie. »
+- "Le Christ est la mémoire de l’unité." 
+- "La correction est déjà accomplie."
 
 Le Christ n’est pas un individu.  
 Il est l’état intact de l’esprit du Fils.
@@ -177,11 +177,11 @@ Kenneth a transformé cette pédagogie en ontologie, créant une confusion majeu
 
 Bible :
 
-> « Mon joug est léger. »
+> "Mon joug est léger."
 
 UCEM :
 
-> « Rien d’autre que cela n’est requis. »
+> "Rien d’autre que cela n’est requis."
 
 Le joug est léger parce que :
 
