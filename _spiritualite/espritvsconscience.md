@@ -56,13 +56,17 @@ La “pleine conscience” consiste à :
 - observer le corps,  
 - observer le monde.
 
-Autrement dit : renforcer l’attention au domaine de l’ego.
+Autrement dit : **renforcer l’attention au domaine de l’ego**, c’est‑à‑dire à la conscience fracturée.
 
-La pleine conscience est une pratique psychologique, non ontologique.  
-Elle renforce la perception du corps, du monde, du temps, de la séparation.  
-Elle est donc structurellement incompatible avec UCEM.
+Dans UCEM, la conscience n’a aucun statut ontologique :  
+elle est un **effet de la croyance en la séparation**, dépendante du corps, du monde et du temps.
 
-UCEM n’utilise jamais la conscience : il utilise l’esprit.
+La pleine conscience est donc une pratique **psychologique**, non ontologique.  
+Elle renforce la perception du corps et du monde, et donc la croyance en la séparation.
+
+UCEM n’utilise jamais la conscience pour corriger :  
+la correction est **christologique**, opérée **dans l’esprit**.  
+La conscience ne fait rien : elle **cesse d’empêcher** ce qui est déjà accompli dans l’unité.
 
 ## 3. L’esprit : unité intacte de la filialité
 
@@ -117,41 +121,54 @@ Donc :
 - l’esprit reste un,  
 - le Christ reste intact,  
 - la correction reste accomplie,  
-- et ce qui est accompli dans l’unité peut se déployer dans la fracture.
+- et ce qui est accompli dans l’unité peut se **déployer** dans la fracture.
 
-La transmission n’est pas un transfert : c’est un dévoilement, une révélation.
+La transmission n’est pas un transfert :  
+c’est un **dévoilement** de ce qui est déjà dans l’esprit.
 
 La correction christologique ne “passe” pas dans la conscience :  
-la conscience **cesse de bloquer** ce qui est déjà dans l’esprit.
+elle se produit **dans l’esprit**,  
+et la conscience **cesse de bloquer** ce qui est déjà accompli.
+
+UCEM **adresse ses mots à la conscience**,  
+non pour l’utiliser,  
+mais parce que l’erreur **semble** être là.  
+La correction, elle, est entièrement **dans l’esprit**.
 
 ## 6. Pourquoi UCEM parle à la conscience
 
 UCEM ne parle pas à l’esprit : l’esprit est déjà unifié.  
-UCEM parle à la conscience parce que :
+UCEM adresse ses mots à la conscience parce que :
 
 - l’erreur semble être dans la conscience,  
 - la culpabilité semble être dans la conscience,  
 - la perception du monde semble être dans la conscience,  
 - l’ego semble être dans la conscience.
 
-La correction doit donc **apparaître là où l’erreur semble être**.  
-La conscience ne reçoit rien : elle **cesse d’empêcher**.
+La conscience est le **lieu apparent** de la fracture.  
+Elle n’a aucune réalité ontologique, mais c’est là que la confusion **se manifeste**.
+
+UCEM ne **utilise** jamais la conscience :  
+la correction ne se produit pas dans la conscience,  
+elle se produit **dans l’esprit**.
+
+La conscience ne reçoit rien :  
+elle **cesse d’empêcher** ce qui est déjà accompli dans l’esprit.
 
 ## 7. Pourquoi UCEM parle d’esprit juste et d’esprit faux
 
-UCEM utilise ces termes pédagogiquement, jamais ontologiquement.
+UCEM utilise ces termes **pédagogiquement**, jamais ontologiquement.
 
 - **Esprit faux** : la conscience fracturée, identifiée à l’ego, dépendante du corps et du monde.  
-  Cette conscience n’est pas une entité : elle est **la croyance en la séparation**.  
-  Elle apparaît uniquement dans la fracture.
+  Ce n’est pas un esprit : c’est **la croyance en la séparation**, manifestée dans la conscience.
 
-- **Esprit juste** : la conscience qui cesse de bloquer, qui se tourne vers l’esprit, et qui peut laisser apparaître ce qui est déjà accompli dans l’unité.  
-  Ce n’est pas une autre conscience : c’est la même fonction, mais **dégagée de la croyance en la séparation**.
+- **Esprit juste** : la conscience qui **cesse de bloquer**, se tourne vers l’esprit,  
+  et laisse apparaître ce qui est déjà accompli dans l’unité.  
+  Ce n’est pas une autre conscience : c’est la même fonction,  
+  **dégagée de la croyance en la séparation**.
 
 Ce ne sont pas deux esprits.  
-Ce sont deux positions de la conscience dans la fracture.
-
-Kenneth a transformé cette pédagogie en ontologie, créant une confusion majeure.
+Ce sont deux **positions apparentes** de la conscience dans la fracture.
 
 > ---
 > ### Clarification essentielle : la Bible ne parle jamais de conscience
@@ -168,7 +185,7 @@ Kenneth a transformé cette pédagogie en ontologie, créant une confusion majeu
 > la conscience dégagée de la séparation, qui cesse de bloquer et laisse apparaître ce qui est déjà accompli dans l’unité.
 >
 > Il n’y a donc pas deux consciences :  
-> il y a **l’esprit UN**, et deux positions apparentes dans la fracture - esprit faux (UCEM) et esprit juste (UCEM).  
+> il y a **l’esprit UN**, et deux positions apparentes dans la fracture — esprit faux (UCEM) et esprit juste (UCEM).  
 > La Bible décrit l’esprit ; UCEM décrit la fracture et son déblocage.
 > 
 > ---
@@ -231,7 +248,7 @@ mais difficile à accepter dans la conscience.
 
 ## 11. Pourquoi les miracles se débloquent
 
-Les “miracles” ne sont pas mystiques.  
+Les miracles ne sont pas mystiques.  
 Ils sont **christologiques**.
 
 Ils se produisent parce que :
@@ -288,7 +305,7 @@ elle renforce la conscience fracturée, donc la croyance en la séparation.
 
 - La culpabilité disparaît facilement : elle appartient à la conscience fracturée et n’a jamais eu de réalité ontologique.
 
-- L’esprit juste / esprit faux sont des positions pédagogiques de la conscience dans la fracture : ce ne sont pas deux esprits.
+- Esprit juste / esprit faux sont des positions pédagogiques de la conscience dans la fracture : ce ne sont pas deux esprits.
 
 - Les miracles se débloquent parce que l’esprit est un et que la conscience fracturée cesse de bloquer ce qui est déjà accompli dans l’unité.
 
