@@ -1,8 +1,8 @@
 ---
 categories: spiritualite
 date: 2026-08-18
-title: "La structure intérieure de la Bible"
-episode: "Les deux arbres : la polarité brisée"
+title: "Les deux arbres"
+episode: "Structure intérieure de la Bible"
 resume: "L’Arbre de Vie et l’Arbre de la Connaissance, deux pôles d’une polarité qui ne se rencontre pas."
 layout: article
 og_image: /images/spiritualite/arbres.webp
