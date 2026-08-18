@@ -93,5 +93,9 @@ La chute n’est pas une faute :
 c’est la non‑rencontre.
 
 Et tant que l’Arbre de Vie et l’Arbre de la Connaissance ne se rejoignent pas,  
-l’homme reste dans **l’état d’Éden**,  
-même s’il est **chassé du lieu**.
+L’homme demeure dans l’état du non‑Éden :  
+l’état de la polarité brisée.
+
+---
+
+Céleste R.
