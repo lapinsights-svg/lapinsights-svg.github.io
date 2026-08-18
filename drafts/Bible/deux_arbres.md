@@ -1,11 +1,14 @@
 ---
 categories: spiritualite
-date: 2026-07-04
+date: 2026-08-18
 title: "La structure intérieure de la Bible"
 episode: "Les deux arbres : la polarité brisée"
-resume: "Dans le jardin d’Éden, l’Arbre de Vie et l’Arbre de la Connaissance ne sont pas deux choix mais les deux pôles d’une polarité qui ne se rencontre pas."
+resume: "L’Arbre de Vie et l’Arbre de la Connaissance, deux pôles d’une polarité qui ne se rencontre pas."
 layout: article
+og_image: /images/spiritualite/arbres.webp
 ---
+
+![arbres](/images/spiritualite/arbres.webp)
 
 # Les deux arbres : la polarité brisée
 
