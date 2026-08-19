@@ -49,7 +49,7 @@ La verticalité coupée vibrait comme une absence active.
 Quelque chose avait été retiré du château.  
 Un axe.  
 Un secret.  
-Un geste humain du XIIᵉ siècle, encore perceptible dans la pierre.
+Un geste humain de l'époque, encore perceptible dans la pierre.
 
 Elle continua vers le logis seigneurial.  
 Les couloirs éventrés laissaient voir des poutres pourries, des pierres disjointes, des murs ouverts comme des plaies.  
@@ -72,7 +72,7 @@ Un mouvement minuscule, mais réel.
 Ce n’était pas un mannequin, mais un homme.
 
 Il portait une tunique de laine brune, une ceinture de cuir, des braies serrées, des bottes épaisses.  
-Un garde du XIIᵉ siècle, intact, présent, comme si Montfaucon l’avait conservé dans sa mémoire.
+Un garde du 12ème siècle, intact, présent, comme si Montfaucon l’avait conservé dans sa mémoire.
 
 Il la regarda comme si elle était attendue.  
 Sans surprise.  
