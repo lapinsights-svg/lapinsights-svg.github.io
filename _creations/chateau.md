@@ -1,6 +1,6 @@
 ---
 title: "Le château qui se souvient"
-resume: "Dans les ruines d’un château du XIIᵉ siècle, un secret ancien se réveille."
+resume: "Dans les ruines d’un château du 12ème siècle, un secret ancien se réveille."
 date: "2026-07-24"
 layout: article
 categories: creations
