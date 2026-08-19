@@ -13,7 +13,7 @@ og_image: /images/spiritualite/structurebible.webp
 ## Note éditoriale — Lecture structurelle
 
 Ma lecture de la Bible est structurelle : elle considère le texte comme une architecture de fonctions et d’axes, plutôt que comme un récit ou une doctrine.  
-Chaque motif appartient à une mécanique cohérente — unité, dualité, articulation, réflexivité — et l’humain est le lieu où cette structure devient consciente.  
+Chaque motif appartient à une mécanique cohérente - unité, dualité, articulation, réflexivité - et l’humain est le lieu où cette structure devient consciente.  
 Les passages ne sont pas lus isolément : ils se répondent, se reflètent, s’ouvrent les uns par les autres.  
 La Bible est ici abordée comme une structure vivante, où la conscience réunit ce que le texte déploie.
 
