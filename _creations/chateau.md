@@ -100,7 +100,7 @@ Le monde venait de changer d’état, et son corps l’avait senti avant ses yeu
 ## La chambre seigneuriale
 
 Ils entrèrent dans une pièce haute, intacte.  
-La chaleur y était différente : une chaleur qui a une mémoire.  
+La chaleur y était différente; une chaleur qui a une mémoire.  
 Les tentures lourdes, tissées de laine et de lin, teintes à l’indigo et à la garance, retenaient l’air comme des manteaux.  
 Les couleurs étaient profondes, presque vivantes.
 
@@ -110,15 +110,14 @@ Des visages qui ne souriaient pas.
 Des regards qui semblaient connaître le garde.
 
 Un portrait attirait la lumière plus que les autres.  
-Une dame, drapée de laine sombre, le visage légèrement tourné.  
 Elle s’arrêta.  
+Une dame, drapée de laine sombre, le visage légèrement tourné.  
 La ressemblance était trop nette pour être un hasard :  
 la même ligne du menton,  
 la même manière de tenir la tête,  
 la même fixité dans le regard.  
 Une dame d’antan, épouse d’un seigneur disparu,  
-et pourtant :  
-quelque chose d’elle.
+et pourtant : quelque chose d’elle.
 
 Le garde ne regarda pas le tableau.  
 Comme s’il savait déjà.
@@ -144,8 +143,8 @@ Des lances, des boucliers, des épées marquées par des entailles.
 Des casques coniques.  
 Des cottes de mailles suspendues comme des corps vides.
 
-Le métal avait une odeur : fer, huile, sueur.  
-Les armes portaient des traces : entailles, frottements, rouille.
+Le métal avait l'odeur de fer, d'huile, et de sueur.  
+Les armes portaient des traces d'entailles, de frottements, de rouille.
 
 Les gardes parlaient bas :  
 "…la porte nord…"  
