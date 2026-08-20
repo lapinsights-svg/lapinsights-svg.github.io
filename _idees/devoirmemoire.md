@@ -120,7 +120,8 @@ YouTube a retiré des contenus,
 Twitter a suspendu des comptes.
 
 Ce verrouillage n’a pas seulement empêché des discussions.  
-Il a créé une **verticalité sanitaire**, où la parole scientifique était hiérarchisée, filtrée, sanctuarisée.  
+Il a créé une **verticalité sanitaire**, où la parole scientifique était hiérarchisée,  
+filtrée, sanctuarisée.  
 Une science sans contradiction devient une liturgie.  
 Une liturgie sans débat devient un dogme.  
 Un dogme en temps de crise devient un instrument politique.
