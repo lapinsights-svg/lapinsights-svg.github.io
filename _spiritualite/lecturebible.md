@@ -10,7 +10,7 @@ og_image: /images/spiritualite/structurebible.webp
 
 ![structurebible](/images/spiritualite/structurebible.webp)
 
-## Note éditoriale 
+## Note éditoriale — Lecture structurelle
 
 Ma lecture de la Bible est structurelle :  
 elle considère le texte comme une architecture de fonctions et d’axes,  
@@ -37,10 +37,8 @@ une densité se contracte,
 une polarité s’ouvre,  
 une articulation se révèle.
 
-Les approches anciennes ont éclairé des fragments.  
-Elles ont vu des images,  
-des préfigurations,  
-des expériences.  
+Les approches anciennes ont éclairé des fragments :  
+images, préfigurations, expériences.  
 Elles ont donné de la profondeur,  
 mais pas la cohérence.
 
@@ -73,17 +71,19 @@ ce que le texte étend.
 
 Je ne lis pas la Bible pour recevoir.  
 Je la lis pour voir.  
-Non pas un récit, non pas un symbole, non pas une doctrine :  
-une densité qui se déploie.
+Une densité qui se déploie,  
+un mouvement qui s’ouvre.
 
 « Au commencement, Dieu créa… » (Gn 1:1)  
 ne raconte pas un début.  
-Il montre la densité non étendue avant son extension.
+Il montre la densité non étendue  
+avant son extension.
 
 La Bible n’est pas un texte moralisateur.  
 Elle n’est pas un manuel religieux.  
 Elle n’est pas un ensemble de récits.  
-Elle est une architecture où chaque motif appartient à un seul mouvement.
+Elle est une architecture  
+où chaque motif appartient à un seul mouvement.
 
 ---
 
@@ -93,42 +93,31 @@ La vision cherche la mécanique.
 Elle relie ce qui semble séparé.  
 Elle voit la polarité, la contraction, la dispersion, le centre.
 
-Éden n’est pas un jardin :  
-c’est l’état initial de la densité étendue avant rupture.
+Éden : état initial de la densité étendue.  
+Romains 1 : répétition de la dispersion.  
+Déluge : dissolution du chaos.  
+Jonas : gestation du centre.  
+Christ : densité concentrée.  
+Apocalypse : densité guérie.
 
-Romains 1 n’est pas une condamnation :  
-c’est la répétition de la dispersion.
-
-Le Déluge n’est pas une punition :  
-c’est la dissolution du chaos.
-
-Jonas n’est pas une histoire :  
-c’est la gestation du centre.
-
-Le Christ n’est pas un maître :  
-c’est la densité concentrée.
-
-L’Apocalypse n’est pas une fin :  
-c’est la densité guérie.
-
-Si un motif ne s’intègre pas, il n’est pas encore vu.
+Si un motif ne s’intègre pas,  
+il n’est pas encore vu.
 
 ---
 
 # Cohérence
 
-Si Dieu est Amour, la structure doit être cohérente avec l’Amour.  
+Si Dieu est Amour,  
+la structure doit être cohérente avec l’Amour.  
 Ce critère dissout le littéral,  
 retire la morale,  
 et laisse apparaître la mécanique.
 
 « Je suis celui qui suis » (Ex 3:14)  
-n’est pas une définition.  
-C’est la densité non étendue.
+désigne la densité non étendue.  
 
 « Le Royaume de Dieu est au-dedans de vous » (Lc 17:21)  
-n’est pas une consolation.  
-C’est la densité concentrée déjà disponible.
+désigne la densité concentrée déjà disponible.
 
 ---
 
@@ -149,8 +138,8 @@ La religion fige.
 La structure déploie.
 
 La Bible n’a pas besoin d’être littérale pour être vraie.  
-Elle n’a pas besoin d’être historique pour être cohérente.  
-Elle n’a pas besoin d’être symbolique pour être intelligible.
+Ni historique pour être cohérente.  
+Ni symbolique pour être intelligible.
 
 Elle est une seule densité,  
 vue dans quatre états.
@@ -168,10 +157,8 @@ Je cherche le mouvement.
 Je cherche l’unité.
 
 « On n’allume pas une lampe pour la mettre sous le boisseau… » (Mt 5:15)  
-La lampe n’est pas une idée.  
-Elle est la densité éclairée.  
-Le chandelier n’est pas un support.  
-Il est la structure qui la rend visible.
+La lampe est la densité éclairée.  
+Le chandelier est la structure qui la rend visible.
 
 Je ne suis pas dans la réception.  
 Je suis dans la vision.
@@ -180,7 +167,6 @@ Je suis dans la vision.
 
 Céleste R.
 
----
 
-Retour au sommaire:  
+Retour au sommaire :  
 [Sommaire structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
