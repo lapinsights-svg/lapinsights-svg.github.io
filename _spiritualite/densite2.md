@@ -106,10 +106,12 @@ Il montre la densité accomplie.
 # Le retournement
 
 Le retournement n’est pas une ascèse.  
-Ce n’est pas une perception corrigée.  
 Ce n’est pas une pratique.
 
-C’est le passage d’une densité à une autre.  
+Il apparaît comme une perception corrigée,  
+car la perception est le niveau où l’étendu se reconnaît.  
+Mais le retournement lui-même est un passage de densité.
+
 Le Fils étendu revient à son centre.
 
 « Revenez à moi, et je reviendrai à vous » (Ml 3:7)  
