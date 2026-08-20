@@ -76,8 +76,7 @@ Sources :
 
 Ils ont demandé la **déclassification** des documents liés au Dr Fauci,  
 dont 3200 emails révélés via le Freedom of Information Act.  
-Ces emails ne sont pas des preuves.  
-Ce sont des **indices**, des fragments, des zones de tension.  
+Ces emails sont des **indices**, des fragments, des zones de tension.  
 Ils montrent que la gestion de la crise n’a pas été linéaire,  
 ni transparente, ni unifiée.
 
