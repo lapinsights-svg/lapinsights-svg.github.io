@@ -16,9 +16,11 @@ Parce qu’un peuple qui ne regarde pas en arrière ne comprend jamais ce qui lu
 La pandémie n’a pas seulement traversé nos corps.  
 Elle a traversé nos institutions, nos récits, nos seuils de tolérance, nos lignes de fracture.  
 Elle a révélé ce que la démocratie cache dans ses interstices.  
-Elle a montré comment un pays peut glisser, presque sans bruit, vers une gestion verticale, opaque, saturée de peur.
+Elle a montré comment un pays peut glisser, presque sans bruit,  
+vers une gestion verticale, opaque, saturée de peur.
 
-Ce texte est une **descente dans les couches**, une exploration des zones d’ombre, une géologie politique.  
+Ce texte est une **descente dans les couches**,  
+une exploration des zones d’ombre, une géologie politique.  
 Il ne cherche pas à accuser.  
 Il cherche à **voir**.
 
@@ -39,16 +41,21 @@ Il empêche le retour :
 
 Mais il fait plus que cela.  
 Il révèle les mécanismes invisibles qui permettent à une société de basculer.  
-Il montre comment la peur devient un outil, comment l’urgence devient un prétexte, comment l’exception devient une norme.  
-Il éclaire les zones où la démocratie se déforme, où les contre‑pouvoirs se taisent, où les institutions se replient.
+Il montre comment la peur devient un outil,  
+comment l’urgence devient un prétexte,  
+comment l’exception devient une norme.  
+Il éclaire les zones où la démocratie se déforme,  
+où les contre‑pouvoirs se taisent, où les institutions se replient.
 
-Le devoir de mémoire est une **lampe dans la nuit**, une pierre posée pour ne pas perdre le chemin.
+Le devoir de mémoire est une **lampe dans la nuit**,  
+une pierre posée pour ne pas perdre le chemin.
 
 ---
 
 ## 2. Aux États‑Unis, les premiers doutes officiels ont mis 18 mois à émerger
 
-Il a fallu dix‑huit mois pour que des voix institutionnelles américaines reconnaissent que quelque chose n’allait pas dans le récit dominant.  
+Il a fallu dix‑huit mois pour que des voix institutionnelles américaines reconnaissent  
+que quelque chose n’allait pas dans le récit dominant.  
 Dix‑huit mois pour que les fissures deviennent visibles.  
 Dix‑huit mois pour que les questions cessent d’être marginales.
 
@@ -65,7 +72,8 @@ Sources :
 - [France Culture – Lanceurs d’alerte chinois](https://www.radiofrance.fr/franceculture/covid-19-ces-lanceurs-d-alerte-menaces-pour-avoir-dit-la-verite-sur-la-pandemie-7735562)  
 - [Le Monde – Liens OMS/Chine](https://www.lemonde.fr/international/article/2020/04/27/les-liaisons-dangereuses-entre-l-oms-et-la-chine-ont-marque-la-crise-du-coronavirus_6037929_3210.html)
 
-Ils ont demandé la **déclassification** des documents liés au Dr Fauci, dont 3200 emails révélés via le Freedom of Information Act.  
+Ils ont demandé la **déclassification** des documents liés au Dr Fauci,  
+dont 3200 emails révélés via le Freedom of Information Act.  
 Ces emails ne sont pas des preuves.  
 Ce sont des **indices**, des fragments, des zones de tension.  
 Ils montrent que la gestion de la crise n’a pas été linéaire, ni transparente, ni unifiée.
@@ -87,9 +95,11 @@ Les sénateurs ont rappelé :
 
 Le débat n’est pas clos.  
 Il ne l’a jamais été.  
-Il a simplement été **déplacé hors du champ visible**, relégué dans les marges, traité comme une menace plutôt qu’une question scientifique.
+Il a simplement été **déplacé hors du champ visible**, relégué dans les marges,  
+traité comme une menace plutôt qu’une question scientifique.
 
-Le devoir de mémoire consiste à reconnaître que l’origine du virus n’a jamais été explorée avec la transparence nécessaire.
+Le devoir de mémoire consiste à reconnaître que l’origine du virus  
+n’a jamais été explorée avec la transparence nécessaire.
 
 ---
 
