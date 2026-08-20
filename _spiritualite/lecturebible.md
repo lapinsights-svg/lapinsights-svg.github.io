@@ -3,6 +3,7 @@ title: "La Bible et ma lecture structurelle"
 categories: spiritualite
 date: "2026-07-08"
 resume: "Lire la Bible comme une architecture de densité, où chaque motif appartient à un seul mouvement."
+episode: "Lecture structurelle de la Bible"
 layout: article
 tags: [Bible, structure, polarité, densité, architecture intérieure, spiritualité, pensée]
 og_image: /images/spiritualite/structurebible.webp
