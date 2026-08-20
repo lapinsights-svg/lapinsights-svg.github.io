@@ -139,8 +139,7 @@ Selon EudraVigilance (8 mai 2021) :
 Source :  
 - [Nouveau Monde – Effets secondaires](https://nouveau-monde.ca/quelle-est-lampleur-des-effets-secondaires-des-pseudo-vaccins-anticovid/?fbclid=IwAR2Du-RiOpfbmquAsGnL4BPG66dK5s6NVZo1DkmQxcB9JU5bQ54DcLAZGSY)
 
-Ces chiffres ne sont pas des conclusions.  
-Ce sont des **signaux faibles**, des secousses dans la couche sanitaire.  
+Ces chiffres sont des **signaux faibles**, des secousses dans la couche sanitaire.  
 Ils auraient dû être discutés, contextualisés, analysés.  
 Ils ont été minimisés, parfois ignorés, souvent relégués.
 
@@ -185,8 +184,7 @@ Certains documents stratégiques évoquaient dès 2010 :
 Lien :  
 - [Rapport Rockefeller (PDF)](https://profidecatholica.com/wp-content/uploads/2020/05/rockefeller-foundation.pdf)
 
-Ce rapport n’est pas une preuve d’intention.  
-C’est une projection, une carte des possibles.  
+Ce rapport est une projection, une carte des possibles.  
 La crise a parfois ressemblé à une répétition générale.  
 Comme si le scénario était écrit,  
 et que les mécanismes étaient déjà imaginés.
