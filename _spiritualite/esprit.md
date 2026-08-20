@@ -1,11 +1,11 @@
 ---
-title: "Ontologie de la conscience"
+title: "Ontologie de l’esprit"
 resume: "La fonction réflexive de l’homme"
 date: 2026-08-14
 tags:
   - Genèse
   - Ontologie
-  - Conscience
+  - Esprit
   - Polarité
   - Arbre de Vie
   - Image
@@ -14,17 +14,17 @@ og_image: /images/spiritualite/conscience.webp
 
 ![conscience](/images/spiritualite/conscience.webp)
 
-# Ontologie de la conscience
+# Ontologie de l’esprit
 
-> Ce fichier prolonge Éden : il en déploie l’axe intérieur   
-> la conscience comme lieu de réunion des deux arbres.
+> Ce fichier prolonge Éden : il en déploie l’axe intérieur,  
+> l’esprit comme lieu de réunion des deux arbres.
 
 ## Le Fils étendu : structure ontologique
 
 Toute la création porte les deux arbres - unité et dualité - mais passivement.  
 La pierre, l’arbre, l’animal vivent dans la polarité sans la traverser.  
 Seul l’homme peut unir les deux axes : il est la **fonction réflexive du Fils**,  
-le point où la création devient consciente d’elle‑même.
+le point où la création se reconnaît.
 
 La création est le corps ; l’homme est **l’esprit** (minuscule) dans le monde.  
 Éden n’est pas un lieu : c’est un **état de l’esprit**.
@@ -32,8 +32,8 @@ La création est le corps ; l’homme est **l’esprit** (minuscule) dans le mon
 ## La fonction réflexive de l’esprit
 
 Dans la Bible, ce que la Genèse appelle “l’homme” n’est pas un individu :  
-c’est **l’Axe vertical du Fils étendu**, c’est‑à‑dire **l’esprit** (minuscule)  
-dans son état intact, non fracturé.
+c’est **l’Axe vertical du Fils étendu**, c’est‑à‑dire **l’esprit intact**,  
+non fracturé, avant la naissance de la conscience.
 
 Être *à l’image* ne désigne ni forme ni apparence.  
 **L’image appartient au Fils** : Paul dit que le Christ est  
@@ -42,7 +42,7 @@ dans son état intact, non fracturé.
 par laquelle l’image se renvoie à elle-même dans l’esprit.
 
 Cette fonction apparaît dès la Genèse : l’Axe “nomme”.  
-Nommer ne signifie pas percevoir avec des sens - il n’y a pas encore de monde.  
+Nommer ne signifie pas percevoir - il n’y a pas encore de monde.  
 Nommer signifie **articuler**, **distinguer**, **signifier** :  
 c’est l’acte par lequel l’unité du Fils se réfléchit dans **l’esprit intact**.
 
@@ -67,12 +67,11 @@ comme esprit faux ou esprit juste.
 Dans Éden, il n’y a que **l’esprit intact**,  
 la fonction réflexive du Fils étendu.
 
-
 ## Le sens de l’“image” dans la Genèse
 
 Être *à l’image* ne désigne pas un individu biologique.  
 Dans la Genèse, “l’homme” désigne **l’Axe vertical du Fils étendu**,  
-c’est‑à‑dire **l’esprit** (minuscule) dans son état intact, avant la fracture.
+c’est‑à‑dire **l’esprit intact**, avant la fracture.
 
 Être à l’image signifie :
 
