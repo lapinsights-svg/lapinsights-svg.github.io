@@ -2,7 +2,7 @@
 title: "CO-VIDE 19 et devoir de mémoire"
 layout: article
 categories: ["idees"]
-description: "Réflexion critique sur la gestion du Covid-19, la confiance brisée, la censure, les décisions opaques et la nécessité d’un devoir de mémoire."
+description: "Réflexion critique sur la gestion du Covid-19"
 date: 2026-08-20
 ---
 
