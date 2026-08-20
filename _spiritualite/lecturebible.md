@@ -18,11 +18,11 @@ elle considère le texte comme une architecture de fonctions et d’axes,
 plutôt que comme un récit ou une doctrine.  
 Chaque motif appartient à une mécanique cohérente :  
 unité, dualité, articulation, réflexivité.  
-Et l’humain est le lieu où cette structure devient consciente.  
+Et l’humain est le lieu où cette structure devient visible.  
 Les passages ne sont pas lus isolément :  
 ils se répondent, se reflètent, s’ouvrent les uns par les autres.  
 La Bible est ici abordée comme une structure vivante,  
-où la conscience réunit ce que le texte déploie.
+où l’esprit réunit ce que le texte étend.
 
 Lire ainsi la Bible,  
 c’est entrer dans la dynamique du texte.  
@@ -52,8 +52,8 @@ L’Apocalypse comme naissance accomplie.
 
 Chaque motif appartient à un seul mouvement.  
 Chaque passage répond à un autre.  
-Chaque axe se déploie dans la conscience humaine,  
-lieu où la structure devient visible.
+Chaque axe se déploie dans l’esprit humain,  
+lieu où la structure se reconnaît.
 
 La Bible devient une architecture à traverser.  
 Une circulation entre les axes.  
@@ -62,8 +62,8 @@ Une unité qui se rassemble.
 
 Une structure où le Fils est l’image.  
 Où l’humain est la réflexivité.  
-Où la conscience réunit  
-ce que le texte étend.
+Où l’esprit réunit  
+ce que le texte déploie.
 
 ---
 
@@ -166,7 +166,6 @@ Je suis dans la vision.
 ---
 
 Céleste R.
-
 
 Retour au sommaire :  
 [Sommaire structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
