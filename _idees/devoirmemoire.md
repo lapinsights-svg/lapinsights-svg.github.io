@@ -120,7 +120,7 @@ YouTube a retiré des contenus,
 Twitter a suspendu des comptes.
 
 Ce verrouillage n’a pas seulement empêché des discussions.  
-Il a créé une **verticalité sanitaire**, où la parole scientifique était hiérarchisée,  
+Il a créé une verticalité sanitaire, où la parole scientifique était hiérarchisée,  
 filtrée, sanctuarisée.  
 Une science sans contradiction devient une liturgie.  
 Une liturgie sans débat devient un dogme.  
@@ -187,7 +187,7 @@ Lien :
 - [Rapport Rockefeller (PDF)](https://profidecatholica.com/wp-content/uploads/2020/05/rockefeller-foundation.pdf)
 
 Ce rapport n’est pas une preuve d’intention.  
-C’est une **projection**, une carte des possibles.  
+C’est une projection, une carte des possibles.  
 La crise a parfois ressemblé à une répétition générale.  
 Comme si le scénario était écrit,  
 et que les mécanismes étaient déjà imaginés.
@@ -234,7 +234,7 @@ Et ce texte de 2009 :
 - [Agoravox - Plantes antivirales](https://www.agoravox.fr/culture-loisirs/etonnant/article/ces-plantes-qui-tuent-les-virus-61562)
 
 Ces pistes ne sont pas des solutions miracles.  
-Ce sont des **ressources anciennes**, des savoirs latents, des strates oubliées.  
+Ce sont des ressources anciennes, des savoirs latents, des strates oubliées.  
 La crise a montré que la santé ne se limite pas à la pharmacologie.
 
 ---
