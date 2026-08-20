@@ -4,7 +4,10 @@ layout: article
 categories: ["idees"]
 description: "Réflexion critique sur la gestion du Covid-19"
 date: 2026-08-20
+og_image: /images/idees/devoirmemoire.webp
 ---
+
+![devoir](/images/idees/devoirmemoire.webp)
 
 Parce qu’un peuple qui oublie répète.  
 Parce qu’un peuple qui se tait s’expose.  
