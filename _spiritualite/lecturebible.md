@@ -23,6 +23,52 @@ ils se répondent, se reflètent, s’ouvrent les uns par les autres.
 La Bible est ici abordée comme une structure vivante,  
 où la conscience réunit ce que le texte déploie.
 
+Lire la Bible structurellement,  
+c’est entrer dans la dynamique du texte.  
+Non pas l’histoire,  
+non pas le symbole,  
+non pas la doctrine :  
+le mouvement intérieur.
+
+La structure n’est pas un décor.  
+Elle est la mécanique qui porte chaque motif.  
+Un axe se déploie,  
+une densité se contracte,  
+une polarité s’ouvre,  
+une articulation se révèle.
+
+Les approches anciennes ont éclairé des fragments.  
+Elles ont vu des images,  
+des préfigurations,  
+des expériences.  
+Elles ont donné de la profondeur,  
+mais pas la cohérence.
+
+La lecture structurelle cherche cette cohérence.  
+Elle lit Éden comme état de densité avant rupture.  
+Le Déluge comme dissolution.  
+Jonas comme gestation du centre.  
+Le Christ comme densité concentrée.  
+L’Apocalypse comme naissance accomplie.
+
+Chaque motif appartient à un seul mouvement.  
+Chaque passage répond à un autre.  
+Chaque axe se déploie dans la conscience humaine,  
+lieu où la structure devient visible.
+
+La Bible n’est plus un texte à interpréter.  
+Elle devient une architecture à traverser.  
+Une circulation entre les axes.  
+Une densité qui se reconnaît.  
+Une unité qui se rassemble.
+
+Une structure où le Fils est l’image.  
+Où l’humain est la réflexivité.  
+Où la conscience réunit  
+ce que le texte étend.
+
+---
+
 # Vision
 
 Je ne lis pas la Bible pour recevoir.  
