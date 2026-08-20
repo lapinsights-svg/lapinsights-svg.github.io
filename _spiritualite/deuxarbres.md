@@ -102,3 +102,7 @@ l’état de la polarité brisée.
 ---
 
 Céleste R.
+
+
+Retour au sommaire :  
+[Sommaire structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
