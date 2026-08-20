@@ -67,7 +67,7 @@ Tout est extension.
 # Densité concentrée
 
 Jésus n’est pas un maître.  
-Il est la densité concentrée du Fils dans une conscience humaine.
+Il est la densité concentrée du Fils dans un esprit humain.
 
 « Et la Parole devint chair » (Jn 1:14)  
 ne décrit pas un message incarné.  
