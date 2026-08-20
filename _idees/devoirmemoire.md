@@ -1,5 +1,5 @@
 ---
-title: "CO-VIDE 19 et devoir de mémoire"
+title: "CO-VID 19 et devoir de mémoire"
 layout: article
 categories: ["idees"]
 description: "Réflexion critique sur la gestion du Covid-19"
