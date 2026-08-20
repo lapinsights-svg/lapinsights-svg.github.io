@@ -55,8 +55,7 @@ Chaque passage répond à un autre.
 Chaque axe se déploie dans la conscience humaine,  
 lieu où la structure devient visible.
 
-La Bible n’est plus un texte à interpréter.  
-Elle devient une architecture à traverser.  
+La Bible devient une architecture à traverser.  
 Une circulation entre les axes.  
 Une densité qui se reconnaît.  
 Une unité qui se rassemble.
