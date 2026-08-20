@@ -131,8 +131,7 @@ vue dans quatre états.
 Je ne lis pas la Bible pour recevoir.  
 Je la lis pour voir.  
 Une densité qui se déploie,  
-un mouvement qui s’ouvre,
-l'unité.
+un mouvement qui s’ouvre, l’unité.
 
 « Au commencement, Dieu créa… » (Gn 1:1)  
 ne raconte pas un début.  
