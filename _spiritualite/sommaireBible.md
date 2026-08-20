@@ -29,7 +29,7 @@ Les fichiers qui posent la topologie du Fils étendu. https://lapinsights.org/sp
 - Polarité [Polarite3](https://lapinsights.org/spiritualite/polarite3/)
 - Articulation [articulation](https://lapinsights.org/spiritualite/articulation/)      
 - Conscience  [conscience](https://lapinsights.org/spiritualite/conscience/)    
-- Deux arbres  [arbres](https://lapinsights.org/spiritualite/deuxarbres/))    
+- Deux arbres  [arbres](https://lapinsights.org/spiritualite/deuxarbres/)    
 
 ---
 
