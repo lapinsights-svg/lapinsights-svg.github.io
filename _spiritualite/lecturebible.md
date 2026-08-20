@@ -24,7 +24,7 @@ ils se répondent, se reflètent, s’ouvrent les uns par les autres.
 La Bible est ici abordée comme une structure vivante,  
 où la conscience réunit ce que le texte déploie.
 
-Lire la Bible structurellement,  
+Lire ainsi la Bible,  
 c’est entrer dans la dynamique du texte.  
 Non pas l’histoire,  
 non pas le symbole,  
