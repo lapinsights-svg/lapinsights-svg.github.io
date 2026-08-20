@@ -67,26 +67,6 @@ ce que le texte déploie.
 
 ---
 
-# Vision
-
-Je ne lis pas la Bible pour recevoir.  
-Je la lis pour voir.  
-Une densité qui se déploie,  
-un mouvement qui s’ouvre.
-
-« Au commencement, Dieu créa… » (Gn 1:1)  
-ne raconte pas un début.  
-Il montre la densité non étendue  
-avant son extension.
-
-La Bible n’est pas un texte moralisateur.  
-Elle n’est pas un manuel religieux.  
-Elle n’est pas un ensemble de récits.  
-Elle est une architecture  
-où chaque motif appartient à un seul mouvement.
-
----
-
 # Structure
 
 La vision cherche la mécanique.  
@@ -148,6 +128,22 @@ vue dans quatre états.
 
 # Vision
 
+Je ne lis pas la Bible pour recevoir.  
+Je la lis pour voir.  
+Une densité qui se déploie,  
+un mouvement qui s’ouvre.
+
+« Au commencement, Dieu créa… » (Gn 1:1)  
+ne raconte pas un début.  
+Il montre la densité non étendue  
+avant son extension.
+
+La Bible n’est pas un texte moralisateur.  
+Elle n’est pas un manuel religieux.  
+Elle n’est pas un ensemble de récits.  
+Elle est une architecture  
+où chaque motif appartient à un seul mouvement.
+
 Je ne cherche pas la réception.  
 Je ne cherche pas l’effet.  
 Je ne cherche pas l’interprétation.
@@ -162,6 +158,7 @@ Le chandelier est la structure qui la rend visible.
 
 Je ne suis pas dans la réception.  
 Je suis dans la vision.
+
 
 ---
 
