@@ -131,7 +131,8 @@ vue dans quatre états.
 Je ne lis pas la Bible pour recevoir.  
 Je la lis pour voir.  
 Une densité qui se déploie,  
-un mouvement qui s’ouvre.
+un mouvement qui s’ouvre,
+l'unité.
 
 « Au commencement, Dieu créa… » (Gn 1:1)  
 ne raconte pas un début.  
@@ -143,14 +144,6 @@ Elle n’est pas un manuel religieux.
 Elle n’est pas un ensemble de récits.  
 Elle est une architecture  
 où chaque motif appartient à un seul mouvement.
-
-Je ne cherche pas la réception.  
-Je ne cherche pas l’effet.  
-Je ne cherche pas l’interprétation.
-
-Je cherche la structure.  
-Je cherche le mouvement.  
-Je cherche l’unité.
 
 « On n’allume pas une lampe pour la mettre sous le boisseau… » (Mt 5:15)  
 La lampe est la densité éclairée.  
