@@ -67,7 +67,7 @@ Tout est extension.
 # Densité concentrée
 
 Jésus n’est pas un maître.  
-Il est la densité concentrée du Fils dans un esprit humain.
+Il est la densité concentrée prenant forme humaine.
 
 « Et la Parole devint chair » (Jn 1:14)  
 ne décrit pas un message incarné.  
@@ -76,8 +76,8 @@ focalisée dans la chair.
 
 « Qui m’a vu a vu le Père » (Jn 14:9)  
 ne parle pas d’un Dieu extérieur.  
-Il montre la densité non étendue  
-concentrée dans une forme humaine.
+Il montre cette même densité  
+rendue visible dans une forme humaine.
 
 Les guérisons ne sont pas des miracles.  
 Elles sont des réparations de densité :  
@@ -87,8 +87,8 @@ axe redressé, lumière réouverte, polarité apaisée.
 
 # Densité guérie
 
-L’Apocalypse n’est pas une fin.  
-C’est la densité étendue refermée.
+L’Apocalypse est la densité étendue refermée,  
+non un événement historique.
 
 « Il n’y aura plus de nuit » (Ap 22:5)  
 ne décrit pas une absence de lumière.  
