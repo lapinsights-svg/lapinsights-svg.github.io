@@ -1,12 +1,10 @@
 ---
-title: "CO-VIDE 19 — Devoir de mémoire"
+title: "CO-VIDE 19 et devoir de mémoire"
 layout: article
 categories: ["idees"]
 description: "Réflexion critique sur la gestion du Covid-19, la confiance brisée, la censure, les décisions opaques et la nécessité d’un devoir de mémoire."
-date: 2026-06-16
+date: 2026-08-20
 ---
-
-# CO‑VIDE 19 — Devoir de mémoire
 
 Parce qu’un peuple qui oublie répète.  
 Parce qu’un peuple qui se tait s’expose.  
@@ -58,7 +56,6 @@ Les sénateurs ont rappelé :
 - les incohérences dans la communication chinoise.
 
 Le débat n’est pas clos.  
-Il n’a jamais été clos.
 
 ---
 
@@ -89,8 +86,7 @@ Selon EudraVigilance (8 mai 2021) :
 Source :  
 [Nouveau Monde – Effets secondaires](https://nouveau-monde.ca/quelle-est-lampleur-des-effets-secondaires-des-pseudo-vaccins-anticovid/?fbclid=IwAR2Du-RiOpfbmquAsGnL4BPG66dK5s6NVZo1DkmQxcB9JU5bQ54DcLAZGSY)
 
-Les chiffres doivent être interprétés avec prudence,  
-mais **le silence autour de ces données** a nourri la défiance.
+**Le silence autour de ces données** a nourri la défiance.
 
 ---
 
@@ -125,8 +121,8 @@ Certains documents stratégiques évoquaient dès 2010 :
 Lien :  
 [Rapport Rockefeller (PDF)](https://profidecatholica.com/wp-content/uploads/2020/05/rockefeller-foundation.pdf)
 
-Ce n’est pas une preuve d’intention,  
-mais un **cadre de réflexion** qui interroge.
+Même si ce n’est pas une preuve d’intention,  
+c'est un **cadre de réflexion** qui interroge.
 
 ---
 
@@ -172,11 +168,7 @@ Les personnes peu exposées aux antibiotiques ont parfois une immunité plus rob
 
 # Conclusion
 
-Ce texte n’est pas un verdict.  
-Ce n’est pas une théorie.  
-Ce n’est pas un dogme.
-
-C’est un **devoir de mémoire**.
+Ce texte est un **devoir de mémoire**.
 
 Pour que plus jamais :
 
@@ -185,3 +177,6 @@ Pour que plus jamais :
 - les citoyens ne soient infantilisés,  
 - les décisions ne soient opaques,  
 - la démocratie ne soit suspendue.
+
+---
+Céleste R.
