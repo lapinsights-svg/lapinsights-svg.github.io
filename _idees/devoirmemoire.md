@@ -254,7 +254,7 @@ Elle a été reléguée, parfois ignorée, souvent minimisée.
 
 # Conclusion
 
-Ce texte est un **devoir de mémoire**.  
+Ce texte est un devoir de mémoire.  
 Une pierre posée dans la nuit.  
 Un repère pour que plus jamais :
 
