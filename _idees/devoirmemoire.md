@@ -30,7 +30,7 @@ Il cherche à **voir**.
 ## 1. Le devoir de mémoire, une protection démocratique
 
 Le devoir de mémoire n’est pas un hommage.  
-C’est une **technique de survvie collective**,  
+C’est une **technique de survie collective**,  
 une lampe posée dans les fissures.
 
 Il empêche le retour :
