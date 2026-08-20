@@ -254,8 +254,7 @@ Elle a été reléguée, parfois ignorée, souvent minimisée.
 
 # Conclusion
 
-Ce texte est un devoir de mémoire.  
-Une pierre posée dans la nuit.  
+Ce texte est une pierre posée dans la nuit.  
 Un repère pour que plus jamais :
 
 - la science ne soit confisquée,  
