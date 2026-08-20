@@ -49,18 +49,17 @@ Il est la même densité, mais étendue.
 
 « Dieu vit que cela était bon » (Gn 1:10)  
 ne parle pas d’un décor extérieur.  
-Il montre la densité étendue du Fils dans la polarité.
-
-Les cieux sont la part ordonnée de l’étendu.  
-La terre est la part polarisée.
+Il montre la densité étendue du Fils  
+avant la polarité.
 
 « Les cieux racontent la gloire de Dieu » (Ps 19:2)  
 ne décrit pas le ciel physique.  
-Il montre la part ordonnée de l’étendu  
-résonnant avec la densité non étendue.
+Les cieux sont la part ordonnée de l’étendu.  
+La terre est la part encore non ordonnée.
 
 Rien n’est extérieur.  
 Tout est extension.
+
 
 ---
 
