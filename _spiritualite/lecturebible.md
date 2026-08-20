@@ -10,7 +10,7 @@ og_image: /images/spiritualite/structurebible.webp
 
 ![structurebible](/images/spiritualite/structurebible.webp)
 
-## Note éditoriale — Lecture structurelle
+## Note éditoriale 
 
 Ma lecture de la Bible est structurelle :  
 elle considère le texte comme une architecture de fonctions et d’axes,  
