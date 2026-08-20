@@ -262,9 +262,8 @@ Un repère pour que plus jamais :
 - les citoyens ne soient infantilisés,  
 - les décisions ne soient opaques,  
 - la démocratie ne soit suspendue.
-
-La mémoire n’est pas un retour en arrière.  
-C’est une **protection pour l’avenir**.  
+ 
+La mémoire est une **protection pour l’avenir**.  
 Une manière de garder les yeux ouverts dans l’obscurité.
 
 ---
