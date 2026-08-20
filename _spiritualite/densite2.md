@@ -143,7 +143,7 @@ Concentré : axe incarné.
 Guéri : polarité refermée.
 
 Une seule réalité.  
-Cinq états.  
+Quatre états.  
 Un seul mouvement.
 
 La densité n'“explique” pas la Bible.  
