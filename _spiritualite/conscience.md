@@ -42,7 +42,7 @@ dans son état intact, non fracturé.
 par laquelle l’image se renvoie à elle-même dans l’esprit.
 
 Cette fonction apparaît dès la Genèse : l’Axe “nomme”.  
-Nommer ne signifie pas percevoir avec des sens — il n’y a pas encore de monde.  
+Nommer ne signifie pas percevoir avec des sens - il n’y a pas encore de monde.  
 Nommer signifie **articuler**, **distinguer**, **signifier** :  
 c’est l’acte par lequel l’unité du Fils se réfléchit dans **l’esprit intact**.
 
