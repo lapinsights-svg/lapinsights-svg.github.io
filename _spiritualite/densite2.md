@@ -135,18 +135,20 @@ C’est la densité qui se rassemble.
 # Synthèse
 
 Non étendu : structure pure.  
-Étendu : polarité ouverte.  
+Étendu : extension ordonnée / non ordonnée.  
+Polarisé : dispersion ouverte.  
 Concentré : axe incarné.  
 Guéri : polarité refermée.
 
 Une seule réalité.  
-Quatre densités.  
+Cinq états.  
 Un seul mouvement.
 
 La densité n'“explique” pas la Bible.  
 Elle la rend cohérente.  
 Elle rend le monde intelligible.  
 Elle rend le retournement possible.
+
 
 ---
 
