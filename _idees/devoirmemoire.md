@@ -14,7 +14,8 @@ Parce qu’un peuple qui se tait s’expose.
 Parce qu’un peuple qui ne regarde pas en arrière ne comprend jamais ce qui lui est arrivé.
 
 La pandémie n’a pas seulement traversé nos corps.  
-Elle a traversé nos institutions, nos récits, nos seuils de tolérance, nos lignes de fracture.  
+Elle a traversé nos institutions, nos récits,  
+nos seuils de tolérance, nos lignes de fracture.  
 Elle a révélé ce que la démocratie cache dans ses interstices.  
 Elle a montré comment un pays peut glisser, presque sans bruit,  
 vers une gestion verticale, opaque, saturée de peur.
@@ -29,7 +30,8 @@ Il cherche à **voir**.
 ## 1. Le devoir de mémoire, une protection démocratique
 
 Le devoir de mémoire n’est pas un hommage.  
-C’est une **technique de survvie collective**, une lampe posée dans les fissures.
+C’est une **technique de survvie collective**,  
+une lampe posée dans les fissures.
 
 Il empêche le retour :
 
@@ -76,14 +78,16 @@ Ils ont demandé la **déclassification** des documents liés au Dr Fauci,
 dont 3200 emails révélés via le Freedom of Information Act.  
 Ces emails ne sont pas des preuves.  
 Ce sont des **indices**, des fragments, des zones de tension.  
-Ils montrent que la gestion de la crise n’a pas été linéaire, ni transparente, ni unifiée.
+Ils montrent que la gestion de la crise n’a pas été linéaire,  
+ni transparente, ni unifiée.
 
 ---
 
 ## 3. Les questions légitimes sur l’origine du virus
 
 L’origine du virus est un territoire nocturne.  
-Un espace où les versions s’affrontent, où les archives manquent, où les portes se referment.
+Un espace où les versions s’affrontent, où les archives manquent,  
+où les portes se referment.
 
 Les sénateurs ont rappelé :
 
