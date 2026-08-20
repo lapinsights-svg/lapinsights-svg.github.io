@@ -101,7 +101,7 @@ Il ne l’a jamais été.
 Il a simplement été **déplacé hors du champ visible**, relégué dans les marges,  
 traité comme une menace plutôt qu’une question scientifique.
 
-Le devoir de mémoire consiste à reconnaître que l’origine du virus  
+Nous devons reconnaître que l’origine du virus  
 n’a jamais été explorée avec la transparence nécessaire.
 
 ---
