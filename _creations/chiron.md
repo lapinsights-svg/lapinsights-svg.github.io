@@ -49,7 +49,7 @@ Je leur montre que la puissance n’est ni tumulte,
 ni triomphe,  
 ni conquête,  
 mais blessure tenue,  
-lumière contenue,  
+lumière réservée,  
 voix qui s’élève dans la nuit sans la déchirer.
 
 Devant toi, Seigneur, ton serviteur fracturé se présente :  
