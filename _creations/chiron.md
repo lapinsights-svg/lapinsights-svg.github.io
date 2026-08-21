@@ -25,7 +25,7 @@ sanctuaire obscur où mes deux natures se frôlent comme deux bêtes en veille.
 Sous ma peau, la bête ancienne se soulève,  
 lourde, ardente, tenue dans une fidélité plus vaste que la force.
 
-Autour de moi, les montagnes se lèvent comme des prophètes silencieux,  
+Autour de moi, les montagnes se lèvent, prophètes silencieux dans l’ombre,   
 hautes, immobiles, attentives à la moindre vibration.  
 Un vent large comme une mer en marche traverse l’étendue,  
 vient frapper mon flanc où brûle la blessure que tu as laissée,  
