@@ -63,7 +63,7 @@ présence sans désir de domination.
 Car je suis Chiron,  
 celui qui porte la course et la parole,  
 celui qui porte la douleur et la maîtrise,  
-celui qui porte la nuit et la lumière.
+celui qui porte la nuit et la clarté.
 
 À l’extrémité du monde,  
 là où les montagnes se taisent et où les mers se retirent,  
