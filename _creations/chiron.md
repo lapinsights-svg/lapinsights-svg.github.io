@@ -68,7 +68,7 @@ celui qui porte la nuit et la clarté.
 À l’extrémité du monde,  
 là où les montagnes se taisent et où les mers se retirent,  
 la blessure continue de briller,  
-comme une orientation
+comme une orientation  
 pour ceux qui cherchent l’unité  
 dans la séparation.
 
