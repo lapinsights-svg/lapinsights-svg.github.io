@@ -29,7 +29,7 @@ Autour de moi, les montagnes se lèvent, prophètes silencieux dans l’ombre,
 hautes, immobiles, attentives à la moindre vibration.  
 Un vent large comme une mer en marche traverse l’étendue,  
 vient frapper mon flanc où brûle la blessure que tu as laissée,  
-une blessure ouverte éclairant, lampe d’altitude  
+une blessure ouverte qui éclaire, lampe d’altitude
 que nul souffle ne renverse.
 
 Dans cette ardeur intime, chaque geste devient offrande,  
