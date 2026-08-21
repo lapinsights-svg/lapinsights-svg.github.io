@@ -7,6 +7,15 @@ tags: ["chiron", "mythe", "nuit", "blessure", "incantation", "double", "respirat
 og_image: /images/creations/chiron.webp
 ---
 
+*Cliquer sur play pour voir Chiron.*
+
+<video controls playsinline width="100%">
+  <source src="/assets/videos/Chiron.mp4" type="video/mp4">
+  Votre navigateur ne peut pas lire cette vidéo.
+</video>
+
+<br><br>
+<p></p>
 
 
 # Chiron, dans la grande nuit
