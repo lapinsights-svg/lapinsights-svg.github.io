@@ -56,7 +56,7 @@ Devant toi, Seigneur, ton serviteur fracturé se présente :
 je ne demande pas la guérison.  
 Je demande la continuité,  
 celle qui garde la blessure ouverte  
-pour que ta lumière y passe comme un vent d’altitude,  
+pour que ta lumière y passe comme un vent de cime,  
 parole sans volonté de convaincre,  
 présence sans désir de domination.
 
