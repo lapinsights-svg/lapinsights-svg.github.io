@@ -1,0 +1,67 @@
+---
+title: "Chiron, dans la grande nuit"
+resume: "Une incantation nocturne où la blessure devient passage"
+date: "2026-08-21"
+categories: creations
+tags: ["chiron", "mythe", "nuit", "blessure", "incantation", "double", "respiration"]
+og_image: /images/creations/chiron.webp
+---
+
+
+
+# Chiron, dans la grande nuit
+
+Seigneur, je me tiens dans la grande nuit que tu as dressée autour de moi,  
+nuit profonde où mes deux natures se frôlent comme deux bêtes en veille.  
+Sous ma peau, la bête ancienne se soulève,  
+lourde, ardente, tenue dans une fidélité plus vaste que la force.
+
+Autour de moi, les montagnes se lèvent comme des prophètes silencieux,  
+hautes, immobiles, attentives à la moindre vibration.  
+Un vent large comme une mer en marche traverse l’étendue,  
+vient frapper mon flanc où brûle la blessure que tu as laissée,  
+blessure ouverte qui éclaire comme une lampe d’altitude  
+que nul souffle ne renverse.
+
+Dans cette lueur tamisée, chaque geste devient offrande,  
+chaque pas soulève la terre comme une poitrine vivante,  
+chaque élan fait circuler dans mes deux natures  
+la grande respiration du monde.  
+Tu m’as fait double,  
+double et vaste,  
+double et capable de porter la lumière sans la répandre.
+
+Dans la solitude des pierres, je parle aux héros  
+comme on parle aux voyageurs perdus cherchant un passage.  
+Je leur transmets la science des vents,  
+la patience des astres,  
+la fidélité des racines.  
+Je leur montre que la puissance n’est ni tumulte,  
+ni triomphe,  
+ni conquête,  
+mais blessure tenue,  
+lumière contenue,  
+voix qui s’élève dans la nuit sans la déchirer.
+
+Devant toi, Seigneur, ton serviteur fracturé se présente :  
+je ne demande pas la guérison.  
+Je demande la continuité,  
+celle qui garde la blessure ouverte  
+pour que ta lumière y passe comme un vent d’altitude,  
+comme une parole qui ne cherche pas à convaincre,  
+comme une présence qui ne cherche pas à dominer.
+
+Car je suis Chiron,  
+celui qui porte la course et la parole,  
+celui qui porte la douleur et la maîtrise,  
+celui qui porte la nuit et la lumière.
+
+À l’extrémité du monde,  
+là où les montagnes se taisent et où les mers se retirent,  
+la blessure continue de briller,  
+comme un signe  
+pour ceux qui cherchent l’unité  
+dans la séparation.
+---
+
+Céleste R.
