@@ -34,7 +34,7 @@ que nul souffle ne renverse.
 
 Dans cette ardeur intime, chaque geste devient offrande,  
 chaque pas soulève la terre comme une poitrine vivante,  
-chaque élan fait circuler dans mes deux natures  
+chaque élan fait circuler dans mes deux ondes  
 la grande respiration du monde.  
 Tu m’as fait double,  
 double et vaste,  
