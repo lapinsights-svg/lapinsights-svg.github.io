@@ -21,7 +21,7 @@ og_image: /images/creations/chiron.webp
 # Chiron, dans la grande nuit
 
 Seigneur, je me tiens dans la grande nuit que tu as dressée autour de moi,  
-nuit profonde où mes deux natures se frôlent comme deux bêtes en veille.  
+sanctuaire obscur où mes deux natures se frôlent comme deux bêtes en veille.  
 Sous ma peau, la bête ancienne se soulève,  
 lourde, ardente, tenue dans une fidélité plus vaste que la force.
 
