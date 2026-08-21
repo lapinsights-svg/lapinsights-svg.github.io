@@ -29,7 +29,7 @@ Autour de moi, les montagnes se lèvent, prophètes silencieux dans l’ombre,
 hautes, immobiles, attentives à la moindre vibration.  
 Un vent large comme une mer en marche traverse l’étendue,  
 vient frapper mon flanc où brûle la blessure que tu as laissée,  
-une blessure ouverte éclairant comme une lampe d’altitude  
+une blessure ouverte éclairant, lampe d’altitude  
 que nul souffle ne renverse.
 
 Dans cette ardeur intime, chaque geste devient offrande,  
@@ -57,8 +57,8 @@ je ne demande pas la guérison.
 Je demande la continuité,  
 celle qui garde la blessure ouverte  
 pour que ta lumière y passe comme un vent d’altitude,  
-comme une parole qui ne cherche pas à convaincre,  
-comme une présence qui ne cherche pas à dominer.
+parole sans volonté de convaincre,  
+présence sans désir de domination.
 
 Car je suis Chiron,  
 celui qui porte la course et la parole,  
