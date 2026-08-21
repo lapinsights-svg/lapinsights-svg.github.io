@@ -29,10 +29,10 @@ Autour de moi, les montagnes se lèvent comme des prophètes silencieux,
 hautes, immobiles, attentives à la moindre vibration.  
 Un vent large comme une mer en marche traverse l’étendue,  
 vient frapper mon flanc où brûle la blessure que tu as laissée,  
-blessure ouverte qui éclaire comme une lampe d’altitude  
+une blessure ouverte éclairant comme une lampe d’altitude  
 que nul souffle ne renverse.
 
-Dans cette lueur tamisée, chaque geste devient offrande,  
+Dans cette ardeur intime, chaque geste devient offrande,  
 chaque pas soulève la terre comme une poitrine vivante,  
 chaque élan fait circuler dans mes deux natures  
 la grande respiration du monde.  
