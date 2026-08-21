@@ -71,6 +71,7 @@ la blessure continue de briller,
 comme un signe  
 pour ceux qui cherchent l’unité  
 dans la séparation.
+
 ---
 
 Céleste R.
