@@ -6,16 +6,15 @@ layout: article
 og_image: /images/creations/triadeObscure.webp
 ---
 
+*Cliquer sur la vidéo pour voir la Triade.*
 
-*Cliquer sur play pour voir la Triade.*
-
-<video controls playsinline width="100%">
-  <source src="/assets/videos/Triade.mp4" type="video/mp4">
+<video controls autoplay muted loop playsinline style="width:100%; border-radius:12px;">
+  <source src="https://pub-914b23d6d66941e0912cc9a09679bec4.r2.dev/Triade.mp4" type="video/mp4">
   Votre navigateur ne peut pas lire cette vidéo.
 </video>
 
 <br><br>
-<p></p>
+
 
 # Fragment de la Triade Obscure 
 
