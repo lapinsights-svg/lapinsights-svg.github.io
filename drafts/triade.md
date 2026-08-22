@@ -6,7 +6,6 @@ layout: article
 og_image: /images/creations/triadeObscure.webp
 ---
 
-
 # Fragment de la Triade Obscure 
 
 ## Prologue
@@ -42,6 +41,16 @@ Elle n’étreint pas : elle enveloppe les âmes.
 Elle ne tue pas : elle transforme les cœurs en récits,  
 et les récits deviennent chaînes pour les faibles.
 
+**Ses mains ouvertes ne donnent rien,  
+ses bras accueillent mais ne s’offrent pas,  
+car recevoir est son royaume,  
+et donner serait céder sa vie.**
+
+**Elle recueille les élans des vivants,  
+mais garde son souffle comme une citadelle.  
+Car dans sa nuit,  
+donner est mourir un peu.**
+
 Le chœur frappe le sol :  
 **"Malheur, malheur, malheur  
 à celui qui confond la douceur avec la délivrance,  
@@ -65,6 +74,17 @@ où les noms se dissolvent comme des feuilles dans l’eau,
 où les voix se perdent comme des prières sans temple,  
 où les cœurs se taisent comme des tours d'ivoire.
 
+**Elle voit dans le don une chaîne,  
+dans la tendresse une menace,  
+dans l’amour une main qui réclame.  
+Car pour Medusara,  
+la douceur est un glaive déguisé.**
+
+**Elle murmure que donner, c’est aliéner,  
+que l’offrande est un piège,  
+que la main tendue réclame toujours un tribut.  
+Ainsi brûle-t-elle les liens avant qu’ils ne naissent.**
+
 Le chœur se lamente :  
 **« Malheur, malheur, malheur  
 à celui qui cherche la lumière dans une eau sans fond,  
@@ -83,6 +103,16 @@ Elle scintille comme une promesse qui fuit,
 elle frôle comme une vérité qui tremble,  
 elle effleure comme une présence qui ment.
 
+**Elle relâche les attaches avant qu’elles ne serrent,  
+elle fuit les mains qui voudraient la retenir.  
+Car Nyctilée ne se pose jamais :  
+la lumière qui danse ne connaît pas la demeure.**
+
+**Elle laisse s’échapper les élans,  
+comme des promesses dissoutes dans la nuit,  
+car se poser serait révéler ses fissures,  
+et aimer serait tomber.**
+
 Car si elle tombait dans la lumière des hommes,  
 les fissures cousues dans ses ailes éclateraient,  
 et la nuit perdrait son pouvoir sur les vivants.
@@ -96,31 +126,39 @@ car la lueur qui charme est la lueur qui fuit. »**
 
 ## EXODOS
 
-Et toi, Céleste, tu marches hors de ses royaumes,
-hors de la toile, de l’eau, de la nuit profonde.
-Tu avances comme une flamme dans un temple désert,
+Et toi, Céleste, tu marches hors de ses royaumes,  
+hors de la toile, de l’eau, de la nuit profonde.  
+Tu avances comme une flamme dans un temple désert,  
 comme une vérité que les ombres ne peuvent couvrir.
 
-Tu vois les trois masques, les trois formes, les trois ombres,
-mais une seule créature, une seule faim, une seule nuit.
-Tu reconnais l’unité sous la multiplicité,
+Tu vois les trois masques, les trois formes, les trois ombres,  
+mais une seule créature, une seule faim, une seule nuit.  
+Tu reconnais l’unité sous la multiplicité,  
 l’ombre unique qui se divise pour mieux envelopper.
 
-Aucun mythe ne peut te lier,
-aucune douceur ne peut t’endormir,
-car tu connais la structure des dieux,
+**Car toi, Céleste, tu lis les masques sous les mots,  
+tu vois la toile sous la douceur,  
+le glaive sous la pureté,  
+la fuite sous la lumière.  
+Tu connais la Triade dans ses trois mensonges,  
+et aucun de ses royaumes ne peut t’aveugler.**
+
+Aucun mythe ne peut te lier,  
+aucune douceur ne peut t’endormir,  
+car tu connais la structure des dieux,  
 leurs métamorphoses, leurs venins de lumière.
 
-Tu es celle qui traverse, celle qui voit, celle qui demeure,
+Tu es celle qui traverse, celle qui voit, celle qui demeure,  
 celle que la Triade Obscure ne peut jamais prendre.
 
-Le chœur proclame : 
-**"Voici celle qui franchit les frontières des ombres,
-celle dont les pas échappent aux ténèbres,
-celle dont l’œil perce les voiles des illusions.
-Les dieux changent de forme,
-les ombres changent de nom,
+Le chœur proclame :  
+**"Voici celle qui franchit les frontières des ombres,  
+celle dont les pas échappent aux ténèbres,  
+celle dont l’œil perce les voiles des illusions.  
+Les dieux changent de forme,  
+les ombres changent de nom,  
 mais la lucidité demeure."**
 
 ---
+
 Céleste.
