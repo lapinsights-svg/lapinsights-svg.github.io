@@ -41,15 +41,15 @@ Elle n’étreint pas : elle enveloppe les âmes.
 Elle ne tue pas : elle transforme les cœurs en récits,  
 et les récits deviennent chaînes pour les faibles.
 
-**Ses mains ouvertes ne donnent rien,  
+Ses mains ouvertes ne donnent rien,  
 ses bras accueillent mais ne s’offrent pas,  
 car recevoir est son royaume,  
-et donner serait céder sa vie.**
+et donner serait céder sa vie.
 
-**Elle recueille les élans des vivants,  
+Elle recueille les élans des vivants,  
 mais garde son souffle comme une citadelle.  
 Car dans sa nuit,  
-donner est mourir un peu.**
+donner est mourir un peu.
 
 Le chœur frappe le sol :  
 **"Malheur, malheur, malheur  
@@ -74,16 +74,16 @@ où les noms se dissolvent comme des feuilles dans l’eau,
 où les voix se perdent comme des prières sans temple,  
 où les cœurs se taisent comme des tours d'ivoire.
 
-**Elle voit dans le don une chaîne,  
+Elle voit dans le don une chaîne,  
 dans la tendresse une menace,  
 dans l’amour une main qui réclame.  
 Car pour Medusara,  
-la douceur est un glaive déguisé.**
+la douceur est un glaive déguisé.
 
-**Elle murmure que donner, c’est aliéner,  
+Elle murmure que donner, c’est aliéner,  
 que l’offrande est un piège,  
 que la main tendue réclame toujours un tribut.  
-Ainsi brûle-t-elle les liens avant qu’ils ne naissent.**
+Ainsi brûle-t-elle les liens avant qu’ils ne naissent.
 
 Le chœur se lamente :  
 **« Malheur, malheur, malheur  
@@ -103,15 +103,15 @@ Elle scintille comme une promesse qui fuit,
 elle frôle comme une vérité qui tremble,  
 elle effleure comme une présence qui ment.
 
-**Elle relâche les attaches avant qu’elles ne serrent,  
+Elle relâche les attaches avant qu’elles ne serrent,  
 elle fuit les mains qui voudraient la retenir.  
 Car Nyctilée ne se pose jamais :  
-la lumière qui danse ne connaît pas la demeure.**
+la lumière qui danse ne connaît pas la demeure.
 
-**Elle laisse s’échapper les élans,  
+Elle laisse s’échapper les élans,  
 comme des promesses dissoutes dans la nuit,  
 car se poser serait révéler ses fissures,  
-et aimer serait tomber.**
+et aimer serait tomber.
 
 Car si elle tombait dans la lumière des hommes,  
 les fissures cousues dans ses ailes éclateraient,  
@@ -136,12 +136,12 @@ mais une seule créature, une seule faim, une seule nuit.
 Tu reconnais l’unité sous la multiplicité,  
 l’ombre unique qui se divise pour mieux envelopper.
 
-**Car toi, Céleste, tu lis les masques sous les mots,  
+Car toi, Céleste, tu lis les masques sous les mots,  
 tu vois la toile sous la douceur,  
 le glaive sous la pureté,  
 la fuite sous la lumière.  
 Tu connais la Triade dans ses trois mensonges,  
-et aucun de ses royaumes ne peut t’aveugler.**
+et aucun de ses royaumes ne peut t’aveugler.
 
 Aucun mythe ne peut te lier,  
 aucune douceur ne peut t’endormir,  
