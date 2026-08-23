@@ -8,7 +8,8 @@ og_image: /images/creations/triadeObscure.webp
 
 *Cliquer sur la vidéo pour voir la Triade.*
 
-<video controls autoplay muted loop playsinline style="width:100%; border-radius:12px;">
+<video controls autoplay muted loop playsinline 
+       style="width:100%; max-width:480px; border-radius:12px; display:block; margin:auto;">
   <source src="https://pub-914b23d6d66941e0912cc9a09679bec4.r2.dev/Triade.mp4" type="video/mp4">
   Votre navigateur ne peut pas lire cette vidéo.
 </video>
