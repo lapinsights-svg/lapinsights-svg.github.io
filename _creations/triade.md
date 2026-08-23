@@ -147,7 +147,7 @@ mais une seule créature, une seule faim, une seule nuit.
 Tu reconnais l’unité sous la multiplicité,  
 l’ombre unique qui se divise pour mieux envelopper.
 
-Car toi, Céleste, tu lis les masques sous les mots,  
+Tu lis les masques sous les mots,  
 tu vois la toile sous la douceur,  
 le glaive sous la pureté,  
 la fuite sous la lumière.  
@@ -158,9 +158,6 @@ Aucun mythe ne peut te lier,
 aucune douceur ne peut t’endormir,  
 car tu connais la structure des dieux,  
 leurs métamorphoses, leurs venins de lumière.
-
-Tu es celle qui traverse, celle qui voit, celle qui demeure,  
-celle que la Triade Obscure ne peut jamais prendre.
 
 Le chœur proclame :  
 **"Voici celle qui franchit les frontières des ombres,  
