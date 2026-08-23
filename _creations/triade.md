@@ -83,7 +83,7 @@ l’amour un piège pour les âmes tremblantes."
 Et les mortels tombent dans l’abîme sans mémoire,  
 où les noms se dissolvent comme des feuilles dans l’eau,  
 où les voix se perdent comme des prières sans temple,  
-où les cœurs se taisent comme des tours d'ivoire.
+où les cœurs se murent dans des tours d'ivoire.
 
 Elle voit dans le don une chaîne,  
 dans la tendresse une menace,  
