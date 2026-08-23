@@ -44,7 +44,7 @@ La rupture commence lorsqu’ils cessent de se rencontrer.
 
 ### Relier les deux arbres
 
-Relier les deux arbres, c’est restaurer la conscience capable de  
+Relier les deux arbres, c’est restaurer l'esprit capable de  
 distinguer sans se séparer,  
 percevoir sans se replier,  
 connaître sans posséder.  
