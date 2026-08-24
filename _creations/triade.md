@@ -124,7 +124,7 @@ comme des promesses dissoutes dans la nuit,
 car se poser serait révéler ses fissures,  
 et aimer serait tomber.
 
-Car si elle tombait dans la lumière des hommes,  
+Car si elle glissait dans la lumière des hommes,  
 les fissures cousues dans ses ailes éclateraient,  
 et la nuit perdrait son pouvoir sur les vivants.
 
