@@ -12,7 +12,7 @@ tags:
 ---
 ![abyme](/images/spiritualite/abyme.webp)
 
-# La structure intérieure de la Bible
+# Mise en abyme
 
 La Bible est la longue introspection du Fils.  
 Elle n’avance pas comme un récit.  
