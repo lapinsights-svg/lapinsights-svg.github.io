@@ -65,7 +65,7 @@ Dispersées.
 Figées.  
 Réouvertes.  
 Unifiées.  
-Guéries.
+Guéries.  
 Abraham est le père des nations parce qu’il est le père de la polarité réconciliée.
 
 Lorsque Jésus apparaît, la structure se concentre.  
