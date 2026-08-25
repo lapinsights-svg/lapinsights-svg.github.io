@@ -1,11 +1,16 @@
 ---
-categories: idees
+categories: spiritualite
 date: 2026-07-04
 title: "La mise en abyme du motif"
 episode: "La structure intérieure de la Bible"
 resume: "Une architecture fractale, non une suite d’histoires."
 layout: article
+og_image: /images/spiritualite/abyme.webp
+tags:
+  - bible
+  - structure
 ---
+![abyme](/images/spiritualite/abyme.webp)
 
 # La structure intérieure de la Bible
 
