@@ -1,6 +1,6 @@
 ---
 categories: spiritualite
-date: 2026-07-04
+date: 2026-08-25
 title: "La mise en abyme du motif"
 episode: "La structure intérieure de la Bible"
 resume: "Une architecture fractale, non une suite d’histoires."
@@ -40,7 +40,7 @@ Elle porte le Fils étendu à travers le chaos.
 Pierre le dira : le Déluge est la figure du baptême.  
 La traversée matricielle avant la traversée incarnée.  
 Jonas rejouera cette descente dans l’homme.  
-Le Christ l’accomplira dans la densité concentrée.
+Le Christ l’accomplira comme densité concentrée.
 
 Jonas descend dans les eaux comme le monde descendit dans le Déluge.  
 Il disparaît dans le ventre du poisson.  
@@ -65,8 +65,8 @@ Dispersées.
 Figées.  
 Réouvertes.  
 Unifiées.  
-Guéries selon les livres.  
-Abraham devient le père des nations parce qu’il devient le père de la polarité réconciliée.
+Guéries.
+Abraham est le père des nations parce qu’il est le père de la polarité réconciliée.
 
 Lorsque Jésus apparaît, la structure se concentre.  
 Le Fils entier se replie dans une seule forme.  
@@ -83,7 +83,7 @@ Quand il pardonne, la filiation se reconnecte.
 Chaque scène reconfigure le Fils étendu par le Fils concentré.  
 La Bible montre sa propre mécanique en acte.
 
-Il ne dit pas « je suis avant Abraham » pour se placer au-dessus de lui.  
+Il ne dit pas "je suis avant Abraham" pour se placer au-dessus de lui.  
 Il montre que la polarité parfaite précède la polarité réouverte.  
 Que la réconciliation précède la marche.  
 Que l’axe divin précède l’axe humain.  
@@ -120,11 +120,11 @@ la guérison accomplie.
 La Bible est le Fils qui se regarde dans ses propres extensions.  
 Elle n’est pas un ensemble d’histoires.  
 Elle est la trajectoire du Fils dans sa propre matière.  
-Elle ne raconte pas : elle replie.  
-Elle ne explique pas : elle révèle.  
-Elle ne décrit pas : elle se reconnaît.
+Elle replie.  
+Elle révèle.  
+Elle se reconnaît.
 
-La Bible est le Fils en train de naître.
+La Bible est la naissance du Fils.
 
 ---
 
