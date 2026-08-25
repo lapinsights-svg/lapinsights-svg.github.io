@@ -36,8 +36,8 @@ Les fichiers qui posent la topologie du Fils étendu. https://lapinsights.org/sp
 ## II. Méthodologie de lecture  
 Ces fichiers préparent la lecture structurelle de la Bible.  
 
-- Lecture de la Bible — [lecturebible](https://lapinsights.org/spiritualite/lecturebible/)  
-- Structure intérieure de la Bible — abyme.  
+- Lecture de la Bible — [lecturebible](https://lapinsights.org/spiritualite/lecturebible/)   
+- Structure intérieure de la Bible — [abyme]([https://lapinsights.org/spiritualite/abyme)
 
 ---
 
