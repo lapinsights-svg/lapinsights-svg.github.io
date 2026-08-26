@@ -98,7 +98,7 @@ Le projet pourrait échouer si des mafias prennent le contrôle local, si des mi
 
 ## Conclusion : Un projet pour un monde qui n'existe pas encore
 
-Revoludroit n'est pas un programme politique. C'est un plan de civilisation. Il ne parle pas du présent, mais du futur possible. Il ne cherche pas à sauver le système, mais à lui survivre. Il puise dans les corporations médiévales, les communes libres, les villes hanséatiques, les chartes anciennes, les monnaies publiques, les reconstructions post-guerre. Il dit : « Le monde va changer. Préparons ce qui viendra après. »
+Revoludroit n'est pas un programme politique. C'est un plan de civilisation. Il ne parle pas du présent, mais du futur possible. Il ne cherche pas à sauver le système, mais à lui survivre. Il puise dans les corporations médiévales, les communes libres, les villes hanséatiques, les chartes anciennes, les monnaies publiques, les reconstructions post-guerre. Il dit : "Le monde va changer. Préparons ce qui viendra après."
 
 Si Valérie Bugault a conçu l'architecture initiale de Révoludroit, ce projet n'est pas celui d'une seule personne. Il se nourrit de la contribution de citoyens qui partagent la conviction que la réorganisation du droit doit être un chantier commun. C'est une œuvre collective, parce que l'avenir de nos institutions concerne chacun d'entre nous.
 
