@@ -13,7 +13,10 @@ tags:
   - Non-dualité
   - Conscience
   - Esprit
+og_image: /images/spiritualite/paix.webp
 ---
+
+![paix](/images/spiritualite/paix.webp)
 
 # Les trois paix : phénoménale, ontologique, psychologique  
 
