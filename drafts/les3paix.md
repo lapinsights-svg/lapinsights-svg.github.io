@@ -18,6 +18,8 @@ og_image: /images/spiritualite/paix.webp
 
 ![paix](/images/spiritualite/paix.webp)
 
+*vignette : Là où le mental se défait, la lumière demeure.* 
+
 # Les trois paix : phénoménale, ontologique, psychologique  
 
 
