@@ -162,7 +162,8 @@ Elle apparaît dans l’esprit juste,
 lorsque la conscience cesse de bloquer cette correction.  
 L’esprit juste est la partie corrigée du mind capable de refléter l’action de l’Esprit sans la déformer.
 
-Dire que Kenneth ne l’a pas atteinte est interprétatif,  
+Kenneth ne l’a probablement pas atteinte.  
+C'est interprétatif,  
 mais cohérent avec ses enseignements,  
 qui restent centrés sur la croyance dans le mental.
 
