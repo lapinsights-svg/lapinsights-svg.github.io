@@ -150,13 +150,13 @@ Elle est causée par l’Esprit, via le pardon christologique.
 UCEM dit :  
 > "L’esprit juste est le meilleur que tu puisses atteindre dans ce monde."
 
-La paix phénoménale n’est pas une introspection.  
-Elle n’est pas une discipline mentale.  
-Elle n’est pas une réduction des conflits internes.  
-Elle est la conséquence de la correction christologique  
-déjà accomplie dans l’Esprit.  
-**Elle apparaît dans la conscience lorsque celle‑ci cesse de bloquer cette correction.  
-Elle se manifeste dans l’esprit juste, qui est la partie de la conscience capable de refléter l’action de l’Esprit sans la déformer.**
+La paix phénoménale n’est pas une introspection.
+Elle n’est pas une discipline mentale.
+Elle n’est pas une réduction des conflits internes.
+Elle est la conséquence de la correction christologique
+déjà accomplie dans l’Esprit.
+Elle apparaît dans l’esprit juste, lorsque la conscience cesse de bloquer cette correction.
+L’esprit juste est la partie corrigée du mind capable de refléter l’action de l’Esprit sans la déformer.
 
 Dire que Kenneth ne l’a pas atteinte est interprétatif,  
 mais cohérent avec ses enseignements,  
