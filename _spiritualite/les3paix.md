@@ -150,7 +150,9 @@ La paix phénoménale n’est pas une introspection.
 Elle n’est pas une discipline mentale.  
 Elle n’est pas une réduction des conflits internes.  
 Elle est la conséquence de la correction christologique  
-déjà accomplie dans l’Esprit.
+déjà accomplie dans l’Esprit.  
+**Elle apparaît dans la conscience lorsque celle‑ci cesse de bloquer cette correction.  
+Elle se manifeste dans l’esprit juste, qui est la partie de la conscience capable de refléter l’action de l’Esprit sans la déformer.**
 
 Dire que Kenneth ne l’a pas atteinte est interprétatif,  
 mais cohérent avec ses enseignements,  
