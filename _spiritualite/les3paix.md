@@ -152,7 +152,6 @@ UCEM dit :
 
 La paix phénoménale n’est pas une introspection.  
 Elle n’est pas une discipline mentale.  
-Elle n’est pas une réduction des conflits internes.  
 Elle est la conséquence de la correction christologique. 
 déjà accomplie dans l’Esprit.  
 La paix phénoménale n’est pas une réduction des conflits internes,  
