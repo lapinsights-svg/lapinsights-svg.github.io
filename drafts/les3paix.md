@@ -75,7 +75,7 @@ Or UCEM distingue strictement Spirit (Esprit non-duel), mind (mental fictif),
 right mind (mental aligné), wrong mind (mental egoïque), et decision‑making mind (fonction psychologique).
 
 UCEM dit :  
-> « L’Esprit est toujours un. »
+> "L’Esprit est toujours un."
 
 L’Esprit ne peut pas choisir.  
 Le mental, lui, peut choisir.  
@@ -138,7 +138,7 @@ Elle est accessible dans ce monde, mais elle n’est pas produite par le mental.
 Elle est causée par l’Esprit, via le pardon christologique.
 
 UCEM dit :  
-> « L’esprit juste est le meilleur que tu puisses atteindre dans ce monde. »
+> "L’esprit juste est le meilleur que tu puisses atteindre dans ce monde."
 
 La paix phénoménale n’est pas une introspection.  
 Elle n’est pas une discipline mentale.  
