@@ -74,8 +74,7 @@ Pour comprendre la nature de la paix que Kenneth enseignait, il faut se tourner 
 Il dit par exemple :  
 > “The mind that chooses between the ego and the Holy Spirit is the spirit.”
 
-Cette phrase est vérifiable.  
-Elle montre que Kenneth identifie le mind au spirit.  
+Cette phrase montre que Kenneth identifie le mind au spirit.  
 Or UCEM distingue strictement Spirit (Esprit non-duel), mind (mental fictif),  
 right mind (mental aligné), wrong mind (mental egoïque), et decision‑making mind (fonction psychologique).
 
@@ -98,7 +97,7 @@ Il dit aussi :
 
 Mais UCEM dit que l’Esprit n’a pas de travail, qu’il est déjà parfait.  
 Le mental, lui, peut être entraîné.  
-Kenneth confond encore les niveaux.
+C'est une confusion des niveaux.
 
 Enfin, il dit :  
 > “The Holy Spirit is in the part of the mind that chooses.”
@@ -162,8 +161,6 @@ Elle n’est pas un objectif ici.
 Elle est l’état du Fils en Dieu.
 
 UCEM dit que cette paix dépasse toute compréhension et qu’elle est entièrement au-delà du monde.  
-Dire que Kenneth l’a confondue avec la paix psychologique est une hypothèse.  
-Savoir ce qu’il a réellement vécu est non confirmable.
 
 ---
 
