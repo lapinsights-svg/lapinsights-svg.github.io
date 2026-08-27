@@ -155,8 +155,13 @@ Elle n’est pas une discipline mentale.
 Elle n’est pas une réduction des conflits internes.  
 Elle est la conséquence de la correction christologique. 
 déjà accomplie dans l’Esprit.  
-Elle apparaît dans l’esprit juste, lorsque la conscience cesse de bloquer cette correction.  
-L’esprit juste est la partie corrigée du mind capable de refléter l’action de l’Esprit sans la déformer.  
+La paix phénoménale n’est pas une réduction des conflits internes,  
+mais une lumière qui les traverse sans les modifier.  
+C’est le pardon qui dissout la peur qu’ils produisent,  
+en réduisant la croyance qui leur donne réalité.  
+Elle apparaît dans l’esprit juste,   
+lorsque la conscience cesse de bloquer cette correction.  
+L’esprit juste est la partie corrigée du mind capable de refléter l’action de l’Esprit sans la déformer.
 
 Dire que Kenneth ne l’a pas atteinte est interprétatif,  
 mais cohérent avec ses enseignements,  
