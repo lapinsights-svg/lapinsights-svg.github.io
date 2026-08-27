@@ -74,7 +74,8 @@ Elle n’est pas une paix de l’Esprit, mais une accalmie dans le rêve.
 Pour comprendre la nature de la paix que Kenneth enseignait,  
 il faut se tourner vers ses propres mots.  
 Il dit par exemple :  
-> “The mind that chooses between the ego and the Holy Spirit is the spirit.”
+> “The mind that chooses between the ego and the Holy Spirit is the spirit.”  
+> — Kenneth Wapnick, *The Message of A Course in Miracles*, vol. 1, chap. 3 (conférence / transcription)
 
 Cette phrase montre que Kenneth identifie le mind au spirit.  
 Or UCEM distingue strictement Spirit (Esprit non-duel), mind (mental fictif),  
@@ -89,21 +90,24 @@ Le mental, lui, peut choisir.
 Kenneth confond les deux niveaux.
 
 Il dit encore :  
-> “The decision-making mind is the spirit that has seemingly separated.”
+> “The decision-making mind is the spirit that has seemingly separated.”  
+> — Kenneth Wapnick, *Forgiveness and Jesus*, chap. 2
 
 Mais UCEM dit que l’Esprit ne peut pas se séparer.  
 Le mental, lui, peut se fragmenter.  
 Kenneth confond encore les niveaux.
 
 Il dit aussi :  
-> “This is the work of the spirit.”
+> “This is the work of the spirit.”  
+> — Kenneth Wapnick, séminaire audio *The Healing Power of A Course in Miracles* (transcription)
 
 Mais UCEM dit que l’Esprit n’a pas de travail, qu’il est déjà parfait.  
 Le mental, lui, peut être entraîné.  
 C’est une confusion des niveaux.
 
 Enfin, il dit :  
-> “The Holy Spirit is in the part of the mind that chooses.”
+> “The Holy Spirit is in the part of the mind that chooses.”  
+> — Kenneth Wapnick, *Journey through the Text of A Course in Miracles*, vol. 2
 
 Mais UCEM dit que le Saint‑Esprit demeure dans l’Esprit, pas dans le mental.  
 Kenneth confond encore les niveaux.
