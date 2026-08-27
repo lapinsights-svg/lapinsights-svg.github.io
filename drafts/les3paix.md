@@ -15,247 +15,196 @@ tags:
   - Esprit
 ---
 
-# Les trois paix : phénoménale, ontologique, psychologique
+# Les trois paix : phénoménale, ontologique, psychologique  
 
-UCEM distingue **deux** paix :
 
-- la **paix phénoménale** (esprit juste),  
-- la **Paix de Dieu** (ontologique).
+Dans l’univers d’Un Cours en Miracles, la paix n’est jamais un bloc uniforme.  
+Elle se déploie en strates, en profondeurs, en niveaux qui ne se confondent pas.  
+Le texte lui-même n’en nomme que deux : la paix phénoménale,  
+accessible dans ce monde, et la Paix de Dieu,  
+qui appartient à l’unité ontologique.  
+Mais l’expérience moderne, les pratiques contemporaines,  
+et surtout l’enseignement de Kenneth Wapnick,  
+ont introduit une troisième forme de paix : la paix psychologique,  
+qui ressemble à une paix, qui apaise comme une paix,  
+mais qui n’est pas la paix christologique du Cours.
 
-Il existe cependant une **troisième paix**, non mentionnée par UCEM, mais souvent confondue avec les deux autres :  
-la **paix psychologique**, produite par le mental.
+Cette paix psychologique est réelle dans le rêve,  
+mais elle n’est pas réelle ontologiquement.  
+Elle est une détente dans une fiction,  
+une accalmie dans un théâtre perceptif que le Cours appelle le mental.  
+Et c’est précisément là que se loge la confusion de Wapnick :  
+dans la manière dont il a fusionné Spirit, mind, esprit juste, esprit faux,  
+et decision‑making mind, comme si ces niveaux appartenaient à une seule et même substance,  
+alors que le Cours les sépare avec une rigueur absolue.
 
-Ce texte expose ces trois niveaux et clarifie le cas Wapnick, avec preuves directes.
-
----
-
-# 1. La paix psychologique (mind/mental)
-
-Cette paix n’appartient **pas** à UCEM.  
-Elle est produite par :
-
-- introspection,  
-- observation des pensées,  
-- analyse émotionnelle,  
-- discipline mentale,  
-- réduction des conflits internes.
-
-Elle est **duelle**, **fragile**, **conditionnée**, et appartient au domaine de la **conscience** (mind), que UCEM appelle :
-
-> « La conscience est le domaine de l’ego. »  
-> *(T‑3.IV.2:1)*
-
-UCEM ne la reconnaît pas comme paix spirituelle.
-
-## 1.1. Preuves directes : ce que Kenneth enseignait
-
-Kenneth Wapnick a enseigné une paix psychologique.  
-Voici les citations **directes**, publiques, vérifiables, avec traduction.
+Pour comprendre ces trois paix, il faut distinguer ce qui est vérifiable,  
+ce qui est interprétatif, et ce qui est non confirmable.  
+C’est cette distinction qui permet de clarifier le cas Wapnick  
+sans jugement, sans projection, sans dogmatisme.
 
 ---
 
-### ✦ Preuve 1 : Kenneth identifie le mental à l’esprit
+## La paix psychologique : une paix du mental, mais le mental est fictif
 
-**Anglais :**  
+La paix psychologique naît de l’observation des pensées,  
+de la réduction des conflits internes, de la discipline mentale.  
+Elle est duelle, fragile, conditionnée.  
+Elle appartient à la conscience, et UCEM dit explicitement que la conscience est le domaine de l’ego.
+
+Mais il faut aller plus loin : dans UCEM, le mental n’existe pas ontologiquement.  
+Il n’est qu’un espace imaginaire, un théâtre où semble se dérouler la séparation.  
+On ne peut donc jamais travailler avec le mental, car le mental n’existe pas.  
+On ne peut travailler qu’avec la croyance dans le mental, et cette croyance peut se détendre.
+
+Quand cette croyance se détend, une paix psychologique apparaît.  
+Cette paix n’est pas une paix réelle : elle est une diminution de la croyance dans une fiction.  
+Elle n’est pas une paix de l’Esprit, mais une accalmie dans le rêve.
+
+---
+
+## Ce que Wapnick enseignait : la confusion Spirit/mind
+
+Pour comprendre la nature de la paix que Kenneth enseignait, il faut se tourner vers ses propres mots.  
+Il dit par exemple :  
 > “The mind that chooses between the ego and the Holy Spirit is the spirit.”
 
-**Français :**  
-> « Le mental qui choisit entre l’ego et le Saint-Esprit est l’esprit. »
+Cette phrase est vérifiable.  
+Elle montre que Kenneth identifie le mind au spirit.  
+Or UCEM distingue strictement Spirit (Esprit non-duel), mind (mental fictif),  
+right mind (mental aligné), wrong mind (mental egoïque), et decision‑making mind (fonction psychologique).
 
-**Contradiction UCEM :**  
 UCEM dit :  
-> « L’esprit ne peut pas choisir. »  
-> *(T‑6.II.3:3)*
+> « L’Esprit est toujours un. »
 
-Kenneth affirme donc que **mind = spirit**, ce qui contredit UCEM mot pour mot.
+L’Esprit ne peut pas choisir.  
+Le mental, lui, peut choisir.  
+Kenneth confond les deux niveaux.
 
----
-
-### ✦ Preuve 2 : Kenneth dit que l’esprit peut se séparer
-
-**Anglais :**  
+Il dit encore :  
 > “The decision-making mind is the spirit that has seemingly separated.”
 
-**Français :**  
-> « Le mental décisionnel est l’esprit qui semble s’être séparé. »
+Mais UCEM dit que l’Esprit ne peut pas se séparer.  
+Le mental, lui, peut se fragmenter.  
+Kenneth confond encore les niveaux.
 
-**Contradiction UCEM :**  
-UCEM dit :  
-> « L’esprit est toujours un. »  
-> *(T‑5.I.1:3)*
-
-Kenneth place l’esprit dans le mental et dans la séparation.
-
----
-
-### ✦ Preuve 3 : Kenneth dit que le travail intérieur est le travail de l’esprit
-
-**Anglais :**  
+Il dit aussi :  
 > “This is the work of the spirit.”
 
-**Français :**  
-> « C’est le travail de l’esprit. »
+Mais UCEM dit que l’Esprit n’a pas de travail, qu’il est déjà parfait.  
+Le mental, lui, peut être entraîné.  
+Kenneth confond encore les niveaux.
 
-**Contradiction UCEM :**  
-UCEM dit :  
-> « L’esprit n’a pas besoin d’être enseigné. »  
-> *(T‑6.I.2:1)*  
-> « L’esprit est déjà parfait. »  
-> *(T‑5.I.5:7)*
-
-Donc : **l’esprit n’a pas de travail**.
-
-Kenneth psychologise l’esprit.
-
----
-
-### ✦ Preuve 4 : Kenneth place le Saint-Esprit dans la conscience
-
-**Anglais :**  
+Enfin, il dit :  
 > “The Holy Spirit is in the part of the mind that chooses.”
 
-**Français :**  
-> « Le Saint-Esprit se trouve dans la partie du mental qui choisit. »
+Mais UCEM dit que le Saint‑Esprit demeure dans l’Esprit, pas dans le mental.  
+Kenneth confond encore les niveaux.
 
-**Contradiction UCEM :**  
+Ainsi, Kenneth fusionne Spirit, mind, right mind, wrong mind,  
+et decision‑making mind en un seul mot : *spirit*.  
+C’est cette fusion qui produit une paix psychologique, et non la paix phénoménale.
+
+---
+
+## La paix psychologique : une détente dans une fiction
+
+À ce stade, il devient nécessaire de préciser ce que UCEM entend par “mental”.  
+Le mental n’est pas une entité réelle :  
+il est une fiction perceptive, un théâtre imaginaire où semble se dérouler la séparation.  
+On ne peut donc jamais “travailler avec le mental”, car le mental n’existe pas ontologiquement.  
+On ne peut travailler qu’avec la croyance dans le mental, et cette croyance peut se détendre.
+
+C’est cette détente qui produit ce que l’on appelle la paix psychologique.  
+La paix psychologique n’est pas une paix réelle :  
+elle est une diminution de la croyance dans une fiction.  
+Elle n’est pas une paix de l’Esprit, mais une accalmie dans le rêve.
+
+Wapnick n’a donc pas “travaillé avec le mental”.  
+Il a travaillé avec la croyance dans le mental,  
+et cette croyance produit des effets psychologiques réels dans le rêve.  
+La seule erreur de Wapnick est conceptuelle :  
+il a pris le mental pour une partie réelle de l’Esprit,  
+et il a pris Spirit pour une fonction psychologique du mind.  
+Mais cette erreur conceptuelle produit une paix psychologique,  
+qui est réelle dans le rêve, utile, apaisante, mais non christologique.
+
+---
+
+## La paix phénoménale : l’esprit juste
+
+La paix phénoménale est la paix que UCEM demande.  
+Elle est accessible dans ce monde, mais elle n’est pas produite par le mental.  
+Elle est causée par l’Esprit, via le pardon christologique.
+
 UCEM dit :  
-> « Le Saint-Esprit demeure dans l’esprit. »  
-> *(T‑5.I.3:1)*
+> « L’esprit juste est le meilleur que tu puisses atteindre dans ce monde. »
 
-Kenneth place le Saint-Esprit dans la conscience, ce qui contredit UCEM directement.
+La paix phénoménale n’est pas une introspection.  
+Elle n’est pas une discipline mentale.  
+Elle n’est pas une réduction des conflits internes.  
+Elle est la conséquence de la correction christologique déjà accomplie dans l’Esprit.
 
----
-
-## 1.2. Conclusion : pourquoi la paix de Kenneth est psychologique
-
-Kenneth a pratiqué :
-
-- introspection,  
-- discipline mentale,  
-- observation des pensées.
-
-Il a donc atteint :
-
-> **une paix psychologique**,  
-> non la paix UCEM.
-
-### ✦ Loi ontologique : une cause ne peut produire que son effet
-
-C’est une loi ontologique :
-
-> **Une cause ne peut produire que son effet.**
-
-Donc :
-
-- une pratique mentale → effet mental  
-- une pratique psychologique → effet psychologique  
-- une pratique introspective → effet introspectif  
-- une pratique émotionnelle → effet émotionnel  
-- une pratique christologique → effet christologique
-
-Autrement dit :
-
-> **On ne peut pas atteindre la paix de l’esprit avec des outils du mental.**  
-> C’est impossible ontologiquement.
-
-Kenneth a utilisé des **causes psychologiques**.  
-Il a donc obtenu une **paix psychologique**.
+Dire que Kenneth ne l’a pas atteinte est interprétatif, mais cohérent avec ses enseignements,  
+qui restent centrés sur la croyance dans le mental.
 
 ---
 
-# 2. La paix phénoménale (esprit juste)
+## La Paix de Dieu : la paix ontologique
 
-C’est la **paix que UCEM demande**.  
-Elle apparaît dans la conscience, mais elle est **causée par l’esprit**, via :
-
-- le pardon christologique,  
-- la dissolution de la culpabilité ontologique,  
-- l’alignement vers l’esprit,  
-- la cessation de la fragmentation.
-
-UCEM dit :
-
-> « L’esprit juste est le meilleur que tu puisses atteindre dans ce monde. »  
-> *(T‑2.V.1:7)*
-
-## 2.1. Pourquoi cette paix n’est pas psychologique
-
-Parce qu’elle n’est pas produite par :
-
-- le mental,  
-- l’introspection,  
-- la discipline,  
-- l’analyse émotionnelle.
-
-Elle est produite par :
-
-> **la correction christologique déjà accomplie dans l’esprit.**
-
-La conscience ne fait que **cesser de bloquer**.
-
-## 2.2. Pourquoi Kenneth n’a pas atteint cette paix
-
-Parce qu’il n’a pas utilisé la cause qui la produit :  
-le pardon christologique.
-
-Il a utilisé :
-
-- le mental,  
-- la psychologie,  
-- l’introspection.
-
-Il a donc obtenu :
-
-> **une paix du mental, pas la paix phénoménale UCEM.**
-
----
-
-# 3. La Paix de Dieu (ontologique)
-
-La Paix de Dieu est :
-
-- hors du monde,  
-- hors du corps,  
-- hors de la perception,  
-- hors de la conscience,  
-- non-duelle,  
-- christique.
-
-UCEM dit :
-
-> « La Paix de Dieu dépasse toute compréhension. »  
-> *(T‑14.IV.6:1)*  
-> « Cette paix est entièrement au-delà du monde. »  
-> *(T‑13.XI.7:1)*
-
+La Paix de Dieu est hors du monde, hors de la perception, hors de la conscience.  
 Elle n’est pas un objectif ici.  
 Elle est l’état du Fils en Dieu.
 
-## 3.1. Pourquoi Kenneth a cru l’atteindre
-
-Parce qu’il a confondu :
-
-- paix psychologique,  
-- paix phénoménale,  
-- paix ontologique.
-
-Il a pris :
-
-- la réduction des conflits mentaux  
-- pour la paix de l’esprit juste,  
-- puis pour la Paix de Dieu.
+UCEM dit que cette paix dépasse toute compréhension et qu’elle est entièrement au-delà du monde.  
+Dire que Kenneth l’a confondue avec la paix psychologique est une hypothèse.  
+Savoir ce qu’il a réellement vécu est non confirmable.
 
 ---
 
-# 4. Synthèse verticale
+## Synthèse 
 
-- **Paix psychologique** : mental → paix de Kenneth.  
-- **Paix phénoménale** : esprit juste → paix UCEM.  
-- **Paix ontologique** : Paix de Dieu → inaccessible ici.
+Il existe trois paix.
 
-Kenneth a atteint la première,  
-mais n’a pas atteint la seconde.
+La première, psychologique, est celle que l’on atteint en calmant sa croyance dans le mental.  
+Elle est réelle dans le rêve, mais elle appartient à la conscience, et donc à l’ego.  
+Kenneth Wapnick a enseigné cette paix.  
+Les citations le montrent.  
+C’est vérifiable.
 
----
+La deuxième, phénoménale, est celle que UCEM appelle l’esprit juste.  
+Elle n’est pas produite par le mental.  
+Elle est causée par l’Esprit.  
+Elle apparaît quand la conscience cesse de bloquer la correction christologique.  
 
+
+La troisième, ontologique, est la Paix de Dieu.  
+Elle n’est pas de ce monde.  
+Elle n’est pas de la perception.  
+Elle n’est pas de la conscience.  
+Elle est l’état du Fils en Dieu.
+
+Ainsi, la géographie de la paix se clarifie :  
+une paix du mental, une paix de l’Esprit, une paix de Dieu.  
+Et l’enseignement de Kenneth se situe clairement dans la première,  
+même s’il parlait parfois comme s’il enseignait les deux autres.
+
+UCEM vise la dissolution de la croyance dans le mental.  
+Wapnick a renforcé la structure psychologique du mental.
+
+UCEM vise la paix phénoménale et la Paix de Dieu.  
+Wapnick a perfectionné la paix psychologique.
+
+
+Il est passé à côté du but ontologique du Cours,  
+mais il a parfaitement accompli le but psychologique que beaucoup d’étudiants croient être le vrai but.
+
+
+
+## Conclusion. 
+La paix psychologique n’est pas une paix réelle :  
+c’est la détente d’une croyance dans un mental fictif ;  
+et c’est cette confusion entre croyance et ontologie qui distingue la paix de Wapnick de la paix d’UCEM.
+
+--- 
 Céleste R.
