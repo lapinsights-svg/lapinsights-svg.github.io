@@ -57,10 +57,11 @@ de la réduction des conflits internes, de la discipline mentale.
 Elle est duelle, fragile, conditionnée.  
 Elle appartient à la conscience, et UCEM dit explicitement que la conscience est le domaine de l’ego.
 
-Mais il faut aller plus loin : dans UCEM, le mental n’existe pas ontologiquement.  
-Il n’est qu’un espace imaginaire, un théâtre où semble se dérouler la séparation.  
-On ne peut donc jamais travailler avec le mental, car le mental n’existe pas.  
-On ne peut travailler qu’avec la croyance dans le mental, et cette croyance peut se détendre.
+Mais il faut aller plus loin : dans UCEM, le mental n’est pas réel.  
+Il n’a aucune réalité ontologique ; il n’est qu’un espace imaginaire,  
+un théâtre perceptif où semble se dérouler la séparation.  
+On ne peut donc jamais travailler avec le mental, car le mental n’est pas réel.  
+On ne peut travailler qu’avec la croyance dans le mental, et cette croyance peut se détendre.  
 
 Quand cette croyance se détend, une paix psychologique apparaît.  
 Cette paix n’est pas une paix réelle : elle est une diminution de la croyance dans une fiction.  
