@@ -186,7 +186,7 @@ Il existe trois paix.
 
 La première, psychologique, est celle que l’on atteint  
 en calmant sa croyance dans le mental.  
-Elle est réelle dans le rêve, mais elle appartient à la conscience,  
+Elle existe dans le rêve, mais elle appartient à la conscience,  
 et donc à l’ego.  
 Kenneth Wapnick a enseigné cette paix.  
 Les citations le montrent.  
