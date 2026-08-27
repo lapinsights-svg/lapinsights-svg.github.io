@@ -115,21 +115,25 @@ et non la paix phénoménale.
 
 ---
 
-## La paix psychologique : une détente dans une fiction
+## Clarification sur “Spirit” et “spirit”
 
-À ce stade, il devient nécessaire de préciser ce que produit réellement cette confusion.  
-La paix psychologique apparaît lorsque la croyance dans le mental se relâche.  
-Elle est une détente dans une fiction, une accalmie dans un système perceptif  
-qui n’a aucune réalité ontologique.
+Dans UCEM, la distinction entre majuscule et minuscule n’est pas stylistique : elle est ontologique.  
+Le Cours ne reconnaît qu’un seul Esprit réel : **Spirit**, l’unité non‑duelle.  
+Il n’existe pas, dans UCEM, un “spirit” psychologique ou une sous‑partie de l’Esprit.  
+Tout ce qui choisit, travaille, se sépare ou apparaît dans la conscience appartient au **mind**,  
+qui n’est pas réel ontologiquement.
 
-Wapnick n’a donc pas “travaillé avec le mental”.  
-Il a travaillé avec la croyance dans le mental,  
-et cette croyance produit des effets psychologiques réels dans le rêve.  
-La seule erreur de Wapnick est conceptuelle :  
-il a pris le mental pour une partie réelle de l’Esprit,  
-et il a pris Spirit pour une fonction psychologique du mind.  
-Mais cette erreur conceptuelle produit une paix psychologique,  
-qui est réelle dans le rêve, utile, apaisante, mais non christologique.
+Lorsque Kenneth dit :
+
+> “The mind that chooses … is the spirit.”
+
+il ne parle pas de Spirit, mais il n’en parle pas correctement non plus.  
+Il crée un “spirit” mental qui n’existe pas dans UCEM,  
+et il lui attribue des fonctions que le Cours réserve exclusivement au mind.  
+Ainsi, même avec une minuscule, la confusion demeure :  
+il psychologise Spirit et spiritualise le mind.  
+C’est cette inversion des niveaux qui produit une paix psychologique,  
+mais qui empêche d’atteindre la paix phénoménale du Cours.
 
 ---
 
