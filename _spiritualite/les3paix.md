@@ -1,7 +1,7 @@
 ---
 title: "Les trois paix : phénoménale, ontologique, psychologique"
-resume: "UCEM distingue deux paix ; la troisième, psychologique, explique les confusions modernes et le cas Wapnick."
-date: "2026-08-03"
+resume: "UCEM distingue deux paix ; la troisième, psychologique, explique les confusions modernes."
+date: "2026-08-27"
 layout: article
 categories:
   - spiritualite
