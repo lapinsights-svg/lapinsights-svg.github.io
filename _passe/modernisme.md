@@ -146,7 +146,7 @@ Lorsque les critiques sont mobilisés, le canon se fixe.
 Lorsque les écrivains sont recrutés, le récit se verrouille.  
 Lorsque les artistes sont instrumentalisés, la forme se plie.
 
-Le modernisme a pas été façonné par la CIA.  
+Le modernisme a été façonné par la CIA.  
 Il a été rendu dominant par elle.  
 Il a été utilisé par elle.
 
