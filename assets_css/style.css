@@ -676,6 +676,13 @@ main.contenu-scroll {
   opacity: 0.7;
   color: var(--texte);
 }
+.nl-input {
+  color: var(--texte); /* texte du champ */
+}
+
+.nl-input::placeholder {
+  color: rgba(0, 0, 0, 0.55); /* placeholder visible */
+}
 
 /* ----------------------------------------------------
    ANIMATIONS
