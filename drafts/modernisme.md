@@ -4,7 +4,6 @@ title: "Le nerf caché du modernisme : l’art comme arme culturelle"
 date: 2026-05-28
 categories: passe
 tags: ["CIA", "MoMA", "Rockefeller", "modernisme", "guerre froide", "culture"]
-permalink: /lapinsights/nerf-du-modernisme/
 og_image: /images/idees/modernisme.png
 ---
 
