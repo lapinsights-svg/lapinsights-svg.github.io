@@ -566,9 +566,10 @@ footer.footer-fixed {
 .footer-content {
   width: 100%;
   display: flex;
-  justify-content: flex-end; /* ← colle tout à droite */
+  justify-content: flex-end; /* ← colle les deux blocs à droite */
   align-items: center;
-  gap: 1.5rem; /* ← environ un pouce d’espace entre les deux blocs */
+  gap: 1.5rem; /* ← espace entre Flux RSS et Newsletter */
+   
 }
 
 /* Bloc RSS + signature — reste centré dans sa colonne */
@@ -577,6 +578,8 @@ footer.footer-fixed {
   gap: 1rem;
   align-items: center;
   opacity: 0.85;
+  text-align: right !important;
+  justify-content: flex-end !important;
 }
 
 /* Signature */
