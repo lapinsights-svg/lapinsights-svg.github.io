@@ -1,6 +1,6 @@
 ---
 title: "Rupture anthropologique et lois sur l’avortement au Massachusetts"
-resume: "Quand une civilisation légalise la mort des enfants viables, elle cesse d’être une civilisation."
+resume: "Quand une civilisation cesse d’être une civilisation."
 layout: article
 date: 2026-08-13
 categories: idees
