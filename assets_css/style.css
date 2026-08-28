@@ -565,16 +565,14 @@ footer.footer-fixed {
 /* Grille à 2 colonnes : gauche = RSS, droite = newsletter */
 .footer-content {
   width: 100%;
-  max-width: none; /* important : la grille doit pouvoir toucher le bord */
-  display: grid;
-  grid-template-columns: 1fr auto;
+  display: flex;
+  justify-content: flex-end; /* ← colle tout à droite */
   align-items: center;
-  margin: 0; /* clé : on enlève le centrage */
+  gap: 1.5rem; /* ← environ un pouce d’espace entre les deux blocs */
 }
 
 /* Bloc RSS + signature — reste centré dans sa colonne */
 .footer-links {
-  justify-self: center;
   display: flex;
   gap: 1rem;
   align-items: center;
