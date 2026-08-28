@@ -557,8 +557,9 @@ footer.footer-fixed {
   border-top: none;
   backdrop-filter: none;
 
-  display: flex;
-  justify-content: center;
+  /* clé : on enlève le centrage qui empêche le collage à droite */
+  display: block;
+
   z-index: 3000;
 }
 
@@ -571,14 +572,14 @@ footer.footer-fixed {
   grid-template-columns: 1fr auto 1fr; /* colonne vide | centre | newsletter */
   align-items: center;
 
-  /* clé : le conteneur est centré, mais sa largeur est fixe */
+  /* on centre le bloc interne, mais sans le contraindre */
   margin: 0 auto;
 }
 
 /* Bloc RSS + signature — centré dans la largeur */
 .footer-links {
-  grid-column: 2;          /* colonne centrale */
-  justify-self: center;    /* centré dans cette colonne */
+  grid-column: 2;
+  justify-self: center;
   display: flex;
   gap: 1rem;
   align-items: center;
@@ -594,8 +595,8 @@ footer.footer-fixed {
 
 /* Bloc newsletter — collé à droite */
 .footer-right {
-  grid-column: 3;          /* colonne droite */
-  justify-self: end;       /* collé au bord droit de la grille */
+  grid-column: 3;
+  justify-self: end;
   display: flex;
   align-items: center;
 }
