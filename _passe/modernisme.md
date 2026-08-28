@@ -167,19 +167,19 @@ commencent enfin à apparaître.
 
 ## Sources
 
-**The Independent (1995)** — *Modern art was CIA weapon*  
+**The Independent (1995)** - *Modern art was CIA weapon*  
 https://www.independent.co.uk/news/world/modern-art-was-cia-weapon-1578808.html
 
-**BBC Culture (2016)** — *Was modern art a weapon of the CIA?*  
+**BBC Culture (2016)** - *Was modern art a weapon of the CIA?*  
 https://www.bbc.com/culture/article/20161004-was-modern-art-a-weapon-of-the-cia
 
-**ArtNet News (2020)** — *Was Modern Art Really a CIA Psy-Op?*  
+**ArtNet News (2020)** - *Was Modern Art Really a CIA Psy-Op?*  
 https://news.artnet.com/art-world/artcurious-cia-art-excerpt-1909623
 
-**JSTOR Daily (2020)** — *Was Modern Art Really a CIA Psy-Op?*  
+**JSTOR Daily (2020)** - *Was Modern Art Really a CIA Psy-Op?*  
 https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/
 
-**Frances Stonor Saunders (1999)** — *The Cultural Cold War*  
+**Frances Stonor Saunders (1999)** - *The Cultural Cold War*  
 https://www.independent.co.uk/arts-entertainment/books/reviews/the-cultural-cold-war-by-frances-stonor-saunders-5367364.html
 
 ---
