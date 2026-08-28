@@ -601,6 +601,12 @@ footer.footer-fixed {
   align-items: center;
 }
 
+/* Neutralise la marge interne ajoutée par EmailOctopus */
+.footer-right * {
+  margin-right: 0 !important;
+  padding-right: 0 !important;
+}
+
 /* Newsletter : colonne interne */
 .newsletter-mini {
   display: flex;
