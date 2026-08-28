@@ -355,6 +355,13 @@ button.disabled {
   color: var(--lapin);
   opacity: 0.9;
 }
+/* Sous-titres harmonisés pour toutes les rubriques */
+.rubrique-header p,
+.article-line .article-teaser {
+  color: rgba(200, 205, 215, 0.85);
+  opacity: 0.9;
+  font-style: italic;
+}
 
 /* ----------------------------------------------------
    LISTE D’ARTICLES
