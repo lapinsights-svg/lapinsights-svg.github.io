@@ -82,9 +82,29 @@ Le théâtre devient un relais.
 L’art moderne n’est plus seulement une forme.  
 C’est une infrastructure.
 
-L’expressionnisme abstrait est exporté comme un signe de liberté opposé à la rigidité soviétique.  
+## **La fonction réelle du modernisme**
+
+
+Ce que ces documents ne disent pas directement, mais qui affleure partout,  
+c’est la fonction réelle du modernisme dans la stratégie culturelle américaine.  
+Il ne s’agissait pas seulement de viser une société rivale.  
+La société américaine elle‑même a été travaillée, remodelée, déstabilisée par les mêmes outils.  
+
+Le modernisme a fracturé les repères symboliques internes, dissous les cadres esthétiques hérités,  
+rendu obsolètes des récits qui structuraient encore la vie culturelle américaine.  
+Un art sans récit, sans centre, sans tradition, agit comme un sol qui se dérobe.  
+Il déstructure.  
+Il désoriente.  
+Il affaiblit les architectures mentales qui soutiennent une culture - même la celle qui le produit.  
+
+Le modernisme n’a pas seulement été promu :  
+il a servi à déplacer ce qui tenait encore debout, là-bas comme ailleurs, en Europe, notamment.
+
+---
+
+L’expressionnisme abstrait est aussi exporté comme un signe de liberté opposé à la rigidité soviétique.  
 C’est documenté par Frances Stonor Saunders,  
-par *The Independent*,  
+par The Independent,  
 par la BBC,  
 par ArtNet,  
 par JSTOR Daily.
@@ -108,7 +128,7 @@ donc qui peut tout signifier.
 Un art qui ne menace aucune structure interne,  
 donc qui peut être promu sans risque.
 
-Un art qui laisse les autres écoles mourir en silence.
+Un art qui laisse les autres écoles - le classicisme notamment - mourir en silence.
 
 Le modernisme dominant n’est pas né d’un élan interne du siècle.  
 Il a été consolidé par des financements,  
@@ -124,9 +144,7 @@ Lorsque les critiques sont mobilisés, le canon se fixe.
 Lorsque les écrivains sont recrutés, le récit se verrouille.  
 Lorsque les artistes sont instrumentalisés, la forme se plie.
 
-
-Le modernisme n’a pas été inventé par la CIA.  
-Il a été façonné par elle.  
+Le modernisme a pas été façonné par la CIA.  
 Il a été rendu dominant par elle.  
 Il a été utilisé par elle.
 
