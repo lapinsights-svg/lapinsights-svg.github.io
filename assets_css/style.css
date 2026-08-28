@@ -558,7 +558,7 @@ footer.footer-fixed {
   backdrop-filter: none;
 
   display: flex;
-  justify-content: center; /* centrer le contenu */
+  justify-content: center;
   z-index: 3000;
 }
 
@@ -568,26 +568,11 @@ footer.footer-fixed {
   max-width: 1100px;
 
   display: flex;
-  justify-content: flex-end; /* RSS + © à gauche, newsletter à droite */
-  align-items: center;             /* alignement vertical */
-  gap: 3rem; /* espace entre bloc RSS+© et bloc newsletter */
-
-}
-
-/* Bloc gauche (RSS + signature) */
-.footer-left {
-  flex: 0;
-}
-
-/* Bloc droit (newsletter) */
-.footer-right {
-  display: flex;
-  flex-direction: row;
-  gap: 1.6rem;
+  justify-content: space-between; /* gauche ↔ droite */
   align-items: center;
 }
 
-/* Liens horizontaux (RSS + ©) */
+/* Bloc gauche (RSS + signature) */
 .footer-links {
   display: flex;
   gap: 1rem;
@@ -595,18 +580,26 @@ footer.footer-fixed {
   opacity: 0.85;
 }
 
-/* Signature sur la même ligne que RSS */
+/* Signature */
 .footer-signature {
   font-size: 0.85rem;
   opacity: 0.85;
   color: var(--accent);
 }
 
+/* Bloc droit (newsletter) */
+.footer-right {
+  margin-left: auto;               /* pousse tout le bloc à droite */
+  display: flex;
+  justify-content: flex-end;       /* contenu interne aligné à droite */
+  align-items: center;
+}
+
 /* Newsletter : colonne interne */
 .newsletter-mini {
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
+  align-items: flex-end;           /* titre + formulaire alignés à droite */
   gap: 0.4rem;
 }
 
