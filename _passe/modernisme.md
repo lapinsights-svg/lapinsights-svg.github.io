@@ -6,6 +6,8 @@ categories: passe
 tags: ["CIA", "MoMA", "Rockefeller", "modernisme", "guerre froide", "culture"]
 og_image: /images/passe/modernisme.webp
 ---
+![modernisme](/images/passe/modernisme.webp)
+
 
 # Le nerf caché du modernisme
 
