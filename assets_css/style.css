@@ -557,28 +557,24 @@ footer.footer-fixed {
   border-top: none;
   backdrop-filter: none;
 
-  /* clé : on enlève le centrage qui empêche le collage à droite */
   display: block;
-
   z-index: 3000;
 }
 
-/* Contenu interne du footer : grille à 3 colonnes */
+/* Grille à 2 colonnes : gauche = RSS, droite = newsletter */
 .footer-content {
   width: 100%;
   max-width: 1100px;
 
   display: grid;
-  grid-template-columns: 1fr auto 1fr; /* colonne vide | centre | newsletter */
+  grid-template-columns: 1fr auto; /* gauche = flexible, droite = collée */
   align-items: center;
 
-  /* on centre le bloc interne, mais sans le contraindre */
   margin: 0 auto;
 }
 
-/* Bloc RSS + signature — centré dans la largeur */
+/* Bloc RSS + signature — reste centré dans sa colonne */
 .footer-links {
-  grid-column: 2;
   justify-self: center;
   display: flex;
   gap: 1rem;
@@ -595,17 +591,10 @@ footer.footer-fixed {
 
 /* Bloc newsletter — collé à droite */
 .footer-right {
-  grid-column: 3;
-  justify-self: end;
+  justify-self: end; /* clé : colle à droite */
   display: flex;
   align-items: center;
 }
-
-.footer-right * {
-  margin-right: 0 !important;
-  padding-right: 0 !important;
-}
-
 
 /* Newsletter : colonne interne */
 .newsletter-mini {
