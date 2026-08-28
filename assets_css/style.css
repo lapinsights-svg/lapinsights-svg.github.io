@@ -551,14 +551,12 @@ footer.footer-fixed {
   width: 100%;
 
   padding: 1.2rem 2.8rem;
-  margin-top: 0;
-
   background: transparent;
   border-top: none;
   backdrop-filter: none;
 
   display: flex;
-  justify-content: center; /* centre le bloc interne */
+  justify-content: center;
   z-index: 3000;
 }
 
@@ -567,16 +565,14 @@ footer.footer-fixed {
   width: 100%;
   max-width: 1100px;
 
-  display: flex;
-  align-items: center;
-
-  /* clé : le bloc gauche est centré, le bloc droit poussé à droite */
-  justify-content: center;
-  position: relative;
+  position: relative; /* nécessaire pour le bloc newsletter */
 }
 
 /* Bloc gauche (RSS + signature) — centré */
 .footer-links {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%); /* centre parfait */
   display: flex;
   gap: 1rem;
   align-items: center;
@@ -593,7 +589,7 @@ footer.footer-fixed {
 /* Bloc droit (newsletter) — collé à droite */
 .footer-right {
   position: absolute;
-  right: 0;              /* pousse le bloc newsletter à droite */
+  right: 0; /* zéro marge, collé au bord */
   display: flex;
   justify-content: flex-end;
   align-items: center;
