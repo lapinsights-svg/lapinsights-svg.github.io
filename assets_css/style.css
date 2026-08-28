@@ -1046,13 +1046,6 @@ textarea {
   border: none !important;
 }
 
-/* ----------------------------------------------------
-   DÉSACTIVATION VISUELLE ET FONCTIONNELLE DE LA PAGE PASSE
----------------------------------------------------- */
-
-.menu-passe {
-  opacity: 0.5;
-}
 
 /* ----------------------------------------------------
    PARTAGE D’ARTICLES
