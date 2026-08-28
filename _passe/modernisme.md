@@ -44,8 +44,8 @@ Thomas Braden, secrétaire exécutif du MoMA, traverse la cloison et rejoint la 
 Il prend la tête des opérations culturelles.  
 
 Il ne masque rien :  
-« I’m glad the CIA is ‘immoral’. »  
-Traduction : « Je suis heureux que la CIA soit “immorale”. »
+"I’m glad the CIA is ‘immoral’."  
+Traduction : "Je suis heureux que la CIA soit “immorale”."
 
 Ce n’est pas une phrase de style, mais une phrase de structure.  
 
