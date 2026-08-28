@@ -1,5 +1,3 @@
----
----
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -106,28 +104,20 @@
     }
   });
 </script>
+
+<!-- 🌟 SCRIPT EMAILOCTOPUS VIA CLOUDFLARE WORKER -->
 <script>
-  const API_KEY  = 'eo_8a0350302c3ec33c1c96863774195a58e376ded8e7675d277cc528c4071f113a';
-  const LIST_ID  = 'b2fb939a-a2b5-11f1-a2e3-0b11e71e6a58';
-  const BASE_URL = 'https://emailoctopus.com/api/1.6';
+  const WORKER_URL = "https://green-pine-99bb.lapinsights.workers.dev";
 
   async function subscribeToEmailOctopus(email) {
-    const url = `${BASE_URL}/lists/${LIST_ID}/contacts?api_key=${API_KEY}`;
-
-    const payload = {
-      email_address: email,
-      status: 'SUBSCRIBED'
-    };
-
-    const response = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(payload)
+    const response = await fetch(WORKER_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ email })
     });
 
     if (!response.ok) {
-      const data = await response.json().catch(() => ({}));
-      throw new Error(data.error || 'Erreur de subscription');
+      throw new Error("Erreur Worker");
     }
 
     return response.json();
@@ -160,5 +150,6 @@
     });
   });
 </script>
+
 </body>
 </html>
