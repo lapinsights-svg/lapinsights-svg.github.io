@@ -570,6 +570,9 @@ footer.footer-fixed {
   display: grid;
   grid-template-columns: 1fr auto 1fr; /* colonne vide | centre | newsletter */
   align-items: center;
+
+  /* clé : le conteneur est centré, mais sa largeur est fixe */
+  margin: 0 auto;
 }
 
 /* Bloc RSS + signature — centré dans la largeur */
@@ -592,7 +595,7 @@ footer.footer-fixed {
 /* Bloc newsletter — collé à droite */
 .footer-right {
   grid-column: 3;          /* colonne droite */
-  justify-self: end;       /* collé au bord droit */
+  justify-self: end;       /* collé au bord droit de la grille */
   display: flex;
   align-items: center;
 }
