@@ -16,8 +16,20 @@
           Recevoir les signaux dans votre boîte mail
         </div>
 
-        <!-- Formulaire EmailOctopus (Hosted form) -->
-     <script async src="https://eocampaign1.com/form/62179c70-a2fc-11f1-b0c2-e9506af48038.js" data-form="62179c70-a2fc-11f1-b0c2-e9506af48038"></script>
+        <!-- Formulaire HTML (API EmailOctopus) -->
+        <form id="lapin-newsletter-form">
+          <input
+            type="email"
+            id="lapin-email"
+            name="email"
+            placeholder="Votre adresse email"
+            required
+          />
+          <button type="submit">S’abonner</button>
+        </form>
+
+        <div id="lapin-newsletter-message"></div>
+
       </div>
 
     </div>
