@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Le nerf caché du modernisme : l’art comme arme culturelle"
+resume: "Le modernisme, une arme façonnée par les institutions et la diplomatie."
 date: 2026-05-28
 categories: passe
 tags: ["CIA", "MoMA", "Rockefeller", "modernisme", "guerre froide", "culture"]
