@@ -2,7 +2,7 @@
 title: "La rose dans la cendre"
 categories: creation
 date: "2026-07-21"
-resume: "L'Iran cherche la lumière au cœur de la cendre."
+resume: "Le Liban cherche la lumière au cœur de la cendre."
 og_image: /images/creations/Iran.webp
 tags:
   - iran
@@ -18,7 +18,7 @@ tags:
 
 # *La rose dans la cendre.*
 
-Dans la poussière rouge du matin, ô Iran,  
+Dans la poussière rouge du matin, ô Liban,  
 le feu éclaire nos cœurs comme une lampe dans la nuit intérieure.
 
 Les tyrans dressent leurs ombres, mais le vent les disperse :  
@@ -36,7 +36,7 @@ Et que vaut la mort, si elle n’est qu’un seuil vers la clarté ?
 Dans chaque pierre noircie, un empire défait murmure encore :  
 le cercle du monde tourne, et nous tournons avec lui vers le centre.
 
-Alors je bois à ton nom, Iran, pays de cendres et de lumière,  
+Alors je bois à ton nom, Liban, pays de cendres et de lumière,  
 car même en feu, tu restes plus vaste que le destin et plus profond que l’âme.  
 
 
