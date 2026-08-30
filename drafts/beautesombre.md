@@ -16,10 +16,9 @@ tags:
 
 
 Dans mon ventre, une nuit profonde se déploie.  
-Elle porte une braise noire, une braise qui refuse de s’éteindre,  
+Elle porte une braise noire qui refuse de s’éteindre,  
 une braise qui éclaire sans adoucir.  
-Je sens cette chaleur.  
-Elle monte comme un parfum lourd, une vapeur de cendre et d’or.  
+Cette chaleur monte comme un parfum lourd, une vapeur de cendre et d’or.  
 Elle enveloppe tout.  
 Elle exige d’être reconnue.  
 
@@ -31,15 +30,14 @@ roc noir où la lumière vient frapper pour naître.
 Il appelle sans bruit.  
 
 La douleur est une fleur sombre.  
-Une fleur de cendre et de braise, qui s’ouvre avec une lenteur souveraine.  
+Une fleur de cendre et de braise, qui s’offre avec une lenteur souveraine.  
 Elle laisse passer une clarté brûlante, une clarté qui glisse sur mes côtes,  
 un métal incandescent qui révèle.  
 
 Le pardon n’est pas encore là.  
 J'entends son pas qui chemine dans la rocaille,  
-une avancée nocturne portant le poids du monde et la promesse d’un éclat.  
-Je sens son pas.  
-Il est lourd.  
+vibration nocturne, portant le poids du monde et la promesse d’un éclat.  
+Je sens son pas lourd et serein.  
 Il est magnifique.  
 Il arbore la vérité des choses qui ne peuvent plus rester enfouies.  
 
@@ -59,9 +57,9 @@ Son nom revient, sans murmure.
 Un outil sur la roche qui tambourine,  
 une vérité qui cherche son passage dans ma poitrine.  
 Je ne peux pas encore le regarder avec tendresse.  
-Mais je sens que quelque chose en moi se tourne vers lui,  
-braise qui aspire à la flamme,  
-pierre qui soutient enfin la lumière.  
+Mais je sens que quelque chose en moi devient caresse,  
+une braise qui aspire à la flamme,  
+une pierre qui soutient enfin la lumière.  
 
 Et peut-être que c’est cela, aujourd’hui :  
 une beauté sombre,  
