@@ -138,6 +138,10 @@ C’est une histoire de forces.
 
 Et certaines forces, longtemps invisibles, commencent enfin à apparaître.  
 
+
+Céleste R.
+
+
 ---
 
 ## Sources
@@ -157,5 +161,4 @@ https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/
 **Frances Stonor Saunders (1999)** - *The Cultural Cold War*  
 https://www.independent.co.uk/arts-entertainment/books/reviews/the-cultural-cold-war-by-frances-stonor-saunders-5367364.html
 
----
-Céleste R.
+
