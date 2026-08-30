@@ -126,7 +126,7 @@ La démocratie se mesure à sa capacité à percevoir les fissures avant qu’el
 
 La question est **jusqu’à quand cela pourra continuer**, et **comment agir ensemble pour l’empêcher**.
 
----
+
 
 Céleste R.
 
