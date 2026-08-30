@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Bloctel, quand l’État laisse fuir les données" 
-date: 2026-08-13
+date: 2026-08-30
 categories: idees
 tags:
   - numérique
@@ -13,205 +13,122 @@ tags:
 og_image: /images/idees/fuite.webp
 ---
 
-![IEF](/images/idees/fuite.webp)
+![fuite](/images/idees/fuite.webp)
 
 
-# Quand l’État laisse fuir les données 
+# Quand l’État laisse fuir les données
 
-Le numérique public se présente comme une architecture rationnelle, protectrice, maîtrisée.  
-Une promesse d’efficacité enveloppée dans un discours de sécurité.
+## Le vitrail administratif se fissure
 
-Mais chaque fuite, Bloctel aujourd’hui, Pôle emploi hier, les dossiers médicaux avant ,  agit comme un révélateur.  
-Une fissure dans le vernis.  
-Une preuve que la machine avance sans regarder ce qu’elle menace.
-
-
-## 1. La faille qui montre la structure
+Le numérique public avance comme une architecture de verre.  
+On y voit des surfaces lisses, des reflets rassurants, une promesse d’ordre silencieux.  
+On imagine une mécanique protectrice, une rationalité qui veille.  
+Pourtant, chaque fuite ouvre une fracture dans ce vitrail.  
+Bloctel aujourd’hui, Pôle emploi hier, les dossiers médicaux avant : autant de fissures qui révèlent la charpente réelle.  
+Celle que l’on ne montre jamais.  
+Celle qui craque sous la pression de sa propre ambition.  
 
 Trois millions de numéros évaporés.  
-Service public.  
-Prestataire privé.  
-Cloud.  
-Concession.  
-Fuite.
+Une disparition sèche, presque abstraite, mais qui laisse derrière elle un bruit sourd.  
+Le service public, le prestataire, le cloud, la concession : les pièces du puzzle s’assemblent toujours de la même manière.  
+Comme si la répétition était devenue une fatalité.  
+La DGCCRF murmure que ce ne sont "que des numéros".  
+Comme si la matière des données pouvait atténuer la gravité de la faute.  
+Bloctel dévoile pourtant une vérité nue : l’État exige la transmission, mais ne garantit pas la garde.  
 
-La DGCCRF rassure : c'est “seulement des numéros”.  
-Comme si la gravité dépendait du type de données, et non du mécanisme qui les expose.
+## La mécanique du silence
 
-Bloctel révèle une vérité simple :  
-**l’État ne protège pas les données qu’il oblige à transmettre.**
+Rien ne s’arrête.  
+La machine continue, comme si la fuite n’était qu’un souffle dans le vent.  
+La numérisation avance, l’obligation avance, l’infrastructure avance.  
+La fissure devient décor, absorbée par le paysage jusqu’à disparaître dans l’habitude.  
 
-Et pourtant, rien ne s’arrête. Le service continue.  
-La numérisation continue. L’obligation continue.
+La DGFiP ajoute un autre fragment à cette mécanique.  
+L’intrusion, repérée fin juin, n’est révélée qu’à la mi‑août.  
+Deux mois de silence.  
+Deux mois de latence.  
+Deux mois où l’information reste enfermée dans les murs administratifs.  
+Le RGPD parle de notification "sans délai injustifié".  
+L’État parle quand il ne peut plus se taire.  
+La transparence n’est pas un réflexe, c’est un seuil.  
 
-La fuite devient un bruit de fond dans une mécanique trop lourde pour se retourner.
+## La constellation des fuites
 
-## 1 bis. La DGFiP : le délai qui dit tout
+Les affaires précédentes forment une constellation sombre.  
+Données de santé, profils professionnels, dossiers sociaux, bases locales, failles chez les prestataires.  
+Chaque point brille d’une lumière froide.  
+L’ensemble dessine une figure impossible à ignorer.  
+À chaque fois, la même chorégraphie : communiqué, enquête, sanction légère, promesse de renforcement.  
+Puis retour au flux.  
+La machine absorbe, digère, se remet en marche.  
+Elle ne trébuche jamais vraiment.  
 
-La DGFiP offre un autre exemple de cette mécanique.  
-Elle situe elle‑même l’intrusion dans ses systèmes fin juin.  
-Il aura fallu attendre le 13 août pour l’aveu public,  
-et le 14 pour l’annonce d’une information individuelle des victimes.
+## L’indifférence d’architecture
 
-Près de deux mois d’écart.  
-Alors que le RGPD impose aux administrations une notification  
-« sans délai injustifié ».
+Ce qui se joue, c'est une indifférence structurelle.  
+La numérisation est devenue squelette.  
+Les clouds sont devenus organes.  
+Les prestataires privés sont devenus membres.  
+Dans cette anatomie, la sécurité devient un récit.  
+Une façade.  
+Une incantation.  
 
-l’État ne prévient qu’une fois qu’il ne peut plus faire autrement.  
-La transparence n’est pas un réflexe.  
-C’est une contrainte.
+La centralisation s’étend.  
+La collecte s’approfondit.  
+La dépendance s’enracine.  
+L’État parle de protection, mais agit en gestionnaire de flux.  
+Il promet la solidité, mais installe la fragilité.  
+Il invoque la modernité, mais étend la vulnérabilité.  
 
+## Les recours qui n’atteignent pas la profondeur
 
-## 2. Les affaires précédentes : la répétition devient motif
+Les recours existent.  
+CNIL, tribunaux, actions collectives.  
+Les citoyens gagnent parfois, mais ils gagnent des fragments.  
+Les recours réparent la surface, jamais la profondeur.  
+Ils apaisent, mais ne déplacent pas la structure.  
+Ils corrigent un point, mais la logique continue de tourner.  
+La machine ne s’arrête pas pour une victoire locale.  
 
-Les fuites se succèdent.  
-Régulières.  
-Prévisibles.  
-Structurelles.
+## Les organes impossibles à retirer
 
-- Données de santé : 500 000 personnes exposées.  
-- Pôle emploi : 10 millions de profils compromis.  
-- Assurance maladie : incidents répétés.  
-- Collectivités : bases siphonnées.  
-- Prestataires : failles documentées.
-
-Et on voit toujours la même séquence :  
-communiqué, enquête, sanction cosmétique, promesse de renforcement.  
-Puis reprise du flux.
-
-La machine absorbe. La machine digère. La machine continue.
-
-
-## 3. L’État numérique : indifférence par architecture
-
-Il faut nommer ce qui se joue.  
-L’État est devenu **structurellement indifférent**.
-
-Indifférent parce que la numérisation n’est plus un outil , c’est son squelette.  
-Indifférent parce que les clouds ne sont plus des choix , ce sont ses organes.  
-Indifférent parce que les prestataires privés ne sont plus des partenaires , ce sont ses membres.
-
-Dans cette architecture, la sécurité n’est pas un objectif.  
-C’est un récit.  
-Un décor.  
-Une justification.
-
-La centralisation est réelle.  
-La collecte est réelle.  
-La dépendance est réelle.
-
-L’État parle de protection.  
-Il agit en gestionnaire de flux.  
-Il promet la sécurité.  
-Il produit la vulnérabilité.  
-Il invoque la modernité.  
-Il installe la fragilité.
-
-## 4. Les recours existent, mais ils glissent sur la surface
-
-CNIL.  
-Tribunaux.  
-Actions collectives.  
-Indemnisations.  
-Condamnations.
-
-Oui, les citoyens gagnent.  
-Mais ils gagnent **localement**.
-
-Les recours corrigent un point.  
-Jamais la structure.  
-Jamais la logique.  
-Jamais l’obligation numérique elle-même.
-
-Ils réparent la surface.  
-Jamais la profondeur.  
-Ils apaisent.  
-Ils n’inversent rien.  
-La machine continue.
-
-## 5. Le blocage général : un système qui ne peut plus se corriger
-
-Corriger impliquerait :  
-sortir de l'interconnection,  
-ne plus obliger,  
-décentraliser,  
-désautomatiser,  
-sortir des clouds.
-
+Corriger réellement impliquerait de toucher aux fondations.  
+Réduire l’interconnexion.  
+Desserrer l’obligation.  
+Décentraliser.  
+Ralentir.  
+Sortir des clouds.  
 Mais l’État ne peut pas.  
 Il a bâti son fonctionnement sur ces piliers.  
-Les retirer reviendrait à démonter sa propre ossature.
+Les retirer reviendrait à démonter sa propre ossature.  
 
-La numérisation est sa colonne vertébrale.  
-Les clouds sont ses poumons.  
-Les prestataires privés sont ses muscles.  
-Les bases de données, son sang.
+Alors il communique.  
+Il promet.  
+Il continue.  
+La mécanique institutionnelle avance, même quand la conscience démocratique recule.  
 
-Alors il ne corrige pas. Il communique.  
-Il promet. Il continue.
+## Jusqu’à quel seuil ?
 
-La mécanique institutionnelle a pris le pas sur la conscience démocratique.  
-La structure sur la prudence.  
-L’inertie sur la responsabilité.
+Jusqu’où un système peut-il fuir avant de se briser ? 
+Les scénarios extrêmes se dessinent : compromission d’un cloud souverain, exposition des flux économiques,  
+fuite totale des données médicales, paralysie d’un service essentiel, rupture de confiance irréversible.  
+Le système ne s’arrêtera pas de lui-même : il avance, persiste, s’étend,  
+tant que la société civile ne rétablit pas un rapport de force et  
+tant que les citoyens acceptent la fiction de la sécurité.
 
-## 6. Tout continue comme si de rien n’était. Jusqu’à…
+Bloctel apparaît comme une fissure révélatrice dans la façade technocratique.  
+Plus la collecte s’étend, plus la fragilité augmente ;  
+plus la centralisation s’impose, plus l’exposition grandit ;  
+plus l’obligation se renforce, plus la liberté se rétrécit ;  
+plus la délégation s’élargit, plus la responsabilité se dissout.  
+La société civile doit regarder ce décor sans détour, comprendre la mécanique, refuser la fatalité, reconstruire la vigilance.  
+La démocratie se mesure à sa capacité à percevoir les fissures avant qu’elles ne deviennent fractures.  
 
-C’est la question que personne ne pose.  
-La question que les fuites rendent pourtant inévitable.
-
-**Jusqu’à quoi ?**
-
-Jusqu’à la compromission d’un cloud souverain ?  
-Jusqu’à l’exposition des flux économiques obligatoires ?  
-Jusqu’à la fuite totale des dossiers médicaux ?  
-Jusqu’à la paralysie d’un service essentiel ?  
-Jusqu’à la rupture de confiance systémique ?  
-Jusqu’à l’irréversible ?
-
-Le système avance.  
-Il fuit.  
-Il persiste.  
-Il s’étend.
-
-Il ne s’arrêtera pas seul.  
-Il ne se corrigera pas seul.  
-Il ne se remettra pas en question seul.
-
-Il continuera tant que la société civile ne reconstruira pas un rapport de force.  
-Tant que les citoyens ne refuseront pas la fiction de la sécurité.  
-Tant que les institutions ne seront pas confrontées à leurs propres limites.
-
-## 7. Au‑delà du décor
-
-Bloctel n’est pas un incident.  
-C’est un avertissement.  
-Un marqueur.  
-Une fissure dans la façade technocratique.
-
-Plus on collecte, plus on fragilise.  
-Plus on centralise, plus on expose.  
-Plus on impose, plus on détruit la marge de liberté.  
-Plus on délègue, plus on dilue la responsabilité.  
-Plus on interconnecte, plus on multiplie les points de rupture.
-
-La société civile doit regarder ce décor en face :  
-pour comprendre la mécanique,  
-dévoiler les illusions,  
-refuser la fatalité,  
-reconstruire la vigilance.
-
-Une démocratie se mesure à sa capacité à reconnaître les fissures avant qu’elles ne deviennent fractures.
-
-La question n’est plus :  
-**“Pourquoi cela arrive ?”**
-
-La question est :  
-**“Jusqu’à quand cela pourra continuer ?”**
-
-Et **"Comment agir ensemble concrètement pour l'empêcher ?"**
+La question est **jusqu’à quand cela pourra continuer**, et **comment agir ensemble pour l’empêcher**.
 
 ---
-
 Céleste R.
+
+ 
 
 
