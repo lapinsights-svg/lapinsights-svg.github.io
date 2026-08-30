@@ -5,7 +5,7 @@ date: "2026-07-21"
 resume: "Le Liban cherche la lumière au cœur de la cendre."
 og_image: /images/creations/Iran.webp
 tags:
-  - iran
+  - liban
   - ghazal
   - soufisme
   - attar
