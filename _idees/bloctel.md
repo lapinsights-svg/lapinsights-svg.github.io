@@ -127,8 +127,20 @@ La démocratie se mesure à sa capacité à percevoir les fissures avant qu’el
 La question est **jusqu’à quand cela pourra continuer**, et **comment agir ensemble pour l’empêcher**.
 
 ---
+
 Céleste R.
 
- 
+---
+
+## Sources
+
+**Juin 2024 : Signalement initial de la fuite**  
+French Breaches / ZDNet rapportent la revendication du piratage sur un forum de revente de données,  
+où les attaquants affirment avoir récupéré plus de 3 millions de numéros.  
+
+
+**Août 2024 : Confirmation officielle par la DGCCRF (12 août)**  
+Communiqué de la DGCCRF confirmant l’accès frauduleux à un compte professionnel Bloctel et la récupération de 3 millions de numéros.  
+
 
 
