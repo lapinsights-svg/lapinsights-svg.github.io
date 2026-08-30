@@ -12,157 +12,131 @@ og_image: /images/passe/modernisme.webp
 
 # Le nerf caché du modernisme
 
-On raconte souvent l’art moderne comme une poussée interne du siècle.  
-Une rupture née dans l’atelier.  
+On raconte souvent l’art moderne comme une rupture née dans l’atelier.  
 Un geste libre arraché à la matière.  
+Un récit qui protège l’idée d’une avant‑garde surgie d’elle‑même.  
 
-Ce récit est confortable.  
-Il protège l’idée que la forme naît d’elle‑même, que l’avant‑garde surgit sans autre moteur que son propre désir.  
-
-Mais si l’on suit les documents, les archives, les trajectoires institutionnelles, un autre récit apparaît.  
+Pourtant, dès qu’on suit les archives, un autre récit apparaît.  
 Plus froid.  
 Plus mécanique.  
-Plus vrai.
+Plus vrai.  
 
 Le Musée d’art moderne de New York n’a jamais été un simple musée.  
 Il naît dans les mains d’Abby Aldrich Rockefeller.  
 Puis passe à son fils Nelson.  
 
 À partir de là, la ligne se tend.  
-Nelson Rockefeller dirige MoMA et, dans le même mouvement, devient coordonnateur des affaires interaméricaines sous Roosevelt.  
-
+Nelson Rockefeller dirige le MoMA tout en devenant coordonnateur des affaires interaméricaines sous Roosevelt.  
 Le musée glisse du culturel au diplomatique.  
-Il est mobilisé pendant la guerre.  
+Pendant la guerre, il est mobilisé.  
 Il devient un instrument.  
 
-Rien ne flotte, c’est inscrit dans les archives, dans les correspondances, dans les décisions administratives.  
+Les archives sont explicites.  
 MoMA n’est pas un lieu neutre.  
-C’est un organe.
+C’est un organe.  
 
 Après la guerre, la continuité se durcit.  
-Thomas Braden, secrétaire exécutif du MoMA, traverse la cloison et rejoint la CIA.  
+Thomas Braden, secrétaire exécutif du MoMA, rejoint la CIA.  
 Il prend la tête des opérations culturelles.  
+Il ne masque rien : “I’m glad the CIA is ‘immoral’.”  
 
-Il ne masque rien :  
-"I’m glad the CIA is ‘immoral’."  
-Traduction : "Je suis heureux que la CIA soit “immorale”."
-
-Ce n’est pas une phrase de style, mais une phrase de structure.  
-
-Elle dit que l’agence a franchi volontairement les limites de la diplomatie culturelle pour manipuler l’art.  
+Cette phrase dit que l’agence a franchi volontairement les limites de la diplomatie culturelle.  
 Elle dit que l’art moderne a servi les États‑Unis mieux que les discours officiels.  
-Elle dit que l’esthétique est devenue un outil stratégique.
+Elle dit que l’esthétique est devenue un outil stratégique.  
 
 Les sources convergent.  
 Le Congress for Cultural Freedom sert de façade.  
 Les expositions sont financées.  
-Les critiques sont mobilisés.  
-Les revues sont subventionnées.  
+Les critiques mobilisés.  
+Les revues subventionnées.  
 
-Et surtout : les artistes, les écrivains, les poètes, les intellectuels sont instrumentalisés.  
+Et surtout, les artistes, écrivains, poètes, intellectuels sont instrumentalisés.  
 Certains recrutés directement.  
 D’autres approchés par des fondations écrans.  
-D’autres encore intégrés dans des réseaux où l’argent circule sans jamais dire son origine.
+D’autres encore intégrés dans des réseaux où l’argent circule sans origine déclarée.  
 
-C'est documenté.  
-Ernest Hemingway, en contact avec l’OSS, l’ONI et même le NKVD, navigue entre littérature et renseignement.  
-Gertrude Stein, protégée par Vichy, reste une figure moderniste centrale tout en circulant dans des réseaux politiques troubles.  
-George Orwell fournit des listes de noms au Foreign Office, mêlant littérature et surveillance.  
-Vladimir Nabokov, issu d’une famille diplomatique, transite par des milieux où la frontière entre culture et politique n’existe plus.  
-Même des critiques comme Lionel Trilling ou Clement Greenberg sont soutenus par des structures financées indirectement.
+Ernest Hemingway navigue entre littérature et renseignement via l’OSS, l’ONI et même le NKVD.  
+Gertrude Stein, protégée par Vichy, reste une figure moderniste tout en circulant dans des réseaux politiques troubles.  
+George Orwell fournit des listes de noms au Foreign Office.  
+Vladimir Nabokov transite par des milieux où culture et politique se confondent.  
+Même des critiques comme Lionel Trilling ou Clement Greenberg bénéficient de financements indirects.  
 
-Des peintres envoyés en Europe pour incarner la "liberté américaine".  
+Des peintres sont envoyés en Europe pour incarner la “liberté américaine”.  
 Des écrivains financés pour produire un récit compatible avec la diplomatie culturelle.  
 Des critiques payés pour installer un canon.  
-Des revues littéraires tenues à flot par des fonds secrets.
+Des revues tenues à flot par des fonds secrets.  
 
 L’expressionnisme abstrait devient un drapeau.  
-La littérature moderniste devient un vecteur.  
-La poésie devient un terrain.  
-Le théâtre devient un relais.
+La littérature moderniste un vecteur.  
+La poésie un terrain.  
+Le théâtre un relais.  
 
-L’art moderne n’est plus seulement une forme.  
-C’est une infrastructure.
+L’art moderne cesse d’être seulement une forme.  
+Il devient une infrastructure.  
 
-## **La fonction réelle du modernisme**
+## La fonction réelle du modernisme
 
-
-Ce que ces documents ne disent pas directement, mais qui affleure partout,  
-c’est la fonction réelle du modernisme dans la stratégie culturelle américaine.  
+Ce que les documents ne disent pas directement, mais qui affleure partout, c’est la fonction réelle du modernisme.  
 Il ne s’agissait pas seulement de viser une société rivale.  
-La société américaine elle‑même a été travaillée, remodelée, déstabilisée par les mêmes outils.  
+La société américaine elle‑même a été travaillée par ces outils.  
 
-Le modernisme a fracturé les repères symboliques internes, dissous les cadres esthétiques hérités,  
-rendu obsolètes des récits qui structuraient encore la vie culturelle américaine.  
-Un art sans récit, sans centre, sans tradition, agit comme un sol qui se dérobe.  
+Le modernisme fracture les repères symboliques internes.  
+Il dissout les cadres esthétiques hérités.  
+Il rend obsolètes des récits qui structuraient encore la vie culturelle américaine.  
+
+Un art sans récit, sans centre, sans tradition agit comme un sol qui se dérobe.  
 Il déstructure.  
 Il désoriente.  
-Il affaiblit les architectures mentales qui soutiennent une culture - même la celle qui le produit.  
+Il affaiblit les architectures mentales qui soutiennent une culture.  
 
-Le modernisme n’a pas seulement été promu :  
-il a servi à déplacer ce qui tenait encore debout, là-bas comme ailleurs, en Europe, notamment.
+Il n’a pas seulement été promu.  
+Il a servi à déplacer ce qui tenait encore debout, aux États‑Unis comme en Europe.  
 
----
+L’expressionnisme abstrait est exporté comme signe de liberté opposé à la rigidité soviétique.  
+C’est documenté par Frances Stonor Saunders, The Independent, la BBC, ArtNet, JSTOR Daily.  
 
-L’expressionnisme abstrait est aussi exporté comme un signe de liberté opposé à la rigidité soviétique.  
-C’est documenté par Frances Stonor Saunders,  
-par The Independent,  
-par la BBC,  
-par ArtNet,  
-par JSTOR Daily.
+Le modernisme n’est pas seulement un mouvement esthétique.  
+C’est un dispositif géopolitique.  
 
-Le modernisme n’a pas été seulement un mouvement esthétique.  
-Il a été un dispositif géopolitique.  
 L’expressionnisme abstrait n’a pas été choisi pour sa seule force plastique.  
+Il a été sélectionné parce qu’il incarnait une idée politique : l’individu, la spontanéité, la rupture avec la tradition.  
 
-Il a été sélectionné parce qu’il incarnait une idée politique :  
-l’individu,  
-la spontanéité,  
-l’absence de récit,  
-la rupture avec la tradition.
+Un art difficile à instrumentaliser par les régimes autoritaires.  
+Un art facile à brandir comme preuve de liberté.  
+Un art qui ne raconte rien, donc qui peut tout signifier.  
+Un art qui ne menace aucune structure interne, donc promouvable sans risque.  
+Un art qui laisse les autres écoles mourir en silence.  
 
-Un art difficile à instrumentaliser par les régimes autoritaires,  
-mais facile à brandir comme preuve de liberté.
-
-Un art qui ne raconte rien,  
-donc qui peut tout signifier.
-
-Un art qui ne menace aucune structure interne,  
-donc qui peut être promu sans risque.
-
-Un art qui laisse les autres écoles - le classicisme notamment - mourir en silence.
+## Une hégémonie construite
 
 Le modernisme dominant n’est pas né d’un élan interne du siècle.  
-Il a été consolidé par des financements,  
-protégé par des mécènes,  
-exporté par des diplomates,  
-structuré par des agences.
-
-Il a été rendu hégémonique par une mécanique institutionnelle.
+Il a été consolidé par des financements.  
+Protégé par des mécènes.  
+Exporté par des diplomates.  
+Structuré par des agences.  
 
 Lorsque l’État finance un style, les autres s’effacent.  
 Lorsque les musées s’alignent, les alternatives disparaissent.  
 Lorsque les critiques sont mobilisés, le canon se fixe.  
 Lorsque les écrivains sont recrutés, le récit se verrouille.  
-Lorsque les artistes sont instrumentalisés, la forme se plie.
+Lorsque les artistes sont instrumentalisés, la forme se plie.  
 
 Le modernisme a été façonné par la CIA.  
-Il a été rendu dominant par elle.  
-Il a été utilisé par elle.
+Rendu dominant par elle.  
+Utilisé par elle.  
 
-Il a été protégé par MoMA.  
-Il a été porté par les Rockefeller.  
-Il a été inscrit dans la diplomatie américaine.  
-Il a été transformé en outil.
+Il a été protégé par le MoMA.  
+Porté par les Rockefeller.  
+Inscrit dans la diplomatie américaine.  
+Transformé en outil.  
 
-Et cet outil a laissé une trace :  
-un siècle où l’art a servi à dire ce que la politique ne pouvait plus dire directement.
+Et cet outil a laissé une trace.  
+Un siècle où l’art a servi à dire ce que la politique ne pouvait plus dire directement.  
 
-L’histoire de l’art n’est pas seulement une histoire de formes,  
-mais une histoire de forces.
+L’histoire de l’art n’est pas seulement une histoire de formes.  
+C’est une histoire de forces.  
 
-Et certaines forces, longtemps invisibles,  
-commencent enfin à apparaître.
+Et certaines forces, longtemps invisibles, commencent enfin à apparaître.  
 
 ---
 
