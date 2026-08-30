@@ -109,7 +109,7 @@ La mécanique institutionnelle avance, même quand la conscience démocratique r
 
 ## Jusqu’à quel seuil ?
 
-Jusqu’où un système peut-il fuir avant de se briser ? 
+Jusqu’où un système peut-il fuir avant de se briser ?  
 Les scénarios extrêmes se dessinent : compromission d’un cloud souverain, exposition des flux économiques,  
 fuite totale des données médicales, paralysie d’un service essentiel, rupture de confiance irréversible.  
 Le système ne s’arrêtera pas de lui-même : il avance, persiste, s’étend,  
