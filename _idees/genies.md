@@ -76,7 +76,7 @@ Et le discours ne bâtit pas de cathédrales.
 
 ## Le génie exige un cadre, et notre époque n’en a plus
 
-Un génie n’est pas un miracle isolé. C’est un individu exceptionnel dans un système exceptionnel.  
+Un génie n’est pas un miracle isolé, mais un individu exceptionnel dans un système exceptionnel.  
 Or aujourd’hui, il n’y a plus de langage commun, plus de hiérarchie des formes, plus de mécénat structuré, plus de formation totale, plus de culture du chef‑d’œuvre,  
 plus de public éduqué à la profondeur, plus de vision du beau comme horizon.
 
