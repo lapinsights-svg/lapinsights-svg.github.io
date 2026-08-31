@@ -80,7 +80,7 @@ Un génie n’est pas un miracle isolé, mais un individu exceptionnel dans un s
 Or aujourd’hui, il n’y a plus de langage commun, plus de hiérarchie des formes, plus de mécénat structuré, plus de formation totale,  
 plus de culture du chef‑d’œuvre, plus de public éduqué à la profondeur, plus de vision du beau comme horizon.
 
-Le génie n’a pas disparu, mais monde qui le rendait visible s’est dissous.
+Le génie n’a pas disparu, mais monde qui le rendait visible s’est dissous.  
 Notre époque n’a pas perdu sa lumière, mais son architecture.
 
 ---
