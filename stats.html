@@ -123,20 +123,12 @@ title: ""
 /* Pulsation cardiaque mystique */
 @keyframes fremissement {
   0%   { transform: scale(1); opacity: 1; }
-
-  /* Premier battement (lub) */
   8%   { transform: scale(1.055); opacity: 0.96; }
   14%  { transform: scale(1.02); opacity: 1; }
-
-  /* Deuxième battement (dub) */
   22%  { transform: scale(1.065); opacity: 0.95; }
   30%  { transform: scale(1.018); opacity: 1; }
-
-  /* Respiration lente */
   45%  { transform: scale(1.028); opacity: 0.97; }
   60%  { transform: scale(1.012); opacity: 1; }
-
-  /* Retour au calme, très lent */
   80%  { transform: scale(1.006); opacity: 0.99; }
   100% { transform: scale(1); opacity: 1; }
 }
@@ -164,25 +156,33 @@ async function getArticlesData() {
 }
 
 function normalizeForMatching(str) {
-  // Convertir en minuscules et supprimer les accents
-  return str.toLowerCase()
+  return str
+    .toLowerCase()
     .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[\u0300-\u036f]/g, "")   // accents
+    .replace(/[^a-z0-9]/g, "")         // tirets, espaces, underscores
     .trim();
 }
 
 function extractPureSlug(workerSlug) {
-  // Le Worker enregistre : "actualites/50-balles" ou "spiritualite/UCEMBIBLE"
-  // On doit extraire : "50-balles" ou "UCEMBIBLE"
   const collections = ["actualites", "idees", "spiritualite", "creations", "passe", "vibrations", "lapinsights"];
-  
+  const normalizedWorker = workerSlug.toLowerCase();
+
   for (const coll of collections) {
-    if (workerSlug.startsWith(coll + "/")) {
-      return workerSlug.substring(coll.length + 1);
+    const collLower = coll.toLowerCase();
+
+    // Cas 1 : collection collée (spiritualiteconscience)
+    if (normalizedWorker.startsWith(collLower)) {
+      return normalizedWorker.substring(collLower.length);
+    }
+
+    // Cas 2 : collection + slash (rare mais possible)
+    if (normalizedWorker.startsWith(collLower + "/")) {
+      return normalizedWorker.substring(collLower.length + 1);
     }
   }
-  
-  return workerSlug;
+
+  return normalizedWorker;
 }
 
 async function loadStats() {
@@ -192,40 +192,37 @@ async function loadStats() {
   const articles = await getArticlesData();
   const container = document.getElementById("stats");
 
-  // Créer une map case-insensitive pour retrouver les articles
   const articleMap = {};
   for (const article of articles) {
     const normalized = normalizeForMatching(article.slug);
     articleMap[normalized] = article;
   }
 
-  // Afficher les stats (déjà triées par le Worker)
   for (const item of stats) {
     const workerSlug = item.slug || "";
     const count = item.count || 0;
-    
-    // Extraire le slug pur (sans la collection)
+
     const pureSlug = extractPureSlug(workerSlug);
-
-    // Ignorer si vide
-    if (!pureSlug) continue;
-
-    // Normaliser et chercher l'article
     const normalized = normalizeForMatching(pureSlug);
+
     const article = articleMap[normalized];
-    
+
     if (!article) {
-      console.log("Article non trouvé pour slug:", pureSlug, "(normalized:", normalized, ")");
+      console.log("❌ ARTICLE NON TROUVÉ");
+      console.log("   workerSlug :", workerSlug);
+      console.log("   pureSlug   :", pureSlug);
+      console.log("   normalized :", normalized);
+      console.log("   slugs disponibles :", Object.keys(articleMap));
       continue;
     }
 
-    // Créer la capsule
     const div = document.createElement("div");
     div.className = "capsule-item";
 
     div.innerHTML = `
       <h2 class="capsule-title"><a href="${article.url}">${article.title}</a></h2>
       ${article.resume ? `<p class="capsule-summary">${article.resume}</p>` : ""}
+      <p style="font-size:0.8rem;color:#555;margin-top:0.3rem;">Vues : ${count}</p>
     `;
 
     container.appendChild(div);
