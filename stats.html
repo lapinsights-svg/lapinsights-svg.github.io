@@ -163,9 +163,20 @@ async function getArticlesData() {
   return fetch("/articles.json").then(r => r.json());
 }
 
-function normalizeSlug(slug) {
-  // Supprime slash final et espace blanc
-  return slug.replace(/\/$/, "").trim();
+function extractPureSlug(workerSlug) {
+  // Le Worker enregistre : "actualites50-balles" ou "spiritualiteUCEMBIBLE"
+  // On doit extraire : "50-balles" ou "UCEMBIBLE"
+  // Les collections connues
+  const collections = ["actualites", "idees", "spiritualite", "creations", "passe", "vibrations"];
+  
+  for (const coll of collections) {
+    if (workerSlug.startsWith(coll)) {
+      // Enlever la collection du début
+      return workerSlug.substring(coll.length);
+    }
+  }
+  
+  return workerSlug;
 }
 
 async function loadStats() {
@@ -175,27 +186,31 @@ async function loadStats() {
   const articles = await getArticlesData();
   const container = document.getElementById("stats");
 
-  // Créer une map pour retrouver les articles par slug normalisé
+  // Créer une map pour retrouver les articles par slug pure
   const articleMap = {};
   for (const article of articles) {
-    const normalizedSlug = normalizeSlug(article.slug);
-    articleMap[normalizedSlug] = article;
+    articleMap[article.slug] = article;
   }
 
   // Afficher les stats (déjà triées par le Worker)
   for (const item of stats) {
-    let slug = item.slug || "";
-    const normalizedSlug = normalizeSlug(slug);
+    const workerSlug = item.slug || "";
+    const count = item.count || 0;
+    
+    // Extraire le slug pur (sans la collection)
+    const pureSlug = extractPureSlug(workerSlug);
 
-    // Ignorer les non-articles
-    if (!normalizedSlug || normalizedSlug.startsWith("test") || normalizedSlug.includes("stats")) continue;
+    // Ignorer si vide
+    if (!pureSlug) continue;
 
-    const article = articleMap[normalizedSlug];
+    // Chercher l'article
+    const article = articleMap[pureSlug];
     if (!article) {
-      console.log("Article non trouvé pour slug:", normalizedSlug);
+      console.log("Article non trouvé pour slug:", pureSlug, "(worker slug:", workerSlug, ")");
       continue;
     }
 
+    // Créer la capsule
     const div = document.createElement("div");
     div.className = "capsule-item";
 
