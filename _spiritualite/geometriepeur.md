@@ -159,7 +159,7 @@ Celui qui a quitté ces clartés factices voit ce que d’autres ne voient plus 
 Des êtres sensibles, vibrants,  
 mais qui ont appris à ne plus se laisser traverser.  
 Des êtres qui ne parlent plus d’eux,  
-mais d’un personnage qu’ils croient être —  
+mais d’un personnage qu’ils croient être,    
 une silhouette apaisée, construite pour ne pas sentir.
 
 Des êtres vivants,  
