@@ -49,7 +49,7 @@ Un Beethoven moderne ne composerait pas des symphonies.
 Il bâtirait des architectures sonores pour le cinéma, des mondes pour les jeux vidéo, des systèmes répétitifs, des textures électroniques.  
 Il serait John Williams, Joe Hisaishi, Hans Zimmer, Philip Glass, Brian Eno, Nobuo Uematsu.
 
-Mais comme ce n’est pas « classique », on ne le voit pas.  
+Mais comme ce n’est pas "classique", on ne le voit pas.  
 Le génie est dispersé, donc invisible.
 
 ## La peinture et la sculpture ont perdu leur gravité
