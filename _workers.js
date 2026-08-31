@@ -2,16 +2,33 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
 
-    // /stats → renvoie les vues
+    // /stats → renvoie les vues agrégées
     if (url.pathname === "/stats") {
       const list = await env.LAPIN_STATS.list({ prefix: "views:" });
       const stats = [];
+      const aggregated = {};
 
       for (const item of list.keys) {
-        const slug = item.name.replace("views:", "");
-        const count = await env.LAPIN_STATS.get(item.name);
-        stats.push({ slug, count: parseInt(count || "0", 10) });
+        let slug = item.name.replace("views:", "");
+        
+        // Normaliser : supprimer le slash final
+        slug = slug.replace(/\/$/, "");
+        
+        // Éviter les doublons (index, assets, etc.)
+        if (!slug || slug.startsWith("assets") || slug === "index") {
+          continue;
+        }
+
+        // Aggréger les compteurs par slug normalisé
+        const count = parseInt(await env.LAPIN_STATS.get(item.name) || "0", 10);
+        aggregated[slug] = (aggregated[slug] || 0) + count;
       }
+
+      // Convertir en array et trier par count décroissant
+      for (const [slug, count] of Object.entries(aggregated)) {
+        stats.push({ slug, count });
+      }
+      stats.sort((a, b) => b.count - a.count);
 
       return new Response(JSON.stringify(stats, null, 2), {
         headers: { "Content-Type": "application/json" }
@@ -32,7 +49,11 @@ export default {
     }
 
     // compter les vues
-    const slug = url.pathname.replace(/^\//, "") || "index";
+    let slug = url.pathname.replace(/^\//, "") || "index";
+    
+    // Normaliser : supprimer le slash final
+    slug = slug.replace(/\/$/, "");
+    
     const key = `views:${slug}`;
     const current = await env.LAPIN_STATS.get(key);
     const count = current ? parseInt(current, 10) + 1 : 1;
