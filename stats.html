@@ -163,16 +163,22 @@ async function getArticlesData() {
   return fetch("/articles.json").then(r => r.json());
 }
 
+function normalizeForMatching(str) {
+  // Convertir en minuscules et supprimer les accents
+  return str.toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .trim();
+}
+
 function extractPureSlug(workerSlug) {
-  // Le Worker enregistre : "actualites50-balles" ou "spiritualiteUCEMBIBLE"
+  // Le Worker enregistre : "actualites/50-balles" ou "spiritualite/UCEMBIBLE"
   // On doit extraire : "50-balles" ou "UCEMBIBLE"
-  // Les collections connues
-  const collections = ["actualites", "idees", "spiritualite", "creations", "passe", "vibrations"];
+  const collections = ["actualites", "idees", "spiritualite", "creations", "passe", "vibrations", "lapinsights"];
   
   for (const coll of collections) {
-    if (workerSlug.startsWith(coll)) {
-      // Enlever la collection du début
-      return workerSlug.substring(coll.length);
+    if (workerSlug.startsWith(coll + "/")) {
+      return workerSlug.substring(coll.length + 1);
     }
   }
   
@@ -186,10 +192,11 @@ async function loadStats() {
   const articles = await getArticlesData();
   const container = document.getElementById("stats");
 
-  // Créer une map pour retrouver les articles par slug pure
+  // Créer une map case-insensitive pour retrouver les articles
   const articleMap = {};
   for (const article of articles) {
-    articleMap[article.slug] = article;
+    const normalized = normalizeForMatching(article.slug);
+    articleMap[normalized] = article;
   }
 
   // Afficher les stats (déjà triées par le Worker)
@@ -203,10 +210,12 @@ async function loadStats() {
     // Ignorer si vide
     if (!pureSlug) continue;
 
-    // Chercher l'article
-    const article = articleMap[pureSlug];
+    // Normaliser et chercher l'article
+    const normalized = normalizeForMatching(pureSlug);
+    const article = articleMap[normalized];
+    
     if (!article) {
-      console.log("Article non trouvé pour slug:", pureSlug, "(worker slug:", workerSlug, ")");
+      console.log("Article non trouvé pour slug:", pureSlug, "(normalized:", normalized, ")");
       continue;
     }
 
