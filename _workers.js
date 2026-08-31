@@ -11,7 +11,7 @@ export default {
       for (const item of list.keys) {
         let slug = item.name.replace("views:", "");
         
-        // Normaliser : supprimer le slash final
+        // Normaliser : supprimer les slashes finaux
         slug = slug.replace(/\/$/, "");
         
         // Éviter les faux-positifs (index, assets, etc.)
@@ -25,12 +25,13 @@ export default {
       }
 
       // Convertir en array et trier par count décroissant
+      const stats_array = [];
       for (const [slug, count] of Object.entries(aggregated)) {
-        stats.push({ slug, count });
+        stats_array.push({ slug, count });
       }
-      stats.sort((a, b) => b.count - a.count);
+      stats_array.sort((a, b) => b.count - a.count);
 
-      return new Response(JSON.stringify(stats, null, 2), {
+      return new Response(JSON.stringify(stats_array, null, 2), {
         headers: { "Content-Type": "application/json" }
       });
     }
