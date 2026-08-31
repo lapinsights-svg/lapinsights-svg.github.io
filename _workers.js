@@ -14,8 +14,8 @@ export default {
         // Normaliser : supprimer le slash final
         slug = slug.replace(/\/$/, "");
         
-        // Éviter les doublons (index, assets, etc.)
-        if (!slug || slug.startsWith("assets") || slug === "index") {
+        // Éviter les faux-positifs (index, assets, etc.)
+        if (!slug || slug.startsWith("assets") || slug === "index" || slug.startsWith("test") || slug.includes("stats") || slug.includes("drafts") || slug.includes("blogroll")) {
           continue;
         }
 
