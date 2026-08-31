@@ -160,7 +160,6 @@ function normalizeForMatching(str) {
     .toLowerCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")   // accents
-    .replace(/[^a-z0-9]/g, "")         // tirets, espaces, underscores
     .trim();
 }
 
