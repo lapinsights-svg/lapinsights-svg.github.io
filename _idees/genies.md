@@ -36,12 +36,12 @@ La machine moderne est horizontale : elle produit des techniciens, pas des mon
 
 Aux 18e et 19e siècles, la tonalité était une langue partagée. Stable, lisible, architecturale.  
 Elle permettait de construire, de comparer, de dépasser.  
-Elle offrait un terrain commun où un sommet pouvait être reconnu comme tel.
+Elle offrait un socle commun où un sommet pouvait être reconnu comme tel.
 
 Cette langue s’est fragmentée.  
 La musique est devenue un archipel : électro, jazz, cinéma, jeux vidéo, minimalisme, pop, atonalité.  
 Plus de centre, plus de hiérarchie, plus de terrain commun.  
-Sans terrain commun, pas de géants visibles.
+Sans socle commun, pas de géants visibles.
 
 ## Les génies existent encore, mais ils se déplacent
 
