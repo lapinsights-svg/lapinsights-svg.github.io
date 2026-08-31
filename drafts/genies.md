@@ -38,7 +38,9 @@ Le conservatoire moderne est une machine horizontale : il produit des technicien
 
 Au 18ème et 19ème siècles, tout le monde parlait la même langue : la tonalité.  
 Une langue stable, lisible, architecturale, qui permettait la construction, la comparaison, la maîtrise.  
-Une langue qui permettait à Beethoven de bâtir des cathédrales harmoniques, à Mozart de jouer avec la lumière, à Brahms de tenir une forme longue comme un fleuve.
+Une langue qui permettait à Beethoven de bâtir des cathédrales harmoniques,  
+à Mozart de jouer avec la lumière,  
+à Brahms de tenir une forme longue comme un fleuve.
 
 Cette langue s’est dissoute.  
 La musique est devenue un archipel : électro, jazz, cinéma, jeux vidéo, minimalisme, atonalité, pop.  
@@ -66,10 +68,8 @@ Le sacré s’est dissous.
 Le monumental s’est éteint.
 
 Plus de Michel‑Ange, plus de Bernini, plus de Rodin.  
-Pas par manque de talent.  
-Par disparition du monde qui les portait.
 
-## Le XXᵉ siècle a fait sauter les critères, et avec eux la possibilité d’un sommet
+## Le 20ème siècle a fait sauter les critères, et avec eux la possibilité d’un sommet
 
 L’art moderne a fait sauter la perspective, l’anatomie, la narration, la technique, la beauté, la hiérarchie.  
 C’était une libération, mais aussi une dissolution.  
@@ -88,14 +88,9 @@ plus de culture du chef‑d’œuvre, plus de public éduqué à la profondeur, 
 
 Le génie n’a pas disparu.  
 Le monde qui le rendait visible s’est dissous.
-
----
-
-## Conclusion
-
-Le modèle qui produisait des géants s’est effondré.  
-Les génies existent encore, mais ils sont devenus invisibles, faute d’un cadre capable de les reconnaître.  
 Notre époque n’a pas perdu sa lumière.  
 Elle a perdu son architecture.
+
+---
 
 Céleste R.
