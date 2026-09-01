@@ -125,7 +125,7 @@ Et c’est dans cette fracture que naît la beauté des récits :
 un auteur croyant qui invente un héros incroyant,  
 un homme spirituel qui façonne un rationaliste absolu,  
 un créateur qui engendre un juge,  
-un vivant qui engendre un fantôme.
+un vivant qui engendre un fantôme, par lequel il est hanté.
 
 
 Céleste R.
