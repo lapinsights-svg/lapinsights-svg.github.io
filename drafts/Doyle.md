@@ -2,7 +2,7 @@
 title: "Doyle et Holmes : l’impossible jonction"
 resume: "Analyse de la fracture intérieure et stratégique entre Doyle et Holmes."
 categories: passe
-date: 2026-08-31
+date: 2026-09-03
 tags:
   - littérature
   - Sherlock Holmes
