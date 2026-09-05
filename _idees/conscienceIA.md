@@ -1,5 +1,6 @@
 ---
 title: "La conscience impossible des IA"
+resume: "La conscience est vivante, l’IA n’imite qu’un comportement vide."
 date: 2026-09-05
 layout: article
 categories: idees
