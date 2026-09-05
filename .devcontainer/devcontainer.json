@@ -1,0 +1,6 @@
+{
+  "name": "Ruby DevContainer",
+  "features": {
+    "ghcr.io/rails/devcontainer/features/ruby:2": {}
+  }
+}
