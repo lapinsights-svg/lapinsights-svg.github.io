@@ -56,3 +56,7 @@ Elle est une frontière du vivant.
 
 
 Céleste R.
+
+
+à lire aussi : L’adaptation n’est pas l’intelligence : plaidoyer pour le vivant - [Neuromorph](https://lapinsights.org/idees/neuromorph/)
+
