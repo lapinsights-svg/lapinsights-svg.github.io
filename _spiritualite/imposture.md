@@ -162,31 +162,7 @@ La question devient alors :
 
 ---
 
-## 7. Un Cours en Miracles : la déréalisation comme méthode
-
-Un Cours en Miracles (UCEM) est devenu l’un des manuels spirituels les plus diffusés.  
-Il prétend que « tout est illusion », que « rien ne s’est vraiment passé », que « la souffrance n’existe pas ».
-
-Témoignage d’une étudiante :
-
-> « Je ne réagis plus à rien. Tout est illusion. Je fais semblant de rire ou de pleurer. Rien ne s’est vraiment passé. »
-
-Ce type de discours est fréquent.  
-Il montre comment une doctrine peut devenir un **anesthésiant émotionnel**, un **outil de déconnexion**, un **refuge qui empêche l’action**.
-
-UCEM ne parle jamais de :
-
-- structures de pouvoir,  
-- dynamiques historiques,  
-- souveraineté,  
-- action collective,  
-- lucidité politique.
-
-Il parle de pardon, de dissolution, de renoncement.
-
----
-
-## 8. Le bouddhisme modernisé : la version édulcorée
+## 7. Le bouddhisme modernisé : la version édulcorée
 
 ![lama](/images/spiritualite/lama.png)
 
