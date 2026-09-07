@@ -12,7 +12,7 @@ permalink: /articles.json
 
 {% for post in all %}
   {
-    "slug": "{{ post.slug | default: post.basename_without_ext }}",
+    "slug": "{{ post.basename_without_ext }}",
     "title": {{ post.title | jsonify }},
     "resume": {{ post.resume | jsonify }},
     "url": {{ post.url | jsonify }}
