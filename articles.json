@@ -2,8 +2,9 @@
 layout: null
 permalink: /articles.json
 ---
+
 [
-{% assign all = site.posts %}
+{% assign all = site.collections | map: "docs" | flatten %}
 {% for post in all %}
   {
     "slug": "{{ post.slug }}",
