@@ -2,9 +2,8 @@
 layout: null
 permalink: /articles.json
 ---
-
 [
-{% assign all = site.actualites | concat: site.idees | concat: site.creations | concat: site.spiritualite | concat: site.passe %}
+{% assign all = site.posts %}
 {% for post in all %}
   {
     "slug": "{{ post.slug }}",
