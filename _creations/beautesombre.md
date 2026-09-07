@@ -1,9 +1,9 @@
 ---
 title: "Beauté sombre"
-date: 2026-08-30
+date: 2026-09-07
 categories: "creations"
-resume: "Une beauté née du gouffre : braise noire, pierre ouverte, lumière tellurique."
-og_image: "/images/creations/beautesombre.png"
+resume: "Une beauté née du gouffre."
+og_image: "/images/creations/beaute.webp"
 tags:
   - poésie
   - mystique
@@ -14,11 +14,10 @@ tags:
 ![beaute](/images/creations/beaute.webp)
 
 
-
 Dans mon ventre, une nuit profonde se déploie.  
 Elle porte une braise noire qui refuse de s’éteindre,  
-une braise qui éclaire sans adoucir.  
-Cette chaleur monte comme un parfum lourd, une vapeur de cendre et d’or.  
+une braise odorante qui éclaire sans adoucir.  
+Un parfum lourd, une vapeur de cendre et d’or.  
 Elle enveloppe tout.  
 Elle exige d’être reconnue.  
 
@@ -31,7 +30,7 @@ Il appelle sans bruit.
 
 La douleur est une fleur sombre.  
 Une fleur de cendre et de braise, qui s’offre avec une lenteur souveraine.  
-Elle laisse passer une clarté brûlante, une clarté qui glisse sur mes côtes,  
+Elle laisse passer une clarté brûlante, glissant sur mes côtes,  
 un métal incandescent qui révèle.  
 
 Le pardon n’est pas encore là.  
@@ -39,12 +38,12 @@ J'entends son pas qui chemine dans la rocaille,
 vibration nocturne, portant le poids du monde et la promesse d’un éclat.  
 Je sens son pas lourd et serein.  
 Il est magnifique.  
-Il arbore la vérité des choses qui ne peuvent plus rester enfouies.  
+Il arbore la vérité des traces qui ne peuvent plus rester enfouies.  
 
 Il y a dans cette approche une foi qui n’a rien d’éthéré.  
 C'est une flamme nocturne, droite, obstinée,  
 une lueur qui persiste dans le noir tel un serment.  
-Elle se tient dans chaque éclat de pierre, dans chaque frisson, dans chaque souffle de cette chambre intérieure.  
+Elle se tient dans chaque éclat de pierre, dans chaque frisson de cette chambre intérieure.  
 Elle est là, fidèle à ce qui veut renaître.  
 
 Je marche dans cette transfiguration.  
@@ -57,7 +56,7 @@ Son nom revient, sans murmure.
 Un outil sur la roche qui tambourine,  
 une vérité qui cherche son passage dans ma poitrine.  
 Je ne peux pas encore le regarder avec tendresse.  
-Mais je sens que quelque chose en moi devient caresse,  
+Mais un vague mouvement en moi devient caresse,  
 une braise qui aspire à la flamme,  
 une pierre qui soutient enfin la lumière.  
 
