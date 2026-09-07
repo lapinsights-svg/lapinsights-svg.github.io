@@ -13,10 +13,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 3.1
+      - name: Install Ruby (no bundler)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ruby-full
 
       - name: Run slug fixer
         run: |
