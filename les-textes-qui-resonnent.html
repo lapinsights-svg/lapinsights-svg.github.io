@@ -160,24 +160,39 @@ function normalizeForMatching(str) {
     .toLowerCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")   // accents
+    .replace(/\.md$/, "")              // retire .md si présent
     .trim();
 }
 
+/* 
+   Ton Worker renvoie des slugs propres :
+   - "imposture-des-spiritualites-pacifiantes"
+   - "jeanne"
+   - "conscienceia"
+   etc.
+
+   Ton articles.json contient des slugs EXACTEMENT identiques.
+
+   Donc : on ne touche pas aux slugs.
+   On retire juste les préfixes éventuels (rare).
+*/
 function extractPureSlug(workerSlug) {
-  const collections = ["actualites", "idees", "spiritualite", "creations", "passe", "vibrations", "lapinsights"];
-  const normalizedWorker = workerSlug.toLowerCase();
+  const collections = [
+    "actualites", "idees", "spiritualite",
+    "creations", "passe", "vibrations", "lapinsights"
+  ];
+
+  const normalizedWorker = normalizeForMatching(workerSlug);
 
   for (const coll of collections) {
-    const collLower = coll.toLowerCase();
+    const prefix = coll.toLowerCase();
 
-    // Cas 1 : collection collée (spiritualiteconscience)
-    if (normalizedWorker.startsWith(collLower)) {
-      return normalizedWorker.substring(collLower.length);
+    if (normalizedWorker.startsWith(prefix + "-")) {
+      return normalizedWorker.substring(prefix.length + 1);
     }
 
-    // Cas 2 : collection + slash (rare mais possible)
-    if (normalizedWorker.startsWith(collLower + "/")) {
-      return normalizedWorker.substring(collLower.length + 1);
+    if (normalizedWorker.startsWith(prefix + "/")) {
+      return normalizedWorker.substring(prefix.length + 1);
     }
   }
 
@@ -191,6 +206,7 @@ async function loadStats() {
   const articles = await getArticlesData();
   const container = document.getElementById("stats");
 
+  // Map des slugs normalisés → article
   const articleMap = {};
   for (const article of articles) {
     const normalized = normalizeForMatching(article.slug);
@@ -230,3 +246,4 @@ async function loadStats() {
 
 loadStats();
 </script>
+
