@@ -20,7 +20,7 @@ Le vécu intime est précieux, mais il n’a jamais été conçu pour porter seu
 
 ---  
 
-## Le socle matériel  
+## Le socle matériel.    
 Un rappel s’impose, non comme un verdict, mais comme un repère :
 
 **Le sexe est un fait matériel.**
