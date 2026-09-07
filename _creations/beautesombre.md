@@ -23,7 +23,7 @@ Elle exige d’être reconnue.
 
 Je pense à lui.  
 Une silhouette taillée dans l’ombre,  
-une présence qui garde encore la noblesse blessée des choses qui ont traversé le feu.  
+une présence qui garde encore la noblesse blessée de ce qui a traversé le feu.  
 Il se tient là, dans la profondeur de mon ventre,  
 roc noir où la lumière vient frapper pour naître.  
 Il appelle sans bruit.  
