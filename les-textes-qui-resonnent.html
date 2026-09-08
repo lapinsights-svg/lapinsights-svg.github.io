@@ -164,18 +164,6 @@ function normalizeForMatching(str) {
     .trim();
 }
 
-/* 
-   Ton Worker renvoie des slugs propres :
-   - "imposture-des-spiritualites-pacifiantes"
-   - "jeanne"
-   - "conscienceia"
-   etc.
-
-   Ton articles.json contient des slugs EXACTEMENT identiques.
-
-   Donc : on ne touche pas aux slugs.
-   On retire juste les préfixes éventuels (rare).
-*/
 function extractPureSlug(workerSlug) {
   const collections = [
     "actualites", "idees", "spiritualite",
@@ -200,13 +188,12 @@ function extractPureSlug(workerSlug) {
 }
 
 async function loadStats() {
-  const stats = await fetch("https://proud-snowflake-0d5a.lapinsights.workers.dev/stats")
+  const stats = await fetch("https://lapinsights-stats.lapinsights.workers.dev/stats")
     .then(r => r.json());
 
   const articles = await getArticlesData();
   const container = document.getElementById("stats");
 
-  // Map des slugs normalisés → article
   const articleMap = {};
   for (const article of articles) {
     const normalized = normalizeForMatching(article.slug);
@@ -246,4 +233,3 @@ async function loadStats() {
 
 loadStats();
 </script>
-
