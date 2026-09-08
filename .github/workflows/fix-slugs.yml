@@ -7,7 +7,7 @@ on:
 
 jobs:
   fix-slugs:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04   # ← version stable, non affectée par Node.js 24
 
     steps:
       - name: Checkout repository
