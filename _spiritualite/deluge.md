@@ -1,5 +1,5 @@
 ---
-categories: idees
+categories: spiritualite
 date: "2026-07-04"
 title: "Le Déluge, la dissolution du chaos"
 resume: "Le Déluge dissout la densité fracturée. L’Arche préfigure la fonction du Christ."
