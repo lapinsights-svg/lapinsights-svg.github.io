@@ -129,7 +129,7 @@ un coffret cerclé de fer,
 une plume taillée,  
 un parchemin roulé.
 
-Elle sentit qu’un secret était né ici, dans cette pièce, dans cette intimité politique du XIIᵉ siècle.  
+Elle sentit qu’un secret était né ici, dans cette pièce, dans cette intimité politique du 12e siècle.  
 Un secret qui avait laissé une trace dans l’air.
 
 ---
