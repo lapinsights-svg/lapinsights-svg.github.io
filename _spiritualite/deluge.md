@@ -1,6 +1,6 @@
 ---
 categories: spiritualite
-date: "2026-07-04"
+date: "2026-09-09"
 title: "Le Déluge, la dissolution du chaos"
 resume: "Le Déluge dissout la densité fracturée. L’Arche préfigure la fonction du Christ."
 episode: "La structure intérieure de la Bible"
