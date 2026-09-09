@@ -6,7 +6,7 @@ resume: "Le Déluge dissout la densité fracturée. L’Arche préfigure la fonc
 episode: "La structure intérieure de la Bible"
 slug: deluge
 layout: article
-g_image: /images/spiritualite/deluge1.webp
+og_image: /images/spiritualite/deluge1.webp
 tags:
   - bible
   - structure
