@@ -134,7 +134,7 @@ Le Christ en est l’accomplissement ontologique.
 
 ## Le Déluge intérieur : la traversée christologique dans l’homme
 
-Le Déluge est un événement intérieur qui habite l’homme qui suit le Christ.
+Le Déluge est un événement intérieur qui habite l’homme qui s'unit au Christ.
 
 Ce Déluge intérieur n’est pas psychologique.  
 Il n’est pas émotionnel.  
