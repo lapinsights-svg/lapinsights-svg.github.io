@@ -181,3 +181,6 @@ Une seule structure.
 ---
 
 Céleste R.
+
+Retour au sommaire :  
+[Sommaire structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
