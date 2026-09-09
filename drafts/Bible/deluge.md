@@ -1,12 +1,19 @@
 ---
 categories: idees
 date: "2026-07-04"
-title: "La structure intérieure de la Bible"
-episode: "Le Déluge : la dissolution du chaos"
+title: "Le Déluge, la dissolution du chaos"
 resume: "Le Déluge dissout la densité fracturée. L’Arche préfigure la fonction du Christ."
+episode: "La structure intérieure de la Bible"
 slug: deluge
 layout: article
+g_image: /images/spiritualite/deluge1.webp
+tags:
+  - bible
+  - structure
 ---
+
+![deluge](/images/spiritualite/deluge1.webp)
+
 
 # Le Déluge : la dissolution de la densité fracturée
 
