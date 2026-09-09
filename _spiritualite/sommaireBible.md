@@ -31,7 +31,7 @@ Les fichiers qui posent la topologie du Fils étendu. https://lapinsights.org/sp
 - Esprit  [esprit](https://lapinsights.org/spiritualite/esprit/)    
 - Deux arbres  [arbres](https://lapinsights.org/spiritualite/deuxarbres/)    
 
----
+---  
 
 ## II. Méthodologie de lecture  
 Ces fichiers préparent la lecture structurelle de la Bible.  
@@ -43,7 +43,7 @@ Ces fichiers préparent la lecture structurelle de la Bible.
 
 ## III. Narration biblique — plaques 1 à 7  
 - Genèse / Eden — [eden](https://lapinsights.org/spiritualite/eden/)   Eden2 version pédagogique - [Eden2](https://lapinsights.org/spiritualite/Eden2/) 
-- Déluge  
+- Déluge   [deluge](https://lapinsights.org/spiritualite/deluge/)
 - Jonas  
 - Abraham  
 - Babel  
