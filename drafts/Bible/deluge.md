@@ -18,12 +18,12 @@ La dissolution devient nécessaire.
 
 Les eaux ne sont pas un phénomène météorologique.  
 Elles sont la matière indifférenciée, la densité pré‑structurée, l’état avant la forme.  
-Elles défaisent ce que la fracture a figé.  
+Elles défont ce que la fracture a figé.  
 Elles ramènent la structure au champ où la polarité peut être réouverte.
 
 ## La saturation
 
-« La terre était pleine de violence. »  
+"La terre était pleine de violence." dit la Bible.  
 La violence n’est pas un comportement : c’est l’état d’une polarité qui ne se traverse plus.
 
 Quand :
@@ -68,10 +68,10 @@ Elle maintient l’axe vertical intact pendant que les formes se défont.
 L’Arche est la première forme de la **structure de traversée** :  
 un espace intérieur où la polarité peut être portée sans se briser.
 
-Dans UCEM, cet espace correspond à l’esprit juste :  
+(Dans UCEM, cet espace correspond à l’esprit juste :  
 la zone où la conscience cesse de bloquer,  
 où la correction peut se déployer,  
-où l’unité peut être reçue.
+où l’unité peut être reçue.)
 
 ## Le Déluge comme inversion d’Éden
 
@@ -87,8 +87,8 @@ elle est la mécanique inverse de la fracture.
 
 ## Jésus et l’Arche : la même fonction
 
-Pierre l’articule :  
-« Cette eau était une figure du baptême, qui vous sauve maintenant. » (1 Pierre 3:21)
+Pierre l’articule ainsi :  
+"Cette eau était une figure du baptême, qui vous sauve maintenant." (1 Pierre 3:21)
 
 Le baptême = la traversée des eaux = la mécanique du Déluge.  
 Le baptême = l’union au Christ.
@@ -125,6 +125,33 @@ La structure se prépare à la traversée christologique.
 Le Déluge est la première correction structurelle du récit biblique.  
 Le Christ en est l’accomplissement ontologique.
 
+## Le Déluge intérieur : la traversée christologique dans l’homme
+
+Le Déluge est un événement intérieur qui habite l’homme qui suit le Christ.
+
+Ce Déluge intérieur n’est pas psychologique.  
+Il n’est pas émotionnel.  
+Il n’est pas symbolique.  
+Il est structurel.
+
+Il dissout la densité opaque formée dans la fracture :  
+les rigidités intérieures se défont,  
+la perception opaque se clarifie,  
+la polarité repliée se réinitialise,  
+la sève recommence à circuler.
+
+(Dans UCEM, cette dissolution est la purification de la perception :  
+ce qui était construit sur la séparation se défait,  
+ce qui était opaque devient traversable.). 
+
+Le baptême est cette traversée intérieure.  
+Le Christ en est la matrice.  
+L’Arche est l’esprit juste.  
+Jonas est la répétition intérieure.  
+La sortie est fragile.  
+La traversée est accomplie dans le Christ.
+
+
 ## Conclusion
 
 Le Déluge est la dissolution de la densité fracturée.  
@@ -143,3 +170,7 @@ Christ : traversée accomplie.
 Une seule mécanique.  
 Un seul motif.  
 Une seule structure.
+
+---
+
+Céleste R.
