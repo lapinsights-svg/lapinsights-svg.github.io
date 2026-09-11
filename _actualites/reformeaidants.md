@@ -6,7 +6,7 @@ resume: "Analyse de la réforme du chômage en Belgique et de ses conséquences 
 ---
 
 
-![mergault](/images/actualites/aidants.png)
+![mergault](/statics/images/actualites/aidants.png)
 
 
 En Belgique, la Chambre a approuvé la solution transitoire du gouvernement Arizona pour les chômeurs qui sont aussi des aidants proches (qui sont plus d'un million).

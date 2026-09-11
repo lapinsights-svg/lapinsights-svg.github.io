@@ -4,10 +4,10 @@ date: 2026-06-13
 layout: article
 resume: "Une critique de la pseudo-bienveillance spirituelle qui dissocie au lieu d’éclairer."
 tags: ["spiritualité", "critique", "dissociation", "psychologie", "manipulation", "bienveillance", "cours-en-miracles"]
-og_image: /images/spiritualite/bienveillance.png
+og_image: /statics/images/spiritualite/bienveillance.png
 ---
 
-![bienveillance](/images/spiritualite/bienveillance.png)
+![bienveillance](/statics/images/spiritualite/bienveillance.png)
 
 Six ans après avoir quitté *Un Cours en Miracles*, je peux enfin le dire sans trembler : cette spiritualité est dangereuse.
 

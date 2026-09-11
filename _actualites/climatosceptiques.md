@@ -3,10 +3,10 @@ categories: actualites
 title: Climatocroyants non pratiquants
 date: 2026-06-26
 resume: La crise vient de la gestion, pas du climat lui-même.
-og_image: /images/actualites/climatosceptiques.png
+og_image: /statics/images/actualites/climatosceptiques.png
 ---
 
-![climatosceptiques](/images/actualites/climatosceptiques.png)
+![climatosceptiques](/statics/images/actualites/climatosceptiques.png)
 
 
 ## Préambule

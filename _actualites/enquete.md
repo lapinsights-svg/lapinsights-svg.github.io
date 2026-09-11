@@ -3,7 +3,7 @@ title: "Quand l’enquête devient soupçon"
 resume: "La condamnation par le CDJ de l'émission « Je vous dérange »"
 categories: actualites
 date: 2026-04-26
-og_image: /images/actualites/enquete.png
+og_image: /statics/images/actualites/enquete.png
 
 tags:
   - médias
@@ -12,7 +12,7 @@ tags:
   - Belgique
 ---
 
-![enquete](/images/actualites/enquete.png)
+![enquete](/statics/images/actualites/enquete.png)
 
 # Quand l’enquête devient soupçon  
 ### À propos de la condamnation de « Je vous dérange »

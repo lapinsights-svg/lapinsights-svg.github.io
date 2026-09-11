@@ -4,10 +4,10 @@ categories: idees
 "tags": ["santé", "politique publique", "financement", "capacité", "France 2027"]
 resume: "Le système de santé français s’effondre et il faut faire contribuer les payeurs invisibles."
 date: 2026-07-17
-og_image: /images/idees/sante.webp
+og_image: /statics/images/idees/sante.webp
 ---
 
-![sante](/images/idees/sante.webp)
+![sante](/statics/images/idees/sante.webp)
 
 # 2027 : Un système de santé qui s’effondre en silence
 

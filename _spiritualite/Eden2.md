@@ -5,10 +5,10 @@ episode: "La structure intérieure de la Bible"
 title: "Éden : version pédagogique"
 resume: "Pourquoi Éden ne peut pas être un lieu, et comment le récit biblique le présente comme un état intérieur."
 layout: article
-og_image: /images/spiritualite/eden.webp
+og_image: /statics/images/spiritualite/eden.webp
 ---
 
-![eden](/images/spiritualite/eden.webp)
+![eden](/statics/images/spiritualite/eden.webp)
 
 # Éden : comprendre la lecture structurelle  
 *Version pédagogique*

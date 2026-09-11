@@ -5,7 +5,7 @@ categories: creations
 resume: "Un voyage intérieur cosmique, où le corps devient royaume, lumière et matière en mouvement."
 ---
 
-![Royaume](/images/creations/Royaume.png)
+![Royaume](/statics/images/creations/Royaume.png)
 
 Je viens des hauteurs où la nuit se dilate,  
 un souffle ancien glissant dans la matière sombre,  

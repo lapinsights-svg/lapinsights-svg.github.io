@@ -10,9 +10,9 @@ tags:
   - démocratie
   - état-de-droit
   - ingérence
-og_image: /images/actualites/glucksmann.png
+og_image: /statics/images/actualites/glucksmann.png
 ---
-![glucksmann](/images/actualites/glucksmann.png)
+![glucksmann](/statics/images/actualites/glucksmann.png)
 
 # CAMPAGNE PRÉSIDENTIELLE SOUS INFLUENCE RUSSE ? 
 ### Comment un discours peut façonner l’avenir avant même que les faits n’existent

@@ -5,10 +5,10 @@ title: "Les deux arbres"
 episode: "Structure intérieure de la Bible"
 resume: "L’Arbre de Vie et l’Arbre de la Connaissance, deux pôles d’une polarité qui ne se rencontre pas."
 layout: article
-og_image: /images/spiritualite/arbres.webp
+og_image: /statics/images/spiritualite/arbres.webp
 ---
 
-![arbres](/images/spiritualite/arbres.webp)
+![arbres](/statics/images/spiritualite/arbres.webp)
 
 # Les deux arbres : la polarité brisée
 

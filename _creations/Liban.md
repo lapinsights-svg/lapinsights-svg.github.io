@@ -3,7 +3,7 @@ title: "La rose dans la cendre"
 categories: creation
 date: "2026-07-21"
 resume: "Le Liban cherche la lumière au cœur de la cendre."
-og_image: /images/creations/Iran.webp
+og_image: /statics/images/creations/Iran.webp
 tags:
   - liban
   - ghazal
@@ -14,7 +14,7 @@ tags:
   - poésie-persane
 ---
 
-![Iran](/images/creations/Iran.webp)
+![Iran](/statics/images/creations/Iran.webp)
 
 # *La rose dans la cendre.*
 

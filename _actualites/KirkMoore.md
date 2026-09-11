@@ -4,10 +4,10 @@ date: 2026-07-02
 layout: article
 categories: idees
 resume: "Mémoire, justice fragile, résistance comme acte vital."
-og_image: /images/idees/KirkMoore.jpg
+og_image: /statics/images/idees/KirkMoore.jpg
 ---
 
-![KirkMoore](/images/idees/KirkMoore.jpg)
+![KirkMoore](/statics/images/idees/KirkMoore.jpg)
 
 *Photo : ProPublica — Dr Kirk Moore Jr dans son bloc opératoire.*
 

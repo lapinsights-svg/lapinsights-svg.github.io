@@ -4,10 +4,10 @@ title: "Armes climatiques : ce que le récit prétend, ce que le réel dément"
 date: 2026-08-14
 categories: idees
 tags: ["climat", "science", "désinformation", "HAARP", "météorologie", "sismologie"]
-og_image: /images/idees/armesclimatiques.webp
+og_image: /statics/images/idees/armesclimatiques.webp
 ---
 
-![armes climatiques](/images/idees/armesclimatiques.webp)
+![armes climatiques](/statics/images/idees/armesclimatiques.webp)
 
 
 # Armes climatiques : ce que le récit prétend, ce que le réel dément  

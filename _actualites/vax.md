@@ -2,10 +2,10 @@
 title: "Vaccination : pourquoi la confiance s’effrite"
 date: 2026-05-04
 categories: actualites
-og_image: /images/actualites/vax.png
+og_image: /statics/images/actualites/vax.png
 ---
 
-![vax](/images/actualites/vax.png)
+![vax](/statics/images/actualites/vax.png)
 
 # Vaccination : pourquoi la confiance s’effrite
 

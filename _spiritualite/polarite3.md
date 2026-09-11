@@ -5,10 +5,10 @@ title: "Polarité : ouverture, tension, dissociation"
 episode: "Lecture structurelle de la Bible"
 resume: "La polarité comme ouverture de l’axe, dissociation de la densité et condition du monde."
 layout: article
-og_image: /images/spiritualite/polarite.webp
+og_image: /statics/images/spiritualite/polarite.webp
 ---
 
-![polarite](/images/spiritualite/polarite.webp)
+![polarite](/statics/images/spiritualite/polarite.webp)
 
 # Polarité : ouverture, tension, dissociation
 

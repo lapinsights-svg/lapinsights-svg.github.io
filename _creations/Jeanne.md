@@ -2,7 +2,7 @@
 title: "Jeanne, dans la vallée de la mort"
 date: 2026-04-23
 categories: creations
-og_image: /images/creations/Jeanne.png
+og_image: /statics/images/creations/Jeanne.png
 ---
 *Cliquer sur play pour suivre Jeanne.*
 

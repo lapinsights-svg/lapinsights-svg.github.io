@@ -6,7 +6,7 @@ categories: creations
 resume: "Descente visionnaire dans les profondeurs minérales."
 ---
 
-![lapin](/images/creations/lapin.png)
+![lapin](/statics/images/creations/lapin.png)
 
 Il avance dans la nuit, sombre oracle,  
 pelage traversé d'éclats de basalte.

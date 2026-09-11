@@ -6,7 +6,7 @@ layout: article
 categories: idees
 ---
 
-![Abdication numérique](/images/idees/abdication-numerique.png)
+![Abdication numérique](/statics/images/idees/abdication-numerique.png)
 
 
 ## La vérité sort du trou

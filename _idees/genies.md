@@ -3,9 +3,9 @@ title: "La disparition des génies visibles"
 date: 2026-08-31
 categories: idees
 layout: article
-og_image: /images/idees/genie.webp
+og_image: /statics/images/idees/genie.webp
 ---
-![genie](/images/idees/genie.webp)
+![genie](/statics/images/idees/genie.webp)
 
 # La disparition des génies visibles
 

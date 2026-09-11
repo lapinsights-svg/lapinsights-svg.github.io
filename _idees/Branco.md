@@ -9,10 +9,10 @@ tags:
   - structure
   - narration
   - mouvement
-og_image: /images/idees/Branco.webp
+og_image: /statics/images/idees/Branco.webp
 ---
 
-![Branco](/images/idees/Branco.webp)
+![Branco](/statics/images/idees/Branco.webp)
 
 
 # Analyse du dispositif “Branco 2027”

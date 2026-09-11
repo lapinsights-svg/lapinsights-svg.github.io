@@ -4,7 +4,7 @@ categories: spiritualite
 resume: "Critique des spiritualites qui neutralisent la souverainete individuelle."
 date: 2024-06-19
 ---
-![pacification](/images/spiritualite/pacification.png)
+![pacification](/statics/images/spiritualite/pacification.png)
 
 # L’imposture des spiritualités pacifiantes  
 
@@ -119,7 +119,7 @@ les figures spirituelles les plus pacifiantes sont systématiquement promues par
 Eckhart Tolle, Jack Kornfield, le Dalaï‑Lama, Ram Dass…  
 Tous ont été invités, amplifiés, mis en scène.  
 
-![ramdass](/images/spiritualite/ramdass.png)  
+![ramdass](/statics/images/spiritualite/ramdass.png)  
 
 Ce n’est pas un hasard.  
 Les doctrines qui encouragent la passivité sont celles qui circulent le mieux.  

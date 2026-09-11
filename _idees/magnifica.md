@@ -4,9 +4,9 @@ categories: idees
 layout: article
 date: 2026-05-31
 resume: "L’IA comme miroir des peurs institutionnelles"
-og_image: /images/idees/magnifica.png
+og_image: /statics/images/idees/magnifica.png
 ---
-![magnifica](/images/idees/magnifica.png)
+![magnifica](/statics/images/idees/magnifica.png)
 
 <small>Légende de l’image : Allégorie du pouvoir autour de l’IA : quand l’autorité morale, économique et stratégique fabrique un récit pour masquer ses propres limites.</small>
 

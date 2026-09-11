@@ -3,10 +3,10 @@ title: "Hantavirus : Brèche sanitaire et silence démocratique"
 date: 2026-05-14
 category: "Actualités"
 tags: ["santé publique", "libertés", "Europe", "analyse"]
-og_image: /images/actualites/baillon.png
+og_image: /statics/images/actualites/baillon.png
 ---
 
-![baillon](/images/actualites/baillon.png)
+![baillon](/statics/images/actualites/baillon.png)
 
 Cet article est la **suite directe** de l’analyse publiée ici :  
 [ Hantavirus : le virus modeste et le récit démesuré](https://lapinsights-svg.github.io/actualites/hantavirus/)

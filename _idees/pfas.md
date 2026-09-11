@@ -6,7 +6,7 @@ resume: "Analyse de la pollution aux PFAS en France et des insuffisances structu
 ---
 
 
-![PFAS](/images/idees/PFAS.png)
+![PFAS](/statics/images/idees/PFAS.png)
 
 
 

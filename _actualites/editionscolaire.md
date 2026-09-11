@@ -6,7 +6,7 @@ resume: "La concentration de l’édition scolaire française autour du groupe B
 ---
 
 
-![Édition scolaire et idéologie](/images/actualites/edition.png)
+![Édition scolaire et idéologie](/statics/images/actualites/edition.png)
 
 # Édition scolaire et idéologie : Analyse de la concentration autour de Vincent Bolloré
 

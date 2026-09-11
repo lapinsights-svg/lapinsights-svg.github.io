@@ -3,10 +3,10 @@ title: "Hantavirus : le virus modeste et le récit démesuré"
 categories: actualites
 resume: "Un virus limité, mais un récit amplifié par un écosystème politico‑médiatique."
 date: 2026-05-11
-og_image: /images/actualites/hantavirus.png
+og_image: /statics/images/actualites/hantavirus.png
 ---
 
-![hantavirus](/images/actualites/hantavirus.png)
+![hantavirus](/statics/images/actualites/hantavirus.png)
 
 # Le virus modeste et le récit démesuré
 

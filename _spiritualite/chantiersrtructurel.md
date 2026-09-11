@@ -8,11 +8,11 @@ tags:
   - Axe
   - Structure
   - Corpus
-og_image: /images/spiritualite/corpus.webp
+og_image: /statics/images/spiritualite/corpus.webp
 ---
 
 
-![corpus](/images/spiritualite/corpus.webp)
+![corpus](/statics/images/spiritualite/corpus.webp)
 
 # Présentation du chantier du corpus structurel de la Bible
 

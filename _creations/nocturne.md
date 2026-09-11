@@ -4,12 +4,12 @@ resume: "Deux silhouettes marchent dans une nuit qui sait déjà qu’elles ne s
 date: "2026-05-19"
 categories: creations
 layout: article
-og_image: /images/creations/nocturne.png
+og_image: /statics/images/creations/nocturne.png
 tags:
   - poésie
   - amour
 ---
-![nocturne](/images/creations/nocturne.png)
+![nocturne](/statics/images/creations/nocturne.png)
 
 La nuit les enveloppait. Une nuit sans contours, une nuit qui effaçait les distances, une nuit qui avalait les gestes avant qu’ils n’existent vraiment.  
   

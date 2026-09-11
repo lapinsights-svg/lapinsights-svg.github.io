@@ -13,10 +13,10 @@ tags:
   - Non-dualité
   - Conscience
   - Esprit
-og_image: /images/spiritualite/conscience2.webp
+og_image: /statics/images/spiritualite/conscience2.webp
 ---
 
-![conscience2](/images/spiritualite/conscience2.webp)
+![conscience2](/statics/images/spiritualite/conscience2.webp)
 
 # Esprit vs conscience : la clé de la transmission christologique
 

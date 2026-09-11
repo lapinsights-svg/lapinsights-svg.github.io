@@ -4,10 +4,10 @@ resume: "Une exploration des confusions contemporaines autour du temps quantique
 date: 2026-04-28
 categories: idees
 layout: article
-og_image: /images/idees/horloge_quantique.png
+og_image: /statics/images/idees/horloge_quantique.png
 ---
 
-![Jarre](/images/idees/horloge_quantique.png)
+![Jarre](/statics/images/idees/horloge_quantique.png)
 
 > **Source de la réflexion :**  
 > Article scientifique sur les horloges atomiques et les fluctuations quantiques du temps, publié par le *Stevens Institute of Technology* et le *National Institute of Standards and Technology (NIST)*.  

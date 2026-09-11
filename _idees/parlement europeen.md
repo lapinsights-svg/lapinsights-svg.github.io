@@ -6,7 +6,7 @@ resume: "Analyse du déficit d’initiative législative du Parlement européen"
 ---
 
 
-![Parlement](/images/idees/PE.png)
+![Parlement](/statics/images/idees/PE.png)
 
 
 

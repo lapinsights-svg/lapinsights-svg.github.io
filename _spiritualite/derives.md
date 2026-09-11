@@ -15,10 +15,10 @@ tags:
   - humanité
   - clarté
   - maturité
-og_image: /images/spiritualite/derives.png
+og_image: /statics/images/spiritualite/derives.png
 ---
 
-![derives](/images/spiritualite/derives.png)
+![derives](/statics/images/spiritualite/derives.png)
 
 Au cœur de nombreux discours spirituels, une zone trouble apparaît : un espace où la lucidité se dissout dans des formules séduisantes, où la sagesse se rigidifie en posture, où la profondeur se confond avec une fuite hors du réel.<br><br>
 Ce trouble n’est pas un accident. Il naît lorsque :

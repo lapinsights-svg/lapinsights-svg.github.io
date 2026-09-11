@@ -3,7 +3,7 @@ title: "Forces souveraines"
 date: 2026-05-24
 categories: creations
 layout: article
-og_image: /images/creations/racines.png
+og_image: /statics/images/creations/racines.png
 tags:
   - poésie
   - nature

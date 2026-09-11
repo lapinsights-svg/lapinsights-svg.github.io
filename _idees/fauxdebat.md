@@ -4,9 +4,9 @@ date: 2026-06-16
 layout: article
 categories: idees
 resume: Certains échanges ne sont que des mises en scène. Dire stop, c’est se protéger. 
-og_image: /images/actualites/fauxdebat.png
+og_image: /statics/images/actualites/fauxdebat.png
 ---
-![fauxdebat](/images/actualites/fauxdebat.png)
+![fauxdebat](/statics/images/actualites/fauxdebat.png)
 
 # Quand le débat n’est plus un débat
 *(Certains échanges ne méritent même pas ce nom.)*

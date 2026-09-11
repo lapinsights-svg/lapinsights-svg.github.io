@@ -6,10 +6,10 @@ resume: "Lire la Bible comme une architecture de densité, où chaque motif appa
 episode: "Lecture structurelle de la Bible"
 layout: article
 tags: [Bible, structure, polarité, densité, architecture intérieure, spiritualité, pensée]
-og_image: /images/spiritualite/structurebible.webp
+og_image: /statics/images/spiritualite/structurebible.webp
 ---
 
-![structurebible](/images/spiritualite/structurebible.webp)
+![structurebible](/statics/images/spiritualite/structurebible.webp)
 
 ## Note éditoriale (20 août 2026)
 

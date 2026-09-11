@@ -5,7 +5,7 @@ collection: articles
 resume: "Analyse des mécanismes psychologiques, rhétoriques et idéologiques du Travail de Byron Katie."
 ---
 
-![Byron](/images/spiritualite/Byron.png)
+![Byron](/statics/images/spiritualite/Byron.png)
 
 Il existe, dans le paysage spirituel contemporain, des méthodes qui se présentent comme
 des voies de libération, mais qui opèrent en réalité une reconfiguration profonde du rapport

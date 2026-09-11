@@ -4,10 +4,10 @@ date: 2026-06-29
 categories: idees
 resume: le débat visible et le sous-sol invisible.
 tags: [justice, confession, politique, symboles, etat, vie-privee]
-og_image: /images/idees/confession.png
+og_image: /statics/images/idees/confession.png
 ---
 
-![confession](/images/idees/confession.png)
+![confession](/statics/images/idees/confession.png)
 
 # Le secret de la confession est-il un problème ? 
 

@@ -5,10 +5,10 @@ episode: "La structure intérieure de la Bible"
 title: "Éden : l’état, non le lieu"
 resume: "Éden n’est pas un lieu mais une densité de conscience."
 layout: article
-og_image: /images/spiritualite/eden.webp
+og_image: /statics/images/spiritualite/eden.webp
 ---
 
-![eden](/images/spiritualite/eden.webp)
+![eden](/statics/images/spiritualite/eden.webp)
 
 # Éden : l’état, non le lieu
 

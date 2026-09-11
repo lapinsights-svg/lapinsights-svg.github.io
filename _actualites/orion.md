@@ -5,7 +5,7 @@ categories: actualites
 resume: "Analyse critique de l’exercice militaire ORION 2026, de son coût, de ses objectifs et de son rôle dans la narration stratégique française."
 ---
 
-![Orion](/images/actualites/Orion.png)
+![Orion](/statics/images/actualites/Orion.png)
 
 
 Orion 26 est un gigantesque exercice militaire français, prévu du 8 février au 30 avril 2026, destiné à entraîner les armées françaises et leurs alliés à un scénario de guerre de haute intensité.  

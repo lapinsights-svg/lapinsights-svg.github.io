@@ -6,7 +6,7 @@ tags: ["satire", "science", "médias", "covid", "mutation"]
 categories: actualites
 ---
 
-![cigale](/images/actualites/cigale.png)
+![cigale](/statics/images/actualites/cigale.png)
 
 Au bout de la 75ᵉ variation, la cigale ne chante plus : elle délire.  
 Et dans son délire, elle ressemble étrangement à ceux qui prétendent la traquer.  

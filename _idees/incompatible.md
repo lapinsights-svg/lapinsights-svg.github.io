@@ -2,10 +2,10 @@
 date: 2026-06-26
 title: "Pourquoi je ne suis compatible avec aucun parti politique"
 tags: ["politique", "structure", "cohérence"]
-og_image: /images/idees/incompatible.png
+og_image: /statics/images/idees/incompatible.png
 ---
 
-![incompatible](/images/idees/incompatible.png)
+![incompatible](/statics/images/idees/incompatible.png)
 
 Il y a des structures qui réclament l’adhésion.  
 Des formes qui exigent qu’on se plie pour y entrer.  

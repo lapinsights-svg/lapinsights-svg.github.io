@@ -5,10 +5,10 @@ layout: article
 tags: ["PLFSS", "Sécurité sociale", "santé", "maladies chroniques"]
 date: "2026-07-23"
 categories: actualites
-og_image: /images/actualites/PLFSS.webp
+og_image: /statics/images/actualites/PLFSS.webp
 ---
 
-![PLFSS](/images/actualites/PLFSS.webp)
+![PLFSS](/statics/images/actualites/PLFSS.webp)
 
 # La logique scélérate des "gros consommateurs"
 ## Comment le PLFSS prépare le terrain du rationnement, et comment les annonces ministérielles l’annoncent sans le dire

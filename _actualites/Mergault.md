@@ -5,7 +5,7 @@ categories: actualites
 resume: "Un souvenir tendre et lumineux d’Isabelle Mergault, entre rire, poésie involontaire et grâce bancale."
 ---
 
-![mergault](/images/actualites/mergault.png)
+![mergault](/statics/images/actualites/mergault.png)
 
 
 Isabelle Mergault, pour moi, c'était d'abord un rire qui arrivait avant elle.  

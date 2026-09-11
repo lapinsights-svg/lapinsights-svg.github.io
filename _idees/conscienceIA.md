@@ -5,10 +5,10 @@ date: 2026-09-05
 layout: article
 categories: idees
 tags: [IA, conscience, vivant, limites]
-og_image: /images/idees/IAaware.webp
+og_image: /statics/images/idees/IAaware.webp
 ---
 
-![IA](/images/idees/IAaware.webp)
+![IA](/statics/images/idees/IAaware.webp)
 
 Le débat sur la conscience artificielle revient régulièrement, porté par des discours technologiques qui promettent des ruptures et des seuils.  
 Mais cette idée d’une machine qui deviendrait consciente d’elle-même est un piège conceptuel, un glissement qui repose sur une confusion entre comportement et expérience intérieure.  

@@ -3,11 +3,11 @@ title: "La tentation autoritaire de l’Occident technologique"
 date: 2026-04-21
 categories: idees
 resume: "Une lecture critique du manifeste *La République technologique*"
-og_image: /images/idees/natechno.png
+og_image: /statics/images/idees/natechno.png
 
 ---
 
-![natechno](/images/idees/natechno.png)
+![natechno](/statics/images/idees/natechno.png)
 
 Ce texte propose une lecture critique du manifeste **La République technologique : Pouvoir dur, croyances douces et avenir de l’Occident**, attribué à Alexander C. Karp et Nicholas W. Zamiska.
 

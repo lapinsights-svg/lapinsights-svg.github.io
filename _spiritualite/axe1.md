@@ -10,10 +10,10 @@ tags:
   - Unité
   - Dualité
   - Fils étendu
-og_image: /images/spiritualite/axe.webp
+og_image: /statics/images/spiritualite/axe.webp
 ---
 
-![axe](/images/spiritualite/axe.webp)
+![axe](/statics/images/spiritualite/axe.webp)
 
 # Axe  
 ## Le lieu où les deux pôles se tiennent ensemble

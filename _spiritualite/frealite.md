@@ -6,10 +6,10 @@ slug: "tu-crees-ta-realite"
 categories: spiritualite
 collection: "Florilege des pseudo-phrases spirituelles ratiboisees"
 tags: [florilege, pseudo-sagesses, spiritualite]
-og_image: /images/spiritualite/create.png
+og_image: /statics/images/spiritualite/create.png
 ---
 
-![douleur](/images/spiritualite/create.png)
+![douleur](/statics/images/spiritualite/create.png)
 
 # Florilège de pseudo‑sagesses ratiboisées  
 ## Fragment III — Tu crées ta réalité  

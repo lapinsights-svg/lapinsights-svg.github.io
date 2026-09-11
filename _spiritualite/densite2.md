@@ -5,10 +5,10 @@ date: 2026-07-14
 resume: "Une seule réalité, quatre densités. Le Fils n’est pas un personnage : il est la manière dont l’être existe."
 layout: article
 tags: [densité, Fils, structure, Bible, ontologie, axe]
-og_image: /images/spiritualite/densite.webp
+og_image: /statics/images/spiritualite/densite.webp
 ---
 
-![densite](/images/spiritualite/densite.webp)
+![densite](/statics/images/spiritualite/densite.webp)
 
 # Les densités du Fils
 

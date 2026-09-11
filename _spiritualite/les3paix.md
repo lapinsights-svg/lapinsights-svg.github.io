@@ -13,10 +13,10 @@ tags:
   - Non-dualité
   - Conscience
   - Esprit
-og_image: /images/spiritualite/paix.webp
+og_image: /statics/images/spiritualite/paix.webp
 ---
 
-![paix](/images/spiritualite/paix.webp)
+![paix](/statics/images/spiritualite/paix.webp)
 
 *vignette : Là où le mental se défait, la lumière demeure.* 
 

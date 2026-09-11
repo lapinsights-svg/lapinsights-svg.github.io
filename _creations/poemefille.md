@@ -5,7 +5,7 @@ categories: creations
 resume: "Un poème sensoriel et intime sur la manière dont cette enfant ressent le monde."
 ---
 
-![Poney](/images/creations/Poney.png)
+![Poney](/statics/images/creations/Poney.png)
 
 « Le monde qui respire en moi. ☺
 

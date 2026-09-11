@@ -11,10 +11,10 @@ tags:
   - Métaphysique
   - Wapnick
   - Non-dualité
-og_image: /images/spiritualite/ucembible.webp
+og_image: /statics/images/spiritualite/ucembible.webp
 ---
 
-![ucembible](/images/spiritualite/ucembible.webp)
+![ucembible](/statics/images/spiritualite/ucembible.webp)
 
 # Il n’y a pas de monde  
 ### Métaphysique unifiée UCEM–Bible  

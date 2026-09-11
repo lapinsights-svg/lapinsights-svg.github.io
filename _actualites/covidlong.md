@@ -6,7 +6,7 @@ resume: "Pour un débat honnête autour du COVID long et des pratiques compléme
 ---
 
 
-![covidlong](/images/actualites/covidlong.png)
+![covidlong](/statics/images/actualites/covidlong.png)
 
 *En réponse à l’article de Marianne :  
 [« Oubliés, les malades du Covid long, cibles des dérives sectaires : “On m’a proposé de me guérir par le froid” »](https://www.marianne.net/societe/sante/oublies-les-malades-du-covid-long-cibles-des-derives-sectaires-on-m-a-propose-de-me-guerir-par-le-froid)*

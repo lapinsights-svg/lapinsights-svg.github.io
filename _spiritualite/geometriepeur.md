@@ -5,7 +5,7 @@ resume: "Une exploration du retrait et de la fuite comme architecture intérieur
 date: 2026-04-30
 categories: idees
 tags: ["spiritualité", "évitement", "psychologie", "nocturne", "tellurique", "rapport de force"]
-og_image: /images/spiritualite/geometrie.png
+og_image: /statics/images/spiritualite/geometrie.png
 ---
 
 *Cliquer sur play pour voir la géométrie de la peur.*

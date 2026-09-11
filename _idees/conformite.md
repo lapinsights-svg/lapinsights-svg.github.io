@@ -4,9 +4,9 @@ date: 2026-05-07
 layout: article
 categories: idees
 resume: "Une lecture du durcissement des libertés à travers l’école, la sécurité et la conformité civique."
-og_image: /images/idees/boncitoyen.png
+og_image: /statics/images/idees/boncitoyen.png
 ---
-![boncitoyen](/images/idees/boncitoyen.png)
+![boncitoyen](/statics/images/idees/boncitoyen.png)
 
 # La citoyenneté conditionnelle : quand l’école commence à retirer des libertés
 

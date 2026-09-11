@@ -4,10 +4,10 @@ date: 2026-05-13
 layout: article
 resume: "Mon fonctionnement perceptif"
 categories: spiritualite
-og_image: /images/spiritualite/strates.png
+og_image: /statics/images/spiritualite/strates.png
 ---
 
-![strates](/images/spiritualite/strates.png)
+![strates](/statics/images/spiritualite/strates.png)
 
 Ce que je décris ici n’a rien d’une posture. C’est la manière dont mon système fonctionne aujourd’hui.  
 

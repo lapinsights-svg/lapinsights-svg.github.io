@@ -6,7 +6,7 @@ resume: "Analyse des lois sur la vérification d’âge, l’identité numériqu
 ---
 
 <!-- IMAGE À INSÉRER -->
-![Identité numérique](/images/idees/IDnum.png)
+![Identité numérique](/statics/images/idees/IDnum.png)
 
 # IDENTITE NUMERIQUE ET RESEAUX SOCIAUX
 

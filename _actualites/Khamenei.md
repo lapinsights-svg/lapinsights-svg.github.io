@@ -8,7 +8,7 @@ resume: "Analyse des récits médiatiques autour de Mojtaba Khamenei, des montag
 
 # Mojtaba Khamenei : pouvoir et récit médiatique
 
-![MK](/images/actualites/MK.jpg)
+![MK](/statics/images/actualites/MK.jpg)
 
 
 Selon un article de DHnet publié le 11 mars 2026, Mojtaba Khamenei, présenté comme le nouveau guide suprême iranien, posséderait plusieurs biens immobiliers de luxe à Londres — dont deux appartements situés à quelques mètres de l'ambassade d'Israël.

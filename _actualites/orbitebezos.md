@@ -5,7 +5,7 @@ resume: "Bezos et la Défense Planétaire en carton pâte"
 layout: article
 categories: actualites
 ---
-![Bezos](/images/actualites/Bezos.png)
+![Bezos](/statics/images/actualites/Bezos.png)
 
 
 ## 1. L’annonce qui tombe du ciel (mais pas un astéroïde)

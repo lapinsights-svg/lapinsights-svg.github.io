@@ -13,10 +13,10 @@ tags:
   - etique
 categories:
   - idees
-og_image: /images/idees/eutha2.png
+og_image: /statics/images/idees/eutha2.png
 ---
 
-![eutha2](/images/idees/eutha2.png)
+![eutha2](/statics/images/idees/eutha2.png)
 
 # Fin de vie : le point de rupture
 
