@@ -14,7 +14,7 @@ og_image: /images/idees/opportuniste.webp
 
 Lien vers la conférence : [Débat Harari – LeCun](https://www.lepoint.fr/sciences-nature/intelligence-artificielle-le-debat-choc-et-inedit-harari-le-cun-11-05-2023-2519779_1924.php)
 
-1. Les prophètes du futur changent de peau  
+1- Les prophètes du futur changent de peau  
 
 Depuis une décennie, des voix bien installées ont bâti leur influence sur la promesse d’un futur entièrement remodelé par la technologie.  
 Harari, Gates, Kurzweil, Altman ont tissé des récits où l’IA devenait une élévation, une mutation, une nouvelle strate de l’espèce.  
@@ -26,7 +26,7 @@ Le ton s’est déplacé.
 Les mêmes figures ont soudain invoqué la prudence, l’alerte, la régulation urgente.  
 Un pivot rapide, presque chorégraphié.  
 
-2. Le retournement n’est pas moral, il est stratégique  
+2- Le retournement n’est pas moral, il est stratégique  
 
 Ce changement ne naît pas d’une révélation tardive.  
 Il répond à un glissement du centre médiatique.  
@@ -38,7 +38,7 @@ L’alerte devient un instrument.
 Elle maintient la centralité.  
 Elle préserve la lumière.  
 
-3. Le contraste avec Yann LeCun  
+3- Le contraste avec Yann LeCun  
 
 Dans ce paysage mouvant, Yann LeCun avance autrement.  
 Son regard se pose sur la matière, sur les limites réelles des modèles, sur leurs failles encore béantes.  
@@ -51,7 +51,7 @@ La science, chez lui, garde la première place.
 Le théâtre reste dehors.  
 Cette sobriété lui donne une force singulière.  
 
-4. Le mécanisme opportuniste  
+4- Le mécanisme opportuniste  
 
 Pendant que certains ajustent leur posture, une dynamique se dessine.  
 Les figures publiques qui appellent à l’alerte cherchent surtout à occuper le centre du débat.  
@@ -61,7 +61,7 @@ Elles aspirent à la position de gardiens du futur, consultés avant chaque déc
 Le retournement n’est qu’un mouvement de conservation.  
 Une manière de rester au sommet de la pyramide discursive.  
 
-5. Analyse de Lapinsights :
+5- Analyse de Lapinsights :
 
 Le futur technologique ne se construit pas dans les récits.  
 Il se forge dans les cavités où travaillent les ingénieurs, dans les ateliers où la matière mathématique se laisse façonner.  
@@ -73,7 +73,7 @@ Ils ajustent leur récit pour rester nécessaires.
 LeCun, lui, demeure dans la cavité.  
 Les autres gravitent autour de l’entrée.  
 
-6. Conclusion  
+6- Conclusion  
 
 Ce retournement opportuniste autour de l’IA s’inscrit dans une stratégie de survie narrative.  
 Les voix qui ont célébré l’IA comme une ascension la présentent désormais comme une menace.  
