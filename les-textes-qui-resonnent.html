@@ -151,23 +151,26 @@ title: ""
 </style>
 
 <script>
+/* --- 1. Récupération des articles générés par Jekyll --- */
 async function getArticlesData() {
   return fetch("/articles.json").then(r => r.json());
 }
 
+/* --- 2. Normalisation des slugs pour correspondance parfaite --- */
 function normalizeForMatching(str) {
   return str
     .toLowerCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")   // accents
-    .replace(/\.md$/, "")              // retire .md si présent
+    .replace(/\.md$/, "")              // retire .md
     .trim();
 }
 
+/* --- 3. Extraction du slug pur depuis KV --- */
 function extractPureSlug(workerSlug) {
   const collections = [
     "actualites", "idees", "spiritualite",
-    "creations", "passe", "vibrations", "lapinsights"
+    "creations", "passe", "vibrations"
   ];
 
   const normalizedWorker = normalizeForMatching(workerSlug);
@@ -187,6 +190,7 @@ function extractPureSlug(workerSlug) {
   return normalizedWorker;
 }
 
+/* --- 4. Chargement des stats + correspondance avec articles.json --- */
 async function loadStats() {
   const stats = await fetch("https://lapinsights-stats.lapinsights.workers.dev/stats")
     .then(r => r.json());
