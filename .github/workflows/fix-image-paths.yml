@@ -23,31 +23,19 @@ jobs:
 
       - name: Run image path fixer
         run: |
-          mkdir -p scripts
-          cat << 'EOF' > scripts/fix_image_paths.rb
-          #!/usr/bin/env ruby
-
-          # Corrige tous les chemins /images/... vers /statics/images/...
-          # dans tous les fichiers Markdown ET CSS.
-
-          files = Dir["**/*.md"] + Dir["**/*.css"]
-
-          files.each do |file|
-            content = File.read(file)
-
-            # Remplacement global, respectant les sous-dossiers
-            new_content = content.gsub(%r{(?<!statics)\/images\/}, "/statics/images/")
-
-            if new_content != content
-              puts "✔ Chemins corrigés dans #{file}"
-              File.write(file, new_content)
-            else
-              puts "• Aucun chemin à corriger dans #{file}"
+          ruby -e '
+            files = Dir["**/*.{md,css,html,liquid,xml,json,js}"]
+            files.each do |file|
+              content = File.read(file)
+              new_content = content.gsub(%r{(?<!statics)\/images\/}, "/statics/images/")
+              if new_content != content
+                puts "✔ Chemins corrigés dans #{file}"
+                File.write(file, new_content)
+              else
+                puts "• Aucun chemin à corriger dans #{file}"
+              end
             end
-          end
-          EOF
-
-          ruby scripts/fix_image_paths.rb
+          '
 
       - name: Commit changes
         run: |
