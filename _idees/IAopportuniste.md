@@ -3,7 +3,7 @@ title: "Le retournement opportuniste autour de l’IA"
 date: 2026-09-11
 slug: "retournement-opportuniste-ia"
 categories: idees
-resume: "Quand les narrateurs du futur pivotent vers l’alerte, la mécanique du pouvoir se révèle."
+resume: "Quand les narrateurs du futur pivotent vers l’alerte, la mécanique se révèle."
 keywords: ["IA", "Harari", "LeCun", "récits technologiques", "opportunisme narratif", "Territoires d'idées"]
 og_image: /images/idees/opportuniste.webp
 ---
