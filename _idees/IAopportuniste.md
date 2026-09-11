@@ -79,6 +79,7 @@ Ce retournement opportuniste autour de l’IA s’inscrit dans une stratégie de
 Les voix qui ont célébré l’IA comme une ascension la présentent désormais comme une menace.  
 Leur objectif reste inchangé :  
 conserver la centralité, attirer l’attention, maintenir la légitimité.  
+
 ---
 
 Céleste R.
