@@ -1,0 +1,25 @@
+name: Move images to static folder
+
+on:
+  workflow_dispatch:
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Move entire images folder
+        run: |
+          mkdir -p static
+          mv images static/images
+          # images/ is now inside static/
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git commit -m "Move images folder to static/images"
+          git push
