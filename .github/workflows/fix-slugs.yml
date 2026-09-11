@@ -5,9 +5,12 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   fix-slugs:
-    runs-on: ubuntu-22.04   # ← version stable, non affectée par Node.js 24
+    runs-on: ubuntu-22.04
 
     steps:
       - name: Checkout repository
@@ -25,36 +28,50 @@ jobs:
           #!/usr/bin/env ruby
           require 'yaml'
 
+          # Collections réelles de ton site
           collections = [
             "_actualites",
             "_creations",
             "_idees",
             "_passe",
             "_spiritualite",
-            "_lapinsights"
+            "_vibrations"
           ]
 
           collections.each do |folder|
             Dir["#{folder}/*.md"].each do |file|
-              content = File.read(file)
+              lines = File.read(file).split("\n")
 
-              if content =~ /\A---\s*\n(.*?)\n---\s*\n/m
-                front_matter = YAML.safe_load($1)
-                body = content.split(/---\s*\n/)[2]
-
-                if !front_matter.key?("slug") || front_matter["slug"].to_s.strip == ""
-                  slug = File.basename(file, ".md")
-                  front_matter["slug"] = slug
-
-                  puts "✔ Ajout slug '#{slug}' → #{file}"
-
-                  new_front = front_matter.to_yaml
-                  File.write(file, "---\n#{new_front}---\n#{body}")
-                else
-                  puts "• OK (slug présent) → #{file}"
-                end
-              else
+              # Vérifier que le fichier commence par ---
+              if lines[0].strip != "---"
                 puts "⚠ Pas de front‑matter → #{file}"
+                next
+              end
+
+              # Trouver la fin du front‑matter
+              fm_end = lines[1..].index { |l| l.strip == "---" }
+              if fm_end.nil?
+                puts "⚠ Front‑matter mal formé → #{file}"
+                next
+              end
+
+              fm_end += 1  # décalage car on a commencé à 1
+
+              front_raw = lines[1...fm_end].join("\n")
+              body      = lines[(fm_end+1)..].join("\n")
+
+              front_matter = YAML.safe_load(front_raw) || {}
+
+              if !front_matter.key?("slug") || front_matter["slug"].to_s.strip == ""
+                slug = File.basename(file, ".md")
+                front_matter["slug"] = slug
+
+                puts "✔ Ajout slug '#{slug}' → #{file}"
+
+                new_front = front_matter.to_yaml
+                File.write(file, "---\n#{new_front}---\n#{body}")
+              else
+                puts "• OK (slug présent) → #{file}"
               end
             end
           end
