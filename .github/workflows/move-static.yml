@@ -1,0 +1,41 @@
+name: Move static to statics
+
+on:
+  workflow_dispatch:
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Prepare new statics/images directory
+        run: |
+          mkdir -p statics/images
+
+      - name: Move ALL subfolders and files from static/images to statics/images
+        run: |
+          if [ -d "static/images" ]; then
+            mv static/images/* statics/images/
+          else
+            echo "ERREUR : Le dossier static/images n'existe pas."
+            exit 1
+          fi
+
+      - name: Remove old static directory
+        run: |
+          rm -rf static
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add statics
+          git rm -r static || true
+          git commit -m "Move static/images → statics/images (all subfolders included)"
+
+      - name: Push changes
+        run: |
+          git push origin main
