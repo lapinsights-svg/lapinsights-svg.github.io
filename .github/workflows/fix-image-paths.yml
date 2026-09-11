@@ -1,0 +1,62 @@
+name: Fix Image Paths Automatically
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  fix-image-paths:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Install Ruby
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ruby-full
+
+      - name: Run image path fixer
+        run: |
+          mkdir -p scripts
+          cat << 'EOF' > scripts/fix_image_paths.rb
+          #!/usr/bin/env ruby
+
+          # Corrige tous les chemins /images/... vers /statics/images/...
+          # dans tous les fichiers Markdown ET CSS.
+
+          files = Dir["**/*.md"] + Dir["**/*.css"]
+
+          files.each do |file|
+            content = File.read(file)
+
+            # Remplacement global, respectant les sous-dossiers
+            new_content = content.gsub(%r{(?<!statics)\/images\/}, "/statics/images/")
+
+            if new_content != content
+              puts "✔ Chemins corrigés dans #{file}"
+              File.write(file, new_content)
+            else
+              puts "• Aucun chemin à corriger dans #{file}"
+            end
+          end
+          EOF
+
+          ruby scripts/fix_image_paths.rb
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git commit -m "Auto-fix image paths" || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
