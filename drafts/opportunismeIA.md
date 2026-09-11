@@ -5,10 +5,10 @@ slug: "retournement-opportuniste-ia"
 categories: idees
 resume: "Quand les narrateurs du futur pivotent vers l’alerte, la mécanique du pouvoir se révèle."
 keywords: ["IA", "Harari", "LeCun", "récits technologiques", "opportunisme narratif", "Territoires d'idées"]
-og_image: /images/idees/IA_opportunisme.webp
+og_image: /images/idees/IA_opportuniste.webp
 ---
 
-![IA_opportunisme](/images/idees/IA_opportunisme.webp
+![IA_opportuniste](/images/idees/IA_opportuniste.webp
 
 
 # Retournement opportuniste autour de l’IA  
