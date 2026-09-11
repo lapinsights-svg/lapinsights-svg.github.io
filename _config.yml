@@ -114,6 +114,8 @@ include:
   - _spiritualite
   - _passe
   - _vibrations
+  - statics
+
 
 # Fichiers à conserver
 keep_files:
