@@ -190,7 +190,7 @@ function extractPureSlug(workerSlug) {
   return normalizedWorker;
 }
 
-/* --- 4. Chargement des stats + correspondance avec articles.json --- */
+/* --- 4. Chargement des stats + correspondance avec les articles.json --- */
 async function loadStats() {
   const stats = await fetch("https://lapinsights-stats.lapinsights.workers.dev/stats")
     .then(r => r.json());
