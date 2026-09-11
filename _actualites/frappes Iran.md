@@ -6,7 +6,7 @@ resume: "Ce que ces textes prétendent décrire n'est pas une crise : c'est un s
 ---
 
 <!-- IMAGE À INSÉRER -->
-![Frappes en Iran](/images/actualites/iranimpossible.png)
+![Frappes en Iran](/statics/images/actualites/iranimpossible.png)
 
 # Frappes en Iran : une guerre impossible
 

@@ -3,7 +3,7 @@ title: "Progression d’eau et de lumière"
 date: 2026-07-15
 categories: creations
 resume: "Une avancée intérieure dans un chant nouveau."
-og_image: /images/creations/avancee.webp
+og_image: /statics/images/creations/avancee.webp
 tags:
   - poésie
   - axial
@@ -11,7 +11,7 @@ tags:
   - vivant
   - aquatique
 ---
-![avancee](/images/creations/avancee.webp)
+![avancee](/statics/images/creations/avancee.webp)
 
 
 À chaque avancée, la nature afflue

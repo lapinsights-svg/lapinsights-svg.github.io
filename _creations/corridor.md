@@ -4,7 +4,7 @@ categories: creations
 date: 2026-06-03
 layout: article
 tags: ["video", "ia", "lapinsights", "poesie", "cosmique", "vertical"]
-og_image: /images/creations/corridor.png
+og_image: /statics/images/creations/corridor.png
 ---
 
 *Cliquer sur play pour entrer dans la vidéo.*

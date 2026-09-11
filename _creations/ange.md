@@ -6,7 +6,7 @@ resume: "Elle avance entre ombre et lumière, guidée par un ange intérieur"
 categories: creations
 ---
 
-![lumiere](/images/creations/lumiere.png)
+![lumiere](/statics/images/creations/lumiere.png)
 
 Ô Ange,  
 toi qui vois ce qui se retire avant même que nous le sentions,  

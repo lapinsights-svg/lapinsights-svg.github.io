@@ -3,10 +3,10 @@ title: "Indépendance sous pression : ce que révèle le nouveau paysage sanitai
 date: 2026-04-17
 resume: "Pressions sur la HAS et recentrage de la parole sanitaire : un tournant silencieux."
 categories: actualites
-og_image: /images/actualites/presin.png
+og_image: /statics/images/actualites/presin.png
 ---
 
-![presin](/images/actualites/presin.png)
+![presin](/statics/images/actualites/presin.png)
 
 > **Article mis à jour le 26 avril 2026**, à la lumière de nouvelles informations concernant la lettre ouverte de la HAS et la réforme de la communication sanitaire annoncée par le ministère de la Santé.
 

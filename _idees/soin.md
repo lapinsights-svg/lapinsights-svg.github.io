@@ -5,10 +5,10 @@ date: 2026-08-10
 categories: idees
 tags: ["éthique", "droit", "bioéthique", "langage", "catégories"]
 permalink: /lapinsights/euthanasie-soin-distinction/
-og_image: /images/idees/soin.webp
+og_image: /statics/images/idees/soin.webp
 ---
 
-![soin](/images/idees/soin.webp)
+![soin](/statics/images/idees/soin.webp)
 
 # Pourquoi l’euthanasie n’est pas un soin  
 

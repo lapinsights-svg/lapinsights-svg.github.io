@@ -3,7 +3,7 @@ title: "L’Arbre que je deviens"
 date: 2026-05-06
 categories: creations
 layout: article
-og_image: /images/creations/arbre.png
+og_image: /statics/images/creations/arbre.png
 ---
 
 *Cliquer sur play pour entrer dans la métamorphose.*

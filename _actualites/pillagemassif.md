@@ -5,7 +5,7 @@ categories: actualites
 resume: "Réflexion sur l’ampleur du pillage financier par les secteurs militaires et bancaires, et sur la manipulation de l’opinion publique."
 ---
 
-![VTP](/images/actualites/VTP.png)
+![VTP](/statics/images/actualites/VTP.png)
 
 
 La Défense a volé depuis des années et vole encore des milliards pour de faux projets militaires.  

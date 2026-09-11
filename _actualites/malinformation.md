@@ -4,10 +4,10 @@ date: "2026-08-04"
 categories: actualites
 resume: "Redéfinition du périmètre du pensable sous couvert de sécurité informationnelle."
 tags: ["Sénat", "régulation", "information", "désinformation", "malinformation", "ingérence intérieure", "Observatoire"]
-og_image: /images/actualites/malinformation.webp
+og_image: /statics/images/actualites/malinformation.webp
 ---
 
-![malinformation](/images/actualites/malinformation.webp)
+![malinformation](/statics/images/actualites/malinformation.webp)
 
 # La régulation comme matrice du contrôle.  
 ## Le glissement silencieux du Sénat

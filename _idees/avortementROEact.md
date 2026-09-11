@@ -4,10 +4,10 @@ resume: "Quand une civilisation cesse d’être une civilisation."
 layout: article
 date: 2026-08-13
 categories: idees
-og_image: /images/idees/avortement.webp
+og_image: /statics/images/idees/avortement.webp
 ---
 
-![ROEAct](/images/idees/avortement.webp)
+![ROEAct](/statics/images/idees/avortement.webp)
 
 # Le point de rupture civilisationnel
 

@@ -4,9 +4,9 @@ resume: "Un système d’orientation qui tourne au supplice pour les familles et
 date: 2026-06-07
 categories: actualites
 layout: article
-og_image: /images/actualites/parcoursup.png
+og_image: /statics/images/actualites/parcoursup.png
 ---
-![parcoursup](/images/actualites/parcoursup.png)
+![parcoursup](/statics/images/actualites/parcoursup.png)
 
 > J’ai parcouru des dizaines de témoignages publiés sur Facebook pour comprendre, au plus près du vécu des familles, ce que Parcoursup produit réellement dans les foyers.
 

@@ -3,7 +3,7 @@ title: "Beauté sombre"
 date: 2026-09-07
 categories: "creations"
 resume: "Une beauté née du gouffre."
-og_image: "/images/creations/beaute.webp"
+og_image: "/statics/images/creations/beaute.webp"
 tags:
   - poésie
   - mystique
@@ -11,7 +11,7 @@ tags:
   - tellurique
   - clair-obscur
 ---
-![beaute](/images/creations/beaute.webp)
+![beaute](/statics/images/creations/beaute.webp)
 
 
 Dans mon ventre, une nuit profonde se déploie.  

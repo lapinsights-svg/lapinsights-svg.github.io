@@ -10,10 +10,10 @@ tags:
   - "societe-civile"
   - "parlement"
 date: "2026-07-22"
-og_image: /images/actualites/permisdetuer.webp
+og_image: /statics/images/actualites/permisdetuer.webp
 ---
 
-![permisdetuer](/images/actualites/permisdetuer.webp)
+![permisdetuer](/statics/images/actualites/permisdetuer.webp)
 
 # Effacement
 

@@ -5,7 +5,7 @@ resume: "Une exploration méthodique des zones d’emprise et de clarté dans Un
 layout: article
 ---
 .
-![Grotte 1](/images/creations/grotte1.png)
+![Grotte 1](/statics/images/creations/grotte1.png)
 
 Depuis plusieurs mois, un travail s'est ouvert, discret, presque souterrain : un livre.  
 Non pas un livre de croyance ou de dévotion, mais un livre d'examen.  

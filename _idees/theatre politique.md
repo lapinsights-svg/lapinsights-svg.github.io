@@ -5,7 +5,7 @@ categories: idees
 resume: "Entre affrontements chorégraphiés et électeurs oubliés"
 ---
 
-![Theatre](/images/idees/Theatrepolitique.png)
+![Theatre](/statics/images/idees/Theatrepolitique.png)
 
 
 

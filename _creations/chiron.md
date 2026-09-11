@@ -4,7 +4,7 @@ resume: "Une incantation nocturne où la blessure devient passage"
 date: "2026-08-21"
 categories: creations
 tags: ["chiron", "mythe", "nuit", "blessure", "incantation", "double", "respiration"]
-og_image: /images/creations/chiron.webp
+og_image: /statics/images/creations/chiron.webp
 ---
 
 *Cliquer sur play pour voir Chiron.*

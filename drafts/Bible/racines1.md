@@ -3,7 +3,7 @@ title: "Intelligences naturelles"
 date: 2026-06-06
 categories: creations
 layout: article
-og_image: /images/creations/racines.png
+og_image: /statics/images/creations/racines.png
 tags:
   - poésie
   - nature

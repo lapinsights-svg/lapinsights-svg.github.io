@@ -5,10 +5,10 @@ layout: article
 categories: idees
 resume: "Lecture métaphorique de l’ascension de Macron à travers les failles du pouvoir."
 tags: [pouvoir, failles, outlander, imaginaire, politique]
-og_image: /images/idees/failles.png
+og_image: /statics/images/idees/failles.png
 ---
 
-![failles](/images/idees/failles.png)
+![failles](/statics/images/idees/failles.png)
 
 <h3 style="margin-bottom:0.1rem;">
   <img src="/assets/img/categories/idees.png" style="width:34px !important; height:auto; display:inline-block; vertical-align:middle; margin-right:6px;">

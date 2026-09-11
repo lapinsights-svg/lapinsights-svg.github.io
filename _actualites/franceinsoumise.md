@@ -5,7 +5,7 @@ categories: actualites
 resume: "Analyse du reclassement politique de LFI et distinction entre gauche radicale et extreme gauche."
 ---
 
-![LFI extreme gauche](/images/actualites/insoumise.png)
+![LFI extreme gauche](/statics/images/actualites/insoumise.png)
 
 # La France Insoumise est elle d extreme gauche
 

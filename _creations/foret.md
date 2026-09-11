@@ -8,7 +8,7 @@ categories: creations
 ---
 
 
-![Foret se souvient](/images/creations/foret-souvient.png)
+![Foret se souvient](/statics/images/creations/foret-souvient.png)
 
 
 

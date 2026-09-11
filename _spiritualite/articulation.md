@@ -13,10 +13,10 @@ tags:
   - deux-arbres
   - temple-intérieur
   - articulation-originaire
-og_image: /images/spiritualite/separation.webp
+og_image: /statics/images/spiritualite/separation.webp
 ---
 
-![separation](/images/spiritualite/separation.webp)
+![separation](/statics/images/spiritualite/separation.webp)
 
 # Articulation  
 

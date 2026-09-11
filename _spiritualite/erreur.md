@@ -5,10 +5,10 @@ categories: spiritualite
 resume: "Florilège de pseudo‑sagesses ratiboisées — épisode VI"
 Layout: article
 tags: [florilege, pseudo-sagesses, spiritualite]
-og_image: /images/spiritualite/enseignement.png
+og_image: /statics/images/spiritualite/enseignement.png
 ---
 
-![enseignement](/images/spiritualite/enseignement.png)
+![enseignement](/statics/images/spiritualite/enseignement.png)
 
 <h3 style="margin-bottom:0.1rem;">
   <img src="/assets/img/categories/spiritualite.png" style="width:34px !important; height:auto; display:inline-block; vertical-align:middle; margin-right:6px;">

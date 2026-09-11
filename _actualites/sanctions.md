@@ -5,10 +5,10 @@ layout: article
 date: 2026-06-07
 categories: actualites
 tags: [justice, protection_enfance, sanctions_irrevocables, societe, morale]
-og_image: /images/actualites/irrevocable.png
+og_image: /statics/images/actualites/irrevocable.png
 ---
 
-![irrevocable](/images/actualites/irrevocable.png)
+![irrevocable](/statics/images/actualites/irrevocable.png)
 
 # Sanctions irrévocables : quand l’irréparable exige l’irrévocable  
 

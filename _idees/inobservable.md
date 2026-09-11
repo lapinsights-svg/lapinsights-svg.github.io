@@ -5,9 +5,9 @@ date: 2026-05-16
 categories: idees
 tags: ["ontologie", "préconscient", "structure", "réel", "nocturne", "Lapinsights"]
 layout: article
-og_image: /images/idees/inobservable.png
+og_image: /statics/images/idees/inobservable.png
 ---
-![inobservable](/images/idees/inobservable.png)
+![inobservable](/statics/images/idees/inobservable.png)
 
 # Préface
 

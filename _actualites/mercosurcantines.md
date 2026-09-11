@@ -7,7 +7,7 @@ resume: "Analyse juridique : jusqu’où un département peut-il exclure la vian
 
 # Les départements peuvent-ils refuser le Mercosur dans les cantines ?
 
-![MC](/images/actualites/MC.png)
+![MC](/statics/images/actualites/MC.png)
 
 Un article affirme que certains départements pourraient refuser de servir de la viande issue du Mercosur dans les cantines des collégiens :
 

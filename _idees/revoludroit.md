@@ -5,7 +5,7 @@ categories: idees
 resume: "Entre refondation institutionnelle, effondrement systémique et reconstruction civique."
 ---
 
-![Revoludroit](/images/idees/Revoludroit.png)
+![Revoludroit](/statics/images/idees/Revoludroit.png)
 
 
 

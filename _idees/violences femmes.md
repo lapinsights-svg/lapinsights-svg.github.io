@@ -8,7 +8,7 @@ resume: "Une justice qui demande aux victimes d’aller plus vite que leurs bles
 
 # Chroniques d’un pays qui demande aux victimes d’aller plus vite que leurs blessures.
 
-![Femmes](/images/idees/Femmes_violences.png)
+![Femmes](/statics/images/idees/Femmes_violences.png)
 
 Connaissez-vous ces décisions administratives qui ne font pas de bruit ?  
 Elles glissent dans les interstices de l’État, circulent entre préfets et cabinets, sans jamais affronter la lumière.  

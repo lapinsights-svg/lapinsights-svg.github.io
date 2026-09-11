@@ -11,10 +11,10 @@ date: "2026-07-04"
   - "libertés"
   - "Gilets jaunes"
   - "instrumentalisation"
-og_image: /images/idees/glissement.png
+og_image: /statics/images/idees/glissement.png
 ---
 
-![glissement](/images/idees/glissement.png)
+![glissement](/statics/images/idees/glissement.png)
 
 # La menace comme refuge
 

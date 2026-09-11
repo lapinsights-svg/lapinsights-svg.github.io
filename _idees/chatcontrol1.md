@@ -5,10 +5,10 @@ categories: idees
 tags: [vie-privee, chiffrement, europe, surveillance, chat-control]
 date: 2026-07-13
 layout: article
-og_image: /images/idees/chatc_1.webp
+og_image: /statics/images/idees/chatc_1.webp
 ---
 
-![chatcontrol](/images/idees/chatc_1.webp)
+![chatcontrol](/statics/images/idees/chatc_1.webp)
 
 # Que faire pour éviter le scanning de Chat Control 1 ?
 

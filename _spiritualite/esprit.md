@@ -9,10 +9,10 @@ tags:
   - Polarité
   - Arbre de Vie
   - Image
-og_image: /images/spiritualite/conscience.webp
+og_image: /statics/images/spiritualite/conscience.webp
 ---
 
-![conscience](/images/spiritualite/conscience.webp)
+![conscience](/statics/images/spiritualite/conscience.webp)
 
 # Ontologie de l’esprit
 

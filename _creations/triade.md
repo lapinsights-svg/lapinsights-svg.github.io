@@ -3,7 +3,7 @@ title: "Fragment de la Triade Obscure"
 categories: creations
 date: 2026-08-23
 layout: article
-og_image: /images/creations/triade.webp
+og_image: /statics/images/creations/triade.webp
 ---
 
 *Cliquer sur la vidéo pour voir la Triade.*

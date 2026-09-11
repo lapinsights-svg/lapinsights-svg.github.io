@@ -5,10 +5,10 @@ categories: idees
 resume: "Pourquoi la fraude sociale est rendue visible tandis que la fraude fiscale demeure dans l’ombre."
 description: "Une exploration des asymétries politiques entre fraude sociale et fraude fiscale : chiffres, cadrages, mythes, faits et architecture du silence institutionnel."
 layout: article
-og_image: /images/idees/fraudesf.png
+og_image: /statics/images/idees/fraudesf.png
 ---
 
-![fraudesf](/images/idees/fraudesf.png)
+![fraudesf](/statics/images/idees/fraudesf.png)
 
 # Fraude sociale, fraude fiscale : ce que la lumière choisit d’éclairer
 

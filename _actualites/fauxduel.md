@@ -4,9 +4,9 @@ date: 2026-05-09
 categories: actualites
 description: "Analyse du discours de Mark Carney et de sa réception médiatique : un faux duel avec Donald Trump."
 resume: Analyse du discours de Mark Carney et de sa réception médiatique.
-og_image: /images/actualites/FakeFight.png
+og_image: /statics/images/actualites/FakeFight.png
 ---
-![FakeFight](/images/actualites/FakeFight.png)
+![FakeFight](/statics/images/actualites/FakeFight.png)
 
 
 # Le faux duel Carney / Trump

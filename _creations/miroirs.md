@@ -3,10 +3,10 @@ layout: article
 categories: creations
 date: 2026-06-09
 title: "L’homme qui fabriquait des miroirs"
-og_image: /images/creations/miroirs.png
+og_image: /statics/images/creations/miroirs.png
 ---
 
-![miroirs](/images/creations/miroirs.png)
+![miroirs](/statics/images/creations/miroirs.png)
 
 <h3 style="margin-bottom:0.1rem;">
   <img src="/assets/img/categories/creations.png" style="width:34px !important; height:auto; display:inline-block; vertical-align:middle; margin-right:6px;">

@@ -5,10 +5,10 @@ layout: article
 categories: spiritualite
 resume: "Ratiboisage de phrases pseudo‑spirituelles — épisode III"
 tags: [florilege, pseudo-sagesses, spiritualite]
-og_image: /images/spiritualite/douleur.png
+og_image: /statics/images/spiritualite/douleur.png
 ---
 
-![douleur](/images/spiritualite/douleur.png)
+![douleur](/statics/images/spiritualite/douleur.png)
 
 # Florilège de pseudo‑sagesses ratiboisées  
 ## Fragment III — La douleur comme faute

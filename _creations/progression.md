@@ -3,14 +3,14 @@ title: Progression intérieure
 date: 2026-06-28
 categories: creations
 resume: Descente obscure, tension verticale, lumière qui traverse l’intérieur.
-og_image: /images/creations/progression.png
+og_image: /statics/images/creations/progression.png
 tags:
   - lumière
   - intériorité
   - musique
   - nocturne
 ---
-![progression](/images/creations/progression.png)
+![progression](/statics/images/creations/progression.png)
 
 La pièce retenait son souffle.  
 La lumière glissait comme une poussière vivante sur les meubles.  

@@ -25,7 +25,7 @@ body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
     "Helvetica Neue", Arial, sans-serif;
 
-  background: url("/images/brume2.png") center 35% / cover no-repeat fixed;
+  background: url("/statics/images/brume2.png") center 35% / cover no-repeat fixed;
   background-color: var(--fond);
   color: var(--texte);
 
@@ -1100,7 +1100,7 @@ textarea {
 
 /* Fond spécifique Terrier */
 body.presentation-terrier {
-  background-image: url('/images/fond_basalte_bleu.png');
+  background-image: url('/statics/images/fond_basalte_bleu.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -1273,7 +1273,7 @@ header.header-hidden {
   content: "";
   position: fixed;
   inset: 0;
-  background-image: url('/images/fond_archives.png');
+  background-image: url('/statics/images/fond_archives.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

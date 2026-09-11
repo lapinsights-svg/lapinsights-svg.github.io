@@ -3,9 +3,9 @@ title: "L’hirondelle, charpente du vent et mémoire des mondes"
 date: 2026-04-27
 categories: creations
 keywords: ["hirondelle", "migration", "fidélité", "poésie", "symboles"]
-og_image: /images/creations/hirondelle.png
+og_image: /statics/images/creations/hirondelle.png
 ---
-![Jeanne](/images/creations/hirondelle.png)
+![Jeanne](/statics/images/creations/hirondelle.png)
 
 
 Vingt grammes seulement, mais son vol est impérial.  

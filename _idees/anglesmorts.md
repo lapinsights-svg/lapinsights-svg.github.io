@@ -4,10 +4,10 @@ date: 2026-08-09
 categories: idees
 resume: "Une loi qui efface ses traces, filtre ses doutes et sous‑compte ses dérives."
 layout: article
-og_image: /images/idees/anglesmorts.webp
+og_image: /statics/images/idees/anglesmorts.webp
 ---
 
-![anglesmorts](/images/idees/anglesmorts.webp)
+![anglesmorts](/statics/images/idees/anglesmorts.webp)
 
 # Aide à mourir : architecture des angles morts  
 

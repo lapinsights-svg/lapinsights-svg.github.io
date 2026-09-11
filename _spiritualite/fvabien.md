@@ -4,10 +4,10 @@ date: 2026-05-04
 categories: spiritualite
 resume: "Un fragment du Florilège de pseudo‑sagesses ratiboisées."
 tags: [florilege, pseudo-sagesses]
-og_image: /images/spiritualite/vabien.png
+og_image: /statics/images/spiritualite/vabien.png
 ---
 
-![vabien](/images/spiritualite/vabien.png)
+![vabien](/statics/images/spiritualite/vabien.png)
 
 # Florilège de pseudo‑sagesses ratiboisées  
 ## Fragment I — Tout va bien, c'est juste ta pensée

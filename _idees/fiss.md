@@ -5,7 +5,7 @@ resume: "Retour au parlementarisme"
 categories: idees
 ---
 
-![fiss](/images/idees/fiss.png)
+![fiss](/statics/images/idees/fiss.png)
 
 # La Cinquième République arrive au bout de sa forme
 

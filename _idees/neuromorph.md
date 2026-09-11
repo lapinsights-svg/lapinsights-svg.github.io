@@ -5,7 +5,7 @@ categories: idees
 layout: article
 ---
 
-![La faillite de l'eau](/images/idees/neuromorph.png)
+![La faillite de l'eau](/statics/images/idees/neuromorph.png)
 
 [Article sur les machines neuromorphiques](https://www.nature.com/collections/jaidjgeceb)
 

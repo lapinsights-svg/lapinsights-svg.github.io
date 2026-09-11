@@ -5,7 +5,7 @@ resume: "Une critique des récits évolutionnistes et un appel à une science hu
 categories: idees
 ---
 
-![fossiles](/images/idees/fossiles.png)
+![fossiles](/statics/images/idees/fossiles.png)
 
 
 # La vie, au‑delà des récits

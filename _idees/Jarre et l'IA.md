@@ -3,10 +3,10 @@ title: "Jean‑Michel Jarre et l IA"
 date: 2026-04-24
 categories: idees
 resume: "Analyse critique de l’analogie proposée par Jean‑Michel Jarre"
-og_image: /images/idees/Jarre.png
+og_image: /statics/images/idees/Jarre.png
 ---
 
-![Jarre](/images/idees/Jarre.png)
+![Jarre](/statics/images/idees/Jarre.png)
 
 Dans un entretien publié par *Le Figaro*, Jean‑Michel Jarre déclare :
 

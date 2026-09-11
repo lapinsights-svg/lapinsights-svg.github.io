@@ -4,10 +4,10 @@ categories: idees
 layout: article
 date: "2026-07-16"
 resume: "La loi létale comme révélateur du désir, de la peur, des coûts et de la rupture anthropologique."
-og_image: /images/idees/symptome.webp
+og_image: /statics/images/idees/symptome.webp
 ---
 
-![symptome](/images/idees/symptome.webp)
+![symptome](/statics/images/idees/symptome.webp)
 
 
 ## 1. Le passage en force  

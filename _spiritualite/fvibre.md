@@ -4,9 +4,9 @@ date: 2026-05-08
 categories: spiritualite
 layout: article
 resume: "Ratiboisage des phrases pseudo‑spirituelles — épisode II"
-og_image: /images/spiritualite/vibre.png
+og_image: /statics/images/spiritualite/vibre.png
 ---
-![vibre](/images/spiritualite/vibre.png)
+![vibre](/statics/images/spiritualite/vibre.png)
 
 **« Tu attires ce que tu vibres »** — voilà la phrase‑totem de ce deuxième épisode du ratiboisage spirituel.  
 

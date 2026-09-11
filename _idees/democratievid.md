@@ -3,7 +3,7 @@ title: "Vidéo: la démocratie est un décor de cinéma"
 date: 2026-05-18
 categories: idee
 layout: article
-og_image: /images/idees/democinema.png
+og_image: /statics/images/idees/democinema.png
 ---
 
 <video controls playsinline width="100%">

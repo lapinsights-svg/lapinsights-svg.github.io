@@ -4,10 +4,10 @@ layout: article
 categories: idees
 date: 2026-07-30
 tags: [souveraineté, politique, cadre, réel]
-og_image: /images/idees/souverainete.webp
+og_image: /statics/images/idees/souverainete.webp
 ---
 
-![souverainete](/images/idees/souverainete.webp)
+![souverainete](/statics/images/idees/souverainete.webp)
 
 
 

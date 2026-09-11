@@ -3,9 +3,9 @@ title: "Rougeole : le virus n’a pas changé, mais le récit oui"
 categories: actualites
 date: 2026-05-22
 layout: article
-og_image: /images/actualites/rougeole.png
+og_image: /statics/images/actualites/rougeole.png
 ---
-![rougeole](/images/actualites/rougeole.png)
+![rougeole](/statics/images/actualites/rougeole.png)
 
 # Rougeole : le virus n’a pas changé, mais le récit oui
 

@@ -5,9 +5,9 @@ resume: "Le modernisme, une arme façonnée par les institutions et la diplomati
 date: 2026-05-28
 categories: passe
 tags: ["CIA", "MoMA", "Rockefeller", "modernisme", "guerre froide", "culture"]
-og_image: /images/passe/modernisme.webp
+og_image: /statics/images/passe/modernisme.webp
 ---
-![modernisme](/images/passe/modernisme.webp)
+![modernisme](/statics/images/passe/modernisme.webp)
 
 
 # Le nerf caché du modernisme

@@ -5,7 +5,7 @@ categories: idees
 resume: "Pourquoi la rhétorique de la « faillite hydrique » ne correspond pas à la réalité physique du cycle de l’eau."
 ---
 
-![La faillite de l'eau](/images/idees/faillite-eau.png)
+![La faillite de l'eau](/statics/images/idees/faillite-eau.png)
 
 # La faillite de l’eau ?  
 ## Une rhétorique qui déborde plus que les faits

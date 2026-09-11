@@ -8,7 +8,7 @@ layout: article
 ---
 
 
-![Eveil dans la neige](/images/creations/eveil-neige.png)
+![Eveil dans la neige](/statics/images/creations/eveil-neige.png)
 
 
 La neige tombait comme une mémoire ancienne, cendre de lumière revenue caresser la terre pour réveiller ce qu'elle avait oublié.

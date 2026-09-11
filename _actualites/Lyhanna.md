@@ -3,10 +3,10 @@ title: "Lyhanna : le drame qui délie tout un pays"
 categories: idees
 date: 2026-06-10
 tags: ["contrat social", "justice", "violences sexuelles", "État", "sociologie politique"]
-og_image: /images/idees/Lyhanna.png
+og_image: /statics/images/idees/Lyhanna.png
 ---
 
-![Lyhanna](/images/idees/Lyhanna.png)
+![Lyhanna](/statics/images/idees/Lyhanna.png)
 
 ## Lyhanna : quand un drame délie tout un pays
 

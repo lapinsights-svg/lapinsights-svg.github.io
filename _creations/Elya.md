@@ -3,7 +3,7 @@ categories: creations
 title: "Le Souffle d’Elya"
 date: 2026-06-18
 resume: "La Steppe interroge Elya dans un rituel de blancheur."
-og_image: /images/creations/Elya.png
+og_image: /statics/images/creations/Elya.png
 tags:
   - poésie
   - rituel
@@ -11,7 +11,7 @@ tags:
   - mystique
   - vivant
 ---
-![Elya](/images/creations/Elya.png)
+![Elya](/statics/images/creations/Elya.png)
 
 # Le Souffle d’Elya
 

@@ -3,7 +3,7 @@ title: "Jeanne dans la vallée de la mort"
 date: 2026-04-23
 category: "creations"
 ---
-![Jeanne](/images/creations/Jeanne.png)
+![Jeanne](/statics/images/creations/Jeanne.png)
 
 Dans la vallée où les arbres retiennent leur souffle,  
 où la terre humide palpite comme un animal blessé,  

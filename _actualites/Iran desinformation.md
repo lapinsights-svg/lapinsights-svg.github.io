@@ -7,7 +7,7 @@ categories: actualites
 
 # IRAN : une guerre de désinformation
 
-![Iran1](/images/actualites/Iran1.png)
+![Iran1](/statics/images/actualites/Iran1.png)
 
 Images de Avant/Après l'attaque en Iran. « Y'a un problème, patron… »
 
@@ -73,7 +73,7 @@ Le spectateur comprend : c’est Téhéran sous les frappes.
 La topographie ne correspond pas clairement à Téhéran.  
 Téhéran est adossée à l’Elbourz, mais les quartiers visibles ici ne ressemblent pas aux zones touchées mentionnées dans les dépêches.
 
-![Iran2](/images/actualites/Iran2.png)
+![Iran2](/statics/images/actualites/Iran2.png)
 
 
 
@@ -86,7 +86,7 @@ L'image montre une vue thermique ou infrarouge, typique d’un drone militaire.
 Le mot “UNCLASSIFIED” apparaît en vert, comme dans les vidéos déclassifiées du Pentagone.  
 Une explosion ou un impact est visible.
 
-![Iran3](/images/actualites/Iran3.png)
+![Iran3](/statics/images/actualites/Iran3.png)
 
 Des bâtiments industriels ou logistiques apparaissent en arrière-plan.  
 TF1 suggère : « Images impressionnantes des destructions en Iran. »  
@@ -101,7 +101,7 @@ Aucun élément géographique identifiable : pas de repère, pas de coordonnées
 
 ## Vue aérienne noir et blanc sur une zone désertique
 
-![Iran4](/images/actualites/Iran4.png)
+![Iran4](/statics/images/actualites/Iran4.png)
 
 L’image montre une vue aérienne ou drone, noir et blanc, très granuleuse :  
 une zone désertique, quelques structures dispersées, un réticule violet au centre, des incendies et des débris.  
@@ -122,7 +122,7 @@ Une telle déclaration implique qu’un bâtiment de cette importance devrait ê
 Pourtant, rien de tout cela n’apparaît dans les images diffusées.
 
 
-![Iran5](/images/actualites/Iran5.png)
+![Iran5](/statics/images/actualites/Iran5.png)
 
 Les images satellites montrent une réalité différente :  
 un quartier urbain dense, un terrain de sport, des immeubles, quelques bâtiments administratifs modestes, des rues étroites.  
@@ -183,7 +183,7 @@ De la désinformation, et une guerre de propagande.**
 Le genre de bêtises qu'on voit circuler sur les réseaux sociaux.  
 Une vidéo censée montrer Téhéran en feu :  
 
-![Iran6](/images/actualites/Iran6.png)
+![Iran6](/statics/images/actualites/Iran6.png)
 
 
 [https://www.facebook.com/reel/1225272733148626](https://www.facebook.com/reel/1225272733148626)

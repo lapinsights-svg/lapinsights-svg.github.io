@@ -15,10 +15,10 @@ sources:
   - "Le Figaro — Vivons-nous dans une simulation informatique ? La théorie qui secoue la Silicon Valley : https://www.lefigaro.fr/vox/monde/vivons-nous-dans-une-simulation-informatique-la-theorie-qui-secoue-la-silicon-valley-20260429"
   - "Futura Sciences — Si une catastrophe mondiale frappait, voici ce qu’il faudrait cultiver pour survivre : https://www.futura-sciences.com/planete/actualites/planete-si-catastrophe-mondiale-frappait-voici-ce-quil-faudrait-cultiver-survivre-w2t8-134009/"
   - "Futura Sciences (version complète) : https://www.futura-sciences.com/planete/actualites/planete-si-catastrophe-mondiale-frappait-voici-ce-quil-faudrait-cultiver-survivre-w2t8-134009/?at_source=nonli&at_content=photo&at_term=futura.planete.fr&at_campaign=facebook&at_medium=social"
-og_image: "/images/idees/fuitedureel.png"
+og_image: "/statics/images/idees/fuitedureel.png"
 layout: "article"
 ---
-![fuitedureel](/images/idees/fuitedureel.png)
+![fuitedureel](/statics/images/idees/fuitedureel.png)
 
 # Les fuites hors du réel  
 ### *Silicon Valley, spiritualités anesthésiantes et retour de la matière*

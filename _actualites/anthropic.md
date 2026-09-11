@@ -5,7 +5,7 @@ categories: actualites
 resume: "L’affaire Anthropic révèle la nature profonde du pouvoir technopolitique américain"
 ---
 
-![Anthropic](/images/actualites/anthropic.png)
+![Anthropic](/statics/images/actualites/anthropic.png)
 
 
 Il arrive qu’un petit fait révèle la nature profonde d’un pouvoir. C’est le cas avec l’affaire Anthropic.

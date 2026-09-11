@@ -3,9 +3,9 @@ title: "Cimetière des Virus Oubliés"
 date: 2026-06-08
 categories: actualites
 layout: article
-og_image: /images/actualites/cimetiere.png
+og_image: /statics/images/actualites/cimetiere.png
 ---
-![cimetiere](/images/actualites/cimetiere.png)
+![cimetiere](/statics/images/actualites/cimetiere.png)
 
 
 Sous la lune, le **Cimetière des Virus Oubliés** s’étend comme un vieux calendrier de peurs recyclées.  

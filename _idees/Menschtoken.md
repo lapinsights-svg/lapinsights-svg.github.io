@@ -5,10 +5,10 @@ date: 2026-05-15
 categories: idees
 tags: ["IA", "Europe", "énergie", "souveraineté", "Mensch", "économie"]
 permalink: /lapinsights/electrons-contre-tokens/
-og_image: /images/idees/token.png
+og_image: /statics/images/idees/token.png
 ---
 
-![token](/images/idees/token.png)
+![token](/statics/images/idees/token.png)
 
 On présente souvent l’IA comme une course mondiale, un enjeu de puissance, un défi civilisationnel.  
 Mais derrière les discours, il y a une mécanique plus triviale : **le transfert d’énergie et de dette**.

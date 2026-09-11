@@ -7,7 +7,7 @@ resume: "Pourquoi les sondages sur le Brexit donnent une illusion de polarisatio
 
 # BREXIT : LE BIAIS DES SONDAGES
 
-![Brexit sondages](/images/actualites/brexit-biais.png)
+![Brexit sondages](/statics/images/actualites/brexit-biais.png)
 
 Dans le graphique présenté sur ce site, on voit que les Britanniques semblent regretter d’avoir quitté l’Union européenne :
 
@@ -18,7 +18,7 @@ Mais je remarque que la polarité affichée paraît trop parfaite pour être hon
 
 Le biais principal, c’est **l’apparente symétrie** du graphique.
 
-![Brexit sondages](/images/actualites/brexit-opinion1.png)
+![Brexit sondages](/statics/images/actualites/brexit-opinion1.png)
 
 ---
 
@@ -51,7 +51,7 @@ Ces choix créent une **illusion de polarisation**.
 
 Si l’on réintégrait les indécis dans le graphique, la symétrie disparaîtrait immédiatement.
 
-![Brexit sondages](/images/actualites/brexit-opinion2.png)
+![Brexit sondages](/statics/images/actualites/brexit-opinion2.png)
 
 ---
 

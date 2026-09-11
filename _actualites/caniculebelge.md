@@ -5,10 +5,10 @@ layout: article
 categories: actualité
 tags: ["canicule", "école", "bureaucratie", "absurdité"]
 resume: "Une circulaire canicule qui transforme l’école en camping tropical improvisé."
-og_image: /images/actualites/caniculebelge.png
+og_image: /statics/images/actualites/caniculebelge.png
 ---
 
-![caniculebelge](/images/actualites/caniculebelge.png)
+![caniculebelge](/statics/images/actualites/caniculebelge.png)
 
 > **Preuve officielle :**  
 > La circulaire canicule existe bel et bien.  

@@ -10,10 +10,10 @@ tags:
   - données
   - souveraineté
   - société
-og_image: /images/idees/fuite.webp
+og_image: /statics/images/idees/fuite.webp
 ---
 
-![fuite](/images/idees/fuite.webp)
+![fuite](/statics/images/idees/fuite.webp)
 
 
 # Quand l’État laisse fuir les données

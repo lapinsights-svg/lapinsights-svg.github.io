@@ -5,7 +5,7 @@ collection: articles
 resume: "Analyse critique de la méthode et de ses dérives philosophiques, psychologiques et spirituelles."
 ---
 
-![byron](/images/spiritualite/Byron1.png)
+![byron](/statics/images/spiritualite/Byron1.png)
 
 
 « Méfiez-vous des faux prophètes, qui viennent à vous en vêtements de brebis, mais qui, au fond, sont des loups ravisseurs. » (Matthieu 7:15)

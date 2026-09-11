@@ -4,10 +4,10 @@ date: "2026-07-19"
 categories: idees
 layout: article
 source: "https://www.lespecialiste.be/fr/actualites/ras-le-bol-des-medecins-nbsp-laquo-ils-se-posent-la-question-de-continuer-a-soigner-des-nbsp-non-vaccines-nbsp-raquo.html"
-og_image: /images/idees/reecriture.webp
+og_image: /statics/images/idees/reecriture.webp
 ---
 
-![reecriture](/images/idees/reecriture.webp)
+![reecriture](/statics/images/idees/reecriture.webp)
 
 # L’effet miroir : quand une société réécrit ses fondements éthiques sous pression
 

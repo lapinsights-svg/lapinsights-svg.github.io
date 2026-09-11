@@ -8,9 +8,9 @@ tags:
   - spiritualite
   - pseudo-sagesses
   - new-age
-og_image: /images/spiritualite/univers.png
+og_image: /statics/images/spiritualite/univers.png
 ---
-![univers](/images/spiritualite/univers.png)
+![univers](/statics/images/spiritualite/univers.png)
 
 <h3 style="margin-bottom:0.1rem;">
   <img src="/assets/img/categories/spiritualite.png" style="width:34px !important; height:auto; display:inline-block; vertical-align:middle; margin-right:6px;">

@@ -12,10 +12,10 @@ tags:
   - France
   - Lapinsights
 categories: idees
-og_image: /images/idees/choosefrance.png
+og_image: /statics/images/idees/choosefrance.png
 ---
 
-![choosefrance](/images/idees/choosefrance.png)
+![choosefrance](/statics/images/idees/choosefrance.png)
 
 
 # Choose France ou l’art discret de renoncer à soi-même

@@ -10,9 +10,9 @@ tags:
   - fracture intérieure
   - dimension stratégique
   - analyse
-og_image: /images/passe/doyle.webp
+og_image: /statics/images/passe/doyle.webp
 ---
-![doyle](/images/passe/doyle.webp)
+![doyle](/statics/images/passe/doyle.webp)
 
 # Doyle et Holmes : l’impossible jonction
 

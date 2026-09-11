@@ -5,9 +5,9 @@ layout: article
 categories: actualites
 resume: "Facebook oriente silencieusement la visibilité des commentaires"
 tags: ["facebook", "algorithme", "shadowban", "perturbateurs", "espace-public"]
-og_image: /images/actualites/facebook.png
+og_image: /statics/images/actualites/facebook.png
 ---
-![facebook](/images/actualites/facebook.png)
+![facebook](/statics/images/actualites/facebook.png)
 
 
 # Comment Facebook filtre le débat public

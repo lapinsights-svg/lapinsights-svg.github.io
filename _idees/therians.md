@@ -4,10 +4,10 @@ resume: "Un signe faible révélant la dissolution des frontières entre humain,
 date: 2026-06-05
 layout: article
 categories: idees
-og_image: /images/idees/therians.png
+og_image: /statics/images/idees/therians.png
 ---
 
-![therians](/images/idees/therians.png)
+![therians](/statics/images/idees/therians.png)
 
 
 Il y a, dans certaines vidéos qui circulent, des adolescents qui rampent, grognent, aboient, se filment à quatre pattes. Ils disent *être* des loups, des félins, des créatures hybrides. On les appelle **thérians**.  

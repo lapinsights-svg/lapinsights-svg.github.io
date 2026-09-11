@@ -5,12 +5,12 @@ title: "La mise en abyme du motif"
 episode: "La structure intérieure de la Bible"
 resume: "Une architecture fractale, non une suite d’histoires."
 layout: article
-og_image: /images/spiritualite/abyme.webp
+og_image: /statics/images/spiritualite/abyme.webp
 tags:
   - bible
   - structure
 ---
-![abyme](/images/spiritualite/abyme.webp)
+![abyme](/statics/images/spiritualite/abyme.webp)
 
 # Mise en abyme
 
