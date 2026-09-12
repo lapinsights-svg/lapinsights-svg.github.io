@@ -283,6 +283,25 @@ Dans ce théâtre, chaque candidat se proclame rempart de la démocratie,
 et chaque désaccord devient une menace russe.
 
 ---
+🟦 EDIT du 12 septembre 2026
+
+La Suède active le prochain acte : l’ingérence comme décor permanent. 
+
+[La Suède alerte la France et l’Allemagne – Libération](https://www.liberation.fr/international/europe/la-suede-alerte-la-france-et-lallemagne-les-prochaines-elections-seront-ciblees-par-les-bots-de-poutine-20260911_FYIFN2776JFKVPM5KUICQ5OSNE/). 
+
+
+L’alerte suédoise relayée par Libération confirme la mécanique décrite depuis juin : l’ingérence n’est plus un événement, c’est un décor.  
+Un décor installé avant les faits, qui transforme chaque tension électorale en signe attendu.  
+
+La Suède n’apporte aucune preuve.  
+Elle annonce un futur verrouillé : bots présents, électeurs ciblés, démocratie menacée.  
+Le manque de données devient une ressource narrative.  
+L’ingérence est invisible, diffuse, indétectable.  
+
+Le cadre précède les faits, absorbe tout ce qui survient, oriente la lecture du vote, sanctuarise certains camps, délégitime d’autres,  
+et place le citoyen dans une position d’influencé potentiel.
+
+---
 
 ## Conclusion
 
