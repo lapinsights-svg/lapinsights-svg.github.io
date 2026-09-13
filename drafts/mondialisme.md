@@ -1,6 +1,7 @@
 ---
 title: "Le mondialisme n’a pas de réponse au réel"
-date: "2026-07-16"
+date: "2026-09-14"
+slug: "mondialisme"
 categories: idees
 layout: article
 resume: "Le mondialisme échoue face au réel et le retour à la souveraineté et à la civilisation s’impose."
@@ -10,114 +11,106 @@ resume: "Le mondialisme échoue face au réel et le retour à la souveraineté e
 **Le mondialisme n’a pas de réponse au réel**
 
 
-Il arrive un moment où une civilisation cesse de se raconter des histoires.  
-Un moment où les slogans se dissolvent, où les abstractions se brisent contre la rugosité du monde.  
+Une civilisation finit toujours par atteindre le point où les récits s’effritent.  
+Le moment où les slogans se défont, où les abstractions se brisent contre la matière du monde.  
 Nous vivons ce moment.  
 
-Le mondialisme avait promis la fluidité, la paix, la circulation heureuse.  
-Il avait promis que les frontières étaient des archaïsmes, que les identités étaient des obstacles, que les nations étaient des fardeaux.  
-Il avait promis que la technique remplacerait la politique, que la norme remplacerait l’autorité, que la coopération remplacerait la souveraineté.  
+Le mondialisme avait promis la fluidité, la paix automatique, la circulation heureuse.  
+Il affirmait que les frontières étaient des vestiges,  
+que les identités gênaient, que les nations encombraient.  
+Il annonçait que la technique remplacerait la politique,  
+que la norme suffirait à tenir lieu d’autorité, que la coopération dissoudrait la souveraineté.  
 
-Mais le réel, lui, n’a rien promis.  
+Mais le réel ne promet rien.
 
-Le réel, c’est une petite fille assassinée dans un pays qui n’arrive plus à protéger les siens.  
-Le réel, c’est une justice saturée, une police épuisée, un État qui s’excuse d’exister.  
-Le réel, c’est un peuple qui se lève pour dire qu’il n’en peut plus, pendant que les élites lui expliquent qu’il “ne faut pas crier”.  
+Le réel, c’est une enfant assassinée dans un pays qui ne protège plus les siens.  
+C’est une justice saturée, une police épuisée, un État qui s’excuse d’exister.  
+C’est un peuple qui se lève pour dire qu’il n’en peut plus,  
+tandis que ceux qui gouvernent lui demandent de se taire.  
 
-Le réel, c’est la fracture entre ceux qui vivent dans le monde et ceux qui vivent dans le récit.  
+Le réel, c’est la fracture entre ceux qui affrontent le monde et ceux qui s’abritent dans le récit.
 
-Parce que le mondialisme n’a pas de réponse au réel.  
-Il n’a que des procédures, des protocoles, des incantations.  
-Il ne sait pas répondre à la violence, parce qu’il nie le tragique.  
-Il ne sait pas répondre à la colère, parce qu’il nie le peuple.  
-Il ne sait pas répondre à l’effondrement, parce qu’il nie la civilisation.  
+Le mondialisme ne répond pas au réel.  
+Il aligne des procédures, des protocoles, des mantras.  
+Il ne sait pas affronter la violence, parce qu’il refuse le tragique.  
+Il ne sait pas entendre la colère, parce qu’il refuse le peuple.  
+Il ne sait pas contenir l’effondrement, parce qu’il refuse la civilisation.  
 
-Le mondialisme est un logiciel sans prise sur la matière.  
-Il flotte au‑dessus des nations comme une interface déconnectée, persuadé que la réalité finira par se conformer à ses tableaux Excel.  
-Mais la réalité ne négocie pas.  
-Elle revient toujours, brutale, indocile, indifférente aux dogmes.  
+Il fonctionne comme un logiciel détaché de la matière.  
+Il plane au‑dessus des nations, persuadé que la réalité finira par se conformer à ses modèles.    
+Mais la réalité ne se conforme pas.  
+Elle revient, brutale, indocile, indifférente aux dogmes.
 
-Et c’est là que tout se joue :  
-entre ceux qui regardent le monde tel qu’il est,  
-et ceux qui continuent de le rêver tel qu’ils voudraient qu’il soit.  
+Tout se joue ici :  
+entre ceux qui regardent le monde tel qu’il est. 
+et ceux qui persistent à le rêver tel qu’ils voudraient qu’il soit.  
 
-Le réel ne demande pas des discours.  
-Il demande du courage, de la souveraineté, de la verticalité.  
-Il demande qu’on protège avant de commenter, qu’on décide avant de s’excuser, qu’on assume avant de déléguer.  
+Le réel ne réclame pas des discours.  
+Il réclame du courage, de la souveraineté, de la verticalité.  
+Il exige qu’on protège avant de commenter, qu’on décide avant de s’excuser, qu’on assume avant de déléguer.  
 
-Le mondialisme ne sait pas faire cela.  
-Il n’a pas été conçu pour affronter le tragique.  
-Il a été conçu pour l’éviter.  
-
+Le mondialisme n’a pas été conçu pour cela.  
+Il a été conçu pour éviter le tragique.  
 Mais le tragique revient.  
-Et avec lui, la nécessité de redevenir adultes.  
-C’est le retour du retour_du_tragique.  
----
+C’est le retour du tragique.
 
 **Le contre‑récit : le retour au réel**
 
 Le mondialisme a voulu dissoudre le monde dans des flux.  
 Le contre‑récit commence par un geste simple : rappeler que le monde existe.  
 
-Le réel n’est pas un concept.  
+Le réel n’est pas une abstraction.  
 C’est un territoire, une frontière, une langue, une mémoire, une continuité.  
 C’est un peuple qui veut vivre en sécurité, transmettre, durer.  
-C’est une civilisation qui refuse de devenir un simple “espace” sur une carte.  
+C’est une civilisation qui refuse de devenir un simple “espace” sur une carte.
 
-Le retour au réel, c’est d’abord cela :  
-reprendre contact avec ce qui tient debout.  
+Revenir au réel, c’est renouer avec ce qui tient debout.
 
-Parce qu’une société ne se maintient pas par des normes, mais par des limites.  
+Une société ne se maintient pas par des normes, mais par des limites.  
 Pas par des procédures, mais par des principes.  
 Pas par des flux, mais par des formes.  
 
-Le contre‑récit dit ceci :  
+Le contre‑récit affirme ceci :  
 nous ne sommes pas des particules interchangeables dans un marché global.  
-Nous sommes les héritiers d’une histoire, les gardiens d’un sol, les dépositaires d’un monde.  
+Nous sommes les héritiers d’une histoire, les gardiens d’un sol, les dépositaires d’un monde.
 
 Le réel, c’est la souveraineté.  
-Pas la souveraineté abstraite des traités, mais celle qui protège, qui décide, qui assume.  
+Non pas celle des traités, mais celle qui protège, qui tranche, qui assume.  
 Celle qui dit : ce qui relève de nous ne sera plus décidé ailleurs.  
-C’est la logique de réaffirmation_de_la_souveraineté.  
+C’est la logique de réaffirmation de la souveraineté.  
 
 Le réel, c’est l’autorité.  
-Pas l’autoritarisme, mais la verticalité qui permet à une société de ne pas s’effondrer.  
-L’autorité qui protège les faibles, qui fixe les règles, qui rend la justice crédible.  
+Non pas l’autoritarisme, mais la verticalité qui empêche une société de s’effondrer.  
+L’autorité qui protège les faibles, fixe les règles, rend la justice crédible.
 
 Le réel, c’est la transmission.  
-Pas l’oubli organisé, mais la continuité vivante.  
+Non pas l’oubli organisé, mais la continuité vivante.  
 Une école qui enseigne, une culture qui forme, une mémoire qui éclaire.  
-C’est la reconstruction du monde_commun.  
+C’est la reconstruction du monde commun.
 
 Le réel, c’est la frontière.  
-Pas comme un mur, mais comme une peau.  
+Non comme un mur, mais comme une peau.  
 Ce qui protège, ce qui filtre, ce qui permet d’être soi.  
-Une société sans frontières n’est pas ouverte : elle est dissoute.  
+Une société sans frontières ne s’ouvre pas : elle se dissout.
 
 Le réel, c’est la civilisation.  
-Pas un mot poussiéreux, mais une architecture morale.  
+Non un mot poussiéreux, mais une architecture morale.  
 Un ensemble de repères, de gestes, de fidélités.  
-Ce qui fait qu’un peuple ne devient pas une foule.  
+Ce qui transforme une foule en peuple.  
 
-Le contre‑récit n’est pas nostalgique.  
-Il n’est pas réactionnaire.  
+Le contre‑récit ni nostalgique, ni réactionnaire.  
 Il est réaliste.  
-
-Il dit simplement :  
-on ne construit rien de durable en niant la nature humaine, la tragédie, la limite, la responsabilité.  
-On ne construit rien de solide en dissolvant les peuples dans des flux, en remplaçant les nations par des normes, en substituant l’autorité par la procédure.  
+Il rappelle qu’on ne construit rien de durable en niant la nature humaine, la limite, la responsabilité.  
+Qu’on ne bâtit rien de solide en dissolvant les peuples dans des flux,  
+en remplaçant les nations par des normes, en substituant l’autorité par la procédure.
 
 Le mondialisme a voulu un monde sans gravité.  
-Le réel nous rappelle que la gravité existe.  
+Le réel rappelle que la gravité existe.
 
-Le contre‑récit, c’est le retour à la gravité.  
-À la densité.  
-À la présence.  
-À la souveraineté.  
-À la civilisation.  
-
+Le contre‑récit, c’est le retour à la gravité, à la densité,  
+à la présence, à la souveraineté, à la civilisation.  
 Parce que le réel ne disparaît jamais.  
-Ce sont les illusions qui finissent par tomber.  
+Ce sont les illusions qui tombent.
 
 ---
 Céleste R.
