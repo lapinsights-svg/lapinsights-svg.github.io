@@ -5,7 +5,10 @@ slug: "mondialisme"
 categories: idees
 layout: article
 resume: "Le mondialisme échoue face au réel et le retour à la souveraineté et à la civilisation s’impose."
+og_image: /statics/images/idees/montagne2.png
 ---
+
+![montagne2(/statics/images/idees/montagne2.png)
 
 
 **Le mondialisme n’a pas de réponse au réel**
