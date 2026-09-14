@@ -8,7 +8,8 @@ resume: "Le mondialisme échoue face au réel et le retour à la souveraineté e
 og_image: /statics/images/idees/montagne2.webp
 ---
 
-![montagne2(/statics/images/idees/montagne2.webp)
+![montagne2](/statics/images/idees/montagne2.webp)
+
 
 
 **Le mondialisme n’a pas de réponse au réel**
