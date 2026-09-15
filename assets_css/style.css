@@ -2026,29 +2026,29 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
 }
 
 /* Mise en page horizontale pour texte + miniature dans les textes qui résonnent*/
-.capsule-item {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.7rem 1rem; /* réduit la hauteur de la capsule */
+  padding: 0.6rem 1rem; /* capsule plus compacte */
 }
 
 /* Contenu texte à gauche */
 .capsule-content {
   flex: 1;
-  min-width: 0;
+  min-width: 0; /* indispensable */
 }
 
-/* Miniature à droite — version icône */
+/* Miniature à droite — version icône stricte */
 .capsule-thumb {
   width: 40px;
   height: 40px;
-  object-fit: cover;
+
+  object-fit: cover;      /* coupe l’image dans le cadre */
   border-radius: 4px;
   margin-left: 0.8rem;
 
-  flex-shrink: 0;
-  display: block;          /* empêche les comportements inline */
-  overflow: hidden;        /* coupe tout débordement */
+  flex-shrink: 0;         /* l’image ne se déforme pas */
+  display: block;         /* empêche l’étirement inline */
+  overflow: hidden;       /* coupe tout débordement */
 }
 
