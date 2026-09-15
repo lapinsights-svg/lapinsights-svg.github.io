@@ -109,11 +109,10 @@ include:
   - assets/sons
   - statics
 
-
 # Fichiers à conserver
 keep_files:
   - assets_css
   
-# force full rebuild
+# full rebuild
 
 
