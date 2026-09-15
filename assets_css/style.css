@@ -2043,10 +2043,11 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
 .capsule-thumb {
   width: 40px;
   height: 40px;
-  object-fit: cover;      /* coupe l’image dans le cadre */
+  object-fit: cover;
   border-radius: 4px;
   margin-left: 0.8rem;
-  flex-shrink: 0;         /* l’image ne se déforme pas */
-  display: block;         /* empêche l’étirement inline */
-  overflow: hidden;       /* coupe tout débordement */
+  flex-shrink: 0;
+  display: block;
+  overflow: hidden;
 }
+
