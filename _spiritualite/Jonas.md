@@ -126,3 +126,6 @@ Le Christ en est le signe et l’accomplissement.
 Une seule mécanique.  
 Un seul motif.  
 Une seule structure.
+
+---
+Céleste R.
