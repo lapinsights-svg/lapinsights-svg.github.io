@@ -400,7 +400,7 @@ button.disabled {
   margin-top: 0.3rem;
 }
 /* ----------------------------------------------------
-   PAGE ARTICLE
+   PAGE ARTICLE — version adaptée aux capsules
 ---------------------------------------------------- */
 .article-wrapper {
   max-width: 760px;
@@ -444,12 +444,14 @@ button.disabled {
   opacity: 0.9;
 }
 
+/* Images dans les articles — exclure les miniatures des capsules */
 .article-content img:not(.capsule-thumb) {
   max-width: 100%;
   margin: 1.5rem 0;
   border-radius: 0.4rem;
 }
 
+/* Titre interne */
 .article-title {
   font-size: 16px;
 }
