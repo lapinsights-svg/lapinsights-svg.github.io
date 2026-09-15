@@ -1,5 +1,5 @@
 ---
-categories: idees
+categories: spiritualite
 date: 2026-09-15
 title: "Jonas, une matrice"
 episode: "Lecture structurelle de la Bible"
