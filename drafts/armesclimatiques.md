@@ -14,7 +14,7 @@ og_image: /statics/images/idees/armesclimat.webp
 
 **Critique de la vidéo : https://www.youtube.com/watch?v=1_XPcyHlpyw**
 
-Il existe des récits qui se construisent comme des mirages :  
+Certains récits qui se construisent comme des mirages :  
 ils promettent une explication totale, une cohérence absolue, une clé unique pour comprendre le monde.  
 La vidéo que je critique ici appartient à cette famille.  
 Elle prétend que les catastrophes naturelles seraient fabriquées :  
@@ -235,8 +235,7 @@ Influencer un nuage n’est pas contrôler un continent.
 Météo-France explique les traînées des avions :  
 https://meteofrance.com/actualites-et-dossiers/les-trainees-de-condensation
 
-Ce sont des cristaux de glace.  
-Pas des épandages.
+Ce sont des cristaux de glace, pas des épandages.
 
 ---
 
