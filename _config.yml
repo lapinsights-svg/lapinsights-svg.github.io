@@ -5,7 +5,6 @@ description: "Terrier des mondes, éclats et correspondances"
 url: "https://lapinsights.org"
 baseurl: ""
 
-theme: null
 markdown: kramdown
 excerpt_separator: "<!--NOEXCERPT-->"
 
