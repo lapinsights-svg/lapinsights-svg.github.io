@@ -2050,4 +2050,3 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   display: block;         /* empêche l’étirement inline */
   overflow: hidden;       /* coupe tout débordement */
 }
-
