@@ -909,14 +909,15 @@ textarea {
   max-width: 100ch;
 }
 
-/* Images dans les articles */
-.article-body img {
+/* Images dans les articles — sans toucher aux miniatures */
+.article-body img:not(.capsule-thumb) {
   max-width: 500px;
   width: 100%;
   height: auto;
   display: block;
   margin: 2em auto;
 }
+
 
 /* ----------------------------------------------------
    PAGE ARTICLE — HEADER TOP
@@ -2041,8 +2042,8 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
 
 /* Miniature à droite — version icône stricte */
 .capsule-thumb {
-  width: 40px;
-  height: 40px;
+  width: 40px !important;
+  height: 40px !important;
   object-fit: cover;
   border-radius: 4px;
   margin-left: 0.8rem;
