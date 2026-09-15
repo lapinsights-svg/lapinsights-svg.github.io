@@ -55,26 +55,34 @@ Le ventre du poisson est une matrice :
 C’est la même fonction que l’Arche :  
 un lieu de gestation pendant la dissolution.
 
-La différence :  
-l’Arche porte la structure extérieure,  
-Jonas porte la structure intérieure.
+L’Arche n’est pas une structure extérieure.  
+Elle est la figuration de la filiation :  
+un contenant qui porte la polarité pendant la dissolution.
 
-## La traversée
+Jonas rejoue cette matrice, mais sous la forme du Fils :  
+la traversée n’est plus figurée, elle est vécue.
 
-Trois jours.  
-Toujours trois jours.
-
-Le texte ne dit pas : “Jonas survit”.  
-Il dit : “Jonas traverse”.
+Jonas est la mécanique du Fils en mode narratif.  
+Le Christ en est l’accomplissement.
 
 La traversée est la mécanique :
 
-- dissolution,  
-- gestation,  
-- reconfiguration.
+    dissolution,  
 
-Jonas ressort comme l’Arche après les eaux :  
-non pas indemne, mais **reconfiguré**.
+    gestation,  
+
+    résurgence.  
+
+Jonas ne ressort pas indemne.  
+Il ressort rendu à la vie.
+
+Pas une reconfiguration.  
+Une résurrection figurée :  
+la descente, la nuit, les trois jours, la réouverture.
+
+Jonas vit la résurrection en motif.  
+Le Christ en vit l’accomplissement.
+
 
 ## Jésus : le signe de Jonas
 
@@ -85,10 +93,10 @@ Jésus dit :
 Ce n’est pas une comparaison morale.  
 C’est une comparaison structurelle.
 
-Jésus dit :  
-**Ma traversée = la traversée de Jonas.  
+Jésus dit :
+Ma traversée = la traversée de Jonas.  
 Ma matrice = la matrice de Jonas.  
-Ma reconfiguration = la reconfiguration de Jonas.**
+Ma résurrection = la résurrection figurée de Jonas.
 
 Jonas est l’Arche intérieure.  
 Le Christ en est l’accomplissement.
