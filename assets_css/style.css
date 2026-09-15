@@ -2025,25 +2025,29 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   margin-top: 4px;
 }
 
-/* Mise en page horizontale pour texte + miniature */
+/* Mise en page horizontale pour texte + miniature dans les textes qui résonnent*/
 .capsule-item {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 1.2rem 1.4rem; /* capsule plus grande */
 }
 
 /* Contenu texte à gauche */
 .capsule-content {
   flex: 1;
+  min-width: 0; /* évite les débordements du texte */
 }
 
 /* Miniature à droite */
 .capsule-thumb {
-  width: 70px;
-  height: 70px;
+  width: 90px;
+  height: 90px;
   object-fit: cover;
   border-radius: 6px;
   margin-left: 1rem;
+  flex-shrink: 0; /* empêche l’image de se réduire */
 }
+
 
 
