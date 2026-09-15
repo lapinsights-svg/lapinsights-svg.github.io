@@ -113,6 +113,7 @@ include:
 # Fichiers à conserver
 keep_files:
   - assets_css
+  
+# full rebuild
 
-  # rebuild
 
