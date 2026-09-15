@@ -1,7 +1,7 @@
 ---
-categories: spiritualite
 date: 2026-09-15
 title: "Jonas, une matrice"
+categories: spiritualite
 episode: "Lecture structurelle de la Bible"
 resume: "Jonas ou la mécanique du Déluge : une matrice, une traversée, une dissolution, une reconfiguration."
 layout: article
