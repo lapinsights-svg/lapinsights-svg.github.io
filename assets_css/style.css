@@ -2025,7 +2025,8 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   margin-top: 4px;
 }
 
-/* Mise en page horizontale pour texte + miniature dans les textes qui résonnent*/
+/* Mise en page horizontale pour texte + miniature dans les textes qui résonnent */
+.capsule-item {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -2042,11 +2043,9 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
 .capsule-thumb {
   width: 40px;
   height: 40px;
-
   object-fit: cover;      /* coupe l’image dans le cadre */
   border-radius: 4px;
   margin-left: 0.8rem;
-
   flex-shrink: 0;         /* l’image ne se déforme pas */
   display: block;         /* empêche l’étirement inline */
   overflow: hidden;       /* coupe tout débordement */
