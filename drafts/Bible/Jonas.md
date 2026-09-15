@@ -5,7 +5,10 @@ title: "La structure intérieure de la Bible"
 episode: "Jonas : la matrice intérieure"
 resume: "Jonas rejoue la mécanique du Déluge : une matrice, une traversée, une dissolution, une reconfiguration. Jésus en fait son propre signe."
 layout: article
+og_image: /statics/images/spiritualite/jonas.webp
 ---
+
+![eden](/statics/images/spiritualite/jonas.webp)
 
 # Jonas : la matrice intérieure
 
