@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Armes climatiques : ce que le récit prétend, ce que le réel dément"
-date: 2026-08-14
+date: 2026-09-15
 categories: idees
 tags: ["climat", "science", "désinformation", "HAARP", "météorologie", "sismologie"]
 og_image: /statics/images/idees/armesclimat.webp
@@ -232,7 +232,7 @@ Influencer un nuage n’est pas contrôler un continent.
 
 ## Barium, aluminium, chemtrails : poussières, pollution, fantasmes
 
-Météo-France explique les traînées :  
+Météo-France explique les traînées des avions :  
 https://meteofrance.com/actualites-et-dossiers/les-trainees-de-condensation
 
 Ce sont des cristaux de glace.  
@@ -306,7 +306,7 @@ Aucune technologie humaine ne peut produire une magnitude 9.
 
 ---
 
-## Synthèse verticale
+## Synthèse 
 
 Stormfury a montré l’impuissance humaine face aux ouragans.  
 Popeye a montré la petitesse des interventions locales.  
@@ -327,5 +327,4 @@ Elle n’est pas programmable.
 Elle n’est pas manipulable.
 
 Cet article est une critique directe de la vidéo.  
-Il ne révèle pas un complot.  
 Il révèle une difficulté à accepter la puissance brute du réel.
