@@ -2042,10 +2042,10 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   min-width: 0; /* indispensable */
 }
 
-/* Miniature à droite — version icône stricte */
+/* Miniatures des capsules — taille doublée */
 .capsule-thumb {
-  width: 40px !important;
-  height: 40px !important;
+  width: 80px;
+  height: 80px;
   object-fit: cover;
   border-radius: 4px;
   margin-left: 0.8rem;
@@ -2053,6 +2053,7 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   display: block;
   overflow: hidden;
 }
+
 
 
 
