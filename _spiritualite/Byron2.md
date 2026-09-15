@@ -17,6 +17,7 @@ réalité devient un dogme.
 Le Travail de Byron Katie appartient à cette catégorie de dispositifs. Derrière la simplicité
 apparente des quatre questions se déploie une technologie de l’esprit qui reconfigure la
 manière même dont un individu peut percevoir, interpréter, juger, souffrir, résister.
+
 # 1. Généalogie des gourous modernes
 
 Les figures spirituelles contemporaines émergent dans un contexte où la quête de sens  
