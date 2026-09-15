@@ -65,23 +65,23 @@ la traversée n’est plus figurée, elle est vécue.
 Jonas est la mécanique du Fils en mode narratif.  
 Le Christ en est l’accomplissement.
 
+## La traversée
+
 La traversée est la mécanique :
 
-    dissolution,  
-
-    gestation,  
-
-    résurgence.  
+- dissolution,  
+- gestation,  
+- résurgence.  
 
 Jonas ne ressort pas indemne.  
-Il ressort rendu à la vie.
+Il ressort **rendu à la vie**.
 
 Pas une reconfiguration.  
-Une résurrection figurée :  
+Une **résurrection figurée** :  
 la descente, la nuit, les trois jours, la réouverture.
 
-Jonas vit la résurrection en motif.  
-Le Christ en vit l’accomplissement.
+Jonas vit la résurrection **en motif**.  
+Le Christ en vit **l’accomplissement**.
 
 
 ## Jésus : le signe de Jonas
