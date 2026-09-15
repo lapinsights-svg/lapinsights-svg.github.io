@@ -2028,32 +2028,6 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   margin-top: 4px;
 }
 
-/* Mise en page horizontale pour texte + miniature dans les textes qui résonnent */
-.capsule-item {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0.6rem 1rem; /* capsule plus compacte */
-}
-
-/* Contenu texte à gauche */
-.capsule-content {
-  flex: 1;
-  min-width: 0; /* indispensable */
-}
-
-/* Miniatures des capsules — taille doublée */
-.capsule-thumb {
-  width: 80px;
-  height: 80px;
-  object-fit: cover;
-  border-radius: 4px;
-  margin-left: 0.8rem;
-  flex-shrink: 0;
-  display: block;
-  overflow: hidden;
-}
-
 
 
 
