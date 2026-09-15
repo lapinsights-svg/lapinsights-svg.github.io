@@ -91,6 +91,21 @@ title: "Les textes qui résonnent"
 </div>
 
 <style>
+/* Empêcher les règles globales d'écraser les miniatures */
+.article-body img:not(.capsule-thumb) {
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 2em auto;
+}
+
+.article-content img:not(.capsule-thumb) {
+  max-width: 100%;
+  margin: 1.5rem 0;
+  border-radius: 0.4rem;
+}
+
 /* TITRE — pulsation + onde circulaire + centrage parfait */
 .essentiels-title {
   font-size: 2rem;
@@ -203,7 +218,7 @@ title: "Les textes qui résonnent"
   font-weight: 300;
   opacity: 0.9;
 }
-  
+
 /* Miniature à droite — version icône stricte */
 .capsule-thumb {
   width: 40px;
@@ -216,3 +231,4 @@ title: "Les textes qui résonnent"
   overflow: hidden;
 }
 </style>
+
