@@ -2030,23 +2030,24 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.9rem 1.2rem; /* capsule légèrement réduite */
+  padding: 0.9rem 1.1rem; /* capsule plus compacte */
 }
 
 /* Contenu texte à gauche */
 .capsule-content {
   flex: 1;
-  min-width: 0;
+  min-width: 0; /* indispensable pour éviter l’écrasement */
 }
 
 /* Miniature à droite — version compacte */
 .capsule-thumb {
-  width: 45px;
-  height: 45px;
+  width: 40px;      /* miniature vraiment petite */
+  height: 40px;
   object-fit: cover;
-  border-radius: 4px; /* plus petit = plus discret */
+  border-radius: 4px;
   margin-left: 0.8rem;
-  flex-shrink: 0;
+
+  flex-shrink: 0;   /* empêche l’image de se réduire ou de s’étirer */
 }
 
 
