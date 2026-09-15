@@ -1,2 +1,5 @@
+pages_build_command = "jekyll build"
+pages_build_output_dir = "_site"
+
 [build]
   cache = true
