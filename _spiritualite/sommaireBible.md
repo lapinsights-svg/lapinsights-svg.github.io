@@ -44,7 +44,7 @@ Ces fichiers préparent la lecture structurelle de la Bible.
 ## III. Narration biblique — plaques 1 à 7  
 - Genèse / Eden — [eden](https://lapinsights.org/spiritualite/eden/)   Eden2 version pédagogique - [Eden2](https://lapinsights.org/spiritualite/Eden2/) 
 - Déluge   [deluge](https://lapinsights.org/spiritualite/deluge/)
-- Jonas  
+- Jonas    [Jonas](https://lapinsights.org/spiritualite/Jonas/)
 - Abraham  
 - Babel  
 - Israël  
