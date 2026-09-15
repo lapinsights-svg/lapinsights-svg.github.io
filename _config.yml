@@ -114,5 +114,5 @@ include:
 keep_files:
   - assets_css
 
-  # force rebuild
+  # rebuild
 
