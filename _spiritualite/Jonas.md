@@ -3,7 +3,7 @@ date: 2026-09-15
 title: "Jonas, une matrice"
 categories: spiritualite
 episode: "Lecture structurelle de la Bible"
-resume: "Jonas ou la mécanique du Déluge : une matrice, une traversée, une reconfiguration."
+resume: "Jonas ou la mécanique du Déluge : une matrice, une traversée, une résurgence."
 layout: article
 og_image: /statics/images/spiritualite/jonas.webp
 ---
@@ -15,7 +15,7 @@ og_image: /statics/images/spiritualite/jonas.webp
 Jonas n’est pas un récit moral.  
 Il n’est pas une histoire de fuite, de désobéissance ou de punition.  
 Il rejoue la même mécanique que le Déluge :  
-une dissolution, une matrice, une traversée, une reconfiguration.
+une dissolution, une matrice, une traversée, une résurgence.
 
 Le “poisson” n’est pas un animal.  
 C’est une **matrice intérieure**.
@@ -83,7 +83,6 @@ la descente, la nuit, les trois jours, la réouverture.
 Jonas vit la résurrection **en motif**.  
 Le Christ en vit **l’accomplissement**.
 
-
 ## Jésus : le signe de Jonas
 
 Jésus dit :  
@@ -93,7 +92,7 @@ Jésus dit :
 Ce n’est pas une comparaison morale.  
 C’est une comparaison structurelle.
 
-Jésus dit :
+Jésus dit :  
 Ma traversée = la traversée de Jonas.  
 Ma matrice = la matrice de Jonas.  
 Ma résurrection = la résurrection figurée de Jonas.
@@ -126,7 +125,7 @@ Il est une **structure de traversée**.
 Jonas rejoue le Déluge.  
 Le poisson rejoue l’Arche.  
 La traversée rejoue la dissolution.  
-La sortie rejoue la reconfiguration.
+La sortie rejoue la résurgence.
 
 Jonas est la matrice intérieure.  
 Le Christ en est le signe et l’accomplissement.
@@ -137,7 +136,6 @@ Une seule structure.
 
 ---
 Céleste R.
-
 
 Retour au sommaire :  
 [Sommaire structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
