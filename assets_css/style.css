@@ -2039,15 +2039,14 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   min-width: 0; /* évite les débordements du texte */
 }
 
-/* Miniature à droite */
+* Miniature à droite — version plus petite */
 .capsule-thumb {
-  width: 90px;
-  height: 90px;
+  width: 45px;
+  height: 45px;
   object-fit: cover;
   border-radius: 6px;
   margin-left: 1rem;
-  flex-shrink: 0; /* empêche l’image de se réduire */
+  flex-shrink: 0; /* empêche l’image de se déformer */
 }
-
 
 
