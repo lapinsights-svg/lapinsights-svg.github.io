@@ -80,11 +80,11 @@ title: "Les textes qui résonnent"
     <h2 class="capsule-title">
       <a href="/creations/chiron/">Chiron</a>
     </h2>
-    <p="capsule-summary">Une création autour de la blessure, de la guérison et des paradoxes de Chiron.</p>
+    <p class="capsule-summary">Une création autour de la blessure, de la guérison et des paradoxes de Chiron.</p>
     <p style="font-size:0.8rem;color:#555;margin-top:0.3rem;">Vues : 4</p>
   </div>
 
-  <!-- Pas de vues données (je laisse sans compteur) -->
+  <!-- Pas de vues données -->
   <div class="capsule-item">
     <h2 class="capsule-title">
       <a href="/idees/mondialisme/">Mondialisme</a>
@@ -101,16 +101,13 @@ title: "Les textes qui résonnent"
   margin: 0 auto 0.2rem auto;
   display: block;
   width: fit-content;
-
   letter-spacing: -0.6px;
   text-align: center;
   font-weight: 500;
   color: #1a1a1a;
   text-shadow: 0 0 6px rgba(200, 191, 176, 0.25);
-
   padding: 0.6rem 1.4rem;
   border-radius: 16px;
-
   animation: fremissement 9s ease-out, onde 9s ease-out;
 }
 
@@ -235,91 +232,3 @@ title: "Les textes qui résonnent"
   }
 }
 </style>
-
-<script>
-/* --- 1. Récupération des articles générés par Jekyll --- */
-async function getArticlesData() {
-  return fetch("/articles.json").then(r => r.json());
-}
-
-/* --- 2. Normalisation des slugs pour correspondance parfaite --- */
-function normalizeForMatching(str) {
-  return str
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")   // accents
-    .replace(/\.md$/, "")              // retire .md
-    .trim();
-}
-
-/* --- 3. Extraction du slug pur depuis KV --- */
-function extractPureSlug(workerSlug) {
-  const collections = [
-    "actualites", "idees", "spiritualite",
-    "creations", "passe", "vibrations"
-  ];
-
-  const normalizedWorker = normalizeForMatching(workerSlug);
-
-  for (const coll of collections) {
-    const prefix = coll.toLowerCase();
-
-    if (normalizedWorker.startsWith(prefix + "-")) {
-      return normalizedWorker.substring(prefix.length + 1);
-    }
-
-    if (normalizedWorker.startsWith(prefix + "/")) {
-      return normalizedWorker.substring(prefix.length + 1);
-    }
-  }
-
-  return normalizedWorker;
-}
-
-/* --- 4. Chargement des stats + correspondance avec les articles.json --- */
-async function loadStats() {
-  const stats = await fetch("https://lapinsights-stats.lapinsights.workers.dev/stats")
-    .then(r => r.json());
-
-  const articles = await getArticlesData();
-  const container = document.getElementById("stats");
-
-  const articleMap = {};
-  for (const article of articles) {
-    const normalized = normalizeForMatching(article.slug);
-    articleMap[normalized] = article;
-  }
-
-  for (const item of stats) {
-    const workerSlug = item.slug || "";
-    const count = item.count || 0;
-
-    const pureSlug = extractPureSlug(workerSlug);
-    const normalized = normalizeForMatching(pureSlug);
-
-    const article = articleMap[normalized];
-
-    if (!article) {
-      console.log("❌ ARTICLE NON TROUVÉ");
-      console.log("   workerSlug :", workerSlug);
-      console.log("   pureSlug   :", pureSlug);
-      console.log("   normalized :", normalized);
-      console.log("   slugs disponibles :", Object.keys(articleMap));
-      continue;
-    }
-
-    const div = document.createElement("div");
-    div.className = "capsule-item";
-
-    div.innerHTML = `
-      <h2 class="capsule-title"><a href="${article.url}">${article.title}</a></h2>
-      ${article.resume ? `<p class="capsule-summary">${article.resume}</p>` : ""}
-      <p style="font-size:0.8rem;color:#555;margin-top:0.3rem;">Vues : ${count}</p>
-    `;
-
-    container.appendChild(div);
-  }
-}
-
-loadStats();
-</script>
