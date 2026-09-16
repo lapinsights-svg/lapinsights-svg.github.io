@@ -10,7 +10,10 @@ tags:
   - ontologie
   - solipsisme
   - spiritualité
+og_image: /statics/images/spiritualite/unite.webp
 ---
+
+![unite](/statics/images/spiritualite/unite.webp)
 
 # De l’humanisme à la psychologie spirituelle : comment l’introspection a dévoyé Un Cours en Miracles
 
