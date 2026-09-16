@@ -76,9 +76,9 @@ Le monde devient une projection psychologique avant même que la psychologie n�
 
 ---
 
-## IV. Psychologie humaniste : la dérive devient méthode
+## 4- Psychologie humaniste : la dérive devient méthode
 
-Au 20è siècle, **Carl Rogers** et **Abraham Maslow** reprennent la logique humaniste et la transforment en méthode.  
+Au 20e siècle, **Carl Rogers** et **Abraham Maslow** reprennent la logique humaniste et la transforment en méthode.  
 L’intériorité devient vérité.  
 L’expérience subjective devient preuve.  
 L’authenticité devient ontologie.
@@ -87,16 +87,16 @@ Rogers :
 [https://fr.wikipedia.org/wiki/Carl_Rogers](https://fr.wikipedia.org/wiki/Carl_Rogers)
 
 Et la généalogie devient décisive :  
-**Carl Rogers est l’enseignant direct de Bill Thetford**, psychologue à Columbia.  
-Thetford forme Helen Schucman.  
-Schucman écrit *Un Cours en Miracles*.
+**Carl Rogers est l’enseignant direct de Bill Thetford**, psychologue à Columbia.   
+Schucman écrit *Un Cours en Miracles*.  
+Thetford, formé par Rogers, collabore étroitement avec Schucman.
 
 La psychologie humaniste entre dans le Cours **avant même sa rédaction**.  
 Elle structure le cadre mental des auteurs.  
 Elle colore leur compréhension du réel.  
 Elle prépare la dérive future.
 
-Ce n’est pas un accident : c’est une filiation.
+Ce n’est pas un accident, c’est une filiation.
 
 ---
 
@@ -139,7 +139,7 @@ Le résultat :
 - “travailler sur soi”.
 
 Exactement ce que le texte interdit :  
-> « L’ego analyse, l’Esprit accepte. »
+> "L’ego analyse, l’Esprit accepte."
 
 Wapnick ne déforme pas le Cours par accident.  
 Il le déforme par formation.  
