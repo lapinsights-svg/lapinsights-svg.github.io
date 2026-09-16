@@ -21,7 +21,6 @@ og_image: /statics/images/spiritualite/unite.webp
 
 Il existe, dans l’histoire intellectuelle occidentale, un glissement profond : un déplacement du réel vers l’individu.  
 Ce glissement commence au 14è siècle, s’installe avec l’humanisme, se systématise avec la psychologie humaniste, et se répand aujourd’hui dans la spiritualité contemporaine.  
-Il n’est pas un événement : il est une structure.
 
 À chaque étape, la même opération se répète :  
 le monde cesse d’être un horizon, il devient un décor ;  
