@@ -132,6 +132,10 @@ Il applique Rogers au Cours.
 Il transforme une ontologie en méthode cognitive.  
 Il ramène la non-dualité au niveau de l’ego.
 
+Wapnick reproduit la dérive humaniste : 
+il relègue la réalité ontologique au profit de la psychologie,  
+et ramène la projection réelle dans la fracture au niveau du mental.
+
 Le résultat :  
 - observer ses pensées,  
 - analyser ses émotions,  
