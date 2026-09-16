@@ -107,7 +107,7 @@ Il n’est pas humaniste.
 Il n’est pas introspectif.
 
 Structurellement, il dit :  
-- le monde est une projection ontologique,  
+- Le monde est fait, non créé : réel phénoménalement, irréel ontologiquement. 
 - l’ego est une erreur de niveau,  
 - la séparation n’a jamais eu lieu,  
 - la guérison est un changement de perception,  
