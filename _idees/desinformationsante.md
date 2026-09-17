@@ -16,7 +16,7 @@ Le **rapport sur la désinformation en santé**, remis au ministère en janvier 
 [Télécharger le rapport (PDF)](https://www.maisondeskines.com/_upload/ressources/ka/pdf/rapport_desinformation_en_sante.pdf)
 
 Ce document de 68 pages est présenté comme un diagnostic national et une stratégie pour lutter contre la désinformation.  
-Mais sa lecture attentive révèle tout autre chose : **un rapport non scientifique**, construit sur des **entretiens non vérifiables**,  
+Mais sa lecture attentive révèle tout autre chose : **un rapport non scientifique**
 et destiné à **justifier des mesures politiques restrictives**.
 
 Ce texte n’est pas un travail de science.  
