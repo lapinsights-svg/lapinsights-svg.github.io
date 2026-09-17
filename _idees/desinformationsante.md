@@ -17,7 +17,7 @@ Le **rapport sur la désinformation en santé**, remis au ministère en janvier 
 
 Ce document de 68 pages est présenté comme un diagnostic national et une stratégie pour lutter contre la désinformation.  
 Mais sa lecture attentive révèle tout autre chose : **un rapport non scientifique**, construit sur des **entretiens non vérifiables**,  
-rédigé en partie par des **IA**, et destiné à **justifier des mesures politiques restrictives**.
+et destiné à **justifier des mesures politiques restrictives**.
 
 Ce texte n’est pas un travail de science.  
 C’est un **instrument de gouvernance de l’information**.
