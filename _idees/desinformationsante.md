@@ -96,12 +96,13 @@ Le rapport dramatise pour justifier des mesures coercitives.
 
 Sous couvert de “lutte contre la désinformation”, le rapport propose de :
 
-- **sanctionner les désinformateurs**  
-- **contrôler les associations**  
-- **renforcer la régulation des médias**  
-- **créer un système d’infovigilance**  
-- **déployer un Info‑Score Santé**  
-- **traiter les plateformes comme des médias soumis à une politique éditoriale**
+- sanctionner les désinformateurs    
+- contrôler les associations.   
+- renforcer la régulation des médias    
+- créer un système d’infovigilance   
+- déployer un Info‑Score Santé   
+- traiter les plateformes comme des médias soumis à une politique éditoriale
+  
 
 Ce sont des **mesures de restriction de la parole publique**, pas des conclusions scientifiques.
 
