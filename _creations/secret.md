@@ -9,7 +9,7 @@ tags:
   - mouvement
   - introspection
   - rita-mitsouko
-resume: "Sur ce qui pousse à partir alors que tout semble déjà là."
+resume: "Ce qui pousse à partir alors que tout semble déjà là."
 og_image: "/statics/images/creations/ça.webp"
 ---
 
