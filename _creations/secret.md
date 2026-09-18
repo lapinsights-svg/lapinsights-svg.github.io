@@ -83,7 +83,7 @@ Nous appelons cela liberté.
 
 Nous lui donnons beaucoup de noms afin d'éviter de reconnaître qu'il nous dépasse.
 
-Le secret continue pourtant son travail.
+Le secret continue pourtant à déambuler.
 
 Invisible.
 
