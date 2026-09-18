@@ -10,10 +10,10 @@ tags:
   - introspection
   - rita-mitsouko
 resume: "Ce qui pousse à partir alors que tout semble déjà là."
-og_image: "/statics/images/creations/ça.webp"
+og_image: "/statics/images/creations/ca.webp"
 ---
 
-![ça](/statics/images/creations/ça.webp)
+![ca](/statics/images/creations/ca.webp)
 
 Quelque chose marche dans les murs.
 
