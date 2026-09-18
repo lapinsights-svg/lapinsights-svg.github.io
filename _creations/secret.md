@@ -1,5 +1,5 @@
 ---
-title: "Ce secret, hommage à Catherine Ringer"
+title: "Ce secret, hommage"
 date: 2026-09-18
 categories: creations
 layout: article
