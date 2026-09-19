@@ -561,81 +561,45 @@ La maladie.
 
 La captivité.
 
-Toutes ces réalités mettent à nu ce que le reste de la création dissimule encore.
-
-Le Christ désigne le plus petit comme un lieu de révélation.
-
-Le lieu où la blessure du Fils étendu apparaît à découvert.
-
-"Toutes les nations seront rassemblées devant lui."
-
-Le sujet final n'est donc pas le plus petit.
-
-Le sujet final est la totalité du Fils étendu.
+À travers lui, le Fils concentré révèle l'état du Fils étendu tout entier.
 
 Le plus petit devient la porte.
 
 Les nations deviennent le miroir.
 
-Et le Fils concentré révèle l'un à travers l'autre.
+Et le jugement cesse d'être un verdict.
 
-La séparation apparaît.
+Il devient un dévoilement.
 
-La filiation demeure.
+Le Christ ne révèle pas seulement la blessure.
 
-Le jugement révèle alors ce qui a toujours été vrai :
-
-aucune faim,
-
-aucune prison,
-
-aucun exil,
-
-aucune blessure,
-
-aucune profondeur,
-
-aucune hauteur,
-
-aucune séparation apparente
-
-n'a jamais pu rompre la filiation.
-
-Le Christ était là depuis le commencement.
-
-Dans chaque fragment.
-
-Dans chaque blessure.
-
-Dans chaque être.
-
-Le Royaume commence lorsque cette présence est reconnue.
-
-Le salut n'ajoute rien à la filiation.
-
-Il révèle ce qui n'avait jamais cessé d'être vrai.
-
-La lumière n'invente pas le Fils.
-
-Elle le manifeste.
-
-Et la guérison n'est pas la création d'une unité nouvelle.
-
-Elle est la fin de la croyance en la séparation.
-
- 
-Alors le Fils étendu se reconnaît lui-même.
-
-Et ce qui paraissait dispersé retrouve son axe.
-
-Le Royaume devient visible.
-
-La séparation cesse d'être crue.
+Il révèle aussi ce qui n'a jamais été blessé.
 
 La filiation demeure.
+
+Aucune faim.
+
+Aucune prison.
+
+Aucun exil.
+
+Aucune séparation apparente n'a jamais pu la rompre.
+
+Jésus manifeste une perception entièrement guérie.
+
+Une perception qui reconnaît le même Fils dans chaque être,
+
+dans chaque blessure,
+
+dans chaque fragment.
+
+Lorsque cette présence est reconnue,
+
+le Royaume devient visible.
+
+Alors ce qui paraissait dispersé retrouve son axe.
 
 Et ce qui était vrai depuis le commencement apparaît à découvert.
-
 ---
 
 Céleste R.
