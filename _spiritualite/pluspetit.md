@@ -492,21 +492,23 @@ Aucun exil.
 
 Aucune séparation apparente n'a jamais pu la rompre.
 
-Jésus manifeste une perception entièrement guérie.
+Le Christ ne dit pas :
 
-Une perception qui reconnaît le même Fils dans chaque être,
+"Reconnaissez-moi chez les grands."
 
-malgré chaque blessure,
+Il dit :
 
-malgré chaque apparence de séparation.
+"Reconnaissez-moi chez les plus petits."
 
-Lorsque cette présence est reconnue,
+Autrement dit :
 
-le Royaume devient visible.
+reconnaissez la filiation là où elle paraît la plus rompue.
 
-Alors ce qui paraissait dispersé retrouve son axe.
+Là où la séparation semble avoir gagné.
 
-Et ce qui était vrai depuis le commencement apparaît à découvert.
+Là où l'unité paraît absente.
+
+Là où le Fils semble le plus caché.
 
 ---
 
