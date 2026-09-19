@@ -290,7 +290,7 @@ Il désigne les mouvements du Fils étendu qui prennent la séparation pour la r
 
 Ce texte n'appartient pas seulement au premier siècle.
 
-Il continue de se montrer dans l'actualité.
+Il continue de se montrer dans l'histoire humaine.
 
 Récemment, à Carcassonne, plusieurs événements ont provoqué une forte réaction publique.
 
@@ -298,7 +298,17 @@ Une vidéo a montré un policier tenant des propos racistes.
 
 Une autre a montré un policier jetant violemment au sol un homme sans domicile.
 
-La lecture structurelle voit le Fils étendu devenu visible.
+La lecture habituelle voit immédiatement des rôles.
+
+Une victime.
+
+Un coupable.
+
+Une opposition.
+
+La lecture structurelle regarde plus profondément.
+
+Elle voit le Fils étendu devenu visible.
 
 Une fracture apparaît.
 
@@ -311,6 +321,8 @@ L'indignation manifeste la séparation sous la forme de la réaction.
 Les récits qui s'affrontent manifestent la séparation sous la forme de la dispersion.
 
 La scène entière devient une image du Fils étendu.
+
+Cela ne supprime ni la responsabilité ni la nécessité de protéger celui qui est blessé.
 
 Mais le cœur du texte n'est pas la faute.
 
@@ -336,7 +348,13 @@ Le plus petit devient la porte.
 
 À travers lui, le Fils concentré dévoile l'état du Fils étendu tout entier.
 
-Le plus petit est le lieu où l'apparence de séparation est la plus visible et où la présence du Fils doit être reconnue.  
+Il ne révèle pas seulement la blessure.
+
+Il révèle aussi que la blessure n'a jamais détruit la filiation.
+
+Le plus petit est le lieu où l'apparence de séparation est la plus visible.
+
+Et où la présence du Fils doit être reconnue.
 
 ---
 
