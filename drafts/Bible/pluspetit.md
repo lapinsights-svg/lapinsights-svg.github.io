@@ -19,6 +19,14 @@ og_image: /statics/images/spiritualite/plus_petits.webp
 # Les Plus Petits  
 ## Le Fils caché dans les fragments dispersés  
 
+### Texte étudié
+
+Évangile selon Matthieu 25,31-46. 
+
+"Chaque fois que vous l'avez fait à l'un de ces plus petits de mes frères, c'est à moi que vous l'avez fait."  
+
+---
+
 Ce passage constitue l'un des dévoilements les plus profonds de l'enseignement de Jésus.  
 
 Il ne décrit pas d'abord un jugement futur.  
