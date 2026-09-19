@@ -44,16 +44,11 @@ Elle rejoue :
 Jonas vit le Déluge **en lui**.
 
 La traversée ne détruit pas Jonas.  
-
 Elle ne détruit pas davantage la filiation.  
-
 La séparation apparaît.  
-
 La filiation demeure.  
-
 La descente ne rompt pas le lien.  
-
-Elle le rend invisible.
+Elle le met à l'épreuve de la traversée.
 
 
 ## La matrice
