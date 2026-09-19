@@ -16,7 +16,7 @@ tags:
 og_image: /statics/images/spiritualite/pluspetit.webp
 ---
 
-![pluspetit](/statics/images/spiritualite/pluspetit.webp
+/statics/images/spiritualite/pluspetit.webp
 
 # Les Plus Petits  
 ## Le Fils caché dans les fragments dispersés  
@@ -31,8 +31,6 @@ og_image: /statics/images/spiritualite/pluspetit.webp
 
 Ce passage constitue l'un des dévoilements les plus profonds de l'enseignement de Jésus.  
 
-Il ne décrit pas d'abord un jugement futur.  
-
 Il révèle le moment où le Fils concentré met en lumière la condition du Fils étendu.  
 
 Les brebis et les boucs ne représentent pas deux humanités différentes.  
@@ -41,7 +39,7 @@ Ils montrent deux orientations possibles d'une même création.
 
 L'une demeure ouverte à l'axe.  
 
-L'autre reste enfermée dans la séparation.  
+L'autre demeure enfermée dans la séparation.  
 
 À travers ce discours, Jésus révèle que toute rencontre avec la fragmentation du monde est déjà une rencontre avec lui-même.  
 
@@ -50,17 +48,13 @@ L'autre reste enfermée dans la séparation.
 ## Le rassemblement des nations  
 
 Lorsque Jésus parle des brebis et des boucs,  
-il ne décrit pas un tribunal futur.  
-
-Il montre une structure.  
+il montre une structure.  
 
 Le Fils concentré regarde le Fils étendu.  
 
 "Toutes les nations seront rassemblées devant lui."  
 
-Les nations ne sont pas seulement des peuples.  
-
-Elles représentent la dispersion.  
+Les nations représentent la dispersion.  
 
 La multiplicité.  
 
@@ -74,9 +68,7 @@ Le rassemblement marque le moment où l'étendue revient devant son origine.
 
 ## Le jugement comme discernement  
 
-Le jugement n'est pas une condamnation.  
-
-Il est une révélation.  
+Le jugement est une révélation.  
 
 Une séparation.  
 
@@ -92,9 +84,7 @@ Le Fils distingue ce qui demeure relié à l'axe de ce qui reste enfermé dans l
 
 "Il séparera les hommes les uns des autres."  
 
-La séparation n'est pas morale.  
-
-Elle est structurelle.  
+La séparation est structurelle.  
 
 Deux densités deviennent visibles.  
 
@@ -106,29 +96,23 @@ L'autre se replie sur elle-même.
 
 Cette lecture prolonge celle d'Éden.  
 
-Dans Éden, la chute n'est pas un châtiment.  
-
-Elle est la description de ce que devient la densité lorsque la polarité s'ouvre.  
+Dans Éden, la chute est la description de ce que devient la densité lorsque la polarité s'ouvre.  
 
 Le récit utilise les images du jardin, du serpent, de l'expulsion et de la malédiction pour rendre visible une transformation intérieure.  
 
-De la même manière, Matthieu ne décrit pas nécessairement une condamnation infligée de l'extérieur.  
-
-Il décrit ce qui apparaît lorsque la séparation devient visible.  
+De la même manière, Matthieu décrit ce qui apparaît lorsque la séparation devient visible.  
 
 Le langage du roi, du tribunal, des brebis, des boucs, du feu et du jugement donne une forme narrative à une réalité plus profonde.  
 
-Le jugement n'est pas un châtiment.  
+Le jugement est la description de ce que devient la densité lorsque la séparation devient visible.  
 
-Il est la description de ce que devient la densité lorsque la séparation devient visible.  
-
-Dans Éden, la séparation commence.  
+Dans Éden, la séparation apparaît.  
 
 Dans Matthieu, la séparation est dévoilée.  
 
 Dans l'Apocalypse, la séparation est guérie.  
 
-Les trois récits décrivent ainsi différentes étapes d'un même mouvement du Fils étendu par rapport à son axe.  
+Les trois récits décrivent différentes étapes d'un même mouvement du Fils étendu.  
 
 ---
 
@@ -136,9 +120,7 @@ Les trois récits décrivent ainsi différentes étapes d'un même mouvement du 
 
 "J'avais faim."  
 
-La faim n'est pas seulement celle du corps.  
-
-Elle est le signe d'un manque intérieur.  
+La faim est le signe d'un manque.  
 
 Une rupture dans la circulation.  
 
@@ -146,9 +128,7 @@ Un fragment du Fils étendu appelle la réunion.
 
 "J'avais soif."  
 
-La soif n'est pas seulement celle de l'eau.  
-
-Elle est le signe d'un éloignement de la source.  
+La soif est un éloignement de la source.  
 
 Une densité qui ne perçoit plus son origine.  
 
@@ -162,9 +142,7 @@ C'est pourquoi Jésus ajoute :
 
 "Vous m'avez donné à boire."  
 
-Donner à boire ne signifie pas seulement répondre à un besoin matériel.  
-
-Cela signifie rétablir une circulation interrompue.  
+Donner à boire signifie rétablir une circulation interrompue.  
 
 Permettre à la source de rejoindre ce qui semblait séparé.  
 
@@ -172,13 +150,13 @@ Reconnaître le Fils là où il apparaît sous la forme du manque.
 
 Répondre à l'appel de la filiation lorsqu'elle cherche à retrouver son origine.  
 
-Ce qui est abreuvé n'est pas seulement une personne.  
+Ce qui est abreuvé n'est pas l'individu.  
 
-C'est le lien lui-même.  
+C'est le lien.  
 
-La circulation elle-même.  
+C'est la circulation.  
 
-La filiation elle-même.  
+C'est la filiation elle-même.  
 
 "J'étais un étranger."  
 
@@ -222,7 +200,7 @@ Le cœur du passage se trouve dans une seule phrase :
 
 Le Christ ne dit pas :  
 
-"J'étais séparé de mon Père."  
+"J'étais séparé du Père."  
 
 Il dit :  
 
@@ -237,6 +215,18 @@ Dans la maladie.
 Dans la prison.  
 
 La séparation apparaît.  
+
+La filiation demeure.  
+
+La faim apparaît.  
+
+La filiation demeure.  
+
+L'exil apparaît.  
+
+La filiation demeure.  
+
+La prison apparaît.  
 
 La filiation demeure.  
 
@@ -256,9 +246,7 @@ Non comme un individu caché.
 
 Comme la filiation elle-même.  
 
-C'est pourquoi servir le plus petit ne consiste pas seulement à aider un être séparé.  
-
-C'est reconnaître le Fils là où la séparation semble pourtant évidente.  
+Servir le plus petit consiste à reconnaître le Fils là où la séparation semble pourtant évidente.  
 
 ---
 
@@ -298,9 +286,7 @@ Une vidéo a montré un policier tenant des propos racistes.
 
 Une autre a montré un policier jetant violemment au sol un homme sans domicile.  
 
-La lecture structurelle ne s'arrête pas aux individus.  
-
-Elle voit le Fils étendu devenu visible.  
+La lecture structurelle voit le Fils étendu devenu visible.  
 
 L'événement agit comme une révélation.  
 
@@ -318,25 +304,63 @@ La polarisation manifeste la séparation sous la forme de l'opposition.
 
 Les récits qui s'affrontent manifestent la séparation sous la forme de la dispersion.  
 
-La scène entière devient alors une image du Fils étendu.  
+La scène entière devient une image du Fils étendu.  
 
-Le Christ ne révèle pas seulement l'état d'un homme.  
-
-Il révèle l'état d'une structure.  
+Le Christ révèle l'état d'une structure.  
 
 Le plus petit devient le lieu où la blessure apparaît à la surface.  
 
 À travers lui, la condition de l'ensemble devient visible.  
 
+La lecture structurelle ne voit donc pas seulement un homme sans domicile et un policier.  
+
+Elle voit le Fils étendu devenu visible.  
+
+L'événement agit comme une révélation.  
+
+Une fracture apparaît.  
+
+Puis cette fracture se manifeste dans l'ensemble du corps.  
+
+Le sans-abri manifeste la séparation sous la forme du manque.  
+
+Le policier manifeste la séparation sous la forme de la fermeture.  
+
+L'indignation manifeste la séparation sous la forme de la réaction.  
+
+Les prises de position manifestent la séparation sous la forme de la polarisation.  
+
+Les récits qui s'affrontent manifestent la séparation sous la forme de la dispersion.  
+
+Le Christ ne révèle pas seulement l'état d'un homme.  
+
+Il révèle l'état d'une structure.  
+
+Le plus petit n'indique pas un être différent du reste.  
+
+Il indique l'endroit où la blessure devient visible.  
+
+À travers lui, c'est l'état du corps entier qui apparaît.  
+
+Lorsque le Christ désigne le plus petit, il montre le point où la séparation atteint la surface.  
+
+Mais ce qu'il révèle est plus vaste.  
+
+Toute la création est concernée.  
+
+Toute la polarité est mise en lumière.  
+
+Toute la dispersion devient visible.  
+
+Le plus petit devient la porte.  
+
+À travers lui, le Fils concentré dévoile l'état du Fils étendu tout entier.  
+
 ---
 
 ## Le feu éternel  
 
-Le feu n'est pas d'abord une punition.  
-
-Dans toute la Bible,  
-
-le feu révèle.  
+Le feu révèle.  
 
 Le feu manifeste.  
 
@@ -346,19 +370,19 @@ Le feu éternel est la dispersion portée à sa pleine lumière.
 
 Tout ce qui se croyait séparé apparaît tel qu'il est.  
 
-Tout ce qui s'était pris pour le centre est exposé.  
+Tout ce qui se prenait pour la réalité est exposé.  
+
+Tout ce qui identifiait l'être à la séparation devient visible.  
 
 Rien n'est caché.  
 
-La structure devient visible.  
+La structure apparaît à découvert.  
 
 ---
 
 ## La vie éternelle  
 
-La vie éternelle n'est pas seulement une durée sans fin.  
-
-Elle est une densité.  
+La vie éternelle est une densité.  
 
 Une manière d'être.  
 
@@ -369,6 +393,8 @@ Une existence qui ne cherche plus son centre dans la séparation.
 Une conscience qui demeure dans la circulation de l'axe.  
 
 Un retour à la source sans quitter la forme.  
+
+La vie éternelle est la reconnaissance vécue d'une filiation qui n'a jamais cessé d'exister.  
 
 ---
 
@@ -396,25 +422,27 @@ La faim appelle le partage.
 
 L'axe demeure perceptible.  
 
-Les boucs sont les mouvements du Fils étendu qui se replient sur eux-mêmes.  
+Les boucs sont les mouvements du Fils étendu qui prennent la séparation pour la réalité.  
+
+Ils identifient l'être à son apparence.  
+
+Ils identifient la blessure à l'identité.  
+
+Ils identifient la fragmentation à la vérité.  
 
 La séparation devient leur centre.  
 
-L'autre devient extérieur.  
+Non parce qu'elle est réelle.  
 
-L'autre devient objet.  
+Parce qu'elle est crue.  
 
-L'autre devient catégorie.  
+Leur erreur n'est pas une faute morale.  
 
-La circulation se referme.  
+Elle est la croyance que la séparation décrit la réalité.  
 
-L'axe disparaît derrière la fragmentation.  
+Elle est la croyance que la fracture décrit le Fils.  
 
-Leur erreur n'est pas d'abord une faute morale.  
-
-Elle est de croire que la séparation décrit la réalité.  
-
-Elle est de prendre l'apparence pour l'identité.  
+Elle est la croyance que l'apparence décrit l'être.  
 
 Le jugement n'est donc pas :  
 
@@ -430,7 +458,7 @@ Une révélation de structure.
 
 "Voici ce qui demeure ouvert à l'unité.  
 
-Voici ce qui demeure enfermé dans la séparation."  
+Voici ce qui demeure enfermé dans la croyance en la séparation."  
 
 C'est pourquoi le texte commence par :  
 
@@ -450,7 +478,7 @@ Les mouvements de fermeture.
 
 Les lieux où l'unité circule encore.  
 
-Les lieux où la séparation s'est installée.  
+Les lieux où la séparation est prise pour la vérité.  
 
 Les brebis et les boucs traversent alors toute la création.  
 
@@ -468,7 +496,7 @@ Car la séparation et le retour à l'axe ne sont pas seulement des réalités co
 
 Ils traversent également l'intériorité humaine.  
 
-Le jugement révèle alors ce qui demeure ouvert et ce qui demeure fermé.  
+Le jugement révèle alors ce qui demeure ouvert à la filiation et ce qui demeure enfermé dans la croyance en la séparation.  
 
 ---
 
@@ -494,7 +522,7 @@ Le lieu où la blessure du Fils étendu apparaît à découvert.
 
 "Toutes les nations seront rassemblées devant lui."  
 
-Le sujet final n'est donc pas le plus petit.  
+Le sujet final n'est pas le plus petit.  
 
 Le sujet final est la totalité du Fils étendu.  
 
@@ -503,6 +531,44 @@ Le plus petit devient la porte.
 Les nations deviennent le miroir.  
 
 Et le Fils concentré révèle l'un à travers l'autre.  
+
+La séparation apparaît.  
+
+La filiation demeure.  
+
+La fracture apparaît.  
+
+La filiation demeure.  
+
+Le manque apparaît.  
+
+La filiation demeure.  
+
+Le jugement révèle finalement ce qui a toujours été vrai :  
+
+aucune faim,  
+
+aucune prison,  
+
+aucun exil,  
+
+aucune profondeur,  
+
+aucune hauteur,  
+
+aucune séparation apparente  
+
+n'a jamais pu rompre la filiation.  
+
+Le Christ était là depuis le commencement.  
+
+Dans chaque fragment.  
+
+Dans chaque blessure.  
+
+Dans chaque être.  
+
+Et le Royaume commence lorsque cette présence est reconnue.  
 
 ---
 
