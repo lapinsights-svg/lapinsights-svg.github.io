@@ -4,7 +4,7 @@ resume: "Le Fils caché dans les fragments dispersés"
 episode: "La structure intérieure de la Bible"
 categories: spiritualite
 layout: article
-date: 2026-07-19
+date: 2026-09-19
 tags:
   - Évangile
   - Matthieu
