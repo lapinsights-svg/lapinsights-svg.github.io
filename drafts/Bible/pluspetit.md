@@ -6,409 +6,273 @@ date: 2026-07-18
 tags:
   - Évangile
   - Matthieu
-  - Fils étendu
-  - Jugement
   - Royaume
+  - Jugement
+  - Fils étendu
+  - Fils concentré
   - Structure
 og_image: /statics/images/spiritualite/plus_petits.webp
 ---
 
 /statics/images/spiritualite/plus_petits.webp
 
-# Les Plus Petits
-## Le Fils caché dans les fragments dispersés
+# Les Plus Petits  
+## Le Fils caché dans les fragments dispersés  
 
-Ce passage constitue l’un des dévoilements les plus profonds de l’enseignement de Jésus.
+Ce passage constitue l'un des dévoilements les plus profonds de l'enseignement de Jésus.  
 
-Il ne décrit pas d’abord un jugement futur.
+Il ne décrit pas d'abord un jugement futur.  
 
-Il révèle le moment où le Fils concentré met en lumière la véritable condition du Fils étendu.
+Il révèle le moment où le Fils concentré met en lumière la véritable condition du Fils étendu.  
 
-Les brebis et les boucs ne représentent pas deux humanités différentes.
+Les brebis et les boucs ne représentent pas deux humanités différentes.  
 
-Ils montrent deux orientations possibles d’une même création.
+Ils montrent deux orientations possibles d'une même création.  
 
-L’une demeure ouverte à l’axe.
+L'une demeure ouverte à l'axe.  
 
-L’autre reste enfermée dans la séparation.
+L'autre reste enfermée dans la séparation.  
 
-À travers ce discours, Jésus révèle que toute rencontre avec la fragmentation du monde est déjà une rencontre avec le Christ lui-même.
-
----
-
-## Le rassemblement des nations
-
-Lorsque Jésus parle des brebis et des boucs,
-il ne décrit pas un tribunal futur.
-
-Il montre une structure.
-
-Le Fils concentré regarde le Fils étendu.
-
-"Toutes les nations seront rassemblées devant lui" (Mt 25,32)
-
-Les nations ne sont pas seulement des peuples.
-
-Elles représentent la dispersion.
-
-La multiplicité.
-
-L’étendue.
-
-Tout ce qui s’est déployé loin du centre.
-
-Le rassemblement marque le moment où l’étendue revient devant son origine.
+À travers ce discours, Jésus révèle que toute rencontre avec la fragmentation du monde est déjà une rencontre avec le Christ lui-même.  
 
 ---
 
-## Le jugement comme discernement
+## Le rassemblement des nations  
 
-Le jugement n’est pas une condamnation.
+Lorsque Jésus parle des brebis et des boucs,  
+il ne décrit pas un tribunal futur.  
 
-Il est une révélation.
+Il montre une structure.  
 
-Une séparation.
+Le Fils concentré regarde le Fils étendu.  
 
-Comme au commencement :
+"Toutes les nations seront rassemblées devant lui."  
 
-la lumière et les ténèbres,
+Les nations ne sont pas seulement des peuples.  
 
-la terre et la mer,
+Elles représentent la dispersion.  
 
-le jour et la nuit.
+La multiplicité.  
 
-Le Fils distingue ce qui demeure relié à l’axe de ce qui reste enfermé dans la dispersion.
+L'étendue.  
 
-"Il séparera les hommes les uns des autres" (Mt 25,32)
+Tout ce qui s'est déployé loin du centre.  
 
-La séparation n’est pas morale.
-
-Elle est structurelle.
-
-Deux densités deviennent visibles.
-
-L’une demeure ouverte à la circulation.
-
-L’autre se replie sur elle-même.
+Le rassemblement marque le moment où l'étendue revient devant son origine.  
 
 ---
 
-## Les brebis et les boucs
+## Le jugement comme discernement  
 
-La droite et la gauche ne désignent pas des camps.
+Le jugement n'est pas une condamnation.  
 
-Elles montrent deux orientations.
+Il est une révélation.  
 
-À droite :
+Une séparation.  
 
-la polarité demeure ouverte.
+Comme au commencement :  
 
-La circulation continue.
+la lumière et les ténèbres,  
 
-Le mouvement de l’axe traverse encore la forme.
+la terre et la mer,  
 
-À gauche :
+le jour et la nuit.  
 
-la polarité se ferme.
+Le Fils distingue ce qui demeure relié à l'axe de ce qui reste enfermé dans la dispersion.  
 
-La dispersion devient son propre centre.
+"Il séparera les hommes les uns des autres."  
 
-L’énergie revient vers elle-même.
+La séparation n'est pas morale.  
 
-L’étendue oublie sa source.
+Elle est structurelle.  
 
----
+Deux densités deviennent visibles.  
 
-## La faim et la soif
+L'une demeure ouverte à la circulation.  
 
-La faim n’est pas seulement celle du corps.
-
-La soif n’est pas seulement celle de l’eau.
-
-Elles sont les signes d’un manque intérieur.
-
-Une rupture dans la circulation.
-
-Un fragment du Fils étendu appelle la réunion.
-
-"J’avais faim"
-
-signifie :
-
-la densité cherche sa nourriture.
-
-"J’avais soif"
-
-signifie :
-
-la source n’est plus ressentie.
-
-Le Christ décrit la création lorsqu’elle se vit séparée de son centre.
+L'autre se replie sur elle-même.  
 
 ---
 
-## L’étranger
+## La faim et la soif  
 
-"J’étais un étranger"
+La faim n'est pas seulement celle du corps.  
 
-L’étranger est celui qui n’est plus reconnu.
+La soif n'est pas seulement celle de l'eau.  
 
-Celui qui paraît extérieur.
+Elles sont les signes d'un manque intérieur.  
 
-Celui qui semble séparé.
+Une rupture dans la circulation.  
 
-Dans la structure de la Bible, toute dispersion produit de l’étrangeté.
+Un fragment du Fils étendu appelle la réunion.  
 
-La création devient étrangère à son origine.
+"J'avais faim"  
 
-L’homme devient étranger à lui-même.
+signifie :  
 
-Les nations deviennent étrangères les unes aux autres.
+la densité cherche sa nourriture.  
 
-Accueillir l’étranger,
+"J'avais soif"  
 
-c’est reconnaître la filiation sous la séparation.
+signifie :  
 
----
+la source n'est plus ressentie.  
 
-## Le malade et le prisonnier
-
-La maladie montre une désorganisation.
-
-Une circulation qui ne passe plus librement.
-
-Une polarité qui se contracte.
-
-La prison montre un enfermement.
-
-Une densité qui tourne sur elle-même.
-
-Un mouvement qui ne trouve plus son axe.
-
-La Bible utilise souvent les images de captivité pour parler de séparation.
-
-La prison est une forme visible d’une structure plus profonde.
+Le Christ décrit la création lorsqu'elle se vit séparée de son centre.  
 
 ---
 
-## Le secret du texte
+## L'étranger  
 
-Le cœur du passage se trouve dans une seule phrase :
+"J'étais un étranger."  
 
-"C’est à moi que vous l’avez fait."
+L'étranger est celui qui n'est plus reconnu.  
 
-Le Christ ne dit pas :
+Celui qui paraît extérieur.  
 
-« Vous avez servi quelqu’un d’autre que moi. »
+Celui qui semble séparé.  
 
-Il dit :
+Dans la structure de la Bible, toute dispersion produit de l'étrangeté.  
 
-« C’était moi. »
+La création devient étrangère à son origine.  
 
-Toute la force du texte est là.
+L'homme devient étranger à lui-même.  
 
-Le Fils concentré reconnaît sa propre présence dans les fragments du Fils étendu.
+Les nations deviennent étrangères les unes aux autres.  
 
-Chaque être.
+Accueillir l'étranger,  
 
-Chaque blessure.
-
-Chaque manque.
-
-Chaque séparation.
-
-Le Christ se tient à l’intérieur.
-
-Non comme un individu caché.
-
-Comme la structure elle-même.
+c'est reconnaître la filiation sous la séparation.  
 
 ---
 
-## Pourquoi les justes ne savent pas
+## Le malade et le prisonnier  
 
-Les justes sont surpris.
+La maladie montre une désorganisation.  
 
-"Quand t’avons-nous vu ?"
+Une circulation qui ne passe plus librement.  
 
-Ils ne savaient pas.
+Une polarité qui se contracte.  
 
-Ils n’agissaient pas pour obtenir une récompense.
+La prison montre un enfermement.  
 
-Ils ne cherchaient pas une identité spirituelle.
+Une densité qui tourne sur elle-même.  
 
-Ils ne poursuivaient pas un mérite.
+Un mouvement qui ne trouve plus son axe.  
 
-L’axe circulait déjà.
+La Bible utilise souvent les images de captivité pour parler de séparation.  
 
-Ils répondaient simplement à la réalité présente.
-
-Leur action ne venait pas du récit du moi.
-
-Elle venait de la densité.
+La prison est une forme visible d'une structure plus profonde.  
 
 ---
 
-## Voir aujourd’hui
+## Le secret du texte  
 
-Ce texte n’appartient pas seulement au premier siècle.
+Le cœur du passage se trouve dans une seule phrase :  
 
-Il continue de se montrer dans l’actualité.
+"C'est à moi que vous l'avez fait."  
 
-Récemment, à Carcassonne, plusieurs événements ont provoqué une forte réaction publique.
+Le Christ ne dit pas :  
 
-Une vidéo a montré un policier tenant des propos racistes.
+"Vous avez servi quelqu'un d'autre que moi."  
 
-Une autre a montré un policier jetant violemment au sol un homme sans domicile.
+Il dit :  
 
-La lecture habituelle voit immédiatement deux camps :
+"C'était moi."  
 
-le coupable et la victime.
+Toute la force du texte est là.  
 
-L’indignation se forme autour de cette séparation.
+Le Fils concentré reconnaît sa propre présence dans les fragments du Fils étendu.  
 
-La lecture structurelle ne nie pas la responsabilité.
+Chaque être.  
 
-Elle ne nie pas la souffrance.
+Chaque blessure.  
 
-Elle ne nie pas la nécessité de protéger celui qui est blessé.
+Chaque manque.  
 
-Mais elle regarde plus profondément.
+Chaque séparation.  
 
-Elle cherche la structure qui apparaît derrière les événements.
+Le Christ se tient à l'intérieur.  
 
-L’homme sans domicile apparaît comme une figure du « plus petit ».
+Non comme un individu caché.  
 
-Il représente la fragilité visible.
+Comme la structure elle-même.  
 
-L’exclusion.
+---
 
-La vulnérabilité.
+## Pourquoi les justes ne savent pas  
 
-La séparation devenue condition de vie.
+Les justes sont surpris.  
 
-Mais la lecture structurelle voit également autre chose.
+"Quand t'avons-nous vu ?"  
 
-Celui qui humilie.
+Ils ne savaient pas.  
 
-Celui qui frappe.
+Ils n'agissaient pas pour obtenir une récompense.  
 
-Celui qui réduit l’autre à une catégorie.
+Ils ne poursuivaient pas un mérite.  
 
-Celui-là manifeste aussi une séparation.
+Ils ne cherchaient pas une identité.  
 
-Une fermeture.
+L'axe circulait déjà.  
 
-Une perte de l’axe.
+Ils répondaient simplement à la réalité présente.  
 
-Une contraction de la conscience.
+Leur action ne venait pas du récit du moi.  
 
-Autrement dit, deux formes de fragmentation apparaissent ensemble.
+Elle venait de la densité.  
 
-L’une souffre de la blessure.
+---
 
-L’autre produit la blessure parce qu’elle ne voit plus l’unité.
+## Voir aujourd'hui  
 
-Le regard du Christ ne s’arrête donc pas à l’opposition entre les deux.
+Ce texte n'appartient pas seulement au premier siècle.  
 
-Il révèle une unité fracturée.
+Il continue de se montrer dans l'actualité.  
 
-Le sans-abri manifeste :
+Récemment, à Carcassonne, plusieurs événements ont provoqué une forte réaction publique.  
 
-« J’avais faim. »
+Une vidéo a montré un policier tenant des propos racistes.  
 
-« J’étais étranger. »
+Une autre a montré un policier jetant violemment au sol un homme sans domicile.  
 
-« J’étais rejeté. »
+La lecture structurelle ne s'arrête pas aux individus.  
 
-Le policier manifeste :
+Elle voit le Fils étendu devenu visible.  
 
-« J’étais prisonnier. »
+L'événement agit comme une révélation.  
 
-Prisonnier de la séparation.
-
-Prisonnier de la réduction de l’autre.
-
-Prisonnier d’une polarité refermée sur elle-même.
-
-L’un manifeste le manque.
-
-L’autre manifeste l’enfermement.
-
-Tous deux appartiennent au même Fils étendu.
-
-Tous deux révèlent une création qui ne perçoit plus pleinement son unité.
-
-C’est pourquoi le Christ peut dire :
-
-« Chaque fois que vous l’avez fait à l’un de ces plus petits de mes frères, c’est à moi que vous l’avez fait. »
-
-Le texte ne demande pas seulement :
-
-« Qui est la victime ? »
-
-Il demande aussi :
-
-« Où la séparation est-elle à l’œuvre ? »
-
-Dans cette scène, la séparation apparaît sous deux formes :
-
-comme vulnérabilité chez l’un,
-
-comme violence chez l’autre.
-
-La première appelle le secours.
-
-La seconde appelle le retournement.
-
-Le Royaume commence lorsque le regard traverse la séparation visible et aperçoit encore le Fils au cœur de la fragmentation.
-
-Ce regard ne justifie pas la violence.
-
-Il révèle simplement qu’au-delà des rôles visibles se tient une seule réalité blessée qui se retourne contre elle-même.  
-
-Le Fils concentré voit alors ce que le regard ordinaire ne voit pas :  
-
-une même unité dispersée cherchant à revenir à son centre.
-
-## Elargissement de la lecture
-
-Il ne s'agit pas de voir seulement un homme sans domicile et un policier.  
-
-Mais de voir le Fils étendu devenu visible.  
-
-L’événement agit comme une révélation.  
-
- 
 Une fracture apparaît.  
 
-Puis cette fracture se propage dans l’ensemble du corps.  
+Puis cette fracture se propage dans l'ensemble du corps.  
 
-Le sans-abri manifeste la séparation sous la forme du manque.  
+L'homme sans domicile manifeste la séparation sous la forme du manque.  
 
 Le policier manifeste la séparation sous la forme de la fermeture.  
 
-L’indignation manifeste la séparation sous la forme de la réaction.  
+L'indignation manifeste la séparation sous la forme de la réaction.  
 
-Les prises de position manifestent la séparation sous la forme de la polarisation.  
+La polarisation manifeste la séparation sous la forme de l'opposition.  
 
-Les récits qui s’affrontent manifestent la séparation sous la forme de la dispersion.  
+Les récits qui s'affrontent manifestent la séparation sous la forme de la dispersion.  
 
 La scène entière devient alors une image du Fils étendu.  
 
-Le Christ ne révèle pas seulement l’état d’un homme.  
+Le Christ ne révèle pas seulement l'état d'un homme.  
 
-Il révèle l’état d’une structure.  
+Il révèle l'état d'une structure.  
 
-Le « plus petit » n’est pas seulement celui qui souffre.  
+Le "plus petit" n'est pas seulement celui qui souffre.  
 
 Il est le lieu où la blessure devient visible.  
 
-À travers lui, c’est l’état du corps entier qui apparaît.  
+À travers lui, c'est l'état du corps entier qui apparaît.  
 
-Lorsque le Christ désigne le plus petit, il montre l’endroit où la séparation atteint la surface.  
+Lorsque le Christ désigne le plus petit,  
 
-Mais ce qu’il révèle est plus vaste.  
+il montre l'endroit où la séparation atteint la surface.  
+
+Mais ce qu'il révèle est plus vaste.  
 
 Toute la création est concernée.  
 
@@ -416,217 +280,162 @@ Toute la polarité est mise en lumière.
 
 Toute la dispersion devient visible.  
 
-Le plus petit est la porte.   
+Le plus petit est la porte.  
 
-À travers lui, le Fils concentré dévoile le Fils étendu tout entier.
+À travers lui,  
 
+le Fils concentré dévoile le Fils étendu tout entier.  
 
-# Les brebis et les boucs
-2
- 
-3
-Les brebis et les boucs ne désignent pas deux catégories d'êtres.
-4
- 
-5
-Ils révèlent deux orientations.
-6
- 
-7
-Deux mouvements.
-8
- 
-9
-Deux densités.
-10
- 
-11
-Les brebis sont les mouvements du Fils étendu qui demeurent orientés vers le Fils concentré.
-12
- 
-13
-La circulation y demeure ouverte.
-14
- 
-15
-L'unité peut encore y être reconnue.
-16
- 
-17
-La blessure appelle la rencontre.
-18
- 
-19
-L'étranger appelle l'accueil.
-20
- 
-21
-La faim appelle le partage.
-22
- 
-23
-L'axe demeure perceptible.
-24
- 
-25
-Les boucs sont les mouvements du Fils étendu qui se replient sur eux-mêmes.
-26
- 
-27
-La séparation devient leur centre.
-28
- 
-29
-L'autre devient extérieur.
-30
- 
-31
-L'autre devient objet.
-32
- 
-33
-L'autre devient catégorie.
-34
- 
-35
-La circulation se referme.
-36
- 
-37
-L'axe disparaît derrière la fragmentation.
-38
- 
-39
-Le jugement n'est donc pas :
-40
- 
-41
-« Toi tu es une brebis.
-42
- 
-43
-Toi tu es un bouc. »
-44
- 
-45
-Le jugement est un dévoilement.
-46
- 
-47
-Une mise en lumière.
-48
- 
-49
-Une révélation de structure.
-50
- 
-51
-« Voici ce qui demeure ouvert à l'unité.
-52
- 
-53
-Voici ce qui demeure enfermé dans la séparation. »
-54
- 
-55
-C'est pourquoi le texte commence par :
-56
- 
-57
-« Toutes les nations seront rassemblées devant lui. »
-58
- 
-59
-Il ne commence pas par :
-60
- 
-61
-« Tous les individus seront classés. »
-62
- 
-63
-Le Fils concentré regarde l'ensemble du Fils étendu.
-64
- 
-65
-Il en révèle les lignes de force.
-66
- 
-67
-Les courants de retour.
-68
- 
-69
-Les mouvements de fermeture.
-70
- 
-71
-Les lieux où l'unité circule encore.
-72
- 
-73
-Les lieux où la séparation s'est installée.
-74
- 
-75
-Les brebis et les boucs traversent alors toute la création.
-76
- 
-77
-Ils traversent les peuples.
-78
- 
-79
-Les institutions.
-80
- 
-81
-Les sociétés.
-82
- 
-83
-Les évènements.
-84
- 
-85
-Ils traversent aussi chaque être.
-86
- 
-87
-Car l'ouverture à l'axe et le repli dans la séparation sont les deux mouvements fondamentaux du Fils étendu.
-88
- 
-89
-Le jugement est le moment où ils deviennent visibles.
-90
- 
-91
 ---
-92
- 
-93
-Le Fils étendu semble multiple.
-94
- 
-95
-Le Fils concentré révèle son unité.
-96
- 
-97
-Le plus petit devient la porte.
-98
- 
-99
-La blessure devient le lieu de révélation.
-100
- 
-101
-Et le jugement devient l'instant où la création entière apparaît telle qu'elle est devant son propre centre.
-102
- 
-103
+
+## Le feu éternel  
+
+Le feu n'est pas d'abord une punition.  
+
+Dans toute la Bible,  
+
+le feu révèle.  
+
+Le feu manifeste.  
+
+Le feu rend visible.  
+
+Le feu éternel est la dispersion portée à sa pleine lumière.  
+
+Tout ce qui se croyait séparé apparaît tel qu'il est.  
+
+Tout ce qui s'était pris pour le centre est exposé.  
+
+Rien n'est caché.  
+
+La structure devient visible.  
+
 ---
-104
- 
-105
-Céleste R.
+
+## La vie éternelle  
+
+La vie éternelle n'est pas seulement une durée sans fin.  
+
+Elle est une densité.  
+
+Une manière d'être.  
+
+Une participation au Fils concentré.  
+
+Une existence qui ne cherche plus son centre dans la séparation.  
+
+Une conscience qui demeure dans la circulation de l'axe.  
+
+Un retour à la source sans quitter la forme.  
+
+---
+
+## Les brebis et les boucs  
+
+Les brebis et les boucs ne désignent pas deux catégories d'êtres.  
+
+Ils révèlent deux orientations.  
+
+Deux mouvements.  
+
+Deux densités.  
+
+Les brebis sont les mouvements du Fils étendu qui demeurent orientés vers le Fils concentré.  
+
+La circulation y demeure ouverte.  
+
+L'unité peut encore y être reconnue.  
+
+La blessure appelle la rencontre.  
+
+L'étranger appelle l'accueil.  
+
+La faim appelle le partage.  
+
+L'axe demeure perceptible.  
+
+Les boucs sont les mouvements du Fils étendu qui se replient sur eux-mêmes.  
+
+La séparation devient leur centre.  
+
+L'autre devient extérieur.  
+
+L'autre devient objet.  
+
+L'autre devient catégorie.  
+
+La circulation se referme.  
+
+L'axe disparaît derrière la fragmentation.  
+
+Le jugement n'est donc pas :  
+
+"Toi tu es une brebis.  
+
+Toi tu es un bouc."  
+
+Le jugement est un dévoilement.  
+
+Une mise en lumière.  
+
+Une révélation de structure.  
+
+"Voici ce qui demeure ouvert à l'unité.  
+
+Voici ce qui demeure enfermé dans la séparation."  
+
+C'est pourquoi le texte commence par :  
+
+"Toutes les nations seront rassemblées devant lui."  
+
+Il ne commence pas par :  
+
+"Tous les individus seront classés."  
+
+Le Fils concentré regarde l'ensemble du Fils étendu.  
+
+Il en révèle les lignes de force.  
+
+Les courants de retour.  
+
+Les mouvements de fermeture.  
+
+Les lieux où l'unité circule encore.  
+
+Les lieux où la séparation s'est installée.  
+
+Les brebis et les boucs traversent alors toute la création.  
+
+Ils traversent les peuples.  
+
+Les sociétés.  
+
+Les institutions.  
+
+Les événements.  
+
+Ils traversent aussi chaque être.  
+
+Car l'ouverture à l'axe et le repli dans la séparation sont les deux mouvements fondamentaux du Fils étendu.  
+
+Le jugement est le moment où ils deviennent visibles.  
+
+---
+
+Le Fils étendu semble multiple.  
+
+Le Fils concentré révèle son unité.  
+
+Le plus petit devient la porte.  
+
+La blessure devient le lieu de révélation.  
+
+Et le jugement devient l'instant où la création entière apparaît telle qu'elle est devant son propre centre.  
+
+---
+
+Céleste R.  
+
+Pour revenir au sommaire :  
+
+https://lapinsights.org/spiritualite/sommaireBible/
