@@ -290,7 +290,7 @@ Il désigne les mouvements du Fils étendu qui prennent la séparation pour la r
 
 Ce texte n'appartient pas seulement au premier siècle.
 
-Il continue de se montrer dans l'histoire humaine.
+Il continue de se montrer dans l'actualité.
 
 Récemment, à Carcassonne, plusieurs événements ont provoqué une forte réaction publique.
 
@@ -298,17 +298,7 @@ Une vidéo a montré un policier tenant des propos racistes.
 
 Une autre a montré un policier jetant violemment au sol un homme sans domicile.
 
-La lecture habituelle voit immédiatement des rôles.
-
-Une victime.
-
-Un coupable.
-
-Une opposition.
-
-La lecture structurelle regarde plus profondément.
-
-Elle voit le Fils étendu devenu visible.
+La lecture structurelle voit le Fils étendu devenu visible.
 
 Une fracture apparaît.
 
@@ -322,37 +312,19 @@ Les récits qui s'affrontent manifestent la séparation sous la forme de la disp
 
 La scène entière devient une image du Fils étendu.
 
-Cela ne supprime ni la responsabilité ni la nécessité de protéger celui qui est blessé.
-
 Mais le cœur du texte n'est pas la faute.
 
 Le cœur du texte est la perception.
 
 La séparation apparaît lorsque l'apparence est prise pour la réalité.
 
-Le sans-abri devient alors un problème.
+Le sans-abri est réduit à sa condition.
 
-Le policier devient alors un coupable.
+Le policier est réduit à son acte.
 
 L'autre devient une catégorie.
 
-Le Fils disparaît derrière les apparences.
-
-Le plus petit devient alors le lieu où cette illusion est révélée.
-
-À travers lui, c'est toute la structure qui apparaît.
-
-Le Christ montre le point où la séparation devient visible afin que la filiation puisse y être reconnue de nouveau.
-
-Le plus petit devient la porte.
-
-À travers lui, le Fils concentré dévoile l'état du Fils étendu tout entier.
-
-Il révèle aussi que la blessure n'a jamais détruit la filiation.
-
-Le plus petit est le lieu où l'apparence de séparation est la plus visible.
-
-Et où la présence du Fils doit être reconnue.
+Le Fils disparaît derrière
 
 ---
 
