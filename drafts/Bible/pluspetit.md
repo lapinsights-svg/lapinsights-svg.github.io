@@ -434,6 +434,64 @@ Et le jugement devient l'instant où la création entière apparaît telle qu'el
 
 ---
 
+## Conclusion
+
+Le plus petit n'est pas celui qui possède davantage de séparation que les autres.  
+
+Il est celui chez qui la séparation devient visible.  
+
+La faim.  
+
+L'exclusion.  
+
+La maladie.  
+
+La captivité.  
+
+Toutes ces réalités mettent à nu ce que le reste de la création dissimule encore.  
+
+Le Christ désigne le plus petit non comme un être différent.  
+
+Il le désigne comme un lieu.  
+
+Le lieu où la blessure du Fils étendu apparaît à découvert.  
+
+Le lieu où la fragmentation devient visible.  
+
+Le lieu où la séparation atteint la surface.  
+
+À travers lui, c'est l'état du corps entier qui est révélé.  
+
+C'est pourquoi le texte poursuit son mouvement vers quelque chose de plus vaste.  
+
+"Toutes les nations seront rassemblées devant lui."  
+
+Le sujet final n'est pas le plus petit.  
+
+Le sujet final est l'ensemble des nations.  
+
+Le sujet final est le Fils étendu dans sa totalité.  
+
+Le plus petit devient alors une porte.  
+
+Un point d'apparition.  
+
+Un lieu de révélation.  
+
+À travers lui, le Fils concentré dévoile l'état du Fils étendu tout entier.  
+
+Ce qui apparaît dans la blessure d'un seul  
+
+révèle la condition de l'ensemble.  
+
+Le plus petit est le visible.  
+
+Les nations sont l'ensemble.  
+
+Et le Christ révèle l'un à travers l'autre.
+
+---
+
 Céleste R.  
 
 Pour revenir au sommaire :  
