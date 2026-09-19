@@ -571,9 +571,7 @@ Et le jugement cesse d'être un verdict.
 
 Il devient un dévoilement.
 
-Le Christ ne révèle pas seulement la blessure.
-
-Il révèle aussi ce qui n'a jamais été blessé.
+Le Christ ne révèle ce qui n'a jamais été blessé.
 
 La filiation demeure.
 
@@ -589,9 +587,9 @@ Jésus manifeste une perception entièrement guérie.
 
 Une perception qui reconnaît le même Fils dans chaque être,
 
-dans chaque blessure,
+malgré chaque blessure,
 
-dans chaque fragment.
+malgré chaque apparence de séparation.
 
 Lorsque cette présence est reconnue,
 
