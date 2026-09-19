@@ -616,6 +616,8 @@ Et ce qui était vrai depuis le commencement apparaît à découvert.
 
 Céleste R.
 
-Pour revenir au sommaire :
 
-[Sommaire](https://lapinsights.org/spiritualite
+Retour au sommaire :  
+[Sommaire structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
+
+
