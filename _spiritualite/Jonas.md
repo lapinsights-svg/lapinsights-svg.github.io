@@ -43,6 +43,19 @@ Elle rejoue :
 
 Jonas vit le Déluge **en lui**.
 
+La traversée ne détruit pas Jonas.  
+
+Elle ne détruit pas davantage la filiation.  
+
+La séparation apparaît.  
+
+La filiation demeure.  
+
+La descente ne rompt pas le lien.  
+
+Elle le rend invisible.
+
+
 ## La matrice
 
 Le ventre du poisson est une matrice :
