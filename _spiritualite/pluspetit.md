@@ -131,62 +131,33 @@ guérison.
 
 "J'avais faim."
 
-La faim est le signe d'un manque.
+La filiation semblait manquer d'elle-même.
 
-Une rupture dans la circulation.
+Le Fils n'était plus reconnu.
 
-Un fragment du Fils étendu appelle la réunion.
+La séparation paraissait réelle.
 
 "J'avais soif."
 
-La soif est un éloignement de la source.
+La source paraissait absente.
 
-Une densité qui ne perçoit plus son origine.
+La filiation paraissait oubliée.
 
-Une filiation qui cherche à retrouver sa circulation.
+La circulation n'était plus reconnue.
 
-"Vous m'avez donné à boire."
+"J'étais un étranger."
 
-Donner à boire signifie rétablir une circulation interrompue.
+Le Fils paraissait extérieur.
 
-Permettre à la source de rejoindre ce qui semblait séparé.
+La filiation n'était plus vue.
 
-Reconnaître le Fils là où il apparaît sous la forme du manque.
-
-Ce qui est abreuvé n'est pas l'individu.
-
-C'est le lien.
-
-C'est la circulation.
-
-C'est la filiation elle-même.
-
-"J'étais un étranger."  
-
-L'étranger est celui qui paraît séparé.
-
-Celui qui n'est plus reconnu.
-
-Dans la structure de la Bible, toute dispersion produit de l'étrangeté.
-
-"J'étais malade."
-
-La maladie montre une désorganisation.
-
-Une circulation qui ne passe plus librement.
-
-Une polarité qui se contracte.
+L'unité semblait perdue.
 
 "J'étais en prison."
 
-La prison montre un enfermement.
+La séparation paraissait définitive.
 
-Une densité qui tourne sur elle-même.
-
-Un mouvement qui ne trouve plus son axe.
-
-Toutes ces figures montrent la séparation devenue visible.
-
+La filiation semblait enfermée dans l'apparence.
 ---
 
 ## Le secret du texte
