@@ -319,13 +319,25 @@ Les récits qui s'affrontent manifestent la séparation sous la forme de la disp
 
 La scène entière devient une image du Fils étendu.
 
-Le plus petit devient le lieu où la blessure apparaît à la surface.
+Mais le cœur du texte n'est pas la faute.
 
-À travers lui, la condition de l'ensemble devient visible.
+Le cœur du texte est la perception.
 
-Ce que révèle le Christ n'est donc pas seulement l'état d'un homme.
+La séparation apparaît lorsque l'apparence est prise pour la réalité.
 
-Il révèle l'état d'une structure.
+Le sans-abri devient alors un problème.
+
+Le policier devient alors un coupable.
+
+L'autre devient une catégorie.
+
+Le Fils disparaît derrière les apparences.
+
+Le plus petit devient alors le lieu où cette illusion est révélée.
+
+À travers lui, c'est toute la structure qui apparaît.
+
+Le Christ montre le point où la séparation devient visible afin que la filiation puisse y être reconnue de nouveau.
 
 Le plus petit devient la porte.
 
