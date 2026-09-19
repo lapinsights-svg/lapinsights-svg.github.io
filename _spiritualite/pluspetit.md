@@ -260,27 +260,65 @@ Elle révèle ce qui était déjà là.
 
 ---
 
-## Pourquoi les justes ne savent pas  
+## Pourquoi ils ne savent pas
 
-Les justes sont surpris.  
+Tous sont surpris.
 
-"Quand t'avons-nous vu ?"  
+Les justes demandent :
 
-Ils ne savaient pas.  
+"Quand t'avons-nous vu ?"
 
-Ils n'agissaient pas pour obtenir une récompense.  
+Et ceux qui demeurent enfermés dans la séparation posent exactement la même question.
 
-Ils ne poursuivaient pas un mérite.  
+"Quand t'avons-nous vu ?"
 
-Ils ne cherchaient pas une identité.  
+Ni les uns ni les autres ne reconnaissent immédiatement le Christ.
 
-L'axe circulait déjà.  
+La différence n'est pas dans ce qu'ils voient.
 
-Ils répondaient simplement à la réalité présente.  
+La différence est dans la manière dont ils voient.
 
-Leur action ne venait pas du récit du moi.  
+Les justes ne prenaient pas l'apparence pour la réalité.
 
-Elle venait de la densité.  
+La blessure n'effaçait pas pour eux la filiation.
+
+L'exclusion n'effaçait pas pour eux le Fils.
+
+L'axe circulait déjà.
+
+Leur action ne venait pas du récit du moi.
+
+Elle venait de la reconnaissance.
+
+Même inconsciente.
+
+Même silencieuse.
+
+Ceux qui demeurent enfermés dans la séparation voient également la faim.
+
+Ils voient également l'exil.
+
+Ils voient également la prison.
+
+Mais ils prennent l'apparence pour l'identité.
+
+Ils croient que la séparation décrit la réalité.
+
+Ils voient la fragmentation.
+
+Ils ne voient pas le Fils.
+
+C'est pourquoi ils sont surpris lorsque le Christ dit :
+
+"C'était moi."
+
+Le jugement ne révèle donc pas deux catégories de personnes.
+
+Il révèle deux visions.
+
+L'une reconnaît la filiation derrière l'apparence.
+
+L'autre prend l'apparence pour la vérité. 
 
 ---
 
