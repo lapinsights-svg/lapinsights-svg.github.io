@@ -404,79 +404,31 @@ Et parce qu'il n'existe qu'une seule filiation, ce qui est reconnu chez l'autre 
 
 Les brebis et les boucs ne désignent pas deux catégories d'êtres.
 
-Ils révèlent deux orientations.
+Ils révèlent deux manières de percevoir.
 
-Deux mouvements.
+Les brebis reconnaissent encore le Fils là où la séparation semble visible.
 
-Deux perceptions.
+Les boucs prennent la séparation pour la réalité.
 
-Les brebis sont les mouvements du Fils étendu qui demeurent orientés vers le Fils concentré.
+La différence n'est pas morale.
 
-La circulation y demeure ouverte.
+Elle est perceptive.
 
-L'unité peut encore y être reconnue.
-
-La blessure n'efface pas la filiation.
-
-L'étranger n'efface pas la filiation.
-
-La faim n'efface pas la filiation.
-
-L'axe demeure perceptible.
-
-Les boucs sont les mouvements du Fils étendu qui prennent la séparation pour la réalité.
-
-Ils identifient l'être à son apparence.
-
-Ils identifient la fragmentation à la vérité.
-
-La séparation devient leur centre.
-
-Non parce qu'elle est réelle.
-
-Parce qu'elle est crue.
-
-Leur erreur n'est pas une faute morale.
-
-Elle est la croyance que la séparation décrit la réalité.
-
-Elle est la croyance que l'apparence dit la vérité du Fils.
-
-Les brebis et les boucs ne sont pas des identités fixes.
-
-Ils sont des mouvements de la perception.
-
-La même personne peut reconnaître la filiation dans une situation et prendre la séparation pour la réalité dans une autre.
+La même personne peut osciller entre ces deux visions.
 
 Les brebis et les boucs traversent ainsi chaque être.
-
-Ils sont deux manières de percevoir le Fils étendu.
 
 Le Christ représente l'achèvement de ce mouvement.
 
 Il manifeste une perception entièrement guérie.
 
-Une perception qui ne prend plus jamais la séparation pour la vérité.
+Une perception qui reconnaît partout ce qui n'a jamais cessé d'être vrai.
 
-Une perception qui voit constamment la filiation là où les apparences parlent encore de fragmentation.
-
-Une perception qui ne confond plus l'être avec ses blessures.
-
-Une perception qui ne réduit plus le Fils à l'image que la séparation donne de lui.
-
-Suivre le Christ consiste donc à laisser cette perception devenir progressivement la nôtre.
+Suivre le Christ consiste à laisser cette perception devenir progressivement la nôtre.
 
 L'oscillation entre séparation et filiation diminue alors peu à peu.
 
-Ce qui était parfois aperçu devient plus stable.
-
-Ce qui était cru par moments devient vécu.
-
-La filiation cesse progressivement d'être une intuition intermittente pour devenir une vision permanente.
-
-Le Christ montre ainsi ce vers quoi tend le Fils étendu :
-
-une perception qui reconnaît partout ce qui n'a jamais cessé d'être vrai.
+La filiation cesse d'être une intuition intermittente pour devenir une vision stable.
 
 Le jugement n'est donc pas :
 
@@ -486,35 +438,21 @@ Toi tu es un bouc."
 
 Le jugement est un dévoilement.
 
-Une mise en lumière.
-
 Une révélation de structure.
 
-"Voici ce qui demeure ouvert à l'unité.
+"Voici ce qui demeure ouvert à la filiation.
 
 Voici ce qui demeure enfermé dans la croyance en la séparation."
 
-C'est pourquoi le texte commence par :
+Le Fils concentré regarde l'ensemble du Fils étendu
 
-"Toutes les nations seront rassemblées devant lui."
+Il révèle les lieux où le Fils est encore reconnu,
 
-Il ne commence pas par :
+et ceux où la séparation est encore prise pour la réalité.
 
-"Tous les individus seront classés."
+Le jugement révèle alors ce qui demeure ouvert à la filiation,
 
-Le Fils concentré regarde l'ensemble du Fils étendu.
-
-Il en révèle les lignes de force.
-
-Les courants de retour.
-
-Les mouvements de fermeture.
-
-Les lieux où l'unité circule encore.
-
-Les lieux où la séparation est prise pour la vérité.
-
-Le jugement révèle alors ce qui demeure ouvert à la filiation et ce qui demeure enfermé dans la croyance en la séparation.
+et ce qui demeure enfermé dans la croyance en la séparation.
 
 ---
 
