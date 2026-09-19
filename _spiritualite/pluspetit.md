@@ -348,8 +348,6 @@ Le plus petit devient la porte.
 
 À travers lui, le Fils concentré dévoile l'état du Fils étendu tout entier.
 
-Il ne révèle pas seulement la blessure.
-
 Il révèle aussi que la blessure n'a jamais détruit la filiation.
 
 Le plus petit est le lieu où l'apparence de séparation est la plus visible.
