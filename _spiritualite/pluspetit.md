@@ -94,7 +94,7 @@ L'autre se replie sur elle-même.
 
 ---
 
-Cette lecture prolonge celle d'Éden.  
+Cette lecture prolonge celle d'Éden.  - voir ici [Éden](https://lapinsights.org/spiritualite/eden/) -
 
 Dans Éden, la chute est la description de ce que devient la densité lorsque la polarité s'ouvre.  
 
@@ -586,4 +586,4 @@ Céleste R.
 
 Pour revenir au sommaire :  
 
-https://lapinsights.org/spiritualite/sommaireBible/
+[Sommaire](https://lapinsights.org/spiritualite/sommaireBible/)
