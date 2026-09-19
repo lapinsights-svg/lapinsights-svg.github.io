@@ -198,37 +198,43 @@ Le cœur du passage se trouve dans une seule phrase :
 
 "C'est à moi que vous l'avez fait."  
 
-Le Christ ne dit pas :  
+Le Christ ne révèle pas un être absent.  
 
-"J'étais séparé du Père."  
+Il révèle une présence cachée.  
 
-Il dit :  
+Ce qui semblait séparé est amené à la lumière.  
 
-"J'étais là."  
+Ce qui semblait perdu est reconnu.  
 
-Dans la faim.  
+Ce qui semblait étranger révèle sa filiation.  
 
-Dans l'exil.  
+La faim était visible.  
 
-Dans la maladie.  
+Le Fils était caché.  
 
-Dans la prison.  
+L'exil était visible.  
 
-La séparation apparaît.  
+Le Fils était caché.  
 
-La filiation demeure.  
+La prison était visible.  
 
-La faim apparaît.  
+Le Fils était caché.  
 
-La filiation demeure.  
+Et lorsque la lumière se fait, le Christ déclare :  
 
-L'exil apparaît.  
+"C'était moi."  
 
-La filiation demeure.  
+Le secret du texte n'est donc pas la séparation.  
 
-La prison apparaît.  
+Le secret est la présence du Fils derrière l'apparence de séparation.  
 
-La filiation demeure.  
+Le jugement devient alors un dévoilement.  
+
+Ce qui était voilé apparaît.  
+
+Ce qui était caché est révélé.  
+
+La filiation devient visible là où la fragmentation semblait régner.  
 
 Le Fils concentré reconnaît sa propre présence dans les fragments du Fils étendu.  
 
@@ -246,7 +252,11 @@ Non comme un individu caché.
 
 Comme la filiation elle-même.  
 
-Servir le plus petit consiste à reconnaître le Fils là où la séparation semble pourtant évidente.  
+Servir le plus petit consiste alors à reconnaître le Fils là où la séparation semblait dire le contraire.  
+
+La lumière n'ajoute rien.  
+
+Elle révèle ce qui était déjà là.
 
 ---
 
