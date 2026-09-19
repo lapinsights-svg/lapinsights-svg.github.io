@@ -19,7 +19,7 @@ og_image: /statics/images/spiritualite/pluspetit.webp
 
 
 # Les Plus Petits
-## Le Fils caché dans les fragments dispersés
+## Le Fils présent dans les fragments dispersés
 
 ### Texte étudié
 
