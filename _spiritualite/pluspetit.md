@@ -242,7 +242,7 @@ La différence est dans la manière dont ils voient.
 
 Les justes ne prenaient pas l'apparence pour la réalité.
 
-La blessure n'effaçait pas la filiation.
+La blessure n'effaçait pas le Fils.
 
 L'exclusion n'effaçait pas le Fils.
 
