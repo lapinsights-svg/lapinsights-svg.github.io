@@ -69,7 +69,7 @@ Le rassemblement marque le moment où l'étendue revient devant son origine.
 
 Le jugement est une révélation.
 
-Une séparation.
+Une mise en lumière.
 
 Comme au commencement :
 
@@ -79,17 +79,23 @@ la terre et la mer,
 
 le jour et la nuit.
 
-Le Fils distingue ce qui demeure relié à l'axe de ce qui reste enfermé dans la dispersion.
+Le Fils concentré révèle ce qui demeure ouvert à la filiation et ce qui demeure enfermé dans la croyance en la séparation.
 
 "Il séparera les hommes les uns des autres."
 
 La séparation est structurelle.
 
-Deux densités deviennent visibles.
+Deux perceptions deviennent visibles.
 
-L'une demeure ouverte à la circulation.
+L'une reconnaît encore le Fils derrière les apparences.
 
-L'autre se replie sur elle-même.
+L'autre prend l'apparence pour la réalité.
+
+Le jugement révèle alors deux visions :
+
+celle qui voit la filiation,
+
+et celle qui croit à la séparation.
 
 ---
 
