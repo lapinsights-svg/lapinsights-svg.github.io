@@ -320,6 +320,10 @@ L'une reconnaît la filiation derrière l'apparence.
 
 L'autre prend l'apparence pour la vérité. 
 
+Le mot "maudits" ne désigne pas des êtres rejetés par Dieu.  
+
+Il désigne les mouvements du Fils étendu qui prennent la séparation pour la réalité et demeurent enfermés dans cette croyance.
+
 ---
 
 ## Voir aujourd'hui  
