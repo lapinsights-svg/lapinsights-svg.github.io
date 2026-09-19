@@ -16,7 +16,8 @@ tags:
 og_image: /statics/images/spiritualite/pluspetit.webp
 ---
 
-/statics/images/spiritualite/pluspetit.webp
+
+![pluspetit](/statics/images/spiritualite/pluspetit.webp)
 
 # Les Plus Petits  
 ## Le Fils caché dans les fragments dispersés  
