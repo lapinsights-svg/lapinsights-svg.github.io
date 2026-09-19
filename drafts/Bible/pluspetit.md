@@ -23,7 +23,7 @@ Ce passage constitue l'un des dévoilements les plus profonds de l'enseignement 
 
 Il ne décrit pas d'abord un jugement futur.  
 
-Il révèle le moment où le Fils concentré met en lumière la véritable condition du Fils étendu.  
+Il révèle le moment où le Fils concentré met en lumière la condition du Fils étendu.  
 
 Les brebis et les boucs ne représentent pas deux humanités différentes.  
 
@@ -33,7 +33,7 @@ L'une demeure ouverte à l'axe.
 
 L'autre reste enfermée dans la séparation.  
 
-À travers ce discours, Jésus révèle que toute rencontre avec la fragmentation du monde est déjà une rencontre avec le Christ lui-même.  
+À travers ce discours, Jésus révèle que toute rencontre avec la fragmentation du monde est déjà une rencontre avec lui-même.  
 
 ---
 
@@ -94,43 +94,29 @@ L'autre se replie sur elle-même.
 
 ---
 
-## La faim et la soif  
+## Les figures de la séparation  
+
+"J'avais faim."  
 
 La faim n'est pas seulement celle du corps.  
 
-La soif n'est pas seulement celle de l'eau.  
-
-Elles sont les signes d'un manque intérieur.  
+Elle est le signe d'un manque intérieur.  
 
 Une rupture dans la circulation.  
 
 Un fragment du Fils étendu appelle la réunion.  
 
-"J'avais faim"  
+"J'avais soif."  
 
-signifie :  
+La source n'est plus ressentie.  
 
-la densité cherche sa nourriture.  
-
-"J'avais soif"  
-
-signifie :  
-
-la source n'est plus ressentie.  
-
-Le Christ décrit la création lorsqu'elle se vit séparée de son centre.  
-
----
-
-## L'étranger  
+La densité cherche son origine.  
 
 "J'étais un étranger."  
 
-L'étranger est celui qui n'est plus reconnu.  
+L'étranger est celui qui paraît séparé.  
 
-Celui qui paraît extérieur.  
-
-Celui qui semble séparé.  
+Celui qui n'est plus reconnu.  
 
 Dans la structure de la Bible, toute dispersion produit de l'étrangeté.  
 
@@ -140,13 +126,7 @@ L'homme devient étranger à lui-même.
 
 Les nations deviennent étrangères les unes aux autres.  
 
-Accueillir l'étranger,  
-
-c'est reconnaître la filiation sous la séparation.  
-
----
-
-## Le malade et le prisonnier  
+"J'étais malade."  
 
 La maladie montre une désorganisation.  
 
@@ -154,15 +134,15 @@ Une circulation qui ne passe plus librement.
 
 Une polarité qui se contracte.  
 
+"J'étais en prison."  
+
 La prison montre un enfermement.  
 
 Une densité qui tourne sur elle-même.  
 
 Un mouvement qui ne trouve plus son axe.  
 
-La Bible utilise souvent les images de captivité pour parler de séparation.  
-
-La prison est une forme visible d'une structure plus profonde.  
+Toutes ces figures montrent la séparation devenue visible.  
 
 ---
 
@@ -262,29 +242,9 @@ Le Christ ne révèle pas seulement l'état d'un homme.
 
 Il révèle l'état d'une structure.  
 
-Le "plus petit" n'est pas seulement celui qui souffre.  
+Le plus petit devient le lieu où la blessure apparaît à la surface.  
 
-Il est le lieu où la blessure devient visible.  
-
-À travers lui, c'est l'état du corps entier qui apparaît.  
-
-Lorsque le Christ désigne le plus petit,  
-
-il montre l'endroit où la séparation atteint la surface.  
-
-Mais ce qu'il révèle est plus vaste.  
-
-Toute la création est concernée.  
-
-Toute la polarité est mise en lumière.  
-
-Toute la dispersion devient visible.  
-
-Le plus petit est la porte.  
-
-À travers lui,  
-
-le Fils concentré dévoile le Fils étendu tout entier.  
+À travers lui, la condition de l'ensemble devient visible.  
 
 ---
 
@@ -416,25 +376,15 @@ Les événements.
 
 Ils traversent aussi chaque être.  
 
-Car l'ouverture à l'axe et le repli dans la séparation sont les deux mouvements fondamentaux du Fils étendu.  
+Car la séparation et le retour à l'axe ne sont pas seulement des réalités collectives.  
 
-Le jugement est le moment où ils deviennent visibles.  
+Ils traversent également l'intériorité humaine.  
 
----
-
-Le Fils étendu semble multiple.  
-
-Le Fils concentré révèle son unité.  
-
-Le plus petit devient la porte.  
-
-La blessure devient le lieu de révélation.  
-
-Et le jugement devient l'instant où la création entière apparaît telle qu'elle est devant son propre centre.  
+Le jugement révèle alors ce qui demeure ouvert et ce qui demeure fermé.  
 
 ---
 
-## Conclusion
+## Conclusion  
 
 Le plus petit n'est pas celui qui possède davantage de séparation que les autres.  
 
@@ -450,45 +400,21 @@ La captivité.
 
 Toutes ces réalités mettent à nu ce que le reste de la création dissimule encore.  
 
-Le Christ désigne le plus petit non comme un être différent.  
-
-Il le désigne comme un lieu.  
+Le Christ désigne le plus petit comme un lieu de révélation.  
 
 Le lieu où la blessure du Fils étendu apparaît à découvert.  
 
-Le lieu où la fragmentation devient visible.  
-
-Le lieu où la séparation atteint la surface.  
-
-À travers lui, c'est l'état du corps entier qui est révélé.  
-
-C'est pourquoi le texte poursuit son mouvement vers quelque chose de plus vaste.  
-
 "Toutes les nations seront rassemblées devant lui."  
 
-Le sujet final n'est pas le plus petit.  
+Le sujet final n'est donc pas le plus petit.  
 
-Le sujet final est l'ensemble des nations.  
+Le sujet final est la totalité du Fils étendu.  
 
-Le sujet final est le Fils étendu dans sa totalité.  
+Le plus petit devient la porte.  
 
-Le plus petit devient alors une porte.  
+Les nations deviennent le miroir.  
 
-Un point d'apparition.  
-
-Un lieu de révélation.  
-
-À travers lui, le Fils concentré dévoile l'état du Fils étendu tout entier.  
-
-Ce qui apparaît dans la blessure d'un seul  
-
-révèle la condition de l'ensemble.  
-
-Le plus petit est le visible.  
-
-Les nations sont l'ensemble.  
-
-Et le Christ révèle l'un à travers l'autre.
+Et le Fils concentré révèle l'un à travers l'autre.  
 
 ---
 
