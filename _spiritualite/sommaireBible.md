@@ -66,7 +66,7 @@ Ces fichiers préparent la lecture structurelle de la Bible.
 
 ## VI. Christologie structurelle  
 - Évangiles
-      - les plus petits
+      - les plus petits [plus petits](https://lapinsights.org/spiritualite/pluspetit/)
   
 - Jésus  
 
