@@ -480,7 +480,7 @@ Et le jugement cesse d'être un verdict.
 
 Il devient un dévoilement.
 
-Le Christ ne révèle ce qui n'a jamais été blessé.
+Le Christ révèle ce qui n'a jamais pu être blessé.
 
 La filiation demeure.
 
