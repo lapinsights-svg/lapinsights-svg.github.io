@@ -181,9 +181,9 @@ Le cœur du passage se trouve dans une seule phrase :
 
 "C'est à moi que vous l'avez fait."
 
-Le Christ ne révèle pas un être absent.
-
-Il révèle une présence cachée.
+Le Christ ne révèle pas un être absent.  
+ 
+Il révèle une présence demeurée là depuis le commencement.  
 
 Ce qui semblait séparé est amené à la lumière.
 
