@@ -16,15 +16,14 @@ tags:
 og_image: /statics/images/spiritualite/pluspetit.webp
 ---
 
-
-![pluspetit](/statics/images/spiritualite/pluspetit.webp)
+![pluspetit](/statics/ualite/pluspetit.webp
 
 # Les Plus Petits  
 ## Le Fils caché dans les fragments dispersés  
 
 ### Texte étudié
 
-Évangile selon Matthieu 25,31-46. 
+Évangile selon Matthieu 25,31-46.  
 
 "Chaque fois que vous l'avez fait à l'un de ces plus petits de mes frères, c'est à moi que vous l'avez fait."  
 
@@ -103,39 +102,9 @@ L'une demeure ouverte à la circulation.
 
 L'autre se replie sur elle-même.  
 
-## Le jugement comme discernement
-
-Le jugement n'est pas une condamnation.  
-
-Il est une révélation.  
-
-Une séparation.  
-
-Comme au commencement :  
-
-la lumière et les ténèbres,  
-
-la terre et la mer,  
-
-le jour et la nuit.  
-
-Le Fils distingue ce qui demeure relié à l'axe de ce qui reste enfermé dans la dispersion.  
-
-"Il séparera les hommes les uns des autres."  
-
-La séparation n'est pas morale.  
-
-Elle est structurelle.  
-
-Deux densités deviennent visibles.  
-
-L'une demeure ouverte à la circulation.  
-
-L'autre se replie sur elle-même.  
-
 ---
 
-Cette lecture rejoint celle d'Éden.
+Cette lecture prolonge celle d'Éden.  
 
 Dans Éden, la chute n'est pas un châtiment.  
 
@@ -159,27 +128,9 @@ Dans Matthieu, la séparation est dévoilée.
 
 Dans l'Apocalypse, la séparation est guérie.  
 
-Les trois récits décrivent ainsi différentes étapes d'un même mouvement du Fils étendu par rapport à son axe.
+Les trois récits décrivent ainsi différentes étapes d'un même mouvement du Fils étendu par rapport à son axe.  
 
 ---
-
-## Les figures de la séparation  
-
-"J'avais faim."  
-
-La faim n'est pas seulement celle du corps.  
-
-Elle est le signe d'un manque intérieur.  
-
-Une rupture dans la circulation.  
-
-Un fragment du Fils étendu appelle la réunion.  
-
-"J'avais soif."  
-
-La source n'est plus ressentie.  
-
-La densité cherche son origine.  
 
 ## Les figures de la séparation  
 
@@ -235,16 +186,6 @@ L'étranger est celui qui paraît séparé.
 
 Celui qui n'est plus reconnu.  
 
-Dans la structure de la Bible, toute dispersion produit de l'étrangeté.
-
-
-
-"J'étais un étranger."  
-
-L'étranger est celui qui paraît séparé.  
-
-Celui qui n'est plus reconnu.  
-
 Dans la structure de la Bible, toute dispersion produit de l'étrangeté.  
 
 La création devient étrangère à son origine.  
@@ -281,29 +222,43 @@ Le cœur du passage se trouve dans une seule phrase :
 
 Le Christ ne dit pas :  
 
-"Vous avez servi quelqu'un d'autre que moi."  
+"J'étais séparé de mon Père."  
 
 Il dit :  
 
-"C'était moi."  
+"J'étais là."  
 
-Toute la force du texte est là.  
+Dans la faim.  
+
+Dans l'exil.  
+
+Dans la maladie.  
+
+Dans la prison.  
+
+La séparation apparaît.  
+
+La filiation demeure.  
 
 Le Fils concentré reconnaît sa propre présence dans les fragments du Fils étendu.  
-
-Chaque être.  
 
 Chaque blessure.  
 
 Chaque manque.  
 
-Chaque séparation.  
+Chaque exclusion.  
+
+Chaque séparation apparente.  
 
 Le Christ se tient à l'intérieur.  
 
 Non comme un individu caché.  
 
-Comme la structure elle-même.  
+Comme la filiation elle-même.  
+
+C'est pourquoi servir le plus petit ne consiste pas seulement à aider un être séparé.  
+
+C'est reconnaître le Fils là où la séparation semble pourtant évidente.  
 
 ---
 
@@ -454,6 +409,12 @@ L'autre devient catégorie.
 La circulation se referme.  
 
 L'axe disparaît derrière la fragmentation.  
+
+Leur erreur n'est pas d'abord une faute morale.  
+
+Elle est de croire que la séparation décrit la réalité.  
+
+Elle est de prendre l'apparence pour l'identité.  
 
 Le jugement n'est donc pas :  
 
