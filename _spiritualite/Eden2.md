@@ -199,7 +199,7 @@ C’est la description de ce que devient la densité quand la polarité s’ouvr
 > « Il ne faut pas qu’il avance sa main… » (Gn 3,22)
 
 Ce verset empêche la fixation définitive de la rupture.  
-Si l’homme fracturé accédait à l’Arbre de Vie, il deviendrait éternellement séparé.
+Si l’homme fracturé accédait à l’Arbre de Vie, il demeurerait dans la croyance en une séparation éternelle.
 
 La structure suspend l’accès à la vie :  
 les deux régimes ne peuvent coexister.  
