@@ -600,6 +600,7 @@ le Royaume devient visible.
 Alors ce qui paraissait dispersé retrouve son axe.
 
 Et ce qui était vrai depuis le commencement apparaît à découvert.
+
 ---
 
 Céleste R.
