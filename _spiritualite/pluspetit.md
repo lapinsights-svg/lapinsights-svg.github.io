@@ -166,9 +166,9 @@ Le cœur du passage se trouve dans une seule phrase :
 
 "C'est à moi que vous l'avez fait."
 
-Le Christ ne révèle pas un être absent.  
- 
-Il révèle une présence demeurée là depuis le commencement.  
+Le Christ ne révèle pas un être absent.
+
+Il révèle une présence demeurée là depuis le commencement.
 
 Ce qui semblait séparé est amené à la lumière.
 
@@ -183,6 +183,12 @@ Le Fils demeurait présent.
 Et lorsque la lumière se fait, le Christ déclare :
 
 "C'était moi."
+
+La faim, la soif, l'exil et la prison ne décrivent pas le Fils.
+
+Elles décrivent une filiation qui n'est plus reconnue.
+
+Elles montrent ce qui apparaît lorsque la séparation est prise pour la réalité.
 
 Le secret du texte n'est donc pas la séparation.
 
@@ -210,7 +216,7 @@ Servir le plus petit consiste alors à reconnaître le Fils là où la séparati
 
 Jésus dit en substance :
 
-"Chaque fois que vous avez vu le Fils là où tout semblait dire son absence,  
+"Chaque fois que vous avez vu le Fils là où tout semblait dire son absence,
 
 c'est le Christ que vous avez glorifié."
 
