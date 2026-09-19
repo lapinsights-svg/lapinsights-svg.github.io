@@ -97,6 +97,10 @@ celle qui voit la filiation,
 
 et celle qui croit à la séparation.
 
+L'une demeure ouverte à la circulation.  
+
+L'autre se replie sur elle-même.
+
 ---
 
 Cette lecture prolonge celle développée dans :
