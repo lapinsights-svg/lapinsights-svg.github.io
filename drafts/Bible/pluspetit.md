@@ -2,7 +2,7 @@
 title: "Les Plus Petits"
 resume: "Le Fils caché dans les fragments dispersés"
 episode: "La structure intérieure de la Bible"
-date: 2026-07-18
+date: 2026-07-19
 tags:
   - Évangile
   - Matthieu
@@ -119,6 +119,64 @@ Un fragment du Fils étendu appelle la réunion.
 La source n'est plus ressentie.  
 
 La densité cherche son origine.  
+
+## Les figures de la séparation  
+
+"J'avais faim."  
+
+La faim n'est pas seulement celle du corps.  
+
+Elle est le signe d'un manque intérieur.  
+
+Une rupture dans la circulation.  
+
+Un fragment du Fils étendu appelle la réunion.  
+
+"J'avais soif."  
+
+La soif n'est pas seulement celle de l'eau.  
+
+Elle est le signe d'un éloignement de la source.  
+
+Une densité qui ne perçoit plus son origine.  
+
+Une filiation qui cherche à retrouver sa circulation.  
+
+La source n'est plus ressentie.  
+
+La densité cherche son origine.  
+
+C'est pourquoi Jésus ajoute :  
+
+"Vous m'avez donné à boire."  
+
+Donner à boire ne signifie pas seulement répondre à un besoin matériel.  
+
+Cela signifie rétablir une circulation interrompue.  
+
+Permettre à la source de rejoindre ce qui semblait séparé.  
+
+Reconnaître le Fils là où il apparaît sous la forme du manque.  
+
+Répondre à l'appel de la filiation lorsqu'elle cherche à retrouver son origine.  
+
+Ce qui est abreuvé n'est pas seulement une personne.  
+
+C'est le lien lui-même.  
+
+La circulation elle-même.  
+
+La filiation elle-même.  
+
+"J'étais un étranger."  
+
+L'étranger est celui qui paraît séparé.  
+
+Celui qui n'est plus reconnu.  
+
+Dans la structure de la Bible, toute dispersion produit de l'étrangeté.
+
+
 
 "J'étais un étranger."  
 
