@@ -41,7 +41,9 @@ L'une demeure ouverte à l'axe.
 
 L'autre demeure enfermée dans la séparation.
 
-À travers ce discours, Jésus révèle que toute rencontre avec la fragmentation du monde est déjà une rencontre avec lui-même.
+À travers ce discours, Jésus révèle que toute rencontre avec la fragmentation du monde. 
+
+est déjà une rencontre avec le Christ.
 
 ---
 
@@ -79,7 +81,9 @@ la terre et la mer,
 
 le jour et la nuit.
 
-Le Fils concentré révèle ce qui demeure ouvert à la filiation et ce qui demeure enfermé dans la croyance en la séparation.
+Le Fils concentré révèle ce qui demeure ouvert à la filiation  
+
+et ce qui demeure enfermé dans la croyance en la séparation.
 
 "Il séparera les hommes les uns des autres."
 
@@ -235,7 +239,9 @@ Servir le plus petit consiste alors à reconnaître le Fils là où la séparati
 
 Jésus dit en substance :
 
-"Chaque fois que vous avez vu le Fils là où tout semblait dire son absence, c'est le Christ que vous avez glorifié."
+"Chaque fois que vous avez vu le Fils là où tout semblait dire son absence,  
+
+c'est le Christ que vous avez glorifié."
 
 ---
 
