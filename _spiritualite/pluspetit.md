@@ -258,6 +258,9 @@ La lumière n'ajoute rien.
 
 Elle révèle ce qui était déjà là.
 
+Jésus dit en substance :  
+" Chaque fois que vous avez vu le Fils là où tout semblait dire son absence, c'est le Christ que vous avez glorifié."
+
 ---
 
 ## Pourquoi ils ne savent pas
@@ -447,6 +450,40 @@ Une conscience qui demeure dans la circulation de l'axe.
 Un retour à la source sans quitter la forme.  
 
 La vie éternelle est la reconnaissance vécue d'une filiation qui n'a jamais cessé d'exister.  
+
+---
+
+## La perception et l'action
+
+Le Christ ne sépare jamais la vision de l'action.  
+
+Ce que l'homme reconnaît finit souvent par apparaître dans sa manière d'être et parfois dans sa manière d'agir.  
+
+Les brebis ne voient pas seulement la faim.  
+
+Elles reconnaissent encore la filiation là où la séparation semble présente.  
+
+Les boucs ne demeurent pas dans l'indifférence à cause d'une faute morale.  
+
+Ils prennent l'apparence pour la réalité et ne reconnaissent plus le Fils derrière la fragmentation.  
+
+L'action ne crée donc pas la vision.  
+
+Elle peut en être la conséquence, mais la reconnaissance demeure première.  
+
+Ainsi, lorsqu'un sans-abri est rencontré, deux perceptions peuvent apparaître.  
+
+L'une voit uniquement la séparation.  
+
+L'autre reconnaît encore la filiation derrière l'apparence.  
+
+*Nourrir consiste à reconnaître la filiation là où la séparation semble visible.  
+
+C'est refuser de réduire l'autre à sa condition, à sa blessure ou à son manque.  
+
+C'est voir le Fils là où tout semble parler de séparation.  
+
+Et parce qu'il n'existe qu'une seule filiation, ce qui est reconnu chez l'autre est reconnu simultanément en soi-même.*
 
 ---
 
