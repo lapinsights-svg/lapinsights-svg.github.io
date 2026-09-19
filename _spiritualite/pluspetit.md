@@ -343,6 +343,8 @@ Le plus petit devient la porte.
 
 À travers lui, le Fils concentré dévoile l'état du Fils étendu tout entier.
 
+Le plus petit est le lieu où l'apparence de séparation est la plus visible et où la présence du Fils doit être reconnue.  
+
 ---
 
 ## Le feu éternel
