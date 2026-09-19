@@ -100,6 +100,64 @@ L'une demeure ouverte à la circulation.
 
 L'autre se replie sur elle-même.  
 
+## Le jugement comme discernement
+
+Le jugement n'est pas une condamnation.  
+
+Il est une révélation.  
+
+Une séparation.  
+
+Comme au commencement :  
+
+la lumière et les ténèbres,  
+
+la terre et la mer,  
+
+le jour et la nuit.  
+
+Le Fils distingue ce qui demeure relié à l'axe de ce qui reste enfermé dans la dispersion.  
+
+"Il séparera les hommes les uns des autres."  
+
+La séparation n'est pas morale.  
+
+Elle est structurelle.  
+
+Deux densités deviennent visibles.  
+
+L'une demeure ouverte à la circulation.  
+
+L'autre se replie sur elle-même.  
+
+---
+
+Cette lecture rejoint celle d'Éden.
+
+Dans Éden, la chute n'est pas un châtiment.  
+
+Elle est la description de ce que devient la densité lorsque la polarité s'ouvre.  
+
+Le récit utilise les images du jardin, du serpent, de l'expulsion et de la malédiction pour rendre visible une transformation intérieure.  
+
+De la même manière, Matthieu ne décrit pas nécessairement une condamnation infligée de l'extérieur.  
+
+Il décrit ce qui apparaît lorsque la séparation devient visible.  
+
+Le langage du roi, du tribunal, des brebis, des boucs, du feu et du jugement donne une forme narrative à une réalité plus profonde.  
+
+Le jugement n'est pas un châtiment.  
+
+Il est la description de ce que devient la densité lorsque la séparation devient visible.  
+
+Dans Éden, la séparation commence.  
+
+Dans Matthieu, la séparation est dévoilée.  
+
+Dans l'Apocalypse, la séparation est guérie.  
+
+Les trois récits décrivent ainsi différentes étapes d'un même mouvement du Fils étendu par rapport à son axe.
+
 ---
 
 ## Les figures de la séparation  
