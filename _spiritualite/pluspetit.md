@@ -13,10 +13,10 @@ tags:
   - Fils étendu
   - Fils concentré
   - Structure
-og_image: /statics/images/spiritualite/pluspetit1.webp
+og_image: /statics/images/spiritualite/pluspetit.webp
 ---
 
-/statics/images/spiritualite/pluspetit1.webp
+/statics/images/spiritualite/pluspetit.webp
 
 # Les Plus Petits  
 ## Le Fils caché dans les fragments dispersés  
