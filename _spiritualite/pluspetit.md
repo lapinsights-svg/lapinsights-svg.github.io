@@ -495,7 +495,7 @@ Ils révèlent deux orientations.
 
 Deux mouvements.  
 
-Deux densités.  
+Deux perceptions.  
 
 Les brebis sont les mouvements du Fils étendu qui demeurent orientés vers le Fils concentré.  
 
@@ -503,11 +503,11 @@ La circulation y demeure ouverte.
 
 L'unité peut encore y être reconnue.  
 
-La blessure appelle la rencontre.  
+La blessure n'efface pas la filiation.  
 
-L'étranger appelle l'accueil.  
+L'étranger n'efface pas la filiation.  
 
-La faim appelle le partage.  
+La faim n'efface pas la filiation.  
 
 L'axe demeure perceptible.  
 
@@ -529,9 +529,27 @@ Leur erreur n'est pas une faute morale.
 
 Elle est la croyance que la séparation décrit la réalité.  
 
-Elle est la croyance que la fracture décrit le Fils.  
+Elle est la croyance que l'apparence dit la vérité du Fils.  
 
-Elle est la croyance que l'apparence décrit l'être.  
+Les brebis et les boucs ne sont pas des identités fixes.  
+
+Ils sont des mouvements de la perception.  
+
+La même personne peut reconnaître la filiation dans une situation et prendre la séparation pour la réalité dans une autre.  
+
+La même conscience peut osciller entre les deux visions.  
+
+Les brebis et les boucs traversent ainsi chaque être.  
+
+Ils ne sont pas deux humanités.  
+
+Ils sont deux manières de percevoir le Fils étendu.  
+
+Le Christ représente l'achèvement de ce mouvement.  
+
+Il manifeste une perception entièrement guérie.  
+
+Une perception qui ne prend plus jamais la séparation pour la vérité.  
 
 Le jugement n'est donc pas :  
 
@@ -569,23 +587,31 @@ Les lieux où l'unité circule encore.
 
 Les lieux où la séparation est prise pour la vérité.  
 
-Les brebis et les boucs traversent alors toute la création.  
+Le jugement révèle alors ce qui demeure ouvert à la filiation et ce qui demeure enfermé dans la croyance en la séparation.
 
-Ils traversent les peuples.  
 
-Les sociétés.  
 
-Les institutions.  
+Le Christ représente l'achèvement de ce mouvement.
 
-Les événements.  
+Il manifeste une perception entièrement guérie.
 
-Ils traversent aussi chaque être.  
+Une perception qui ne prend plus jamais la séparation pour la vérité.
 
-Car la séparation et le retour à l'axe ne sont pas seulement des réalités collectives.  
+Suivre le Christ ne consiste donc pas à devenir une meilleure brebis.
 
-Ils traversent également l'intériorité humaine.  
+Suivre le Christ consiste à laisser la perception guérir progressivement.
 
-Le jugement révèle alors ce qui demeure ouvert à la filiation et ce qui demeure enfermé dans la croyance en la séparation.  
+L'oscillation entre séparation et filiation diminue alors peu à peu.
+
+Ce qui apparaît par moments devient plus stable.
+
+Ce qui était aperçu devient vécu.
+
+La filiation cesse progressivement d'être une intuition intermittente pour devenir une vision permanente.
+
+Le Christ montre ainsi ce vers quoi tend le Fils étendu :
+
+une perception qui ne prend plus jamais l'apparence pour la réalité.
 
 ---
 
