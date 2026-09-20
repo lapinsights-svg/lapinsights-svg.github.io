@@ -1,6 +1,6 @@
 ---
 title: "Les Plus Petits"
-resume: "Le Fils caché dans les fragments dispersés"
+resume: "Le Fils présent dans les fragments dispersés"
 episode: "La structure intérieure de la Bible"
 categories: spiritualite
 layout: article
