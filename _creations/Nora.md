@@ -48,7 +48,7 @@ Peut-être fallait-il seulement écouter.
 
 Alors elle est revenue.
 
-Attirée par cette étrange présence. 
+Attirée par cette étrange présence  
 dressée sur ses trois pieds,
 
 elle cherchait.
