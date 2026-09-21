@@ -57,7 +57,7 @@ Une note.
 
 Une autre.
 
-Un fragment de lumière. 
+Un fragment de lumière  
 dans l’épaisseur du silence.
 
 Les hommes voyaient un piano.
