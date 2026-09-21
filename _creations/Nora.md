@@ -19,7 +19,7 @@ tags:
 Nora
 
 À quel instant. 
-une patte devient-elle une main. 
+une patte devient-elle une main  
 lorsqu’elle cherche une musique ?
 
 Nora est venue au piano. 
