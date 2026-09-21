@@ -12,6 +12,7 @@ tags:
   - mystique
   - vivant
 ---
+![Nora](/statics/images/creations/Nora.webp)
 
 [🎹 Voir Nora jouer du piano sur YouTube](https://www.youtube.com/watch?v=zeoT66v4EHg)
 
