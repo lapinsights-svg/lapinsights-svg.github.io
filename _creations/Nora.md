@@ -17,16 +17,16 @@ tags:
 
 Nora
 
-À quel instant
-une patte devient-elle une main
+À quel instant. 
+une patte devient-elle une main. 
 lorsqu’elle cherche une musique ?
 
-Nora est venue au piano
+Nora est venue au piano. 
 comme on entre dans une lumière inconnue.
 
-Sans savoir le nom des touches,
-sans connaître le chemin des notes,
-elle a posé ses pattes et même sa tête
+Sans savoir le nom des touches,  
+sans connaître le chemin des notes,  
+elle a posé ses pattes  
 sur le noir et le blanc.
 
 Et quelque chose a répondu.
@@ -35,22 +35,20 @@ Un son s’est levé.
 
 Puis un autre.
 
-Comme si, sous le bois,
-une mémoire ancienne
+Comme si, sous le bois,  
+une mémoire ancienne  
 attendait son passage.
 
 Personne ne lui avait appris.
 
 Peut-être n’y avait-il rien à apprendre.
 
-Peut-être fallait-il seulement
-écouter.
+Peut-être fallait-il seulement écouter.
 
 Alors elle est revenue.
 
-Jour après jour,
-devant ce grand silence dressé
-sur ses trois pieds,
+Attirée par cette étrange présence. 
+dressée sur ses trois pieds,
 
 elle cherchait.
 
@@ -58,20 +56,20 @@ Une note.
 
 Une autre.
 
-Un fragment de lumière
+Un fragment de lumière. 
 dans l’épaisseur du silence.
 
 Les hommes voyaient un piano.
 
-Nora, peut-être,
+Nora, peut-être,  
 y voyait une porte.
 
-Puis un jour,
+Puis un jour,  
 les portes se sont ouvertes.
 
-Des cordes sont apparues,
-des archets ont respiré,
-des dizaines de voix humaines
+Des cordes sont apparues,  
+des archets ont respiré,  
+des dizaines de voix humaines. 
 se sont levées autour d’elle.
 
 L’orchestre attendait.
@@ -80,33 +78,30 @@ Nora a posé ses pattes.
 
 Et la musique est née.
 
-Elle ne savait pas
+Elle ne savait pas. 
 qu’elle jouait avec eux.
 
-Eux-mêmes ne savaient peut-être plus
+Eux-mêmes ne savaient peut-être plus. 
 s’ils jouaient pour elle.
 
-Pendant quelques instants,
+Pendant quelques instants,  
 la musique n’a plus eu de maître.
 
 Elle traversait les corps,
 
-passait des cordes
+passait des cordes. 
 aux touches,
 
-des touches
+des touches.  
 aux griffes,
 
-des griffes
+des griffes. 
 au silence.
 
 Et le silence, à son tour,
 semblait écouter.
 
 Nora est morte presque vingt ans plus tard.
-
-Le piano, lui,
-est resté.
 
 Les touches noires et blanches
 ont gardé leurs secrets.
