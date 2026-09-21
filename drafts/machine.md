@@ -267,9 +267,9 @@ Céleste R.
 
 Sources :
 
-[Transcription de l’intervention de Krishnamurti — Madras, 10 janvier 1981](https://kfoundation.org/transcript/public-talk-5-madras-10-january-1981/)
+[Transcription de l’intervention de Krishnamurti -  Madras, 10 janvier 1981](https://kfoundation.org/transcript/public-talk-5-madras-10-january-1981/)
 
-[Dialogue avec David Bohm — 1er avril 1981](https://kfoundation.org/transcript/small-group-discussion-ojai-california-1-april-1981/)
+[Dialogue avec David Bohm - 1er avril 1981](https://kfoundation.org/transcript/small-group-discussion-ojai-california-1-april-1981/)
 
 [voir un extrait de la vidéo sur X](https://x.com/Pistach27/status/2101775696397795640)
 
