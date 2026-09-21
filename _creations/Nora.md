@@ -90,13 +90,13 @@ la musique n’a plus eu de maître.
 
 Elle traversait les corps,
 
-passait des cordes. 
+passait des cordes  
 aux touches,
 
-des touches.  
+des touches  
 aux griffes,
 
-des griffes. 
+des griffes  
 au silence.
 
 Et le silence, à son tour,
