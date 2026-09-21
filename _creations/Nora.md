@@ -70,7 +70,7 @@ les portes se sont ouvertes.
 
 Des cordes sont apparues,  
 des archets ont respiré,  
-des dizaines de voix humaines. 
+des dizaines de voix humaines  
 se sont levées autour d’elle.
 
 L’orchestre attendait.
