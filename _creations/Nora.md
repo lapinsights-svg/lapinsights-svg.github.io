@@ -18,11 +18,11 @@ tags:
 
 Nora
 
-À quel instant. 
+À quel instant  
 une patte devient-elle une main  
 lorsqu’elle cherche une musique ?
 
-Nora est venue au piano. 
+Nora est venue au piano  
 comme on entre dans une lumière inconnue.
 
 Sans savoir le nom des touches,  
