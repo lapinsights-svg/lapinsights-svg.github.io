@@ -5,7 +5,6 @@ resume: "Krishnamurti interroge l’humain face à la machine, mais son postulat
 date: 2026-09-21
 categories: idees
 tags: ["Krishnamurti", "IA", "intelligence artificielle", "pensée", "machine", "transhumanisme"]
-permalink: /lapinsights/machine-pense-mieux-homme/
 og_image: /statics/images/idees/machine.webp
 ---
 
