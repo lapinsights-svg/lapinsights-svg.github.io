@@ -271,3 +271,5 @@ Sources :
 
 [Dialogue avec David Bohm — 1er avril 1981](https://kfoundation.org/transcript/small-group-discussion-ojai-california-1-april-1981/)
 
+[voir un extrait de la vidéo sur X](https://x.com/Pistach27/status/2101775696397795640)
+
