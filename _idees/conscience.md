@@ -162,9 +162,7 @@ Nous avons peut-être aussi le droit de poser la question inverse.
 
 Et si l’esprit n’était pas ce que la matière produit, mais ce à partir de quoi notre expérience de la matière devient possible ?
 
-Cela ne prouve rien.
-
-Mais c’est précisément le point.
+Cela ne prouve rien. Et c’est bien là que commence la réflexion.  
 
 Une hypothèse n’a pas besoin d’être transformée en vérité pour être pensée.
 
