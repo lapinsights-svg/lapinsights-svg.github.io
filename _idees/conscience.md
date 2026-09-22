@@ -26,7 +26,7 @@ Je ne reproche pas à Guillemant de chercher. Je ne lui reproche pas non plus de
 
 Je lui reproche de transformer trop rapidement ses hypothèses en démonstrations.
 
-Car dire "j'ai démontré" n'est pas une manière de donner du poids à une hypothèse.  
+Car dire "j'ai démontré" ne peut pas être une manière de donner du poids à une hypothèse.  
 
 C'est une affirmation scientifique précise.  
 
