@@ -259,6 +259,3 @@ Mais cela change l’endroit où nous cherchons.
 
 Céleste R.
 
-
----
-Céleste R.
