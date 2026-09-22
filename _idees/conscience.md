@@ -95,7 +95,7 @@ Elle ne montre pas qu’une conscience pilote la matière.
 
 Entre ces affirmations et les équations, il existe un vide.
 
-Et ce vide n’est pas rempli par le mot « quantique ».
+Et ce vide n’est pas rempli par le mot "quantique".
 Le cerveau produit-il la conscience ?
 
 Il existe une autre difficulté.
@@ -182,7 +182,8 @@ Le champ.
 
 Toujours quelque part dans la machine.
 
-Mais peut-être que nous commettons déjà une première erreur en plaçant la conscience et l’Esprit sur le même plan.
+Mais peut-être que nous commettons déjà une première erreur en plaçant la conscience et l’Esprit sur le même plan.  
+
 La conscience n’est peut-être pas l’Esprit
 
 Dans une lecture structurelle d’Un cours en miracles, il faut distinguer les deux.
@@ -233,7 +234,8 @@ L’une réduit la conscience à la matière.
 
 L’autre transforme la conscience de l’ego en réalité métaphysique ultime.
 
-Il faut peut-être simplement tenir les niveaux séparés.
+Il faut peut-être simplement tenir les niveaux séparés.  
+
 Le temps appartient-il à cette expérience ?
 
 Nous savons que la conscience psychologique se déploie dans le temps.
@@ -357,4 +359,5 @@ Cela ne prouve rien.
 
 Mais cela change l’endroit où nous cherchons.
 
+---
 Céleste R.
