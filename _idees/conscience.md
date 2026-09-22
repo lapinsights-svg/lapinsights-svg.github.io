@@ -107,9 +107,7 @@ Cette idée est aujourd’hui si familière qu’elle semble parfois évidente.
 
 Mais son évidence repose sur une hypothèse.
 
-Nous observons une corrélation.
-
-Nous en déduisons une origine.
+Nous observons une corrélation et nous en déduisons une origine.
 
 Le cerveau et l'expérience consciente sont liés.
 
