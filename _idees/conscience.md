@@ -87,7 +87,7 @@ Elle n’explique pas comment une conscience choisirait une réalité.
 
 Elle ne montre pas qu’un futur influence le présent.
 
-Elle ne montre pas qu’un esprit pilote la matière.
+Elle ne montre pas qu’une conscience pilote la matière.
 
 Entre ces affirmations et les équations, il existe un vide.
 
