@@ -21,6 +21,10 @@ Je partage cette conclusion.
 
 Beaucoup moins le chemin emprunté pour y parvenir.
 
+Je ne reproche pas à Guillemant de spéculer.  
+
+Je lui reproche de ne pas toujours distinguer clairement la science établie, l'hypothèse scientifique et la métaphysique.  
+
 Car dès que la conscience résiste aux explications habituelles, une tentation apparaît : la déplacer.
 
 Hier dans le cerveau.
