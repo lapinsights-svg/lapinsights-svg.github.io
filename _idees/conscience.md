@@ -8,7 +8,7 @@ og_image: /statics/images/idees/conscience.webp
 resume: "Et si le problème de la conscience venait de l'endroit où nous la cherchons ?"
 ---
 
-![conscience](/statics/images/idewebp
+![conscience](/statics/images/idees/conscience.webp)
 
 On peut considérer que l’intelligence artificielle ne sera jamais consciente sans avoir besoin d’inventer une physique de la conscience.
 
