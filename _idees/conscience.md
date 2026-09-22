@@ -102,7 +102,7 @@ On peut même détruire la radio et constater que la musique ne sort plus.
 
 Cela ne suffit pas à démontrer que la musique se trouve dans le transistor.  
 
-L’analogie ne prouve rien. Elle ouvre une question.  
+Cette analogie ne prouve rien, mais elle ouvre une question:   
 
 Et si le cerveau était moins le producteur de la conscience que son interface dans le monde physique ?  
 
