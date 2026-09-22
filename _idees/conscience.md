@@ -96,6 +96,7 @@ Elle ne montre pas qu’une conscience pilote la matière.
 Entre ces affirmations et les équations, il existe un vide.
 
 Et ce vide n’est pas rempli par le mot "quantique".
+
 Le cerveau produit-il la conscience ?
 
 Il existe une autre difficulté.
@@ -182,7 +183,7 @@ Le champ.
 
 Toujours quelque part dans la machine.
 
-Mais peut-être que nous commettons déjà une première erreur en plaçant la conscience et l’Esprit sur le même plan.  
+Mais peut-être que nous commettons déjà une première erreur en plaçant la conscience et l’Esprit sur le même plan.
 
 La conscience n’est peut-être pas l’Esprit
 
@@ -216,7 +217,23 @@ C’est précisément l’inverse.
 
 La séparation peut être vécue dans la forme sans avoir jamais constitué une rupture réelle dans l’unité.
 
-Le monde appartient ainsi à l’expérience projetée de l’ego.
+Le monde n’est donc pas à comprendre ici comme une simple projection mentale ou comme une réalité qui n’existerait que dans notre esprit.
+
+Il existe phénoménalement.
+
+Il y a un monde.
+
+Il y a des corps.
+
+Il y a des événements.
+
+Il y a de la douleur, des relations, des naissances et des morts.
+
+Cette réalité phénoménale appartient au monde de la forme.
+
+Mais elle n’est pas, dans cette lecture, une réalité ontologique en Dieu.
+
+Le monde est réel dans l’expérience de la forme, sans être la réalité ultime de l’Esprit.
 
 Le corps en est l’interface.
 
@@ -234,7 +251,7 @@ L’une réduit la conscience à la matière.
 
 L’autre transforme la conscience de l’ego en réalité métaphysique ultime.
 
-Il faut peut-être simplement tenir les niveaux séparés.  
+Il faut simplement tenir les niveaux séparés.
 
 Le temps appartient-il à cette expérience ?
 
@@ -283,6 +300,7 @@ L’une relève d’une proposition métaphysique.
 L’autre prétend relever de la causalité physique.
 
 Les confondre revient à mélanger deux registres distincts.
+
 Alors, où chercher la conscience ?
 
 La question pourrait donc être déplacée.
@@ -303,7 +321,7 @@ Le cerveau serait alors une interface dans la forme.
 
 Le corps, un moyen de communication.
 
-Le monde, une projection vécue.
+Le monde, une réalité phénoménale de la forme, et non une simple projection mentale.
 
 Et l’Esprit serait d’un autre ordre.
 
