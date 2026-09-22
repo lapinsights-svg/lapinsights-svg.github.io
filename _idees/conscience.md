@@ -20,7 +20,7 @@ selon lui, pour l’IA d’accéder à la conscience - ce que je soutiens aussi-
 
 C’est précisément là que le problème commence.
 
-Dès que la conscience résiste à l’explication computationnelle, certains la déplacent vers le quantique.  
+Dès qu’on n’arrive plus à expliquer la conscience par le fonctionnement du cerveau, certains la déplacent vers le quantique.  
 
 Microtubules, vibrations du vide, décohérence, rétrocausalité, lignes de temps.  
 
