@@ -120,7 +120,9 @@ Mais peut-être commettons-nous une première erreur en confondant la conscience
 
 La conscience n’est peut-être pas l’Esprit.
 
-Une autre possibilité apparaît alors. Elle rejoint, sur un tout autre registre, ce que propose Un cours en miracles :  
+Une autre possibilité apparaît alors.  
+
+Elle rejoint, sur un tout autre registre, ce que propose Un cours en miracles :  
 
 l’Esprit n’aurait pas besoin de la matière pour être.  
 
