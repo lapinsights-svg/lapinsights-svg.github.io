@@ -14,7 +14,7 @@ On peut considérer que l’intelligence artificielle ne sera jamais consciente 
 
 Cette réflexion fait notamment écho à un texte de Philippe Guillemant consacré à l’impossibilité, selon lui, pour l’IA d’accéder à la conscience.
 
-[Texte de Philippe Guillemant sur l’impossibilité pour l’IA d’accéder à la conscience](https://x.com/Philippe224)
+[texte de Philippe Guillemant sur l’impossibilité pour l’IA d’accéder à la conscience](https://x.com/Philippe2244/status/2102365377808224284)
 
 
 Je partage cette conclusion.
