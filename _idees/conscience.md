@@ -93,7 +93,7 @@ Elle ne montre pas qu’un esprit pilote la matière.
 
 Entre ces affirmations et les équations, il existe un vide.
 
-Et ce vide n’est pas rempli par le mot « quantique ».
+Et ce vide n’est pas rempli par le mot "quantique".
 
 Il existe une autre difficulté.
 
