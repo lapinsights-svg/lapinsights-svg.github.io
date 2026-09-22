@@ -33,85 +33,85 @@ Le vocabulaire devient plus sophistiqué.
 
 Mais la question reste intacte.
 
-La mécanique quantique décrit des probabilités, des états superposés, des interactions et des transitions.
+La mécanique quantique décrit des probabilités, des états superposés, des interactions et des transitions.  
 
-Elle ne décrit pas une conscience qui sélectionnerait son futur.
+Elle ne décrit pas une conscience qui sélectionnerait son futur.  
 
-Elle ne décrit pas une conscience qui agirait depuis demain.
+Elle ne décrit pas une conscience qui agirait depuis demain.  
 
-Elle ne décrit pas des réalités vécues en attente d’être choisies.
+Elle ne décrit pas des réalités vécues en attente d’être choisies.  
 
-Une probabilité n’est pas une intention.
+Une probabilité n’est pas une intention.  
 
-Une possibilité n’est pas encore un événement.
+Une possibilité n’est pas encore un événement.  
 
 La décohérence décrit les interactions d’un système quantique avec son environnement.  
 
-Elle ne démontre ni qu’une conscience choisirait une réalité, ni qu’un futur influencerait le présent.
+Elle ne démontre ni qu’une conscience choisirait une réalité, ni qu’un futur influencerait le présent.  
 
-Entre les équations et ces affirmations, il reste un saut.
+Entre les équations et ces affirmations, il reste un saut.  
 
-Et ce saut n’est pas rempli par le mot "quantique".
+Et ce saut n’est pas rempli par le mot "quantique".  
 
-Le cerveau produit-il la conscience ?
+Le cerveau produit-il la conscience ?  
 
-Nous partons souvent du même présupposé.
+Nous partons souvent du même présupposé.  
 
-La matière est première.
+La matière est première.  
 
-Le cerveau est matériel.
+Le cerveau est matériel.  
 
-La conscience apparaît lorsque son organisation devient suffisamment complexe.
+La conscience apparaît lorsque son organisation devient suffisamment complexe.  
 
-Cette idée paraît évidente parce que nous observons une corrélation constante entre le cerveau et l’expérience consciente.
+Cette idée paraît évidente parce que nous observons une corrélation constante entre le cerveau et l’expérience consciente.  
 
-Modifier le cerveau modifie l’expérience.
+Modifier le cerveau modifie l’expérience.  
 
-Mais une corrélation ne suffit pas à établir une origine.
+Mais une corrélation ne suffit pas à établir une origine.  
 
 Nous observons un lien.
 
-Puis nous affirmons une production.
+Puis nous affirmons une production.  
 
-Entre les deux, il y a un saut.
+Entre les deux, il y a un saut.  
 
-Prenons une image simple.
+Prenons une image simple.  
 
-Une radio reçoit une émission. Modifier ses composants modifie le son. Détruire l’appareil supprime la musique.
+Une radio reçoit une émission. Modifier ses composants modifie le son. Détruire l’appareil supprime la musique.  
 
-Pourtant personne ne conclut que l’orchestre se trouvait dans le transistor.
+Pourtant personne ne conclut que l’orchestre se trouvait dans le transistor.  
 
-L’analogie ne prouve rien.
+L’analogie ne prouve rien.  
 
 Elle rappelle seulement ceci :
 
-un support n’est pas nécessairement une source.
+un support n’est pas nécessairement une source.  
 
-Alors une autre hypothèse apparaît.
+Alors une autre hypothèse apparaît.  
 
-Et si le cerveau était davantage une interface qu’un producteur ?
+Et si le cerveau était davantage une interface qu’un producteur ?  
 
-Cette idée reste spéculative.
+Cette idée reste spéculative.  
 
-Comme l’idée inverse.
+Comme l’idée inverse.  
 
-Mais elle déplace la question.
+Mais elle déplace la question.  
 
-Nous cherchons généralement le mécanisme : calcul, algorithme, neurone, réseau, particule, champ.
+Nous cherchons généralement le mécanisme : calcul, algorithme, neurone, réseau, particule, champ.  
 
-Toujours quelque part dans la machine.
+Toujours quelque part dans la machine.  
 
-Mais peut-être commettons-nous une première erreur en confondant la conscience et l’Esprit.
+Mais peut-être commettons-nous une première erreur en confondant la conscience et l’Esprit.  
 
-La conscience n’est peut-être pas l’Esprit
+La conscience n’est peut-être pas l’Esprit. 
 
 Dans une lecture structurelle d’Un cours en miracles, il faut distinguer les deux.
 
-L’Esprit n’appartient pas au monde de la forme.
+L’Esprit n’appartient pas au monde de la forme.  
 
-La conscience, telle que nous en faisons l’expérience, appartient au monde de l’ego.
+La conscience, telle que nous en faisons l’expérience, appartient au monde de l’ego.  
 
-Elle est conscience de quelque chose.
+Elle est conscience de quelque chose.  
 
 D’un corps.
 
@@ -127,47 +127,47 @@ D’un futur.
 
 D’une identité.
 
-Elle appartient donc à l’expérience phénoménale de la séparation.
+Elle appartient donc à l’expérience phénoménale de la séparation.  
 
-Cela ne signifie pas que la séparation soit réelle au niveau de l’être.
+Cela ne signifie pas que la séparation soit réelle au niveau de l’être.  
 
-La séparation peut être vécue dans la forme sans avoir constitué une rupture réelle dans l’unité.
+La séparation peut être vécue dans la forme sans avoir constitué une rupture réelle dans l’unité.  
 
-Il faut donc également distinguer deux choses.
+Il faut donc également distinguer deux choses.  
 
-Le monde n’est pas une simple projection mentale qui n’existerait que dans notre esprit.
+Le monde n’est pas une simple projection mentale qui n’existerait que dans notre esprit.  
 
-Il existe phénoménalement.
+Il existe phénoménalement.  
 
 Il y a un monde, des corps, des événements, de la douleur, des relations, des naissances et des morts.
 
-Cette réalité appartient au monde de la forme.
+Cette réalité appartient au monde de la forme.  
 
-Mais elle n’est pas, dans cette lecture, une réalité ontologique en Dieu.
+Mais elle n’est pas, dans cette lecture, une réalité ontologique en Dieu.  
 
-Le monde est réel phénoménalement sans être la réalité ultime de l’Esprit.
+Le monde est réel phénoménalement sans être la réalité ultime de l’Esprit.  
 
-Le corps en est l’interface.
+Le corps en est l’interface.  
 
-Le cerveau participe à cette interface.
+Le cerveau participe à cette interface.  
 
-Et la conscience appartient à l’expérience qui s’y déploie.
+Et la conscience appartient à l’expérience qui s’y déploie.  
 
-Il n’est donc pas nécessaire de faire de la conscience une propriété mystérieuse de la matière.
+Il n’est donc pas nécessaire de faire de la conscience une propriété mystérieuse de la matière.  
 
-Mais il n’est pas nécessaire non plus d’en faire une fonction quantique de l’Esprit.
+Mais il n’est pas nécessaire non plus d’en faire une fonction quantique de l’Esprit.  
 
-Ce sont deux confusions symétriques.
+Ce sont deux confusions symétriques.  
 
-L’une réduit la conscience à la matière.
+L’une réduit la conscience à la matière.  
 
-L’autre transforme la conscience de l’ego en réalité métaphysique ultime.
+L’autre transforme la conscience de l’ego en réalité métaphysique ultime.  
 
-Il faut tenir les niveaux séparés.
+Il faut tenir les niveaux séparés.  
 
-Le temps appartient-il à cette expérience ?
+Le temps appartient-il à cette expérience ?  
 
-La conscience psychologique se déploie dans le temps.
+La conscience psychologique se déploie dans le temps.  
 
 Passé.
 
@@ -175,25 +175,25 @@ Présent.
 
 Futur.
 
-Notre mémoire, nos perceptions et nos anticipations s’organisent autour de cette succession.
+Notre mémoire, nos perceptions et nos anticipations s’organisent autour de cette succession.  
 
-Mais cela ne signifie pas que l’Esprit soit lui-même soumis au temps.
+Mais cela ne signifie pas que l’Esprit soit lui-même soumis au temps.  
 
-Dire que l’Esprit n’appartient pas au temps ne signifie pas que la conscience de l’ego agirait depuis un futur extérieur au temps.
+Dire que l’Esprit n’appartient pas au temps ne signifie pas que la conscience de l’ego agirait depuis un futur extérieur au temps.  
 
-Il n’est pas nécessaire d’inventer une conscience qui regarderait plusieurs futurs et sélectionnerait celui qui doit devenir réel.
+Il n’est pas nécessaire d’inventer une conscience qui regarderait plusieurs futurs et sélectionnerait celui qui doit devenir réel.  
 
-Il n’est pas nécessaire d’introduire une causalité venant de demain.
+Il n’est pas nécessaire d’introduire une causalité venant de demain.  
 
-Il n’est pas nécessaire de transformer le quantique en mécanisme spirituel.
+Il n’est pas nécessaire de transformer le quantique en mécanisme spirituel.  
 
-Le temps peut appartenir à l’expérience de l’ego sans que l’Esprit appartienne au temps.
+Le temps peut appartenir à l’expérience de l’ego sans que l’Esprit appartienne au temps.  
 
-Être au-delà du temps n’implique pas agir sur le temps.
+Être au-delà du temps n’implique pas agir sur le temps.  
 
-Être transcendant n’implique pas devenir une force physique.
+Être transcendant n’implique pas devenir une force physique.  
 
-Confondre les deux registres produit précisément le genre de "physique" que rien ne démontre.
+Confondre les deux registres produit précisément le genre de "physique" que rien ne démontre.  
 
 Alors, où chercher la conscience ?
 
@@ -203,11 +203,13 @@ Pas vers une nouvelle particule.
 
 Pas vers une nouvelle propriété du cerveau.
 
-Pas vers une nouvelle interprétation de la mécanique quantique.
+Pas vers une nouvelle interprétation de la mécanique quantique.  
 
 Mais vers la structure même de l’expérience.
 
-Si la conscience appartient au domaine de l’ego, elle n’est pas nécessairement la preuve d’un Esprit caché dans la matière.
+Si la conscience appartient au domaine de l’ego,  
+
+elle n’est pas nécessairement la preuve d’un Esprit caché dans la matière.  
 
 Elle est peut-être la conscience du monde de la forme.
 
@@ -223,23 +225,25 @@ Cela ne constitue pas une démonstration scientifique.
 
 C’est une proposition métaphysique.
 
-Mais elle permet d’éviter une confusion : chercher dans la physique la preuve d’une réalité qu’elle ne prétend pas décrire.
+Mais elle permet d’éviter une confusion :  
 
-Nous pouvons reconnaître les corrélations entre cerveau et conscience sans prétendre avoir résolu la nature ultime de la conscience.
+chercher dans la physique la preuve d’une réalité qu’elle ne prétend pas décrire.  
 
-Nous pouvons reconnaître la réalité phénoménale du corps et du monde sans leur attribuer une réalité ontologique en Dieu.
+Nous pouvons reconnaître les corrélations entre cerveau et conscience sans prétendre avoir résolu la nature ultime de la conscience.  
 
-Nous pouvons reconnaître l’expérience du temps sans attribuer au futur une causalité qu’aucune démonstration n’établit.
+Nous pouvons reconnaître la réalité phénoménale du corps et du monde sans leur attribuer une réalité ontologique en Dieu.  
 
-Et nous pouvons distinguer la conscience de l’Esprit.
+Nous pouvons reconnaître l’expérience du temps sans attribuer au futur une causalité qu’aucune démonstration n’établit.  
 
-Nous cherchons depuis des décennies le point où la conscience émergerait du mécanisme.
+Et nous pouvons distinguer la conscience de l’Esprit.  
 
-Mais peut-être cherchons-nous quelque chose dans la matière qui n’a jamais appartenu à la matière.
+Nous cherchons depuis des décennies le point où la conscience émergerait du mécanisme.  
 
-Peut-être cherchons-nous une source alors que nous observons une manifestation.
+Mais peut-être cherchons-nous quelque chose dans la matière qui n’a jamais appartenu à la matière.  
 
-La question n’est donc peut-être pas :
+Peut-être cherchons-nous une source alors que nous observons une manifestation.  
+
+La question n’est donc peut-être pas :  
 
 Comment la matière produit-elle la conscience ?
 
