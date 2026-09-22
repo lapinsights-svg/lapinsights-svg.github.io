@@ -179,9 +179,9 @@ Toujours quelque part dans la machine.
 
 Mais rien ne garantit que la conscience appartienne à cette catégorie de phénomènes.
 
-Nous savons que notre expérience se déroule dans le temps.
+Nous savons que la conscience psychologique se déploie dans le temps.  
 
-Nous ne savons pas si la conscience elle-même s’y trouve.
+Nous ne savons pas si la conscience, dans sa nature la plus profonde, est de même nature que ce temps.  
 
 Les deux propositions se ressemblent.
 
