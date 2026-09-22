@@ -255,6 +255,8 @@ Et plus profondément encore :
 
 Pourquoi confondons-nous la conscience avec l’Esprit ?
 
+Et si la conscience n'était pas quelque chose qui se trouve quelque part, mais ce par quoi quelque chose peut être vécu ?
+
 Cela ne prouve rien.
 
 Mais cela change l’endroit où nous cherchons.
