@@ -296,3 +296,13 @@ Mais cela change l’endroit où nous cherchons.
 
 Céleste R.
 
+
+Nota bene
+
+Cette idée n'est pas nouvelle. William James, Bergson ou Huxley avaient déjà envisagé que le cerveau puisse filtrer ou transmettre la conscience plutôt que la produire.
+
+J'ouvre ici une autre possibilité : et si la question elle-même était mal posée ?  
+
+Et si l'Esprit n'avait tout simplement pas besoin de la matière pour être ?
+
+Je ne le démontre pas. Je le propose comme hypothèse.
