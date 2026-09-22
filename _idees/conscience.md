@@ -52,7 +52,9 @@ Il y a là une frontière qu’il faudrait tenir.
 
 La physique quantique et le monde macroscopique ne sont pas deux univers étrangers.  
 
-Le second repose sur la première. Les atomes, les molécules, les matériaux, les transistors et les lasers obéissent aux lois quantiques.  
+Le second repose sur la première.  
+
+Les atomes, les molécules, les matériaux, les transistors et les lasers obéissent aux lois quantiques.  
 
 Mais cela ne permet pas de transporter sans précaution les concepts quantiques dans notre expérience ordinaire.  
 
@@ -94,7 +96,9 @@ Ils ne répondent pas nécessairement à la question de la nature de la conscien
 
 Une relation n’est pas nécessairement une identité.
 
-Une radio reçoit une émission. On peut mesurer les courants, les tensions, les oscillations dans ses composants.  
+Une radio reçoit une émission.  
+
+On peut mesurer les courants, les tensions, les oscillations dans ses composants.  
 
 On peut modifier un transistor et constater que le son change.  
 
@@ -120,7 +124,9 @@ Car appartenir au monde de l’ego ne signifie pas nécessairement appartenir au
 
 Nous faisons l’expérience du passé, du présent et du futur.  
 
-Nous organisons notre existence autour de cette succession. Notre cerveau lui-même fonctionne dans le temps.  
+Nous organisons notre existence autour de cette succession.  
+
+Notre cerveau lui-même fonctionne dans le temps.  
 
 Mais cela ne démontre pas que la conscience, dans ce qu’elle est au plus profond, soit de même nature que cette succession.
 
@@ -174,9 +180,10 @@ Et si nous cherchions la conscience au mauvais endroit ?
 
 Ce renversement ne ferme rien.
 
-Il ouvre.
+Il ouvre.  
 
 Et derrière cette porte, le champ des possibles devient beaucoup plus vaste.
+
 ---
 
 Céleste R.
