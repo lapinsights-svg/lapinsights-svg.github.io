@@ -32,9 +32,9 @@ C'est une affirmation scientifique précise.
 
 Elle exige des preuves qui permettent de distinguer ce qui est établi de ce qui est interprété.
 
-Or c'est précisément cette frontière qui disparaît lorsque des phénomènes quantiques réels deviennent la justification d'une théorie de la conscience,  
+Or c'est précisément cette frontière qui disparaît lorsque des phénomènes quantiques réels  
 
-du temps ou de la rétrocausalité.
+deviennent la justification d'une théorie de la conscience, du temps ou de la rétrocausalité.
 
 Car dès que la conscience résiste aux explications habituelles, une tentation apparaît : la déplacer.
 
