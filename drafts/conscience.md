@@ -14,7 +14,7 @@ On peut soutenir que l’intelligence artificielle n’est pas consciente sans a
 
 Cette réflexion part notamment d’un texte de Philippe Guillemant consacré à l’impossibilité,  
 
-selon lui, pour l’IA d’accéder à la conscience, où il avance notamment une conception quantique et rétrocausale de celle-ci.
+selon lui, pour l’IA d’accéder à la conscience - ce que je soutiens aussi- mais où il avance notamment une conception quantique et rétrocausale de celle-ci.
 
 [texte de Philippe Guillemant sur l’impossibilité pour l’IA d’accéder à la conscience](https://x.com/Philippe2244/status/2102365377808224284)
 
