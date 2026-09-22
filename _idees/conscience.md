@@ -11,7 +11,7 @@ resume: "Et si le problème de la conscience venait de l'endroit où nous la che
 ![conscience](/statics/images/idees/conscience.webp)
 
 
-On peut considérer que l’intelligence artificielle ne sera jamais consciente sans avoir besoin d’inventer une physique de la conscience.
+On peut considérer que [L’intelligence artificielle ne sera jamais consciente](https://lapinsights.org/idees/conscienceIA/) sans avoir besoin d’inventer une physique de la conscience.
 
 Cette réflexion fait notamment écho à un texte de Philippe Guillemant consacré à l’impossibilité pour l’IA d’accéder à la conscience.
 
