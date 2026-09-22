@@ -243,11 +243,11 @@ Les confondre revient à mélanger deux registres distincts.
 
 Alors peut-être que la question n’est pas :
 
-"Comment la matière produit-elle la conscience ?"
+Comment la matière produit-elle la conscience ?
 
 Peut-être que la question est :
 
-"Pourquoi sommes-nous si certains qu’elle doit la produire ?"
+Pourquoi sommes-nous si certains qu’elle doit la produire ?
 
 Depuis des décennies, nous cherchons le point où l’expérience consciente émergerait du mécanisme.
 
