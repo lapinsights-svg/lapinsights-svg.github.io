@@ -7,6 +7,7 @@ tags: ["conscience", "IA", "quantique", "esprit", "philosophie", "temps"]
 og_image: /statics/images/idees/conscience.webp
 resume: "Et si la conscience n’était pas produite par la matière ?"
 ---
+![conscience](/statics/images/idees/conscience.webp)
 
 
 On peut soutenir que l’intelligence artificielle n’est pas consciente sans avoir besoin d’inventer une physique de la conscience.
