@@ -112,21 +112,35 @@ Comme l’idée inverse.
 
 Mais elle déplace la question.  
 
-Nous cherchons généralement le mécanisme : calcul, algorithme, neurone, réseau, particule, champ.  
+Nous cherchons généralement le mécanisme : calcul, algorithme, neurone, réseau, particule, champ.
 
-Toujours quelque part dans la machine.  
+Toujours quelque part dans la machine.
 
-Mais peut-être commettons-nous une première erreur en confondant la conscience et l’Esprit.  
+Mais peut-être commettons-nous une première erreur en confondant la conscience et l’Esprit.
 
-La conscience n’est peut-être pas l’Esprit. 
+La conscience n’est peut-être pas l’Esprit.
 
-Dans une lecture structurelle d’Un cours en miracles, il faut distinguer les deux.
+Une autre possibilité apparaît alors. Elle rejoint, sur un tout autre registre, ce que propose Un cours en miracles :  
 
-L’Esprit n’appartient pas au monde de la forme.  
+l’Esprit n’aurait pas besoin de la matière pour être.  
 
-La conscience, telle que nous en faisons l’expérience, appartient au monde de l’ego.  
+Il ne serait pas produit par le cerveau, ni constitué de particules, ni fondé sur un mécanisme physique. 
 
-Elle est conscience de quelque chose.  
+Je ne présente évidemment pas cela comme une démonstration. C’est une hypothèse métaphysique.  
+
+Mais elle permet de poser la question autrement.  
+
+Dans une lecture structurelle d’Un cours en miracles, il faut alors distinguer les deux.
+
+L’Esprit n’appartient pas au monde de la forme.
+
+La conscience, telle que nous en faisons l’expérience, apparaît dans le monde de la forme :  
+
+elle est conscience de quelque chose, dans un corps, dans un temps, dans une expérience.
+
+Mais cela ne signifie pas que sa source soit le cerveau.
+
+Le cerveau pourrait n’être que le support ou l’interface de son expression dans le monde physique.
 
 D’un corps.
 
