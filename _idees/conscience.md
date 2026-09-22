@@ -43,9 +43,7 @@ Lignes temporelles.
 
 Futurs possibles.
 
-Le vocabulaire devient plus sophistiqué.
-
-La question reste intacte.
+Le vocabulaire devient plus sophistiqué... mais la question reste intacte.
 
 La mécanique quantique décrit des phénomènes remarquables.
 
