@@ -24,7 +24,7 @@ Dès qu’on n’arrive plus à expliquer la conscience par le fonctionnement du
 
 Microtubules, vibrations du vide, décohérence, rétrocausalité, lignes de temps.  
 
-Le vocabulaire change. Le mystère demeure.  
+Le vocabulaire change mais le mystère demeure.  
 
 La mécanique quantique décrit des phénomènes étranges. Elle ne dit pas que la conscience choisit un futur.  
 
