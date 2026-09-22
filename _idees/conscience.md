@@ -269,17 +269,23 @@ Peut-être cherchons-nous une source.
 
 Alors que nous observons déjà une manifestation.
 
-Peut-être cherchons-nous une cause.
+Peut-être cherchons-nous une cause.  
 
-Alors que nous faisons face à une condition.
+Alors que nous faisons face à une condition.  
 
-Peut-être cherchons-nous la conscience dans le mécanisme.
+Peut-être cherchons-nous la conscience dans le mécanisme,  
 
-Alors qu’elle n’est précisément pas une pièce du mécanisme.
+alors qu’elle n’est précisément pas une pièce du mécanisme.
 
-Et si l’erreur ne se trouvait pas dans la réponse ?
+Et si l’erreur ne se trouvait pas dans notre réponse, mais dans la question elle-même ?  
 
-Et si elle se trouvait dans l’emplacement même de la question ?
+Et si nous cherchions la conscience au mauvais endroit ?  
+
+Ce renversement ne ferme rien.  
+
+Il ouvre.   
+
+Et derrière cette porte, le champ des possibles devient beaucoup plus vaste.  
 
 ---
 
