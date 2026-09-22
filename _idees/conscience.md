@@ -17,19 +17,30 @@ Cette réflexion fait notamment écho à un texte de Philippe Guillemant consacr
 
 [Le texte de Philippe Guillemant sur X](https://x.com/Philippe2244/status/2102365377808224284)
 
+
 Je partage cette conclusion.
 
 Beaucoup moins le chemin emprunté pour y parvenir.
 
-Je ne reproche pas à Guillemant de spéculer.  
+Je ne reproche pas à Guillemant de chercher. Je ne lui reproche pas non plus de spéculer.
 
-Je lui reproche de ne pas toujours distinguer clairement la science établie, l'hypothèse scientifique et la métaphysique.  
+Je lui reproche de transformer trop rapidement ses hypothèses en démonstrations.
+
+Car dire « j'ai démontré » n'est pas une manière de donner du poids à une hypothèse.  
+
+C'est une affirmation scientifique précise.  
+
+Elle exige des preuves qui permettent de distinguer ce qui est établi de ce qui est interprété.
+
+Or c'est précisément cette frontière qui disparaît lorsque des phénomènes quantiques réels deviennent la justification d'une théorie de la conscience,  
+
+du temps ou de la rétrocausalité.
 
 Car dès que la conscience résiste aux explications habituelles, une tentation apparaît : la déplacer.
 
 Hier dans le cerveau.
 
-Aujourd’hui dans le quantique.
+Aujourd'hui dans le quantique.
 
 Microtubules. Décohérence. Rétrocausalité. Lignes temporelles. Futurs possibles.
 
