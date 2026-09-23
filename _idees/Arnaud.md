@@ -62,9 +62,9 @@ Sur Lapinsights, j'ai déjà écrit que "l'être humain ne souffre pas seulement
 
 Il souffre aussi de ce qui n'est pas reconnu".
 
-C'est peut-être ce qui frappe le plus ici : le sentiment d'avoir été vu, entendu, examiné,  
+C'est peut-être ce qui frappe le plus ici :  
 
-mais jamais réellement reconnu dans la réalité de ce qu'il vivait.
+le sentiment d'avoir été vu, entendu, examiné, mais jamais réellement reconnu dans la réalité de ce qu'il vivait.
 
 J'ai écrit aussi aussi que "la violence la plus difficile à nommer est souvent une absence : absence d'écoute, absence de réponse, absence de regard".
 
