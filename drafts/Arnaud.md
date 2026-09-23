@@ -51,9 +51,9 @@ Dans un précédent texte, j'écrivais que "le choix n'est pas libre si les alte
 
 Cette phrase me revient aujourd'hui à l'esprit.
 
-Car lorsqu'une personne affirme ne plus trouver de soulagement, plus d'accompagnement adapté, plus d'espoir thérapeutique ou plus d'écoute,  
+Car lorsqu'une personne affirme ne plus trouver de soulagement, plus d'accompagnement adapté,  
 
-la question ne porte plus seulement sur le droit.  
+plus d'espoir thérapeutique ou plus d'écoute, la question ne porte plus seulement sur le droit.  
 
 Elle porte sur la capacité collective à prendre soin.
 
@@ -61,7 +61,9 @@ Sur Lapinsights, j'ai déjà écrit que "l'être humain ne souffre pas seulement
 
 Il souffre aussi de ce qui n'est pas reconnu".
 
-C'est peut-être ce qui frappe le plus ici : le sentiment d'avoir été vu, entendu, examiné, mais jamais réellement reconnu dans la réalité de ce qu'il vivait.
+C'est peut-être ce qui frappe le plus ici : le sentiment d'avoir été vu, entendu, examiné,  
+
+mais jamais réellement reconnu dans la réalité de ce qu'il vivait.
 
 J'ai écrit aussi aussi que "la violence la plus difficile à nommer est souvent une absence : absence d'écoute, absence de réponse, absence de regard".
 
