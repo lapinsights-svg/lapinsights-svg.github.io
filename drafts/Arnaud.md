@@ -7,6 +7,10 @@ categories: actualites
 og_image: /statics/images/actualites/arnaud.webp
 ---
 
+
+[Témoignage complet d'Arnaud Denis sur Facebook](https://www.facebook.com/arnaud.denis.792/posts/pfbid02ESQ8haQg839QCyMjgeNbjFWwJmZx3oJbbMSy9gQSegtgfzgGHCxgv4fj5vMtAqY4l)
+
+
 Arnaud n'aurait jamais dû finir ainsi
 
 Arnaud est mort par euthanasie.
