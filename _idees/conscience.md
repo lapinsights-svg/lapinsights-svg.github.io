@@ -38,15 +38,11 @@ du temps ou de la rétrocausalité.
 
 Car dès que la conscience résiste aux explications habituelles, une tentation apparaît : la déplacer.
 
-Hier dans le cerveau.
-
-Aujourd'hui dans le quantique.
+Hier dans le cerveau. Aujourd'hui dans le quantique.
 
 Microtubules. Décohérence. Rétrocausalité. Lignes temporelles. Futurs possibles.
 
-Le vocabulaire devient plus sophistiqué.
-
-Mais la question reste intacte.
+Le vocabulaire devient plus sophistiqué, mais la question reste intacte.
 
 La mécanique quantique décrit des probabilités, des états superposés, des interactions et des transitions.  
 
@@ -56,39 +52,23 @@ Elle ne décrit pas une conscience qui agirait depuis demain.
 
 Elle ne décrit pas des réalités vécues en attente d’être choisies.  
 
-Une probabilité n’est pas une intention.  
-
-Une possibilité n’est pas encore un événement.  
+Une probabilité n’est pas une intention. Une possibilité n’est pas encore un événement.  
 
 La décohérence décrit les interactions d’un système quantique avec son environnement.  
 
 Elle ne démontre ni qu’une conscience choisirait une réalité, ni qu’un futur influencerait le présent.  
 
-Entre les équations et ces affirmations, il reste un saut.  
+Entre les équations et ces affirmations, il reste un saut. Et ce saut n’est pas rempli par le mot "quantique".  
 
-Et ce saut n’est pas rempli par le mot "quantique".  
+Le cerveau produit-il la conscience ? Nous partons souvent du même présupposé. La matière est première.  
 
-Le cerveau produit-il la conscience ?  
-
-Nous partons souvent du même présupposé.  
-
-La matière est première.  
-
-Le cerveau est matériel.  
-
-La conscience apparaît lorsque son organisation devient suffisamment complexe.  
+Le cerveau est matériel. La conscience apparaît lorsque son organisation devient suffisamment complexe.  
 
 Cette idée paraît évidente parce que nous observons une corrélation constante entre le cerveau et l’expérience consciente.  
 
-Modifier le cerveau modifie l’expérience.  
+Modifier le cerveau modifie l’expérience. Mais une corrélation ne suffit pas à établir une origine.  
 
-Mais une corrélation ne suffit pas à établir une origine.  
-
-Nous observons un lien.
-
-Puis nous affirmons une production.  
-
-Entre les deux, il y a un saut.  
+Nous observons un lien, puis nous affirmons une production. Entre les deux, il y a un saut.  
 
 Prenons une image simple.  
 
@@ -106,9 +86,7 @@ Alors une autre hypothèse apparaît.
 
 Et si le cerveau était davantage une interface qu’un producteur ?  
 
-Cette idée reste spéculative.  
-
-Comme l’idée inverse.  
+Cette idée reste spéculative. Comme l’idée inverse.  
 
 Mais elle déplace la question.  
 
@@ -178,9 +156,7 @@ Mais elle n’est pas, dans cette lecture, une réalité ontologique en Dieu.
 
 Le monde est réel phénoménalement sans être la réalité ultime de l’Esprit.  
 
-Le corps en est l’interface.  
-
-Le cerveau participe à cette interface.  
+Le corps en est l’interface. Le cerveau participe à cette interface.  
 
 Et la conscience appartient à l’expérience qui s’y déploie.  
 
