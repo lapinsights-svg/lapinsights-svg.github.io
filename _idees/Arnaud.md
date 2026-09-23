@@ -79,7 +79,9 @@ Le témoignage d'Arnaud renvoie précisément à cette exigence.
 
 Enfin, comme je l'ai formulé ailleurs, "une société se révèle dans sa manière d'accompagner ceux qu'elle ne peut pas guérir ".
 
-La question posée par ce témoignage n'est donc pas seulement médicale. Elle est humaine, éthique et collective.
+La question posée par ce témoignage n'est donc pas seulement médicale.  
+
+Elle est humaine, éthique et collective.
 
 Car lorsqu'une personne en arrive à considérer la mort comme une délivrance, le débat ne devrait jamais commencer par un jugement.  
 
