@@ -20,7 +20,7 @@ Avant sa mort, il a laissé un long témoignage.
 
 Un texte de souffrance, de colère et d'épuisement.  
 
-Un texte qui décrit, selon son récit, des années d'errance médicale, de dégradation physique et de portes qui se ferment les unes après les autres.
+Un texte qui décrit des années d'errance médicale, de dégradation physique et de portes qui se ferment les unes après les autres.
 
 Je ne dispose pas des éléments permettant de trancher les questions médicales qu'il soulève.  
 
