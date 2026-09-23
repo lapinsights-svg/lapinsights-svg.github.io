@@ -3,12 +3,11 @@ title: "Arnaud n'aurait jamais dû finir ainsi"
 date: 2026-09-23
 layout: article
 resume: "Au-delà du débat sur l’euthanasie, le témoignage d’Arnaud interroge l’errance médicale"
-categories: actualites
-og_image: /statics/images/actualites/arnaud.webp
+categories: idees
+og_image: /statics/images/actualites/Arnaud.webp
 ---
 
-
-[Témoignage complet d'Arnaud Denis sur Facebook](https://www.facebook.com/arnaud.denis.792/posts/pfbid02ESQ8haQg839QCyMjgeNbjFWwJmZx3oJbbMSy9gQSegtgfzgGHCxgv4fj5vMtAqY4l)
+![Arnaud](/statics/images/actualites/Arnaud.webp)
 
 
 Arnaud n'aurait jamais dû finir ainsi
@@ -16,6 +15,8 @@ Arnaud n'aurait jamais dû finir ainsi
 Arnaud est mort par euthanasie.
 
 Avant sa mort, il a laissé un long témoignage.  
+
+[Témoignage complet d'Arnaud Denis sur Facebook](https://www.facebook.com/arnaud.denis.792/posts/pfbid02ESQ8haQg839QCyMjgeNbjFWwJmZx3oJbbMSy9gQSegtgfzgGHCxgv4fj5vMtAqY4l)
 
 Un texte de souffrance, de colère et d'épuisement.  
 
@@ -116,3 +117,13 @@ Dans une société digne, personne ne devrait avoir le sentiment de devoir chois
 
 ---
 Céleste R. 
+
+Sources citées : 
+
+[L’euthanasie et le soin : deux réalités à distinguer](https://lapinsights.org/lapinsights/euthanasie-soin-distinction/)
+
+[Les angles morts](https://lapinsights.org/idees/anglesmorts/)
+
+[L’euthanasie — réflexion 2](https://lapinsights.org/idees/euthanasie2/)
+
+[L’euthanasie — réflexion 3](https://lapinsights.org/idees/euthanasie3/)
