@@ -1,6 +1,7 @@
 ---
 title: "La fin des passages libres"
 date: 2026-04-20
+layout: article
 categories: idees
 resume: "Suite de l’article «Identité numérique et réseaux sociaux"
 og_image: /statics/images/idees/orwel.png
