@@ -29,8 +29,8 @@ Il pose la main, reçoit un frisson tellurique.
 
 Le premier coup ouvre en elle une terre-veine,  
 Les éclats vifs jaillissent des couches souterraines.  
-La forme, attentive, monte en force fiévreuse,  
-Ardan l'accompagne vers sa part ténébreuse.  
+La forme, attentive, monte en force glorieuse,  
+Ardan l'accompagne vers sa part lumineuse.  
 
 La sculpture émerge, née d'un souffle poli,  
 Franchissant un seuil, elle vient d'un monde enfoui.  
