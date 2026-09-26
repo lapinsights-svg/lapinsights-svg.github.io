@@ -33,7 +33,7 @@ La forme, attentive, monte en force glorieuse,
 Ardan l'accompagne vers sa part lumineuse.  
 
 La sculpture émerge, née d'un souffle poli,  
-Franchissant un seuil, elle vient d'un monde enfoui.  
+Franchissant un seuil, elle sort d'un monde enfoui.  
 Quand les mains cessent, l'atelier semble un mirage,  
 La poussière tombe, paisible, sur l'ouvrage.  
 
