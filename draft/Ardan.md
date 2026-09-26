@@ -36,7 +36,7 @@ Les éclats se détachent de la gravité des couches souterraines.
 
 La forme se lève, attentive, portée par une force latente et fiévreuse.  
 
-Ardan accompagne ce déploiement vers la lumière, gravé d’une part ténébreuse.  
+Ardan accompagne cet essor vers la lumière, gravé d’une part ténébreuse.  
 
 La sculpture émerge d'une densité profonde, née d’un souffle poli.  
 
