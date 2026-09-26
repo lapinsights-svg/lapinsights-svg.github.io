@@ -2,7 +2,7 @@
 title: "Ardan"
 date: 2026-09-26
 categories: creations
-resume: "la sculpture se déploie dans la lumière."
+resume: "Ardan révèle dans la pierre une forme restée enfouie."
 og_image: /statics/images/creations/sculpture.webp
 tags:
   - poésie
