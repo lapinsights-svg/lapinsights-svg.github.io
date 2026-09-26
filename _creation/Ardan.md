@@ -24,11 +24,11 @@ tags:
 
 La pierre attend sur le billot avec une patience née des profondeurs.  
 
-Elle garde son grain, un murmure enfoui qui cherche une voie tellurique.   
+Elle garde son grain, un murmure enfoui qui cherche une voie mystique.   
 
 Ardan s’approche pour écouter ce qui, en elle, émane de cette épaisseur.  
 
-Il pose la main sur le bloc, perçoit une pulsation lente, frisson mystique  
+Il pose la main sur le bloc, perçoit une pulsation lente, frisson tellurique. 
 
 Le premier coup ouvre un espace où la matière creuse une terre‑veine.  
 
