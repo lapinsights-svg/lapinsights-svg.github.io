@@ -43,5 +43,3 @@ La pierre garde en elle la nuit qu'elle a quittée.
 ---
 Céleste R.
 
----
-Céleste R.
