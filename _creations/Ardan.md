@@ -24,8 +24,8 @@ tags:
 
 La pierre attend, patiente, dans sa profondeur,  
 Elle garde son grain, murmure sourd et mystique,  
-Ardan s'approche alors pour entendre l'épaisseur,  
-Il pose la main, sent un frisson tellurique.  
+Ardan s'approche alors pour sentir la ferveur,  
+Il pose la main, reçoit un frisson tellurique.  
 
 Le premier coup ouvre en elle une terre-veine,  
 Les éclats vifs jaillissent des couches souterraines.  
