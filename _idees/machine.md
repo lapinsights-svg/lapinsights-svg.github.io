@@ -2,7 +2,7 @@
 layout: article
 title: "Si la machine pense mieux que l’homme"
 resume: "Krishnamurti interroge l’humain face à la machine, mais son postulat vacille."
-date: 2026-09-21
+date: 2026-09-29
 categories: idees
 tags: ["Krishnamurti", "IA", "intelligence artificielle", "pensée", "machine", "transhumanisme"]
 og_image: /statics/images/idees/machine.webp
@@ -30,8 +30,8 @@ La séquence provient d’un exposé public donné à Madras, le 10 janvier 1981
 
 La transcription est conservée par la Krishnamurti Foundation Trust. 
 
-## Le postulat
 
+## Le postulat
 
 Krishnamurti considère la pensée comme un processus mécanique.
 
@@ -85,9 +85,7 @@ n’est pas équivalent à :
 
 la pensée est une mécanique.
 
-Le premier énoncé peut être observé.
-
-Le second est un postulat.
+Le premier énoncé peut être observé, mais le second est un postulat.
 
 Et toute la construction de Krishnamurti repose dessus.
 
@@ -121,13 +119,7 @@ simplement parce qu’il traite davantage d’informations ?
 
 L’ordinateur calcule.
 
-Il mémorise.
-
-Il associe.
-
-Il transforme des données.
-
-Il produit des réponses.
+Il mémorise, associe, transforme des données, produit des réponses.
 
 Tout cela est observable.
 
