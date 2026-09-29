@@ -144,9 +144,7 @@ pourquoi la supériorité d’une machine dans cette mécanique devrait-elle rem
 
 C’est là que son raisonnement rejoint, malgré lui, une certaine logique transhumaniste.
 
-Non pas parce que Krishnamurti serait transhumaniste.
-
-Mais parce qu’il accepte momentanément la même réduction :
+Parce qu’il accepte momentanément la même réduction :
 
 l’homme peut être défini par ses capacités.
 
