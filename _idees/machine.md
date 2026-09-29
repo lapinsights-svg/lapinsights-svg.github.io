@@ -28,7 +28,7 @@ Mais son point de départ mérite d’être regardé de près.
 
 La séquence provient d’un exposé public donné à Madras, le 10 janvier 1981, intitulé "Is thought the cause of the decay of man ?".  
 
-La transcription est conservée par la Krishnamurti Foundation Trust. 
+(voir les sources en fin d'article)
 
 
 ## Le postulat
