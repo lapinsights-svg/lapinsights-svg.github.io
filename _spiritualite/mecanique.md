@@ -60,11 +60,9 @@ Lorsque la souffrance devient extrême, le risque est que le Fils étendu cherch
 
 Non par cruauté.  
 
-Souvent par amour.  
+Souvent par amour, par compassion, ou par cette peur discrète qui se cache derrière nos meilleures intentions
 
-Souvent par compassion.  
-
-Mais la question structurelle demeure : **depuis quel lieu cette décision est-elle prise ?**    
+Et la question structurelle demeure : **depuis quel lieu cette décision est-elle prise ?**    
 
 Dans les Évangiles, Jésus n'agit jamais comme un gestionnaire des symptômes de l'existence.  
 
