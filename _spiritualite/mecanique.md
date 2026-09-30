@@ -106,9 +106,15 @@ Ils deviennent les expressions différentes d'une même rupture.
 
 La Bible ne décrit pas seulement les conséquences de cette rupture.  
 
-Elle en révèle la mécanique.  
+ Elle en révèle la mécanique.  
+ 
+ Elle montre comment naît l'illusion de la séparation. 
 
-**Elle montre comment l'homme se désaxe.**    
+L'homme se croit séparé et organise son existence autour de cette croyance.  
+
+ Pourtant, rien n'a quitté sa source.  
+ 
+ Seul son regard s'est désaxé.  
 
 ---
 
