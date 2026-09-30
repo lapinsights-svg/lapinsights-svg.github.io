@@ -2,7 +2,9 @@
 title: "Identité numérique et réseaux sociaux"
 date: 2026-01-27
 categories: idees
+layout: article
 resume: "Analyse des lois sur la vérification d’âge, l’identité numérique et les risques structurels de contrôle social."
+og_image: /statics/images/idees/IDnum.png
 ---
 
 <!-- IMAGE À INSÉRER -->
