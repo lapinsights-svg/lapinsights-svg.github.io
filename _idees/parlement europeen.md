@@ -43,7 +43,7 @@ La contrainte majoritaire fonctionne, mais sans incarnation démocratique claire
 
 Si les lois venaient du Parlement, si elles étaient l'expression d'un mandat électoral, cette mécanique deviendrait plus lisible.
 
-Donner au Parlement un droit d'initiative — même partiel — transformerait la vie politique européenne :
+Donner au Parlement un droit d'initiative - même partiel - transformerait la vie politique européenne :
 
 - les élections deviendraient décisives,  
 - les campagnes porteraient sur des projets concrets,  
@@ -97,5 +97,5 @@ Elle ne peut pas devenir ce que seuls les peuples peuvent être : un foyer polit
 
 L'Europe peut coordonner, harmoniser, protéger.  
 Mais elle ne peut pas remplacer les nations, qui restent les seuls foyers politiques capables d'incarner la démocratie.
-
-© Céleste R. — CC BY-NC-ND
+---
+© Céleste R. 
