@@ -21,7 +21,7 @@ Elle ne demande pas seulement quelles limites faut-il poser lorsqu'un désordre 
 
 Elle demande quelle rupture rend ce désordre possible.  
 
-Dans un monde entièrement aligné, la loi disparaît.  
+Dans un monde entièrement aligné, la loi disparaît.   
 
 Dans un monde désaxé, son absence devient dangereuse.  
 
