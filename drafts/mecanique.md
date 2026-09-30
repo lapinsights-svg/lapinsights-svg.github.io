@@ -2,7 +2,7 @@
 date: 2026-09-30
 title: "La mécanique derrière nos crises"
 categories: spiritualite
-resume: "Le Pape traite les symptômes visibles, la lecture structurelle révèle la mécanique profonde"."
+resume: "Le Pape traite les symptômes visibles, la lecture structurelle révèle la mécanique profonde"
 layout: article
 og_image: /statics/images/spiritualite/jmecanique.webp
 ---
