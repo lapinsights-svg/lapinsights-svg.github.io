@@ -9,7 +9,7 @@ og_image: /statics/images/spiritualite/jmecanique.webp
 
 ![eden](/statics/images/spiritualite/mecanique.webp)
 
-##La mécanique derrière nos crises##
+# La mécanique derrière nos crises
 
 Dans son discours à Paris, Léon XIV parle de dignité, de science, d’intelligence artificielle, d’euthanasie, d’abus dans l’Église.  
 
@@ -37,7 +37,7 @@ La puissance n'est pas mauvaise, mais que devient-elle lorsqu'elle se sépare de
 
 L'intelligence n'est pas mauvaise, mais que devient-elle lorsqu'elle devient sa propre mesure ?  
 
-##L'IA##
+# L'IA
 
 Cette lecture permet alors de regarder l'IA autrement.  
 
@@ -48,7 +48,7 @@ La machine ne fait qu'amplifier une structure humaine beaucoup plus ancienne :
 connaître, maîtriser, produire, contrôler, puis oublier ce qui donne un sens à cette puissance.  
 
 
-##Même chose pour l'euthanasie.##
+# Même chose pour l'euthanasie.
 
 La lecture structurelle déplace la question.  
 
@@ -64,11 +64,11 @@ Souvent par amour.
 
 Souvent par compassion.  
 
-Mais la question structurelle demeure : depuis quel lieu cette décision est-elle prise ?  
+Mais la question structurelle demeure : **depuis quel lieu cette décision est-elle prise ?**    
 
 Dans les Évangiles, Jésus n'agit jamais comme un gestionnaire des symptômes de l'existence.  
 
-Ce que les récits appellent guérisons correspond à des replis de dispersion, à des réorganisations de densité, à des reconnexions de l'axe.  
+Ce que les récits appellent guérisons correspond à des replis de dispersion, à des réorganisations de densité, à des **reconnexions de l'axe**.  
 
 Son action ne consiste pas à supprimer une condition extérieure.  
 
@@ -78,7 +78,7 @@ La question devient alors :
 
 que se passe-t-il lorsque la souffrance conduit l'homme à vouloir devenir l'auteur du passage lui-même ?  
 
-Il risque de chercher une solution dans l'apparence du problème plutôt que dans la structure qui le produit.  
+Il risque de chercher une solution dans **l'apparence du problème** plutôt que dans la structure qui le produit.  
 
 La souffrance peut sembler disparaître sans que la dispersion soit résolue.  
 
@@ -86,10 +86,10 @@ L'apparence peut être modifiée sans que l'axe soit restauré.
 
 Dans cette perspective, mettre fin à une condition n'est pas encore guérir.  
 
-La guérison concerne la densité. Elle concerne le rapport à l'axe.  
+**La guérison concerne la densité**. Elle concerne le rapport à l'axe.  
 
 
-##Les abus dans l’Église##
+# Les abus dans l’Église
 
 
 Et même les abus dans l'Église peuvent être regardés autrement.  
@@ -102,7 +102,7 @@ Mais elle devient : qu'est-ce qui, dans la structure, permet à l'axe de se coup
 
 Léon XIV interroge la légitimité de certains actes ;  
 
-tandis que la lecture structurelle interroge la densité depuis laquelle ces actes deviennent pensables.  
+tandis que **la lecture structurelle interroge la densité depuis laquelle ces actes deviennent pensables.**    
 
 L'IA, l'euthanasie, les abus institutionnels ou les crises sociales ne sont alors plus des problèmes séparés.  
 
@@ -112,7 +112,7 @@ La Bible ne décrit pas seulement les conséquences de cette rupture.
 
 Elle en révèle la mécanique.  
 
-Elle montre comment l'homme se désaxe.  
+**Elle montre comment l'homme se désaxe.**    
 
 ---
 
