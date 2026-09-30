@@ -15,7 +15,7 @@ Dans son discours à Paris, Léon XIV parle de dignité, de science, d’intelli
 
 Il interroge les usages du pouvoir, les responsabilités humaines et les limites qui protègent la personne.  
 
-La lecture structurelle ne conteste pas cette approche. Elle déplace simplement la question.  
+Ma lecture structurelle de la Bible ne conteste pas cette approche mais elle déplace simplement la question.  
 
 Elle ne demande pas seulement quelles limites faut-il poser lorsqu'un désordre apparaît.  
 
