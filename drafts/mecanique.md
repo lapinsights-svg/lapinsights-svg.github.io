@@ -84,7 +84,9 @@ La question n'est alors plus seulement de savoir qui a transgressé.
 
 Mais elle devient : qu'est-ce qui, dans la structure, permet à l'axe de se couper de sa source ?  
 
-Léon XIV interroge la légitimité de certains actes ; la lecture structurelle interroge la densité depuis laquelle ces actes deviennent pensables.  
+Léon XIV interroge la légitimité de certains actes ;  
+
+la lecture structurelle interroge la densité depuis laquelle ces actes deviennent pensables.  
 
 L'IA, l'euthanasie, les abus institutionnels ou les crises sociales ne sont alors plus des problèmes séparés.  
 
