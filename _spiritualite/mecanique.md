@@ -4,7 +4,7 @@ title: "La mécanique derrière nos crises"
 categories: spiritualite
 resume: "Le Pape traite les symptômes visibles, la lecture structurelle révèle la mécanique profonde"
 layout: article
-og_image: /statics/images/spiritualite/jmecanique.webp
+og_image: /statics/images/spiritualite/mecanique.webp
 ---
 
 ![mecanique](/statics/images/spiritualite/mecanique.webp)
