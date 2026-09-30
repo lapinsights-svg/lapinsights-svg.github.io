@@ -21,17 +21,23 @@ Elle ne demande pas seulement quelles limites faut-il poser lorsqu'un désordre 
 
 Elle demande quelle rupture rend ce désordre possible.  
 
+Dans un monde entièrement aligné, la loi disparaît.  
+
+Dans un monde désaxé, son absence devient dangereuse.  
+
 C'est toute la différence.  
 
-La Genèse n'est pas d'abord un récit moral.  
+La Genèse n'est pas un récit moral. Elle décrit une rupture de structure : 
 
-Elle décrit une rupture de structure : séparation, perte de l'axe, connaissance coupée de la vie, puissance séparée de sa source.
+séparation, perte de l'axe, connaissance coupée de la vie, puissance séparée de sa source.
 
-La connaissance n'est pas mauvaise. Mais que devient-elle lorsqu'elle se sépare de la vie ?  
+La connaissance n'est pas mauvaise, mais que devient-elle lorsqu'elle se sépare de la vie ?  
 
-La puissance n'est pas mauvaise. Mais que devient-elle lorsqu'elle se sépare de l'axe qui devrait l'orienter ?  
+La puissance n'est pas mauvaise, mais que devient-elle lorsqu'elle se sépare de l'axe qui devrait l'orienter ?  
 
-L'intelligence n'est pas mauvaise. Mais que devient-elle lorsqu'elle devient sa propre mesure ?  
+L'intelligence n'est pas mauvaise, mais que devient-elle lorsqu'elle devient sa propre mesure ?  
+
+##L'IA##
 
 Cette lecture permet alors de regarder l'IA autrement.  
 
@@ -48,7 +54,7 @@ La lecture structurelle déplace la question.
 
 Elle ne demande pas seulement s'il est permis ou interdit de donner la mort.  
 
-Elle demande quel mouvement intérieur conduit l'homme à devenir mesure de son propre passage.  
+Elle demande quel mouvement intérieur conduit l'homme à devenir la mesure de son propre passage.  
 
 Lorsque la souffrance devient extrême, le risque est que le Fils étendu cherche à reprendre l'autorité sur ce qui le dépasse.  
 
@@ -72,6 +78,16 @@ La question devient alors :
 
 que se passe-t-il lorsque la souffrance conduit l'homme à vouloir devenir l'auteur du passage lui-même ?  
 
+Il risque de chercher une solution dans l'apparence du problème plutôt que dans la structure qui le produit.  
+
+La souffrance peut sembler disparaître sans que la dispersion soit résolue.  
+
+L'apparence peut être modifiée sans que l'axe soit restauré.  
+
+Dans cette perspective, mettre fin à une condition n'est pas encore guérir.  
+
+La guérison concerne la densité. Elle concerne le rapport à l'axe.  
+
 
 ##Les abus dans l’Église##
 
@@ -86,7 +102,7 @@ Mais elle devient : qu'est-ce qui, dans la structure, permet à l'axe de se coup
 
 Léon XIV interroge la légitimité de certains actes ;  
 
-la lecture structurelle interroge la densité depuis laquelle ces actes deviennent pensables.  
+tandis que la lecture structurelle interroge la densité depuis laquelle ces actes deviennent pensables.  
 
 L'IA, l'euthanasie, les abus institutionnels ou les crises sociales ne sont alors plus des problèmes séparés.  
 
