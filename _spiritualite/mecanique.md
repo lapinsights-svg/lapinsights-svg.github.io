@@ -7,7 +7,7 @@ layout: article
 og_image: /statics/images/spiritualite/jmecanique.webp
 ---
 
-![eden](/statics/images/spiritualite/mecanique.webp)
+![mecanique](/statics/images/spiritualite/mecanique.webp)
 
 # La mécanique derrière nos crises
 
