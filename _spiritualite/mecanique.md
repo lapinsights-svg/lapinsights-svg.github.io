@@ -58,9 +58,7 @@ Elle demande quel mouvement intérieur conduit l'homme à se constituer lui-mêm
 
 Lorsque la souffrance devient extrême, le risque est que le Fils étendu cherche à reprendre l'autorité sur ce qui le dépasse.  
 
-Non par cruauté.  
-
-Souvent par amour, par compassion, ou par cette peur discrète qui se cache derrière nos meilleures intentions
+Souvent par amour, par compassion, ou par cette peur discrète qui se cache derrière nos meilleures intentions.  
 
 Et la question structurelle demeure : **depuis quel lieu cette décision est-elle prise ?**    
 
