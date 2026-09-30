@@ -94,7 +94,7 @@ Comment une institution censée rappeler le vertical peut-elle transformer une a
 
 La question n'est alors plus seulement de savoir qui a transgressé.  
 
-Mais elle devient : qu'est-ce qui, dans la structure, permet à l'axe de se couper de sa source ?  
+Mais elle devient : comment le regard peut-il s'écarter au point de se vivre comme coupé de sa source ?  
 
 Léon XIV interroge la légitimité de certains actes ;  
 
