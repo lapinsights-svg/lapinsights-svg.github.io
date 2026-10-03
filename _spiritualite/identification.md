@@ -4,9 +4,9 @@ resume: "Une analyse d'un discours d'Alexander sur YouTube."
 date: 2026-10-03
 categories: spiritualite
 layout: article
-og_image: /statics/images/spiritualite/identification.webp
 ---
 
+# Identification
   
 [Voir la vidéo sur YouTube](https://www.youtube.com/watch?v=0IlAqYMWhaI)
 
