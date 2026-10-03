@@ -106,7 +106,9 @@ Mais le personnage n'est plus pris pour l'auteur.
 
 Et c'est peut-être là que se situe le point de rencontre le plus intéressant entre son discours et ma lecture :  
 
-le moi n'a pas besoin de disparaître. Il a besoin de cesser de se prendre pour l'auteur.
+le moi n'a pas besoin de disparaître.  
+
+Il a besoin de cesser de se prendre pour l'auteur.
 
 ---
 
