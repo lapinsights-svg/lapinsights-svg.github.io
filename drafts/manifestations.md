@@ -4,8 +4,10 @@ date: 2026-10-03
 categories: idees
 resume: "La contestation sociale se heurte à une trajectoire budgétaire imposée"
 layout: article
-og_image: /statics/images/idees/rue-trajectoire-financiere.webp
+og_image: /statics/images/idees/Manifestations.webp
 ---
+![Manifestations](/statics/images/idees/Manifestations.webp)
+
 
 # Quand la rue rencontre la trajectoire financière
 
