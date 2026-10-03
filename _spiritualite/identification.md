@@ -7,7 +7,7 @@ layout: article
 og_image: /statics/images/spiritualite/identification.webp
 ---
 
-
+  
 [Voir la vidéo sur YouTube](https://www.youtube.com/watch?v=0IlAqYMWhaI)
 
 
