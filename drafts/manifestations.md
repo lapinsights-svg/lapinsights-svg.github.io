@@ -158,6 +158,7 @@ Elle apparaît aussi dans la réduction progressive de l'espace où une concessi
 La rue rencontre le budget.
 
 Et entre les deux, l'espace politique se rétrécit.
+
 ---
 
 Céleste R.
