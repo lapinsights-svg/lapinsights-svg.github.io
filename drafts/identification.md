@@ -65,10 +65,10 @@ Je ne pars pas d'une conscience universelle qui se diviserait en individus pour 
 
 Je pars du Fils.
 
-Dieu : le Fils non étendu.
-Le monde : le Fils étendu.
-Jésus : le Fils concentré.
-L'Apocalypse : le Fils guéri.
+Dieu : le Fils non étendu.  
+Le monde : le Fils étendu.  
+Jésus : le Fils concentré.  
+L'Apocalypse : le Fils guéri.  
 
 Le mouvement n'est donc pas, pour moi, celui d'une conscience qui descend dans des corps.  
 
