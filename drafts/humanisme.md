@@ -2,7 +2,7 @@
 title: "De l’humanisme à la psychologie spirituelle"
 categories: spiritualite
 description: "Une analyse du glissement humaniste, de Petrarque à Wapnick qui impacte UCEM."
-date: "2026-09-16"
+date: "2026-10-03"
 tags:
   - humanisme
   - psychologie humaniste
@@ -19,7 +19,7 @@ og_image: /statics/images/spiritualite/unite.webp
 
 ## 1- Le glissement : quand le réel se replie dans l’individu
 
-Il existe, dans l’histoire intellectuelle occidentale, un glissement profond : un déplacement du réel vers l’individu.  
+Un glissement profond traverse l’histoire intellectuelle occidentale : un déplacement du réel vers l’individu.  
 Ce glissement commence au 14è siècle, s’installe avec l’humanisme, se systématise avec la psychologie humaniste, et se répand aujourd’hui dans la spiritualité contemporaine.  
 
 À chaque étape, la même opération se répète :  
