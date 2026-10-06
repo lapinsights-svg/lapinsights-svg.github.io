@@ -89,11 +89,9 @@ la question est celle-ci :
 
 Cette distinction est décisive.
 
-Une revendication politique peut modifier la trajectoire.
+Une revendication politique peut modifier la trajectoire.  
 
-Un problème d'ordre public doit être contenu.
-
-La différence est immense.
+Une contrainte financière, elle, tend à rendre la trajectoire non négociable.  
 
 Négocier implique d'accepter qu'un mouvement social puisse produire un changement.  
 
