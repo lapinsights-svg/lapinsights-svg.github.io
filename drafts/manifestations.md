@@ -1,6 +1,6 @@
 ---
 title: "Quand la rue rencontre la trajectoire financière"
-date: 2026-10-03
+date: 2026-10-06
 categories: idees
 resume: "La contestation sociale se heurte à une trajectoire budgétaire imposée"
 layout: article
