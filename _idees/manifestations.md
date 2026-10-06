@@ -81,9 +81,9 @@ Des adolescents sont blessés.
 
 Les CRS et les gendarmes mobiles deviennent des acteurs centraux de la gestion du conflit.
 
-La question essentielle n'est pas de déterminer si chaque intervention était justifiée ou si chaque manifestant était irréprochable.
+Outre le fait de se demander si chaque intervention était justifiée ou si chaque manifestant était irréprochable,  
 
-La question est celle-ci :
+la question est celle-ci :
 
 À partir de quel moment une mobilisation cesse-t-elle d'être traitée comme un problème politique pour devenir un problème d'ordre public ?
 
