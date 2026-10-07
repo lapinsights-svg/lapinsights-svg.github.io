@@ -202,9 +202,9 @@ Certains laissent davantage les universités gérer directement leurs admissions
 
 Et surtout, ils ne font pas nécessairement vivre la même chose aux candidats.
 
-Le problème n’est donc pas de savoir **pourquoi la France sélectionne-t-elle ses étudiants ?**
+Le problème n’est donc pas de savoir **pourquoi la France sélectionne ses étudiants**
 
-Le problème est de savoir **pourquoi avons-nous choisi d’organiser cette sélection de cette manière ?**
+Le problème est de savoir **pourquoi nous avons choisi d’organiser cette sélection de cette manière**
 
 Une plateforme unique.  
 Des milliers de formations.  
