@@ -1,4 +1,3 @@
-
 ---
 title: "Le musée des versions abandonnées"
 date: 2026-10-07
