@@ -10,7 +10,7 @@ og_image: /statics/images/actualites/parcoursup.png
 
 > J’ai parcouru des dizaines de témoignages publiés sur Facebook pour comprendre, au plus près du vécu des familles, ce que Parcoursup produit réellement dans les foyers.
 
-# PARCOURS SUP'PLICE — ANATOMIE D’UN SYSTÈME QUI FABRIQUE L’ANGOISSE
+# PARCOURS SUP'PLICE : ANATOMIE D’UN SYSTÈME QUI FABRIQUE L’ANGOISSE
   
 Parcoursup n'est pas un dispositif qui oriente, mais qui **éprouve**.  
 C'est une machine administrative qui ne trie pas seulement des dossiers, mais qui **use les nerfs, les corps, les nuits**, jusqu’à faire pleurer des adolescents qui n’ont encore rien vécu de la vie adulte.
@@ -100,7 +100,7 @@ Les élèves connaissent déjà :
 L’expert Olivier Thiebaut le dit :  
 > “Nous devons reconquérir non pas juin, mais tout le troisième trimestre.”  
 
-[Parcoursup est générateur d’un stress énorme — Olivier Thiebaut, SNES‑FSU](https://www.ici.fr/emissions/l-invite-d-ici-ici-auxerre/parcoursup-est-generateur-d-un-stress-enorme-selon-olivier-thiebaut-du-syndicat-snes-fsu-dans-l-yonne-2777597)
+[Parcoursup est générateur d’un stress énorme; Olivier Thiebaut, SNES‑FSU](https://www.ici.fr/emissions/l-invite-d-ici-ici-auxerre/parcoursup-est-generateur-d-un-stress-enorme-selon-olivier-thiebaut-du-syndicat-snes-fsu-dans-l-yonne-2777597)
 
 
 Les lycéens décrochent.  
@@ -178,7 +178,7 @@ Mais cette success story ne rassure personne.
 Elle souligne au contraire **l’absurdité du système**.
 
 Si certains reçoivent 25 “oui”,  
-d’autres — avec 17 de moyenne, des lettres de recommandation, un dossier impeccable —  
+d’autres - avec 17 de moyenne, des lettres de recommandation, un dossier impeccable -  
 reçoivent **zéro**.
 
 Dans un système juste, l’exception rassure.  
