@@ -242,4 +242,6 @@ parce qu’un algorithme a décidé qu’ils n’étaient pas prioritaires.
 
 > Et pendant qu’on s’inquiète des dangers d’une IA toute‑puissante, on oublie qu’un simple outil administratif suffit déjà à épuiser une génération.  
 Pas besoin d’intelligence artificielle pour fabriquer un supplice : Parcoursup y parvient très bien.
+---
+Céleste R.
 
