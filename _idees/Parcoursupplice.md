@@ -9,12 +9,14 @@ og_image: /statics/images/actualites/parcoursup.png
 ![parcoursup](/statics/images/actualites/parcoursup.png)
 
 
-J’ai parcouru des dizaines de témoignages publiés sur Facebook pour comprendre, au plus près du vécu des familles, ce que Parcoursup produit réellement dans les foyers.
+J’ai parcouru des dizaines de témoignages publiés sur Facebook pour comprendre,  
+au plus près du vécu des familles, ce que Parcoursup produit réellement dans les foyers.
 
 # PARCOURS SUP'PLICE : ANATOMIE D’UN SYSTÈME QUI FABRIQUE L’ANGOISSE
 
 Parcoursup n’est pas un dispositif qui éprouve, plus qu'il n'oriente.  
-C'est une machine administrative qui ne trie pas seulement des dossiers, mais qui **use les nerfs, les corps, les nuits**,    
+C'est une machine administrative qui ne trie pas seulement des dossiers,  
+mais qui **use les nerfs, les corps, les nuits**,    
 jusqu’à faire pleurer des adolescents qui n’ont encore rien vécu de la vie adulte.    
 
 Les témoignages ne permettent pas, à eux seuls, de juger l'ensemble du dispositif.
@@ -26,7 +28,8 @@ Mais ils disent quelque chose que les statistiques ne disent pas : **ce que Parc
 ## Le temps suspendu : l’attente comme mode de gouvernement
 
 Une partie importante des candidats n’a aucune proposition favorable au début de la phase d’admission.  
-Ils entrent dans une zone grise qui peut durer **jusqu’en septembre**, alors que les cours ont déjà commencé dans certaines formations.
+Ils entrent dans une zone grise qui peut durer **jusqu’en septembre**,  
+alors que les cours ont déjà commencé dans certaines formations.
 
 Pendant ce temps :
 
@@ -322,7 +325,8 @@ L’accompagnement plutôt que la surveillance permanente de l’écran.
 
 Et surtout, elle peut se demander combien de tension et d'incertitude elle accepte de produire pour gérer quelques places universitaires.
 
-Et pendant qu’on s’inquiète des dangers d’une IA toute-puissante, on oublie qu’un simple outil administratif suffit déjà à épuiser une génération.  
+Et pendant qu’on s’inquiète des dangers d’une IA toute-puissante,  
+on oublie qu’un simple outil administratif suffit déjà à épuiser une génération.  
 Pas besoin d’intelligence artificielle pour fabriquer un supplice : Parcoursup y parvient très bien.
 
 ---
