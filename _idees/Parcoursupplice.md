@@ -14,7 +14,7 @@ au plus près du vécu des familles, ce que Parcoursup produit réellement dans 
 
 # PARCOURS SUP'PLICE : ANATOMIE D’UN SYSTÈME QUI FABRIQUE L’ANGOISSE
 
-Parcoursup n’est pas un dispositif qui éprouve, plus qu'il n'oriente.  
+Parcoursup est un dispositif qui éprouve, plus qu'il n'oriente.  
 C'est une machine administrative qui ne trie pas seulement des dossiers,  
 mais qui **use les nerfs, les corps, les nuits**,    
 jusqu’à faire pleurer des adolescents qui n’ont encore rien vécu de la vie adulte.    
