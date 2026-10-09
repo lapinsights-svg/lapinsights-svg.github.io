@@ -32,7 +32,7 @@ Aucune enseigne.
 
 Aucun plan.
 
-Une porte discrète dans un couloir que je ne me souvenais pas avoir emprunté.
+Une entrée discrète dans un couloir que je ne me souvenais pas avoir emprunté.
 
 À l'intérieur, des milliers de salles.
 
