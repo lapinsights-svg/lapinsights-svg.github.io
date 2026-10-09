@@ -164,7 +164,7 @@ Celle qui avait parcouru le monde.
 
 Celle qui n'avait presque jamais quitté sa ville
 
-Celle qui avait construit une famille immense.
+Celle qui avait construit une famille nombreuse.
 
 Celle qui avait choisi la solitude.
 
@@ -178,7 +178,7 @@ Certaines semblaient être nées d'une rencontre.
 
 D'autres d'une absence.
 
-D'autres encore d'un hasard si minuscule qu'il était devenu impossible d'en retrouver l'origine.
+D'autres encore d'une onde si minuscule qu'il était devenu impossible d'en retrouver l'origine.
 
 Je marchais au milieu de ces vies comme dans une galerie de possibilités figées.
 
@@ -248,7 +248,7 @@ Et soudain, le musée tout entier m'a semblé différent.
 
 Ces salles n'étaient pas remplies de fantômes.
 
-Elles étaient remplies de présences.
+Elles étaient chargées de présences.
 
 Personne n'avait disparu.
 
@@ -264,7 +264,7 @@ En quittant le musée, j'ai parcouru des yeux une dernière fois les innombrable
 
 Derrière chaque porte, une vie poursuivait silencieusement son chemin.
 
-Et pour la première fois, elles m'ont paru moins tristes.
+Et soudain, elles m'ont paru moins tristes.
 
 Ce n'étaient pas des tombeaux.
 
