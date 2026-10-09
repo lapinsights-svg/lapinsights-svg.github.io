@@ -120,7 +120,7 @@ Mais quelque chose en elle me semblait familier.
 
 Comme un souvenir que je n'avais jamais vécu.
 
-Plus loin, une autre version de moi n'avait presque rien conservé de mon visage.
+Plus loin, une autre version n'avait presque rien conservé de mon visage.
 
 Ses passions étaient différentes.
 
@@ -200,9 +200,9 @@ Dans l'une des salles, une femme contemplait une photographie avec une tristesse
 
 Dans une autre, quelqu'un riait sans pouvoir s'arrêter.
 
-Plus j'avançais, moins je comprenais ce qui me reliait à elles.
+Plus j'avançais, moins je leur ressemblais.
 
-Et plus je ressentais ce lien.
+Et pourtant, un lien devenait de plus en plus évident.
 
 Alors j'ai fini par demander au gardien du musée :
 
@@ -230,7 +230,7 @@ Je ne comprenais pas.
 
 Alors il a posé sa main sur le miroir.
 
-- Chacune d'elles vit encore en toi.
+- "Chacune d'elles vit encore en toi.
 
 La voyageuse habite tes envies de partir.
 
@@ -238,7 +238,7 @@ L'artiste respire dans tes silences.
 
 L'amoureuse survit dans ta tendresse.
 
-La rêveuse continue d'attendre derrière tes habitudes.
+La rêveuse continue d'attendre derrière tes habitudes."
 
 Je regardais mon reflet.
 
@@ -272,9 +272,9 @@ Alors j'ai compris qu'une vie n'est peut-être pas une ligne unique qui avance d
 
 Elle ressemble davantage à une forêt invisible.
 
-Un immense réseau de chemins, de bifurcations, de possibles et d'ombres.
+Un immense réseau de chemins, de bifurcations, de possibles et d'ombres.  
 
-Et tout ce qui n'a jamais existé continue malgré tout à nourrir ce qui existe.
+Et tout ce qui n'a jamais pris forme continue malgré tout à nourrir ce qui a grandi.
 
 ---
 
