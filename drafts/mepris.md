@@ -4,11 +4,13 @@ date: 2026-10-09
 layout: article
 categories: actualites
 resume: "Analyse d’un article de Rachel Marsden tournant en dérision les manifestations des lycéens français."
+og_image: /statics/images/actualites/classe.webp
 ---
+![classe](/statics/images/actualites/classe.webp)
 
 # Comment une partie des États-Unis commente les manifestations étudiantes en France ?
 
-Rachel Marsden a publié un article sur RT.  
+Rachel Marsden a publié le 4 octobre un article sur RT.  
 
 https://www.alexjoneslive.com/2026/10/04/frances-high-school-protests-arent-what-you-think/. 
 
