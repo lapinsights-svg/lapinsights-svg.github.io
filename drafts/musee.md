@@ -1,6 +1,6 @@
 ---
 title: "Derrière chaque porte, mon nom."
-date: 2026-10-07
+date: 2026-10-09
 categories: creations
 resume: "Une visite dans un musée étrange où chaque salle abrite une autre version de soi-même."
 og_image: /statics/images/creations/versions.webp
