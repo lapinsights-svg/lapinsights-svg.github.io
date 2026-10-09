@@ -3,7 +3,7 @@ title: "Manifestations étudiantes : le mépris comme argument"
 date: 2026-10-09
 layout: article
 categories: actualites
-resume: "Analyse critique d’un article de Rachel Marsden qui présente les lycéens français comme des enfants gâtés et tourne leurs revendications en dérision."
+resume: "Analyse d’un article de Rachel Marsden tournant en dérision les manifestations des lycéens français."
 ---
 
 # Comment une partie des États-Unis commente les manifestations étudiantes en France ?
