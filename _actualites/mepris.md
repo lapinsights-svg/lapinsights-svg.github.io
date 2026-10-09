@@ -8,7 +8,7 @@ og_image: /statics/images/actualites/classe.webp
 ---
 ![classe](/statics/images/actualites/classe.webp)
 
-# Comment une partie des États-Unis commente les manifestations étudiantes en France ?
+# Comment une partie des États-Unis commente les manifestations étudiantes en France.  
 
 Rachel Marsden a publié le 4 octobre un article sur RT.  
 
