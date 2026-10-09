@@ -12,9 +12,9 @@ Rachel Marsden a publié un article sur RT.
 
 https://www.alexjoneslive.com/2026/10/04/frances-high-school-protests-arent-what-you-think/. 
 
-Si vous êtes tenté de croire au récit conservateur selon lequel les jeunes Français seraient simplement des gauchistes gâtés qui font leur crise,  
+Si vous êtes tenté de croire au récit conservateur selon lequel les jeunes Français seraient simplement des gauchistes gâtés  
 
-exactement comme on le disait des hippies dans les années 1960, la lecture de cet article peut être instructive.
+qui font leur crise, exactement comme on le disait des hippies dans les années 1960, la lecture de cet article peut être instructive.
 
 Pour ma part, cette lecture produit surtout un effet :  
 
