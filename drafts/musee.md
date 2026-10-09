@@ -42,9 +42,7 @@ Des escaliers qui descendaient dans l'ombre.
 
 Des galeries dont je ne distinguais pas la fin.
 
-Dans chacune des salles reposait une personne.
-
-Elles me ressemblaient toutes.
+Derrière chaque porte vivait une autre version de moi-même.
 
 Ou du moins, c'est ce que j'ai cru au début.
 
