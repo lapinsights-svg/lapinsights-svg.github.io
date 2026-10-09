@@ -42,7 +42,9 @@ D'abord, les établissements français n'offrent généralement pas deux heures 
 
 Ensuite, les élèves restent effectivement à l'école jusqu'à 18 heures, ce qui est lourd à supporter.  
 
-Aux États-Unis, les journées scolaires s'arrêtent habituellement vers 15 h 30. C'est déjà long.  
+Aux États-Unis, les journées scolaires s'arrêtent habituellement vers 15 h 30.  
+
+C'est déjà long.  
 
 En France, on atteint souvent 9 h 30 de présence quotidienne. 
 
