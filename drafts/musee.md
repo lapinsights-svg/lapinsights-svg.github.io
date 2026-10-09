@@ -28,7 +28,9 @@ tags:
 
 J'ai découvert le musée par hasard.
 
-Aucune enseigne. Aucun plan.
+Aucune enseigne. 
+
+Aucun plan.
 
 Une porte discrète dans un couloir que je ne me souvenais pas avoir emprunté.
 
