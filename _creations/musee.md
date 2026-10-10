@@ -2,7 +2,7 @@
 title: "Derrière chaque porte, mon nom."
 date: 2026-10-10
 categories: creations
-resume: "Une visite dans un musée étrange où chaque salle abrite une autre version de soi-même."
+resume: "Un étrange musée où chaque salle abrite une autre version de soi-même."
 og_image: /statics/images/creations/musee.webp
 tags:
   - poésie
@@ -12,7 +12,7 @@ tags:
   - introspection
   - imaginaire
 ---
-*Cliquer sur la vidéo pour voir la sculpture.*
+*Cliquer sur la vidéo pour voir*
 
 <video controls autoplay muted loop playsinline 
        style="width:100%; max-width:480px; border-radius:12px; display:block; margin:auto;">
