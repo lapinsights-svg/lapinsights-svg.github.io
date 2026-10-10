@@ -78,7 +78,7 @@ Certaines avaient commencé exactement là où mes propres souvenirs s'arrêtaie
 
 Puis je suis sortie de la salle.
 
-La suivante lui ressemblait encore.
+La suivante me ressemblait encore.
 
 Puis la suivante un peu moins.
 
