@@ -230,15 +230,16 @@ Je ne comprenais pas.
 
 Alors il a posé sa main sur le miroir.
 
-- "Chacune d'elles vit encore en toi.
-
-La voyageuse habite tes envies de partir.
+"Chacune d'elles vit encore en toi.
+  
+La voyageuse habite tes envies de partir.  
 
 L'artiste respire dans tes silences.
 
 L'amoureuse survit dans ta tendresse.
 
 La rêveuse continue d'attendre derrière tes habitudes."
+
 
 Je regardais mon reflet.
 
