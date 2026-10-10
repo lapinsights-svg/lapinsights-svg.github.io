@@ -120,7 +120,7 @@ Mais quelque chose en elle me semblait familier.
 
 Comme un souvenir que je n'avais jamais vécu.
 
-Plus loin, une autre version n'avait presque rien conservé de mon visage.
+Plus loin, une autre version où presque rien ne subsistait de mon visage.
 
 Ses passions étaient différentes.
 
