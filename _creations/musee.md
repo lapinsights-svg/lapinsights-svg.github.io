@@ -46,7 +46,7 @@ Derrière chaque porte vivait une autre version de moi-même.
 
 Ou du moins, c'est ce que j'ai cru au début.
 
-La première porte portait mon nom.
+La première porte affichait mon nom.
 
 J'ai tourné la poignée.
 
