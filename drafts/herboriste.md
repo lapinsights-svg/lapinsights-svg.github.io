@@ -3,10 +3,10 @@ layout: article
 title: "Comment la France a fait disparaître ses herboristes"
 categories: idees
 resume: "En 1941, l'herboristerie française disparaît au profit du monopole pharmaceutique."
-date: 2026-10-06
+date: 2026-10-12
 ---
 
-Comment la France a fait disparaître ses herboristes
+# Comment la France a fait disparaître ses herboristes
 
 En 2018, Marie Roubieu meurt à l'âge de 97 ans.
 
@@ -22,33 +22,27 @@ La profession n'a pas été interdite d'un coup.
 
 Elle a été condamnée à l'extinction.
 
-Et cette extinction n'est pas restée sans conséquence sur la manière dont les Français pouvaient accéder aux plantes médicinales.
+Mais l'histoire ne s'arrête pas à cette extinction. En 2018, le Sénat consacre une section de son rapport sur les plantes médicinales à cette affirmation : « Le pharmacien, à l'origine herboriste par définition ».
 
-Un savoir qui avait un statut
+Le mouvement est révélateur. Une profession autonome disparaît, puis le savoir associé à son activité est présenté comme relevant naturellement d'une autre profession.
+
+Pour comprendre ce retournement, il faut revenir au conflit qui a précédé la suppression.
+
+## Un savoir qui avait un statut
 
 L'herboristerie française n'était pas simplement une pratique familiale ou un ensemble de recettes transmises oralement.
 
-Le certificat d'herboriste avait été institué au début du XIXe siècle.
+Le certificat d'herboriste avait été institué au début du XIXe siècle. Il faisait de l'herboristerie une profession reconnue par l'État.
 
-Il faisait de l'herboristerie une profession reconnue par l'État.
+L'herboriste était formé à l'identification et à l'utilisation des plantes médicinales. Il disposait d'un droit d'exercice défini par la loi et pouvait vendre certaines plantes dans les limites prévues par la réglementation.
 
-L'herboriste était formé à l'identification et à l'utilisation des plantes médicinales.
-
-Le métier possédait aussi une dimension sociale particulière.
-
-Le certificat était beaucoup plus accessible financièrement que les longues études nécessaires pour devenir pharmacien.
-
-L'herboristerie a notamment constitué une voie professionnelle importante pour des femmes, à une époque où la pharmacie restait largement masculine.
+Le métier possédait aussi une dimension sociale particulière. Le certificat était plus accessible que les longues études nécessaires pour devenir pharmacien. L'herboristerie a notamment constitué une voie professionnelle pour des femmes, à une époque où l'accès à la pharmacie leur était beaucoup moins ouvert.
 
 Il faut donc éviter une caricature commode.
 
-L'herboriste n'était pas simplement le détenteur d'un folklore rural opposé à une pharmacie moderne et rationnelle.
+L'herboriste n'était pas simplement le détenteur d'un folklore rural opposé à une pharmacie moderne et rationnelle. Il existait un savoir professionnel, des pratiques, des commerces et une activité économique.
 
-Il existait un savoir professionnel.
-
-Cela ne signifie évidemment pas que toutes les connaissances transmises par les herboristes étaient scientifiquement exactes.
-
-Cela ne signifie pas davantage que toutes les plantes étaient sans danger.
+Cela ne signifie pas que toutes les connaissances transmises par les herboristes étaient scientifiquement exactes. Cela ne signifie pas davantage que toutes les plantes étaient sans danger.
 
 La question est ailleurs.
 
@@ -56,144 +50,208 @@ Qui avait le droit de détenir ce savoir, de le transmettre et surtout de vendre
 
 C'est à cet endroit que le conflit devient intéressant.
 
-Une guerre de territoire
+## Une guerre de territoire
 
 À partir de 1870 et jusqu'à la fin de la IIIe République, une dizaine d'initiatives parlementaires cherchent à supprimer les herboristes.
 
-Le rapport du Sénat consacré à l'herboristerie indique que ces initiatives étaient notamment soutenues par l'Association générale des pharmaciens de France.
-
-Le rapport décrit explicitement cette opposition comme une lutte sur fond de préservation du monopole pharmaceutique.
+Le rapport du Sénat consacré à l'herboristerie indique que ces initiatives étaient notamment soutenues par l'Association générale des pharmaciens de France. Il décrit cette opposition comme une lutte sur fond de préservation du monopole pharmaceutique.
 
 Il ne s'agissait donc pas uniquement de savoir si une plante était efficace.
 
 Il s'agissait de savoir qui pouvait la vendre.
 
-L'herboriste pouvait détenir et vendre certaines plantes médicinales indigènes ou acclimatées, sous des restrictions précises.
+L'herboriste pouvait détenir et vendre certaines plantes médicinales indigènes ou acclimatées, sous des restrictions précises. Son champ d'activité était limité.
 
-Il ne pouvait notamment pas préparer librement des mélanges de plantes.
+Le pharmacien disposait d'un champ beaucoup plus large dans la préparation et la délivrance des médicaments. Il revendiquait une compétence scientifique sur les substances thérapeutiques et sur leur préparation.
 
-Le pharmacien, lui, disposait d'un champ beaucoup plus large et revendiquait une compétence scientifique sur les médicaments et leur préparation.
+Le conflit opposait ainsi deux professions, mais aussi deux positions économiques.
 
-Le conflit opposait ainsi deux professions.
+D'un côté, une profession spécialisée dans les plantes, reconnue par la loi mais limitée dans ses prérogatives.
 
-Mais aussi deux systèmes de transmission.
+De l'autre, une profession qui défendait et élargissait son contrôle sur la distribution des produits thérapeutiques.
 
-Et deux positions économiques.
+Le discours public pouvait prendre la forme d'un affrontement entre tradition et science. Mais derrière cette opposition se trouvait un enjeu beaucoup plus matériel : le contrôle de la vente, de la préparation et de la délivrance.
 
-D'un côté, une profession spécialisée dans les plantes.
+La question n'était pas seulement celle de la qualité du savoir. Elle était aussi celle du statut de ceux qui avaient le droit de l'exercer.
 
-De l'autre, une profession qui construisait progressivement son monopole sur les produits thérapeutiques.
+## Les pharmaciens ne demandaient pas simplement une meilleure formation
 
-Le discours public pouvait prendre la forme d'un affrontement entre tradition et science.
+C'est un point essentiel.
 
-Mais derrière cette opposition se trouvait quelque chose de beaucoup plus matériel :
-
-le contrôle de la délivrance.
-
-Les pharmaciens ne demandaient pas simplement une meilleure formation
-
-C'est un point que les récits contemporains évitent parfois.
-
-Les pharmaciens ne se sont pas contentés de demander que les herboristes soient mieux formés.
-
-Une partie de leur organisation professionnelle a, pendant des décennies, soutenu la suppression pure et simple du certificat.
+Les organisations de pharmaciens ne se sont pas contentées de demander que les herboristes soient mieux formés. Pendant des décennies, une partie de la profession a soutenu la suppression du certificat.
 
 Le Sénat parle explicitement de « préservation du monopole pharmaceutique ».
 
-En 1929 encore, des projets cherchent à faire évoluer le statut des herboristes.
+En 1929 encore, la question du statut des herboristes suscite des projets et des oppositions. La reconnaissance d'une profession distincte se heurte notamment à la crainte que ses prérogatives deviennent trop proches de celles du pharmacien.
 
-La question de leur reconnaissance se heurte à l'opposition de pharmaciens qui craignent notamment qu'ils obtiennent une reconnaissance trop proche de celle du pharmacien.
+La concurrence était réelle. Elle portait sur un marché réel.
 
-La concurrence était donc réelle.
+Il ne faut pas confondre ce constat avec la preuve que chaque pharmacien aurait poursuivi un plan commun ou que toutes les décisions auraient été dictées par l'industrie pharmaceutique. Les intérêts des acteurs pouvaient différer.
 
-Et elle portait sur un marché réel.
+Mais un fait demeure : des organisations professionnelles ont défendu la disparition d'une profession concurrente, et le monopole qu'elles cherchaient à préserver est explicitement mentionné dans l'histoire parlementaire de cette lutte.
 
-Puis arrive 1941
+Il ne s'agissait donc pas seulement d'élever le niveau de formation des herboristes. Il s'agissait aussi de déterminer si cette profession devait continuer à exister.
+
+## Puis arrive 1941
 
 Le 11 septembre 1941, sous le régime de Vichy, est adoptée la loi relative à l'exercice de la pharmacie.
 
 Ce n'est pas un simple décret administratif.
 
-L'article 59 supprime le certificat d'herboriste :
+L'article 59 met fin à la délivrance de nouveaux certificats d'herboriste.
 
-« Il ne sera plus délivré d'inscription pour le diplôme d'herboriste après la date de la publication de la présente loi. »
+Les herboristes déjà diplômés peuvent continuer à exercer leur vie durant.
 
-Puis vient la clause qui permet de comprendre le mécanisme.
+La profession n'est donc pas supprimée instantanément. Elle est privée de renouvellement.
 
-Les herboristes français déjà diplômés peuvent continuer à exercer leur vie durant.
-
-La profession n'est donc pas supprimée instantanément.
-
-Elle est privée de renouvellement.
-
-Plus personne ne peut entrer dans le métier.
-
-Les anciens peuvent continuer.
-
-Puis ils meurent.
+Plus personne ne peut entrer dans le métier. Les anciens peuvent continuer. Puis ils disparaissent.
 
 C'est une extinction organisée par le droit.
 
 Le nombre d'herboristes diplômés était alors estimé à environ 4 500.
 
-Et dans le même temps, le monopole se renforce
+La portée du mécanisme est considérable : il n'est pas nécessaire d'interdire immédiatement une activité pour la faire disparaître. Il suffit de supprimer la possibilité de former ceux qui la feront vivre demain.
 
-La loi de 1941 ne parle pas seulement des herboristes.
+Et la Libération ne rétablit pas la délivrance du certificat. La disparition programmée se poursuit après la chute du régime qui l'a décidée.
 
-Elle constitue une réforme beaucoup plus large de la pharmacie.
+La profession est ainsi condamnée à disparaître sans que son interdiction générale soit nécessaire.
 
-Elle renforce le monopole pharmaceutique et organise notamment le secteur autour de la fabrication, de la distribution et de la dispensation des médicaments.
+## Un concurrent disparaît pendant que le monopole se consolide
 
-Une étude historique du monopole pharmaceutique relève que la loi de 1941 inclut dans le monopole la préparation et la vente des médicaments, mais aussi les plantes médicinales inscrites au Codex, ainsi que d'autres produits thérapeutiques.
+La loi de 1941 ne concerne pas seulement les herboristes. Elle constitue une réforme plus large de la pharmacie et renforce le cadre du monopole pharmaceutique.
 
-Elle renforce ainsi la position du pharmacien dans l'ensemble de la chaîne du médicament.
+Elle organise notamment le secteur autour de la fabrication, de la distribution et de la dispensation des médicaments. Le périmètre des activités réservées aux pharmaciens comprend les médicaments et certaines plantes médicinales relevant de la réglementation pharmaceutique.
 
-Ce n'est donc pas seulement un diplôme qui disparaît.
+Ce n'est donc pas seulement un certificat qui disparaît.
 
-Un concurrent disparaît pendant que le périmètre du monopole pharmaceutique se consolide.
+Un concurrent perd la possibilité de se renouveler au moment où le cadre professionnel qui limite la concurrence se consolide.
 
 La différence est essentielle.
 
-Et l'industrie pharmaceutique ?
+Il faut cependant distinguer deux choses : la suppression du certificat est un fait juridique ; l'idée que cette suppression aurait été conçue exclusivement pour servir l'industrie pharmaceutique est une interprétation plus large, qui exige des preuves spécifiques. Le contexte historique permet d'établir des intérêts convergents et une transformation du contrôle des produits thérapeutiques. Il ne suffit pas, à lui seul, à démontrer l'existence d'un plan industriel unique.
 
-C'est ici que l'histoire devient plus difficile à raconter proprement.
+Cette distinction ne réduit pas la portée du mécanisme. Elle permet de le décrire précisément.
 
-L'industrie pharmaceutique n'est pas née après la suppression des herboristes.
+## Et l'industrie pharmaceutique ?
 
-Elle existait déjà.
+L'industrie pharmaceutique n'est pas née après la suppression des herboristes. Elle existait déjà et traversait une période de transformation.
 
-Elle était toutefois en pleine transformation.
+L'historien Bruno Bonnemain a étudié l'industrie pharmaceutique française pendant la Seconde Guerre mondiale, ses enjeux économiques et son évolution sous l'Occupation.
 
-Et la loi de 1941 intervient précisément dans cette période de montée de la pharmacie industrielle.
+La loi de 1941 intervient donc dans une période où la production industrielle de médicaments prend une place croissante dans le paysage thérapeutique.
 
-L'historien Bruno Bonnemain a consacré une étude spécifique à l'industrie pharmaceutique française pendant la Seconde Guerre mondiale, en examinant notamment sa situation économique et ses relations avec le régime de Vichy.
+Il serait faux de raconter cette histoire comme si Vichy avait supprimé les herboristes pour inventer ensuite l'industrie pharmaceutique.
 
-La loi de 1941 accompagne donc une profonde restructuration du secteur pharmaceutique au moment où le médicament industriel prend une place croissante.
+Mais il serait tout aussi faux d'ignorer le rapport entre ces transformations.
 
-Il serait faux de raconter cette histoire comme si Vichy avait simplement supprimé les herboristes pour inventer ensuite l'industrie pharmaceutique.
+D'un côté, une profession indépendante, spécialisée dans les plantes, est privée de tout renouvellement. De l'autre, le système pharmaceutique conserve et renforce son contrôle sur une partie de la préparation et de la distribution des substances thérapeutiques.
 
-Mais il serait tout aussi faux de présenter les deux phénomènes comme totalement indépendants.
+L'industrie et la disparition des herboristes ne sont pas deux phénomènes identiques. Ils s'inscrivent néanmoins dans une même transformation du pouvoir économique et professionnel autour du médicament.
 
-L'industrie pharmaceutique et la disparition progressive des herboristes s'inscrivent dans une même période de transformation du paysage thérapeutique français.
+Le résultat, lui, est concret : l'herboristerie perd la possibilité de se transmettre sous la forme d'une profession reconnue par l'État.
 
-Ce qui disparaît réellement
+## Le retournement : le pharmacien serait l'herboriste originel
+
+C'est ici que l'histoire prend une tournure particulièrement révélatrice.
+
+En 2018, le Sénat publie son rapport sur les plantes médicinales et l'herboristerie. Une section porte ce titre : **« Le pharmacien, à l'origine herboriste par définition : une mission à réaffirmer ».**
+
+Le choix des mots mérite attention.
+
+Le pharmacien est placé à l'origine. L'herboristerie devient une mission que la pharmacie devrait retrouver ou réaffirmer.
+
+Or l'histoire que le même rapport retrace est celle d'une profession distincte, reconnue par l'État, dont la suppression a été soutenue pendant des décennies par des organisations de pharmaciens au nom, notamment, de la préservation du monopole.
+
+Le déplacement est considérable.
+
+Au lieu de partir de l'herboriste et de se demander comment une profession porteuse d'un savoir sur les plantes a été éliminée, on part du pharmacien et l'on présente ce savoir comme une composante de sa mission originelle.
+
+Le problème historique change alors de sens.
+
+La profession indépendante qui a perdu le droit de se renouveler n'est plus au centre du récit. C'est la profession qui a conservé sa reconnaissance légale qui se trouve présentée comme la dépositaire naturelle du domaine.
+
+Le rapport ne se contente d'ailleurs pas de revenir sur le passé. Il propose de renforcer la place des pharmaciens dans la connaissance et l'utilisation des plantes, notamment par la formation en phyto-aromathérapie.
+
+Cette orientation peut être défendue au nom de la sécurité, de la formation scientifique ou de la qualité du conseil. Les pharmaciens peuvent posséder de véritables compétences dans ces domaines. Le problème n'est pas de leur interdire de connaître les plantes.
+
+Il est de savoir ce que cette présentation laisse dans l'ombre.
+
+Pourquoi le pharmacien est-il présenté comme l'héritier naturel du savoir, alors que l'herboriste, qui en avait fait son métier spécifique, n'a toujours pas retrouvé de statut professionnel autonome ?
+
+Pourquoi la question de la compétence du pharmacien est-elle posée comme une mission à réaffirmer, tandis que celle du droit d'existence de l'herboriste demeure sans réponse ?
+
+Le savoir sur les plantes peut être reconnu. Les formations peuvent être développées. Les produits végétaux peuvent revenir dans les officines.
+
+Mais la profession indépendante qui les portait historiquement reste absente du cadre légal.
+
+Ce n'est pas une simple nuance de vocabulaire. C'est une manière de redistribuer la légitimité.
+
+## Les plantes reviennent, les herboristes restent absents
+
+Le retour contemporain des plantes médicinales rend ce paradoxe visible.
+
+En Dordogne, des pharmaciens producteurs cultivent eux-mêmes des plantes médicinales biologiques et fabriquent notamment des tisanes,  
+
+des hydrolats et des huiles essentielles. Leur démarche associe culture,  
+
+transformation des plantes, analyses et attention aux dosages et aux contre-indications.
+
+[Lire l'article de France 3 : ces pharmaciens cultivent eux-mêmes leurs plantes médicinales en Dordogne](https://france3-regions.franceinfo.fr/nouvelle-aquitaine/dordogne/perigueux/une-pharmacie-qui-sort-du-commun-en-dordogne-ces-pharmaciens-cultivent-eux-memes-leurs-plantes-medicinales-3428214.html)
+
+Ce travail peut être sérieux et utile. Il montre que la culture et la transformation des plantes peuvent retrouver une place dans une activité pharmaceutique.
+
+Mais il pose aussi une question historique.
+
+Le système pharmaceutique peut aujourd'hui valoriser la culture des plantes, leur transformation et les connaissances qui leur sont associées.  
+
+Dans le même temps, la France n'a toujours pas rétabli la profession indépendante d'herboriste.
+
+Il ne suffit pas de constater que des pharmaciens cultivent des plantes pour conclure qu'ils chercheraient délibérément à s'approprier le métier d'herboriste.  
+
+Un exemple ne prouve pas une stratégie concertée.
+
+Le contraste institutionnel, lui, est bien réel : les pratiques peuvent revenir dans le cadre pharmaceutique sans que la profession autonome supprimée en 1941 retrouve sa place.
+
+Le savoir est de nouveau valorisé. Mais les conditions dans lesquelles il peut être exercé et transmis restent définies par un cadre dont l'herboriste indépendant a été exclu.
+
+## Ce qui disparaît réellement
 
 Lorsqu'on regarde cette histoire à travers le seul prisme des plantes médicinales, une partie de l'enjeu échappe au regard.
 
-Ce qui disparaît en 1941 n'est pas seulement un certificat.
+Ce qui disparaît en 1941 n'est pas seulement un certificat. Ce n'est pas seulement un métier.
 
-Ce n'est pas seulement un métier.
+C'est une manière particulière d'organiser la transmission d'un savoir, son accès et sa commercialisation.
 
-C'est aussi une manière particulière d'organiser la transmission d'un savoir, son accès et sa commercialisation.
+Les plantes restent. Les connaissances continuent d'exister. 
 
-Les plantes restent.
+Des professionnels continuent de les étudier, de les cultiver et de les transformer.
 
-Les connaissances sur les plantes continuent d'exister.
+Mais la profession historiquement spécialisée dans ce domaine a été privée de renouvellement, tandis que le monopole pharmaceutique a conservé sa place.
 
-Mais la profession chargée de les transmettre et de les vendre dans un cadre autonome cesse progressivement de se renouveler.
+Des décennies plus tard, le savoir végétal peut être réinvesti dans le cadre pharmaceutique et présenté comme une mission qui lui revient par définition.
 
-C'est précisément ce qui rend cette histoire intéressante.
+Voilà le retournement.
 
-Car au-delà de l'herboristerie, elle pose une question plus générale :
+La profession indépendante disparaît ; la légitimité de la profession qui a conservé le monopole demeure ;  
 
-qui a le droit de détenir un savoir, de le transmettre et de le transformer en activité reconnue par la loi ?
+le savoir associé aux plantes peut ensuite être revendiqué dans ce cadre, sans que la profession supprimée soit rétablie.
+
+Il ne s'agit pas de prétendre que les pharmaciens ne devraient pas connaître les plantes,  
+
+ni que tout savoir traditionnel serait nécessairement juste.  
+
+Il s'agit de ne pas confondre la valeur d'un savoir avec le droit exclusif de l'exercer.
+
+La question dépasse donc l'herboristerie.
+
+Qui décide qu'un savoir est légitime ? Qui peut le transmettre ?  
+
+Qui peut en faire une activité reconnue ?   
+
+Et que se passe-t-il lorsque le droit supprime une profession, puis que les compétences associées sont réintégrées dans le cadre d'une autre ?
+
+L'histoire française de l'herboristerie montre qu'un savoir peut survivre à la disparition de ceux qui en avaient fait leur métier.
+
+Elle montre aussi que sa reconnaissance ne dépend pas seulement de ce qu'il vaut, mais du statut de ceux qui sont autorisés à le porter.
+---
+Céleste R.
