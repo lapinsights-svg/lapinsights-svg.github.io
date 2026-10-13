@@ -255,5 +255,6 @@ Et que se passe-t-il lorsque le droit supprime une profession, puis que les comp
 L'histoire française de l'herboristerie montre qu'un savoir peut survivre à la disparition de ceux qui en avaient fait leur métier.
 
 Elle montre aussi que sa reconnaissance ne dépend pas seulement de ce qu'il vaut, mais du statut de ceux qui sont autorisés à le porter.
+
 ---
 Céleste R.
