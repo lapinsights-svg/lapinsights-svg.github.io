@@ -10,21 +10,27 @@ og_image: /statics/images/passe/herboristes.webp
 
 # Comment la France a fait disparaître ses herboristes
 
-Je vais te raconter une histoire qui commence par une mort : celle de Marie Roubieu, en 2018, à 97 ans.
+Je vais raconter une histoire qui commence par une mort, celle de Marie Roubieu, en 2018, à 97 ans.
 
-Elle était la dernière en France à pouvoir exercer comme herboriste avec le certificat d'avant 1941. La dernière… Et avec elle, tout un métier s'en va.
+Elle était la dernière en France à pouvoir exercer comme herboriste avec le certificat d'avant 1941.  
+
+La dernière… Et avec elle, tout un métier s'en va.
 
 Pendant plus d'un siècle, pharmaciens et herboristes ont travaillé côte à côte autour des plantes médicinales.
 
 Puis une loi de 1941 a supprimé la formation de nouveaux herboristes.
 
-Le métier n'a pas été interdit. Il a simplement été laissé s'éteindre.
+Le métier n'a pas été interdit.  
 
-En 2018, le Sénat publie un rapport sur les plantes médicinales. Dans une de ses sections, on lit que "Le pharmacien, à l'origine est herboriste par définition".
+Il a simplement été laissé s'éteindre.
 
-Oui, tu as bien lu.
+En 2018, le Sénat publie un rapport sur les plantes médicinales.  
 
-Une profession disparaît, et son savoir devient celui d'une autre. Voilà ce que je voudrais regarder avec toi.
+Dans une de ses sections, on lit que "Le pharmacien, à l'origine est herboriste par définition".
+
+Oui, vous avez bien lu.
+
+Une profession disparaît, et son savoir devient celui d'une autre.  
 
 
 ## Un métier reconnu par l'État
@@ -123,7 +129,9 @@ Ils fabriquent des tisanes, des hydrolats, des huiles essentielles, avec des ana
 
 Ce travail peut être sérieux et utile, vraiment.
 
-Il montre que la culture et la transformation des plantes reviennent dans le cadre pharmaceutique, alors que la profession indépendante supprimée en 1941 n'a jamais été rétablie.
+Il montre que la culture et la transformation des plantes reviennent dans le cadre pharmaceutique,  
+
+alors que la profession indépendante supprimée en 1941 n'a jamais été rétablie.
 
 
 ## Ce qui disparaît
