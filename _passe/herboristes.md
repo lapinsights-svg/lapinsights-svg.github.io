@@ -10,8 +10,6 @@ og_image: /statics/images/passe/herboristes.webp
 
 # Comment la France a fait disparaître ses herboristes
 
-# Comment la France a fait disparaître ses herboristes
-
 Je vais te raconter une histoire qui commence par une mort : celle de Marie Roubieu, en 2018, à 97 ans.
 
 Elle était la dernière en France à pouvoir exercer comme herboriste avec le certificat d'avant 1941. La dernière… Et avec elle, tout un métier s'en va.
