@@ -8,7 +8,7 @@ og_image: /statics/images/passe/herboristes.webp
 ---
 ![herboristes](/statics/images/passe/herboristes.webp)
 
- Comment la France a fait disparaître ses herboristes
+# Comment la France a fait disparaître ses herboristes
 
 En 2018, Marie Roubieu meurt à 97 ans.
 
