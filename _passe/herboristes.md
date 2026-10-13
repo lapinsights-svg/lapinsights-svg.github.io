@@ -131,9 +131,9 @@ que ses prérogatives deviennent trop proches de celles du pharmacien.
 
 La concurrence était réelle. Elle portait sur un marché réel.
 
-Il ne faut pas confondre ce constat avec la preuve que chaque pharmacien aurait poursuivi un plan commun  
+On peut penser que les décisions ont été dictées par l'industrie pharmaceutique.  
 
-ou que toutes les décisions auraient été dictées par l'industrie pharmaceutique. Les intérêts des acteurs pouvaient différer.
+Même si on peut dire que les intérêts des acteurs pouvaient différer.
 
 Mais un fait demeure : des organisations professionnelles ont défendu la disparition d'une profession concurrente,  
 
@@ -154,13 +154,11 @@ L'article 59 met fin à la délivrance de nouveaux certificats d'herboriste.
 
 Les herboristes déjà diplômés peuvent continuer à exercer leur vie durant.
 
-La profession n'est donc pas supprimée instantanément.  
-
-Elle est privée de renouvellement.
+La profession n'est donc pas supprimée instantanément, mais elle est privée de renouvellement.
 
 Plus personne ne peut entrer dans le métier.  
 
-Les anciens peuvent continuer. Puis ils disparaissent.
+Les anciens peuvent continuer, puis ils disparaissent.
 
 C'est une extinction organisée par le droit.
 
@@ -233,7 +231,9 @@ Une section porte ce titre : **"Le pharmacien, à l'origine herboriste par défi
 
 Le choix des mots mérite attention.
 
-Le pharmacien est placé à l'origine. L'herboristerie devient une mission que la pharmacie devrait retrouver ou réaffirmer.
+Le pharmacien est placé à l'origine.  
+
+L'herboristerie devient une mission que la pharmacie devrait retrouver ou réaffirmer.
 
 Or l'histoire que le même rapport retrace est celle d'une profession distincte, reconnue par l'État,  
 
@@ -277,11 +277,16 @@ tandis que celle du droit d'existence de l'herboriste demeure sans réponse ?
 
 Le savoir sur les plantes peut être reconnu.  
 
-Les formations peuvent être développées. Les produits végétaux peuvent revenir dans les officines.
+Les formations peuvent être développées.  
+
+Les produits végétaux peuvent revenir dans les officines.
 
 Mais la profession indépendante qui les portait historiquement reste absente du cadre légal.
 
-Ce n'est pas une simple nuance de vocabulaire. C'est une manière de redistribuer la légitimité.
+Ce n'est pas une simple nuance de vocabulaire.  
+
+C'est une manière de redistribuer la légitimité.
+
 
 ## Les plantes reviennent, les herboristes restent absents
 
@@ -289,7 +294,9 @@ Le retour contemporain des plantes médicinales rend ce paradoxe visible.
 
 En Dordogne, des pharmaciens producteurs cultivent eux-mêmes des plantes médicinales biologiques  
 
-et fabriquent notamment des tisanes, des hydrolats et des huiles essentielles. Leur démarche associe culture,  
+et fabriquent notamment des tisanes, des hydrolats et des huiles essentielles.  
+
+Leur démarche associe culture,  
 
 transformation des plantes, analyses et attention aux dosages et aux contre-indications.
 
