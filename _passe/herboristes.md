@@ -325,9 +325,13 @@ Mais les conditions dans lesquelles il peut être exercé et transmis restent d�
 
 ## Ce qui disparaît réellement
 
-Lorsqu'on regarde cette histoire à travers le seul prisme des plantes médicinales, une partie de l'enjeu échappe au regard.
+Lorsqu'on regarde cette histoire à travers le seul prisme des plantes médicinales,  
 
-Ce qui disparaît en 1941 n'est pas seulement un certificat. Ce n'est pas seulement un métier.
+une partie de l'enjeu échappe au regard.
+
+Ce qui disparaît en 1941 n'est pas seulement un certificat.  
+
+Ce n'est pas seulement un métier.
 
 C'est une manière particulière d'organiser la transmission d'un savoir, son accès et sa commercialisation.
 
@@ -345,9 +349,13 @@ et présenté comme une mission qui lui revient par définition.
 
 Voilà le retournement.
 
-La profession indépendante disparaît ; la légitimité de la profession qui a conservé le monopole demeure ;  
+La profession indépendante disparaît ;  
 
-le savoir associé aux plantes peut ensuite être revendiqué dans ce cadre, sans que la profession supprimée soit rétablie.
+la légitimité de la profession qui a conservé le monopole demeure ;  
+
+le savoir associé aux plantes peut ensuite être revendiqué dans ce cadre,  
+
+sans que la profession supprimée soit rétablie.
 
 Il ne s'agit pas de prétendre que les pharmaciens ne devraient pas connaître les plantes,  
 
@@ -361,7 +369,9 @@ Qui décide qu'un savoir est légitime ? Qui peut le transmettre ?
 
 Qui peut en faire une activité reconnue ?   
 
-Et que se passe-t-il lorsque le droit supprime une profession, puis que les compétences associées sont réintégrées dans le cadre d'une autre ?
+Et que se passe-t-il lorsque le droit supprime une profession,  
+
+puis que les compétences associées sont réintégrées dans le cadre d'une autre ?
 
 L'histoire française de l'herboristerie montre qu'un savoir peut survivre à la disparition de ceux qui en avaient fait leur métier.
 
