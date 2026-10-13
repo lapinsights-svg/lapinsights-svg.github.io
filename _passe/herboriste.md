@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Comment la France a fait disparaître ses herboristes"
-categories: idees
+categories: passe
 resume: "En 1941, l'herboristerie française disparaît au profit du monopole pharmaceutique."
 date: 2026-10-13
 og_image: /statics/images/passe/herboristes.webp
