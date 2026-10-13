@@ -10,137 +10,139 @@ og_image: /statics/images/passe/herboristes.webp
 
 # Comment la France a fait disparaître ses herboristes
 
-En 2018, Marie Roubieu meurt à 97 ans.
+# Comment la France a fait disparaître ses herboristes
 
-Elle était la dernière personne en France autorisée à exercer comme herboriste avec le certificat délivré avant 1941.
+Je vais te raconter une histoire qui commence par une mort : celle de Marie Roubieu, en 2018, à 97 ans.
 
-Pendant plus d'un siècle, pharmaciens et herboristes ont exercé côte à côte autour des plantes médicinales.
+Elle était la dernière en France à pouvoir exercer comme herboriste avec le certificat d'avant 1941. La dernière… Et avec elle, tout un métier s'en va.
 
-Une loi de 1941 a supprimé la formation de nouveaux herboristes.
+Pendant plus d'un siècle, pharmaciens et herboristes ont travaillé côte à côte autour des plantes médicinales.
 
-La profession n'a pas été interdite. Elle s'est éteinte faute de renouvellement.
+Puis une loi de 1941 a supprimé la formation de nouveaux herboristes.
 
-En 2018, le Sénat publie un rapport sur les plantes médicinales.
+Le métier n'a pas été interdit. Il a simplement été laissé s'éteindre.
 
-Une de ses sections reprend l'affirmation "Le pharmacien, à l'origine est herboriste par définition".
+En 2018, le Sénat publie un rapport sur les plantes médicinales. Dans une de ses sections, on lit que "Le pharmacien, à l'origine est herboriste par définition".
 
-Une profession autonome a disparu. Son savoir est désormais présenté comme celui d'une autre.
+Oui, tu as bien lu.
+
+Une profession disparaît, et son savoir devient celui d'une autre. Voilà ce que je voudrais regarder avec toi.
 
 
 ## Un métier reconnu par l'État
 
-Le certificat d'herboriste date du début du 19ème siècle.
+Le certificat d'herboriste date du début du 19ème siècle.  
 
-L'herboriste apprenait à identifier et à utiliser les plantes médicinales.  
+L'État reconnaissait ce métier.
 
-La loi lui permettait d'en vendre certaines, dans des limites précises.
+L'herboriste savait identifier et utiliser les plantes médicinales, et la loi lui permettait d'en vendre certaines, dans des limites précises.
 
-Le certificat était bien plus accessible que les études de pharmacie.
+Le certificat était bien plus accessible que les longues études de pharmacie.  
 
-Des femmes y ont trouvé un métier, alors que la pharmacie leur était peu ouverte.
+Des femmes y ont trouvé un métier, à une époque où la pharmacie leur était très peu ouverte.
 
-Ce n'était pas un folklore rural.  
+Je veux éviter l'image facile de la grand-mère et de ses recettes face à la pharmacie moderne.  
 
-C'était un savoir professionnel, avec des pratiques, des commerces, une activité économique.
+Il y avait un vrai savoir professionnel, des commerces, une activité économique.
 
-Tout ce que transmettaient les herboristes n'était pas exact. Toutes les plantes n'étaient pas sans danger.
+Tout ce que transmettaient les herboristes n'était pas juste (je le reconnais), et toutes les plantes n'étaient pas sans danger.
 
-La question portait sur le droit de détenir ce savoir et de vendre les substances auxquelles il donnait accès.
+Mais la vraie question est ailleurs : qui avait le droit de détenir ce savoir, et de vendre ce à quoi il donnait accès.
 
 
 ## Une guerre de territoire
 
-De 1870 à la fin de la 3ème République, une dizaine d'initiatives parlementaires visent à supprimer les herboristes.
+De 1870 à la fin de la 3ème République, une dizaine d'initiatives parlementaires cherchent à supprimer les herboristes.
 
-Selon le rapport du Sénat, l'Association générale des pharmaciens de France les soutient, dans une lutte pour préserver le monopole pharmaceutique.
+D'après le rapport du Sénat, l'Association générale des pharmaciens de France les soutenait,  
 
-Une partie des pharmaciens ne demandait pas une meilleure formation des herboristes.  
+dans un combat pour préserver le monopole pharmaceutique.
 
-Elle demandait la fin du certificat.
+Les pharmaciens ne demandaient pas seulement de mieux former les herboristes, pas du tout.  
 
-En 1929, un projet de statut se heurte encore à la crainte que les herboristes se rapprochent trop des pharmaciens.
+Une partie de la profession voulait la fin du certificat.
 
-Le conflit était présenté comme celui de la tradition contre la science.  
+En 1929 encore, un projet de statut bute sur la crainte que les herboristes ressemblent trop aux pharmaciens.
 
-L'enjeu était la vente, la préparation et la délivrance.
+On présentait cela comme la tradition contre la science.  
 
-L'industrie pharmaceutique a pu peser sur ces décisions. Les intérêts des acteurs n'étaient pas tous identiques.
+Pour moi, l'enjeu était plus concret : la vente, la préparation, la délivrance.
 
-Des organisations professionnelles ont défendu la disparition d'une profession concurrente. Le Sénat le reconnaît.
+L'industrie pharmaceutique a peut-être pesé sur ces décisions (les intérêts des uns et des autres n'étaient pas forcément les mêmes).
+
+Mais un fait demeure : des organisations professionnelles ont défendu la disparition d'une profession concurrente, et le Sénat le dit lui-même.
 
 
 ## 1941
 
-Le 11 septembre 1941, sous le régime de Vichy, une loi réorganise l'exercice de la pharmacie.
+Le 11 septembre 1941, sous Vichy, une loi réorganise l'exercice de la pharmacie.  
 
-Son article 59 met fin à la délivrance de nouveaux certificats d'herboriste.
+L'article 59 met fin à la délivrance de nouveaux certificats d'herboriste.
 
-Environ 4 500 herboristes diplômés peuvent exercer jusqu'à la fin de leur vie. Personne ne peut les remplacer.
+Les quelque 4 500 herboristes déjà diplômés peuvent exercer toute leur vie.  
+
+Plus personne ne peut les remplacer.
 
 La Libération ne rétablit pas le certificat.
 
-La loi renforce aussi le monopole pharmaceutique sur la fabrication, la distribution et la dispensation des médicaments, ainsi que sur certaines plantes médicinales.
+La même loi renforce le monopole pharmaceutique sur la fabrication, la distribution et la délivrance des médicaments, et sur certaines plantes médicinales.
 
-Au même moment, la production industrielle de médicaments progresse.  
+Au même moment, la production industrielle de médicaments prend de la place (l'historien Bruno Bonnemain a étudié cette période, sous l'Occupation).
 
-L'historien Bruno Bonnemain a étudié cette période.
+Je ne peux pas dire que l'un a été voulu pour l'autre.   
 
-Les deux mouvements sont contemporains. Rien ne prouve que l'un ait été voulu pour l'autre.
+Mais je ne peux pas non plus faire comme s'il n'y avait aucun lien.
 
 
 ## Le pharmacien, herboriste "par définition"
 
 La section du rapport de 2018 s'intitule "Le pharmacien, à l'origine herboriste par définition : une mission à réaffirmer".
 
-L'herboristerie y devient une mission de la pharmacie.
+L'herboristerie devient une mission de la pharmacie.
 
-Le même rapport décrit pourtant une profession distincte, reconnue par l'État, dont des organisations de pharmaciens ont réclamé la suppression pendant des décennies,  
+Or le même rapport raconte l'histoire d'une profession distincte, reconnue par l'État,  
 
-notamment pour préserver leur monopole.
+dont des pharmaciens ont réclamé la suppression pendant des décennies, notamment pour préserver leur monopole.
 
-Le point de départ du récit s'est déplacé. Le pharmacien est placé à l'origine du savoir sur les plantes.  
+Et voilà ma manière de voir les choses : le récit a changé de centre.  
 
-L'herboriste n'est plus au centre.
+On ne part plus de l'herboriste, on part du pharmacien, comme s'il avait été là le premier.
 
-Le rapport propose de renforcer le rôle des pharmaciens dans l'usage des plantes, notamment par une formation en phyto-aromathérapie.
+Le rapport propose aussi de renforcer la place des pharmaciens dans l'usage des plantes, par une formation en phyto-aromathérapie.
 
-Cette orientation peut se justifier par la sécurité et la qualité du conseil.   
+Cela peut se défendre au nom de la sécurité et de la qualité du conseil, et les pharmaciens ont de vraies compétences… je ne le conteste pas.
 
-Les pharmaciens ont de vraies compétences dans ce domaine.
-
-L'herboriste n'a toujours pas de statut.
+Mais l'herboriste, lui, n'a toujours pas retrouvé de statut.
 
 
 ## Les plantes reviennent, pas les herboristes
 
-En Dordogne, des pharmaciens cultivent des plantes médicinales biologiques.
+En Dordogne, des pharmaciens cultivent eux-mêmes des plantes médicinales biologiques.
 
-Ils fabriquent des tisanes, des hydrolats et des huiles essentielles, avec des analyses et une attention aux dosages et aux contre-indications.
+Ils fabriquent des tisanes, des hydrolats, des huiles essentielles, avec des analyses et une attention aux dosages et aux contre-indications.
 
 [Lire l'article de France 3 : ces pharmaciens cultivent eux-mêmes leurs plantes médicinales en Dordogne](https://france3-regions.franceinfo.fr/nouvelle-aquitaine/dordogne/perigueux/une-pharmacie-qui-sort-du-commun-en-dordogne-ces-pharmaciens-cultivent-eux-memes-leurs-plantes-medicinales-3428214.html)
 
-Ce travail peut être sérieux et utile.
+Ce travail peut être sérieux et utile, vraiment.
 
-La culture et la transformation des plantes reviennent dans le cadre pharmaceutique. La profession indépendante supprimée en 1941 n'a pas été rétablie.
+Il montre que la culture et la transformation des plantes reviennent dans le cadre pharmaceutique, alors que la profession indépendante supprimée en 1941 n'a jamais été rétablie.
 
 
 ## Ce qui disparaît
 
-Les plantes sont toujours là. Des professionnels les étudient, les cultivent et les transforment.
+Les plantes sont toujours là, et des professionnels continuent de les étudier, de les cultiver, de les transformer.
 
-Ce qui a disparu en 1941, c'est la transmission, l'accès et la vente de ce savoir par une profession qui lui était dédiée.
+Ce qui a disparu en 1941, c'est une façon de transmettre ce savoir, de le rendre accessible et de le vendre, par une profession qui s'y consacrait.
 
-Ce savoir est aujourd'hui exercé dans le cadre pharmaceutique et présenté comme lui revenant par définition.
+Aujourd'hui, ce savoir s'exerce dans le cadre pharmaceutique et il est présenté comme lui revenant par définition.
 
-Les pharmaciens peuvent connaître les plantes.  
+Je ne dis pas que les pharmaciens ne devraient pas connaître les plantes, ni que tout savoir traditionnel est juste.
 
-Les savoirs traditionnels ne sont pas tous justes.
-
-La valeur d'un savoir et le droit exclusif de l'exercer sont deux choses distinctes.
+Je dis qu'il ne faut pas confondre la valeur d'un savoir avec le droit exclusif de l'exercer.
 
 Un savoir peut survivre à ceux qui en avaient fait leur métier.  
 
-Sa reconnaissance dépend alors du statut de ceux qui sont autorisés à le porter.
+Mais sa reconnaissance dépend alors moins de ce qu'il vaut que du statut de ceux qui ont le droit de le porter.
 
 ---
 
