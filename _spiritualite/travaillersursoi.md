@@ -20,7 +20,7 @@ og_image: /statics/images/spiritualite/travailler.webp
 
 Un jour, on m'a dit cela avec les meilleures intentions du monde :
 
-> "«Tu devrais travailler sur toi."
+> "Tu devrais travailler sur toi."
 
 À cette époque, j'ai pris ce conseil très au sérieux.
 
