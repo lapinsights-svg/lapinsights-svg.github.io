@@ -2,7 +2,7 @@
 title: "Travailler sur soi ne sert à rien"
 layout: article
 categories: spiritualite
-date: 2026-10-14
+date: 2026-10-15
 resume: "Réflexion sur l'amélioration de soi, le sentiment de manque et l'illusion de l'incomplétude."
 tags:
   - développement personnel
