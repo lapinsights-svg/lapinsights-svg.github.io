@@ -20,9 +20,7 @@ Pendant plus d'un siècle, pharmaciens et herboristes ont travaillé côte à c�
 
 Puis une loi de 1941 a supprimé la formation de nouveaux herboristes.
 
-Le métier n'a pas été interdit.  
-
-Il a simplement été laissé s'éteindre.
+On a laissé ce métier s'éteindre, malgré lui.  
 
 En 2018, le Sénat publie un rapport sur les plantes médicinales.  
 
