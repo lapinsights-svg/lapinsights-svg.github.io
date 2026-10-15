@@ -49,7 +49,7 @@ Il y avait un vrai savoir professionnel, des commerces, une activité économiqu
 
 Tout ce que transmettaient les herboristes n'était pas juste (je le reconnais), et toutes les plantes n'étaient pas sans danger.
 
-Mais la vraie question est ailleurs : qui avait le droit de détenir ce savoir, et de vendre ce à quoi il donnait accès.
+Mais en réalité, ce qu'il faut se demander c'est : qui avait le droit de détenir ce savoir, et de vendre ce à quoi il donnait accès ?
 
 
 ## Une guerre de territoire
@@ -72,7 +72,7 @@ Pour moi, l'enjeu était plus concret : la vente, la préparation, la délivranc
 
 L'industrie pharmaceutique a peut-être pesé sur ces décisions (les intérêts des uns et des autres n'étaient pas forcément les mêmes).
 
-Mais un fait demeure : des organisations professionnelles ont défendu la disparition d'une profession concurrente, et le Sénat le dit lui-même.
+Mais le fait est que des organisations professionnelles ont défendu la disparition d'une profession concurrente, et le Sénat le dit lui-même.
 
 
 ## 1941
