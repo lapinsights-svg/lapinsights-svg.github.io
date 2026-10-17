@@ -2,9 +2,8 @@
 layout: article
 title: "Protéger la démocratie jusqu’à contrôler l’information ?"
 date: 2026-10-18
-categories: actualites
+categories: idees
 tags: ["Union européenne", "démocratie", "information", "désinformation", "souveraineté", "médias", "DSA"]
-permalink: /lapinsights/proteger-democratie-jusqua-controler-information/
 og_image: /statics/images/actualites/bouclier-democratique-europeen.png
 ---
 
