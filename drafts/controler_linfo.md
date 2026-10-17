@@ -1,267 +1,204 @@
 ---
 layout: article
 title: "Protéger la démocratie jusqu’à contrôler l’information ?"
-date: 2026-10-07
+date: 2026-10-18
 categories: actualites
 tags: ["Union européenne", "démocratie", "information", "désinformation", "souveraineté", "médias", "DSA"]
 permalink: /lapinsights/proteger-democratie-jusqua-controler-information/
 og_image: /statics/images/actualites/bouclier-democratique-europeen.png
 ---
 
-Protéger la démocratie jusqu’à contrôler l’information ?
+# Protéger la démocratie jusqu’à contrôler l’information ?
 
-Un texte circule avec un titre spectaculaire :
+Bruxelles ne peut pas annuler la présidentielle française.  
 
-« Le Parlement européen vote l’annulation possible de l’élection présidentielle française ! »
+Mais elle peut agir sur l’espace informationnel dans lequel les Français se forgent une opinion.  
 
-C’est faux.
+Et c’est là que se trouve le véritable sujet.
 
-Le Parlement européen ne s’est pas attribué le pouvoir d’annuler une élection présidentielle française. La régularité de cette élection relève des institutions françaises, notamment du Conseil constitutionnel.
+Le Bouclier européen de la démocratie existe bel et bien.  
 
-Mais s’arrêter là, c’est passer à côté du sujet.
+La commission spéciale du Parlement européen a adopté ses recommandations le 23 juin 2026, avant leur approbation en séance plénière le 15 septembre.
 
-Car le Bouclier européen de la démocratie existe bel et bien. La commission spéciale du Parlement européen a adopté ses recommandations le 23 juin 2026. Le Parlement les a ensuite approuvées en séance plénière le 15 septembre.
+Son objectif affiché : lutter contre les ingérences étrangères, les manipulations de l’information et les menaces qui pèsent sur les processus démocratiques.
 
-Et ce dispositif ne concerne pas seulement les urnes.
+Sur le principe, rien d’illégitime.  
 
-Il concerne l’espace dans lequel une démocratie pense, débat et choisit.
+Une puissance étrangère qui pirate une infrastructure électorale ou fabrique une vidéo destinée à tromper les électeurs constitue une menace réelle.
 
-Le glissement est là
+Mais derrière cette protection se pose une question autrement plus délicate : **qui décide de ce qui menace la démocratie, et qui contrôle ceux qui en décident ?**
 
-La Commission européenne présente le Bouclier comme un moyen de protéger l’intégrité de l’espace informationnel.
+Car une élection ne se joue pas seulement dans l’isoloir.  
 
-L’objectif affiché est de lutter contre les manipulations étrangères, les campagnes de désinformation et les menaces hybrides.
+Elle se prépare bien avant, dans les médias, sur les plateformes et dans les algorithmes qui organisent la circulation de l’information.
 
-Le dispositif s’appuie notamment sur le Digital Services Act et sur plusieurs instruments européens concernant les plateformes et les campagnes électorales.
+C’est précisément là que le pouvoir devient intéressant.
 
-Le Parlement européen souhaite également renforcer le Centre européen pour la résilience démocratique, lui donner un cadre juridique et des moyens dédiés, et accroître la coordination contre les manipulations de l’information et les ingérences électorales.
+## Le pouvoir ne se limite pas aux urnes
 
-Les infrastructures électorales pourraient être considérées comme des infrastructures critiques.
+La Commission européenne présente le Bouclier comme un moyen de protéger l’intégrité de l’espace informationnel.  
 
-Les plateformes seraient davantage sollicitées pour réagir face aux opérations de manipulation.
+Le dispositif s’appuie notamment sur le Digital Services Act et sur différents instruments européens concernant les plateformes et les campagnes électorales.
 
-Des réseaux de fact-checking et des programmes européens de soutien aux médias font également partie du dispositif.
+Le Parlement souhaite également renforcer le Centre européen pour la résilience démocratique,  
 
-Tout cela peut être présenté comme une protection de la démocratie.
+lui donner un cadre juridique et des moyens dédiés, et améliorer la coordination contre les ingérences.  
 
-Et dans certains cas, c’est exactement ce que c’est.
+Les infrastructures électorales pourraient être considérées comme critiques.  
 
-Mais une question apparaît immédiatement :
+Les plateformes seraient davantage sollicitées pour réagir aux opérations de manipulation.  
 
-Qui protège la démocratie contre ceux qui prétendent la protéger ?
+Le fact-checking et les programmes de soutien aux médias font également partie de cette architecture.
 
-Une démocratie ne se résume pas au scrutin
+Ce sont des mécanismes concrets. Ils ne donnent pas à Bruxelles le pouvoir d’annuler une élection française.  
 
-Empêcher une puissance étrangère de pirater une infrastructure électorale paraît légitime.
+Mais ils participent à organiser l’environnement dans lequel les citoyens s’informent et construisent leur jugement.
 
-Combattre une vidéo fabriquée par intelligence artificielle attribuant de faux propos à un candidat paraît légitime.
+La différence est essentielle.
 
-Lutter contre le financement clandestin d’une opération d’influence étrangère paraît légitime.
+**On peut respecter le résultat d’une élection tout en influençant les conditions dans lesquelles il se forme.**
 
-Mais une élection ne se joue pas seulement dans l’isoloir.
+Qui voit quoi ? Quelles informations sont recommandées ? Quels contenus sont signalés ? Quels médias sont considérés comme fiables ?  
 
-Elle se joue avant.
+Les réponses à ces questions pèsent sur le débat public, même lorsqu’aucune interdiction n’est prononcée.
 
-Dans les médias.
+## Qui décide de la désinformation ?
 
-Sur les réseaux sociaux.
+L’article 11 de la Charte des droits fondamentaux de l’Union européenne protège la liberté d’expression,  
 
-Dans les moteurs de recherche.
+le droit de recevoir et de communiquer des informations sans ingérence des autorités publiques,  
 
-Dans les recommandations algorithmiques.
-
-Dans les informations considérées comme fiables.
-
-Dans celles qui sont signalées.
-
-Dans les médias qui reçoivent des financements.
-
-À partir de là, la question change.
-
-Elle n’est plus seulement :
-
-Qui compte les bulletins ?
-
-Elle devient :
-
-Qui contribue à déterminer ce que les électeurs voient avant de déposer leur bulletin ?
-
-L’opinion libre n’est pas seulement le droit de penser
-
-L’article 11 de la Charte des droits fondamentaux de l’Union européenne protège la liberté d’expression, le droit de tenir des opinions et celui de recevoir ou communiquer des informations et des idées sans ingérence des autorités publiques.
-
-Il protège également la liberté et le pluralisme des médias.
+ainsi que la liberté et le pluralisme des médias.  
 
 La Convention européenne des droits de l’homme protège elle aussi le débat politique et les opinions qui dérangent.
 
-La liberté d’expression ne concerne pas uniquement les idées consensuelles.
+Encore faut-il prendre ces principes au sérieux lorsqu’ils deviennent gênants.
 
-C’est essentiel.
+Un faux document peut être identifié.  
 
-Une démocratie ne protège pas seulement le droit de dire vrai. Elle protège aussi le droit de contester, d’interpréter, de se tromper et de défendre une opinion minoritaire.
+Une vidéo truquée peut être démontée.  
 
-Le problème commence avec la notion même de « désinformation ».
+Mais la vie politique ne se résume pas à des faits incontestables et à des mensonges démontrables.
 
-Une fausse vidéo peut être identifiée.
+Entre les deux, il y a les interprétations, les hypothèses, les informations incomplètes, les accusations contestées et les opinions minoritaires.
 
-Un faux document peut être démontré.
+Une analyse peut être erronée sans être mensongère.  
 
-Mais entre le mensonge démontrable et le fait établi existe une immense zone grise.
+Une critique peut être excessive sans relever d’une opération d’influence.  
 
-L’interprétation.
+Une information peut être contestée sans que sa diffusion constitue une menace pour la démocratie.
 
-L’hypothèse.
+**Qui fixe la frontière entre l’erreur, le désaccord et la manipulation ?**
 
-L’analyse.
+Et surtout, sur quelles bases, avec quelles garanties et sous quel contrôle ?
 
-L’information incomplète.
+Le problème n’est pas de vérifier les faits.  
 
-L’accusation contestée.
+Il est de savoir ce qui se passe lorsque le pouvoir de qualifier une information s’accompagne de moyens capables d’en réduire la visibilité.
 
-L’opinion minoritaire.
+## La visibilité est déjà un pouvoir
 
-Qui décide où passe la frontière ?
+La censure n’a pas toujours besoin d’interdire.
 
-Et avec quelle légitimité ?
+Un contenu peut rester légal tout en disparaissant des recommandations.  
 
-Le financement n’est pas neutre
+Un média peut continuer à publier sans parvenir à toucher son public.  
+
+Un compte peut rester ouvert tout en devenant pratiquement invisible.
+
+Le référencement, les algorithmes, les signalements, la monétisation et les financements participent à déterminer ce qui circule et ce qui reste à la marge.
+
+Aucun décret d’interdiction.  
+
+Aucune fermeture officielle. Pourtant, la portée d’une parole peut s’effondrer.
+
+La liberté d’expression ne se résume pas à l’autorisation de parler.  
+
+Elle suppose aussi un espace dans lequel des voix différentes peuvent réellement se faire entendre.
+
+Ce pouvoir de visibilité devient sensible lorsqu’il se combine avec la définition institutionnelle des sources crédibles et des informations fiables.
+
+Il ne s’agit pas d’affirmer que toute modération constitue une censure,  
+
+ni que toute initiative européenne dissimule une volonté de contrôle.  
+
+Il s’agit de regarder les mécanismes et les pouvoirs qu’ils concentrent.
+
+## Qui finance les médias crédibles ?
 
 Le Parlement européen défend le soutien aux médias indépendants et crédibles comme un élément de la résilience démocratique.
 
-Il reconnaît également la nécessité d’évaluer les effets de ces initiatives sur le journalisme et sur le pluralisme des médias.
+Financer un média ne signifie pas acheter sa ligne éditoriale.  
 
-La question est simple.
+Mais sélectionner les médias jugés suffisamment indépendants ou crédibles pour bénéficier d’un soutien revient nécessairement à exercer un pouvoir de sélection.
 
-Financer un média ne signifie pas acheter sa ligne éditoriale.
+Qui finance ? Qui choisit les bénéficiaires ? Selon quels critères ? Qui contrôle les décisions ?  
 
-Mais lorsqu’une institution sélectionne les acteurs qu’elle considère comme suffisamment indépendants ou crédibles pour bénéficier d’un soutien, elle participe nécessairement à la structuration du paysage informationnel.
+Quels recours existent pour ceux qui s’estiment injustement écartés ?
 
-Qui finance ?
+Ces questions relèvent de la transparence.
 
-Qui sélectionne ?
+Un dispositif peut poursuivre des objectifs légitimes et produire malgré tout des effets problématiques.  
 
-Selon quels critères ?
+Il suffit que ses critères favorisent certains acteurs, que ses décisions soient difficiles à contester  
 
-Qui contrôle les sélectionneurs ?
+ou que ses mécanismes de contrôle soient insuffisants.
 
-Qui peut contester leurs décisions ?
+L’indépendance proclamée ne dispense jamais de rendre des comptes.
 
-Ces questions relèvent du débat démocratique.
+## La souveraineté se joue aussi avant le vote
 
-Pas de la théorie du complot.
+Dire que l’Union européenne ne peut pas annuler la présidentielle française est juridiquement exact.  
 
-Le contrôle peut être invisible
+Mais réduire la souveraineté électorale au dépouillement des bulletins revient à ignorer tout ce qui précède.
 
-Le risque n’est pas forcément celui d’une censure brutale.
+Les citoyens votent à partir de ce qu’ils savent, de ce qu’ils croient et de ce qu’ils ont pu entendre.  
 
-Le contrôle contemporain de l’information emprunte souvent d’autres chemins.
+Leur jugement se forme dans un environnement informationnel qui n’est ni neutre ni spontané.
 
-La visibilité.
+Le Bouclier européen entend agir sur cet environnement.  
 
-Le référencement.
+C’est précisément pourquoi ses objectifs, ses moyens et ses garde-fous méritent un examen démocratique.
 
-La recommandation.
+Le paradoxe est simple : pour protéger la démocratie contre les manipulations, les institutions doivent pouvoir intervenir.  
 
-Le signalement.
+Mais plus elles disposent de moyens pour qualifier une information et agir sur sa diffusion, plus leur responsabilité devient importante.
 
-La monétisation.
+La réponse consiste à empêcher que la protection contre des ingérences étrangères serve de justification à des interventions insuffisamment contrôlées.
 
-Le financement.
+Cela exige des critères publics, des décisions transparentes, des procédures contradictoires et des possibilités réelles de recours.  
 
-La labellisation.
+Cela exige aussi une distinction nette entre une opération étrangère de manipulation et une opposition politique intérieure.
 
-Un contenu peut rester légal et devenir pratiquement invisible.
+Une critique de Bruxelles n’est pas une ingérence russe.  
 
-Un média peut continuer à publier tout en perdant progressivement son accès à certains financements ou à certaines plateformes.
+Une opinion hostile à l’Union européenne n’est pas, par elle-même, une désinformation.  
 
-Un compte peut rester ouvert tout en disparaissant des mécanismes de recommandation.
+Et une opinion minoritaire n’a pas à recevoir le label d’une institution pour avoir le droit d’exister.
 
-Aucune interdiction officielle.
+## Le véritable enjeu
 
-Aucun décret.
+L’affirmation selon laquelle Bruxelles pourrait "annuler" la présidentielle française est trompeuse.  
 
-Aucune fermeture.
+Elle détourne l’attention du problème réel.
 
-Et pourtant, un effet réel sur la circulation de l’information.
+La vraie question est de savoir qui contribue à façonner l’espace dans lequel les électeurs se déterminent.
 
-La liberté d’expression ne consiste pas seulement à pouvoir parler. Elle suppose également la possibilité effective d’être entendu.
+Une démocratie peut conserver ses élections, ses bulletins et ses institutions tout en voyant se réduire le pluralisme de son débat public.
 
-La souveraineté ne se limite pas au résultat
+Le droit de vote demeure.  
 
-Dire que l’Union européenne ne peut pas annuler la présidentielle française est juridiquement exact.
+Mais si la visibilité des idées dépend de mécanismes que les citoyens ne peuvent ni comprendre ni contester, que reste-t-il de leur maîtrise du débat ?
 
-Mais la souveraineté électorale ne se limite pas à la proclamation d’un résultat.
 
-Elle suppose également que les citoyens puissent former leur jugement dans un espace réellement pluraliste.
+**Protéger la démocratie ne saurait donner un blanc-seing à ceux qui organisent la circulation de l’information.**
 
-Or le Bouclier européen entend précisément agir sur cet espace.
+La démocratie ne se protège pas seulement contre les manipulations.  
 
-Les médias.
+Elle doit aussi se protéger contre la concentration du pouvoir de définir ce qui mérite d’être entendu.
 
-Les plateformes.
+C’est à cette condition que le Bouclier européen pourra prétendre défendre ce qu’il annonce vouloir protéger.
 
-La désinformation.
+---
 
-Le fact-checking.
-
-Les ingérences.
-
-Les campagnes électorales.
-
-Ce n’est pas une théorie.
-
-C’est une construction institutionnelle en cours.
-
-Le paradoxe apparaît alors clairement.
-
-Pour défendre la démocratie contre la manipulation de l’information, il faut disposer de moyens permettant d’intervenir sur l’information.
-
-Mais plus une institution acquiert de moyens pour déterminer ce qui relève de la manipulation, plus elle acquiert un pouvoir potentiel sur le débat lui-même.
-
-La solution n’est pas de laisser prospérer les manipulations étrangères.
-
-Elle consiste à construire des garde-fous suffisamment solides pour que la protection de la démocratie ne puisse pas devenir une nouvelle source de contrôle politique de l’information.
-
-Cela suppose des critères publics.
-
-Des procédures contradictoires.
-
-Une transparence des financements.
-
-Des possibilités réelles de recours.
-
-Une séparation claire entre la lutte contre les opérations étrangères et le jugement des opinions politiques.
-
-Surtout :
-
-Une opinion hostile à l’Union européenne n’est pas, par elle-même, une ingérence étrangère.
-
-Une critique de Bruxelles n’est pas une opération russe.
-
-Une opinion minoritaire n’a pas besoin d’être validée par une institution pour avoir le droit d’exister.
-
-Le vrai sujet n’est pas l’annulation de la présidentielle
-
-Le titre affirmant que Bruxelles pourrait « annuler » l’élection française transforme un problème complexe en scénario spectaculaire.
-
-Le vrai sujet est ailleurs.
-
-Jusqu’où une institution supranationale peut-elle intervenir dans l’espace informationnel d’une démocratie nationale au nom de sa protection ?
-
-À partir de quel moment protéger les citoyens contre la manipulation revient-il à déterminer, même indirectement, quelles informations méritent davantage de visibilité que d’autres ?
-
-Qui fixe cette frontière ?
-
-Qui la surveille ?
-
-Et qui surveille ceux qui la fixent ?
-
-Une démocratie peut être fragilisée sans qu’aucune élection ne soit annulée.
-
-Il suffit que les citoyens conservent le droit de voter tout en perdant progressivement la maîtrise de l’espace dans lequel ils forment leur jugement.
-
-La question n’est donc pas seulement celle du résultat.
-
-Elle concerne aussi les conditions dans lesquelles ce résultat se forme.
-
-La protection de la démocratie doit elle-même rester soumise à la démocratie.
+Céleste R.
