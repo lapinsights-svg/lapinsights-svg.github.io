@@ -206,7 +206,7 @@ Pendant ce temps, la prévention recule.
 
 La confiance s'érode.
 
-La capacité de corriger les erreurs s'affaiblit.
+La capacité à corriger les erreurs s'affaiblit.
 
 Il est légitime de constater que la France devient plus autoritaire.
 
