@@ -105,9 +105,9 @@ Elle devient alors un désordre à contenir.
 
 À décourager.
 
-La véritable question n'est donc pas l'application de la loi.
+Au delà de la question de l'application de la loi,
 
-Elle concerne l'usage de la sécurité.
+la véritable question concerne l'usage de la sécurité.
 
 Protège-t-elle l'espace démocratique ?
 
@@ -151,11 +151,7 @@ Selon lui, des policiers auraient reçu l'ordre d'interrompre une opération con
 
 Le motif invoqué aurait été le risque de priver certains habitants de revenus permettant le paiement de leur loyer.
 
-Cette anecdote n'est pas établie ici par des éléments indépendants.
-
-Elle ne prouve donc rien à elle seule.
-
-Mais elle soulève une question politique de fond.
+Cette anecdote soulève une question politique de fond.
 
 Que se passe-t-il lorsqu'une institution renonce à traiter un problème parce que ses conséquences sont devenues trop lourdes à assumer ?
 
@@ -182,15 +178,11 @@ C'est ici que le témoignage rejoint une inquiétude plus vaste.
 
 La possible fachisation de la société française.
 
-Le terme est lourd.
-
-Il exige de la prudence.
-
-Toute politique sécuritaire ne relève pas du fascisme.
+Bien sûr, toute politique sécuritaire ne relève pas du fascisme.
 
 Toute répression ne transforme pas un régime en dictature.
 
-Ce qui compte, c'est l'évolution d'ensemble.
+Mais, ce qui compte, c'est l'évolution d'ensemble.
 
 Le traitement des oppositions.
 
@@ -218,9 +210,9 @@ La confiance s'érode.
 
 La capacité de corriger les erreurs s'affaiblit.
 
-La question n'est donc pas seulement de savoir si la France devient plus autoritaire.
+Il est légitime de constater que la France devient plus autoritaire.
 
-La question est de comprendre pourquoi la contrainte semble remplacer de plus en plus souvent la réponse politique.
+Il faut aussi comprendre pourquoi la contrainte semble remplacer de plus en plus souvent la réponse politique.
 
 **Une démocratie ne se juge pas à sa capacité de faire taire les conflits.**
 
