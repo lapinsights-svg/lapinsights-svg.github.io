@@ -128,9 +128,7 @@ Elle a renforcé des mécanismes bureaucratiques où l'information circule plus 
 
 Il évoque aussi plusieurs situations dans lesquelles des informations disponibles n'auraient pas été correctement rapprochées.
 
-Ces exemples nécessiteraient des vérifications indépendantes.
-
-Mais ils renvoient à une question essentielle.
+Ces exemples renvoient à une question essentielle.
 
 Accumuler davantage de données ne garantit pas une meilleure compréhension.
 
