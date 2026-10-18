@@ -1,6 +1,6 @@
 ---
 categories: idees
-date: 2026-10-18
+date: "2026-10-18"
 layout: article
 resume: "Le témoignage d'un ancien policier et agent des renseignements"
 tags:
@@ -9,8 +9,11 @@ tags:
 - maintien de l'ordre
 - police
 - autoritarisme
-title: La France sous contrôle, l'État en recul
+title: "La France sous contrôle, l'État en recul"
+og_image: /statics/images/idees/Ordre.webp
 ---
+
+![ordre](/statics/images/idees/Ordre.webp)
 
 # La France sous contrôle, l'État en recul
 
