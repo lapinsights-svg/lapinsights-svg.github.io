@@ -146,7 +146,7 @@ Et une opinion minoritaire n’a pas besoin du label d’une institution pour av
 
 ## Le véritable enjeu
 
-L’affirmation selon laquelle Bruxelles pourrait « annuler » la présidentielle française est trompeuse.
+L’affirmation selon laquelle Bruxelles pourrait "annuler" la présidentielle française est trompeuse.
 Elle détourne l’attention du problème réel.
 
 La vraie question est de savoir qui contribue à façonner l’espace dans lequel les électeurs se déterminent.
