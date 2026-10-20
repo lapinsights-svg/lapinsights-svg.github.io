@@ -4,7 +4,7 @@ title: "Protéger la démocratie jusqu’à contrôler l’information ?"
 date: 2026-10-20
 categories: idees
 tags: ["Union européenne", "démocratie", "information", "désinformation", "souveraineté", "médias", "DSA"]
-og_image: /statics/images/actualites/bouclier.webp
+og_image: /statics/images/idees/bouclier.webp
 ---
 
 ![bouclier](/statics/images/idees/bouclier.webp)
