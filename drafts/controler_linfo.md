@@ -1,11 +1,13 @@
 ---
 layout: article
 title: "Protéger la démocratie jusqu’à contrôler l’information ?"
-date: 2026-10-18
+date: 2026-10-20
 categories: idees
 tags: ["Union européenne", "démocratie", "information", "désinformation", "souveraineté", "médias", "DSA"]
 og_image: /statics/images/actualites/bouclier.webp
 ---
+
+![bouclier](/statics/images/idees/bouclier.webp)
 
 # Protéger la démocratie jusqu’à contrôler l’information ?
 
@@ -190,7 +192,7 @@ Le droit de vote demeure.
 Mais si la visibilité des idées dépend de mécanismes que les citoyens ne peuvent ni comprendre ni contester, que reste-t-il de leur maîtrise du débat ?
 
 
-**Protéger la démocratie ne saurait donner un blanc-seing à ceux qui organisent la circulation de l’information.**
+**Protéger la démocratie ne saurait donner carte blanche à ceux qui organisent la circulation de l’information.**
 
 La démocratie ne se protège pas seulement contre les manipulations.  
 
