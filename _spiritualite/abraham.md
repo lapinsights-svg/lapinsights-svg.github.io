@@ -1,8 +1,8 @@
 ---
 categories: idees
 date: 2026-10-22
-title: "La structure intérieure de la Bible"
-episode: "Abraham : le père des nations"
+title: "Abraham : le père des nations" 
+episode: "La structure intérieure de la Bible"
 resume: "Abraham porte la Promesse au sein du déploiement du Fils étendu."
 layout: article
 og_image: /statics/images/spiritualite/abraham.webp
