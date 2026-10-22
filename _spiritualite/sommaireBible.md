@@ -45,7 +45,7 @@ Ces fichiers préparent la lecture structurelle de la Bible.
 - Genèse / Eden — [eden](https://lapinsights.org/spiritualite/eden/)   Eden2 version pédagogique - [Eden2](https://lapinsights.org/spiritualite/Eden2/) 
 - Déluge   [deluge](https://lapinsights.org/spiritualite/deluge/)
 - Jonas    [Jonas](https://lapinsights.org/spiritualite/Jonas/)
-- Abraham  
+- Abraham  [abraham](https://lapinsights.org/spiritualite/abraham/)
 - Babel  
 - Israël  
 - Exode  
