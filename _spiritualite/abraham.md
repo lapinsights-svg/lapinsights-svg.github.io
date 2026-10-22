@@ -150,7 +150,9 @@ L’appartenance visible ne suffit donc pas à définir la filialité.
 
 Ce qui importe, dans cette lecture, est la relation à la Source et la manière dont elle se manifeste.
 
-La Promesse faite à Abraham ne se referme pas sur un pays nommé Israël : elle s’étend aux fils qui en expriment la portée.
+La Promesse faite à Abraham ne se referme pas sur un pays nommé Israël :  
+
+elle s’étend aux fils qui en expriment la portée.
 
 
 ## L’alliance : stabiliser le mouvement
@@ -174,8 +176,6 @@ L’axe ne devient pas la Source.
 Il se réoriente vers elle dans la perception.
 
 La distinction demeure, mais elle n’implique pas une séparation ontologique.
-
-La Promesse traverse les générations sans que son origine soit confondue avec ses porteurs.
 
 L’alliance ne produit donc pas l’unité.
 
@@ -217,7 +217,7 @@ Jésus dit :
 
 **"Avant qu’Abraham soit, je suis."**
 
-Dans cette lecture, cette parole exprime une antériorité structurelle.
+Dans cette lecture, cette parole exprime une antériorité ontologique.
 
 L’axe du Christ précède toute manifestation de la Promesse dans le Fils étendu.
 
