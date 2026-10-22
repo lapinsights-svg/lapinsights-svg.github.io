@@ -142,7 +142,7 @@ comme l’image d’une structure de filiation qui retrouve sa cohérence.
 
 La lecture structurelle ne remplace pas le récit : elle en dégage l’architecture symbolique.
 
-De même Les fils issus de la Promesse ne se limitent pas au peuple d’Israël.
+De même, les fils issus de la Promesse ne se limitent pas au peuple d’Israël.
 
 La Promesse faite à Abraham ouvre sur une multitude de fils, dont les expressions dépassent les frontières d’un peuple.
 
