@@ -3,7 +3,7 @@ categories: idees
 date: 2026-07-04
 title: "La structure intérieure de la Bible"
 episode: "Abraham : le père des nations"
-resume: "Abraham porte la réouverture historique d’une filialité qui le précède. Les nations figurent les polarités vivantes, Israël une filialité particulière, et Jésus révèle l’axe originel : la Promesse, la réconciliation et les épousailles."
+resume: "Abraham porte la Promesse au sein du déploiement du Fils étendu."
 layout: article
 ---
 
