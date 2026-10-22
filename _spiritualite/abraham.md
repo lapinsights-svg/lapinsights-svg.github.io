@@ -96,7 +96,9 @@ La Promesse est une ; les fils qui en naissent sont multiples.
 
 La pluralité ne crée pas plusieurs origines. Elle manifeste, sous des formes distinctes, une filialité dont le fondement demeure un.
 
-Abraham devient ainsi le père des nations au sens structurel : non parce qu’il crée leur origine, mais parce qu’il porte la Promesse dont elles constituent le déploiement.
+Abraham devient ainsi le père des nations au sens structurel :  
+
+non parce qu’il crée leur origine, mais parce qu’il porte la Promesse dont elles constituent le déploiement.
 
 La séquence devient lisible :
 
