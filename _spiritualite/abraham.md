@@ -44,7 +44,7 @@ Il rend à nouveau perceptible une cohérence qui n’a jamais cessé d’être.
 
 Le récit semble décrire un déplacement géographique.
 
-Dans ma lecture, ce départ porte aussi une fonction structurelle.
+Dans ma lecture, ce départ porte une fonction structurelle.
 
 Cela figure le mouvement par lequel le Fils cesse de se reconnaître dans la paternité du mensonge pour se réorienter vers sa Source.  
 
