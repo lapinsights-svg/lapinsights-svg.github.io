@@ -46,25 +46,27 @@ Le récit semble décrire un déplacement géographique.
 
 Dans ma lecture, ce départ porte aussi une fonction structurelle.
 
+Cela figure le mouvement par lequel le Fils cesse de se reconnaître dans la paternité du mensonge pour se réorienter vers sa Source.  
+
 C’est une **défixation**.
 
-Abraham sort :
+Abraham est appelé à sortir de la filiation issue de l’écoute du "serpent".
 
-- du lieu figé,
-- du lignage fermé,
-- de la forme répétitive.
+Il quitte :
+- le système de perception hérité de la séparation ;
+- la paternité symbolique qui prend le mensonge pour origine ;
+- la structure dans laquelle la conscience se reconnaît comme séparée de sa Source.
 
-Il quitte un ordre déjà constitué et entre dans un mouvement dont il ne maîtrise pas l’accomplissement.
+Il ne s’agit pas de rompre avec une unité réelle, mais de sortir d’une perception qui fait de la séparation son principe.
 
-La polarité cesse d’être enfermée dans une forme fixe.
+L’appel de Dieu réoriente la filiation vers son origine.
 
-L’axe se réoriente.
+Abraham ne crée pas cette relation et ne répare aucune rupture.
+
+Il devient le porteur de la Promesse au sein du déploiement du Fils étendu, là où l’unité demeure mais n’est plus perçue.
 
 La circulation de la Promesse redevient perceptible.
 
-Abraham ne crée pas le mouvement.
-
-Il en devient le porteur dans le Fils étendu, là où l’unité semble se fracturer.
 
 ## Les nations : les fils, les créations de Dieu
 
