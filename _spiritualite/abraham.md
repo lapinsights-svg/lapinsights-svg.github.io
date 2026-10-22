@@ -119,6 +119,7 @@ Parce qu’il porte, dans le déploiement du Fils étendu,
 la réouverture apparente d’une filialité dont l’unité n’a jamais été rompue.
 
 
+
 ## Israël : une filialité structurée
 
 Dans cette lecture, Israël n’est pas une entité géographique.
@@ -138,6 +139,16 @@ Lorsque les prophètes évoquent le rassemblement d’Israël, leur parole peut 
 comme l’image d’une structure de filiation qui retrouve sa cohérence.
 
 La lecture structurelle ne remplace pas le récit : elle en dégage l’architecture symbolique.
+
+De même Les fils issus de la Promesse ne se limitent pas au peuple d’Israël.
+
+La Promesse faite à Abraham ouvre sur une multitude de fils, dont les expressions dépassent les frontières d’un peuple.
+
+L’appartenance visible ne suffit donc pas à définir la filialité.
+
+Ce qui importe, dans cette lecture, est la relation à la Source et la manière dont elle se manifeste.
+
+La Promesse faite à Abraham ne se referme pas sur un pays nommé Israël : elle s’étend aux fils qui en expriment la portée.
 
 
 ## L’alliance : stabiliser le mouvement
