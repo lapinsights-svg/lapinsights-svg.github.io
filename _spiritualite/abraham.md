@@ -287,3 +287,7 @@ L’enjeu n’est donc pas d’accumuler des interprétations symboliques, mais 
 Ils sont examinés dans leurs relations, comme les éléments d’une même architecture.  
 
 Cette recherche propose un fil d’Ariane : non pour imposer un sens unique à chaque passage, mais pour rendre perceptible la structure qui pourrait les relier.
+
+voir ici : 
+[Lecture de la bible](https://lapinsights.org/spiritualite/lecturebible/)
+
