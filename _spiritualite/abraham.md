@@ -68,7 +68,7 @@ Il devient le porteur de la Promesse au sein du déploiement du Fils étendu, l�
 La circulation de la Promesse redevient perceptible.
 
 
-## Les nations : les fils, les créations de Dieu
+# Les nations : les fils issus de la Promesse
 
 Quand Dieu promet à Abraham :
 
@@ -78,17 +78,25 @@ et :
 
 "Tu seras le père d’une multitude de nations",
 
-la Promesse dépasse ce qu’Abraham peut voir, produire ou maîtriser.
+la Promesse annonce un déploiement qui dépasse Abraham lui-même.
 
-Dans cette lecture structurelle, les nations ne désignent pas des peuples ou des territoires.
+Les nations désignent, dans cette lecture structurelle, les fils qui naîtront de la Promesse.
 
-Elles figurent des **polarités vivantes** :
+Elles sont les expressions multiples d’une même filialité.
 
-- des formes distinctes,
-- des créations appelées à être traversées par l’axe,
-- des expressions de la filialité divine.
+Abraham porte la Promesse.
 
-Les nations peuvent ainsi être lues comme les fils, non comme des réalités autonomes coupées de leur origine.
+Isaac en incarne la première manifestation.
+
+Les fils issus de la Promesse en déploient les expressions.
+
+Les nations figurent cette multiplicité de la filialité divine.
+
+La Promesse est une ; les fils qui en naissent sont multiples.
+
+La pluralité ne crée pas plusieurs origines. Elle manifeste, sous des formes distinctes, une filialité dont le fondement demeure un.
+
+Abraham devient ainsi le père des nations au sens structurel : non parce qu’il crée leur origine, mais parce qu’il porte la Promesse dont elles constituent le déploiement.
 
 La séquence devient lisible :
 
@@ -109,6 +117,7 @@ Abraham devient ainsi le père des nations au sens structurel.
 Parce qu’il porte, dans le déploiement du Fils étendu,  
 
 la réouverture apparente d’une filialité dont l’unité n’a jamais été rompue.
+
 
 ## Israël : une filialité structurée
 
