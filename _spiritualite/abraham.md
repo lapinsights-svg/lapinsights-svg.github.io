@@ -238,6 +238,9 @@ Une seule filialité.
 
 Une seule structure.
 
+Retour au sommaire :  
+[Sommaire structure Bible](https://lapinsights.org/spiritualite/sommaireBible/)
+
 ---
 
 Céleste R.
