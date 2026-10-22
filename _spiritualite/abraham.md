@@ -268,3 +268,22 @@ Retour au sommaire :
 ---
 
 Céleste R.
+
+
+Nota Bene : 
+
+Cette lecture cherche à retrouver le fil structurel qui relie les figures, les récits et les paraboles de la Bible.  
+
+Car un récit peut transmettre davantage que ce qu’il décrit immédiatement.    
+
+Une figure peut remplir une fonction qui ne devient visible qu’en relation avec d’autres figures.    
+
+Une parabole peut ouvrir sur une réalité que son récit ne fait qu’approcher.  
+
+L’enjeu n’est donc pas d’accumuler des interprétations symboliques, mais de comprendre ce qui rend l’ensemble cohérent.  
+
+Éden, les deux arbres, le serpent, Abraham, Isaac, les nations et le Christ ne sont pas étudiés comme des images isolées.    
+
+Ils sont examinés dans leurs relations, comme les éléments d’une même architecture.  
+
+Cette recherche propose un fil d’Ariane : non pour imposer un sens unique à chaque passage, mais pour rendre perceptible la structure qui pourrait les relier.
