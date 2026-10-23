@@ -43,7 +43,8 @@ Il arbore la vérité des traces qui ne peuvent plus rester enfouies.
 Il y a dans cette approche une foi qui n’a rien d’éthéré.  
 C'est une flamme nocturne, droite, obstinée,  
 une lueur qui persiste dans le noir tel un serment.  
-Elle se tient dans chaque éclat de pierre, dans chaque frisson de cette chambre intérieure.  
+Elle se tient dans chaque éclat de pierre,  
+dans chaque frisson de cette chambre intérieure.  
 Elle est là, fidèle à ce qui veut renaître.  
 
 Je marche dans cette transfiguration.  
