@@ -92,7 +92,7 @@ Je ne donne pas de nom
 J'ai connu jadis le feu  
 qui réclame tout le bois,  
 la flamme qui prend le rêve  
-pour une promesse,  
+pour un serment,  
 et ne laisse au matin  
 que la cendre de soi-même.
 
