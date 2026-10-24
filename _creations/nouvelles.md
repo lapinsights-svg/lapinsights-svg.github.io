@@ -36,11 +36,11 @@ Avec toi, les mots passent.
 Ils vont où ils veulent,  
 déposent leur parfum,  
 puis s'en vont,  
-sans que rien ait eu besoin. 
+sans que rien ait eu besoin   
 de se défendre.
  
 Un jour, tu as demandé   
-si c'était étrange. 
+si c'était étrange   
 de prendre des nouvelles.
 
 Cette question m'est apparue,  
