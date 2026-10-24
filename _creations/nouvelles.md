@@ -51,14 +51,13 @@ seulement le jour,
 et le plaisir simple  
 d'un échange sans prétexte.
 
-Depuis, je ne sais plus très bien  
-à quel moment une conversation  
-devient un rendez-vous familier.  
-Est-ce lorsqu'on se retrouve,  
+Depuis, je ne sais plus très bien. 
+à quel moment une présence commence.  
+Est-ce lorsqu’elle entre dans la pièce,  
 ou plus tard,  
 quand une phrase entendue  
-revient sans bruit  
-au milieu d'une autre journée ?
+revient sans bruit
+au milieu d’une autre journée ?
 
 Je t'ai dit que j'étais heureuse  
 de te savoir dans mon présent.  
