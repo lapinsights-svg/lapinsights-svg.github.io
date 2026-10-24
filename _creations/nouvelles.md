@@ -24,7 +24,7 @@ mais elles ne savaient pas où finir.
 L'heure, discrète, s'éloignait.  
 Nous avions parlé de choses ordinaires,  
 et pourtant quelque chose demeurait,  
-comme une lampe allumée. 
+comme une lampe allumée  
 dans une pièce que l'on quitte.  
 
 Il est rare que deux voix  
@@ -39,7 +39,7 @@ puis s'en vont,
 sans que rien ait eu besoin. 
 de se défendre.
  
-Un jour, tu as demandé. 
+Un jour, tu as demandé   
 si c'était étrange. 
 de prendre des nouvelles.
 
@@ -55,7 +55,7 @@ Depuis, je ne sais plus très bien
 Est-ce lorsqu'elle entre dans la pièce,  
 ou plus tard,  
 quand une phrase entendue.  
-revient sans bruit.  
+revient sans bruit    
 au milieu d'une autre journée ?  
 
 Je t'ai dit que j'étais heureuse  
