@@ -1,6 +1,8 @@
 ---
 title: "Gary Renard et la négation de la réalité"
 date: 2023-10-15
+layout: article
+categories: spiritualite
 resume: "Analyse des contradictions internes du discours de Gary Renard"
 ---
 Dans un récent article, Gary Renard affirme que "nous projetons notre culpabilité inconsciente et infondée sur ce monde surréaliste"(1).
