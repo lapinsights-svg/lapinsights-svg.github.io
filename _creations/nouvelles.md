@@ -111,7 +111,7 @@ et cette joie
 qui ne demande pas à demain  
 de tenir la promesse d'aujourd'hui,  
 simplement de goûter encore  
-au plaisir d'un échange.
+au plaisir de la vie.
 
 Si nos chemins se croisent,  
 qu'ils se croisent librement.  
