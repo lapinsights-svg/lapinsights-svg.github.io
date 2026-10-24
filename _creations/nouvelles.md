@@ -3,7 +3,7 @@ title: "Celle qui demande des nouvelles"
 date: 2026-10-23
 categories: creations
 layout: article
-og_image: /statics/images/creations/amitie.webp
+og_image: /statics/images/creations/orchidees.webp
 ---
 
 *Cliquer sur la vidéo.*
