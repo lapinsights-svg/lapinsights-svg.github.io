@@ -51,7 +51,7 @@ seulement le jour,
 et le plaisir simple  
 d'un échange sans prétexte.
 
-Depuis, je ne sais plus très bien. 
+Depuis, je ne sais plus très bien   
 à quel moment une présence commence.  
 Est-ce lorsqu’elle entre dans la pièce,  
 ou plus tard,  
