@@ -29,7 +29,7 @@ dans une pièce que l'on quitte.
 
 Il est rare que deux voix. 
 ne se heurtent pas aux portes,  
-ne cherchent pas leur chemin. 
+ne cherchent pas leur chemin  
 parmi les précautions du monde.  
 
 Avec toi, les mots passent.  
