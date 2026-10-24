@@ -58,7 +58,7 @@ revient sans bruit
 au milieu d’une autre journée ?
 
 Je t'ai dit que j'étais heureuse  
-de te savoir dans mon présent.  
+que tu sois dans mon présent.  
 Les mots sont partis avant la prudence,  
 comme une eau qui trouve son passage  
 dans la pierre.
