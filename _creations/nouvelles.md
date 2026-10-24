@@ -6,8 +6,6 @@ layout: article
 og_image: /statics/images/creations/nouvelles.webp
 ---
 
-*Cliquer sur la vidéo pour voir la sculpture.*
-
 <video controls autoplay muted loop playsinline 
        style="width:100%; max-width:480px; border-radius:12px; display:block; margin:auto;">
   <source src="https://pub-914b23d6d66941e0912cc9a09679bec4.r2.dev/Orchidees.mp4" type="video/mp4">
