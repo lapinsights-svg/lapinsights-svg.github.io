@@ -6,7 +6,7 @@ layout: article
 og_image: /statics/images/creations/nouvelles.webp
 ---
 
-*Cliquer sur la vidéo pour voir la sculpture.*
+*Cliquer sur la vidéo.*
 
 <video controls autoplay muted loop playsinline 
        style="width:100%; max-width:480px; border-radius:12px; display:block; margin:auto;">
