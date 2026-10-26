@@ -2,6 +2,7 @@
 title: "Choisir sa stratégie IEF"
 date: 2026-05-02
 categories: idees
+layout: article
 resume: "Trois voies se dessinent pour les familles IEF. Une cartographie des choix possibles face à un État qui resserre la liberté éducative."
 keywords: ["IEF", "instruction en famille", "désobéissance civile", "exil éducatif", "liberté d'instruction", "souveraineté parentale"]
 og_image: /statics/images/idees/IEF.png
@@ -38,7 +39,8 @@ Sa publication est accessible ici :
 Face à lui, une association a répondu en assumant une autre tradition :  
 celle de la **désobéissance civile**.  
 Non pas le “far west”, mais une désobéissance publique, non violente, assumée, lorsque la loi porte atteinte à une liberté fondamentale.  
-Elle ne revendique pas un droit à ne pas être soumise à la loi, mais le droit de contester une loi jugée injuste, au nom de la liberté d’instruction et de l’intérêt des enfants.
+Elle ne revendique pas un droit à ne pas être soumise à la loi, mais le droit de contester une loi jugée injuste,  
+au nom de la liberté d’instruction et de l’intérêt des enfants.
 
 Deux registres se font face :  
 
@@ -76,13 +78,15 @@ Publiquement.
 À visage découvert.  
 
 Ils rejoignent la ligne de l’association :  
-assumer la désobéissance comme acte politique, accepter les conséquences, non par inconscience, mais parce qu’ils jugent certains principes supérieurs à la sécurité juridique.
+assumer la désobéissance comme acte politique, accepter les conséquences, non par inconscience,  
+mais parce qu’ils jugent certains principes supérieurs à la sécurité juridique.
 
 La désobéissance civile n’est pas confortable.  
-Elle expose, elle marque. Elle laisse des traces sur le casier, sur la vie professionnelle, sur la trajectoire familiale.  
+Elle expose, elle marque.  
+Elle laisse des traces sur le casier, sur la vie professionnelle, sur la trajectoire familiale.  
 
 Mais elle ouvre une brèche.  
-Elle dit : *la loi n’est pas toujours le juste*.  
+Elle dit : *la loi n’est pas toujours ce qui est juste*.  
 
 ---
 
@@ -154,6 +158,6 @@ le nouveau formulaire réduit les espaces d’expression libre et transforme le 
 Moins les parents peuvent décrire la réalité vécue, plus l’institution impose sa propre interprétation des besoins de l’enfant.   
 Cela renforce mécaniquement les orientations scolaires par défaut, au détriment des alternatives éducatives, dont l’IEF médicale.  
 En limitant la parole parentale, on limite aussi leur capacité à défendre un choix éducatif adapté.  
-
+---
 
 Céleste R.
