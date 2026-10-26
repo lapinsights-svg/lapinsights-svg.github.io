@@ -14,11 +14,11 @@ On présente souvent l’IA comme une course mondiale, un enjeu de puissance, un
 Mais derrière les discours, il y a une mécanique plus triviale : **le transfert d’énergie et de dette**.
 
 Le point de départ est un article de *La Tribune* :  
-[« Arthur Mensch s’inquiète d’une Europe cantonnée à la fourniture d’énergie dans la course à l’IA »](https://www.latribune.fr/article/tech/intelligence-artificielle/36528277200475/arthur-mensch-s-inquiete-d-une-europe-cantonnee-a-la-fourniture-d-energie-dans-la-course-a-l-ia).
+["Arthur Mensch s’inquiète d’une Europe cantonnée à la fourniture d’énergie dans la course à l’IA "](https://www.latribune.fr/article/tech/intelligence-artificielle/36528277200475/arthur-mensch-s-inquiete-d-une-europe-cantonnee-a-la-fourniture-d-energie-dans-la-course-a-l-ia).
 
 Il a présenté sa vision de la souveraineté numérique européenne devant l’Assemblée nationale le 12 mai.
 
-Voici l’analyse de cette vision — et surtout de ce qu’elle implique en profondeur, derrière les mots.
+Voici l’analyse de cette vision, et surtout de ce qu’elle implique en profondeur, derrière les mots.
 
 Il décrit une Europe réduite à la fourniture d’électrons.  
 Mais, en tant que dirigeant de Mistral AI, son discours peut aussi servir de caution technique à une nouvelle vague de dépenses massives, justifiées au nom du “retard européen”.
@@ -57,7 +57,7 @@ Chaque kilowatt absorbé par un modèle américain est un kilowatt soustrait au 
 Chaque token produit ailleurs est payé par nos factures.
 
 Et les dirigeants accompagnent :  
-ils subventionnent, garantissent, régulent — mais jamais dans le sens de la souveraineté.  
+ils subventionnent, garantissent, régulent, mais jamais dans le sens de la souveraineté.  
 Ils semblent avoir accepté leur rôle de **valets énergétiques** des superpuissances IA.
 
 ## Le piège narratif
@@ -99,7 +99,7 @@ C’est un électron devenu dette.
 Et cette dette, ce sont les citoyens qui la paieront.
 
 Les tokens seront toujours plus gourmands, toujours plus coûteux,  
-et ils financeront une technologie qui ne leur servira pas —  
+et ils financeront une technologie qui ne leur servira pas   
 parce que tout risque d’être aspiré par la Défense.
 
 L’IA civile est un mirage.  
@@ -116,7 +116,7 @@ Pendant que les superpuissances militarisent leurs modèles, les citoyens europ�
 
 L’Europe deviendra le **paysan énergétique** d’une guerre technologique qui n’est pas la sienne.
 
-Et, comble du cynisme, on leur demandera d’accepter la **sobriété énergétique** —  
+Et, comble du cynisme, on leur demandera d’accepter la **sobriété énergétique** ,  
 une sobriété pour eux, jamais pour les data centers.  
 Ils baisseront le chauffage pendant que les fermes de GPU tourneront à plein régime  
 pour alimenter des modèles destinés, in fine, à mener des guerres plus ou moins légitimes et condamnables.  
