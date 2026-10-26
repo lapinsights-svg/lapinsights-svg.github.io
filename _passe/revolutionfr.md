@@ -104,9 +104,9 @@ Elle peut suivre les voies légales.
 
 Elle peut se cacher derrière des procédures, des textes et des discours qui semblent parfaitement logiques.
 
-Le pouvoir ne dit pas qu'il enlève une liberté.
+Le pouvoir ne dit pas qu'il réprime, mais qu'il protège l'ordre public.
 
-Il dit qu'il la protège. 
+Le pouvoir ne dit pas qu'il enlève une liberté, mais qu'il la protège. 
 
 Temporairement.
 
