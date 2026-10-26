@@ -17,7 +17,7 @@ Cette analogie semble brillante, mais elle repose en fait sur une confusion fond
 Comparer l’IA au violon permet de maintenir l’artiste au centre.  
 C’est une métaphore de continuité : un nouvel outil, un prolongement de la main, rien de plus.
 
-Mais l’IA n’est pas un instrument.  
+Sauf que l’IA n’est pas un instrument.  
 Et la création ne fonctionne plus comme à l’époque de Vivaldi.
 
 ---
@@ -53,9 +53,7 @@ Il **déclare une volonté**, un désir de forme.
 Le système génératif réalise ce que l’artiste ne fabrique plus.  
 Ce n’est pas une nuance : c’est un changement de régime.
 
-Si on veut une métaphore plus juste alors,    
-
-L’IA n’est pas un violon.  
+Si on veut une métaphore plus juste alors, disons que l’IA n’est pas un violon.  
 Elle est une **chambre d’échos générative**, un climat algorithmique où les formes émergent.
 
 Le violon déléguait la vibration.  
@@ -64,14 +62,15 @@ L’IA délègue la variation.
 ---
 
 Il ne s’agit pas d’être contre l’IA.  
-Il s’agit de savoir **ce qu’elle fait** - produire, varier, générer —  
-et **ce qu’elle ne fait pas** — sentir, incarner, transformer l’expérience humaine en forme.
+Il s’agit de savoir **ce qu’elle fait** : produire, varier, générer  
+et **ce qu’elle ne fait pas** : sentir, incarner, transformer l’expérience humaine en forme.
 
-En répondant à Jarre, je ne conteste pas son rôle de pionnier.  
-Je refuse sa métaphore qui adoucit la rupture.  
-L’artiste ne crée plus la forme : il **déclare la volonté de forme**, et laisse un système produire ce qu’il ne fait plus.
+En répondant à Jarre, même si je ne conteste pas son rôle de pionnier,    
+je refuse sa métaphore qui adoucit la rupture.  
+L’artiste ne crée plus la forme, il **déclare la volonté de forme**, et laisse un système produire ce qu’il ne fait plus.
 
-Nommer ce déplacement, c’est préserver la clarté sur ce que nous déléguons, ce que nous transformons, et ce que nous risquons de perdre du véritable art humain.
+Nommer ce déplacement, c’est préserver la clarté sur ce que nous déléguons, ce que nous transformons,  
+et ce que nous risquons de perdre du véritable art humain.
 
 ---
 
