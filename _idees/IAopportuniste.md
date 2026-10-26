@@ -12,7 +12,7 @@ og_image: /statics/images/idees/opportuniste.webp
 
 # Retournement opportuniste autour de l’IA  
 
-Lien vers la conférence : [Débat Harari – LeCun](https://www.lepoint.fr/sciences-nature/intelligence-artificielle-le-debat-choc-et-inedit-harari-le-cun-11-05-2023-2519779_1924.php)
+Lien vers la conférence : [Débat Harari - LeCun](https://www.lepoint.fr/sciences-nature/intelligence-artificielle-le-debat-choc-et-inedit-harari-le-cun-11-05-2023-2519779_1924.php)
 
 1- Les prophètes du futur changent de peau  
 
@@ -26,9 +26,9 @@ Le ton s’est déplacé.
 Les mêmes figures ont soudain invoqué la prudence, l’alerte, la régulation urgente.  
 Un pivot rapide, presque chorégraphié.  
 
-2- Le retournement n’est pas moral, il est stratégique  
+2- Un retournement stratégique  
 
-Ce changement ne naît pas d’une révélation tardive.  
+Ce changement ne naît pas d’une morale ou d'une révélation tardive.  
 Il répond à un glissement du centre médiatique.  
 La peur attire les gouvernements, les budgets, les commissions.  
 Elle ouvre les portes où se dessine la régulation.  
@@ -43,7 +43,7 @@ Elle préserve la lumière.
 Dans ce paysage mouvant, Yann LeCun avance autrement.  
 Son regard se pose sur la matière, sur les limites réelles des modèles, sur leurs failles encore béantes.  
 Les systèmes actuels n’ont ni intention, ni compréhension, ni stratégie.  
-LeCun le rappelle sans emphase, sans mise en scène, sans prophétie.  
+LeCun le rappelle sans emphase, simplement. 
 Les risques, pour lui, se logent dans l’usage humain, dans les structures de pouvoir, dans les mains qui manipulent la technologie.  
 
 Il évoque les briques manquantes, les zones friables, les mécanismes encore rudimentaires.  
@@ -61,7 +61,7 @@ Elles aspirent à la position de gardiens du futur, consultés avant chaque déc
 Le retournement n’est qu’un mouvement de conservation.  
 Une manière de rester au sommet de la pyramide discursive.  
 
-5- Analyse de Lapinsights :
+5- Analyse :
 
 Le futur technologique ne se construit pas dans les récits.  
 Il se forge dans les cavités où travaillent les ingénieurs, dans les ateliers où la matière mathématique se laisse façonner.  
@@ -78,7 +78,7 @@ Les autres gravitent autour de l’entrée.
 Ce retournement opportuniste autour de l’IA s’inscrit dans une stratégie de survie narrative.  
 Les voix qui ont célébré l’IA comme une ascension la présentent désormais comme une menace.  
 Leur objectif reste inchangé :  
-conserver la centralité, attirer l’attention, maintenir la légitimité.  
+conserver la centralité, attirer l’attention, maintenir leur légitimité.  
 
 ---
 
