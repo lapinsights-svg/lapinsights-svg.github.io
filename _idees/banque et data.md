@@ -7,20 +7,21 @@ resume: "Les banques analysent nos transactions pour profiler nos vies — un en
 
 Les banques ne se contentent plus de stocker nos données : **elles les interprètent**.
 
-L’analyse automatique des transactions n’est pas un simple service annexe. C’est un traitement algorithmique massif, qui transforme chaque paiement en information comportementale.
+L’analyse automatique des transactions n’est pas un simple service annexe.  
+C’est un traitement algorithmique massif, qui transforme chaque paiement en information comportementale.
 
 Un achat en pharmacie peut suggérer un problème de santé.  
 Un abonnement à une salle de sport peut indiquer un style de vie.  
 Un paiement récurrent dans un bar peut être interprété comme une habitude sociale.  
 Un don à une association révèle des convictions.
 
-Ce n’est plus de la comptabilité : **c’est du profilage**.
+Ce n’est plus de la comptabilité , **c’est du profilage**.
 
 Et le flou demeure sur les usages réels. Où vont ces données ?
 
 Même si les banques sont encadrées par des règles strictes, plusieurs zones grises persistent :
 
-- **Les entreprises qui aident** : algorithmes, outils de classification, services de conseil — souvent fournis par d’autres entreprises.  
+- **Les entreprises qui aident** : algorithmes, outils de classification, services de conseil , souvent fournis par d’autres entreprises.  
 - **Les accords** : partenariats avec assurances, fintechs, sites de cashback.  
 - **Les usages internes** : notation des clients, segmentation marketing, opportunités commerciales.
 
@@ -28,7 +29,9 @@ Le souci n’est pas seulement ce qui se fait aujourd’hui, mais **ce qui pourr
 
 Et ne rêvez pas : **le consentement est un mythe confortable**.
 
-La plupart des gens n’ont jamais explicitement demandé ces analyses. Elles sont activées par défaut, intégrées dans l’application, présentées comme un « plus ».
+La plupart des gens n’ont jamais explicitement demandé ces analyses.  
+
+Elles sont activées par défaut, intégrées dans l’application, présentées comme un "plus".
 
 Le consentement devient tacite, enfoui dans des conditions générales illisibles, impossibles à refuser sans perdre l’accès aux services essentiels.
 
@@ -59,5 +62,4 @@ Parce que si nous ne fixons pas de limites maintenant, ce seront les entreprises
 C’est une revendication simple, raisonnable, profondément démocratique.
 
 ---
-
-© Céleste R. — CC BY-NC-ND
+Céleste R.
