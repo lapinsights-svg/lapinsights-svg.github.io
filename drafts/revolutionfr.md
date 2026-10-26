@@ -6,7 +6,9 @@ date: 2026-10-26
 resume: "La Terreur révèle comment un pouvoir peut restreindre les libertés au nom même de leur protection."
 tags: ["Révolution française", "Terreur", "libertés", "pouvoir", "histoire"]
 og_image: /statics/images/lapinsights-og.png
+og_image: /statics/images/passe/revolutionfr.webp
 ---
+![herboristes](/statics/images/passe/revolutionfr.webp)
 
 Les sociétés renoncent rarement à leurs libertés en disant clairement qu'elles y renoncent.
 
