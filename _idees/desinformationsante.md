@@ -42,7 +42,7 @@ Aucun protocole.
 Aucune reproductibilité.  
 Aucune analyse méthodologique.
 
-Ce rapport ne décrit pas une méthode mais une **logistique**.
+Ce rapport ne décrit donc pas une méthode mais une **logistique**.
 
 ---
 
