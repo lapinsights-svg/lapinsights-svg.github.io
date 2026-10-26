@@ -22,19 +22,19 @@ Elles montrent que la limite entre protéger une liberté et la restreindre est 
 
 La Révolution française montre ce paradoxe avec une force particulière.
 
-En 1789, elle vise quelque chose de grand. Renverser l'arbitraire.  
+En 1789, elle vise quelque chose de grand :  
 
-Mettre fin aux privilèges.  
+- Renverser l'arbitraire.  
 
-Dire que personne ne doit être au-dessus de la loi.  
+- Mettre fin aux privilèges.  
+
+- Dire que personne ne doit être au-dessus de la loi.  
 
 La Déclaration des droits de l'homme et du citoyen pose des principes qui restent aujourd'hui la base de beaucoup de démocraties.  
 
 Liberté, égalité devant la loi, souveraineté nationale.
 
-Le mouvement semble aller dans une seule direction.  
-
-On se dirige vers plus de liberté.
+Le mouvement semble aller dans une seule direction : plus de liberté.  
 
 Mais quelques années plus tard, la situation a changé.
 
@@ -84,7 +84,9 @@ Sous la Terreur, tout va plus vite.
 
 Les protections judiciaires faiblissent.  
 
-Contester devient risqué. Parfois, il vaut mieux se taire que parler.
+Contester devient risqué.  
+
+Parfois, il vaut mieux se taire que parler.
 
 Pourtant, les institutions existent encore.
 
@@ -104,7 +106,7 @@ Elle peut se cacher derrière des procédures, des textes et des discours qui se
 
 Le pouvoir ne dit pas qu'il enlève une liberté.
 
-Il dit qu'il la protège.
+Il dit qu'il la protège. 
 
 Temporairement.
 
@@ -124,11 +126,11 @@ C'est peut-être la leçon la plus difficile de la Terreur.
 
 Le danger n’apparaît pas toujours quand on critique ouvertement les libertés.
 
-Il arrive parfois qu'elles soient célébrées tout le temps, tout en étant peu à peu influencées.
+Il arrive parfois qu'elles soient célébrées tout le temps, tout en étant peu à peu dénaturées.
 
 Car une liberté qui dépend de l'approbation du pouvoir n'est déjà plus vraiment une liberté.
 
-Et cette question, plus de deux siècles après la Révolution française, demeure intacte :
+Et cette question, aujourd'hui, plus de deux siècles après la Révolution française, demeure intacte :
 
 À quel point une mesure mise en place pour protéger arrête-t-elle de protéger et commence-t-elle à confisquer ?
 
