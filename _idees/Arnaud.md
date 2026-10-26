@@ -26,11 +26,11 @@ Je ne dispose pas des éléments permettant de trancher les questions médicales
 
 Ce rôle appartient aux médecins, aux experts et, le cas échéant, à la justice.
 
-Mais une question demeure.
+Mais je pose une question.
 
 Comment un homme en arrive-t-il à considérer l'euthanasie comme la seule issue acceptable à son existence ?
 
-C'est cette question qui devrait nous arrêter.
+Et cette question devrait nous arrêter.
 
 Depuis longtemps, le débat public se concentre sur l'acte final.  
 
@@ -113,7 +113,7 @@ lorsqu'ils tombent dans les angles morts du système.
 
 À Arnaud, aujourd'hui disparu, j'adresse simplement mon respect et toute mon empathie.
 
-Et une conviction demeure.
+Et ma conviction demeure.
 
 Dans une société digne, personne ne devrait avoir le sentiment de devoir choisir la mort parce qu'il ne trouve plus suffisamment de soutien du côté de la vie.
 
