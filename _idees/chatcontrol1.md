@@ -18,15 +18,17 @@ Chat Control 1 est une dérogation européenne.
 Elle autorise les plateformes à scanner automatiquement les contenus non chiffrés : images, messages, fichiers cloud.  
 Sans mandat, sans ciblage, sans notification.
 
-Officiellement, ce scanning cherche des contenus illégaux. En pratique, il passe tout au crible : conversations privées, photos personnelles, documents stockés.  
+Officiellement, ce scanning cherche des contenus illégaux.  
+En pratique, il passe tout au crible : conversations privées, photos personnelles, documents stockés.  
 Le filtre ne distingue pas l’innocent du suspect : il compare des formes, des patterns, des collisions de hash.
 
-Pourquoi éviter Chat Control 1 ? Parce qu’il impose une analyse algorithmique non ciblée, incompatible avec la proportionnalité et la vie privée inscrites dans les législations européennes.
+Pourquoi éviter Chat Control 1 ? Parce qu’il impose une analyse algorithmique non ciblée,  
+incompatible avec la proportionnalité et la vie privée inscrites dans les législations européennes.
 
 Personne ne lit vos messages. Personne ne vous vise.  
 C’est pire : un filtre tourne en continu, sans contexte, jusqu’en 2028.
 
-La vraie question est simple : comment sortir du périmètre technique du scanning ?
+Alors, la vraie question est simple : comment sortir du périmètre technique du scanning ?
 
 Même sans rien à se reprocher, le risque existe : un faux positif peut déclencher un signalement automatique.  
 Un algorithme peut mal interpréter une image ou un message.  
@@ -73,7 +75,7 @@ Ce sont eux qui appliquent PhotoDNA ou des IA internes.
 - iCloud Photos (serveur)
 
 Ces plateformes analysent les images uploadées, les fichiers stockés et parfois les messages non chiffrés.  
-Ce n’est pas ciblé : c’est systématique.
+C’est systématique.
 
 ---
 
@@ -116,8 +118,8 @@ La protection la plus efficace est immédiate :
 utiliser le chiffrement de bout en bout  
 et éviter les plateformes qui scannent.
 
-Ce n’est pas un contournement.  
-C’est un retour dans un espace où la vie privée est garantie par la cryptographie.
+ 
+L'idée est de retourner dans un espace où la vie privée est garantie par la cryptographie.
 
 La bataille politique aura lieu en septembre 2026.  
 Le régime transitoire expirera en 2028.  
