@@ -37,8 +37,8 @@ Stephen Mitchell est né dans une famille juive.
 Et évidemment il s'est intéressé à la traduction d'œuvres *Bhagavad Gita*, *The Book of Job*, *The Second Book of the Tao*, *The Selected Poetry of Rainer Maria Rilke*.
 
 Le nom de ses parents est caché, mais nous apprenons qu'il a fait ses études dans des universités prestigieuses comme Paris et Yale.  
-Il a écrit des livres comme *Meetings with the Archangel: A Comedy of the Spirit* (« Rencontre avec l'Archange : une comédie de l'Esprit »).  
-Il a également écrit *The Gospel According to Jesus* (« L'Évangile selon Jésus »).
+Il a écrit des livres comme *Meetings with the Archangel: A Comedy of the Spirit* ("Rencontre avec l'Archange : une comédie de l'Esprit").  
+Il a également écrit *The Gospel According to Jesus* ("L'Évangile selon Jésus").
 
 Tout ceci indique encore et toujours, dans ces milieux, le syncrétisme habituel et la manipulation des textes chrétiens.
 
