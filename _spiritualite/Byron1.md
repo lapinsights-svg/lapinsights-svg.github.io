@@ -8,13 +8,14 @@ resume: "Analyse critique de la méthode et de ses dérives philosophiques, psyc
 ![byron](/statics/images/spiritualite/Byron1.png)
 
 
-« Méfiez-vous des faux prophètes, qui viennent à vous en vêtements de brebis, mais qui, au fond, sont des loups ravisseurs. » (Matthieu 7:15)
+"Méfiez-vous des faux prophètes, qui viennent à vous en vêtements de brebis, mais qui, au fond, sont des loups ravisseurs." (Matthieu 7:15)
 
 Byron Katie est un gourou américain du New-Age, qui a développé une méthode d'auto‑investigation.  
 La méthode s'appelle *Le Travail*, et est considérée comme une nouvelle façon révolutionnaire de résoudre n'importe quel problème.  
 Cette méthode permettrait, selon certains, de se passer de thérapie, de philosophie et de religion.
 
-Comme j'ai déjà entendu ce genre de déclarations — c'est une façon typique de présenter de « nouvelles » théories dans le New Age — je me suis méfiée de cette méthode et de cette femme dès le premier jour.
+Comme j'ai déjà entendu ce genre de déclarations (c'est une façon typique de présenter de "nouvelles" théories dans le New Age) 
+je me suis méfiée de cette méthode et de cette femme dès le premier jour.
 
 J'ai laissé passer quelques années sans m’y intéresser. Puis, j'ai commencé mon enquête.
 
@@ -22,13 +23,14 @@ J'ai retrouvé un article de Byron Katie dans le *Los Angeles Times* qui date de
 Toutes ces personnes promues par le LA Times sont des imposteurs.
 
 Je suppose qu'il s'agit de Kathleen Byron, Byron étant un grand nom de famille, comme Lord Byron.  
-Wikipedia nous dit que « Katie est née à Breckenridge, au Texas, en 1942 et a grandi à Barstow, en Californie. [2] Son père était ingénieur ferroviaire et sa mère était femme au foyer. »
+Wikipedia nous dit que "Katie est née à Breckenridge, au Texas, en 1942 et a grandi à Barstow, en Californie.  
+[2] Son père était ingénieur ferroviaire et sa mère était femme au foyer."
 
 Remarquez que le nom de ses parents est encore caché et que l'on veut nous faire croire qu'elle vient de la classe moyenne.  
-C'est la blague habituelle car, en fait, son nom de naissance — **Reid** — est un nom de Pair.  
+C'est la blague habituelle car, en fait, son nom de naissance - **Reid** - est un nom de Pair.  
 Avec les alliances dans sa généalogie, elle a donc deux noms liés à la Pairie, rien que ça.
 
-« Elle s'est mariée à 19 ans avec l'écrivain et traducteur juif Stephen Mitchell et elle est la mère du producteur de disques Ross Robinson. »
+"Elle s'est mariée à 19 ans avec l'écrivain et traducteur juif Stephen Mitchell et elle est la mère du producteur de disques Ross Robinson."
 
 Stephen Mitchell est né dans une famille juive. 
 [https://en.wikipedia.org/wiki/Stephen_Mitchell_(translator)](https://en.wikipedia.org/wiki/Stephen_Mitchell_(translator))
@@ -51,7 +53,7 @@ Peter Reid was born on 6 January 1768. He was the son of John Reid and Elizabeth
 He died in May 1795 at age 27.
 
 Mais comment se fait-il que le fils de Byron Katie porte le nom de Robinson ?  
-Parce qu'il porte le nom de son père, Bob Robinson - un nom juif - qui a eu une liaison avec Byron Katie.  
+Parce qu'il porte le nom de son père, Bob Robinson ,  qui a eu une liaison avec Byron Katie.  
 Ross Robinson est un producteur de disques.
 
 Il semble que Byron Katie ait une personne dans sa famille qui vit aussi du même business spirituel avec *Le Travail* et qui s'appelle Tammy Reid.  
@@ -91,7 +93,7 @@ C'est problématique, car l'entraînement à la pensée critique est la premièr
 
 Dans la thérapie cognitive, par exemple, certaines pensées problématiques contiennent en fait une part de vérité.
 
-Avec *Le Travail*, une fois que vous avez « réalisé », comme prévu, que votre pensée est négative (= fausse), vous devez la renverser ; vous devez penser la pensée opposée.
+Avec *Le Travail*, une fois que vous avez "réalisé", comme prévu, que votre pensée est négative (= fausse), vous devez la renverser ; vous devez penser la pensée opposée.
 
 Ainsi, l'enseignement de Byron Katie est simplement une **position de pensée**.  
 Il n'y a pas de méditation impliquée.
@@ -123,13 +125,13 @@ Et Byron Katie gagne beaucoup d’argent…
 
 ---
 
-# Le nihilisme spirituel : « Le monde n’existe pas »
+# Le nihilisme spirituel : "Le monde n’existe pas "
 
 Dans *Losing the Moon — Dialogues sur la Non‑Dualité*, Byron Katie dit :
 
-> « Le monde n'existe pas et nous venons juste de le voir clairement. Tout n'est qu'illusion.  
-> Il n'a jamais existé. Il est impossible qu'il existe — tout n'est que le reflet d'un concept attaché à l'intérieur.  
-> Il n'y a ni personne ni rien. C'est littéral. Êtes‑vous prêt à vivre sans monde ? Êtes‑vous prêt à perdre la lune ? »
+> "Le monde n'existe pas et nous venons juste de le voir clairement. Tout n'est qu'illusion.  
+> Il n'a jamais existé. Il est impossible qu'il existe - tout n'est que le reflet d'un concept attaché à l'intérieur.  
+> Il n'y a ni personne ni rien. C'est littéral. Êtes‑vous prêt à vivre sans monde ? Êtes‑vous prêt à perdre la lune ?"
 
 C’est du **nihilisme pur**.
 
@@ -146,48 +148,48 @@ Après une trentaine de pages, Byron Katie parle des nazis qui enlevaient les b�
 
 Elle écrit :
 
-> « Si quelqu'un m'enlève mon bébé — si c'est ce qu'il faut, je suis là.  
+> "Si quelqu'un m'enlève mon bébé - si c'est ce qu'il faut, je suis là.  
 > Prenez le bébé. Arrachez‑moi mon bébé. Jetez‑le au feu.  
-> Mon malaise est ma guerre avec Dieu. »
+> Mon malaise est ma guerre avec Dieu."
 
 Puis :
 
-> « Arracher le bébé, c'est ce qu'il y a de plus élevé.  
-> C'est l'amour. »
+> "Arracher le bébé, c'est ce qu'il y a de plus élevé.  
+> C'est l'amour."
 
 Puis :
 
-> « Savez‑vous qu'Hitler a amené plus de gens à la réalisation que Jésus ? »
+> "Savez‑vous qu'Hitler a amené plus de gens à la réalisation que Jésus ?"
 
 Puis :
 
-> « Je suis le bébé qui va dans la fosse.  
-> C'est moi qui jette le bébé dans la fosse. »
+> "Je suis le bébé qui va dans la fosse.  
+> C'est moi qui jette le bébé dans la fosse."
 
 Un délire absolu.
 
-Selon Byron Katie, les nazis qui brûlent des bébés accomplissent « l’œuvre aimante de Dieu ».
+Selon Byron Katie, les nazis qui brûlent des bébés accomplissent "l’œuvre aimante de Dieu".
 
 ---
 
-# Le blog « Your Abuser is your Guru ? »
+# Le blog "Your Abuser is your Guru ?"
 
 Le blog *the-work-byron-katie.blogspot.com* [https://the-work-byron-katie.blogspot.com/](https://the-work-byron-katie.blogspot.com/) s’intitule :
 
-**« Abusive Partner is your Guru ? »**
+**"Abusive Partner is your Guru ?"**
 
 Le blogueur cite un message Facebook de Byron Katie (15 juin 2012) :
 
-> « Il n'y a jamais d'erreur dans l'univers.  
+> "Il n'y a jamais d'erreur dans l'univers.  
 > Si votre partenaire est en colère, tant mieux.  
 > Ses défauts sont les vôtres.  
-> Votre partenaire est votre gourou. »
+> Votre partenaire est votre gourou."
 
-Les commentaires célèbrent cette « sagesse », sans voir les conséquences catastrophiques.
+Les commentaires célèbrent cette "sagesse", sans voir les conséquences catastrophiques.
 
 ---
 
-## Six points caractéristiques des « nouvelles » théories du New Age
+## Six points caractéristiques des "nouvelles" théories du New Age
 
 ### • La religion et la philosophie sont psychologisées
 Cela a pour conséquence que l'accent principal est mis sur les sentiments.  
@@ -198,7 +200,8 @@ Avec la psychologisation, l'esprit critique est perçu comme quelque chose de n�
 Cette tendance provient des théories relativistes et subjectivistes des universités occidentales, qui interdisent tout jugement de valeur.  
 Elle n'a rien à voir avec la spiritualité et conduit les pratiquants à se fermer à leurs propres problèmes et à ceux du monde.
 
-Dans la véritable spiritualité, la pensée critique est centrale, car la pratique consiste à découvrir à la fois ses propres distorsions de pensée et les distorsions de pensée du monde.  
+Dans la véritable spiritualité, la pensée critique est centrale,  
+car la pratique consiste à découvrir à la fois ses propres distorsions de pensée et les distorsions de pensée du monde.  
 Or Byron Katie a nié ses pensées, puisqu’elle enseigne de ne plus les croire pour être heureux.
 
 ### • Des enseignants incompétents
@@ -213,20 +216,21 @@ Il existe aussi une tendance manipulatrice et infondée à qualifier leurs propr
 Cette tendance est à l'origine d'un grand nombre d'erreurs.
 
 ### • Le narcissisme
-Au sein du New Age, la personnalité entièrement individualisée — qui nous permet aujourd'hui de sortir de l'attachement fixe et subconscient du passé — est devenue l’intérêt principal, le centre de l'identité.
+Au sein du New Age, la personnalité entièrement individualisée - qui nous permet aujourd'hui de sortir de l'attachement fixe et subconscient du passé -  
+est devenue l’intérêt principal, le centre de l'identité.
 
 Presque toutes les prises de conscience sont dirigées vers l'intérieur, dans un narcissisme exceptionnel.  
 L'utilisation idéologique du relativisme et du subjectivisme ressemble à ceci :
 
-- « J'ai ma vérité, tu as la tienne ! »
-- « Vous jugez » = « Vous condamnez »
+- "J'ai ma vérité, tu as la tienne !"
+- "Vous jugez » = "Vous condamnez"
 
 ### • L’idéologie
 Une idéologie fonctionne avec l'hypothèse implicite que le bien suprême se trouve dans l'avenir et que la fin justifie les moyens.
 
 Dans le New Age, cet objectif est :
 
-- le « nouvel âge »,
+- le "nouvel âge",
 - le nouvel ordre mondial,
 - l’ère du Verseau.
 
@@ -248,16 +252,16 @@ Le Travail est une forme simplifiée et biaisée de thérapie issue de la théra
 une approche « unique » qui a conduit un grand nombre de thérapeutes à un terme et n'a pas mis fin aux problèmes des clients.
 
 Byron Katie a développé une méthode fondée sur ses propres ressentis personnels, sans autre preuve.  
-Elle se sentait bien, donc cela est devenu une technique élargie pour devenir un « pansement » pour tout le monde.
+Elle se sentait bien, donc cela est devenu une technique élargie pour devenir un "pansement" pour tout le monde.
 
 Elle affirme :
 
-> « J'ai découvert que lorsque je croyais mes pensées, j'ai souffert, mais quand je ne les croyais pas, je n'ai pas souffert, et que c'est vrai pour chaque être humain.  
+> "J'ai découvert que lorsque je croyais mes pensées, j'ai souffert, mais quand je ne les croyais pas, je n'ai pas souffert, et que c'est vrai pour chaque être humain.  
 > La liberté est aussi simple que cela.  
 > J'ai trouvé que la souffrance est facultative.  
-> J'ai trouvé en moi une joie qui n'a jamais disparu, pas un seul instant. »
+> J'ai trouvé en moi une joie qui n'a jamais disparu, pas un seul instant."
 
-Donc ce qui n’est en fait qu’un rejet de ses pensées — et une souffrance reléguée à quelque chose de facultatif — devrait être appliqué à toutes sortes de gens ?
+Donc ce qui n’est en fait qu’un rejet de ses pensées - et une souffrance reléguée à quelque chose de facultatif - devrait être appliqué à toutes sortes de gens ?
 
 La liberté serait donc le fait de **nier** et de **se faire croire l’inverse** de ce qu’on pense ?
 
