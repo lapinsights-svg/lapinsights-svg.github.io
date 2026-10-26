@@ -25,15 +25,15 @@ se conjugue avec la désinstitutionnalisation du religieux,
 la montée du psychologisme  
 et la marchandisation du bien-être.
 
-Le récit fondateur de Byron Katie — illumination soudaine, fin instantanée de la souffrance —  
+Le récit fondateur de Byron Katie - illumination soudaine, fin instantanée de la souffrance -  
 reprend les motifs classiques de la révélation moderne.
 
-« I discovered that when I believed my thoughts, I suffered,  
-but when I didn’t believe them, I didn’t suffer. »
+"I discovered that when I believed my thoughts, I suffered,  
+but when I didn’t believe them, I didn’t suffer."
 
 Traduction :  
-« J’ai découvert que lorsque je croyais mes pensées, je souffrais,  
-mais lorsque je ne les croyais pas, je ne souffrais plus. »  
+"J’ai découvert que lorsque je croyais mes pensées, je souffrais,  
+mais lorsque je ne les croyais pas, je ne souffrais plus."  
 *(Loving What Is, 2002)*
 
 Ce type de récit installe une asymétrie radicale :  
@@ -55,17 +55,17 @@ pour “rattraper” celui qui sait.
 
 Les quatre questions semblent ouvrir un espace de réflexion. En réalité, elles conduisent
 toujours à la même conclusion : la pensée est coupable.
-1. Is it true? (« Est-ce vrai ? »)
-2. Can you absolutely know that it’s true? (« Peux-tu savoir avec une certitude absolue
-que c’est vrai ? »)
-3. How do you react when you believe that thought? (« Comment réagis-tu lorsque tu
-crois cette pensée ? »)
-4. Who would you be without that thought? (« Qui serais-tu sans cette pensée ? »)
-5. « The only time we suffer is when we believe a thought that argues with what is. »
-Traduction : « Le seul moment où nous souffrons est lorsque nous croyons une
-pensée qui s’oppose à ce qui est. » (Loving What Is, 2002)
+1. Is it true? ("Est-ce vrai ?")
+2. Can you absolutely know that it’s true? ("Peux-tu savoir avec une certitude absolue
+que c’est vrai ?")
+3. How do you react when you believe that thought? ("Comment réagis-tu lorsque tu
+crois cette pensée ?")
+4. Who would you be without that thought? ("Qui serais-tu sans cette pensée ?")
+5. "The only time we suffer is when we believe a thought that argues with what is."
+Traduction : "Le seul moment où nous souffrons est lorsque nous croyons une
+pensée qui s’oppose à ce qui est." (Loving What Is, 2002)
 
-La seconde question — Peux-tu savoir avec une certitude absolue que c’est vrai ? —
+La seconde question : Peux-tu savoir avec une certitude absolue que c’est vrai ? 
 introduit une exigence impossible : la certitude absolue. Elle invalide toute perception. Le
 dispositif installe un scepticisme radical, non pour ouvrir la pensée, mais pour déstabiliser
 la confiance du sujet dans sa propre expérience.
@@ -74,18 +74,18 @@ la confiance du sujet dans sa propre expérience.
 
 Le retournement est le cœur opératoire du Travail. Il transforme systématiquement la
 perception initiale :
-• « Il m’a blessée » → « Je me suis blessée moi-même »  
-• « Elle m’a menti » → « Je me mens à moi-même »  
-• « Ils m’ont trahie » → « Je les ai trahis »  
-• « Every turnaround is as true or truer than the original statement. »  
-Traduction : « Chaque retournement est aussi vrai ou plus vrai que l’énoncé
-initial. » (Loving What Is, 2002)
+• Il m’a blessée → Je me suis blessée moi-même  
+• Elle m’a menti → Je me mens à moi-même    
+• Ils m’ont trahie → Je les ai trahis   
+• "Every turnaround is as true or truer than the original statement"      
+Traduction : "Chaque retournement est aussi vrai ou plus vrai que l’énoncé
+initial." (Loving What Is, 2002)
 
 Cette affirmation installe une équivalence morale entre l’événement et son inversion. La
 souffrance devient erreur. La victime devient suspecte.
 
-« There are no victims, only people believing their thoughts. »  
-Traduction : « Il n’y a pas de victimes, seulement des personnes qui croient leurs pensées. »
+"There are no victims, only people believing their thoughts."   
+Traduction : "Il n’y a pas de victimes, seulement des personnes qui croient leurs pensées."  
 (A Thousand Names for Joy, 2007)
 
 Le retournement dissout la possibilité même de reconnaître une injustice.
@@ -93,11 +93,11 @@ Le retournement dissout la possibilité même de reconnaître une injustice.
 **4. Le nihilisme spirituel**  
 
 Le Travail repose sur une ontologie radicale : la réalité est parfaite, la pensée est l’obstacle.
-« The world is perfect. It always has been. »  
-Traduction : « Le monde est parfait. Il l’a toujours été. » (A Thousand Names for Joy, 2007)
+"The world is perfect. It always has been."    
+Traduction : "Le monde est parfait. Il l’a toujours été." (A Thousand Names for Joy, 2007)
 
-« Suffering is optional. »  
-Traduction : « La souffrance est optionnelle. » (Loving What Is, 2002)
+"Suffering is optional."  
+Traduction : "La souffrance est optionnelle." (Loving What Is, 2002)
 
 Cette vision conduit à une forme de nihilisme spirituel : si la réalité est parfaite, alors le mal
 n’existe pas ; si le mal n’existe pas, alors la souffrance est une illusion ; si la souffrance est
@@ -108,8 +108,8 @@ une illusion, alors la résistance est inutile.
 Le Travail réduit tout à la pensée. La violence devient interprétation. La souffrance devient
 croyance.
 
-« No one can hurt me. That’s my job. »  
-Traduction : « Personne ne peut me blesser. C’est mon travail. » (Loving What Is, 2002)
+"No one can hurt me. That’s my job."  
+Traduction : "Personne ne peut me blesser. C’est mon travail." (Loving What Is, 2002)
 
 Cette phrase opère une psychologisation radicale du mal : elle dissout la responsabilité de
 l’agresseur et culpabilise la victime.
@@ -119,8 +119,8 @@ l’agresseur et culpabilise la victime.
 Le Travail s’inscrit dans une constellation idéologique plus large.
 
 **A. Narcissisme spirituel**  
-« The world is your mirror. »  
-Traduction : « Le monde est votre miroir. » (A Thousand Names for Joy, 2007)
+"The world is your mirror."  
+Traduction : "Le monde est votre miroir." (A Thousand Names for Joy, 2007)
 
 Le monde devient projection. L’autre devient fonction de soi.
 
@@ -147,9 +147,9 @@ neutralise l’esprit critique et installe une crédulité présentée comme “
 
 **C. Fin de l’esprit critique**  
 
-« When you argue with reality, you lose — but only 100% of the time.»  
-Traduction : « Lorsque vous vous disputez avec la réalité, vous perdez — mais
-seulement 100 % du temps. » (A Thousand Names for Joy, 2007)
+"When you argue with reality, you lose — but only 100% of the time."  
+Traduction : "Lorsque vous vous disputez avec la réalité, vous perdez - mais
+seulement 100 % du temps." (A Thousand Names for Joy, 2007)
 
 La pensée devient suspecte. La critique devient souffrance.
 
