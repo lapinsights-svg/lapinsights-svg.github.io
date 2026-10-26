@@ -10,13 +10,13 @@ og_image: /statics/images/idees/boncitoyen.png
 
 # La citoyenneté conditionnelle : quand l’école commence à retirer des libertés
 
-« La participation aux classes défense et sécurité globale serait mentionnée sur le diplôme du baccalauréat et valorisée sur Parcoursup. »  
+"La participation aux classes défense et sécurité globale serait mentionnée sur le diplôme du baccalauréat et valorisée sur Parcoursup."
 Le conditionnel demeure, oui.  
 Mais le signal est évident.
 
 Ce type d’annonce ne dit pas ce qui est décidé.  
 Il dit ce que l’État **se permet désormais d’envisager**.  
-Et ce qu’il envisage ici, c’est **une perte de libertés** — pas une nuance, pas un détail, pas un symbole.  
+Et ce qu’il envisage ici, c’est **une perte de libertés** , pas une nuance, pas un détail, pas un symbole.  
 Une perte réelle.
 
 ---
@@ -36,13 +36,13 @@ C’est un choix **orienté**, donc un choix **réduit**.
 
 L’école cesse d’être un espace d’instruction.  
 Elle devient un outil de tri civique qui oblige le jeune à se conformer dès le départ.  
-Et ce mécanisme — où le comportement conditionne l’accès aux parcours — ressemble à un début de crédit social.  
+Et ce mécanisme , où le comportement conditionne l’accès aux parcours, ressemble à un début de crédit social.  
 
 ---
 
 ## 2. Généalogie : un mécanisme ancien qui, chaque fois, réduit les libertés
 
-### 2.1. XIXème siècle : la loyauté nationale comme objectif éducatif  
+### 2.1. 19ème siècle : la loyauté nationale comme objectif éducatif  
 Après 1870, l’école républicaine vise à produire un citoyen **loyal, discipliné, mobilisable**.  
 Déjà, la liberté de pensée y perdait du terrain.
 
@@ -54,7 +54,7 @@ Chaque fois, la liberté de choix se rétrécit.
 Cours de défense civile, surveillance des attitudes.  
 La liberté d’opinion y est clairement diminuée.
 
-### 2.4. XXIème siècle : la sécurité comme norme éducative  
+### 2.4. 21ème siècle : la sécurité comme norme éducative  
 Prévention, résilience, cohésion, défense.  
 Non plus comme savoirs, mais comme **normes comportementales**.  
 Et chaque norme réduit un peu plus la liberté de s’en écarter.
@@ -67,10 +67,10 @@ Le dispositif actuel s’inscrit dans cette continuité :
 ## 3. Le tournant Covid : quand Emmanuel Macron a posé le principe de la citoyenneté conditionnelle
 
 Pendant la période Covid, Emmanuel Macron a déclaré :  
-**« Les devoirs valent avant les droits. »**
+**"Les devoirs valent avant les droits."**
 
-Cette phrase n’est pas un détail.  
-Elle pose explicitement le principe d’une **citoyenneté conditionnelle**, où les droits ne sont plus garantis par statut, mais **accordés en fonction du comportement**.
+Cette phrase pose explicitement le principe d’une **citoyenneté conditionnelle**,  
+où les droits ne sont plus garantis par statut, mais **accordés en fonction du comportement**.
 
 Cela constitue **une perte de libertés**, directe, assumée, revendiquée.
 
@@ -110,7 +110,7 @@ C’est une perte nette.
 
 ## 5. Le cœur du problème : la normalisation de la perte de libertés
 
-Le danger n’est pas que la mesure soit déjà appliquée.  
+Le danger n’est pas tant que la mesure soit déjà appliquée.  
 Le danger est qu’elle soit **déjà acceptable**, administrativement plausible, culturellement tolérée.
 
 C’est ainsi que les libertés disparaissent :  
@@ -118,7 +118,7 @@ non par interdiction brutale, mais par **glissements successifs**.
 Non par contrainte directe, mais par **réduction des alternatives**.  
 Non par violence, mais par **habituation**.
 
-Et c’est ainsi que la liberté de choix — scolaire, civique, individuelle — **se réduit**.  
+Et c’est ainsi que la liberté de choix (scolaire, civique, individuelle) **se réduit**.  
 
 Si j’en parle aujourd’hui, c’est peut-être parce que personne ne l’a encore formulé ainsi.  
 Ni le débat public, ni la presse, ni les associations n’ont relié scolarité, Défense et perte de libertés.  
@@ -134,7 +134,8 @@ Il retire la liberté de choisir son parcours.
 Il retire la liberté de s’écarter de la norme.  
 Il retire la liberté de définir sa propre citoyenneté.
 
-Et c’est précisément cette perte silencieuse — inscrite dans une longue généalogie — qui constitue le signe le plus net d’un durcissement institutionnel et d’un affaiblissement réel des libertés individuelles et collectives.  
-  
+Et c’est précisément cette perte silencieuse, inscrite dans une longue généalogie , qui constitue le signe le plus net d’un durcissement institutionnel  
+et d’un affaiblissement réel des libertés individuelles et collectives.  
+---  
   
   Céleste R.
