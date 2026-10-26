@@ -12,7 +12,7 @@ Les sociétés renoncent rarement à leurs libertés en disant clairement qu'ell
 
 Elles les abandonnent au nom d'une promesse plus attirante.  
 
-Cette promesse est d'obtenir la sécurité, l'ordre, la stabilité, la protection du bien commun.
+Celle d'obtenir la sécurité, l'ordre, la stabilité, la protection du bien commun.
 
 C'est ce qui rend certaines périodes de l'Histoire si troublantes.   
 
