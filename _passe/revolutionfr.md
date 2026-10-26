@@ -114,9 +114,9 @@ Exceptionnellement.
 
 Par nécessité.
 
-L'Histoire ne montre pas seulement comment les libertés peuvent être conquises.  
+L'Histoire montre comment les libertés peuvent être conquises, 
 
-Elle montre aussi comment elles peuvent disparaître à cause de ceux qui disent vouloir les protéger.
+mais aussi comment elles peuvent disparaître à cause de ceux qui disent vouloir les protéger.
 
 Sans parler forcément de mauvaises intentions.
 
