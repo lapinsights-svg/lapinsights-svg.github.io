@@ -23,7 +23,7 @@ Des milliers de victimes.
 Une institution secouée.  
 Un État sommé de réagir.  
 Le rapport complet est disponible ici :  
-[Rapport Sauvé (CIASE) – Rapport final](https://www.ciase.fr/rapport-final/)  
+[Rapport Sauvé (CIASE) - Rapport final](https://www.ciase.fr/rapport-final/)  
 
 Le secret de la confession n’a jamais été un outil judiciaire.  
 Jamais une source de preuve.  
@@ -54,7 +54,7 @@ Le rapport parle de déni.
 De minimisation.  
 De rationalisation.  
 D’une absence de conscience du mal commis.  
-Autrement dit : ils ne se confessent pas parce qu’ils ne pensent pas avoir péché.  
+Autrement dit, ils ne se confessent pas parce qu’ils ne pensent pas avoir péché.  
 
 Il dit aussi que la confession n’a joué aucun rôle dans les enquêtes.  
 Aucune série de cas.  
