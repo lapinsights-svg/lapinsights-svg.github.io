@@ -33,7 +33,7 @@ Il ne s’agit pas de réparer une unité réellement détruite, mais de rendre 
 Le récit décrit un départ géographique. Dans cette lecture, ce départ remplit aussi une fonction symbolique :  
 il figure la sortie d’un ancien lieu d’enracinement et d’un mode de perception hérité.
 
-La "maison du père" peut ainsi être lue comme la figure d’une filiation symbolique issue de l’écoute du serpent :  
+La "maison du père" peut ainsi être lue comme la figure d’une filiation symbolique issue de l’écoute du "serpent" :  
 
 une perception qui prend la séparation pour principe et conduit la conscience à se croire coupée de sa Source.
 
@@ -80,7 +80,8 @@ Dans cette lecture structurelle, les nations figurent les fils qui naîtront de 
 
 Abraham porte la Promesse ; Isaac en incarne la première manifestation ; les fils issus de la Promesse en déploient les expressions.
 
-La Promesse est une, mais les fils qui en manifestent le déploiement sont multiples. Cette pluralité ne produit pas plusieurs origines : elle exprime, sous des formes distinctes, une filialité dont le fondement demeure un.
+La Promesse est une, mais les fils qui en manifestent le déploiement sont multiples. Cette pluralité ne produit pas plusieurs origines :  
+elle exprime, sous des formes distinctes, une filialité dont le fondement demeure un.
 
 Abraham est donc le père des nations au sens structurel, non parce qu’il crée leur origine, mais parce qu’il porte la Promesse dont elles constituent le déploiement.
 
@@ -107,7 +108,8 @@ Israël dispersé figure une filialité dont la cohérence n’est plus reconnue
 Lorsque les prophètes évoquent le rassemblement d’Israël, leur parole peut ainsi être lue comme l’image d’une structure de filiation qui retrouve sa cohérence.
 
 Les fils issus de la Promesse dépassent toutefois les frontières d’un peuple.  
-L’appartenance visible ne suffit pas, dans cette lecture, à définir la filialité : ce qui importe est la relation à la Source et la manière dont elle se manifeste.
+L’appartenance visible ne suffit pas, dans cette lecture, à définir la filialité :  
+ce qui importe est la relation à la Source et la manière dont elle se manifeste.
 
 ## L’alliance : inscrire la Promesse dans la durée
 
@@ -136,7 +138,8 @@ La progression peut alors se lire ainsi :
 
 **Israël :** la filialité se structure.
 
-Ces figures expriment différentes modalités d’une même structure. Elles en sont les manifestations, non l’origine ontologique.
+Ces figures expriment différentes modalités d’une même structure.  
+Elles en sont les manifestations, non l’origine ontologique.
 
 ## Jésus : l’axe avant Abraham
 
