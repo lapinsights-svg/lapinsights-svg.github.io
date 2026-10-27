@@ -130,30 +130,43 @@ La Promesse est une ; les fils qui en naissent sont multiples.
 
 La pluralité ne crée pas plusieurs origines. Elle manifeste, sous des formes distinctes, une filialité dont le fondement demeure un.
 
-Abraham devient ainsi le père des nations au sens structurel :  
+Abraham devient ainsi le père des nations au sens structurel : non parce qu’il crée leur origine, mais parce qu’il porte la Promesse dont elles constituent le déploiement.
 
-non parce qu’il crée leur origine, mais parce qu’il porte la Promesse dont elles constituent le déploiement.
+Cette Promesse ne crée pas la filialité : elle en manifeste le déploiement au sein du Fils étendu.
 
-La séquence devient lisible :
+Le Christ en est le fondement ontologique. Il ne devient pas la Source au terme du parcours d’Abraham ; il précède toute manifestation de la Promesse.
 
-Éden : les polarités sont données.
+La Promesse se déploie dans la multiplicité des fils, mais son origine demeure une.
 
-Babel : les nations se dispersent.
+La séquence devient alors lisible :  
 
-Abraham : la circulation se rouvre.
+- Éden : les polarités sont données dans une unité qui n’est pas encore perçue comme séparée.  
+- Babel : les nations se dispersent ; la filialité ne reconnaît plus sa cohérence.  
+- Abraham : la Promesse ouvre une réorientation de la perception vers la Source.  
+- Les nations : les fils issus de la Promesse en manifestent la multiplicité.  
+- Le Christ : l’axe originel révèle l’unité qui n’a jamais été ontologiquement rompue.  
+- L’Apocalypse : les nations sont guéries par les feuilles de l’Arbre de Vie ; la cohérence de la filialité redevient perceptible.  
+La dispersion ne détruit pas la filialité. Elle figure une perception dans laquelle son unité n’est plus reconnue.  
 
-Apocalypse : les nations sont guéries par l’Arbre de Vie.
+Le rassemblement ne crée pas davantage cette unité. Il en rend à nouveau perceptible la cohérence.
 
-La dispersion figure une filialité qui ne reconnaît plus sa cohérence.
+Abraham devient ainsi le père des nations au sens structurel, parce qu’il porte, dans le déploiement du Fils étendu, la Promesse dont les fils constituent les expressions multiples.
 
-Le rassemblement figure la filialité qui retrouve sa cohérence perceptible.
+Il n’est pas l’origine ontologique de leur filialité.
 
-Abraham devient ainsi le père des nations au sens structurel.
+Il en est le porteur au sein du déploiement.
 
-Parce qu’il porte, dans le déploiement du Fils étendu,  
+Abraham porte la Promesse.
 
-la réouverture apparente d’une filialité dont l’unité n’a jamais été rompue.
+Les nations en manifestent la multiplicité.
 
+Le Christ en révèle le fondement ontologique.
+
+Une seule filialité.
+
+Une multiplicité de manifestations.
+
+Une unité qui n’a jamais cessé d’être.
 
 
 ## Israël : une filialité structurée
