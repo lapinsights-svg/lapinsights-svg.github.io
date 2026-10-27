@@ -187,7 +187,7 @@ Lorsque les prophètes évoquent le rassemblement d’Israël, leur parole peut 
 
 comme l’image d’une structure de filiation qui retrouve sa cohérence.
 
-La lecture structurelle ne remplace pas le récit : elle en dégage l’architecture symbolique.
+La lecture structurelle dégage l’architecture symbolique du récit.  
 
 De même, les fils issus de la Promesse ne se limitent pas au peuple d’Israël.
 
@@ -197,9 +197,6 @@ L’appartenance visible ne suffit donc pas à définir la filialité.
 
 Ce qui importe, dans cette lecture, est la relation à la Source et la manière dont elle se manifeste.
 
-La Promesse faite à Abraham ne se referme pas sur un pays nommé Israël :  
-
-elle s’étend aux fils qui en expriment la portée.
 
 
 ## L’alliance : stabiliser le mouvement
