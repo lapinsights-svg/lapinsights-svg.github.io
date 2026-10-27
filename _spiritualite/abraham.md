@@ -97,7 +97,7 @@ mais pour reconnaître et vivre une unité qui n’a jamais cessé d’être.
 
 La Terre promise trouve alors son accomplissement dans le Christ, le Royaume du Fils bien-aimé.  
 
-Il ne s’agit de demeurer dans celui qui est l’origine et le fondement de la filialité.
+Il s’agit de demeurer dans celui qui est l’origine et le fondement de la filialité.
 
 **Abraham quitte son ancien lieu d’enracinement ; le Christ révèle la demeure véritable.**
 
