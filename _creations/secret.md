@@ -1,5 +1,5 @@
 ---
-title: "Ce secret, la-la-la"
+title: "Ce secret, c'est comme ça"
 date: 2026-09-18
 categories: creations
 layout: article
