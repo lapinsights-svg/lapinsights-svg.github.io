@@ -67,11 +67,13 @@ Il devient le porteur de la Promesse au sein du déploiement du Fils étendu, l�
 
 La circulation de la Promesse redevient perceptible.
 
-Le Seigneur dit à Abram :
+Ainsi, le Seigneur dit à Abrahamm :
 
-« Va-t’en de ton pays, de ta parenté et de la maison de ton père, vers le pays que Je te montrerai » (Genèse 12,1).
+"Va-t’en de ton pays, de ta parenté et de la maison de ton père, vers le pays que Je te montrerai" (Genèse 12,1).
 
-Dans cette lecture, cet appel ne désigne pas seulement un déplacement géographique. Il figure la sortie d’un ancien lieu d’enracinement, d’une filiation et d’un mode de perception hérités.
+Dans cette lecture, cet appel ne désigne pas seulement un déplacement géographique.  
+
+Il figure la sortie d’un ancien lieu d’enracinement, d’une filiation et d’un mode de perception hérités.
 
 Dieu appelle Abraham à quitter ce qui le détermine jusque-là pour entrer dans une relation nouvelle à son origine.
 
