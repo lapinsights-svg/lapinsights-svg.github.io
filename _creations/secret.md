@@ -1,5 +1,5 @@
 ---
-title: "Ce secret, hommage"
+title: "Ce secret, la-la-la"
 date: 2026-09-18
 categories: creations
 layout: article
@@ -9,7 +9,7 @@ tags:
   - mouvement
   - introspection
   - rita-mitsouko
-resume: "Ce qui pousse à partir alors que tout semble déjà là."
+resume: "Hommage à Catherine Ringer, ce qui pousse à partir alors que tout semble déjà là."
 og_image: "/statics/images/creations/ca.webp"
 ---
 
