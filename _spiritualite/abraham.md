@@ -145,7 +145,7 @@ Elles en sont les manifestations, non l’origine ontologique.
 
 Jésus dit :
 
-**« Avant qu’Abraham soit, je suis. »**
+**"Avant qu’Abraham soit, je suis."**
 
 Dans cette lecture, cette parole exprime une antériorité ontologique : le Christ ne dépend pas du déploiement de la Promesse pour être.  
 Il en est le fondement, antérieur à ses manifestations dans le Fils étendu.
