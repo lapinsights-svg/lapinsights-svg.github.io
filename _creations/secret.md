@@ -94,7 +94,7 @@ Indocile.
 Et lorsque quelqu'un demande ce qui nous pousse encore à partir alors que tout semble déjà là,  
 la seule réponse possible tient dans un demi-sourire.
 
-C'est comme ça.
+"C'est comme ça."
 
 ---
 Céleste R.
