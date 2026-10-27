@@ -67,6 +67,38 @@ Il devient le porteur de la Promesse au sein du déploiement du Fils étendu, l�
 
 La circulation de la Promesse redevient perceptible.
 
+Le Seigneur dit à Abram :
+
+« Va-t’en de ton pays, de ta parenté et de la maison de ton père, vers le pays que Je te montrerai » (Genèse 12,1).
+
+Dans cette lecture, cet appel ne désigne pas seulement un déplacement géographique. Il figure la sortie d’un ancien lieu d’enracinement, d’une filiation et d’un mode de perception hérités.
+
+Dieu appelle Abraham à quitter ce qui le détermine jusque-là pour entrer dans une relation nouvelle à son origine.
+
+Cette sortie trouve un écho dans les paroles de Paul :
+
+"Il nous a arrachés au pouvoir des ténèbres et nous a transférés dans le Royaume de son Fils bien-aimé, en qui nous avons la rédemption, le pardon des péchés." (Colossiens 1,13-14)
+
+Et encore :
+
+"Si quelqu’un est dans le Christ, il est une créature nouvelle. Le monde ancien s’en est allé, un monde nouveau est déjà né." (2 Corinthiens 5,17)
+
+La Terre que Dieu promet à Abraham peut alors être lue comme une figure du Christ lui-même : non plus seulement un lieu où entrer, mais la réalité en laquelle demeurer.
+
+Jésus dit :
+
+"Demeurez en moi, comme moi en vous." (Jean 15,4)
+
+Le déplacement d’Abraham annonce ainsi, dans cette lecture, un changement de principe d’enracinement :  
+sortir de l’ancienne perception pour entrer dans le Christ, non pour reconstruire une unité perdue,  
+mais pour reconnaître et vivre une unité qui n’a jamais cessé d’être.
+
+La Terre promise trouve alors son accomplissement dans le Christ, le Royaume du Fils bien-aimé.  
+
+Il ne s’agit de demeurer dans celui qui est l’origine et le fondement de la filialité.
+
+**Abraham quitte son ancien lieu d’enracinement ; le Christ révèle la demeure véritable.**
+
 
 # Les nations : les fils issus de la Promesse
 
