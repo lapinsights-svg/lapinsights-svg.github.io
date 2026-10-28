@@ -106,7 +106,7 @@ je reste un peu derrière.
 Je les regarde.  
 Je les suis doucement.  
 Je ne sais pas encore dire  
-« Moi, je veux ça ».  
+"Moi, je veux ça".  
 Alors je me fais petite,  
 comme une feuille qui glisse dans l’air.
 
