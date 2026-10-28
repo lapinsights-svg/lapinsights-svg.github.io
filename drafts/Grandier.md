@@ -107,12 +107,12 @@ Les contester peut passer pour une opposition à la religion et à ses représen
 Les rétractations rendent pourtant visible une faille dans ce dispositif.  
 Selon les documents rapportés par Legué et les références reprises par Robert Rapley, Jeanne des Anges aurait reconnu avoir faussement accusé Grandier.  
 Claire de Sazilly aurait déclaré, les 5 et 7 juillet 1634, qu'elle n'était pas possédée et que ses accusations précédentes étaient des calomnies.  
-Ces déclarations doivent être vérifiées dans les pièces auxquelles renvoient les auteurs : pour Jeanne des Anges, les procès-verbaux associés au manuscrit BnF, Français 7619 ; pour Claire de Sazilly, l'Interrogatoire de maître Urbain Grandier, Recueil Morel de Thoisy, réserve 92, folios 377-382.
+(pour Jeanne des Anges, les procès-verbaux associés au manuscrit BnF, Français 7619 ;  
+pour Claire de Sazilly, l'Interrogatoire de maître Urbain Grandier, Recueil Morel de Thoisy, réserve 92, folios 377-382.)
 
 Legué rapporte aussi que Gervais Méchin et Louis Boulieau auraient rétracté des accusations avant de revenir sur leurs déclarations, récit transmis par une publication contemporaine partisane, La Véritable Histoire des diables de Loudun, attribuée à Des Niau.  
-Ce dernier élément appelle donc davantage de prudence et de recoupement.
 
-Leur convergence apparente soulève néanmoins une question centrale : pourquoi ces contradictions n'ont-elles pas provoqué un réexamen décisif de l'accusation ?  
+Leur convergence apparente soulève une question centrale : pourquoi ces contradictions n'ont-elles pas provoqué un réexamen décisif de l'accusation ?  
 Dans un système où un changement de déclaration pouvait lui-même être attribué à l'action du démon,  
 la rétractation risquait de cesser d'être une réfutation pour devenir une nouvelle pièce du dispositif accusatoire.
 
@@ -171,8 +171,11 @@ Même quand certaines déclarations fragilisaient l'accusation, elles n'ont prov
 
 Page 269, Legué formule son interprétation sans détour : la puissance de Richelieu aurait servi une animosité personnelle.  
 Les actes de procédure et les interventions rapportées donnent à cette lecture un fondement concret.  
-Ils ne suffisent pas à établir que chaque décision relevait d'un plan concerté, ni que le mobile personnel de Richelieu soit prouvé indépendamment.  
 L'affaire de Loudun apparaît ainsi comme une accusation dont les institutions mobilisées autour d'elle ont peu à peu retiré les moyens de la contester.
+
+---
+
+Céleste R.
 
 ## Références principales
 
