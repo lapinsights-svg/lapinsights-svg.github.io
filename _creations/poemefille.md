@@ -7,7 +7,7 @@ resume: "Un poème sensoriel et intime sur la manière dont cette enfant ressent
 
 ![Poney](/statics/images/creations/Poney.png)
 
-« Le monde qui respire en moi. ☺
+Le monde qui respire en moi. ☺
 
 Le matin arrive doucement.  
 L’air est frais sur mes joues.  
@@ -33,7 +33,7 @@ Mes mains dans l’herbe.
 Mon ventre contre la terre.  
 La chaleur passe dans ma peau,  
 comme si la terre me disait  
-« Je suis là ».
+"Je suis là".
 
 Je voudrais sentir le monde  
 comme les animaux le sentent.  
@@ -61,7 +61,7 @@ je sens son souffle bouger contre moi.
 Sa chaleur me tient.  
 Son odeur me rassure.  
 Son corps me dit  
-« Tu peux rester ».
+"Tu peux rester".
 
 L’oiseau, je le sens dans l’air.  
 Ses plumes font un frisson  
@@ -148,4 +148,4 @@ Là où la vérité arrive en premier.
 ---
 
 
-© Céleste R. — CC BY-NC-ND
+© Céleste R. 
