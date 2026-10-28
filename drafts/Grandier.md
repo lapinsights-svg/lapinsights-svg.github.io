@@ -11,7 +11,9 @@ tags:
   - justice
   - pouvoir religieux
 title: "L’affaire Urbain Grandier"
+og_image: /statics/images/passe/Grandier.webp
 ---
+![Grandier](/statics/images/passe/Grandier.webp)
 
 # L’affaire Urbain Grandier : la convergence des haines personnelles et des pouvoirs politique, judiciaire et religieux
 
