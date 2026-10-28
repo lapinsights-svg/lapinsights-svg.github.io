@@ -113,7 +113,8 @@ Legué rapporte aussi que Gervais Méchin et Louis Boulieau auraient rétracté 
 Ce dernier élément appelle donc davantage de prudence et de recoupement.
 
 Leur convergence apparente soulève néanmoins une question centrale : pourquoi ces contradictions n'ont-elles pas provoqué un réexamen décisif de l'accusation ?  
-Dans un système où un changement de déclaration pouvait lui-même être attribué à l'action du démon, la rétractation risquait de cesser d'être une réfutation pour devenir une nouvelle pièce du dispositif accusatoire.
+Dans un système où un changement de déclaration pouvait lui-même être attribué à l'action du démon,  
+la rétractation risquait de cesser d'être une réfutation pour devenir une nouvelle pièce du dispositif accusatoire.
 
 Les Cordeliers refusent de participer aux séances.  
 Ils pensent que les démons restent menteurs même après avoir été exorcisés.  
@@ -182,6 +183,6 @@ L'affaire de Loudun apparaît ainsi comme une accusation dont les institutions m
 - Jacques Boutreux, sieur d’Étiau, manuscrit conservé à la BnF, *Collection Dupuy*, 576, cité par Legué au sujet des exorcismes.
 - Bibliothèque nationale de France, manuscrits français 7618 et 7619, références citées par Legué concernant les exorcismes et les procès-verbaux de la procédure. 
 - *Interrogatoire de maître Urbain Grandier*, Recueil Morel de Thoisy, réserve 92, folios 377–382, référence rapportée pour les déclarations de Claire de Sazilly.
-- *La Véritable Histoire des diables de Loudun*, attribuée à Des Niau, source contemporaine partisane rapportée au sujet de rétractations et de revirements de témoins.
+   *La Véritable Histoire des diables de Loudun*, attribuée à Des Niau, au sujet de rétractations et de revirements de témoins.
 
 
