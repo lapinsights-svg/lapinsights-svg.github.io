@@ -163,8 +163,8 @@ Les exorcismes apportent des accusations que soutient une autorité religieuse.
 Les opposants sont écartés ou menacés.  
 La torture, elle, n'arrache aucun aveu, et la condamnation tient quand même.
 
-Les sources citées ne prouvent pas que tous les acteurs aient participé dès le départ à un plan unique.  
-Elles appuient une conclusion plus précise : aux haines personnelles contre Grandier se sont ajoutés des intérêts politiques, judiciaires et religieux, ce qui a rendu sa condamnation possible et sa contestation de plus en plus difficile.  
+Les sources citées appuient une conclusion : aux haines personnelles contre Grandier se sont ajoutés des intérêts politiques, judiciaires et religieux,  
+ce qui a rendu sa condamnation possible et sa contestation de plus en plus difficile.  
 Les rétractations rapportées posent la même question.  
 Même quand certaines déclarations fragilisaient l'accusation, elles n'ont provoqué, dans le récit transmis par ces sources, aucun retournement judiciaire.
 
