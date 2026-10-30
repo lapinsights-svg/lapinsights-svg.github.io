@@ -25,4 +25,4 @@ par les souffles enfouis que la nuit soulève.
 
 Puis il remonte, chargé d'une clarté totale,  
 le regard habité de la mémoire des profondeurs.  
-Il est le lapin — l'esprit qui traverse les leurres.
+Il est le lapin, l'esprit qui traverse les leurres.
