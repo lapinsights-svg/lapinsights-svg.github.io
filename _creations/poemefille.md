@@ -1,8 +1,8 @@
 ---
-title: "Poème pour ma fille"
+title: "Le monde qui respire en moi"
 date: 2026-03-19
 categories: creations
-resume: "Un poème sensoriel et intime sur la manière dont elle ressent le monde."
+resume: "Un poème sensoriel et intime sur la manière dont ma fille ressent le monde."
 ---
 
 ![Poney](/statics/images/creations/Poney.png)
