@@ -4,6 +4,7 @@ layout: default
 
 <main class="section-content article-wrapper article-page">
 
+  {% unless page.hide_article_header %}
   <div class="article-header-line">
 
     <div class="article-header-top">
@@ -25,6 +26,7 @@ layout: default
     {% endif %}
 
   </div>
+  {% endunless %}
 
   <article class="article-content">
     <div class="article-body">
