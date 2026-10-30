@@ -19,7 +19,7 @@ les veines de métal qui vibrent sous la peau.
 Il accueille le silence comme un chant des âges  
 et devine dans l'ombre ce qu'aucun œil ne voit. 
 
-Dans le noir, il descend — une lente transe,  
+Dans le noir, il descend , une lente transe,  
 guidé par les murmures des couches minérales,  
 par les souffles enfouis que la nuit soulève.
 
