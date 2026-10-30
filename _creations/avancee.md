@@ -53,7 +53,7 @@ le cœur palpitant reçoit la tendresse d’une musique profonde.
 Je me laisse porter plus loin,  
 et les pieds légers rencontrent la terre qui les accueille.  
 Elle garde leur trace,  
-révélant une tiédeur légère.
+révélant une tiédeur subtile.
 
 Je continue,  
 et la lumière se pose,  
