@@ -1222,30 +1222,7 @@ header.header-hidden {
     box-shadow: none;
   }
 
-  /* Lien actif : Dans le passé */
-  .mobile-header {
-    position: relative !important;
-    z-index: 10000 !important;
-  }
 
-  .menu-mobile {
-    position: relative;
-    z-index: 10001;
-  }
-
-  .menu-mobile a.lien-passe {
-    position: relative;
-    z-index: 10002;
-    display: inline-block;
-    background: #f4efe7 !important;
-    color: #1d2a49 !important;
-    border: 1px solid #e3ded4 !important;
-    cursor: pointer !important;
-    pointer-events: auto !important;
-    opacity: 1 !important;
-    filter: none !important;
-    text-decoration: none !important;
-  }
   /* Page du Terrier : marge-top pour descendre la vidéo */
   body.presentation-terrier main.contenu-scroll {
     margin-top: 100px !important;
