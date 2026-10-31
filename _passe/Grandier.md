@@ -29,7 +29,7 @@ On y voit de vieilles inimitiés personnelles, une intervention politique lourde
 La thèse défendue ici : la condamnation de Grandier résulte de la rencontre entre des haines personnelles et l'action des pouvoirs politique, judiciaire et religieux.  
 Il s'agit de montrer comment leurs intérêts se sont rejoints pour rendre la condamnation possible, limiter les moyens de défense et imposer publiquement la culpabilité de l'accusé.
 
-1. Les haines personnelles, désigner la cible
+a. Les haines personnelles, désigner la cible
 
 Grandier se bat depuis des années dans des conflits locaux et religieux.  
 Legué raconte les rancunes, les rivalités et les inimitiés de ceux qui l'accusent.  
@@ -43,7 +43,7 @@ Selon Légué, une hostilité personnelle a trouvé dans le pouvoir politique le
 Il propose une interprétation historique pour expliquer les motivations de Richelieu.  
 Les actes précis d'intervention politique qu'il décrit donnent une force à sa thèse. 
 
-2. Le pouvoir politique, une intervention directe
+b. Le pouvoir politique, une intervention directe
 
 La commission royale donnée à Jean-Martin de Laubardemont lui demande de continuer la procédure jusqu'au jugement final.  
 Elle précise que cela doit se faire uniquement, même en cas d'oppositions, d'appels ou de récusations de toute sorte (Legué, p. 186-187).  
@@ -65,7 +65,7 @@ Sa provenance doit donc être vue avec cette réserve.
 L'épisode montre pourtant que l'intervention politique rapportée ne touche pas seulement Grandier.  
 Elle concerne aussi son frère, dont les actions mettent en danger le bon déroulement de la procédure.
 
-3. Le pouvoir judiciaire : limiter les moyens de défense
+c. Le pouvoir judiciaire : limiter les moyens de défense
 
 Dans sa requête du 17 janvier 1634, Jeanne d'Estièvre, mère de Grandier, accuse Laubardemont d'avoir écarté des témoignages favorables, tronqué des dépositions et favorisé les déclarations à charge.  
 Elle dit aussi que des pressions ont été exercées sur les témoins et qu'on lui a refusé la communication de certains actes nécessaires pour contester la procédure (Legué, p. 195-196).
@@ -87,7 +87,7 @@ La sentence prévoit aussi qu'il soit soumis à la torture pour révéler ses co
 La justice affirme donc sa culpabilité.  
 En même temps, elle cherche encore, par la contrainte, à obtenir des éléments qui pourraient confirmer et élargir l'accusation.
 
-4. Le pouvoir religieux : rendre l'accusation impossible à contester
+d. Le pouvoir religieux : rendre l'accusation impossible à contester
 
 Les exorcismes sont le principal moyen par lequel on produit des accusations.  
 Legué explique que les déclarations des religieuses sont écrites comme des témoignages démoniaques.  
@@ -124,7 +124,7 @@ La possession, déjà libre de tous ceux qui pouvaient la gêner, prit un nouvel
 L'auteur relie ainsi l'éviction des contradicteurs à la reprise des exorcismes et à leur retentissement croissant.  
 Dans cette affaire, la possession devient un outil d'accusation protégé contre la contestation.
 
-5. La torture : l'échec de l'aveu ne remet pas en cause le verdict
+e. La torture : l'échec de l'aveu ne remet pas en cause le verdict
 
 La torture vise à obtenir des aveux.  
 Pourtant, si l'accusé ne passe pas aux aveux, cela ne remet pas en cause la décision du tribunal.  
