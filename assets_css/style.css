@@ -1222,6 +1222,16 @@ header.header-hidden {
     box-shadow: none;
   }
 
+   /* Réactiver explicitement le lien Dans le passé sur mobile */
+.menu-mobile a[href*="/passe/"] {
+    background: #f4efe7 !important;
+    color: #1d2a49 !important;
+    border: 1px solid #e3ded4 !important;
+    cursor: pointer !important;
+    pointer-events: auto !important;
+    opacity: 1 !important;
+    filter: none !important;
+}
   /* Page du Terrier : marge-top pour descendre la vidéo */
   body.presentation-terrier main.contenu-scroll {
     margin-top: 100px !important;
