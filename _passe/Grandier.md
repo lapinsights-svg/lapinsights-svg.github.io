@@ -1,6 +1,6 @@
 ---
 categories: passe
-date: 2026-10-28
+date: 2026-10-31
 layout: article
 resume: "L’affaire de Loudun et les convergences des haines personnelles et des pouvoirs politique, judiciaire et religieux."
 tags:
