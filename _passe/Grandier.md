@@ -110,8 +110,9 @@ pour Claire de Sazilly, l'Interrogatoire de maître Urbain Grandier, Recueil Mor
 Legué rapporte aussi que Gervais Méchin et Louis Boulieau auraient rétracté des accusations avant de revenir sur leurs déclarations, récit transmis par une publication contemporaine partisane, La Véritable Histoire des diables de Loudun, attribuée à Des Niau.  
 
 Leur convergence soulève une question centrale : pourquoi ces contradictions n'ont-elles pas provoqué un réexamen décisif de l'accusation ?  
-Dans un système où un changement de déclaration pouvait lui-même être attribué à l'action du démon,  
-la rétractation risquait de cesser d'être une réfutation pour devenir une nouvelle pièce du dispositif accusatoire.
+Dans un système où même un changement de version pouvait être considéré comme une intervention du démon,  
+revenir sur ses déclarations ne suffisait plus à se défendre :  
+cela pouvait au contraire renforcer les accusations contre soi.
 
 Les Cordeliers refusent de participer aux séances.  
 Ils pensent que les démons restent menteurs même après avoir été exorcisés.  
