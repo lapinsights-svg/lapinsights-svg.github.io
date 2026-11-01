@@ -26,8 +26,8 @@ En 1634, Urbain Grandier, curé de Saint-Pierre-du-Marché à Loudun, est condam
 Les documents rassemblés par Gabriel Legué montrent pourtant une affaire qui dépasse largement la croyance aux possessions.  
 On y voit de vieilles inimitiés personnelles, une intervention politique lourde, une procédure judiciaire aux garanties minces, et une mobilisation religieuse qui transforme les accusations en vérités présentées comme incontestables.
 
-La thèse défendue ici : la condamnation de Grandier résulte de la rencontre entre des haines personnelles et l'action des pouvoirs politique, judiciaire et religieux.  
-Il s'agit de montrer comment leurs intérêts se sont rejoints pour rendre la condamnation possible, limiter les moyens de défense et imposer publiquement la culpabilité de l'accusé.
+La thèse défendue ici est que la condamnation de Grandier résulte de la rencontre entre des haines personnelles et l'action des pouvoirs politique, judiciaire et religieux.  
+Il apparait que leurs intérêts se sont rejoints pour rendre la condamnation possible, limiter les moyens de défense et imposer publiquement la culpabilité de l'accusé.
 
 a. Les haines personnelles, désigner la cible
 
