@@ -167,9 +167,9 @@ ce qui a rendu sa condamnation possible et sa contestation de plus en plus diffi
 Les rétractations rapportées posent la même question.  
 Même quand certaines déclarations fragilisaient l'accusation, elles n'ont provoqué, dans le récit transmis par ces sources, aucun retournement judiciaire.
 
-Page 269, Legué formule son interprétation sans détour : la puissance de Richelieu aurait servi une animosité personnelle.  
-Les actes de procédure et les interventions rapportées donnent à cette lecture un fondement concret.  
-L'affaire de Loudun apparaît ainsi comme une accusation dont les institutions mobilisées autour d'elle ont peu à peu retiré les moyens de la contester.
+À la page 269, Legué affirme clairement que Richelieu aurait utilisé son pouvoir pour régler un compte personnel.  
+Les documents de procédure et les interventions rapportées viennent appuyer cette idée.  
+L'affaire de Loudun apparaît ainsi comme une accusation que les institutions impliquées ont peu à peu rendue impossible à contester.  
 
 ---
 
