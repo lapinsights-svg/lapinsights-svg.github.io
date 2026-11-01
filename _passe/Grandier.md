@@ -60,7 +60,7 @@ Legué explique qu'il doit cette lettre à Gabriel Charavay.
 Robert Rapley la mentionne aussi dans A Case of Witchcraft: The Trial of Urbain Grandier (1998).  
 Il renvoie à Legué, p. 220.  
 Je n'ai pas trouvé l'original sous forme numérisée lors de mes recherches.  
-Sa provenance doit donc être vue avec cette réserve.
+Il y a donc une réserve sur sa provenance.
 
 L'épisode montre pourtant que l'intervention politique rapportée ne touche pas seulement Grandier.  
 Elle concerne aussi son frère, dont les actions mettent en danger le bon déroulement de la procédure.
