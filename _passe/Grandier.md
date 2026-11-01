@@ -96,7 +96,6 @@ Ce texte décrit des gestes et des ordres donnés par les exorcistes pour organi
 
 Le dispositif s'appuie surtout sur l'idée que le démon, forcé par l'exorcisme, doit dire la vérité.  
 Legué raconte que Laubardemont disait que Richelieu avait accepté cette idée par lettres closes (Manuscrits français 7618, d'après la référence donnée par l'auteur).  
-Cette affirmation rapportée ne prouve pas, à elle seule, qu'une lettre de Richelieu confirmant cette approbation a été retrouvée.
 
 Cette doctrine a une conséquence majeure.  
 Les accusations faites pendant les exorcismes prennent une valeur religieuse.  
