@@ -119,7 +119,7 @@ Ils pensent que les démons restent menteurs même après avoir été exorcisés
 Cela les rend suspects aux yeux de Laubardemont.  
 Legué fait alors une remarque très révélatrice.
 
-La possession, déjà libre de tous ceux qui pouvaient la gêner, prit un nouvel élan.
+La possession, débarrassée de ceux qui pouvaient encore la remettre en question, se renforça davantage.  
 
 L'auteur relie ainsi l'éviction des contradicteurs à la reprise des exorcismes et à leur retentissement croissant.  
 Dans cette affaire, la possession devient un outil d'accusation protégé contre la contestation.
