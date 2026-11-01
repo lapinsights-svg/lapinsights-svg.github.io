@@ -15,7 +15,7 @@ og_image: /statics/images/passe/Grandier.webp
 ---
 ![Grandier](/statics/images/passe/Grandier.webp)
 
-# L’affaire Urbain Grandier : la convergence des haines personnelles et des pouvoirs politique, judiciaire et religieux
+# L’affaire Urbain Grandier 
 
 Cette étude historique repose principalement sur Gabriel Legué, Urbain Grandier et les possédées de Loudun (1880).  
 Elle examine aussi plusieurs documents d'époque que Legué cite ou décrit.  
