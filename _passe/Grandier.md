@@ -101,7 +101,7 @@ Cette doctrine a une conséquence majeure.
 Les accusations faites pendant les exorcismes prennent une valeur religieuse.  
 Les contester peut passer pour une opposition à la religion et à ses représentants.
 
-Les rétractations rendent pourtant visible une faille dans ce dispositif.  
+Les rétractations font pourtant apparaitre une faille dans ce dispositif.  
 Selon les documents rapportés par Legué et les références reprises par Robert Rapley, Jeanne des Anges aurait reconnu avoir faussement accusé Grandier.  
 Claire de Sazilly aurait déclaré, les 5 et 7 juillet 1634, qu'elle n'était pas possédée et que ses accusations précédentes étaient des calomnies.  
 (pour Jeanne des Anges, les procès-verbaux associés au manuscrit BnF, Français 7619 ;  
