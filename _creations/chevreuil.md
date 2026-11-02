@@ -18,7 +18,8 @@ Elles dessinaient autour de l'eau un réseau de passages qu'elle n'avait jamais 
 
 Au moment où elle se releva, le chevreuil apparut de l'autre côté du ravin.
 
-Il s'approcha de l'eau, baissa la tête et but longuement. La femme demeura immobile.
+Il s'approcha de l'eau, baissa la tête et but longuement.  
+La femme demeura immobile.
 
 Alors elle comprit que la clairière où elle l'avait tant attendu n'était  
 qu'une halte sur un chemin beaucoup plus vaste.  
