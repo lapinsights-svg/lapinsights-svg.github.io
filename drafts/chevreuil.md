@@ -5,7 +5,10 @@ tags: [conte, forêt, chevreuil, création]
 resume: "Une femme découvre qu'une rencontre peut ouvrir sur des chemins et des présences qui échappent au regard."
 layout: article
 categories: creations
+og_image: "/statics/images/creations/chevreuil.webp"
 ---
+
+![chevreuil](/statics/images/creations/chevreuil.webp)
 
 Elle s'accroupit.
 
