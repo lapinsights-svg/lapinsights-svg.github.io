@@ -92,9 +92,11 @@ Elle savait seulement que, depuis ce jour, elle ne traverserait plus jamais le b
 Et parfois, au détour d'un sentier, lorsqu'une odeur de mousse et de terre humide venait effleurer son visage,  
 elle s'arrêtait.
 
-Non pour attendre le chevreuil.
+Elle ne resta pas pour attendre le chevreuil.  
 
-Mais parce qu'il lui semblait que le monde, un instant, lui faisait signe.
+Elle resta parce qu'elle avait senti quelque chose d'indéfinissable :  
+
+comme si, l'espace d'un instant, le monde s'était adressé à elle.
 
 ---
 
