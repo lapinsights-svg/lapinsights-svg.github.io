@@ -27,8 +27,8 @@ Il suivait sa propre vie, ses besoins, ses saisons,
 selon une géographie que la femme ne connaissait pas.
 
 Cette découverte lui serra le ventre.  
-Elle aurait aimé que leurs rencontres aient une autre signification,  
-qu'il existe entre eux quelque chose qu'elle aurait pu reconnaître dans le regard de l'animal.
+Elle aurait aimé que leurs rencontres aient une autre signification, qu'il existe  
+entre eux quelque chose qu'elle aurait pu reconnaître dans le regard de l'animal.
 
 Mais le chevreuil ne lui devait aucun signe.
 
@@ -42,7 +42,8 @@ Peut-être même était-ce là qu'elle devait en découvrir la véritable nature
 Elle n'avait pas besoin d'être attendue pour avoir été touchée.
 
 Le printemps revint. Les premières fleurs apparurent sous les hêtres.  
-La femme empruntait désormais d'autres sentiers. Elle continuait parfois de passer par la clairière,  
+La femme empruntait désormais d'autres sentiers.  
+Elle continuait parfois de passer par la clairière,  
 mais ne s'y attardait plus dans l'espoir d'y retrouver le chevreuil.
 
 Un matin, elle le vit de l'autre côté du vieux mur. Un petit l'accompagnait.  
@@ -63,19 +64,22 @@ Elle se retourna.
 À l'endroit où le chevreuil venait de disparaître, les feuilles remuaient doucement.  
 Pourtant, aucun souffle ne traversait la clairière.
 
-Puis elle entendit trois coups légers, espacés, comme si quelqu'un frappait de l'autre côté d'une porte invisible.
+Puis elle entendit trois coups légers, espacés,  
+comme si quelqu'un frappait de l'autre côté d'une porte invisible.
 
 Elle s'approcha du vieux hêtre.
 
 Dans son écorce, à hauteur de ses yeux, une petite cavité s'ouvrait.  
 Elle ne l'avait jamais remarquée.  
-Au fond reposait une feuille verte, parfaitement intacte, bien qu'aucune branche ne fût assez proche pour l'avoir laissée tomber là.
+Au fond reposait une feuille verte, parfaitement intacte,  
+bien qu'aucune branche ne fût assez proche pour l'avoir laissée tomber là.
 
 Elle tendit la main, puis s'arrêta.
 
 De l'autre côté du tronc, quelque chose respirait.
 
-Elle n'entendait ni pas ni mouvement, seulement un souffle lent, presque confondu avec celui du bois.
+Elle n'entendait ni pas ni mouvement, seulement un souffle lent,  
+presque confondu avec celui du bois.
 
 Alors elle comprit qu'il existait des présences que l'on ne rencontrait pas en s'approchant,  
 et des portes que l'on ne franchissait pas en avançant.
