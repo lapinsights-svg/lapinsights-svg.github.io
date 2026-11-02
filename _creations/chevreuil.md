@@ -2,7 +2,7 @@
 title: "Elle écoutait trembler les feuilles"
 date: 2026-11-02
 tags: [conte, forêt, chevreuil, création]
-resume: "Une femme découvre qu'une rencontre peut ouvrir sur des chemins et des présences qui échappent au regard."
+resume: "Un chevreuil révèle un lien invisible entre deux être."
 layout: article
 categories: creations
 og_image: "/statics/images/creations/chevreuil.webp"
