@@ -39,6 +39,8 @@ réduisant fortement les possibilités de recours.
 Le 31 octobre, un tribunal administratif a annulé une mesure visant un agriculteur,  
 lui permettant finalement de rejoindre la manifestation.  
 
+Mais, un pouvoir administratif qui restreint une liberté avant même qu'un juge ait pu examiner sérieusement  
+les motifs de cette restriction peut produire des effets très lourds, même si la mesure est ensuite annulée.  
 
 Utiliser l'arsenal antiterroriste pour empêcher des citoyens de participer à des manifestations  
 est inadmissible dans une démocratie.  
