@@ -59,7 +59,7 @@ Derrière ces situations individuelles se dessine une évolution plus large :
 l'extension progressive des pouvoirs administratifs dans un  
 domaine touchant directement aux libertés publiques.  
 
-Ce qui se joue ici dépasse largement le détournement d'un dispositif administratif.  
+Mais, ce qui se joue ici dépasse largement le détournement d'un dispositif administratif.  
 C'est la liberté de manifester qui se trouve directement mise en cause.  
 Lorsqu'un pouvoir commence à traiter la contestation comme une menace à neutraliser,    
 il engage le pays sur une pente qui peut le conduire vers un régime totalitaire.
