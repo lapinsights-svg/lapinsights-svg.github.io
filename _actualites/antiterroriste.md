@@ -58,9 +58,6 @@ détaillées sur l'ampleur réelle des mesures dénoncées.
 Derrière ces situations individuelles se dessine une évolution plus large :  
 l'extension progressive des pouvoirs administratifs dans un  
 domaine touchant directement aux libertés publiques.  
-La lutte contre le terrorisme répond à un objectif légitime,  
-mais elle ne peut servir de justification générale à des restrictions  
-préventives de la participation à la vie démocratique.
 
 Ce qui se joue ici dépasse largement le détournement d'un dispositif administratif.  
 C'est la liberté de manifester qui se trouve directement mise en cause.  
