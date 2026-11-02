@@ -11,55 +11,58 @@ tags:
 - manifestations
 - maintien_de_lordre
 title: Quand l'antiterrorisme s'invite dans le maintien de l'ordre
+og_image: /statics/images/actualites/antiterrorisme.webp
 ---
+
+![antiterrorisme](/statics/images/actualites/antiterrorisme.webp)
 
 ### Quand l'antiterrorisme s'invite dans le maintien de l'ordre
 
-**France - 2 novembre 2026**
+**France, 2 novembre 2026**
 
-L'arsenal antiterroriste s'étend bien au-delà de la lutte contre le. 
-terrorisme. D'après une enquête de *Libération*, des dizaines de   
-militants ont été visés par des mesures administratives les empêchant de  
-participer aux mobilisations organisées les 24 et 31 octobre ainsi que  
-le 1er novembre.
+L'arsenal antiterroriste s'étend bien au-delà de la lutte contre le terrorisme.  
+D'après une enquête de *Libération*, des dizaines de militants ont été visés  
+par des mesures administratives les empêchant de participer aux mobilisations  
+organisées les 24 et 31 octobre ainsi que le 1er novembre.
 
 Parmi les dispositifs utilisés figurent les MICAS (mesures individuelles  
 de contrôle administratif et de surveillance), introduites par la loi  
-SILT de 2017. Elles autorisent notamment des restrictions de  
-déplacement, des obligations de pointage auprès des forces de l'ordre ou. 
+SILT de 2017. Elles autorisent notamment des restrictions de déplacement,  
+des obligations de pointage auprès des forces de l'ordre ou  
 encore l'interdiction de se rendre à certains rassemblements.  
 
-Plusieurs personnes concernées contestent les justifications avancées. 
-par l'administration. Certaines n'ont jamais fait l'objet d'une. 
-condamnation ni de poursuites judiciaires. Des avocats dénoncent des. 
-décisions peu individualisées, parfois notifiées au dernier moment,  
+Plusieurs personnes concernées contestent les justifications avancées  par l'administration.  
+Certaines n'ont jamais fait l'objet d'une  condamnation ni de poursuites judiciaires.  
+Des avocats dénoncent des décisions peu individualisées, parfois notifiées au dernier moment,  
 réduisant fortement les possibilités de recours.  
 
-Le 31 octobre, un tribunal administratif a annulé une mesure visant un 
-agriculteur, lui permettant finalement de rejoindre la manifestation.  
+Le 31 octobre, un tribunal administratif a annulé une mesure visant un agriculteur,  
+lui permettant finalement de rejoindre la manifestation.  
 
-L'affaire pose une question fondamentale : jusqu'où des outils conçus  
-pour prévenir le terrorisme peuvent-ils être utilisés pour empêcher la  
-participation à des rassemblements politiques ou sociaux ?
 
-Le débat n'est pas nouveau. Plusieurs juridictions administratives ont  
-déjà rappelé les limites de certains usages jugés disproportionnés des  
-dispositifs antiterroristes.
+Utiliser l'arsenal antiterroriste pour empêcher des citoyens de participer à des manifestations  
+est inadmissible dans une démocratie.  
+Lorsqu'un État détourne des dispositifs de lutte contre le terrorisme pour restreindre préventivement la liberté de manifester,  
+il piétine les libertés publiques et les principes mêmes qu'il prétend défendre.  
+Une démocratie qui en arrive là n'en conserve bientôt plus que le nom.
+
+Le débat n'est pas nouveau.  
+Plusieurs juridictions administratives ont déjà rappelé les limites de certains usages  
+jugés disproportionnés des dispositifs antiterroristes.
 
 À ce stade, le ministère de l'Intérieur n'a pas fourni d'explications  
 détaillées sur l'ampleur réelle des mesures dénoncées.
 
-Derrière ces situations individuelles se dessine une évolution plus  
-large : l'extension progressive des pouvoirs administratifs dans un  
-domaine touchant directement aux libertés publiques. La lutte contre le. 
-terrorisme répond à un objectif légitime, mais elle ne peut servir de  
-justification générale à des restrictions préventives de la. 
-participation à la vie démocratique.
+Derrière ces situations individuelles se dessine une évolution plus large :  
+l'extension progressive des pouvoirs administratifs dans un  
+domaine touchant directement aux libertés publiques.  
+La lutte contre le terrorisme répond à un objectif légitime,  
+mais elle ne peut servir de justification générale à des restrictions  
+préventives de la participation à la vie démocratique.
 
-**Lorsqu'un dispositif créé pour prévenir le terrorisme sert à écarter  
-des citoyens de manifestations politiques ou sociales, le débat dépasse  
-la sécurité publique. Il concerne directement l'équilibre entre pouvoir  
-administratif et libertés démocratiques.**
+Lorsqu'un dispositif créé pour prévenir le terrorisme sert à écarter  
+des citoyens de manifestations politiques ou sociales, le débat dépasse la sécurité publique.  
+Il concerne directement l'équilibre entre pouvoir administratif et libertés démocratiques.
 
 © Céleste R. 
 
