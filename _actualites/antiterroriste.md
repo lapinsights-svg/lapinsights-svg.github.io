@@ -64,11 +64,7 @@ préventives de la participation à la vie démocratique.
 
 Ce qui se joue ici dépasse largement le détournement d'un dispositif administratif.  
 C'est la liberté de manifester qui se trouve directement mise en cause.  
-Lorsqu'un pouvoir peut empêcher des citoyens de se rassembler en les soumettant à des mesures  
-conçues pour prévenir le terrorisme, il franchit une ligne démocratique majeure.  
-On ne protège pas une démocratie en réduisant au silence ceux qui la contestent.  
-On l'affaiblit.  
-Et lorsqu'un pouvoir commence à traiter la contestation comme une menace à neutraliser,    
+Lorsqu'un pouvoir commence à traiter la contestation comme une menace à neutraliser,    
 il engage le pays sur une pente qui peut le conduire vers un régime totalitaire.
 
 © Céleste R. 
