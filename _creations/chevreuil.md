@@ -94,8 +94,7 @@ Elle ne savait pas ce qu'elle avait découvert.
 
 Elle savait seulement que, depuis ce jour, elle ne traverserait plus jamais le bois tout à fait de la même manière.
 
-Et parfois, au détour d'un sentier, lorsqu'une odeur de mousse et de terre humide venait effleurer son visage,  
-elle s'arrêtait.
+Et parfois, au détour d'un sentier, lorsqu'une odeur de mousse et de terre humide venait effleurer son visage, elle s'arrêtait.
 
 Elle ne resta pas pour attendre le chevreuil.  
 
