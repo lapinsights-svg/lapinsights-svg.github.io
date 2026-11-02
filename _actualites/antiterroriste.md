@@ -44,8 +44,8 @@ les motifs de cette restriction peut produire des effets très lourds, même si 
 
 Utiliser l'arsenal antiterroriste pour empêcher des citoyens de participer à des manifestations  
 est inadmissible dans une démocratie.  
-Lorsqu'un État détourne des dispositifs de lutte contre le terrorisme pour restreindre préventivement la liberté de manifester,  
-il piétine les libertés publiques et les principes mêmes qu'il prétend défendre.  
+Un État qui détourne des dispositifs de lutte contre le terrorisme pour restreindre préventivement la liberté de manifester,  
+est un État qui piétine les libertés publiques et les principes mêmes qu'il prétend défendre.  
 Une démocratie qui en arrive là n'en conserve bientôt plus que le nom.
 
 Le débat n'est pas nouveau.  
