@@ -2053,13 +2053,14 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   gap: 0.55rem;
   padding: 0.8rem 1rem;
   color: var(--accent);
-  background: rgba(28, 62, 112, 0.28);
-  border: 1px solid rgba(224, 179, 122, 0.35);
-  border-radius: 10px;
+  background: rgba(80, 100, 130, 0.28);
+  border: 1px solid rgba(200, 220, 255, 0.25);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-radius: 1rem;
   text-align: center;
   text-decoration: none;
   z-index: 2;
-  text-shadow: 0 1px 3px rgba(12, 35, 72, 0.85);
 }
 
 .nouveau-texte-label {
@@ -2090,6 +2091,7 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   width: 100%;
   overflow: hidden;
   white-space: nowrap;
+  container-type: inline-size;
   color: var(--accent);
   font-size: 0.9rem;
   line-height: 1.5;
@@ -2098,16 +2100,15 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
 }
 
 .nouveau-texte-piste {
-  display: flex;
+  display: block;
   width: max-content;
   will-change: transform;
-  animation: defilement-nouveau-texte 24s linear infinite;
+  animation: defilement-nouveau-texte 18s ease-in-out infinite alternate;
 }
 
 .nouveau-texte-piste span {
   display: block;
-  flex: 0 0 auto;
-  padding-right: 3rem;
+  white-space: nowrap;
 }
 
 .nouveau-texte-lire {
@@ -2131,24 +2132,20 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
 }
 
 @keyframes defilement-nouveau-texte {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
+  from { transform: translateX(calc(100cqi - 100%)); }
+  to { transform: translateX(0); }
 }
 
 @media (prefers-reduced-motion: reduce) {
   .nouveau-texte-piste {
     animation: none;
     width: 100%;
-    justify-content: center;
-  }
-
-  .nouveau-texte-piste span:first-child {
     white-space: normal;
-    padding-right: 0;
+    text-align: center;
   }
 
-  .nouveau-texte-piste span:nth-child(2) {
-    display: none;
+  .nouveau-texte-piste span {
+    white-space: normal;
   }
 
   .nouveau-texte-fenetre {
@@ -2167,7 +2164,7 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   }
 
   .nouveau-texte-piste {
-    animation-duration: 32s;
+    animation-duration: 24s;
   }
 
   .intro-block {
