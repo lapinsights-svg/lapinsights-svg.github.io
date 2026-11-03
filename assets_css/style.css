@@ -2051,16 +2051,11 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   flex-direction: column;
   align-items: center;
   gap: 0.55rem;
-  padding: 0.8rem 1rem;
   color: var(--accent);
-  background: rgba(55, 78, 116, 0.48);
-  border: 1px solid rgba(200, 220, 255, 0.25);
-  backdrop-filter: blur(14px);
-  -webkit-backdrop-filter: blur(14px);
-  border-radius: 1rem;
   text-align: center;
   text-decoration: none;
   z-index: 2;
+  text-shadow: 0 2px 5px rgba(13, 35, 75, 0.85), 0 0 12px rgba(13, 35, 75, 0.55);
 }
 
 .nouveau-texte-label {
@@ -2074,6 +2069,7 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   line-height: 1.4;
   font-weight: 600;
   letter-spacing: 0.3px;
+  text-shadow: 0 2px 5px rgba(13, 35, 75, 0.85), 0 0 12px rgba(13, 35, 75, 0.55);
 }
 
 .nouveau-texte-label::before,
