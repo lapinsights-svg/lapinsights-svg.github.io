@@ -2046,14 +2046,20 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   top: 1.5rem;
   left: 52%;
   width: 43%;
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 0.55rem;
-  color: #f4b65e;
+  padding: 0.8rem 1rem;
+  color: var(--accent);
+  background: rgba(28, 62, 112, 0.28);
+  border: 1px solid rgba(224, 179, 122, 0.35);
+  border-radius: 10px;
   text-align: center;
   text-decoration: none;
   z-index: 2;
+  text-shadow: 0 1px 3px rgba(12, 35, 72, 0.85);
 }
 
 .nouveau-texte-label {
@@ -2062,6 +2068,7 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   justify-content: center;
   gap: 0.8rem;
   width: 100%;
+  color: var(--accent);
   font-size: 0.9rem;
   line-height: 1.4;
   font-weight: 600;
@@ -2083,6 +2090,7 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   width: 100%;
   overflow: hidden;
   white-space: nowrap;
+  color: var(--accent);
   font-size: 0.9rem;
   line-height: 1.5;
   font-weight: 600;
@@ -2092,15 +2100,18 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
 .nouveau-texte-piste {
   display: flex;
   width: max-content;
-  animation: defilement-nouveau-texte 32s linear infinite;
+  will-change: transform;
+  animation: defilement-nouveau-texte 24s linear infinite;
 }
 
 .nouveau-texte-piste span {
+  display: block;
   flex: 0 0 auto;
   padding-right: 3rem;
 }
 
 .nouveau-texte-lire {
+  color: var(--accent);
   font-size: 0.9rem;
   line-height: 1.4;
   font-weight: 600;
@@ -2114,14 +2125,14 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
 }
 
 .nouveau-texte:focus-visible {
-  outline: 2px solid #f4b65e;
+  outline: 2px solid var(--accent);
   outline-offset: 6px;
   border-radius: 4px;
 }
 
 @keyframes defilement-nouveau-texte {
-  from { transform: translateX(0); }
-  to { transform: translateX(-50%); }
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -2152,11 +2163,11 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
     left: auto;
     width: min(90%, 600px);
     margin: 0 auto 1.5rem;
-    padding-top: 0.5rem;
+    padding-top: 0.7rem;
   }
 
   .nouveau-texte-piste {
-    animation-duration: 40s;
+    animation-duration: 32s;
   }
 
   .intro-block {
