@@ -8,6 +8,36 @@ description: Terrier des mondes, éclats et correspondances
 
 <div class="page-accueil">
 
+  {% assign tous_les_textes = site.actualites
+    | concat: site.creations
+    | concat: site.idees
+    | concat: site.spiritualite
+    | concat: site.passe
+    | concat: site.vibrations
+  %}
+  {% assign textes_dates = tous_les_textes
+    | where_exp: "texte", "texte.date"
+    | sort: "date"
+    | reverse
+  %}
+  {% assign dernier_texte = textes_dates | first %}
+
+  {% if dernier_texte %}
+  <a class="nouveau-texte"
+     href="{{ dernier_texte.url | relative_url }}"
+     aria-label="Lire le dernier texte : {{ dernier_texte.title | escape }}">
+    <span class="nouveau-texte-label">NOUVEAU TEXTE</span>
+    <span class="nouveau-texte-fenetre">
+      <span class="nouveau-texte-piste">
+        <span>{{ dernier_texte.title | escape }}</span>
+        <span aria-hidden="true">{{ dernier_texte.title | escape }}</span>
+      </span>
+    </span>
+    <span class="nouveau-texte-lire">Lire le texte →</span>
+  </a>
+  {% endif %}
+
+
   <section class="intro-block">
     <h2>ENTRER DANS LE TERRIER</h2>
 
