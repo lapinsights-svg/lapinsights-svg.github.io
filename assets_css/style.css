@@ -2127,6 +2127,17 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
 @media (prefers-reduced-motion: reduce) {
   .nouveau-texte-piste {
     animation: none;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .nouveau-texte-piste span:first-child {
+    white-space: normal;
+    padding-right: 0;
+  }
+
+  .nouveau-texte-piste span:nth-child(2) {
+    display: none;
   }
 
   .nouveau-texte-fenetre {
