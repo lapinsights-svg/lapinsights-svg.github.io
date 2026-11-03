@@ -2032,3 +2032,136 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
 
 
 
+
+
+/* ----------------------------------------------------
+   DERNIER TEXTE — BANDEAU DÉFILANT DE L’ACCUEIL
+---------------------------------------------------- */
+.page-accueil {
+  position: relative;
+}
+
+.nouveau-texte {
+  position: absolute;
+  top: 1.5rem;
+  left: 52%;
+  width: 43%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.55rem;
+  color: #f4b65e;
+  text-align: center;
+  text-decoration: none;
+  z-index: 2;
+}
+
+.nouveau-texte-label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8rem;
+  width: 100%;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.nouveau-texte-label::before,
+.nouveau-texte-label::after {
+  content: "";
+  width: 3.2rem;
+  max-width: 15%;
+  height: 1px;
+  background: currentColor;
+  opacity: 0.9;
+}
+
+.nouveau-texte-fenetre {
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.nouveau-texte-piste {
+  display: flex;
+  width: max-content;
+  animation: defilement-nouveau-texte 32s linear infinite;
+}
+
+.nouveau-texte-piste span {
+  flex: 0 0 auto;
+  padding-right: 3rem;
+}
+
+.nouveau-texte-lire {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.nouveau-texte:hover .nouveau-texte-piste,
+.nouveau-texte:focus-visible .nouveau-texte-piste {
+  animation-play-state: paused;
+}
+
+.nouveau-texte:focus-visible {
+  outline: 2px solid #f4b65e;
+  outline-offset: 6px;
+  border-radius: 4px;
+}
+
+@keyframes defilement-nouveau-texte {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .nouveau-texte-piste {
+    animation: none;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .nouveau-texte-piste span:first-child {
+    white-space: normal;
+    padding-right: 0;
+  }
+
+  .nouveau-texte-piste span:nth-child(2) {
+    display: none;
+  }
+
+  .nouveau-texte-fenetre {
+    white-space: normal;
+  }
+}
+
+@media (max-width: 768px) {
+  .nouveau-texte {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: min(90%, 600px);
+    margin: 0 auto 1.5rem;
+    padding-top: 0.5rem;
+  }
+
+  .nouveau-texte-piste {
+    animation-duration: 40s;
+  }
+
+  .intro-block {
+    width: calc(100% - 2rem);
+    max-width: 600px;
+    margin: 10px auto;
+  }
+}
