@@ -2043,7 +2043,7 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
 
 .nouveau-texte {
   position: absolute;
-  top: 1.5rem;
+  top: 10px;
   left: 52%;
   width: 43%;
   box-sizing: border-box;
@@ -2053,7 +2053,7 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   gap: 0.55rem;
   padding: 0.8rem 1rem;
   color: var(--accent);
-  background: rgba(80, 100, 130, 0.28);
+  background: rgba(55, 78, 116, 0.48);
   border: 1px solid rgba(200, 220, 255, 0.25);
   backdrop-filter: blur(14px);
   -webkit-backdrop-filter: blur(14px);
@@ -2093,6 +2093,7 @@ body.cat-archives nav.menu-haut button[onclick*="/archives/"] {
   white-space: nowrap;
   container-type: inline-size;
   color: var(--accent);
+  text-shadow: 0 1px 3px rgba(20, 40, 75, 0.55);
   font-size: 0.9rem;
   line-height: 1.5;
   font-weight: 600;
