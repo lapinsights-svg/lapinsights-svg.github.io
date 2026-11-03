@@ -2,7 +2,7 @@
 title: "Elle écoutait trembler les feuilles"
 date: 2026-11-02
 tags: [conte, forêt, chevreuil, création]
-resume: "Un chevreuil révèle un lien invisible entre deux être."
+resume: "Un chevreuil révèle un lien invisible entre deux êtres."
 layout: article
 categories: creations
 og_image: "/statics/images/creations/chevreuil.webp"
