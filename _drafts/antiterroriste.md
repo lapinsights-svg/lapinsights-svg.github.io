@@ -1,6 +1,6 @@
 ---
 categories: actualites
-date: 2026-11-02
+date: 2026-11-06
 layout: article
 og_image: /statics/images/og-favicon.png
 resume: Des dizaines de militants visés par des mesures administratives antiterroristes avant plusieurs mobilisations.
