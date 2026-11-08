@@ -106,8 +106,8 @@ Les religions orientales reposent notamment sur un ensemble d'hypothèses que l'
 
 1. Toute vie est un cycle de naissance, de mort et de renaissance.
 2. Toute vie souffre de ce cycle.
-3. Pour éviter cette souffrance, il faut échapper au cycle en y renonçant.
-
+3. Pour éviter cette souffrance, il faut échapper au cycle en y renonçant.  
+  
 C'est la troisième hypothèse qui me semble particulièrement problématique.  
 Elle paraît découler naturellement des deux premières, mais ce n'est pas le cas.  
 Pourquoi le fait que la vie comporte de la souffrance devrait-il conduire à la conclusion qu'il faut s'en libérer ?
@@ -117,8 +117,7 @@ On pourrait tout aussi bien partir d'autres hypothèses :
 1. Toute vie est un cycle de naissance et de mort.
 2. Toute vie comporte de la souffrance.
 3. Mais toute vie comporte également des joies, des beautés et des merveilles.
-4. Le fait de vivre ne devrait donc pas être considéré comme une condition dont il faut s'échapper,  
-mais comme une réalité à accueillir dans toute sa complexité.
+4. Le fait de vivre ne devrait donc pas être considéré comme une condition dont il faut s'échapper, mais comme une réalité à accueillir dans toute sa complexité.
 
 On voit que le changement est considérable.  
 Dans un cas, la vie est un piège dont il faut sortir.  
