@@ -20,15 +20,12 @@ og_image: /statics/images/spiritualite/souffrance.webp
 
 (réécriture d'un texte de 2023)
 
-Ce qui m'intéresse dans les grandes traditions religieuses,  
-c'est moins ce qu'elles prétendent nous apporter que les postulats sur lesquels elles reposent.  
-Et notamment cette idée selon laquelle la souffrance serait une caractéristique fondamentale de l'existence humaine,  
-à laquelle il faudrait nécessairement apporter une réponse spirituelle.
+Ce qui m'intéresse dans les grandes traditions religieuses, c'est moins ce qu'elles prétendent nous apporter que les postulats sur lesquels elles reposent.  
+Et notamment cette idée selon laquelle la souffrance serait une caractéristique fondamentale de l'existence humaine, à laquelle il faudrait nécessairement apporter une réponse spirituelle.
 
 Je ne parle évidemment pas de nier la souffrance.  
 Elle existe, elle fait partie de la condition humaine et certaines de ses formes sont inévitables.  
-Mais je fais une distinction entre celle qui appartient naturellement à l'existence et celle que l'on fabrique,  
-entretient ou amplifie à travers des croyances, des institutions et des organisations sociales.
+Mais je fais une distinction entre celle qui appartient naturellement à l'existence et celle que l'on fabrique, entretient ou amplifie à travers des croyances, des institutions et des organisations sociales.
 
 Dans le bouddhisme, par exemple, la souffrance occupe une place absolument centrale.  
 Elle constitue le point de départ de toute la doctrine.  
