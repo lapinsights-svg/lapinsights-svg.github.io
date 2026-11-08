@@ -240,6 +240,7 @@ ni d'une doctrine pour reconnaître la profondeur et le mystère du réel.
 Et surtout, je ne vois aucune raison de considérer la vie comme un piège dont il faudrait sortir.
 
 Je préfère simplement être là, y participer et ne pas passer à côté.
+
 ---
 
 Céleste R.
