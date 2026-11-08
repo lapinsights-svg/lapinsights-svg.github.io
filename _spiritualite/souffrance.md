@@ -45,12 +45,10 @@ Certains diront que ce renoncement ne concerne que les moines, puisque l'enseign
 Mais historiquement, cette idée a largement dépassé le cadre monastique.  
 Comme dans le christianisme, l'islam et le judaïsme, la vie sacerdotale a été présentée comme supérieure,  
 et le renoncement a fini par imprégner différents niveaux de la vie ordinaire.  
-Le bouddhisme, l'hindouisme et le jaïnisme sont également fondés sur l'idée de libération du Samsara,  
-ce cycle de naissances, de morts et de renaissances.  
+Le bouddhisme, l'hindouisme et le jaïnisme sont également fondés sur l'idée de libération du Samsara, ce cycle de naissances, de morts et de renaissances.  
 Cette idée ne concerne évidemment pas uniquement les moines.  
 Tous les Hindous connaissent le Samsara et le Moksha.  
-Les moines peuvent consacrer davantage de temps à ces choses,  
-mais ils sont aussi considérés comme plus saints pour cela.  
+Les moines peuvent consacrer davantage de temps à ces choses, mais ils sont aussi considérés comme plus saints pour cela.  
 Le renoncement finit ainsi par structurer toute une culture.
 
 Ce qui m'interroge, ce n'est pas le constat que la vie comporte de la souffrance,  
@@ -60,29 +58,24 @@ la solution consiste à s'en détacher,
 à renoncer au désir, à l'attachement et parfois même à l'action.
 
 Or, sans ce postulat initial, il n'y aurait aucune raison de promouvoir le renoncement.  
-On ne pourrait tout simplement pas vendre l'idée qu'il faut renoncer à la vie  
-à quelqu'un qui considère que cette vie est une chose merveilleuse.
+On ne pourrait tout simplement pas vendre l'idée qu'il faut renoncer à la vie à quelqu'un qui considère que cette vie est une chose merveilleuse.
 
 C'est là que je vois une première inversion du rapport à l'existence.  
-Car au lieu de chercher à comprendre les causes de la souffrance et à agir sur celles qui peuvent être évitées,  
-on finit par considérer la vie elle-même comme le problème.
+Car au lieu de chercher à comprendre les causes de la souffrance et à agir sur celles qui peuvent être évitées, on finit par considérer la vie elle-même comme le problème.
 
 Schopenhauer, qui était un grand admirateur des Upanishads, illustre assez bien ce mécanisme.  
 Nietzsche avait remarquablement diagnostiqué ce qu'il considérait comme la pathologie de Schopenhauer :  
-un attachement à la souffrance tellement profond que l'individu finit par ne plus envisager qu'un palliatif,  
-oubliant même la possibilité d'une guérison complète.
+un attachement à la souffrance tellement profond que l'individu finit par ne plus envisager qu'un palliatif, oubliant même la possibilité d'une guérison complète.
 
 Schopenhauer avait trouvé dans le renoncement hindou une réponse à sa condition.  
 Mais pourquoi remplacer une construction religieuse par une autre sans remettre en question le fond du problème ?
 
 Il avait beau réfuter le christianisme, il vivait toujours dans une culture chrétienne.  
 Une réfutation ne signifie pas une destruction.  
-Il ne se sentait pas libre d'agir selon ses propres désirs,  
-et sa souffrance ne pouvait plus être justifiée par les valeurs auxquelles il ne croyait plus.  
+Il ne se sentait pas libre d'agir selon ses propres désirs, et sa souffrance ne pouvait plus être justifiée par les valeurs auxquelles il ne croyait plus.  
 Il lui fallait donc trouver une autre manière de donner un sens à son existence.  
 Le renoncement des Upanishads lui en fournissait une.  
-Son inaction pouvait ainsi devenir une forme de service rendu à une religion considérée comme plus pure,  
-qui exigeait le renoncement et le présentait comme la plus grande des saintetés.
+Son inaction pouvait ainsi devenir une forme de service rendu à une religion considérée comme plus pure, qui exigeait le renoncement et le présentait comme la plus grande des saintetés.
 
 Il y a là un mécanisme assez particulier :  
 les personnes qui ont beaucoup souffert peuvent finir par devenir attachées à leur propre souffrance.  
@@ -94,15 +87,13 @@ On retrouve un mécanisme comparable en Occident, même si les moyens sont diff�
 Le christianisme a notamment développé une relation très particulière à la culpabilité.  
 Un malheur pouvait être interprété comme une conséquence du péché, d'une faute ou d'un comportement inapproprié.  
 On avait perdu un enfant ?  
-On n'avait peut-être pas suffisamment prié, on n'avait pas respecté les bonnes règles,  
-ou on avait simplement mérité cette épreuve.  
+On n'avait peut-être pas suffisamment prié, on n'avait pas respecté les bonnes règles, ou on avait simplement mérité cette épreuve.  
 Et bien entendu, il existait toujours quelqu'un pour expliquer comment réparer tout cela.
 
 La culpabilité venait donc s'ajouter à l'épreuve initiale.  
 Les traditions orientales fonctionnent autrement : elles n'ont pas nécessairement besoin de cette culpabilité,  
 puisque leur postulat de départ est déjà suffisamment puissant.  
-Elles n'ont pas besoin de convaincre l'individu qu'il a mal agi pour lui faire considérer  
-la vie comme une condition dont il faudrait se libérer.
+Elles n'ont pas besoin de convaincre l'individu qu'il a mal agi pour lui faire considérer la vie comme une condition dont il faudrait se libérer.
 
 Historiquement, les classes sacerdotales ont souvent prospéré en interprétant  
 les souffrances humaines et en proposant les moyens de les soulager.  
@@ -122,8 +113,7 @@ Les problèmes sont parfois induits parce que certains en tirent directement pro
 Je ne dis pas, évidemment, que toute souffrance est fabriquée.  
 Certaines sont inévitables et peuvent même donner de la profondeur à l'expérience humaine.  
 Mais une grande partie des souffrances du passé était inutile, évitable et parfois directement provoquée.  
-C'est pourquoi je pense qu'il faut distinguer ce qui appartient naturellement  
-à l'existence de ce qui est produit par les systèmes humains.  
+C'est pourquoi je pense qu'il faut distinguer ce qui appartient naturellement à l'existence de ce qui est produit par les systèmes humains.  
 Le problème n'est pas la souffrance en elle-même, mais son utilisation par des structures qui ont intérêt à la maintenir.
 
 Mais je reviens au postulat initial, car c'est là que se trouve, à mon sens, le problème le plus important.
@@ -160,13 +150,11 @@ Au lieu de considérer la naissance et la mort comme les deux dimensions d'une m
 on les transforme en éléments d'une condition dont il faudrait se délivrer.
 
 La philosophie de Lao-Tseu me semble beaucoup plus proche de cette autre conception.  
-Nietzsche également, dans sa tentative de renverser les valeurs héritées du christianisme,  
-même s'il est resté marqué par certains aspects de la pensée qu'il combattait.
+Nietzsche également, dans sa tentative de renverser les valeurs héritées du christianisme, même s'il est resté marqué par certains aspects de la pensée qu'il combattait.
 
 Je me suis donc demandée pourquoi Schopenhauer avait choisi de remplacer le nihilisme du christianisme par une conception qui,  
 à certains égards, allait encore plus loin dans la négation de la vie.  
-Pourquoi se détourner du christianisme pour se tourner vers le bouddhisme ou l'hindouisme si c'est pour retrouver,  
-sous une autre forme, la même nécessité de renoncer à l'existence présente ?
+Pourquoi se détourner du christianisme pour se tourner vers le bouddhisme ou l'hindouisme si c'est pour retrouver, sous une autre forme, la même nécessité de renoncer à l'existence présente ?
 
 On échange simplement une caste de prêtres contre une autre, un système de croyances contre un autre,  
 sans nécessairement remettre en question le mécanisme qui les relie.
@@ -175,14 +163,12 @@ Je ne promeus rien de particulier.
 Je ne suis pas une gourou et je n'ai aucune envie de remplacer une religion par une autre.  
 Notre vie spirituelle et mentale reste notre responsabilité.
 
-J'ai simplement découvert, par expérience personnelle, que plus je nettoyais ma vie des anciennes constructions religieuses,  
-moins j'avais besoin d'une religion.  
+J'ai simplement découvert, par expérience personnelle, que plus je nettoyais ma vie des anciennes constructions religieuses, moins j'avais besoin d'une religion.  
 Les anciennes questions perdaient progressivement leur fascination.  
 Je n'avais plus besoin de chercher des réponses à des problèmes qui avaient parfois été fabriqués par les systèmes eux-mêmes.
 
 Mais cela ne signifie pas que je sois devenue athée ou agnostique.  
-Je ne pense pas que l'absence de religion implique l'absence de spiritualité,  
-ni que l'on doive choisir entre croire à un système religieux et considérer que la vie n'a aucun sens.
+Je ne pense pas que l'absence de religion implique l'absence de spiritualité, ni que l'on doive choisir entre croire à un système religieux et considérer que la vie n'a aucun sens.
 
 J'ai surtout compris que ce n'est pas l'absence de réponses qui est à l'origine de la souffrance.  
 C'est parfois la croyance que la vie ne vaut pas la peine d'être vécue tant que l'on ne possède pas toutes les réponses.
@@ -204,8 +190,7 @@ Elle est surtout une manière de remercier, aussi largement que possible, tout c
 Je ne me préoccupe plus tellement des étiquettes.  
 Les prêtres ont étiqueté les notions, les ont classées et se sont approprié leur interprétation.  
 Les athées ont parfois fait exactement la même chose à leur manière.  
-Il suffit de regarder les oppositions permanentes entre science et religion,  
-matière et esprit, raison et spiritualité.
+Il suffit de regarder les oppositions permanentes entre science et religion, matière et esprit, raison et spiritualité.
 
 Je ne considère pas que la science ou le rationalisme soient fondamentalement défectueux.  
 Je pense simplement qu'ils n'expliquent pas tout et que certaines de leurs hypothèses méritent d'être remises en question.  
@@ -213,8 +198,7 @@ Mais je ne vois pas pourquoi il faudrait choisir entre la science et la religion
 comme si ces deux approches étaient nécessairement incompatibles.
 
 Toutes ces divisions profitent surtout à ceux qui ont intérêt à nous faire adhérer à leur propre système.  
-Les religions ont leurs produits, les idéologies athées ont les leurs,  
-et les institutions politiques et commerciales ne sont pas en reste.
+Les religions ont leurs produits, les idéologies athées ont les leurs, et les institutions politiques et commerciales ne sont pas en reste.
 
 Au fond, le mécanisme est toujours assez semblable : on présente une interprétation du monde,  
 on explique pourquoi on devrait y adhérer, puis on vend les réponses qui vont avec.
@@ -227,15 +211,12 @@ le principe organisateur de l'existence et du renoncement la voie de son dépass
 Je ne nie pas la souffrance.  
 Je refuse simplement qu'elle devienne la définition de la vie.
 
-Je ne considère pas que renoncer soit nécessairement une forme de sagesse,  
-ni que l'inaction soit une forme supérieure d'accomplissement spirituel.
+Je ne considère pas que renoncer soit nécessairement une forme de sagesse, ni que l'inaction soit une forme supérieure d'accomplissement spirituel.
 
-Je préfère chercher à comprendre les causes des souffrances évitables,  
-agir sur celles que l'on peut supprimer et reconnaître tout ce qui, dans l'existence, mérite d'être vécu.
+Je préfère chercher à comprendre les causes des souffrances évitables, agir sur celles que l'on peut supprimer et reconnaître tout ce qui, dans l'existence, mérite d'être vécu.
 
 Je n'ai pas besoin de tout savoir pour apprécier ce qui existe.  
-Je n'ai pas besoin d'une religion pour éprouver de la gratitude,  
-ni d'une doctrine pour reconnaître la profondeur et le mystère du réel.
+Je n'ai pas besoin d'une religion pour éprouver de la gratitude, ni d'une doctrine pour reconnaître la profondeur et le mystère du réel.
 
 Et surtout, je ne vois aucune raison de considérer la vie comme un piège dont il faudrait sortir.
 
