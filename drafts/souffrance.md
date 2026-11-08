@@ -18,6 +18,8 @@ og_image: /statics/images/spiritualite/souffrance.webp
 
 ![souffrance](/statics/images/spiritualite/souffrance.webp)
 
+(réécriture d'un texte de 2023)
+
 Ce qui m'intéresse dans les grandes traditions religieuses,  
 c'est moins ce qu'elles prétendent nous apporter que les postulats sur lesquels elles reposent.  
 Et notamment cette idée selon laquelle la souffrance serait une caractéristique fondamentale de l'existence humaine,  
