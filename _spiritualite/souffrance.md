@@ -84,10 +84,8 @@ Les traditions orientales fonctionnent autrement : elles n'ont pas nécessaireme
 puisque leur postulat de départ est déjà suffisamment puissant.  
 Elles n'ont pas besoin de convaincre l'individu qu'il a mal agi pour lui faire considérer la vie comme une condition dont il faudrait se libérer.
 
-Historiquement, les classes sacerdotales ont souvent prospéré en interprétant  
-les souffrances humaines et en proposant les moyens de les soulager.  
-La maladie, les catastrophes, les décès et les malheurs pouvaient être interprétés comme la colère des dieux,  
-que seuls les prêtres étaient capables d'apaiser.  
+Historiquement, les classes sacerdotales ont souvent prospéré en interprétant les souffrances humaines et en proposant les moyens de les soulager.  
+La maladie, les catastrophes, les décès et les malheurs pouvaient être interprétés comme la colère des dieux, que seuls les prêtres étaient capables d'apaiser.  
 Le problème, c'est qu'il n'y avait finalement aucun intérêt à s'attaquer aux causes réelles.  
 Il était beaucoup plus rentable de proposer un traitement permanent.
 
