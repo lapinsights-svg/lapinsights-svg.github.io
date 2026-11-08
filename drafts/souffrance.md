@@ -13,7 +13,10 @@ tags:
   - bouddhisme
   - hindouisme
   - christianisme
+og_image: /statics/images/spiritualite/souffrance.webp
 ---
+
+![souffrance](/statics/images/spiritualite/souffrance.webp)
 
 Ce qui m'intéresse dans les grandes traditions religieuses,  
 c'est moins ce qu'elles prétendent nous apporter que les postulats sur lesquels elles reposent.  
