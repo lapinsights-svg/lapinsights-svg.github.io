@@ -68,10 +68,8 @@ Il lui fallait donc trouver une autre manière de donner un sens à son existenc
 Le renoncement des Upanishads lui en fournissait une.  
 Son inaction pouvait ainsi devenir une forme de service rendu à une religion considérée comme plus pure, qui exigeait le renoncement et le présentait comme la plus grande des saintetés.
 
-Il y a là un mécanisme assez particulier :  
-les personnes qui ont beaucoup souffert peuvent finir par devenir attachées à leur propre souffrance.  
-Elles ont parfois tellement investi dans celle-ci qu'envisager qu'une partie de ce qu'elles ont enduré  
-était inutile ou évitable reviendrait à invalider des années de leur existence.  
+Il y a là un mécanisme assez particulier : les personnes qui ont beaucoup souffert peuvent finir par devenir attachées à leur propre souffrance.  
+Elles ont parfois tellement investi dans celle-ci qu'envisager qu'une partie de ce qu'elles ont enduré était inutile ou évitable reviendrait à invalider des années de leur existence.  
 Et cette idée peut être beaucoup plus difficile à accepter que la souffrance elle-même.
 
 On retrouve un mécanisme comparable en Occident, même si les moyens sont différents.  
