@@ -80,9 +80,7 @@ On n'avait peut-être pas suffisamment prié, on n'avait pas respecté les bonne
 Et bien entendu, il existait toujours quelqu'un pour expliquer comment réparer tout cela.
 
 La culpabilité venait donc s'ajouter à l'épreuve initiale.  
-Les traditions orientales fonctionnent autrement : elles n'ont pas nécessairement besoin de cette culpabilité,  
-puisque leur postulat de départ est déjà suffisamment puissant.  
-Elles n'ont pas besoin de convaincre l'individu qu'il a mal agi pour lui faire considérer la vie comme une condition dont il faudrait se libérer.
+Les traditions orientales fonctionnent autrement : elles n'ont pas nécessairement besoin de cette culpabilité, puisque leur postulat de départ est déjà suffisamment puissant.  Elles n'ont pas besoin de convaincre l'individu qu'il a mal agi pour lui faire considérer la vie comme une condition dont il faudrait se libérer.
 
 Historiquement, les classes sacerdotales ont souvent prospéré en interprétant les souffrances humaines et en proposant les moyens de les soulager.  
 La maladie, les catastrophes, les décès et les malheurs pouvaient être interprétés comme la colère des dieux, que seuls les prêtres étaient capables d'apaiser.  
