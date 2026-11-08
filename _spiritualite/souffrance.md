@@ -138,10 +138,8 @@ On voit que le changement est considérable.
 Dans un cas, la vie est un piège dont il faut sortir.  
 Dans l'autre, elle est une réalité dont il faut apprendre à reconnaître la richesse.
 
-C'est précisément ce que je reproche au postulat initial :  
-il transforme une partie de l'existence en définition de l'existence tout entière.  
-Même les moments heureux finissent par être intégrés à cette conception négative,  
-puisqu'ils appartiennent eux aussi au cycle dont on cherche à sortir.
+C'est précisément ce que je reproche au postulat initial : il transforme une partie de l'existence en définition de l'existence tout entière.  
+Même les moments heureux finissent par être intégrés à cette conception négative, puisqu'ils appartiennent eux aussi au cycle dont on cherche à sortir.
 
 C'est une inversion assez extraordinaire du rapport à la vie.  
 Au lieu de considérer la naissance et la mort comme les deux dimensions d'une même réalité,  
@@ -150,8 +148,7 @@ on les transforme en éléments d'une condition dont il faudrait se délivrer.
 La philosophie de Lao-Tseu me semble beaucoup plus proche de cette autre conception.  
 Nietzsche également, dans sa tentative de renverser les valeurs héritées du christianisme, même s'il est resté marqué par certains aspects de la pensée qu'il combattait.
 
-Je me suis donc demandée pourquoi Schopenhauer avait choisi de remplacer le nihilisme du christianisme par une conception qui,  
-à certains égards, allait encore plus loin dans la négation de la vie.  
+Je me suis donc demandée pourquoi Schopenhauer avait choisi de remplacer le nihilisme du christianisme par une conception qui, à certains égards, allait encore plus loin dans la négation de la vie.  
 Pourquoi se détourner du christianisme pour se tourner vers le bouddhisme ou l'hindouisme si c'est pour retrouver, sous une autre forme, la même nécessité de renoncer à l'existence présente ?
 
 On échange simplement une caste de prêtres contre une autre, un système de croyances contre un autre, sans nécessairement remettre en question le mécanisme qui les relie.
@@ -197,8 +194,7 @@ comme si ces deux approches étaient nécessairement incompatibles.
 Toutes ces divisions profitent surtout à ceux qui ont intérêt à nous faire adhérer à leur propre système.  
 Les religions ont leurs produits, les idéologies athées ont les leurs, et les institutions politiques et commerciales ne sont pas en reste.
 
-Au fond, le mécanisme est toujours assez semblable : on présente une interprétation du monde,  
-on explique pourquoi on devrait y adhérer, puis on vend les réponses qui vont avec.
+En fait, le mécanisme est toujours assez semblable : on présente une interprétation du monde, on explique pourquoi on devrait y adhérer, puis on vend les réponses qui vont avec.
 
 Je préfère ne plus "acheter " cela.
 
