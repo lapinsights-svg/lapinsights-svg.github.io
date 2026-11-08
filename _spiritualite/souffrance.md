@@ -32,8 +32,7 @@ entretient ou amplifie à travers des croyances, des institutions et des organis
 
 Dans le bouddhisme, par exemple, la souffrance occupe une place absolument centrale.  
 Elle constitue le point de départ de toute la doctrine.  
-La première des Quatre Nobles Vérités est consacrée à Dukkha,  
-généralement traduit par souffrance ou insatisfaction.  
+La première des Quatre Nobles Vérités est consacrée à Dukkha, généralement traduit par souffrance ou insatisfaction.  
 Les trois autres vérités en découlent :  
 l'origine de cette souffrance, sa cessation et le chemin permettant d'y parvenir.  
 Toute la construction doctrinale s'organise donc autour de cette première affirmation.
@@ -102,8 +101,7 @@ que seuls les prêtres étaient capables d'apaiser.
 Le problème, c'est qu'il n'y avait finalement aucun intérêt à s'attaquer aux causes réelles.  
 Il était beaucoup plus rentable de proposer un traitement permanent.
 
-C'est un peu comme pour les fournisseurs d'énergie :  
-personne ne s'enrichit en nous fournissant gratuitement ce dont nous avons besoin.  
+C'est un peu comme pour les fournisseurs d'énergie : personne ne s'enrichit en nous fournissant gratuitement ce dont nous avons besoin.  
 Ce qui rapporte, c'est notre dépendance permanente.
 
 On retrouve ce mécanisme dans beaucoup d'autres domaines.  
@@ -156,8 +154,7 @@ Je me suis donc demandée pourquoi Schopenhauer avait choisi de remplacer le nih
 à certains égards, allait encore plus loin dans la négation de la vie.  
 Pourquoi se détourner du christianisme pour se tourner vers le bouddhisme ou l'hindouisme si c'est pour retrouver, sous une autre forme, la même nécessité de renoncer à l'existence présente ?
 
-On échange simplement une caste de prêtres contre une autre, un système de croyances contre un autre,  
-sans nécessairement remettre en question le mécanisme qui les relie.
+On échange simplement une caste de prêtres contre une autre, un système de croyances contre un autre, sans nécessairement remettre en question le mécanisme qui les relie.
 
 Je ne promeus rien de particulier.  
 Je ne suis pas une gourou et je n'ai aucune envie de remplacer une religion par une autre.  
@@ -205,8 +202,7 @@ on explique pourquoi on devrait y adhérer, puis on vend les réponses qui vont 
 
 Je préfère ne plus "acheter " cela.
 
-Ce que je remets fondamentalement en question, c'est cette habitude de faire de la souffrance  
-le principe organisateur de l'existence et du renoncement la voie de son dépassement.
+Ce que je remets fondamentalement en question, c'est cette habitude de faire de la souffrance le principe organisateur de l'existence et du renoncement la voie de son dépassement.
 
 Je ne nie pas la souffrance.  
 Je refuse simplement qu'elle devienne la définition de la vie.
