@@ -34,24 +34,19 @@ Les trois autres vérités en découlent :
 l'origine de cette souffrance, sa cessation et le chemin permettant d'y parvenir.  
 Toute la construction doctrinale s'organise donc autour de cette première affirmation.
 
-On retrouve une conception comparable dans les Upanishads, et notamment dans la Mundaka Upanishad,  
-qui promeut le Sarva Karma Sannyasa, ou le renoncement à toute action.
+On retrouve une conception comparable dans les Upanishads, et notamment dans la Mundaka Upanishad, qui promeut le Sarva Karma Sannyasa, ou le renoncement à toute action.
 
 Certains diront que ce renoncement ne concerne que les moines, puisque l'enseignant s'adresse à eux.  
 Mais historiquement, cette idée a largement dépassé le cadre monastique.  
-Comme dans le christianisme, l'islam et le judaïsme, la vie sacerdotale a été présentée comme supérieure,  
-et le renoncement a fini par imprégner différents niveaux de la vie ordinaire.  
+Comme dans le christianisme, l'islam et le judaïsme, la vie sacerdotale a été présentée comme supérieure, et le renoncement a fini par imprégner différents niveaux de la vie ordinaire.  
 Le bouddhisme, l'hindouisme et le jaïnisme sont également fondés sur l'idée de libération du Samsara, ce cycle de naissances, de morts et de renaissances.  
 Cette idée ne concerne évidemment pas uniquement les moines.  
 Tous les Hindous connaissent le Samsara et le Moksha.  
 Les moines peuvent consacrer davantage de temps à ces choses, mais ils sont aussi considérés comme plus saints pour cela.  
 Le renoncement finit ainsi par structurer toute une culture.
 
-Ce qui m'interroge, ce n'est pas le constat que la vie comporte de la souffrance,  
-mais la conclusion que l'on en tire.  
-À partir du moment où l'existence est considérée comme fondamentalement insatisfaisante,  
-la solution consiste à s'en détacher,  
-à renoncer au désir, à l'attachement et parfois même à l'action.
+Ce qui m'interroge, ce n'est pas le constat que la vie comporte de la souffrance, mais la conclusion que l'on en tire.  
+À partir du moment où l'existence est considérée comme fondamentalement insatisfaisante, la solution consiste à s'en détacher, à renoncer au désir, à l'attachement et parfois même à l'action.
 
 Or, sans ce postulat initial, il n'y aurait aucune raison de promouvoir le renoncement.  
 On ne pourrait tout simplement pas vendre l'idée qu'il faut renoncer à la vie à quelqu'un qui considère que cette vie est une chose merveilleuse.
