@@ -264,12 +264,29 @@ document.addEventListener("DOMContentLoaded", () => {
   function afficherConstellation(liste) {
     viderConstellation();
 
-    liste.forEach(echo => {
+    const mobile = window.matchMedia("(max-width: 600px)").matches;
+    const total = liste.length;
+
+    liste.forEach((echo, index) => {
       const point = document.createElement("div");
       point.classList.add("point-echo");
 
-      point.style.top = (15 + Math.random() * 75) + "%";
-      point.style.left = Math.random() * 90 + "%";
+      if (mobile) {
+        // Sur GSM : constellation resserrée, répartie dans la zone visible.
+        const colonnes = Math.min(4, Math.max(2, Math.ceil(Math.sqrt(total * 1.3))));
+        const rangees = Math.ceil(total / colonnes);
+        const colonne = index % colonnes;
+        const rangee = Math.floor(index / colonnes);
+        const largeurCellule = 76 / colonnes;
+        const hauteurCellule = 58 / rangees;
+
+        point.style.left = (12 + colonne * largeurCellule + largeurCellule * (0.25 + Math.random() * 0.5)) + "%";
+        point.style.top = (12 + rangee * hauteurCellule + hauteurCellule * (0.25 + Math.random() * 0.5)) + "%";
+      } else {
+        // Sur ordinateur : conserver la dispersion d'origine.
+        point.style.top = (15 + Math.random() * 75) + "%";
+        point.style.left = Math.random() * 90 + "%";
+      }
 
       point.dataset.title = echo.title;
       point.dataset.resume = echo.resume;
