@@ -10,7 +10,9 @@ tags:
 - nature
 - poésie
 title: Le jour se lève sur les Ardennes
+og_image: /statics/images/creations/lever.webp
 ---
+![Le jour se lève sur les Ardennes](/statics/images/creations/lever.webp)
 
 La nuit s'efface au cœur des forêts.\
 Une brume épaisse nappe les prairies,\
