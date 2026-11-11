@@ -27,11 +27,11 @@ et les grands hêtres semblent retenir leur souffle.
 
 Au loin, un chien aboie.\
 Deux fois, peut-être trois.\
-Sa voix traverse les prés,\
+Un grondement roule à travers les prés,\
 rebondit contre les flancs endormis des collines\
 puis se perd dans le mystère du matin.
 
-Alors le clocher sonne au cœur du village.\
+Alors le clocher sonne au sein du village.\
 Son pouls vibre à travers la brume,\
 s'élève au-dessus des toits ardoisés,\
 et dépose ses notes sur le velours des vallons.
@@ -49,7 +49,7 @@ La brume s'effiloche, mais ne disparaît pas tout à fait.\
 Elle garde pour elle quelques secrets du paysage.
 
 Et l'on reste là, sans chercher à retenir l'instant,\
-à respirer ce matin froid,\
+à respirer ce matin froid et langoureux,\
 à écouter un vieux tracteur qui ronfle au loin\
 et le chant timide des petits oiseaux de passage.
 
