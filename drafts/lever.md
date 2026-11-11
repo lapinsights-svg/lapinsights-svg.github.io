@@ -3,15 +3,16 @@ categories: creation
 date: 2026-11-11
 resume: Dans la brume des vallons ardennais
 tags:
-- ardennes
-- brume
-- matin
-- forêt
-- nature
-- poésie
+  - ardennes
+  - brume
+  - matin
+  - forêt
+  - nature
+  - poésie
 title: Le jour se lève sur les Ardennes
 og_image: /statics/images/creations/lever.webp
 ---
+
 ![Le jour se lève sur les Ardennes](/statics/images/creations/lever.webp)
 
 La nuit s'efface au cœur des forêts.\
@@ -31,7 +32,7 @@ Un grondement roule à travers les prés,\
 rebondit contre les flancs endormis des collines\
 puis se perd dans le mystère du matin.
 
-Alors le clocher sonne au sein du village.\
+Alors le clocher sonne au cœur du village.\
 Son pouls vibre à travers la brume,\
 s'élève au-dessus des toits ardoisés,\
 et dépose ses notes sur le velours des vallons.
@@ -60,5 +61,4 @@ avait besoin de quelques instants\
 pour se souvenir qu'il existe.
 
 ---
-
 Céleste R.
