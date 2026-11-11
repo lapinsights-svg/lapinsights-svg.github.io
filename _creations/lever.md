@@ -21,7 +21,7 @@ remonte des fossés, s'étire entre les arbres,\
 et vient jusqu'à nous, légère, presque palpable,\
 se mêler à l'air que l'on respire.
 
-Les collines ont disparu derrière un voile laiteux.\
+Les reliefs ont disparu derrière un voile laiteux.\
 Les maisons émergent à peine du silence,\
 les haies se dessinent en ombres hésitantes,\
 et les grands hêtres semblent retenir leur souffle.
