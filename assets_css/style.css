@@ -1541,12 +1541,58 @@ header.header-hidden {
 
 @media (max-width: 600px) {
 
+  /* Barre réorganisée pour tenir sur deux lignes sans comprimer les menus */
+  .barre-celeste {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.65rem 0.9rem;
+    padding: 0.65rem 0.75rem;
+  }
+
+  .titre-echos {
+    margin-right: 0;
+  }
+
+  .titre-archives {
+    width: 100%;
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .bloc-date {
+    gap: 0.4rem;
+  }
+
+  .barre-celeste select {
+    min-height: 38px;
+    padding: 0.45rem 0.55rem;
+    font-size: 16px;
+  }
+
+  /* Dégager la constellation de la barre fixe et lui donner la place utile */
+  .echos-contenu {
+    height: calc(100dvh - 125px);
+    margin-top: 125px;
+    overflow: hidden;
+  }
+
+  /* Étoiles nettement visibles, avec une zone tactile plus généreuse */
   .point-echo {
-    width: 2px;
-    height: 2px;
+    width: 8px;
+    height: 8px;
     box-shadow:
-      0 0 3px rgba(255, 255, 255, 0.9),
-      0 0 6px rgba(255, 255, 255, 0.5);
+      0 0 7px rgba(255, 255, 255, 1),
+      0 0 14px rgba(255, 255, 255, 0.85),
+      0 0 22px rgba(255, 255, 255, 0.45);
+    cursor: pointer;
+    touch-action: manipulation;
+  }
+
+  .point-echo::after {
+    content: "";
+    position: absolute;
+    inset: -10px;
+    border-radius: 50%;
   }
 
   @keyframes pulse-pre {
@@ -1556,7 +1602,7 @@ header.header-hidden {
   }
 
   .point-echo:hover {
-    transform: scale(2);
+    transform: scale(1.8);
   }
 
   .point-echo.revelation {
