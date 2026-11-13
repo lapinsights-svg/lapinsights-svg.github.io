@@ -54,7 +54,7 @@ Et l'on reste là, sans chercher à retenir l'instant,\
 à écouter un vieux tracteur qui ronfle au loin\
 et le chant timide des petits oiseaux de passage.
 
-Dans les Ardennes, le jour ne surgit pas.\
+Ici, le jour ne surgit pas.\
 Il se dépose doucement sur la terre,\
 comme si le monde, avant de recommencer,\
 avait besoin de quelques instants\
