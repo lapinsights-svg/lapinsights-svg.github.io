@@ -24,7 +24,7 @@ autre représentation du même mécanisme intérieur.
 
 ------------------------------------------------------------------------
 
-# 0. Dieu n'est pas un personnage extérieur à l'être
+# A. Dieu n'est pas un personnage extérieur à l'être
 
 Dans cette lecture, Dieu ne désigne pas un personnage extérieur qui
 observerait les hommes, se sentirait menacé par leur puissance ou
@@ -53,7 +53,7 @@ la menacer.
 
 ------------------------------------------------------------------------
 
-# 1. Éden et Babel : une même mécanique
+# B. Éden et Babel : une même mécanique
 
 Éden et Babel ne doivent pas nécessairement être compris comme deux
 événements successifs dans une chronologie historique.  
@@ -84,7 +84,7 @@ C'est le fondement de l'unité recherchée qui est en question.
 
 ------------------------------------------------------------------------
 
-# 2. La Parole dispersée
+# C. La Parole dispersée
 
 Le récit de Babel s'ouvre sur une situation d'unité apparente :
 
@@ -112,7 +112,7 @@ reconnaissance de ce qui les relie.
 
 ------------------------------------------------------------------------
 
-# 3. La ville et la tour : construire son propre fondement
+# D. La ville et la tour : construire son propre fondement
 
 Les hommes déclarent :
 
@@ -137,7 +137,7 @@ structure séparée à produire elle-même l'unité dont elle dépend déjà.
 
 Ce qui est désaxé ne peut pas accomplir ce qui suppose l'axe juste.
 
-## 3.1. Se donner sa propre identité
+## Se donner sa propre identité
 
 La formule "faisons-nous un nom " donne au projet de Babel une portée
 supplémentaire. Les hommes ne cherchent pas seulement à construire une
@@ -173,7 +173,7 @@ propose des identités particulières qui semblent séparer le Fils de sa Source
 
 ------------------------------------------------------------------------
 
-# 4. "Maintenant rien ne les empêcherait..."
+# E. "Maintenant rien ne les empêcherait..."
 
 Le texte rapporte cette parole :
 
@@ -204,7 +204,7 @@ peut devenir l'unité véritable.
 
 ------------------------------------------------------------------------
 
-# 5. La dispersion : manifestation d'une impossibilité
+# F. La dispersion : manifestation d'une impossibilité
 
 La confusion des langues et la dispersion des hommes constituent le
 dénouement du récit.
@@ -228,7 +228,7 @@ cohésion qui cherche à se produire elle-même.
 
 ------------------------------------------------------------------------
 
-# 6. L'unité n'est pas une construction
+# G. L'unité n'est pas une construction
 
 L'unité fondamentale ne résulte pas d'un accord, d'une langue commune,
 d'une organisation politique ou d'une entreprise collective.
@@ -247,7 +247,7 @@ n'a jamais cessé d'être.
 
 ------------------------------------------------------------------------
 
-# 7. Abraham : la réorientation
+# H. Abraham : la réorientation
 
 Après Babel, le récit biblique s'oriente vers Abraham.
 
@@ -271,7 +271,7 @@ voir ici ;
 
 ------------------------------------------------------------------------
 
-# 8. Le Christ : le fondement de l'unité
+# I. Le Christ : le fondement de l'unité
 
 Le Christ n'est pas une unité nouvellement créée pour réparer une
 division réelle du Fils.
@@ -290,7 +290,7 @@ qui faisait vivre la pluralité comme une fragmentation.
 
 ------------------------------------------------------------------------
 
-# 9. Une pluralité appelée à se reconnaître
+# J. Une pluralité appelée à se reconnaître
 
 Babel ne conduit pas à l'idée que toutes les expressions devraient
 devenir identiques, parler une seule langue ou se fondre dans une forme
