@@ -302,7 +302,7 @@ une erreur.
 Ce qui doit être rétabli n'est pas l'uniformité des formes, mais la
 reconnaissance de leur fondement commun.
 
-Les nations peuvent demeurer multiples sans être séparées dans leur
+Les nations - les fils - peuvent demeurer multiples sans être séparées dans leur
 être. La filialité est une ; ses expressions sont nombreuses.
 
 Le rassemblement véritable ne supprime donc pas la diversité. Il lui
