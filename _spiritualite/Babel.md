@@ -12,17 +12,17 @@ og_image: /statics/images/spiritualite/Babel.webp
 
 # Babel : l'impossibilité de l'unité construite
 
-Dans la lecture structurelle, Babel ne raconte pas simplement l'origine
-historique des langues. Le récit met en scène une difficulté plus profonde :  
+Dans la lecture structurelle, Babel ne raconte pas l'origine historique des langues.  
+Le récit met en scène une difficulté plus profonde :  
 la tentative de construire une unité à partir d'une conscience qui ne reconnaît plus son fondement.
 
 À Éden, la conscience bascule dans la perception de la séparation.  
-À Babel, cette même perception s'exprime collectivement. Ce qui était un
-désaxement de la conscience devient un projet commun : faire tenir
-l'unité par une construction, une ville, une tour et un nom.
+À Babel, cette même perception s'exprime collectivement.  
+Ce qui était un désaxement de la conscience devient un projet commun :  
+faire tenir l'unité par une construction, une ville, une tour et un nom.
 
-Babel ne décrit donc pas une rupture nouvelle dans l'être. Il donne une
-autre représentation du même mécanisme intérieur.
+Babel ne décrit donc pas une rupture nouvelle dans l'être.  
+Il donne une autre représentation du même mécanisme intérieur.
 
 ------------------------------------------------------------------------
 
