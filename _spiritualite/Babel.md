@@ -1,18 +1,20 @@
 ---
 categories: idees
-date: 2026-11-14
-episode: "Babel : l'impossibilité de l'unité construite"
+date: 2026-11-16
 layout: article
-resume: La dispersion de la reconnaissance de la Parole dans le Fils étendu. 
-title: La structure intérieure de la Bible
+resume: La dispersion de la reconnaissance de la Parole dans le Fils étendu.
+episode: "Lecture structurelle de la Bible"
+title: Babel, ou l'impossibilité de l'unité construite
+og_image: /statics/images/spiritualite/Babel.webp
 ---
+
+![Babel](/statics/images/spiritualite/Babel.webp)
 
 # Babel : l'impossibilité de l'unité construite
 
 Dans la lecture structurelle, Babel ne raconte pas simplement l'origine
-historique des langues. Le récit met en scène une difficulté plus
-profonde : la tentative de construire une unité à partir d'une
-conscience qui ne reconnaît plus son fondement.
+historique des langues. Le récit met en scène une difficulté plus profonde :  
+la tentative de construire une unité à partir d'une conscience qui ne reconnaît plus son fondement.
 
 À Éden, la conscience bascule dans la perception de la séparation.  
 À Babel, cette même perception s'exprime collectivement. Ce qui était un
@@ -24,7 +26,7 @@ autre représentation du même mécanisme intérieur.
 
 ------------------------------------------------------------------------
 
-# A. Dieu n'est pas un personnage extérieur à l'être
+# A. Dieu est ce qui Est.
 
 Dans cette lecture, Dieu ne désigne pas un personnage extérieur qui
 observerait les hommes, se sentirait menacé par leur puissance ou
@@ -35,21 +37,21 @@ peut être contredit, menacé ou modifié par une volonté particulière.
 
 On ne peut donc pas s'opposer à Ce qui Est.
 
-Une conscience peut se percevoir séparée de son fondement. Elle peut
-même organiser son existence à partir de cette perception. Mais elle ne
-peut pas transformer cette perception en une réalité ontologique.
+Une esprit peut se percevoir séparée de son fondement.  
+Elle peut même organiser son existence à partir de cette perception.  
+Mais elle ne peut pas transformer cette perception en une réalité ontologique.
 
-Les récits bibliques attribuent à Dieu des paroles, des décisions et des
-gestes. Cette forme narrative donne un visage à ce qui, dans notre
-lecture, relève d'une nécessité structurelle. Il ne s'agit pas de
+Les récits bibliques attribuent à Dieu des paroles, des décisions et des gestes.  
+Cette forme narrative donne un visage à ce qui, dans notre lecture,  
+relève d'une nécessité structurelle. Il ne s'agit pas de
 décrire l'action d'un agent extérieur, mais de rendre visible la limite
 inhérente à une configuration contradictoire.
 
 **Ce n'est pas Dieu qui s'oppose au projet des hommes. C'est le projet
 qui rencontre l'impossibilité inhérente à sa propre contradiction.**
 
-Ce qui Est n'a pas besoin de défendre son unité. Rien ne peut réellement
-la menacer.
+Ce qui Est n'a pas besoin de défendre son unité.  
+Rien ne peut réellement la menacer.
 
 ------------------------------------------------------------------------
 
@@ -68,10 +70,9 @@ condition du vivant.
 parlent une même langue, entreprennent une construction commune et
 cherchent à se faire un nom afin de ne pas être dispersés.
 
-Le récit présente ainsi une communauté qui veut assurer elle-même sa
-cohésion. Mais une unité construite depuis la perception de la
-séparation ne peut se substituer à l'unité qui précède toute
-construction.
+Le récit présente ainsi une filialité qui veut assurer elle-même sa cohésion.  
+Mais une unité construite depuis la perception de la séparation  
+ne peut se substituer à l'unité qui précède toute construction.
 
 Les deux récits exposent donc une même limite :
 
@@ -106,9 +107,9 @@ Les langues multiples ne sont donc pas en elles-mêmes une anomalie.
 Elles figurent, dans le récit, la perception d'une pluralité qui ne
 reconnaît plus spontanément son unité de fondement.
 
-La multiplicité des expressions n'est pas la séparation. La séparation
-apparaît lorsque les expressions sont vécues comme autonomes, sans
-reconnaissance de ce qui les relie.
+La multiplicité des expressions n'est pas la séparation.  
+La séparation apparaît lorsque les expressions sont vécues comme autonomes,  
+sans reconnaissance de ce qui les relie.
 
 ------------------------------------------------------------------------
 
@@ -123,8 +124,8 @@ Les hommes déclarent :
 La ville et la tour donnent une forme visible à leur projet.
 
 La construction n'est pas simplement matérielle. Elle représente une
-tentative de produire, depuis l'horizontalité, le principe même de
-l'unité. La communauté cherche à se garantir par sa propre organisation,
+tentative de produire, depuis l'horizontalité, le principe même de l'unité.  
+La filialité étendue cherche à se garantir par sa propre organisation,
 à établir son identité et à empêcher sa dispersion.
 
 La tour tend vers le ciel, mais son mouvement demeure celui d'une
@@ -132,24 +133,24 @@ construction autonome. Elle cherche à atteindre par l'édification ce qui
 ne peut être obtenu que par la reconnaissance du fondement.
 
 Le problème n'est donc pas de bâtir, de se rassembler ou de donner une
-forme commune à une communauté. Il réside dans la prétention d'une
-structure séparée à produire elle-même l'unité dont elle dépend déjà.
+forme commune à une filialité. Il réside dans la prétention d'une
+structure qui se perçoit séparée à produire elle-même l'unité dont elle dépend déjà.
 
 Ce qui est désaxé ne peut pas accomplir ce qui suppose l'axe juste.
 
 ## Se donner sa propre identité
 
 La formule "faisons-nous un nom " donne au projet de Babel une portée
-supplémentaire. Les hommes ne cherchent pas seulement à construire une
+supplémentaire. Les fils ne cherchent pas seulement à construire une
 ville et une tour : ils veulent établir eux-mêmes ce qui les désigne,
 les rassemble et leur donne une identité.
 
-Le nom devient ainsi une tentative d'auto-fondation. La communauté ne
+Le nom devient ainsi une tentative d'auto-fondation. La filialité ne
 cherche plus seulement à habiter une unité préexistante ; elle veut
 produire une identité collective qui puisse se suffire à elle-même.
 
 Dans cette lecture, cette prétention rejoint le mécanisme de l'ego
-décrit par l'UCEM. L'ego fabrique une identité de remplacement, fondée
+décrit par UCEM. L'ego fabrique une identité de remplacement, fondée
 sur la croyance que le Fils pourrait être autre chose que ce que Dieu a
 créé. Il substitue à l'identité reçue une identité construite.
 
@@ -159,15 +160,15 @@ faire un nom. Mais, dans notre lecture structurelle, cette volonté peut
 être comprise comme une substitution : l'identité particulière prétend
 prendre la place du Nom qui fonde toute identité.
 
-Le nom humain n'est pas mauvais en soi. Ce qui est en jeu, c'est la
-prétention à se donner une identité indépendante de la Source.
+Le nom humain n'est pas mauvais en soi. Il est illusoire.
+Ce qui est en jeu, c'est la prétention à se donner une identité indépendante de la Source.
 
-À Babel, le Fils désaxé ne cherche pas seulement à atteindre le Ciel.
+À Babel, le fils désaxé ne cherche pas seulement à atteindre le Ciel.
 Il cherche à se donner lui-même le nom qui fonde son existence.  
 Il substitue à l'identité reçue une identité construite.  
 Le Christ manifeste le mouvement inverse : il ne se donne pas un nom, il reconnaît le Nom.
 
-Cette opposition rejoint directement l'enseignement de l'UCEM :  
+Cette opposition rejoint directement l'enseignement d'UCEM :  
 le Nom de Dieu est l'identité partagée par toute la création, tandis que l'ego
 propose des identités particulières qui semblent séparer le Fils de sa Source.
 
@@ -191,9 +192,8 @@ Elle repose sur une coordination horizontale et sur un projet qui
 cherche à se donner son propre fondement.
 
 La question n'est pas de savoir si les hommes peuvent accomplir
-matériellement ce qu'ils entreprennent. Ils peuvent construire une ville
-et une tour. La limite est ailleurs : cette construction ne peut
-produire l'unité ontologique qu'elle prétend garantir.
+matériellement ce qu'ils entreprennent. La limite est ailleurs :  
+cette construction ne peut produire l'unité ontologique qu'elle prétend garantir.
 
 Le récit exprime cette impossibilité par la confusion des langues et la
 dispersion.
@@ -286,7 +286,7 @@ Il rend reconnaissable ce qui n'a jamais cessé d'être un.
 
 La distinction est décisive : la guérison ne consiste pas à reconstruire
 un être qui aurait été réellement brisé, mais à corriger la perception
-qui faisait vivre la pluralité comme une fragmentation.
+qui faisait vivre la pluralité comme une réelle fragmentation.
 
 ------------------------------------------------------------------------
 
@@ -296,17 +296,16 @@ Babel ne conduit pas à l'idée que toutes les expressions devraient
 devenir identiques, parler une seule langue ou se fondre dans une forme
 uniforme.
 
-La pluralité appartient à l'expression. Elle n'est pas, en elle-même,
-une erreur.
+La pluralité appartient à l'expression. Elle n'est pas, en elle-même, une erreur.
 
-Ce qui doit être rétabli n'est pas l'uniformité des formes, mais la
-reconnaissance de leur fondement commun.
+Ce qui doit être rétabli n'est pas l'uniformité des formes,  
+mais la reconnaissance de leur fondement commun.
 
-Les nations - les fils - peuvent demeurer multiples sans être séparées dans leur
-être. La filialité est une ; ses expressions sont nombreuses.
+Les nations - les fils - peuvent demeurer multiples sans être séparées dans leur être.  
+La filialité est une ; ses expressions sont nombreuses.
 
-Le rassemblement véritable ne supprime donc pas la diversité. Il lui
-restitue son intelligibilité à partir de l'unité.
+Le rassemblement véritable ne supprime donc pas la diversité.  
+Il lui restitue son intelligibilité à partir de l'unité.
 
 ------------------------------------------------------------------------
 
@@ -314,13 +313,10 @@ restitue son intelligibilité à partir de l'unité.
 
 Babel ne raconte pas la destruction d’une unité réelle,  
 mais l’impossibilité de la construire depuis une conscience désaxée.
-
 Éden décrit le basculement dans la perception de la séparation ;  
 Babel, son déploiement collectif.
-
 La Parole n’a jamais été divisée. Le Fils non plus.  
 Seule la reconnaissance de leur unité s’est dispersée.
-
 Les langues et les nations expriment ainsi la pluralité des formes,  
 non une fracture de l’être.
 
