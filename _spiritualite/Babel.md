@@ -71,7 +71,7 @@ Les deux récits exposent donc une même limite :
 - à Éden, la séparation ne peut se fixer dans une vie éternelle ;
 - à Babel, la séparation ne peut construire par elle-même une unité véritable.
 
-Il ne s'agit pas de condamner l'unité ni la communauté. C'est le fondement de l'unité recherchée qui est en question.
+Il ne s'agit pas de condamner l'unité ni la filialité. C'est le fondement de l'unité recherchée qui est en question.
 
 ---
 
@@ -110,8 +110,7 @@ Les hommes déclarent :
 
 La ville et la tour donnent une forme visible à leur projet.
 
-La construction n'est pas simplement matérielle.  
-Elle représente une tentative de produire, depuis l'horizontalité, le principe même de l'unité.  
+La construction représente une tentative de produire, depuis l'horizontalité, le principe même de l'unité.  
 La filialité étendue cherche à se garantir par sa propre organisation, à établir son identité et à empêcher sa dispersion.
 
 La tour tend vers le ciel, mais son mouvement demeure celui d'une construction autonome.  
@@ -124,14 +123,14 @@ Il réside dans la prétention d'une structure qui se perçoit séparée à prod
 
 ## Se donner sa propre identité
 
-La formule « faisons-nous un nom » donne au projet de Babel une portée supplémentaire.  
+La formule "faisons-nous un nom" donne au projet de Babel une portée supplémentaire.  
 Les fils ne cherchent pas seulement à construire une ville et une tour :  
 ils veulent établir eux-mêmes ce qui les désigne, les rassemble et leur donne une identité.
 
 Le nom devient ainsi une tentative d'auto-fondation. La filialité ne cherche plus seulement à habiter une unité préexistante ;  
 elle veut produire une identité collective qui puisse se suffire à elle-même.
 
-Dans cette lecture, cette prétention rejoint le mécanisme de l'ego décrit par l'UCEM.  
+Dans cette lecture, cette prétention rejoint le mécanisme de l'ego décrit par UCEM.  
 L'ego fabrique une identité de remplacement, fondée sur la croyance que le Fils pourrait être autre chose que ce que Dieu a créé.  
 Il substitue à l'identité reçue une identité construite.
 
@@ -146,7 +145,7 @@ Il substitue à l'identité reçue une identité construite.
 
 Le Christ manifeste le mouvement inverse : il ne se donne pas une identité séparée ; il reconnaît le Nom.
 
-Cette opposition rejoint l'enseignement de l'UCEM : le Nom de Dieu est l'identité partagée par toute la création,  
+Cette opposition rejoint l'enseignement de UCEM : le Nom de Dieu est l'identité partagée par toute la création,  
 tandis que l'ego propose des identités particulières qui semblent séparer le Fils de sa Source.
 
 ---
