@@ -119,9 +119,7 @@ Mais il devient difficile d'ignorer la question qui les relie toutes.
 
 Si un jour nous sommes capables de produire l'essentiel de nos richesses avec très peu de travail humain, continuerons-nous à considérer que le travail salarié doit rester la principale condition d'accès aux moyens de vivre ?
 
-Au fond, la question n'est pas de savoir si les machines remplaceront certains êtres humains.
-
-La question est de savoir ce que nous déciderons collectivement lorsque cela deviendra possible.
+La question est de savoir ce que nous déciderons collectivement quand les machines remplaceront certains êtres humains.
 
 Le progrès ne se mesure pas seulement à ce que les machines savent faire.
 
