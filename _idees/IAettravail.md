@@ -3,9 +3,12 @@ title: "IA, robotisation : que devient une société qui n'a plus besoin de nous
 date: 2026-11-19
 slug: "ia-travail-subsistance"
 categories: idees
-resume: "L'automatisation promet une production moins dépendante du travail humain. Mais comment préserver les moyens d'existence lorsque le salaire reste la principale porte d'accès aux richesses ?"
+resume: "Comment préserver les moyens d'existence lorsque le salaire reste la principale porte d'accès aux richesses ?"
 keywords: ["IA", "robotisation", "travail", "emploi", "automatisation", "productivité", "subsistance", "droits sociaux", "Territoires d'idées"]
+og_image: /statics/images/idees/Automatisation.webp
 ---
+
+![Automatisation](/statics/images/idees/Automatisation.webp)
 
 # IA, robotisation : que devient une société qui n'a plus besoin de nous pour produire ?
 
@@ -15,19 +18,23 @@ Peut-être.
 
 Mais une question me semble largement sous-estimée : que devient une société qui continue à faire du travail la condition normale de l'existence alors qu'elle cherche en même temps à réduire le besoin de travail humain ?
 
-Pendant longtemps, l'histoire paraissait rassurante. Les machines remplaçaient certains métiers, puis d'autres apparaissaient. Chaque révolution technique détruisait des emplois avant d'en créer de nouveaux.
+Pendant longtemps, l'histoire paraissait rassurante. Les machines remplaçaient certains métiers, puis d'autres apparaissaient.  
+Chaque révolution technique détruisait des emplois avant d'en créer de nouveaux.
 
 Beaucoup pensent que le même phénomène se reproduira avec l'intelligence artificielle.
 
 Rien ne permet pourtant de l'affirmer.
 
-L'automatisation ne concerne plus seulement les chaînes de production. Elle s'étend désormais aux activités administratives, intellectuelles, techniques et créatives. Elle rédige, analyse, programme, traduit, conseille ou conçoit.
+L'automatisation ne concerne plus seulement les chaînes de production.  
+Elle s'étend désormais aux activités administratives, intellectuelles, techniques et créatives.  
+Elle rédige, analyse, programme, traduit, conseille ou conçoit.
 
 Peut-être que de nouveaux emplois apparaîtront.
 
 Peut-être aussi qu'ils seront moins nombreux, plus spécialisés ou accessibles à une partie seulement de la population.
 
-Le problème n'est donc pas uniquement celui du nombre d'emplois disponibles. Il concerne la place que chacun pourra encore occuper dans une économie qui a besoin de moins en moins de travail humain pour fonctionner.
+Le problème n'est donc pas uniquement celui du nombre d'emplois disponibles.  
+Il concerne la place que chacun pourra encore occuper dans une économie qui a besoin de moins en moins de travail humain pour fonctionner.
 
 Imaginons une entreprise capable de produire autant avec deux fois moins de salariés.
 
@@ -43,7 +50,8 @@ Une société peut devenir plus efficace tout en réduisant pour une partie de s
 
 Un autre paradoxe apparaît immédiatement.
 
-Les entreprises remplacent des travailleurs par des machines afin de produire davantage. Mais les machines n'achètent rien. Une économie a besoin de producteurs. Elle a aussi besoin de consommateurs.
+Les entreprises remplacent des travailleurs par des machines afin de produire davantage.  
+Mais les machines n'achètent rien. Une économie a besoin de producteurs. Elle a aussi besoin de consommateurs.
 
 Qui achètera les biens et les services lorsque les revenus tirés du travail deviendront plus rares ?
 
@@ -63,11 +71,15 @@ Il est social.
 
 Il est juridique.
 
-En Belgique, l'article 23 de la Constitution reconnaît à chacun le droit de mener une vie conforme à la dignité humaine. Ce droit comprend notamment le droit au travail, le libre choix d'une activité professionnelle, une politique de l'emploi visant un niveau d'emploi stable et élevé ainsi que le droit à la sécurité sociale et à l'aide sociale.
+En Belgique, l'article 23 de la Constitution reconnaît à chacun le droit de mener une vie conforme à la dignité humaine.  
+Ce droit comprend notamment le droit au travail, le libre choix d'une activité professionnelle,  
+une politique de l'emploi visant un niveau d'emploi stable et élevé ainsi que le droit à la sécurité sociale et à l'aide sociale.
 
-En France, le préambule de la Constitution de 1946 affirme que chacun a le devoir de travailler mais aussi le droit d'obtenir un emploi. Il reconnaît également le droit à des moyens convenables d'existence pour les personnes qui ne sont pas en mesure de travailler.
+En France, le préambule de la Constitution de 1946 affirme que chacun a le devoir de travailler mais aussi le droit d'obtenir un emploi.  
+Il reconnaît également le droit à des moyens convenables d'existence pour les personnes qui ne sont pas en mesure de travailler.
 
-À l'échelle européenne, la Charte des droits fondamentaux de l'Union européenne protège le droit de travailler, le droit à des conditions de travail justes et équitables ainsi que le droit à la sécurité sociale et à l'aide sociale.
+À l'échelle européenne, la Charte des droits fondamentaux de l'Union européenne protège le droit de travailler,  
+le droit à des conditions de travail justes et équitables ainsi que le droit à la sécurité sociale et à l'aide sociale.
 
 Ces textes ne garantissent pas que chacun disposera toujours d'un emploi.
 
@@ -114,3 +126,7 @@ La question est de savoir ce que nous déciderons collectivement lorsque cela de
 Le progrès ne se mesure pas seulement à ce que les machines savent faire.
 
 Il se mesure aussi à la manière dont une société choisit de répartir les richesses qu'elles rendent possibles.
+
+---
+
+Céleste R.
