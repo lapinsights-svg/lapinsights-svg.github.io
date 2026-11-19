@@ -1,5 +1,5 @@
 ---
-title: "IA, robotisation : que devient une société qui n'a plus besoin de nous pour produire ?"
+title: "Que devient une société qui n'a plus besoin de nous pour produire ?"
 date: 2026-11-19
 slug: "ia-travail-subsistance"
 categories: idees
