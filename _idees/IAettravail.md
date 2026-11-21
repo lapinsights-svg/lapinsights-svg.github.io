@@ -1,6 +1,6 @@
 ---
 title: "Que devient une société qui n'a plus besoin de nous pour produire ?"
-date: 2026-11-19
+date: 2026-11-21
 slug: "ia-travail-subsistance"
 categories: idees
 resume: "Comment préserver les moyens d'existence lorsque le salaire reste la principale porte d'accès aux richesses ?"
