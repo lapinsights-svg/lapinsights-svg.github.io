@@ -7,6 +7,17 @@ title: L'empreinte du dernier souffle
 og_image: /statics/images/creations/empreinte.webp
 ---
 
+*Cliquer sur la vidéo pour voir la sculpture.*
+
+<video controls autoplay muted loop playsinline 
+       style="width:100%; max-width:480px; border-radius:12px; display:block; margin:auto;">
+  <source src="https://pub-914b23d6d66941e0912cc9a09679bec4.r2.dev/empreinte.mp4" type="video/mp4">
+  Votre navigateur ne peut pas lire cette vidéo.
+</video>
+
+<br><br>
+
+
 # L'empreinte du dernier souffle
 
 Ça y est...\
