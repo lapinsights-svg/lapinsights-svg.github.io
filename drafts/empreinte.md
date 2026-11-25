@@ -89,16 +89,16 @@ Et cette présence que l'on sentait si intensément
 devient soudain inaccessible.
 
 Où es-tu partie, maman ?  
-À quel instant as-tu quitté ce monde ?
+À quel instant as-tu quitté ce monde ?  
 
 Je ne sais pas.
 
-Je sais seulement que j'ai voulu garder de toi. 
+Je sais seulement que j'ai voulu garder de toi.  
 bien davantage que des photographies ou des souvenirs :  
 ta chaleur, ta douceur,  
 la sensation de ta peau sous mes doigts.
 
-Je voulais que mon corps se souvienne  
+Je voulais que mon corps se souvienne   
 de ce que ma mémoire pourrait un jour perdre.
 
 Alors j'ai essayé de te retenir entièrement en moi.
