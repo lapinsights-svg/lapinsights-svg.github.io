@@ -67,6 +67,7 @@ la moindre trace de ton existence.
 Je voulais que cela devienne une empreinte.\
 Une empreinte profonde,\
 indélébile,\
+dont je resterais imprégnée,\
 que le temps ne pourrait ni user ni effacer.
 
 Je savais pourtant que tu allais partir.\
@@ -116,7 +117,7 @@ et que l'on ne peut plus atteindre ?
 Je ne sais pas.
 
 Je sais seulement que je t'ai tenue.\
-Que j'ai massé tes pieds\
+Que j'ai massé longuement tes pieds\
 Que j'ai voulu garder de toi bien davantage\
 que des photographies ou des souvenirs.
 
