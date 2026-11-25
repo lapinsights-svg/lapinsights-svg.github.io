@@ -70,16 +70,16 @@ que le temps ne pourrait ni user ni effacer.
 Puis ton dernier souffle s'est éteint dans mes bras.  
 
 Ton âme est sortie par ta bouche.  
-Ou peut-être avant…. 
+Ou peut-être avant…  
 Peut-être avait-elle déjà commencé son voyage,  
-au fil de ces années où ton esprit. 
+au fil de ces années où ton esprit.  
 s'éloignait peu à peu de notre monde.
 
 Et pourtant, ton corps était là.  
 Je pouvais encore le toucher,  
 retrouver sa texture,  
 sentir ton flux lumineux,  
-comme si quelque chose de toi. 
+comme si quelque chose de toi.  
 me permettait encore de te rejoindre.  
 
 Il y a quelque chose de vertigineux dans la mort.  
