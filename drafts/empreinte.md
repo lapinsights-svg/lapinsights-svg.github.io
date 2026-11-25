@@ -39,7 +39,7 @@ je n'ai pas pu cesser de te parler.
 Les mots venaient, sans ordre, sans retenue,  
 portés par les sanglots qui me secouaient.  
 Je pleurais tout contre ton visage,  
-si près de toi que mes larmes et mon souffle. 
+si près de toi que mes larmes et mon souffle  
 se mêlaient peut-être encore aux tiens.  
 
 Je te parlais comme si tu pouvais m'entendre,  
