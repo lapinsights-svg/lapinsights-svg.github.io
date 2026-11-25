@@ -77,7 +77,7 @@ s'éloignait peu à peu de notre monde.
 
 Et pourtant, ton corps était là.  
 Je pouvais encore le toucher,  
-retrouver sa texture,  
+retrouver sa densité,  
 sentir ton flux lumineux,  
 comme si quelque chose de toi.  
 me permettait encore de te rejoindre.  
