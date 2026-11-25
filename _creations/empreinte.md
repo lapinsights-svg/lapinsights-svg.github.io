@@ -119,7 +119,7 @@ Peut-être est-ce cela, finalement,
 la seule éternité que nous puissions toucher :  
 ce filigrane charnel laissé par un être aimé,  
 cette signature si profondément inscrite en nous  
-qu'aucune séparation ne pourra la délier.
+qu'aucune séparation ne pourra l'abolir.
 
 ---
 
