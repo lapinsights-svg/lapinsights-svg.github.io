@@ -4,6 +4,7 @@ date: 2026-11-25
 layout: article
 resume: Au moment du dernier souffle de ma mère.
 title: L'empreinte du dernier souffle
+og_image: /statics/images/creations/empreinte.webp
 ---
 
 # L'empreinte du dernier souffle
