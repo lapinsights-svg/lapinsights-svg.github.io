@@ -2,9 +2,7 @@
 categories: creations
 date: 2026-11-25
 layout: article
-resume: Au moment du dernier souffle de sa mère, une fille tente de
-  retenir la chaleur de sa peau, son parfum et la trace sensible d'une
-  présence aimée.
+resume: Au moment du dernier souffle de ma mère.
 title: L'empreinte du dernier souffle
 ---
 
@@ -74,7 +72,7 @@ que le temps ne pourrait ni user ni effacer.
 Je savais pourtant que tu allais partir.\
 Et peut-être est-ce pour cela que je te touchais ainsi,\
 avec cette urgence silencieuse\
-de celui qui sait que chaque seconde est désormais unique.
+de celle qui sait que chaque seconde est désormais unique.
 
 Puis ton dernier souffle s'est éteint dans mes bras.
 
@@ -94,8 +92,8 @@ où le monde semblait perdre ses contours.
 
 Et pourtant, ton corps était là.\
 Je pouvais encore le toucher.\
-Sentir sa chaleur.\
-Retrouver son parfum.\
+Sentir ton aura.\
+Retrouver sa texture.\
 Caresser cette peau qui avait été la tienne\
 et qui, pendant un instant encore,\
 me permettait de te rejoindre.
@@ -118,7 +116,7 @@ et que l'on ne peut plus atteindre ?
 Je ne sais pas.
 
 Je sais seulement que je t'ai tenue.\
-Que je t'ai caressée.\
+Que j'ai massé tes pieds\
 Que j'ai voulu garder de toi bien davantage\
 que des photographies ou des souvenirs.
 
@@ -138,7 +136,7 @@ On ne retient pas un dernier souffle.\
 On ne retient pas celle qui s'en va.
 
 On peut seulement aimer,\
-toucher, caresser,\
+toucher, humer, caresser,\
 et accueillir dans sa propre chair\
 l'empreinte de celui ou celle qui nous quitte.
 
@@ -156,3 +154,7 @@ cette empreinte laissée par un être aimé,\
 si profondément inscrite en nous\
 qu'aucune séparation ne pourra jamais\
 en effacer complètement la trace.
+
+---
+
+Céleste R.
